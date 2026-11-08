@@ -213,6 +213,62 @@ def install_worker(serial):
             JOB["running"] = False
 
 
+
+def download_worker():
+    with JOB_LOCK:
+        JOB.update({"running": True, "ok": None, "message": "Bắt đầu tải XAPK từ GitHub LFS", "log": []})
+    urls = [
+        "https://media.githubusercontent.com/media/uyenvjp/slayerkui_v1/main/00_APK_GOC/Slayer%2BLegend%2B_%2BIdle%2BRPG_700.0.4_APKPure.xapk",
+        "https://github.com/uyenvjp/slayerkui_v1/raw/refs/heads/main/00_APK_GOC/Slayer%2BLegend%2B_%2BIdle%2BRPG_700.0.4_APKPure.xapk",
+    ]
+    try:
+        DATA.mkdir(parents=True, exist_ok=True)
+        for url in urls:
+            tmp = DATA / "download.tmp"
+            try:
+                log_job("Đang tải từ nguồn GitHub...")
+                req = Request(url, headers={"User-Agent": "SlayerLocalADB/0.1"})
+                with urlopen(req, timeout=45) as response, tmp.open("wb") as dst:
+                    digest = hashlib.sha256()
+                    size = 0
+                    last_notice = 0
+                    while True:
+                        chunk = response.read(2 * 1024 * 1024)
+                        if not chunk:
+                            break
+                        size += len(chunk)
+                        if size > EXPECTED_SIZE:
+                            raise ValueError("Dữ liệu tải lớn hơn file gốc.")
+                        dst.write(chunk)
+                        digest.update(chunk)
+                        if size - last_notice >= 32 * 1024 * 1024:
+                            log_job(f"Đã tải {size / 1048576:.1f} / {EXPECTED_SIZE / 1048576:.1f} MiB")
+                            last_notice = size
+                if size != EXPECTED_SIZE or digest.hexdigest() != EXPECTED_SHA256:
+                    raise ValueError("GitHub trả về pointer Git LFS hoặc file sai SHA-256.")
+                if not zipfile.is_zipfile(tmp):
+                    raise ValueError("Nội dung tải về không phải XAPK ZIP.")
+                os.replace(tmp, SOURCE)
+                log_job("XAPK đã tải và xác minh SHA-256 thành công.")
+                with JOB_LOCK:
+                    JOB["ok"] = True
+                return
+            except (OSError, ValueError) as exc:
+                log_job("Nguồn tải không thành công: " + str(exc))
+            finally:
+                if tmp.exists():
+                    tmp.unlink()
+        raise RuntimeError("GitHub LFS không cấp file gốc. Hãy tải XAPK thủ công và upload qua web.")
+    except (RuntimeError, OSError) as exc:
+        log_job("LỖI: " + str(exc))
+        with JOB_LOCK:
+            JOB["ok"] = False
+    finally:
+        with JOB_LOCK:
+            JOB["running"] = False
+
+
+
 class DashboardHandler(BaseHTTPRequestHandler):
     server_version = "SlayerLocalADB/0.1"
 
@@ -266,6 +322,9 @@ class DashboardHandler(BaseHTTPRequestHandler):
         if path == "/":
             html = (ROOT / "dashboard.html").read_bytes()
             return self.send_bytes(200, html, "text/html; charset=utf-8")
+        if path == "/style.css":
+            return self.send_bytes(200, (ROOT / "style.css").read_bytes(),
+                                   "text/css; charset=utf-8")
         if path == "/app.js":
             script = (ROOT / "app.js").read_text("utf-8").replace("__CSRF_PLACEHOLDER__", CSRF)
             return self.send_bytes(200, script.encode("utf-8"),
@@ -317,6 +376,14 @@ class DashboardHandler(BaseHTTPRequestHandler):
                     return self.reply(200, {"ok": True, "sha256": EXPECTED_SHA256})
                 finally:
                     UPLOAD_LOCK.release()
+            if path == "/api/download":
+                self.read_json()
+                with JOB_LOCK:
+                    if JOB["running"]:
+                        return self.reply(409, {"error": "job_busy"})
+                    JOB["running"] = True
+                threading.Thread(target=download_worker, daemon=True).start()
+                return self.reply(202, {"ok": True, "message": "download_started"})
             if path == "/api/install":
                 payload = self.read_json()
                 serial = payload.get("serial")
