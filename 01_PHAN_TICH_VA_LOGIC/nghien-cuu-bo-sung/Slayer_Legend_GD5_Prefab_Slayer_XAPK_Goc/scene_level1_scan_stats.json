@@ -1,0 +1,109 @@
+{
+  "gameobjects": 40554,
+  "name_parsed": 40554,
+  "parse_failures": 0,
+  "unique_names": 4768,
+  "keyword_matched_count": 1080,
+  "name_examples": [
+    [
+      "PowerupGlow8",
+      1150
+    ],
+    [
+      "MagicDust",
+      1013
+    ],
+    [
+      "Image",
+      815
+    ],
+    [
+      "Particles",
+      809
+    ],
+    [
+      "ClockWise",
+      636
+    ],
+    [
+      "beam (3)",
+      635
+    ],
+    [
+      "Reverse",
+      635
+    ],
+    [
+      "beam_clock",
+      635
+    ],
+    [
+      "beam (4)",
+      635
+    ],
+    [
+      "beam (5)",
+      635
+    ],
+    [
+      "beam_clock (3)",
+      635
+    ],
+    [
+      "beam",
+      635
+    ],
+    [
+      "beam (1)",
+      635
+    ],
+    [
+      "beam_clock (2)",
+      635
+    ],
+    [
+      "beam (2)",
+      635
+    ],
+    [
+      "beam_clock (1)",
+      635
+    ],
+    [
+      "t_title",
+      571
+    ],
+    [
+      "ParticleUI",
+      571
+    ],
+    [
+      "Panel",
+      443
+    ],
+    [
+      "SwordHitMagicBlue 1",
+      404
+    ],
+    [
+      "Ring",
+      281
+    ],
+    [
+      "circle",
+      272
+    ],
+    [
+      "GameObject",
+      243
+    ],
+    [
+      "i_grade",
+      231
+    ],
+    [
+      "Halo_Epic",
+      229
+    ]
+  ]
+}

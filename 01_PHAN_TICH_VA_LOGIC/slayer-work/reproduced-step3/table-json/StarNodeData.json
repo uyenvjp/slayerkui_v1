@@ -1,0 +1,1482 @@
+[
+  {
+    "Id": 101,
+    "ConstellationIndex": 1,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 1,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 102,
+    "ConstellationIndex": 1,
+    "DmgType": 1,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 4,
+    "StarNodeBuffType": 7,
+    "Value": 6
+  },
+  {
+    "Id": 103,
+    "ConstellationIndex": 1,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 9,
+    "StarNodeBuffType": 10,
+    "Value": 5
+  },
+  {
+    "Id": 104,
+    "ConstellationIndex": 1,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 11,
+    "Value": 10
+  },
+  {
+    "Id": 201,
+    "ConstellationIndex": 2,
+    "DmgType": 4,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 9,
+    "Value": 5
+  },
+  {
+    "Id": 202,
+    "ConstellationIndex": 2,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 4,
+    "StarNodeBuffType": 7,
+    "Value": 6
+  },
+  {
+    "Id": 203,
+    "ConstellationIndex": 2,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 9,
+    "StarNodeBuffType": 10,
+    "Value": 5
+  },
+  {
+    "Id": 204,
+    "ConstellationIndex": 2,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 11,
+    "Value": 10
+  },
+  {
+    "Id": 205,
+    "ConstellationIndex": 2,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 4,
+    "Value": 10
+  },
+  {
+    "Id": 206,
+    "ConstellationIndex": 2,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 5,
+    "Value": 9
+  },
+  {
+    "Id": 207,
+    "ConstellationIndex": 2,
+    "DmgType": 4,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 7,
+    "Value": 5
+  },
+  {
+    "Id": 208,
+    "ConstellationIndex": 2,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 7,
+    "Value": 5
+  },
+  {
+    "Id": 209,
+    "ConstellationIndex": 2,
+    "DmgType": 4,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 12,
+    "StarNodeBuffType": 4,
+    "Value": 5
+  },
+  {
+    "Id": 210,
+    "ConstellationIndex": 2,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 1,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 211,
+    "ConstellationIndex": 2,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 301,
+    "ConstellationIndex": 3,
+    "DmgType": 3,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 4,
+    "Value": 10
+  },
+  {
+    "Id": 302,
+    "ConstellationIndex": 3,
+    "DmgType": 3,
+    "Size": 3,
+    "Point": 100,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 4,
+    "Value": 8
+  },
+  {
+    "Id": 303,
+    "ConstellationIndex": 3,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 7,
+    "Value": 7
+  },
+  {
+    "Id": 304,
+    "ConstellationIndex": 3,
+    "DmgType": 3,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 305,
+    "ConstellationIndex": 3,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 9,
+    "StarNodeBuffType": 10,
+    "Value": 5
+  },
+  {
+    "Id": 306,
+    "ConstellationIndex": 3,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 11,
+    "Value": 10
+  },
+  {
+    "Id": 307,
+    "ConstellationIndex": 3,
+    "DmgType": 3,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 4,
+    "Value": 5
+  },
+  {
+    "Id": 308,
+    "ConstellationIndex": 3,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 12,
+    "StarNodeBuffType": 4,
+    "Value": 5
+  },
+  {
+    "Id": 309,
+    "ConstellationIndex": 3,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 8,
+    "StarNodeBuffType": 8,
+    "Value": 10
+  },
+  {
+    "Id": 310,
+    "ConstellationIndex": 3,
+    "DmgType": 3,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 5,
+    "Value": 6
+  },
+  {
+    "Id": 311,
+    "ConstellationIndex": 3,
+    "DmgType": 3,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 5,
+    "Value": 9
+  },
+  {
+    "Id": 312,
+    "ConstellationIndex": 3,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 9,
+    "Value": 5
+  },
+  {
+    "Id": 313,
+    "ConstellationIndex": 3,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 4,
+    "StarNodeBuffType": 7,
+    "Value": 6
+  },
+  {
+    "Id": 314,
+    "ConstellationIndex": 3,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 7,
+    "Value": 5
+  },
+  {
+    "Id": 315,
+    "ConstellationIndex": 3,
+    "DmgType": 3,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 1,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 316,
+    "ConstellationIndex": 3,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 7,
+    "Value": 5
+  },
+  {
+    "Id": 401,
+    "ConstellationIndex": 4,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 5,
+    "Value": 9
+  },
+  {
+    "Id": 402,
+    "ConstellationIndex": 4,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 11,
+    "Value": 10
+  },
+  {
+    "Id": 403,
+    "ConstellationIndex": 4,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 9,
+    "StarNodeBuffType": 10,
+    "Value": 5
+  },
+  {
+    "Id": 404,
+    "ConstellationIndex": 4,
+    "DmgType": 2,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 4,
+    "Value": 10
+  },
+  {
+    "Id": 405,
+    "ConstellationIndex": 4,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 4,
+    "StarNodeBuffType": 7,
+    "Value": 6
+  },
+  {
+    "Id": 406,
+    "ConstellationIndex": 4,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 1,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 501,
+    "ConstellationIndex": 5,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 9,
+    "StarNodeBuffType": 10,
+    "Value": 5
+  },
+  {
+    "Id": 502,
+    "ConstellationIndex": 5,
+    "DmgType": 1,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 503,
+    "ConstellationIndex": 5,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 9,
+    "Value": 5
+  },
+  {
+    "Id": 504,
+    "ConstellationIndex": 5,
+    "DmgType": 1,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 7,
+    "Value": 5
+  },
+  {
+    "Id": 505,
+    "ConstellationIndex": 5,
+    "DmgType": 1,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 7,
+    "Value": 5
+  },
+  {
+    "Id": 506,
+    "ConstellationIndex": 5,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 5,
+    "Value": 9
+  },
+  {
+    "Id": 507,
+    "ConstellationIndex": 5,
+    "DmgType": 1,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 4,
+    "StarNodeBuffType": 7,
+    "Value": 6
+  },
+  {
+    "Id": 508,
+    "ConstellationIndex": 5,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 4,
+    "Value": 10
+  },
+  {
+    "Id": 509,
+    "ConstellationIndex": 5,
+    "DmgType": 1,
+    "Size": 3,
+    "Point": 100,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 7,
+    "Value": 7
+  },
+  {
+    "Id": 510,
+    "ConstellationIndex": 5,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 1,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 511,
+    "ConstellationIndex": 5,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 11,
+    "Value": 10
+  },
+  {
+    "Id": 512,
+    "ConstellationIndex": 5,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 4,
+    "Value": 5
+  },
+  {
+    "Id": 513,
+    "ConstellationIndex": 5,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 12,
+    "StarNodeBuffType": 4,
+    "Value": 5
+  },
+  {
+    "Id": 601,
+    "ConstellationIndex": 6,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 5,
+    "Value": 9
+  },
+  {
+    "Id": 602,
+    "ConstellationIndex": 6,
+    "DmgType": 4,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 7,
+    "Value": 5
+  },
+  {
+    "Id": 603,
+    "ConstellationIndex": 6,
+    "DmgType": 4,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 12,
+    "StarNodeBuffType": 4,
+    "Value": 5
+  },
+  {
+    "Id": 604,
+    "ConstellationIndex": 6,
+    "DmgType": 4,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 9,
+    "Value": 5
+  },
+  {
+    "Id": 605,
+    "ConstellationIndex": 6,
+    "DmgType": 4,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 7,
+    "Value": 5
+  },
+  {
+    "Id": 606,
+    "ConstellationIndex": 6,
+    "DmgType": 4,
+    "Size": 3,
+    "Point": 100,
+    "BuffGameModeType": 8,
+    "StarNodeBuffType": 8,
+    "Value": 10
+  },
+  {
+    "Id": 607,
+    "ConstellationIndex": 6,
+    "DmgType": 4,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 4,
+    "StarNodeBuffType": 7,
+    "Value": 6
+  },
+  {
+    "Id": 608,
+    "ConstellationIndex": 6,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 1,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 609,
+    "ConstellationIndex": 6,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 610,
+    "ConstellationIndex": 6,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 4,
+    "Value": 5
+  },
+  {
+    "Id": 611,
+    "ConstellationIndex": 6,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 9,
+    "StarNodeBuffType": 10,
+    "Value": 5
+  },
+  {
+    "Id": 612,
+    "ConstellationIndex": 6,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 11,
+    "Value": 10
+  },
+  {
+    "Id": 613,
+    "ConstellationIndex": 6,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 4,
+    "Value": 10
+  },
+  {
+    "Id": 614,
+    "ConstellationIndex": 6,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 5,
+    "Value": 6
+  },
+  {
+    "Id": 701,
+    "ConstellationIndex": 7,
+    "DmgType": 3,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 702,
+    "ConstellationIndex": 7,
+    "DmgType": 3,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 7,
+    "Value": 5
+  },
+  {
+    "Id": 703,
+    "ConstellationIndex": 7,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 1,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 704,
+    "ConstellationIndex": 7,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 4,
+    "StarNodeBuffType": 7,
+    "Value": 6
+  },
+  {
+    "Id": 705,
+    "ConstellationIndex": 7,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 9,
+    "StarNodeBuffType": 10,
+    "Value": 5
+  },
+  {
+    "Id": 706,
+    "ConstellationIndex": 7,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 11,
+    "Value": 10
+  },
+  {
+    "Id": 707,
+    "ConstellationIndex": 7,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 4,
+    "Value": 10
+  },
+  {
+    "Id": 708,
+    "ConstellationIndex": 7,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 5,
+    "Value": 9
+  },
+  {
+    "Id": 801,
+    "ConstellationIndex": 8,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 5,
+    "Value": 9
+  },
+  {
+    "Id": 802,
+    "ConstellationIndex": 8,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 803,
+    "ConstellationIndex": 8,
+    "DmgType": 2,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 4,
+    "StarNodeBuffType": 7,
+    "Value": 6
+  },
+  {
+    "Id": 804,
+    "ConstellationIndex": 8,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 1,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 805,
+    "ConstellationIndex": 8,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 4,
+    "Value": 5
+  },
+  {
+    "Id": 806,
+    "ConstellationIndex": 8,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 5,
+    "Value": 6
+  },
+  {
+    "Id": 807,
+    "ConstellationIndex": 8,
+    "DmgType": 2,
+    "Size": 3,
+    "Point": 100,
+    "BuffGameModeType": 9,
+    "StarNodeBuffType": 10,
+    "Value": 5
+  },
+  {
+    "Id": 808,
+    "ConstellationIndex": 8,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 4,
+    "Value": 8
+  },
+  {
+    "Id": 809,
+    "ConstellationIndex": 8,
+    "DmgType": 2,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 7,
+    "Value": 5
+  },
+  {
+    "Id": 810,
+    "ConstellationIndex": 8,
+    "DmgType": 2,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 8,
+    "StarNodeBuffType": 8,
+    "Value": 10
+  },
+  {
+    "Id": 811,
+    "ConstellationIndex": 8,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 11,
+    "Value": 10
+  },
+  {
+    "Id": 812,
+    "ConstellationIndex": 8,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 4,
+    "Value": 10
+  },
+  {
+    "Id": 813,
+    "ConstellationIndex": 8,
+    "DmgType": 2,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 9,
+    "Value": 5
+  },
+  {
+    "Id": 814,
+    "ConstellationIndex": 8,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 12,
+    "StarNodeBuffType": 4,
+    "Value": 5
+  },
+  {
+    "Id": 815,
+    "ConstellationIndex": 8,
+    "DmgType": 2,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 7,
+    "Value": 5
+  },
+  {
+    "Id": 816,
+    "ConstellationIndex": 8,
+    "DmgType": 2,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 7,
+    "Value": 7
+  },
+  {
+    "Id": 817,
+    "ConstellationIndex": 8,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 1,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 901,
+    "ConstellationIndex": 9,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 4,
+    "StarNodeBuffType": 7,
+    "Value": 6
+  },
+  {
+    "Id": 902,
+    "ConstellationIndex": 9,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 9,
+    "StarNodeBuffType": 10,
+    "Value": 5
+  },
+  {
+    "Id": 903,
+    "ConstellationIndex": 9,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 11,
+    "Value": 10
+  },
+  {
+    "Id": 904,
+    "ConstellationIndex": 9,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 11,
+    "Value": 10
+  },
+  {
+    "Id": 905,
+    "ConstellationIndex": 9,
+    "DmgType": 1,
+    "Size": 3,
+    "Point": 100,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 5,
+    "Value": 6
+  },
+  {
+    "Id": 906,
+    "ConstellationIndex": 9,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 4,
+    "StarNodeBuffType": 7,
+    "Value": 6
+  },
+  {
+    "Id": 907,
+    "ConstellationIndex": 9,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 9,
+    "StarNodeBuffType": 10,
+    "Value": 5
+  },
+  {
+    "Id": 908,
+    "ConstellationIndex": 9,
+    "DmgType": 1,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 5,
+    "Value": 9
+  },
+  {
+    "Id": 909,
+    "ConstellationIndex": 9,
+    "DmgType": 1,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 4,
+    "Value": 8
+  },
+  {
+    "Id": 910,
+    "ConstellationIndex": 9,
+    "DmgType": 1,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 1,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 911,
+    "ConstellationIndex": 9,
+    "DmgType": 1,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 12,
+    "StarNodeBuffType": 4,
+    "Value": 5
+  },
+  {
+    "Id": 912,
+    "ConstellationIndex": 9,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 7,
+    "Value": 5
+  },
+  {
+    "Id": 913,
+    "ConstellationIndex": 9,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 9,
+    "Value": 5
+  },
+  {
+    "Id": 914,
+    "ConstellationIndex": 9,
+    "DmgType": 1,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 1,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 915,
+    "ConstellationIndex": 9,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 4,
+    "Value": 5
+  },
+  {
+    "Id": 916,
+    "ConstellationIndex": 9,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 7,
+    "Value": 5
+  },
+  {
+    "Id": 917,
+    "ConstellationIndex": 9,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 7,
+    "Value": 7
+  },
+  {
+    "Id": 918,
+    "ConstellationIndex": 9,
+    "DmgType": 1,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 8,
+    "StarNodeBuffType": 8,
+    "Value": 10
+  },
+  {
+    "Id": 919,
+    "ConstellationIndex": 9,
+    "DmgType": 1,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 4,
+    "Value": 10
+  },
+  {
+    "Id": 920,
+    "ConstellationIndex": 9,
+    "DmgType": 1,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 1001,
+    "ConstellationIndex": 10,
+    "DmgType": 4,
+    "Size": 3,
+    "Point": 100,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 4,
+    "Value": 5
+  },
+  {
+    "Id": 1002,
+    "ConstellationIndex": 10,
+    "DmgType": 4,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 1,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 1003,
+    "ConstellationIndex": 10,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 4,
+    "StarNodeBuffType": 7,
+    "Value": 6
+  },
+  {
+    "Id": 1004,
+    "ConstellationIndex": 10,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 9,
+    "StarNodeBuffType": 10,
+    "Value": 5
+  },
+  {
+    "Id": 1005,
+    "ConstellationIndex": 10,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 11,
+    "Value": 10
+  },
+  {
+    "Id": 1006,
+    "ConstellationIndex": 10,
+    "DmgType": 4,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 4,
+    "Value": 10
+  },
+  {
+    "Id": 1007,
+    "ConstellationIndex": 10,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 5,
+    "Value": 9
+  },
+  {
+    "Id": 1008,
+    "ConstellationIndex": 10,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 1009,
+    "ConstellationIndex": 10,
+    "DmgType": 4,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 7,
+    "Value": 5
+  },
+  {
+    "Id": 1010,
+    "ConstellationIndex": 10,
+    "DmgType": 4,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 12,
+    "StarNodeBuffType": 4,
+    "Value": 5
+  },
+  {
+    "Id": 1011,
+    "ConstellationIndex": 10,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 7,
+    "Value": 5
+  },
+  {
+    "Id": 1012,
+    "ConstellationIndex": 10,
+    "DmgType": 4,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 9,
+    "Value": 5
+  },
+  {
+    "Id": 1101,
+    "ConstellationIndex": 11,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 1,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 1102,
+    "ConstellationIndex": 11,
+    "DmgType": 3,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 4,
+    "StarNodeBuffType": 7,
+    "Value": 6
+  },
+  {
+    "Id": 1103,
+    "ConstellationIndex": 11,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 9,
+    "StarNodeBuffType": 10,
+    "Value": 5
+  },
+  {
+    "Id": 1104,
+    "ConstellationIndex": 11,
+    "DmgType": 3,
+    "Size": 3,
+    "Point": 100,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 5,
+    "Value": 6
+  },
+  {
+    "Id": 1105,
+    "ConstellationIndex": 11,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 9,
+    "Value": 5
+  },
+  {
+    "Id": 1106,
+    "ConstellationIndex": 11,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 5,
+    "Value": 9
+  },
+  {
+    "Id": 1107,
+    "ConstellationIndex": 11,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 1108,
+    "ConstellationIndex": 11,
+    "DmgType": 3,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 7,
+    "Value": 5
+  },
+  {
+    "Id": 1109,
+    "ConstellationIndex": 11,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 12,
+    "StarNodeBuffType": 4,
+    "Value": 5
+  },
+  {
+    "Id": 1110,
+    "ConstellationIndex": 11,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 7,
+    "Value": 5
+  },
+  {
+    "Id": 1111,
+    "ConstellationIndex": 11,
+    "DmgType": 3,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 4,
+    "Value": 10
+  },
+  {
+    "Id": 1112,
+    "ConstellationIndex": 11,
+    "DmgType": 3,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 4,
+    "Value": 5
+  },
+  {
+    "Id": 1113,
+    "ConstellationIndex": 11,
+    "DmgType": 3,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 11,
+    "Value": 10
+  },
+  {
+    "Id": 1201,
+    "ConstellationIndex": 12,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 4,
+    "StarNodeBuffType": 7,
+    "Value": 6
+  },
+  {
+    "Id": 1202,
+    "ConstellationIndex": 12,
+    "DmgType": 2,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 1203,
+    "ConstellationIndex": 12,
+    "DmgType": 2,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 5,
+    "Value": 9
+  },
+  {
+    "Id": 1204,
+    "ConstellationIndex": 12,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 9,
+    "StarNodeBuffType": 10,
+    "Value": 5
+  },
+  {
+    "Id": 1205,
+    "ConstellationIndex": 12,
+    "DmgType": 2,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 4,
+    "Value": 5
+  },
+  {
+    "Id": 1206,
+    "ConstellationIndex": 12,
+    "DmgType": 2,
+    "Size": 3,
+    "Point": 100,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 5,
+    "Value": 6
+  },
+  {
+    "Id": 1207,
+    "ConstellationIndex": 12,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 11,
+    "Value": 10
+  },
+  {
+    "Id": 1208,
+    "ConstellationIndex": 12,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 4,
+    "Value": 10
+  },
+  {
+    "Id": 1209,
+    "ConstellationIndex": 12,
+    "DmgType": 2,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 0,
+    "StarNodeBuffType": 7,
+    "Value": 7
+  },
+  {
+    "Id": 1210,
+    "ConstellationIndex": 12,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 3,
+    "StarNodeBuffType": 7,
+    "Value": 5
+  },
+  {
+    "Id": 1211,
+    "ConstellationIndex": 12,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 12,
+    "StarNodeBuffType": 4,
+    "Value": 5
+  },
+  {
+    "Id": 1212,
+    "ConstellationIndex": 12,
+    "DmgType": 2,
+    "Size": 2,
+    "Point": 25,
+    "BuffGameModeType": 1,
+    "StarNodeBuffType": 5,
+    "Value": 5
+  },
+  {
+    "Id": 1213,
+    "ConstellationIndex": 12,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 7,
+    "Value": 5
+  },
+  {
+    "Id": 1214,
+    "ConstellationIndex": 12,
+    "DmgType": 2,
+    "Size": 1,
+    "Point": 5,
+    "BuffGameModeType": 5,
+    "StarNodeBuffType": 9,
+    "Value": 5
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "cases": 832,
+  "snapshots": 104,
+  "entries": 8,
+  "contracts": 1,
+  "connected_sequences": 7,
+  "sequence_actions": 32,
+  "instruction_steps": 127339,
+  "distinct_instructions": 1067,
+  "scope": "Eight level application/display/callback/batch/stop/hold/debounce entry bodies with original callback body registered as the sole LevelUpAction listener and original get_UserMaxLevel. Wrapper/collections, content flags, level-event observers, initialized managers, UI/quest/audio/tutorial/unlock/Fill_Update/SyncExp/API/time-sync/wait sinks modeled. No complete subscribers/Unity/IFix/server/save parity."
+}

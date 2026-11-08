@@ -1,0 +1,242 @@
+[
+  {
+    "Id": 1,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 11800000,
+    "HavePower_CriticalValue": 17.0,
+    "HavePower_GoldAmountValue": 46.0
+  },
+  {
+    "Id": 2,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 13800000,
+    "HavePower_CriticalValue": 19.0,
+    "HavePower_GoldAmountValue": 67.0
+  },
+  {
+    "Id": 3,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 16100000,
+    "HavePower_CriticalValue": 21.0,
+    "HavePower_GoldAmountValue": 88.0
+  },
+  {
+    "Id": 4,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 18800000,
+    "HavePower_CriticalValue": 23.0,
+    "HavePower_GoldAmountValue": 109.0
+  },
+  {
+    "Id": 5,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 22000000,
+    "HavePower_CriticalValue": 25.0,
+    "HavePower_GoldAmountValue": 130.0
+  },
+  {
+    "Id": 6,
+    "AwakeningNeedCount": 4,
+    "LightShardNeedCount": 0,
+    "InitValue": 36520000,
+    "HavePower_CriticalValue": 31.0,
+    "HavePower_GoldAmountValue": 214.0
+  },
+  {
+    "Id": 7,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 40900000,
+    "HavePower_CriticalValue": 33.0,
+    "HavePower_GoldAmountValue": 235.0
+  },
+  {
+    "Id": 8,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 45810000,
+    "HavePower_CriticalValue": 35.0,
+    "HavePower_GoldAmountValue": 256.0
+  },
+  {
+    "Id": 9,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 51310000,
+    "HavePower_CriticalValue": 37.0,
+    "HavePower_GoldAmountValue": 277.0
+  },
+  {
+    "Id": 10,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 57470000,
+    "HavePower_CriticalValue": 39.0,
+    "HavePower_GoldAmountValue": 298.0
+  },
+  {
+    "Id": 11,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 64370000,
+    "HavePower_CriticalValue": 41.0,
+    "HavePower_GoldAmountValue": 319.0
+  },
+  {
+    "Id": 12,
+    "AwakeningNeedCount": 4,
+    "LightShardNeedCount": 0,
+    "InitValue": 90120000,
+    "HavePower_CriticalValue": 47.0,
+    "HavePower_GoldAmountValue": 503.0
+  },
+  {
+    "Id": 13,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 100640017,
+    "HavePower_CriticalValue": 49.0,
+    "HavePower_GoldAmountValue": 552.0
+  },
+  {
+    "Id": 14,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 112433004,
+    "HavePower_CriticalValue": 51.0,
+    "HavePower_GoldAmountValue": 601.0
+  },
+  {
+    "Id": 15,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 125643071,
+    "HavePower_CriticalValue": 53.0,
+    "HavePower_GoldAmountValue": 650.0
+  },
+  {
+    "Id": 16,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 140438346,
+    "HavePower_CriticalValue": 55.0,
+    "HavePower_GoldAmountValue": 699.0
+  },
+  {
+    "Id": 17,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 157010976,
+    "HavePower_CriticalValue": 57.0,
+    "HavePower_GoldAmountValue": 748.0
+  },
+  {
+    "Id": 18,
+    "AwakeningNeedCount": 4,
+    "LightShardNeedCount": 0,
+    "InitValue": 218858108,
+    "HavePower_CriticalValue": 63.0,
+    "HavePower_GoldAmountValue": 1179.0
+  },
+  {
+    "Id": 19,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 244098575,
+    "HavePower_CriticalValue": 65.0,
+    "HavePower_GoldAmountValue": 1228.0
+  },
+  {
+    "Id": 20,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 272338828,
+    "HavePower_CriticalValue": 67.0,
+    "HavePower_GoldAmountValue": 1277.0
+  },
+  {
+    "Id": 21,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 303877625,
+    "HavePower_CriticalValue": 69.0,
+    "HavePower_GoldAmountValue": 1326.0
+  },
+  {
+    "Id": 22,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 339160036,
+    "HavePower_CriticalValue": 71.0,
+    "HavePower_GoldAmountValue": 1375.0
+  },
+  {
+    "Id": 23,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 378647421,
+    "HavePower_CriticalValue": 73.0,
+    "HavePower_GoldAmountValue": 1424.0
+  },
+  {
+    "Id": 24,
+    "AwakeningNeedCount": 0,
+    "LightShardNeedCount": 10000,
+    "InitValue": 599034230,
+    "HavePower_CriticalValue": 79.0,
+    "HavePower_GoldAmountValue": 2355.0
+  },
+  {
+    "Id": 25,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 1000,
+    "InitValue": 672199792,
+    "HavePower_CriticalValue": 85.0,
+    "HavePower_GoldAmountValue": 2526.0
+  },
+  {
+    "Id": 26,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 1000,
+    "InitValue": 755502017,
+    "HavePower_CriticalValue": 87.0,
+    "HavePower_GoldAmountValue": 2770.0
+  },
+  {
+    "Id": 27,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 1000,
+    "InitValue": 849398754,
+    "HavePower_CriticalValue": 89.0,
+    "HavePower_GoldAmountValue": 2913.0
+  },
+  {
+    "Id": 28,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 1000,
+    "InitValue": 956574445,
+    "HavePower_CriticalValue": 91.0,
+    "HavePower_GoldAmountValue": 3157.0
+  },
+  {
+    "Id": 29,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 1000,
+    "InitValue": 1078191503,
+    "HavePower_CriticalValue": 93.0,
+    "HavePower_GoldAmountValue": 3300.0
+  },
+  {
+    "Id": 30,
+    "AwakeningNeedCount": 0,
+    "LightShardNeedCount": 10000,
+    "InitValue": 1534196318,
+    "HavePower_CriticalValue": 95.0,
+    "HavePower_GoldAmountValue": 3745.0
+  }
+]

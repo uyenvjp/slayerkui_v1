@@ -1,0 +1,191 @@
+[
+  {
+    "Id": 1,
+    "StoneType": 6201,
+    "CurrencyType": 6204,
+    "CurrencyIndex": 0,
+    "Amount": 1,
+    "Rate": 85,
+    "SlotEffectGrade": 0
+  },
+  {
+    "Id": 2,
+    "StoneType": 6201,
+    "CurrencyType": 6205,
+    "CurrencyIndex": 1,
+    "Amount": 1,
+    "Rate": 5,
+    "SlotEffectGrade": 4
+  },
+  {
+    "Id": 3,
+    "StoneType": 6201,
+    "CurrencyType": 6205,
+    "CurrencyIndex": 2,
+    "Amount": 1,
+    "Rate": 2,
+    "SlotEffectGrade": 4
+  },
+  {
+    "Id": 4,
+    "StoneType": 6201,
+    "CurrencyType": 6205,
+    "CurrencyIndex": 3,
+    "Amount": 1,
+    "Rate": 1,
+    "SlotEffectGrade": 4
+  },
+  {
+    "Id": 5,
+    "StoneType": 6201,
+    "CurrencyType": 6205,
+    "CurrencyIndex": 4,
+    "Amount": 1,
+    "Rate": 1,
+    "SlotEffectGrade": 5
+  },
+  {
+    "Id": 6,
+    "StoneType": 6201,
+    "CurrencyType": 6206,
+    "CurrencyIndex": 0,
+    "Amount": 1,
+    "Rate": 1,
+    "SlotEffectGrade": 5
+  },
+  {
+    "Id": 7,
+    "StoneType": 6201,
+    "CurrencyType": 6207,
+    "CurrencyIndex": 0,
+    "Amount": 1,
+    "Rate": 5,
+    "SlotEffectGrade": 4
+  },
+  {
+    "Id": 11,
+    "StoneType": 6202,
+    "CurrencyType": 6204,
+    "CurrencyIndex": 0,
+    "Amount": 1,
+    "Rate": 29,
+    "SlotEffectGrade": 0
+  },
+  {
+    "Id": 12,
+    "StoneType": 6202,
+    "CurrencyType": 6205,
+    "CurrencyIndex": 1,
+    "Amount": 1,
+    "Rate": 26,
+    "SlotEffectGrade": 4
+  },
+  {
+    "Id": 13,
+    "StoneType": 6202,
+    "CurrencyType": 6205,
+    "CurrencyIndex": 2,
+    "Amount": 1,
+    "Rate": 20,
+    "SlotEffectGrade": 4
+  },
+  {
+    "Id": 14,
+    "StoneType": 6202,
+    "CurrencyType": 6205,
+    "CurrencyIndex": 3,
+    "Amount": 1,
+    "Rate": 15,
+    "SlotEffectGrade": 4
+  },
+  {
+    "Id": 15,
+    "StoneType": 6202,
+    "CurrencyType": 6205,
+    "CurrencyIndex": 4,
+    "Amount": 1,
+    "Rate": 10,
+    "SlotEffectGrade": 5
+  },
+  {
+    "Id": 16,
+    "StoneType": 6202,
+    "CurrencyType": 6206,
+    "CurrencyIndex": 0,
+    "Amount": 1,
+    "Rate": 0,
+    "SlotEffectGrade": 5
+  },
+  {
+    "Id": 17,
+    "StoneType": 6202,
+    "CurrencyType": 6207,
+    "CurrencyIndex": 0,
+    "Amount": 1,
+    "Rate": 0,
+    "SlotEffectGrade": 4
+  },
+  {
+    "Id": 21,
+    "StoneType": 6203,
+    "CurrencyType": 6204,
+    "CurrencyIndex": 0,
+    "Amount": 1,
+    "Rate": 30,
+    "SlotEffectGrade": 0
+  },
+  {
+    "Id": 22,
+    "StoneType": 6203,
+    "CurrencyType": 6205,
+    "CurrencyIndex": 1,
+    "Amount": 1,
+    "Rate": 0,
+    "SlotEffectGrade": 4
+  },
+  {
+    "Id": 23,
+    "StoneType": 6203,
+    "CurrencyType": 6205,
+    "CurrencyIndex": 2,
+    "Amount": 1,
+    "Rate": 0,
+    "SlotEffectGrade": 4
+  },
+  {
+    "Id": 24,
+    "StoneType": 6203,
+    "CurrencyType": 6205,
+    "CurrencyIndex": 3,
+    "Amount": 1,
+    "Rate": 0,
+    "SlotEffectGrade": 4
+  },
+  {
+    "Id": 25,
+    "StoneType": 6203,
+    "CurrencyType": 6205,
+    "CurrencyIndex": 4,
+    "Amount": 1,
+    "Rate": 0,
+    "SlotEffectGrade": 5
+  },
+  {
+    "Id": 26,
+    "StoneType": 6203,
+    "CurrencyType": 6206,
+    "CurrencyIndex": 0,
+    "Amount": 1,
+    "Rate": 21,
+    "SlotEffectGrade": 5
+  },
+  {
+    "Id": 27,
+    "StoneType": 6203,
+    "CurrencyType": 6207,
+    "CurrencyIndex": 0,
+    "Amount": 1,
+    "Rate": 49,
+    "SlotEffectGrade": 4
+  }
+]

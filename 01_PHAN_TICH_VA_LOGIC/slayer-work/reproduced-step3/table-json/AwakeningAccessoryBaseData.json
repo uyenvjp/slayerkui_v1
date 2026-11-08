@@ -1,0 +1,272 @@
+[
+  {
+    "Id": 1,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 3540000,
+    "HavePower_MpCharge": 4.099999904632568,
+    "HavePower_MpAmount": 4.099999904632568,
+    "HavePower_Exp": 7.0
+  },
+  {
+    "Id": 2,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 4139999,
+    "HavePower_MpCharge": 4.199999809265137,
+    "HavePower_MpAmount": 4.199999809265137,
+    "HavePower_Exp": 9.0
+  },
+  {
+    "Id": 3,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 4830000,
+    "HavePower_MpCharge": 4.300000190734863,
+    "HavePower_MpAmount": 4.300000190734863,
+    "HavePower_Exp": 11.0
+  },
+  {
+    "Id": 4,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 5640000,
+    "HavePower_MpCharge": 4.400000095367432,
+    "HavePower_MpAmount": 4.400000095367432,
+    "HavePower_Exp": 13.0
+  },
+  {
+    "Id": 5,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 6600000,
+    "HavePower_MpCharge": 4.5,
+    "HavePower_MpAmount": 4.5,
+    "HavePower_Exp": 15.0
+  },
+  {
+    "Id": 6,
+    "AwakeningNeedCount": 4,
+    "LightShardNeedCount": 0,
+    "InitValue": 10880000,
+    "HavePower_MpCharge": 5.0,
+    "HavePower_MpAmount": 5.0,
+    "HavePower_Exp": 23.0
+  },
+  {
+    "Id": 7,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 12190000,
+    "HavePower_MpCharge": 5.099999904632568,
+    "HavePower_MpAmount": 5.099999904632568,
+    "HavePower_Exp": 25.0
+  },
+  {
+    "Id": 8,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 13650000,
+    "HavePower_MpCharge": 5.199999809265137,
+    "HavePower_MpAmount": 5.199999809265137,
+    "HavePower_Exp": 27.0
+  },
+  {
+    "Id": 9,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 15290000,
+    "HavePower_MpCharge": 5.300000190734863,
+    "HavePower_MpAmount": 5.300000190734863,
+    "HavePower_Exp": 29.0
+  },
+  {
+    "Id": 10,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 17120000,
+    "HavePower_MpCharge": 5.400000095367432,
+    "HavePower_MpAmount": 5.400000095367432,
+    "HavePower_Exp": 31.0
+  },
+  {
+    "Id": 11,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 19170000,
+    "HavePower_MpCharge": 5.5,
+    "HavePower_MpAmount": 5.5,
+    "HavePower_Exp": 33.0
+  },
+  {
+    "Id": 12,
+    "AwakeningNeedCount": 4,
+    "LightShardNeedCount": 0,
+    "InitValue": 26840000,
+    "HavePower_MpCharge": 6.0,
+    "HavePower_MpAmount": 6.0,
+    "HavePower_Exp": 41.0
+  },
+  {
+    "Id": 13,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 30071654,
+    "HavePower_MpCharge": 6.099999904632568,
+    "HavePower_MpAmount": 6.099999904632568,
+    "HavePower_Exp": 43.0
+  },
+  {
+    "Id": 14,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 33673345,
+    "HavePower_MpCharge": 6.199999809265137,
+    "HavePower_MpAmount": 6.199999809265137,
+    "HavePower_Exp": 45.0
+  },
+  {
+    "Id": 15,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 37719080,
+    "HavePower_MpCharge": 6.300000190734863,
+    "HavePower_MpAmount": 6.300000190734863,
+    "HavePower_Exp": 47.0
+  },
+  {
+    "Id": 16,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 42233528,
+    "HavePower_MpCharge": 6.400000095367432,
+    "HavePower_MpAmount": 6.400000095367432,
+    "HavePower_Exp": 49.0
+  },
+  {
+    "Id": 17,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 47290697,
+    "HavePower_MpCharge": 6.5,
+    "HavePower_MpAmount": 6.5,
+    "HavePower_Exp": 51.0
+  },
+  {
+    "Id": 18,
+    "AwakeningNeedCount": 4,
+    "LightShardNeedCount": 0,
+    "InitValue": 66211910,
+    "HavePower_MpCharge": 7.0,
+    "HavePower_MpAmount": 7.0,
+    "HavePower_Exp": 59.0
+  },
+  {
+    "Id": 19,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 73871064,
+    "HavePower_MpCharge": 7.099999904632568,
+    "HavePower_MpAmount": 7.099999904632568,
+    "HavePower_Exp": 61.0
+  },
+  {
+    "Id": 20,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 82430427,
+    "HavePower_MpCharge": 7.199999809265137,
+    "HavePower_MpAmount": 7.199999809265137,
+    "HavePower_Exp": 63.0
+  },
+  {
+    "Id": 21,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 92017488,
+    "HavePower_MpCharge": 7.300000190734863,
+    "HavePower_MpAmount": 7.300000190734863,
+    "HavePower_Exp": 65.0
+  },
+  {
+    "Id": 22,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 102746159,
+    "HavePower_MpCharge": 7.400000095367432,
+    "HavePower_MpAmount": 7.400000095367432,
+    "HavePower_Exp": 67.0
+  },
+  {
+    "Id": 23,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 114703920,
+    "HavePower_MpCharge": 7.5,
+    "HavePower_MpAmount": 7.5,
+    "HavePower_Exp": 69.0
+  },
+  {
+    "Id": 24,
+    "AwakeningNeedCount": 0,
+    "LightShardNeedCount": 10000,
+    "InitValue": 182430256,
+    "HavePower_MpCharge": 8.0,
+    "HavePower_MpAmount": 8.0,
+    "HavePower_Exp": 77.0
+  },
+  {
+    "Id": 25,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 1000,
+    "InitValue": 204712141,
+    "HavePower_MpCharge": 8.100000381469727,
+    "HavePower_MpAmount": 8.100000381469727,
+    "HavePower_Exp": 79.0
+  },
+  {
+    "Id": 26,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 1000,
+    "InitValue": 230081052,
+    "HavePower_MpCharge": 8.199999809265137,
+    "HavePower_MpAmount": 8.199999809265137,
+    "HavePower_Exp": 81.0
+  },
+  {
+    "Id": 27,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 1000,
+    "InitValue": 258676423,
+    "HavePower_MpCharge": 8.300000190734863,
+    "HavePower_MpAmount": 8.300000190734863,
+    "HavePower_Exp": 83.0
+  },
+  {
+    "Id": 28,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 1000,
+    "InitValue": 291315774,
+    "HavePower_MpCharge": 8.399999618530273,
+    "HavePower_MpAmount": 8.399999618530273,
+    "HavePower_Exp": 85.0
+  },
+  {
+    "Id": 29,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 1000,
+    "InitValue": 328353108,
+    "HavePower_MpCharge": 8.5,
+    "HavePower_MpAmount": 8.5,
+    "HavePower_Exp": 87.0
+  },
+  {
+    "Id": 30,
+    "AwakeningNeedCount": 0,
+    "LightShardNeedCount": 10000,
+    "InitValue": 467225097,
+    "HavePower_MpCharge": 9.0,
+    "HavePower_MpAmount": 9.0,
+    "HavePower_Exp": 95.0
+  }
+]

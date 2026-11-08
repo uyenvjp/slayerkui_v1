@@ -1,0 +1,128 @@
+[
+  {
+    "Id": 0,
+    "jumpOverCount": 0,
+    "MapSpeed": 475.0,
+    "bonusPresentCount": 1
+  },
+  {
+    "Id": 1,
+    "jumpOverCount": 1,
+    "MapSpeed": 525.0,
+    "bonusPresentCount": 1
+  },
+  {
+    "Id": 2,
+    "jumpOverCount": 2,
+    "MapSpeed": 550.0,
+    "bonusPresentCount": 1
+  },
+  {
+    "Id": 3,
+    "jumpOverCount": 3,
+    "MapSpeed": 600.0,
+    "bonusPresentCount": 2
+  },
+  {
+    "Id": 4,
+    "jumpOverCount": 4,
+    "MapSpeed": 650.0,
+    "bonusPresentCount": 2
+  },
+  {
+    "Id": 5,
+    "jumpOverCount": 5,
+    "MapSpeed": 700.0,
+    "bonusPresentCount": 2
+  },
+  {
+    "Id": 6,
+    "jumpOverCount": 6,
+    "MapSpeed": 725.0,
+    "bonusPresentCount": 2
+  },
+  {
+    "Id": 7,
+    "jumpOverCount": 7,
+    "MapSpeed": 750.0,
+    "bonusPresentCount": 3
+  },
+  {
+    "Id": 8,
+    "jumpOverCount": 8,
+    "MapSpeed": 800.0,
+    "bonusPresentCount": 3
+  },
+  {
+    "Id": 9,
+    "jumpOverCount": 9,
+    "MapSpeed": 825.0,
+    "bonusPresentCount": 3
+  },
+  {
+    "Id": 10,
+    "jumpOverCount": 10,
+    "MapSpeed": 900.0,
+    "bonusPresentCount": 3
+  },
+  {
+    "Id": 11,
+    "jumpOverCount": 11,
+    "MapSpeed": 950.0,
+    "bonusPresentCount": 3
+  },
+  {
+    "Id": 12,
+    "jumpOverCount": 12,
+    "MapSpeed": 950.0,
+    "bonusPresentCount": 3
+  },
+  {
+    "Id": 13,
+    "jumpOverCount": 13,
+    "MapSpeed": 1000.0,
+    "bonusPresentCount": 4
+  },
+  {
+    "Id": 14,
+    "jumpOverCount": 14,
+    "MapSpeed": 1000.0,
+    "bonusPresentCount": 4
+  },
+  {
+    "Id": 15,
+    "jumpOverCount": 15,
+    "MapSpeed": 1000.0,
+    "bonusPresentCount": 4
+  },
+  {
+    "Id": 16,
+    "jumpOverCount": 16,
+    "MapSpeed": 1000.0,
+    "bonusPresentCount": 4
+  },
+  {
+    "Id": 17,
+    "jumpOverCount": 17,
+    "MapSpeed": 1000.0,
+    "bonusPresentCount": 4
+  },
+  {
+    "Id": 18,
+    "jumpOverCount": 18,
+    "MapSpeed": 1000.0,
+    "bonusPresentCount": 4
+  },
+  {
+    "Id": 19,
+    "jumpOverCount": 19,
+    "MapSpeed": 1000.0,
+    "bonusPresentCount": 4
+  },
+  {
+    "Id": 20,
+    "jumpOverCount": 20,
+    "MapSpeed": 1000.0,
+    "bonusPresentCount": 4
+  }
+]

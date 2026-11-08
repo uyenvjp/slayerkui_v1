@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x600a42e",
+    "name": "MoveNext",
+    "declaring_type_index": "4417",
+    "declaring_type_full_name": "OpeningManager+<delay_Opening>d__7",
+    "native_va": "0x52422b8",
+    "return_type_index": "59073",
+    "return_type_name": "bool",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "481",
+    "iflags": "0",
+    "slot": "6",
+    "metadata_record_offset": "0x9c0d4c",
+    "end_va": "0x5242368",
+    "asm_file": "OpeningManager__delay_Opening_d__7__MoveNext_0x600a42e.asm"
+  }
+]

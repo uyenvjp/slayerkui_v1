@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "Tier": 0,
+    "SubTier": 1,
+    "MinRp": 1000,
+    "MaxRp": 1099
+  },
+  {
+    "Id": 2,
+    "Tier": 0,
+    "SubTier": 2,
+    "MinRp": 1100,
+    "MaxRp": 1199
+  },
+  {
+    "Id": 3,
+    "Tier": 0,
+    "SubTier": 3,
+    "MinRp": 1200,
+    "MaxRp": 1299
+  },
+  {
+    "Id": 4,
+    "Tier": 1,
+    "SubTier": 1,
+    "MinRp": 1300,
+    "MaxRp": 1499
+  },
+  {
+    "Id": 5,
+    "Tier": 1,
+    "SubTier": 2,
+    "MinRp": 1500,
+    "MaxRp": 1699
+  },
+  {
+    "Id": 6,
+    "Tier": 1,
+    "SubTier": 3,
+    "MinRp": 1700,
+    "MaxRp": 1899
+  },
+  {
+    "Id": 7,
+    "Tier": 2,
+    "SubTier": 1,
+    "MinRp": 1900,
+    "MaxRp": 2199
+  },
+  {
+    "Id": 8,
+    "Tier": 2,
+    "SubTier": 2,
+    "MinRp": 2200,
+    "MaxRp": 2499
+  },
+  {
+    "Id": 9,
+    "Tier": 2,
+    "SubTier": 3,
+    "MinRp": 2500,
+    "MaxRp": 2799
+  },
+  {
+    "Id": 10,
+    "Tier": 3,
+    "SubTier": 1,
+    "MinRp": 2800,
+    "MaxRp": 9999
+  }
+]

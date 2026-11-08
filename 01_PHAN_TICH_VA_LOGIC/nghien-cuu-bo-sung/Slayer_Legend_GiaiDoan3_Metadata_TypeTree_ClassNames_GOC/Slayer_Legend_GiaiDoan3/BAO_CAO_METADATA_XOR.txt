@@ -1,0 +1,53 @@
+SLAYER LEGEND 700.0.4 - BÁO CÁO PHÂN TÍCH TĨNH GIAI ĐOẠN 3
+===============================================================
+Nguồn: global-metadata.dat và libil2cpp.so gốc trích từ XAPK do người dùng cung cấp.
+Kiểm tra: Python stdlib, read-only. Mọi byte-offset là vị trí trong file, không phải RVA của game.
+
+1) VÙNG TÊN ĐỊNH DANH SAU XOR
+- Khóa thử: 43 44 45 46 47 48 49 4A, dùng phase=0 theo offset file.
+- Phần đầu file gốc có header LIKEY, vẫn KHÔNG phải metadata chuẩn.
+- Tại 0x2356AF bắt đầu thấy chuỗi nguyên vẹn 'ALARM_TEXT_022' sau XOR.
+- Dải byte từ 0x2356af đến 0x5308b7 (đầu cuối không tính) liên tục chứa ASCII hiển thị / NUL.
+- Chiều dài dải: 3,125,768 byte; có 127,483 chuỗi ASCII không rỗng phân tách bởi NUL.
+- Trong đó có 100 token bắt đầu chính xác bằng Xls_ (không trùng tên).
+- Đây là vùng tên, KHÔNG CHỨNG MINH đã phục hồi bảng IL2CPP đầy đủ.
+
+2) TÊN BẢNG VÀ TRƯỜNG NẰM LIỀN KỀ (CHƯA CÓ FIELD INDEX)
+- Xls_Skill có chuỗi theo sau: SkillName, SkillBasicDes, SkillSpecificDes,
+  skillOpenType, skillType, activeType, passiveType, MpCost, upgradeValue,
+  ActiveNeedValue, Range, Duration, AnimationNumber, Have, OldSkill, MaxLevelType.
+- Xls_AdventureInfo có: AdventureIndex, SubIndex, SubName, CameraSetting,
+  BossNumber, Boss, BossScale, Dia_Clear, Emerald_Clear, Map, Hp, Atk,
+  AttackSpeed, Miss, Accuracy, BattleTime.
+- Xls_AdventureWaveInfo có: WaveNumber, MonsterCount, RepeatCount,
+  DistanceIndex, m1..m10, S1..S10.
+- Việc gán các chuỗi này làm field vẫn là GIẢ THUYẾT rất hợp lý dựa vào
+  sự liền kề; chưa khẳng định cho đến khi đọc được FieldDefinition.
+- Chuỗi LIAPP_DETECTED_ANTI_DEBUGGER và LIAPP_DETECTED_INTEGRITY còn xuất
+  hiện sau Xls_WeaponUpgradeStat: ví dụ rõ rằng KHÔNG thể mặc nhiên coi
+  tất cả chuỗi giữa hai tên Xls_ là field của bảng trước.
+
+3) THƯ VIỆN LIBIL2CPP
+- ELF64 little-endian AArch64: True
+- Có 241 export API tên il2cpp_* qua nm -D (nếu nm khả dụng).
+- Có literal Assembly-CSharp.dll và global-metadata.dat trong nhị phân.
+- Không tìm thấy literal GameManager hoặc Xls_Skill trong libil2cpp.so.
+- Những API engine KHÔNG PHẢI địa chỉ hàm gameplay gốc.
+
+4) TÌNH TRẠNG GIẢI MÃ
+- Magic IL2CPP gốc tìm thấy: 0 vị trí.
+- Magic IL2CPP trong bản XOR phase=0 tìm thấy: 0 vị trí.
+- Chưa có header, bảng MethodDefinition / TypeDefinition hợp lệ.
+- Chưa khôi phục dump.cs / script.json hay công thức sát thương.
+- Chưa có dữ liệu chứng minh giá trị từng hàng Xls_* được lấy lại.
+
+5) ĐẦU RA
+- Stage3_Evidence.json: thống kê, SHA256, mốc byte và kết quả thử.
+- chuoi_NUL_vung_1.csv: các chuỗi ASCII trong vùng liền mạch, với offset.
+- bang_Xls_chuoi_lien_ke.csv/.json: token Xls_* và các chuỗi ngay sau nó.
+- ranh_gioi_XOR_256B.csv: entropy/khả năng đọc của vùng chuyển tiếp.
+- il2cpp_API_xuat_ra.csv: địa chỉ API public của Unity, KHÔNG PHẢI gameplay.
+- phan_tich_stage3.py: script tái lập kiểm tra.
+
+Lệnh tái chạy:
+  python phan_tich_stage3.py global-metadata.dat libil2cpp.so thu_muc_ket_qua

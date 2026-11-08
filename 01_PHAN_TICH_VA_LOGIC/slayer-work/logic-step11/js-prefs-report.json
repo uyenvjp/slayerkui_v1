@@ -1,0 +1,6 @@
+{
+  "passed": 2304,
+  "contracts": 18,
+  "sequences": 2,
+  "scope": "ServerPrefs value identity, parse gates, dirty/load/save/remove decisions under explicit BCL/JSON/network dependencies."
+}

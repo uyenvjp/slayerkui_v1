@@ -1,0 +1,8 @@
+{
+  "continuation_fragment_sequences": 140,
+  "sequence_actions": 180,
+  "instruction_steps": 53116,
+  "distinct_instructions": 743,
+  "fragment_entry": "0x481ad28",
+  "scope": "Post-diagnostic retry-disposition fragment with explicit reconstructed live register/stack context: retry/fail thresholds, original shared counter helpers, Delay/pending resume, IsValidCode and normal queue continuation linked. Does not validate entry into catch, exception classification, unwinding, actual gRPC failure, Grpc.Status formatting or live transport/scheduler."
+}

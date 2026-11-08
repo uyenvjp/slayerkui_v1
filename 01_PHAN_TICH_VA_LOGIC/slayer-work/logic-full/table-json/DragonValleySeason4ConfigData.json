@@ -1,0 +1,28 @@
+[
+  {
+    "Id": 0,
+    "PlayerPerParty": 5,
+    "FireCurrencies": [
+      6000
+    ],
+    "FireAmounts": [
+      10
+    ],
+    "FireTimes": [
+      30
+    ],
+    "FireScoreFactor": 0,
+    "SearchPointFactor": 40.0,
+    "HuntPointFactor": 2.972100019454956,
+    "GoldFactor": 0.10000000149011612,
+    "CookPoint": 1000,
+    "WyvernTracePoint": 10000,
+    "WyvernInitialPoint": 3000,
+    "NeedGuildMember": 8,
+    "SearchSettlementTime": 600,
+    "EtherobotUpgradePoint": 500,
+    "EtherobotWyvernAttackAdd": 1.0,
+    "EtherobotSkillInterval": 10.0,
+    "EtherobotSkillDuration": 3.0
+  }
+]

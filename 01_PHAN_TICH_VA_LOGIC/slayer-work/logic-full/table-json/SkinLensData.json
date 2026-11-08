@@ -1,0 +1,371 @@
+[
+  {
+    "Id": 0,
+    "Name": "SKIN_LENS_NAME_000",
+    "GetType": 13,
+    "NeedValue": 0,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "FFFFFF"
+  },
+  {
+    "Id": 1,
+    "Name": "SKIN_LENS_NAME_001",
+    "GetType": 5,
+    "NeedValue": 750,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "292929"
+  },
+  {
+    "Id": 2,
+    "Name": "SKIN_LENS_NAME_002",
+    "GetType": 5,
+    "NeedValue": 750,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "FDC646"
+  },
+  {
+    "Id": 3,
+    "Name": "SKIN_LENS_NAME_003",
+    "GetType": 5,
+    "NeedValue": 750,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "800009"
+  },
+  {
+    "Id": 4,
+    "Name": "SKIN_LENS_NAME_004",
+    "GetType": 5,
+    "NeedValue": 750,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "2A3098"
+  },
+  {
+    "Id": 5,
+    "Name": "SKIN_LENS_NAME_005",
+    "GetType": 5,
+    "NeedValue": 750,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "6F0096"
+  },
+  {
+    "Id": 6,
+    "Name": "SKIN_LENS_NAME_006",
+    "GetType": 5,
+    "NeedValue": 750,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "551A24"
+  },
+  {
+    "Id": 7,
+    "Name": "SKIN_LENS_NAME_007",
+    "GetType": 5,
+    "NeedValue": 750,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "F3E69A"
+  },
+  {
+    "Id": 8,
+    "Name": "SKIN_LENS_NAME_008",
+    "GetType": 5,
+    "NeedValue": 750,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "2A3F74"
+  },
+  {
+    "Id": 9,
+    "Name": "SKIN_LENS_NAME_009",
+    "GetType": 5,
+    "NeedValue": 750,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "4E3518"
+  },
+  {
+    "Id": 10,
+    "Name": "SKIN_LENS_NAME_010",
+    "GetType": 5,
+    "NeedValue": 750,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "C3C3C3"
+  },
+  {
+    "Id": 11,
+    "Name": "SKIN_LENS_NAME_011",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "FFDC8E"
+  },
+  {
+    "Id": 12,
+    "Name": "SKIN_LENS_NAME_012",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "FFAF8D"
+  },
+  {
+    "Id": 13,
+    "Name": "SKIN_LENS_NAME_013",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "CD0024"
+  },
+  {
+    "Id": 14,
+    "Name": "SKIN_LENS_NAME_014",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "BE7FFF"
+  },
+  {
+    "Id": 15,
+    "Name": "SKIN_LENS_NAME_015",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "FF9337"
+  },
+  {
+    "Id": 16,
+    "Name": "SKIN_LENS_NAME_016",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "1B8BC1"
+  },
+  {
+    "Id": 17,
+    "Name": "SKIN_LENS_NAME_017",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "21A290"
+  },
+  {
+    "Id": 18,
+    "Name": "SKIN_LENS_NAME_018",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "964A22"
+  },
+  {
+    "Id": 19,
+    "Name": "SKIN_LENS_NAME_019",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "306D34"
+  },
+  {
+    "Id": 20,
+    "Name": "SKIN_LENS_NAME_020",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "5B61C6"
+  },
+  {
+    "Id": 21,
+    "Name": "SKIN_LENS_NAME_021",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "FF1493"
+  },
+  {
+    "Id": 22,
+    "Name": "SKIN_LENS_NAME_022",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "00FFFF"
+  },
+  {
+    "Id": 23,
+    "Name": "SKIN_LENS_NAME_023",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "8fbc8f"
+  },
+  {
+    "Id": 24,
+    "Name": "SKIN_LENS_NAME_024",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "fa8072"
+  },
+  {
+    "Id": 25,
+    "Name": "SKIN_LENS_NAME_025",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "860000"
+  },
+  {
+    "Id": 26,
+    "Name": "SKIN_LENS_NAME_026",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "DDA0DD"
+  },
+  {
+    "Id": 27,
+    "Name": "SKIN_LENS_NAME_027",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "90fb98"
+  },
+  {
+    "Id": 28,
+    "Name": "SKIN_LENS_NAME_028",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "da70d6"
+  },
+  {
+    "Id": 29,
+    "Name": "SKIN_LENS_NAME_029",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "708090"
+  },
+  {
+    "Id": 30,
+    "Name": "SKIN_LENS_NAME_030",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "4B0082"
+  },
+  {
+    "Id": 31,
+    "Name": "SKIN_LENS_NAME_031",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "E5FF00"
+  },
+  {
+    "Id": 32,
+    "Name": "SKIN_LENS_NAME_032",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "8FDCFF"
+  },
+  {
+    "Id": 33,
+    "Name": "SKIN_LENS_NAME_033",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "FFE7AC"
+  },
+  {
+    "Id": 34,
+    "Name": "SKIN_LENS_NAME_034",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "729A33"
+  },
+  {
+    "Id": 35,
+    "Name": "SKIN_LENS_NAME_035",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "B32B81"
+  },
+  {
+    "Id": 36,
+    "Name": "SKIN_LENS_NAME_036",
+    "GetType": 11,
+    "NeedValue": 5,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "1E1C4B"
+  },
+  {
+    "Id": 37,
+    "Name": "SKIN_LENS_NAME_037",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "654F3E"
+  },
+  {
+    "Id": 38,
+    "Name": "SKIN_LENS_NAME_038",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "782238"
+  },
+  {
+    "Id": 39,
+    "Name": "SKIN_LENS_NAME_039",
+    "GetType": 11,
+    "NeedValue": 5,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "FB5327"
+  },
+  {
+    "Id": 40,
+    "Name": "SKIN_LENS_NAME_040",
+    "GetType": 5,
+    "NeedValue": 1000,
+    "Lock": true,
+    "SkinGrade": 0,
+    "Color": "2C37DA"
+  }
+]

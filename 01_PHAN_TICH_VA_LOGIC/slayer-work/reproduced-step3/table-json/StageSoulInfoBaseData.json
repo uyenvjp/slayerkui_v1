@@ -1,0 +1,1052 @@
+[
+  {
+    "Id": 0,
+    "StageMainNumber": 0,
+    "SoulType": 0,
+    "SoulProb": 1.0,
+    "SoulAmount": 1
+  },
+  {
+    "Id": 1,
+    "StageMainNumber": 1,
+    "SoulType": 0,
+    "SoulProb": 1.0,
+    "SoulAmount": 1
+  },
+  {
+    "Id": 2,
+    "StageMainNumber": 2,
+    "SoulType": 0,
+    "SoulProb": 1.0,
+    "SoulAmount": 1
+  },
+  {
+    "Id": 3,
+    "StageMainNumber": 3,
+    "SoulType": 13,
+    "SoulProb": 3.0,
+    "SoulAmount": 1
+  },
+  {
+    "Id": 4,
+    "StageMainNumber": 4,
+    "SoulType": 14,
+    "SoulProb": 3.0,
+    "SoulAmount": 3
+  },
+  {
+    "Id": 5,
+    "StageMainNumber": 5,
+    "SoulType": 15,
+    "SoulProb": 3.0,
+    "SoulAmount": 8
+  },
+  {
+    "Id": 6,
+    "StageMainNumber": 6,
+    "SoulType": 13,
+    "SoulProb": 2.0,
+    "SoulAmount": 18
+  },
+  {
+    "Id": 7,
+    "StageMainNumber": 7,
+    "SoulType": 14,
+    "SoulProb": 1.5,
+    "SoulAmount": 28
+  },
+  {
+    "Id": 8,
+    "StageMainNumber": 8,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 23
+  },
+  {
+    "Id": 9,
+    "StageMainNumber": 9,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 33
+  },
+  {
+    "Id": 10,
+    "StageMainNumber": 10,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 33
+  },
+  {
+    "Id": 11,
+    "StageMainNumber": 11,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 32
+  },
+  {
+    "Id": 12,
+    "StageMainNumber": 12,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 118
+  },
+  {
+    "Id": 13,
+    "StageMainNumber": 13,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 120
+  },
+  {
+    "Id": 14,
+    "StageMainNumber": 14,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 131
+  },
+  {
+    "Id": 15,
+    "StageMainNumber": 15,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 372
+  },
+  {
+    "Id": 16,
+    "StageMainNumber": 16,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 410
+  },
+  {
+    "Id": 17,
+    "StageMainNumber": 17,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 447
+  },
+  {
+    "Id": 18,
+    "StageMainNumber": 18,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 930
+  },
+  {
+    "Id": 19,
+    "StageMainNumber": 19,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 1023
+  },
+  {
+    "Id": 20,
+    "StageMainNumber": 20,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 1116
+  },
+  {
+    "Id": 21,
+    "StageMainNumber": 21,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 2392
+  },
+  {
+    "Id": 22,
+    "StageMainNumber": 22,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 2632
+  },
+  {
+    "Id": 23,
+    "StageMainNumber": 23,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 2871
+  },
+  {
+    "Id": 24,
+    "StageMainNumber": 24,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 7175
+  },
+  {
+    "Id": 25,
+    "StageMainNumber": 25,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 7893
+  },
+  {
+    "Id": 26,
+    "StageMainNumber": 26,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 8610
+  },
+  {
+    "Id": 27,
+    "StageMainNumber": 27,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 15067
+  },
+  {
+    "Id": 28,
+    "StageMainNumber": 28,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 16574
+  },
+  {
+    "Id": 29,
+    "StageMainNumber": 29,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 18081
+  },
+  {
+    "Id": 30,
+    "StageMainNumber": 30,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 30134
+  },
+  {
+    "Id": 31,
+    "StageMainNumber": 31,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 33148
+  },
+  {
+    "Id": 32,
+    "StageMainNumber": 32,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 36161
+  },
+  {
+    "Id": 33,
+    "StageMainNumber": 33,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 67801
+  },
+  {
+    "Id": 34,
+    "StageMainNumber": 34,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 71031
+  },
+  {
+    "Id": 35,
+    "StageMainNumber": 35,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 73966
+  },
+  {
+    "Id": 36,
+    "StageMainNumber": 36,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 176873
+  },
+  {
+    "Id": 37,
+    "StageMainNumber": 37,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 186454
+  },
+  {
+    "Id": 38,
+    "StageMainNumber": 38,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 195268
+  },
+  {
+    "Id": 39,
+    "StageMainNumber": 39,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 469394
+  },
+  {
+    "Id": 40,
+    "StageMainNumber": 40,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 497210
+  },
+  {
+    "Id": 41,
+    "StageMainNumber": 41,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 523040
+  },
+  {
+    "Id": 42,
+    "StageMainNumber": 42,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 1262508
+  },
+  {
+    "Id": 43,
+    "StageMainNumber": 43,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 1342467
+  },
+  {
+    "Id": 44,
+    "StageMainNumber": 44,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 1464509
+  },
+  {
+    "Id": 45,
+    "StageMainNumber": 45,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 3661272
+  },
+  {
+    "Id": 46,
+    "StageMainNumber": 46,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 4027400
+  },
+  {
+    "Id": 47,
+    "StageMainNumber": 47,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 4393527
+  },
+  {
+    "Id": 48,
+    "StageMainNumber": 48,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 10983817
+  },
+  {
+    "Id": 49,
+    "StageMainNumber": 49,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 12082199
+  },
+  {
+    "Id": 50,
+    "StageMainNumber": 50,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 13180581
+  },
+  {
+    "Id": 51,
+    "StageMainNumber": 51,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 32951451
+  },
+  {
+    "Id": 52,
+    "StageMainNumber": 52,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 36246597
+  },
+  {
+    "Id": 53,
+    "StageMainNumber": 53,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 39541742
+  },
+  {
+    "Id": 54,
+    "StageMainNumber": 54,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 98854353
+  },
+  {
+    "Id": 55,
+    "StageMainNumber": 55,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 108739789
+  },
+  {
+    "Id": 56,
+    "StageMainNumber": 56,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 118625224
+  },
+  {
+    "Id": 57,
+    "StageMainNumber": 57,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 296563058
+  },
+  {
+    "Id": 58,
+    "StageMainNumber": 58,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 326219364
+  },
+  {
+    "Id": 59,
+    "StageMainNumber": 59,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 355875670
+  },
+  {
+    "Id": 60,
+    "StageMainNumber": 60,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 889689174
+  },
+  {
+    "Id": 61,
+    "StageMainNumber": 61,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 978658092
+  },
+  {
+    "Id": 62,
+    "StageMainNumber": 62,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 1067627009
+  },
+  {
+    "Id": 63,
+    "StageMainNumber": 63,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 2669067522
+  },
+  {
+    "Id": 64,
+    "StageMainNumber": 64,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 2935974275
+  },
+  {
+    "Id": 65,
+    "StageMainNumber": 65,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 3202881027
+  },
+  {
+    "Id": 66,
+    "StageMainNumber": 66,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 8007202567
+  },
+  {
+    "Id": 67,
+    "StageMainNumber": 67,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 8807922824
+  },
+  {
+    "Id": 68,
+    "StageMainNumber": 68,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 9608643081
+  },
+  {
+    "Id": 69,
+    "StageMainNumber": 69,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 24021607701
+  },
+  {
+    "Id": 70,
+    "StageMainNumber": 70,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 26423768472
+  },
+  {
+    "Id": 71,
+    "StageMainNumber": 71,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 28825929242
+  },
+  {
+    "Id": 72,
+    "StageMainNumber": 72,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 72064823103
+  },
+  {
+    "Id": 73,
+    "StageMainNumber": 73,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 79271305414
+  },
+  {
+    "Id": 74,
+    "StageMainNumber": 74,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 86477787724
+  },
+  {
+    "Id": 75,
+    "StageMainNumber": 75,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 216194469308
+  },
+  {
+    "Id": 76,
+    "StageMainNumber": 76,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 237813916239
+  },
+  {
+    "Id": 77,
+    "StageMainNumber": 77,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 259433363170
+  },
+  {
+    "Id": 78,
+    "StageMainNumber": 78,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 648583407924
+  },
+  {
+    "Id": 79,
+    "StageMainNumber": 79,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 713441748717
+  },
+  {
+    "Id": 80,
+    "StageMainNumber": 80,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 778300089509
+  },
+  {
+    "Id": 81,
+    "StageMainNumber": 81,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 1945750223772
+  },
+  {
+    "Id": 82,
+    "StageMainNumber": 82,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 2140325246150
+  },
+  {
+    "Id": 83,
+    "StageMainNumber": 83,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 2334900268527
+  },
+  {
+    "Id": 84,
+    "StageMainNumber": 84,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 5837250671317
+  },
+  {
+    "Id": 85,
+    "StageMainNumber": 85,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 6420975738449
+  },
+  {
+    "Id": 86,
+    "StageMainNumber": 86,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 7004700805581
+  },
+  {
+    "Id": 87,
+    "StageMainNumber": 87,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 17511752013951
+  },
+  {
+    "Id": 88,
+    "StageMainNumber": 88,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 19262927215347
+  },
+  {
+    "Id": 89,
+    "StageMainNumber": 89,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 21014102416742
+  },
+  {
+    "Id": 90,
+    "StageMainNumber": 90,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 52535256041853
+  },
+  {
+    "Id": 91,
+    "StageMainNumber": 91,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 57788781646039
+  },
+  {
+    "Id": 92,
+    "StageMainNumber": 92,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 63042307250224
+  },
+  {
+    "Id": 93,
+    "StageMainNumber": 93,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 157605768125558
+  },
+  {
+    "Id": 94,
+    "StageMainNumber": 94,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 173366344938114
+  },
+  {
+    "Id": 95,
+    "StageMainNumber": 95,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 189126921750670
+  },
+  {
+    "Id": 96,
+    "StageMainNumber": 96,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 472817304376674
+  },
+  {
+    "Id": 97,
+    "StageMainNumber": 97,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 520099034814341
+  },
+  {
+    "Id": 98,
+    "StageMainNumber": 98,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 567380765252009
+  },
+  {
+    "Id": 99,
+    "StageMainNumber": 99,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 1418451913130020
+  },
+  {
+    "Id": 100,
+    "StageMainNumber": 100,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 1560297104443023
+  },
+  {
+    "Id": 101,
+    "StageMainNumber": 101,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 1702142295756027
+  },
+  {
+    "Id": 102,
+    "StageMainNumber": 102,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 4255355739390060
+  },
+  {
+    "Id": 103,
+    "StageMainNumber": 103,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 4680891313329069
+  },
+  {
+    "Id": 104,
+    "StageMainNumber": 104,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 5106426887268081
+  },
+  {
+    "Id": 105,
+    "StageMainNumber": 105,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 12766067218170180
+  },
+  {
+    "Id": 106,
+    "StageMainNumber": 106,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 14042673939987208
+  },
+  {
+    "Id": 107,
+    "StageMainNumber": 107,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 15319280661804244
+  },
+  {
+    "Id": 108,
+    "StageMainNumber": 108,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 38298201654510544
+  },
+  {
+    "Id": 109,
+    "StageMainNumber": 109,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 42128021819961624
+  },
+  {
+    "Id": 110,
+    "StageMainNumber": 110,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 45957841985412736
+  },
+  {
+    "Id": 111,
+    "StageMainNumber": 111,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 114894604963531632
+  },
+  {
+    "Id": 112,
+    "StageMainNumber": 112,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 126384065459884864
+  },
+  {
+    "Id": 113,
+    "StageMainNumber": 113,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 137873525956238208
+  },
+  {
+    "Id": 114,
+    "StageMainNumber": 114,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 344683814890594880
+  },
+  {
+    "Id": 115,
+    "StageMainNumber": 115,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 379152196379654592
+  },
+  {
+    "Id": 116,
+    "StageMainNumber": 116,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 413620577868714624
+  },
+  {
+    "Id": 117,
+    "StageMainNumber": 117,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 1034051444671784704
+  },
+  {
+    "Id": 118,
+    "StageMainNumber": 118,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 1137456589138963712
+  },
+  {
+    "Id": 119,
+    "StageMainNumber": 119,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 1240861733606144000
+  },
+  {
+    "Id": 120,
+    "StageMainNumber": 120,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": 3102154334015353856
+  },
+  {
+    "Id": 121,
+    "StageMainNumber": 121,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": 3412369767416891392
+  },
+  {
+    "Id": 122,
+    "StageMainNumber": 122,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": 3722585200818432000
+  },
+  {
+    "Id": 123,
+    "StageMainNumber": 123,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 124,
+    "StageMainNumber": 124,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 125,
+    "StageMainNumber": 125,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 126,
+    "StageMainNumber": 126,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 127,
+    "StageMainNumber": 127,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 128,
+    "StageMainNumber": 128,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 129,
+    "StageMainNumber": 129,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 130,
+    "StageMainNumber": 130,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 131,
+    "StageMainNumber": 131,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 132,
+    "StageMainNumber": 132,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 133,
+    "StageMainNumber": 133,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 134,
+    "StageMainNumber": 134,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 135,
+    "StageMainNumber": 135,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 136,
+    "StageMainNumber": 136,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 137,
+    "StageMainNumber": 137,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 138,
+    "StageMainNumber": 138,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 139,
+    "StageMainNumber": 139,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 140,
+    "StageMainNumber": 140,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 141,
+    "StageMainNumber": 141,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 142,
+    "StageMainNumber": 142,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 143,
+    "StageMainNumber": 143,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 144,
+    "StageMainNumber": 144,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 145,
+    "StageMainNumber": 145,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 146,
+    "StageMainNumber": 146,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 147,
+    "StageMainNumber": 147,
+    "SoulType": 13,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 148,
+    "StageMainNumber": 148,
+    "SoulType": 14,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  },
+  {
+    "Id": 149,
+    "StageMainNumber": 149,
+    "SoulType": 15,
+    "SoulProb": 1.0,
+    "SoulAmount": -9223372036854775808
+  }
+]

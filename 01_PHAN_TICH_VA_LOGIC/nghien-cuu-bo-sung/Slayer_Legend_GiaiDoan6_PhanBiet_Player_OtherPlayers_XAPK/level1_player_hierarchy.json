@@ -1,0 +1,165 @@
+[
+  {
+    "start_go": 22167,
+    "hierarchy": [
+      {
+        "transform_pathid": 41534,
+        "go": 22167,
+        "name": "PlayerInGameDisplay_Animation",
+        "parent_transform": 43145,
+        "bytes_read": 128,
+        "object_size": 128
+      },
+      {
+        "transform_pathid": 43145,
+        "go": 24306,
+        "name": "PlayerInGameDisplay (2)",
+        "parent_transform": 40884,
+        "bytes_read": 104,
+        "object_size": 104
+      },
+      {
+        "transform_pathid": 40884,
+        "go": 3262,
+        "name": "OtherPlayers",
+        "parent_transform": 0,
+        "bytes_read": 116,
+        "object_size": 116
+      }
+    ]
+  },
+  {
+    "start_go": 22168,
+    "hierarchy": [
+      {
+        "transform_pathid": 41537,
+        "go": 22168,
+        "name": "PlayerInGameDisplay_Animation",
+        "parent_transform": 43144,
+        "bytes_read": 128,
+        "object_size": 128
+      },
+      {
+        "transform_pathid": 43144,
+        "go": 24305,
+        "name": "PlayerInGameDisplay (1)",
+        "parent_transform": 40884,
+        "bytes_read": 104,
+        "object_size": 104
+      },
+      {
+        "transform_pathid": 40884,
+        "go": 3262,
+        "name": "OtherPlayers",
+        "parent_transform": 0,
+        "bytes_read": 116,
+        "object_size": 116
+      }
+    ]
+  },
+  {
+    "start_go": 22169,
+    "hierarchy": [
+      {
+        "transform_pathid": 41535,
+        "go": 22169,
+        "name": "PlayerInGameDisplay_Animation",
+        "parent_transform": 43142,
+        "bytes_read": 128,
+        "object_size": 128
+      },
+      {
+        "transform_pathid": 43142,
+        "go": 24304,
+        "name": "PlayerInGameDisplay",
+        "parent_transform": 40884,
+        "bytes_read": 104,
+        "object_size": 104
+      },
+      {
+        "transform_pathid": 40884,
+        "go": 3262,
+        "name": "OtherPlayers",
+        "parent_transform": 0,
+        "bytes_read": 116,
+        "object_size": 116
+      }
+    ]
+  },
+  {
+    "start_go": 22170,
+    "hierarchy": [
+      {
+        "transform_pathid": 41536,
+        "go": 22170,
+        "name": "PlayerInGameDisplay_Animation",
+        "parent_transform": 43143,
+        "bytes_read": 128,
+        "object_size": 128
+      },
+      {
+        "transform_pathid": 43143,
+        "go": 24303,
+        "name": "PlayerInGameDisplay (3)",
+        "parent_transform": 40884,
+        "bytes_read": 104,
+        "object_size": 104
+      },
+      {
+        "transform_pathid": 40884,
+        "go": 3262,
+        "name": "OtherPlayers",
+        "parent_transform": 0,
+        "bytes_read": 116,
+        "object_size": 116
+      }
+    ]
+  },
+  {
+    "start_go": 6416,
+    "hierarchy": [
+      {
+        "transform_pathid": 41175,
+        "go": 6416,
+        "name": "Player",
+        "parent_transform": 0,
+        "bytes_read": 236,
+        "object_size": 236
+      }
+    ]
+  },
+  {
+    "start_go": 2816,
+    "hierarchy": [
+      {
+        "transform_pathid": 40845,
+        "go": 2816,
+        "name": "GameManager",
+        "parent_transform": 42254,
+        "bytes_read": 68,
+        "object_size": 68
+      },
+      {
+        "transform_pathid": 42254,
+        "go": 13464,
+        "name": "MANAGERs",
+        "parent_transform": 0,
+        "bytes_read": 668,
+        "object_size": 668
+      }
+    ]
+  },
+  {
+    "start_go": 1522,
+    "hierarchy": [
+      {
+        "transform_pathid": 40706,
+        "go": 1522,
+        "name": "TutorialManager",
+        "parent_transform": 0,
+        "bytes_read": 92,
+        "object_size": 92
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Name": "THEME_DUNGEON_NAME_ThemeDungeonBee2026",
+    "GetType": 7,
+    "SkinGrade": 2
+  },
+  {
+    "Id": 2,
+    "Name": "THEME_DUNGEON_NAME_ThemeDungeonSoccer2026",
+    "GetType": 7,
+    "SkinGrade": 2
+  },
+  {
+    "Id": 3,
+    "Name": "THEME_DUNGEON_NAME_ThemeDungeonDetective2026",
+    "GetType": 7,
+    "SkinGrade": 2
+  }
+]

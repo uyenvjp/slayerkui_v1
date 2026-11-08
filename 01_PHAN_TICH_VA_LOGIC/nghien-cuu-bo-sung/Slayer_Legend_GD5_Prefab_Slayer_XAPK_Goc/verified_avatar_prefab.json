@@ -1,0 +1,544 @@
+{
+  "source_file": "Slayer+Legend+_+Idle+RPG_700.0.4_APKPure(1).xapk",
+  "source_sha256": "b8c19d5fdf4da70c8c45cddf3f7e6b8a850863fd55b09b087c6d06d7001d6098",
+  "workflow": "UnityFS TypeTree from monster bundle -> sharedassets1 stripped scene -> PlayerInGameDisplay MonoBehaviour -> component SpriteRenderer -> m_Sprite -> serialized Sprite m_Name",
+  "stripped_scene_type_tree": false,
+  "sharedassets1_external_file_count": 902,
+  "player_instances": [
+    {
+      "player_component": 13136,
+      "gameobject_path_id": 3317,
+      "gameobject_name": "PlayerInGameDisplay_Animation",
+      "state": 0,
+      "attackHitRange": 1.5,
+      "attackHitHeight": 0.6000000238418579,
+      "player_layers": {
+        "Equipment_SpriteRenderer": {
+          "m_FileID": 0,
+          "m_PathID": 9898
+        },
+        "Body": {
+          "m_FileID": 0,
+          "m_PathID": 9772
+        },
+        "Costume": {
+          "m_FileID": 0,
+          "m_PathID": 9949
+        },
+        "Head": {
+          "m_FileID": 0,
+          "m_PathID": 10130
+        },
+        "Hair": {
+          "m_FileID": 0,
+          "m_PathID": 9901
+        },
+        "Hat": {
+          "m_FileID": 0,
+          "m_PathID": 10279
+        },
+        "Hair_Back": {
+          "m_FileID": 0,
+          "m_PathID": 9929
+        },
+        "Hair_Light": {
+          "m_FileID": 0,
+          "m_PathID": 10152
+        },
+        "Face": {
+          "m_FileID": 0,
+          "m_PathID": 10051
+        },
+        "FaceDeco": {
+          "m_FileID": 0,
+          "m_PathID": 10255
+        },
+        "Earring": {
+          "m_FileID": 0,
+          "m_PathID": 10028
+        },
+        "Cloak_Front": {
+          "m_FileID": 0,
+          "m_PathID": 10132
+        },
+        "Cloak_Back": {
+          "m_FileID": 0,
+          "m_PathID": 9736
+        },
+        "Lens": {
+          "m_FileID": 0,
+          "m_PathID": 10315
+        },
+        "Leg_Body": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "Leg_Costume": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      }
+    },
+    {
+      "player_component": 13710,
+      "gameobject_path_id": 3757,
+      "gameobject_name": "PlayerInGameDisplay_Animation",
+      "state": 0,
+      "attackHitRange": 1.5,
+      "attackHitHeight": 0.6000000238418579,
+      "player_layers": {
+        "Equipment_SpriteRenderer": {
+          "m_FileID": 0,
+          "m_PathID": 10272
+        },
+        "Body": {
+          "m_FileID": 0,
+          "m_PathID": 10078
+        },
+        "Costume": {
+          "m_FileID": 0,
+          "m_PathID": 10348
+        },
+        "Head": {
+          "m_FileID": 0,
+          "m_PathID": 10007
+        },
+        "Hair": {
+          "m_FileID": 0,
+          "m_PathID": 9791
+        },
+        "Hat": {
+          "m_FileID": 0,
+          "m_PathID": 10351
+        },
+        "Hair_Back": {
+          "m_FileID": 0,
+          "m_PathID": 10057
+        },
+        "Hair_Light": {
+          "m_FileID": 0,
+          "m_PathID": 10171
+        },
+        "Face": {
+          "m_FileID": 0,
+          "m_PathID": 9965
+        },
+        "FaceDeco": {
+          "m_FileID": 0,
+          "m_PathID": 9668
+        },
+        "Earring": {
+          "m_FileID": 0,
+          "m_PathID": 9782
+        },
+        "Cloak_Front": {
+          "m_FileID": 0,
+          "m_PathID": 10089
+        },
+        "Cloak_Back": {
+          "m_FileID": 0,
+          "m_PathID": 10289
+        },
+        "Lens": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "Leg_Body": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "Leg_Costume": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      }
+    }
+  ],
+  "named_sprite_refs": [
+    {
+      "player_component": 13136,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Body",
+      "renderer_local_path_id": 9772,
+      "renderer_class_id": 212,
+      "sprite_file_id": 0,
+      "sprite_path_id": 0,
+      "sprite_source_file": "",
+      "sprite_name": "",
+      "evidence_status": "sprite_not_assigned"
+    },
+    {
+      "player_component": 13136,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Costume",
+      "renderer_local_path_id": 9949,
+      "renderer_class_id": 212,
+      "sprite_file_id": 325,
+      "sprite_path_id": 2,
+      "sprite_source_file": "5c81e3cfad4d104419791c566af9b6c9",
+      "sprite_name": "skin_costume_000_0",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13136,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Head",
+      "renderer_local_path_id": 10130,
+      "renderer_class_id": 212,
+      "sprite_file_id": 271,
+      "sprite_path_id": 4,
+      "sprite_source_file": "4d8f28e9251f47847882049cbddc03f1",
+      "sprite_name": "skin_body_000_22",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13136,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Hair",
+      "renderer_local_path_id": 9901,
+      "renderer_class_id": 212,
+      "sprite_file_id": 538,
+      "sprite_path_id": 2,
+      "sprite_source_file": "9cc08a9e895bb024c9502cda77f821db",
+      "sprite_name": "skin_hair_000_0",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13136,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Hat",
+      "renderer_local_path_id": 10279,
+      "renderer_class_id": 212,
+      "sprite_file_id": 273,
+      "sprite_path_id": 2,
+      "sprite_source_file": "4dfa628bade5ee847ac8af528925abab",
+      "sprite_name": "skin_hat_085_0",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13136,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Hair_Back",
+      "renderer_local_path_id": 9929,
+      "renderer_class_id": 212,
+      "sprite_file_id": 0,
+      "sprite_path_id": 0,
+      "sprite_source_file": "",
+      "sprite_name": "",
+      "evidence_status": "sprite_not_assigned"
+    },
+    {
+      "player_component": 13136,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Hair_Light",
+      "renderer_local_path_id": 10152,
+      "renderer_class_id": 212,
+      "sprite_file_id": 547,
+      "sprite_path_id": 2,
+      "sprite_source_file": "9de00a7755526de4b80efbcc842be0b9",
+      "sprite_name": "skin_hair_001_2",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13136,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Face",
+      "renderer_local_path_id": 10051,
+      "renderer_class_id": 212,
+      "sprite_file_id": 310,
+      "sprite_path_id": 2,
+      "sprite_source_file": "572cb62c954778e47a0c408ae136f726",
+      "sprite_name": "skin_face_000_0",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13136,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "FaceDeco",
+      "renderer_local_path_id": 10255,
+      "renderer_class_id": 212,
+      "sprite_file_id": 307,
+      "sprite_path_id": 2,
+      "sprite_source_file": "56e0f1c661cb9d54abe5d6efaeb0cc1b",
+      "sprite_name": "skin_facedeco_002_0",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13136,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Earring",
+      "renderer_local_path_id": 10028,
+      "renderer_class_id": 212,
+      "sprite_file_id": 637,
+      "sprite_path_id": 2,
+      "sprite_source_file": "b8ffb8bed9976a94397967fa22a6d5c5",
+      "sprite_name": "skin_earring_000_0",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13136,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Cloak_Front",
+      "renderer_local_path_id": 10132,
+      "renderer_class_id": 212,
+      "sprite_file_id": 156,
+      "sprite_path_id": 3,
+      "sprite_source_file": "2dc83412c9a5a964a8756aac9cedcda1",
+      "sprite_name": "skin_cloak_000_12",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13136,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Cloak_Back",
+      "renderer_local_path_id": 9736,
+      "renderer_class_id": 212,
+      "sprite_file_id": 156,
+      "sprite_path_id": 2,
+      "sprite_source_file": "2dc83412c9a5a964a8756aac9cedcda1",
+      "sprite_name": "skin_cloak_000_0",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13136,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Lens",
+      "renderer_local_path_id": 10315,
+      "renderer_class_id": 212,
+      "sprite_file_id": 320,
+      "sprite_path_id": 2,
+      "sprite_source_file": "5b27abe48ad94354ba1e35af2f39ed6b",
+      "sprite_name": "skin_face_000_Lens_0",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13136,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Leg_Body",
+      "renderer_local_path_id": 0,
+      "renderer_class_id": null,
+      "sprite_file_id": null,
+      "sprite_path_id": null,
+      "sprite_source_file": "",
+      "sprite_name": "",
+      "evidence_status": "no_renderer_reference"
+    },
+    {
+      "player_component": 13136,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Leg_Costume",
+      "renderer_local_path_id": 0,
+      "renderer_class_id": null,
+      "sprite_file_id": null,
+      "sprite_path_id": null,
+      "sprite_source_file": "",
+      "sprite_name": "",
+      "evidence_status": "no_renderer_reference"
+    },
+    {
+      "player_component": 13136,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Equipment_SpriteRenderer",
+      "renderer_local_path_id": 9898,
+      "renderer_class_id": 212,
+      "sprite_file_id": 902,
+      "sprite_path_id": 467,
+      "sprite_source_file": "sharedassets0.assets",
+      "sprite_name": "sword_00",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13710,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Body",
+      "renderer_local_path_id": 10078,
+      "renderer_class_id": 212,
+      "sprite_file_id": 0,
+      "sprite_path_id": 0,
+      "sprite_source_file": "",
+      "sprite_name": "",
+      "evidence_status": "sprite_not_assigned"
+    },
+    {
+      "player_component": 13710,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Costume",
+      "renderer_local_path_id": 10348,
+      "renderer_class_id": 212,
+      "sprite_file_id": 325,
+      "sprite_path_id": 2,
+      "sprite_source_file": "5c81e3cfad4d104419791c566af9b6c9",
+      "sprite_name": "skin_costume_000_0",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13710,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Head",
+      "renderer_local_path_id": 10007,
+      "renderer_class_id": 212,
+      "sprite_file_id": 271,
+      "sprite_path_id": 4,
+      "sprite_source_file": "4d8f28e9251f47847882049cbddc03f1",
+      "sprite_name": "skin_body_000_22",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13710,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Hair",
+      "renderer_local_path_id": 9791,
+      "renderer_class_id": 212,
+      "sprite_file_id": 538,
+      "sprite_path_id": 2,
+      "sprite_source_file": "9cc08a9e895bb024c9502cda77f821db",
+      "sprite_name": "skin_hair_000_0",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13710,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Hat",
+      "renderer_local_path_id": 10351,
+      "renderer_class_id": 212,
+      "sprite_file_id": 0,
+      "sprite_path_id": 1097,
+      "sprite_source_file": "sharedassets1.assets",
+      "sprite_name": "skin_hat_001_0",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13710,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Hair_Back",
+      "renderer_local_path_id": 10057,
+      "renderer_class_id": 212,
+      "sprite_file_id": 0,
+      "sprite_path_id": 0,
+      "sprite_source_file": "",
+      "sprite_name": "",
+      "evidence_status": "sprite_not_assigned"
+    },
+    {
+      "player_component": 13710,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Hair_Light",
+      "renderer_local_path_id": 10171,
+      "renderer_class_id": 212,
+      "sprite_file_id": 547,
+      "sprite_path_id": 2,
+      "sprite_source_file": "9de00a7755526de4b80efbcc842be0b9",
+      "sprite_name": "skin_hair_001_2",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13710,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Face",
+      "renderer_local_path_id": 9965,
+      "renderer_class_id": 212,
+      "sprite_file_id": 310,
+      "sprite_path_id": 2,
+      "sprite_source_file": "572cb62c954778e47a0c408ae136f726",
+      "sprite_name": "skin_face_000_0",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13710,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "FaceDeco",
+      "renderer_local_path_id": 9668,
+      "renderer_class_id": 212,
+      "sprite_file_id": 307,
+      "sprite_path_id": 2,
+      "sprite_source_file": "56e0f1c661cb9d54abe5d6efaeb0cc1b",
+      "sprite_name": "skin_facedeco_002_0",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13710,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Earring",
+      "renderer_local_path_id": 9782,
+      "renderer_class_id": 212,
+      "sprite_file_id": 637,
+      "sprite_path_id": 2,
+      "sprite_source_file": "b8ffb8bed9976a94397967fa22a6d5c5",
+      "sprite_name": "skin_earring_000_0",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13710,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Cloak_Front",
+      "renderer_local_path_id": 10089,
+      "renderer_class_id": 212,
+      "sprite_file_id": 156,
+      "sprite_path_id": 3,
+      "sprite_source_file": "2dc83412c9a5a964a8756aac9cedcda1",
+      "sprite_name": "skin_cloak_000_12",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13710,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Cloak_Back",
+      "renderer_local_path_id": 10289,
+      "renderer_class_id": 212,
+      "sprite_file_id": 156,
+      "sprite_path_id": 2,
+      "sprite_source_file": "2dc83412c9a5a964a8756aac9cedcda1",
+      "sprite_name": "skin_cloak_000_0",
+      "evidence_status": "name_from_serialized_sprite"
+    },
+    {
+      "player_component": 13710,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Lens",
+      "renderer_local_path_id": 0,
+      "renderer_class_id": null,
+      "sprite_file_id": null,
+      "sprite_path_id": null,
+      "sprite_source_file": "",
+      "sprite_name": "",
+      "evidence_status": "no_renderer_reference"
+    },
+    {
+      "player_component": 13710,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Leg_Body",
+      "renderer_local_path_id": 0,
+      "renderer_class_id": null,
+      "sprite_file_id": null,
+      "sprite_path_id": null,
+      "sprite_source_file": "",
+      "sprite_name": "",
+      "evidence_status": "no_renderer_reference"
+    },
+    {
+      "player_component": 13710,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Leg_Costume",
+      "renderer_local_path_id": 0,
+      "renderer_class_id": null,
+      "sprite_file_id": null,
+      "sprite_path_id": null,
+      "sprite_source_file": "",
+      "sprite_name": "",
+      "evidence_status": "no_renderer_reference"
+    },
+    {
+      "player_component": 13710,
+      "player_object": "PlayerInGameDisplay_Animation",
+      "part": "Equipment_SpriteRenderer",
+      "renderer_local_path_id": 10272,
+      "renderer_class_id": 212,
+      "sprite_file_id": 902,
+      "sprite_path_id": 467,
+      "sprite_source_file": "sharedassets0.assets",
+      "sprite_name": "sword_00",
+      "evidence_status": "name_from_serialized_sprite"
+    }
+  ],
+  "interpretation": "Prefab references reflect static serialized assignments. They do not prove new-account default appearance or final combat behavior; runtime logic can override them."
+}

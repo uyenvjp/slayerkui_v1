@@ -1,0 +1,562 @@
+[
+  {
+    "Id": 1,
+    "Level": 1,
+    "NeedExp": 300,
+    "NeedAwaken": 0,
+    "AtkHpValue": 1.0,
+    "HuntBuffValue": 1.0
+  },
+  {
+    "Id": 2,
+    "Level": 2,
+    "NeedExp": 300,
+    "NeedAwaken": 0,
+    "AtkHpValue": 1.00600004196167,
+    "HuntBuffValue": 1.0099999904632568
+  },
+  {
+    "Id": 3,
+    "Level": 3,
+    "NeedExp": 300,
+    "NeedAwaken": 0,
+    "AtkHpValue": 1.0110000371932983,
+    "HuntBuffValue": 1.0210000276565552
+  },
+  {
+    "Id": 4,
+    "Level": 4,
+    "NeedExp": 300,
+    "NeedAwaken": 0,
+    "AtkHpValue": 1.0169999599456787,
+    "HuntBuffValue": 1.031999945640564
+  },
+  {
+    "Id": 5,
+    "Level": 5,
+    "NeedExp": 300,
+    "NeedAwaken": 0,
+    "AtkHpValue": 1.0230000019073486,
+    "HuntBuffValue": 1.0420000553131104
+  },
+  {
+    "Id": 6,
+    "Level": 6,
+    "NeedExp": 300,
+    "NeedAwaken": 0,
+    "AtkHpValue": 1.0290000438690186,
+    "HuntBuffValue": 1.0529999732971191
+  },
+  {
+    "Id": 7,
+    "Level": 7,
+    "NeedExp": 300,
+    "NeedAwaken": 0,
+    "AtkHpValue": 1.034999966621399,
+    "HuntBuffValue": 1.0640000104904175
+  },
+  {
+    "Id": 8,
+    "Level": 8,
+    "NeedExp": 300,
+    "NeedAwaken": 0,
+    "AtkHpValue": 1.0410000085830688,
+    "HuntBuffValue": 1.0750000476837158
+  },
+  {
+    "Id": 9,
+    "Level": 9,
+    "NeedExp": 300,
+    "NeedAwaken": 0,
+    "AtkHpValue": 1.0460000038146973,
+    "HuntBuffValue": 1.0870000123977661
+  },
+  {
+    "Id": 10,
+    "Level": 10,
+    "NeedExp": 400,
+    "NeedAwaken": 1,
+    "AtkHpValue": 1.0520000457763672,
+    "HuntBuffValue": 1.0980000495910645
+  },
+  {
+    "Id": 11,
+    "Level": 11,
+    "NeedExp": 400,
+    "NeedAwaken": 1,
+    "AtkHpValue": 1.0579999685287476,
+    "HuntBuffValue": 1.1100000143051147
+  },
+  {
+    "Id": 12,
+    "Level": 12,
+    "NeedExp": 400,
+    "NeedAwaken": 1,
+    "AtkHpValue": 1.0640000104904175,
+    "HuntBuffValue": 1.121000051498413
+  },
+  {
+    "Id": 13,
+    "Level": 13,
+    "NeedExp": 400,
+    "NeedAwaken": 1,
+    "AtkHpValue": 1.0700000524520874,
+    "HuntBuffValue": 1.1330000162124634
+  },
+  {
+    "Id": 14,
+    "Level": 14,
+    "NeedExp": 400,
+    "NeedAwaken": 1,
+    "AtkHpValue": 1.0770000219345093,
+    "HuntBuffValue": 1.1449999809265137
+  },
+  {
+    "Id": 15,
+    "Level": 15,
+    "NeedExp": 400,
+    "NeedAwaken": 1,
+    "AtkHpValue": 1.0829999446868896,
+    "HuntBuffValue": 1.156999945640564
+  },
+  {
+    "Id": 16,
+    "Level": 16,
+    "NeedExp": 400,
+    "NeedAwaken": 1,
+    "AtkHpValue": 1.0889999866485596,
+    "HuntBuffValue": 1.1690000295639038
+  },
+  {
+    "Id": 17,
+    "Level": 17,
+    "NeedExp": 400,
+    "NeedAwaken": 1,
+    "AtkHpValue": 1.0950000286102295,
+    "HuntBuffValue": 1.180999994277954
+  },
+  {
+    "Id": 18,
+    "Level": 18,
+    "NeedExp": 400,
+    "NeedAwaken": 1,
+    "AtkHpValue": 1.1009999513626099,
+    "HuntBuffValue": 1.1929999589920044
+  },
+  {
+    "Id": 19,
+    "Level": 19,
+    "NeedExp": 400,
+    "NeedAwaken": 1,
+    "AtkHpValue": 1.1080000400543213,
+    "HuntBuffValue": 1.2059999704360962
+  },
+  {
+    "Id": 20,
+    "Level": 20,
+    "NeedExp": 500,
+    "NeedAwaken": 2,
+    "AtkHpValue": 1.1139999628067017,
+    "HuntBuffValue": 1.218000054359436
+  },
+  {
+    "Id": 21,
+    "Level": 21,
+    "NeedExp": 500,
+    "NeedAwaken": 2,
+    "AtkHpValue": 1.1200000047683716,
+    "HuntBuffValue": 1.2309999465942383
+  },
+  {
+    "Id": 22,
+    "Level": 22,
+    "NeedExp": 500,
+    "NeedAwaken": 2,
+    "AtkHpValue": 1.1269999742507935,
+    "HuntBuffValue": 1.24399995803833
+  },
+  {
+    "Id": 23,
+    "Level": 23,
+    "NeedExp": 500,
+    "NeedAwaken": 2,
+    "AtkHpValue": 1.1330000162124634,
+    "HuntBuffValue": 1.2569999694824219
+  },
+  {
+    "Id": 24,
+    "Level": 24,
+    "NeedExp": 500,
+    "NeedAwaken": 2,
+    "AtkHpValue": 1.1390000581741333,
+    "HuntBuffValue": 1.2699999809265137
+  },
+  {
+    "Id": 25,
+    "Level": 25,
+    "NeedExp": 500,
+    "NeedAwaken": 2,
+    "AtkHpValue": 1.1460000276565552,
+    "HuntBuffValue": 1.2829999923706055
+  },
+  {
+    "Id": 26,
+    "Level": 26,
+    "NeedExp": 500,
+    "NeedAwaken": 2,
+    "AtkHpValue": 1.1519999504089355,
+    "HuntBuffValue": 1.2970000505447388
+  },
+  {
+    "Id": 27,
+    "Level": 27,
+    "NeedExp": 500,
+    "NeedAwaken": 2,
+    "AtkHpValue": 1.159000039100647,
+    "HuntBuffValue": 1.309999942779541
+  },
+  {
+    "Id": 28,
+    "Level": 28,
+    "NeedExp": 500,
+    "NeedAwaken": 2,
+    "AtkHpValue": 1.1660000085830688,
+    "HuntBuffValue": 1.3240000009536743
+  },
+  {
+    "Id": 29,
+    "Level": 29,
+    "NeedExp": 500,
+    "NeedAwaken": 2,
+    "AtkHpValue": 1.1720000505447388,
+    "HuntBuffValue": 1.3380000591278076
+  },
+  {
+    "Id": 30,
+    "Level": 30,
+    "NeedExp": 500,
+    "NeedAwaken": 3,
+    "AtkHpValue": 1.1790000200271606,
+    "HuntBuffValue": 1.3519999980926514
+  },
+  {
+    "Id": 31,
+    "Level": 31,
+    "NeedExp": 500,
+    "NeedAwaken": 3,
+    "AtkHpValue": 1.1859999895095825,
+    "HuntBuffValue": 1.3660000562667847
+  },
+  {
+    "Id": 32,
+    "Level": 32,
+    "NeedExp": 500,
+    "NeedAwaken": 3,
+    "AtkHpValue": 1.1920000314712524,
+    "HuntBuffValue": 1.3799999952316284
+  },
+  {
+    "Id": 33,
+    "Level": 33,
+    "NeedExp": 500,
+    "NeedAwaken": 3,
+    "AtkHpValue": 1.1990000009536743,
+    "HuntBuffValue": 1.3949999809265137
+  },
+  {
+    "Id": 34,
+    "Level": 34,
+    "NeedExp": 500,
+    "NeedAwaken": 3,
+    "AtkHpValue": 1.2059999704360962,
+    "HuntBuffValue": 1.409000039100647
+  },
+  {
+    "Id": 35,
+    "Level": 35,
+    "NeedExp": 500,
+    "NeedAwaken": 3,
+    "AtkHpValue": 1.2130000591278076,
+    "HuntBuffValue": 1.4240000247955322
+  },
+  {
+    "Id": 36,
+    "Level": 36,
+    "NeedExp": 500,
+    "NeedAwaken": 3,
+    "AtkHpValue": 1.2200000286102295,
+    "HuntBuffValue": 1.4390000104904175
+  },
+  {
+    "Id": 37,
+    "Level": 37,
+    "NeedExp": 500,
+    "NeedAwaken": 3,
+    "AtkHpValue": 1.2269999980926514,
+    "HuntBuffValue": 1.4539999961853027
+  },
+  {
+    "Id": 38,
+    "Level": 38,
+    "NeedExp": 500,
+    "NeedAwaken": 3,
+    "AtkHpValue": 1.2339999675750732,
+    "HuntBuffValue": 1.468999981880188
+  },
+  {
+    "Id": 39,
+    "Level": 39,
+    "NeedExp": 500,
+    "NeedAwaken": 3,
+    "AtkHpValue": 1.2410000562667847,
+    "HuntBuffValue": 1.4850000143051147
+  },
+  {
+    "Id": 40,
+    "Level": 40,
+    "NeedExp": 500,
+    "NeedAwaken": 4,
+    "AtkHpValue": 1.2480000257492065,
+    "HuntBuffValue": 1.5
+  },
+  {
+    "Id": 41,
+    "Level": 41,
+    "NeedExp": 500,
+    "NeedAwaken": 4,
+    "AtkHpValue": 1.2549999952316284,
+    "HuntBuffValue": 1.5160000324249268
+  },
+  {
+    "Id": 42,
+    "Level": 42,
+    "NeedExp": 500,
+    "NeedAwaken": 4,
+    "AtkHpValue": 1.2619999647140503,
+    "HuntBuffValue": 1.531999945640564
+  },
+  {
+    "Id": 43,
+    "Level": 43,
+    "NeedExp": 500,
+    "NeedAwaken": 4,
+    "AtkHpValue": 1.2690000534057617,
+    "HuntBuffValue": 1.5479999780654907
+  },
+  {
+    "Id": 44,
+    "Level": 44,
+    "NeedExp": 500,
+    "NeedAwaken": 4,
+    "AtkHpValue": 1.2760000228881836,
+    "HuntBuffValue": 1.5640000104904175
+  },
+  {
+    "Id": 45,
+    "Level": 45,
+    "NeedExp": 500,
+    "NeedAwaken": 4,
+    "AtkHpValue": 1.284000039100647,
+    "HuntBuffValue": 1.5800000429153442
+  },
+  {
+    "Id": 46,
+    "Level": 46,
+    "NeedExp": 500,
+    "NeedAwaken": 4,
+    "AtkHpValue": 1.2910000085830688,
+    "HuntBuffValue": 1.597000002861023
+  },
+  {
+    "Id": 47,
+    "Level": 47,
+    "NeedExp": 500,
+    "NeedAwaken": 4,
+    "AtkHpValue": 1.2979999780654907,
+    "HuntBuffValue": 1.6130000352859497
+  },
+  {
+    "Id": 48,
+    "Level": 48,
+    "NeedExp": 500,
+    "NeedAwaken": 4,
+    "AtkHpValue": 1.305999994277954,
+    "HuntBuffValue": 1.6299999952316284
+  },
+  {
+    "Id": 49,
+    "Level": 49,
+    "NeedExp": 500,
+    "NeedAwaken": 4,
+    "AtkHpValue": 1.312999963760376,
+    "HuntBuffValue": 1.6469999551773071
+  },
+  {
+    "Id": 50,
+    "Level": 50,
+    "NeedExp": 500,
+    "NeedAwaken": 5,
+    "AtkHpValue": 1.3209999799728394,
+    "HuntBuffValue": 1.6640000343322754
+  },
+  {
+    "Id": 51,
+    "Level": 51,
+    "NeedExp": 500,
+    "NeedAwaken": 5,
+    "AtkHpValue": 1.3279999494552612,
+    "HuntBuffValue": 1.6820000410079956
+  },
+  {
+    "Id": 52,
+    "Level": 52,
+    "NeedExp": 500,
+    "NeedAwaken": 5,
+    "AtkHpValue": 1.3359999656677246,
+    "HuntBuffValue": 1.6990000009536743
+  },
+  {
+    "Id": 53,
+    "Level": 53,
+    "NeedExp": 500,
+    "NeedAwaken": 5,
+    "AtkHpValue": 1.343000054359436,
+    "HuntBuffValue": 1.7170000076293945
+  },
+  {
+    "Id": 54,
+    "Level": 54,
+    "NeedExp": 500,
+    "NeedAwaken": 5,
+    "AtkHpValue": 1.3509999513626099,
+    "HuntBuffValue": 1.7350000143051147
+  },
+  {
+    "Id": 55,
+    "Level": 55,
+    "NeedExp": 500,
+    "NeedAwaken": 5,
+    "AtkHpValue": 1.3589999675750732,
+    "HuntBuffValue": 1.753000020980835
+  },
+  {
+    "Id": 56,
+    "Level": 56,
+    "NeedExp": 500,
+    "NeedAwaken": 5,
+    "AtkHpValue": 1.3660000562667847,
+    "HuntBuffValue": 1.7719999551773071
+  },
+  {
+    "Id": 57,
+    "Level": 57,
+    "NeedExp": 500,
+    "NeedAwaken": 5,
+    "AtkHpValue": 1.3739999532699585,
+    "HuntBuffValue": 1.7899999618530273
+  },
+  {
+    "Id": 58,
+    "Level": 58,
+    "NeedExp": 500,
+    "NeedAwaken": 5,
+    "AtkHpValue": 1.3819999694824219,
+    "HuntBuffValue": 1.809000015258789
+  },
+  {
+    "Id": 59,
+    "Level": 59,
+    "NeedExp": 500,
+    "NeedAwaken": 5,
+    "AtkHpValue": 1.3899999856948853,
+    "HuntBuffValue": 1.8279999494552612
+  },
+  {
+    "Id": 60,
+    "Level": 60,
+    "NeedExp": 500,
+    "NeedAwaken": 6,
+    "AtkHpValue": 1.3980000019073486,
+    "HuntBuffValue": 1.847000002861023
+  },
+  {
+    "Id": 61,
+    "Level": 61,
+    "NeedExp": 500,
+    "NeedAwaken": 6,
+    "AtkHpValue": 1.406000018119812,
+    "HuntBuffValue": 1.8660000562667847
+  },
+  {
+    "Id": 62,
+    "Level": 62,
+    "NeedExp": 500,
+    "NeedAwaken": 6,
+    "AtkHpValue": 1.4140000343322754,
+    "HuntBuffValue": 1.8860000371932983
+  },
+  {
+    "Id": 63,
+    "Level": 63,
+    "NeedExp": 500,
+    "NeedAwaken": 6,
+    "AtkHpValue": 1.4220000505447388,
+    "HuntBuffValue": 1.9049999713897705
+  },
+  {
+    "Id": 64,
+    "Level": 64,
+    "NeedExp": 500,
+    "NeedAwaken": 6,
+    "AtkHpValue": 1.4299999475479126,
+    "HuntBuffValue": 1.9249999523162842
+  },
+  {
+    "Id": 65,
+    "Level": 65,
+    "NeedExp": 500,
+    "NeedAwaken": 6,
+    "AtkHpValue": 1.437999963760376,
+    "HuntBuffValue": 1.9450000524520874
+  },
+  {
+    "Id": 66,
+    "Level": 66,
+    "NeedExp": 500,
+    "NeedAwaken": 6,
+    "AtkHpValue": 1.4459999799728394,
+    "HuntBuffValue": 1.965999960899353
+  },
+  {
+    "Id": 67,
+    "Level": 67,
+    "NeedExp": 500,
+    "NeedAwaken": 6,
+    "AtkHpValue": 1.4539999961853027,
+    "HuntBuffValue": 1.9859999418258667
+  },
+  {
+    "Id": 68,
+    "Level": 68,
+    "NeedExp": 500,
+    "NeedAwaken": 6,
+    "AtkHpValue": 1.4630000591278076,
+    "HuntBuffValue": 2.006999969482422
+  },
+  {
+    "Id": 69,
+    "Level": 69,
+    "NeedExp": 500,
+    "NeedAwaken": 6,
+    "AtkHpValue": 1.4709999561309814,
+    "HuntBuffValue": 2.0280001163482666
+  },
+  {
+    "Id": 70,
+    "Level": 70,
+    "NeedExp": 0,
+    "NeedAwaken": 7,
+    "AtkHpValue": 1.4789999723434448,
+    "HuntBuffValue": 2.0490000247955322
+  }
+]

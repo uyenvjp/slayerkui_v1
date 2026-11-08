@@ -1,0 +1,170 @@
+[
+  {
+    "Id": 1,
+    "OpenLevel": 1,
+    "StarCompleteBuffTypes": [
+      2,
+      1,
+      6
+    ],
+    "StarCompleteBuffValues": [
+      1,
+      10,
+      10
+    ]
+  },
+  {
+    "Id": 2,
+    "OpenLevel": 4,
+    "StarCompleteBuffTypes": [
+      5,
+      1,
+      6
+    ],
+    "StarCompleteBuffValues": [
+      1,
+      10,
+      10
+    ]
+  },
+  {
+    "Id": 3,
+    "OpenLevel": 10,
+    "StarCompleteBuffTypes": [
+      4,
+      1,
+      6
+    ],
+    "StarCompleteBuffValues": [
+      1,
+      10,
+      10
+    ]
+  },
+  {
+    "Id": 4,
+    "OpenLevel": 2,
+    "StarCompleteBuffTypes": [
+      3,
+      1,
+      6
+    ],
+    "StarCompleteBuffValues": [
+      1,
+      10,
+      10
+    ]
+  },
+  {
+    "Id": 5,
+    "OpenLevel": 7,
+    "StarCompleteBuffTypes": [
+      2,
+      1,
+      6
+    ],
+    "StarCompleteBuffValues": [
+      1,
+      10,
+      10
+    ]
+  },
+  {
+    "Id": 6,
+    "OpenLevel": 9,
+    "StarCompleteBuffTypes": [
+      5,
+      1,
+      6
+    ],
+    "StarCompleteBuffValues": [
+      1,
+      10,
+      10
+    ]
+  },
+  {
+    "Id": 7,
+    "OpenLevel": 3,
+    "StarCompleteBuffTypes": [
+      4,
+      1,
+      6
+    ],
+    "StarCompleteBuffValues": [
+      1,
+      10,
+      10
+    ]
+  },
+  {
+    "Id": 8,
+    "OpenLevel": 11,
+    "StarCompleteBuffTypes": [
+      3,
+      1,
+      6
+    ],
+    "StarCompleteBuffValues": [
+      1,
+      10,
+      10
+    ]
+  },
+  {
+    "Id": 9,
+    "OpenLevel": 12,
+    "StarCompleteBuffTypes": [
+      2,
+      1,
+      6
+    ],
+    "StarCompleteBuffValues": [
+      1,
+      10,
+      10
+    ]
+  },
+  {
+    "Id": 10,
+    "OpenLevel": 5,
+    "StarCompleteBuffTypes": [
+      5,
+      1,
+      6
+    ],
+    "StarCompleteBuffValues": [
+      1,
+      10,
+      10
+    ]
+  },
+  {
+    "Id": 11,
+    "OpenLevel": 6,
+    "StarCompleteBuffTypes": [
+      4,
+      1,
+      6
+    ],
+    "StarCompleteBuffValues": [
+      1,
+      10,
+      10
+    ]
+  },
+  {
+    "Id": 12,
+    "OpenLevel": 8,
+    "StarCompleteBuffTypes": [
+      3,
+      1,
+      6
+    ],
+    "StarCompleteBuffValues": [
+      1,
+      10,
+      10
+    ]
+  }
+]

@@ -1,0 +1,303 @@
+[
+  {
+    "Id": 0,
+    "Name": "SKIN_BEAST_0",
+    "GetType": 0,
+    "GetTypeIndex": 0,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1,
+    "Name": "SKIN_BEAST_1",
+    "GetType": 12,
+    "GetTypeIndex": 1,
+    "NeedValue": 0
+  },
+  {
+    "Id": 2,
+    "Name": "SKIN_BEAST_2",
+    "GetType": 12,
+    "GetTypeIndex": 2,
+    "NeedValue": 0
+  },
+  {
+    "Id": 3,
+    "Name": "SKIN_BEAST_3",
+    "GetType": 12,
+    "GetTypeIndex": 3,
+    "NeedValue": 0
+  },
+  {
+    "Id": 4,
+    "Name": "SKIN_BEAST_4",
+    "GetType": 12,
+    "GetTypeIndex": 4,
+    "NeedValue": 0
+  },
+  {
+    "Id": 11,
+    "Name": "SKIN_BEAST_11",
+    "GetType": 12,
+    "GetTypeIndex": 11,
+    "NeedValue": 0
+  },
+  {
+    "Id": 12,
+    "Name": "SKIN_BEAST_12",
+    "GetType": 12,
+    "GetTypeIndex": 12,
+    "NeedValue": 0
+  },
+  {
+    "Id": 13,
+    "Name": "SKIN_BEAST_13",
+    "GetType": 12,
+    "GetTypeIndex": 13,
+    "NeedValue": 0
+  },
+  {
+    "Id": 14,
+    "Name": "SKIN_BEAST_14",
+    "GetType": 12,
+    "GetTypeIndex": 14,
+    "NeedValue": 0
+  },
+  {
+    "Id": 101,
+    "Name": "SKIN_BEAST_101",
+    "GetType": 12,
+    "GetTypeIndex": 101,
+    "NeedValue": 0
+  },
+  {
+    "Id": 102,
+    "Name": "SKIN_BEAST_102",
+    "GetType": 12,
+    "GetTypeIndex": 102,
+    "NeedValue": 0
+  },
+  {
+    "Id": 103,
+    "Name": "SKIN_BEAST_103",
+    "GetType": 12,
+    "GetTypeIndex": 103,
+    "NeedValue": 0
+  },
+  {
+    "Id": 104,
+    "Name": "SKIN_BEAST_104",
+    "GetType": 12,
+    "GetTypeIndex": 104,
+    "NeedValue": 0
+  },
+  {
+    "Id": 201,
+    "Name": "SKIN_BEAST_201",
+    "GetType": 12,
+    "GetTypeIndex": 201,
+    "NeedValue": 0
+  },
+  {
+    "Id": 202,
+    "Name": "SKIN_BEAST_202",
+    "GetType": 12,
+    "GetTypeIndex": 202,
+    "NeedValue": 0
+  },
+  {
+    "Id": 203,
+    "Name": "SKIN_BEAST_203",
+    "GetType": 12,
+    "GetTypeIndex": 203,
+    "NeedValue": 0
+  },
+  {
+    "Id": 204,
+    "Name": "SKIN_BEAST_204",
+    "GetType": 12,
+    "GetTypeIndex": 204,
+    "NeedValue": 0
+  },
+  {
+    "Id": 301,
+    "Name": "SKIN_BEAST_301",
+    "GetType": 12,
+    "GetTypeIndex": 301,
+    "NeedValue": 0
+  },
+  {
+    "Id": 302,
+    "Name": "SKIN_BEAST_302",
+    "GetType": 12,
+    "GetTypeIndex": 301,
+    "NeedValue": 0
+  },
+  {
+    "Id": 303,
+    "Name": "SKIN_BEAST_303",
+    "GetType": 12,
+    "GetTypeIndex": 301,
+    "NeedValue": 0
+  },
+  {
+    "Id": 304,
+    "Name": "SKIN_BEAST_304",
+    "GetType": 12,
+    "GetTypeIndex": 301,
+    "NeedValue": 0
+  },
+  {
+    "Id": 305,
+    "Name": "SKIN_BEAST_305",
+    "GetType": 12,
+    "GetTypeIndex": 301,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1001,
+    "Name": "SKIN_BEAST_1001",
+    "GetType": 12,
+    "GetTypeIndex": 1001,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1002,
+    "Name": "SKIN_BEAST_1002",
+    "GetType": 12,
+    "GetTypeIndex": 1002,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1003,
+    "Name": "SKIN_BEAST_1003",
+    "GetType": 12,
+    "GetTypeIndex": 1003,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1004,
+    "Name": "SKIN_BEAST_1004",
+    "GetType": 12,
+    "GetTypeIndex": 1004,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1011,
+    "Name": "SKIN_BEAST_1011",
+    "GetType": 12,
+    "GetTypeIndex": 1011,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1012,
+    "Name": "SKIN_BEAST_1012",
+    "GetType": 12,
+    "GetTypeIndex": 1012,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1013,
+    "Name": "SKIN_BEAST_1013",
+    "GetType": 12,
+    "GetTypeIndex": 1013,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1014,
+    "Name": "SKIN_BEAST_1014",
+    "GetType": 12,
+    "GetTypeIndex": 1014,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1101,
+    "Name": "SKIN_BEAST_1101",
+    "GetType": 12,
+    "GetTypeIndex": 1101,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1102,
+    "Name": "SKIN_BEAST_1102",
+    "GetType": 12,
+    "GetTypeIndex": 1102,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1103,
+    "Name": "SKIN_BEAST_1103",
+    "GetType": 12,
+    "GetTypeIndex": 1103,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1104,
+    "Name": "SKIN_BEAST_1104",
+    "GetType": 12,
+    "GetTypeIndex": 1104,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1201,
+    "Name": "SKIN_BEAST_1201",
+    "GetType": 12,
+    "GetTypeIndex": 1201,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1202,
+    "Name": "SKIN_BEAST_1202",
+    "GetType": 12,
+    "GetTypeIndex": 1202,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1203,
+    "Name": "SKIN_BEAST_1203",
+    "GetType": 12,
+    "GetTypeIndex": 1203,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1204,
+    "Name": "SKIN_BEAST_1204",
+    "GetType": 12,
+    "GetTypeIndex": 1204,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1301,
+    "Name": "SKIN_BEAST_1301",
+    "GetType": 12,
+    "GetTypeIndex": 1301,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1302,
+    "Name": "SKIN_BEAST_1302",
+    "GetType": 12,
+    "GetTypeIndex": 1302,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1303,
+    "Name": "SKIN_BEAST_1303",
+    "GetType": 12,
+    "GetTypeIndex": 1303,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1304,
+    "Name": "SKIN_BEAST_1304",
+    "GetType": 12,
+    "GetTypeIndex": 1304,
+    "NeedValue": 0
+  },
+  {
+    "Id": 1305,
+    "Name": "SKIN_BEAST_1305",
+    "GetType": 12,
+    "GetTypeIndex": 1305,
+    "NeedValue": 0
+  }
+]

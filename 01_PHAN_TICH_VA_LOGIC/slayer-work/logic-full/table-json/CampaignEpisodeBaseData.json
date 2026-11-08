@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 0,
+    "EpisodeIndex": 0,
+    "Title": "CAMPAIGN_EPISODE_TITLE_001",
+    "StartScenario": 1,
+    "EndScenario": 7
+  },
+  {
+    "Id": 1,
+    "EpisodeIndex": 1,
+    "Title": "CAMPAIGN_EPISODE_TITLE_002",
+    "StartScenario": 8,
+    "EndScenario": 13
+  },
+  {
+    "Id": 2,
+    "EpisodeIndex": 2,
+    "Title": "CAMPAIGN_EPISODE_TITLE_003",
+    "StartScenario": 14,
+    "EndScenario": 19
+  },
+  {
+    "Id": 3,
+    "EpisodeIndex": 3,
+    "Title": "CAMPAIGN_EPISODE_TITLE_004",
+    "StartScenario": 20,
+    "EndScenario": 25
+  },
+  {
+    "Id": 4,
+    "EpisodeIndex": 4,
+    "Title": "CAMPAIGN_EPISODE_TITLE_005",
+    "StartScenario": 26,
+    "EndScenario": 31
+  },
+  {
+    "Id": 5,
+    "EpisodeIndex": 5,
+    "Title": "CAMPAIGN_EPISODE_TITLE_006",
+    "StartScenario": 32,
+    "EndScenario": 37
+  }
+]

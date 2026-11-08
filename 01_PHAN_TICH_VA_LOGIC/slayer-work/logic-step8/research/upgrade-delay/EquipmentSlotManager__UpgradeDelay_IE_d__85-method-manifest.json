@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6007024",
+    "name": "MoveNext",
+    "declaring_type_index": "2775",
+    "declaring_type_full_name": "EquipmentSlotManager+<UpgradeDelay_IE>d__85",
+    "native_va": "0x4ea3ebc",
+    "return_type_index": "59073",
+    "return_type_name": "bool",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "481",
+    "iflags": "0",
+    "slot": "6",
+    "metadata_record_offset": "0x958c0c",
+    "end_va": "0x4ea3f78",
+    "asm_file": "EquipmentSlotManager__UpgradeDelay_IE_d__85__MoveNext_0x6007024.asm"
+  }
+]

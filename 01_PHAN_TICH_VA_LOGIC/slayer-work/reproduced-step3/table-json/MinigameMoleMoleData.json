@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 0,
+    "Type": 1,
+    "Score": 2,
+    "Hp": 1,
+    "MaxCount": 38
+  },
+  {
+    "Id": 1,
+    "Type": 2,
+    "Score": 4,
+    "Hp": 2,
+    "MaxCount": 6
+  },
+  {
+    "Id": 2,
+    "Type": 3,
+    "Score": 100,
+    "Hp": 10,
+    "MaxCount": 1
+  },
+  {
+    "Id": 3,
+    "Type": 11,
+    "Score": -2,
+    "Hp": 1,
+    "MaxCount": 2
+  },
+  {
+    "Id": 4,
+    "Type": 12,
+    "Score": -2,
+    "Hp": 1,
+    "MaxCount": 2
+  },
+  {
+    "Id": 5,
+    "Type": 13,
+    "Score": -2,
+    "Hp": 1,
+    "MaxCount": 2
+  },
+  {
+    "Id": 6,
+    "Type": 14,
+    "Score": -2,
+    "Hp": 1,
+    "MaxCount": 2
+  },
+  {
+    "Id": 7,
+    "Type": 15,
+    "Score": -10,
+    "Hp": 1,
+    "MaxCount": 1
+  }
+]

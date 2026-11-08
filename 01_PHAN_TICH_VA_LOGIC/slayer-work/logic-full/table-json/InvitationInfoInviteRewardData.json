@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "InviteCount": 1,
+    "RewardType": [
+      1,
+      60
+    ],
+    "RewardCount": [
+      3000,
+      1
+    ],
+    "RewardTypeIndex": [
+      0,
+      27
+    ]
+  },
+  {
+    "Id": 2,
+    "InviteCount": 2,
+    "RewardType": [
+      1
+    ],
+    "RewardCount": [
+      3000
+    ],
+    "RewardTypeIndex": [
+      0
+    ]
+  },
+  {
+    "Id": 3,
+    "InviteCount": 3,
+    "RewardType": [
+      1
+    ],
+    "RewardCount": [
+      3000
+    ],
+    "RewardTypeIndex": [
+      0
+    ]
+  }
+]

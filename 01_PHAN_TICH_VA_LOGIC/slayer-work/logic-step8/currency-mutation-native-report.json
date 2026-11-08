@@ -1,0 +1,7 @@
+{
+  "cases": 384,
+  "entries": 4,
+  "instruction_steps": 20352,
+  "distinct_instructions": 141,
+  "scope": "CurrencyData instance/static Gain and Use bodies with exact int64 field updates. Decrypted secure wrappers, dictionary access and delegate invocation modeled explicitly; callback snapshot verifies post-update order. No server/Unity parity."
+}

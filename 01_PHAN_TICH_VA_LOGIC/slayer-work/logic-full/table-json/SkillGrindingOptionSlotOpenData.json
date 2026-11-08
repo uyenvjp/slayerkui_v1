@@ -1,0 +1,27 @@
+[
+  {
+    "Id": 1,
+    "OptionSlotIndex": 1,
+    "SkillLevel": 10
+  },
+  {
+    "Id": 2,
+    "OptionSlotIndex": 2,
+    "SkillLevel": 10
+  },
+  {
+    "Id": 3,
+    "OptionSlotIndex": 3,
+    "SkillLevel": 10
+  },
+  {
+    "Id": 4,
+    "OptionSlotIndex": 4,
+    "SkillLevel": 40
+  },
+  {
+    "Id": 5,
+    "OptionSlotIndex": 5,
+    "SkillLevel": 100
+  }
+]

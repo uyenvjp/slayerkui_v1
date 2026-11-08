@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6005c5b",
+    "name": "Player_MissProbability",
+    "declaring_type_index": "2097",
+    "declaring_type_full_name": "UsefulManager",
+    "native_va": "0x4d23080",
+    "return_type_index": "59073",
+    "return_type_name": "bool",
+    "parameter_start": "4369",
+    "parameter_count": "2",
+    "flags": "150",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x9312ec",
+    "end_va": "0x4d230f8",
+    "asm_file": "UsefulManager__Player_MissProbability_0x6005c5b.asm"
+  }
+]

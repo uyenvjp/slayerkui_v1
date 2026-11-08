@@ -1,0 +1,261 @@
+[
+  {
+    "Id": 1,
+    "Level": 1,
+    "SkillDmgAdd": 3.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 30
+  },
+  {
+    "Id": 2,
+    "Level": 2,
+    "SkillDmgAdd": 3.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 31
+  },
+  {
+    "Id": 3,
+    "Level": 3,
+    "SkillDmgAdd": 3.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 32
+  },
+  {
+    "Id": 4,
+    "Level": 4,
+    "SkillDmgAdd": 0.0,
+    "Soul": 5.0,
+    "NeedLevelCount": 33
+  },
+  {
+    "Id": 5,
+    "Level": 5,
+    "SkillDmgAdd": 5.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 34
+  },
+  {
+    "Id": 6,
+    "Level": 6,
+    "SkillDmgAdd": 5.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 35
+  },
+  {
+    "Id": 7,
+    "Level": 7,
+    "SkillDmgAdd": 0.0,
+    "Soul": 10.0,
+    "NeedLevelCount": 36
+  },
+  {
+    "Id": 8,
+    "Level": 8,
+    "SkillDmgAdd": 7.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 37
+  },
+  {
+    "Id": 9,
+    "Level": 9,
+    "SkillDmgAdd": 7.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 38
+  },
+  {
+    "Id": 10,
+    "Level": 10,
+    "SkillDmgAdd": 0.0,
+    "Soul": 15.0,
+    "NeedLevelCount": 39
+  },
+  {
+    "Id": 11,
+    "Level": 11,
+    "SkillDmgAdd": 10.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 40
+  },
+  {
+    "Id": 12,
+    "Level": 12,
+    "SkillDmgAdd": 10.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 41
+  },
+  {
+    "Id": 13,
+    "Level": 13,
+    "SkillDmgAdd": 0.0,
+    "Soul": 20.0,
+    "NeedLevelCount": 42
+  },
+  {
+    "Id": 14,
+    "Level": 14,
+    "SkillDmgAdd": 20.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 43
+  },
+  {
+    "Id": 15,
+    "Level": 15,
+    "SkillDmgAdd": 20.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 44
+  },
+  {
+    "Id": 16,
+    "Level": 16,
+    "SkillDmgAdd": 0.0,
+    "Soul": 25.0,
+    "NeedLevelCount": 45
+  },
+  {
+    "Id": 17,
+    "Level": 17,
+    "SkillDmgAdd": 30.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 46
+  },
+  {
+    "Id": 18,
+    "Level": 18,
+    "SkillDmgAdd": 30.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 47
+  },
+  {
+    "Id": 19,
+    "Level": 19,
+    "SkillDmgAdd": 0.0,
+    "Soul": 30.0,
+    "NeedLevelCount": 48
+  },
+  {
+    "Id": 20,
+    "Level": 20,
+    "SkillDmgAdd": 50.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 49
+  },
+  {
+    "Id": 21,
+    "Level": 21,
+    "SkillDmgAdd": 50.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 50
+  },
+  {
+    "Id": 22,
+    "Level": 22,
+    "SkillDmgAdd": 0.0,
+    "Soul": 35.0,
+    "NeedLevelCount": 51
+  },
+  {
+    "Id": 23,
+    "Level": 23,
+    "SkillDmgAdd": 75.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 52
+  },
+  {
+    "Id": 24,
+    "Level": 24,
+    "SkillDmgAdd": 75.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 53
+  },
+  {
+    "Id": 25,
+    "Level": 25,
+    "SkillDmgAdd": 0.0,
+    "Soul": 50.0,
+    "NeedLevelCount": 54
+  },
+  {
+    "Id": 26,
+    "Level": 26,
+    "SkillDmgAdd": 150.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 55
+  },
+  {
+    "Id": 27,
+    "Level": 27,
+    "SkillDmgAdd": 150.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 56
+  },
+  {
+    "Id": 28,
+    "Level": 28,
+    "SkillDmgAdd": 0.0,
+    "Soul": 50.0,
+    "NeedLevelCount": 57
+  },
+  {
+    "Id": 29,
+    "Level": 29,
+    "SkillDmgAdd": 250.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 58
+  },
+  {
+    "Id": 30,
+    "Level": 30,
+    "SkillDmgAdd": 300.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 59
+  },
+  {
+    "Id": 31,
+    "Level": 31,
+    "SkillDmgAdd": 350.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 60
+  },
+  {
+    "Id": 32,
+    "Level": 32,
+    "SkillDmgAdd": 400.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 61
+  },
+  {
+    "Id": 33,
+    "Level": 33,
+    "SkillDmgAdd": 450.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 62
+  },
+  {
+    "Id": 34,
+    "Level": 34,
+    "SkillDmgAdd": 500.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 63
+  },
+  {
+    "Id": 35,
+    "Level": 35,
+    "SkillDmgAdd": 550.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 64
+  },
+  {
+    "Id": 36,
+    "Level": 36,
+    "SkillDmgAdd": 600.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 65
+  },
+  {
+    "Id": 37,
+    "Level": 37,
+    "SkillDmgAdd": 666.0,
+    "Soul": 0.0,
+    "NeedLevelCount": 66
+  }
+]

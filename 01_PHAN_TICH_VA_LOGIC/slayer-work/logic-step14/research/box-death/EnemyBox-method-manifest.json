@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6008ff3",
+    "name": "DeadEvent",
+    "declaring_type_index": "3800",
+    "declaring_type_full_name": "EnemyBox",
+    "native_va": "0x50f181c",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "196",
+    "iflags": "0",
+    "slot": "62",
+    "metadata_record_offset": "0x9985ec",
+    "end_va": "0x50f19b0",
+    "asm_file": "EnemyBox__DeadEvent_0x6008ff3.asm"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6008ff4",
+    "name": "ItemDrop",
+    "declaring_type_index": "3800",
+    "declaring_type_full_name": "EnemyBox",
+    "native_va": "0x50f19b0",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "129",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x99860c",
+    "end_va": "0x50f1d14",
+    "asm_file": "EnemyBox__ItemDrop_0x6008ff4.asm"
+  }
+]

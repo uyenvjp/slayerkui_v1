@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 0,
+    "MinigameType": 5,
+    "PlayCurrency": 263,
+    "PlayCost": 1
+  },
+  {
+    "Id": 1,
+    "MinigameType": 6,
+    "PlayCurrency": 289,
+    "PlayCost": 1
+  },
+  {
+    "Id": 2,
+    "MinigameType": 7,
+    "PlayCurrency": 296,
+    "PlayCost": 1
+  }
+]

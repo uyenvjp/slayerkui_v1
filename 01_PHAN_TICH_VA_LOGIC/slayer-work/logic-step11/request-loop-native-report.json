@@ -1,0 +1,8 @@
+{
+  "connected_sequences": 96,
+  "sequence_actions": 310,
+  "contract_cases": 5,
+  "instruction_steps": 110416,
+  "distinct_instructions": 551,
+  "scope": "RequestLoop.MoveNext normal, immediate and pending response/empty-frame branches, sequence assignment, dequeue, counter reset, release deploy=2, code-17 diagnostic and KickOut before dispatch; selected original API setters linked. Queue/task/interface/RPC/UI/diagnostics are explicit fixtures. No SEH/RpcException/retry branches, transport serialization, complete callbacks or Android/UniTask scheduler parity."
+}

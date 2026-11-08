@@ -1,0 +1,11 @@
+[
+  {
+    "Id": 0,
+    "PlayCurrency": 279,
+    "PlayCost": 100,
+    "MaxPlayCount": 4,
+    "WinOffset": 2.0,
+    "LoseOffset": 0.5,
+    "DrawOffset": 1.0
+  }
+]

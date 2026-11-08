@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "CouponType": 1,
+    "TypeIndex": 1,
+    "StartTime": "2025-06-04 00:00:00 +00:00",
+    "EndTime": "2099-06-19 23:59:59 +00:00",
+    "RewardType": [
+      1
+    ],
+    "RewardAmount": [
+      5000
+    ],
+    "RewardIndex": [
+      0
+    ]
+  },
+  {
+    "Id": 2,
+    "CouponType": 1,
+    "TypeIndex": 2,
+    "StartTime": "2026-06-16 00:00:00 +00:00",
+    "EndTime": "2027-06-19 23:59:59 +00:00",
+    "RewardType": [
+      1
+    ],
+    "RewardAmount": [
+      5000
+    ],
+    "RewardIndex": [
+      0
+    ]
+  }
+]

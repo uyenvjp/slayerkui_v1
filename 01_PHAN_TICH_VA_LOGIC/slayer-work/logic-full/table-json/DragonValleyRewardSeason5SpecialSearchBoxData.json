@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 0,
+    "Grade": 0,
+    "CurrencyType": 6000,
+    "Amount": 2,
+    "CliffProb": [
+      0.0
+    ],
+    "CliffDmgType": 100
+  },
+  {
+    "Id": 1,
+    "Grade": 5,
+    "CurrencyType": 6023,
+    "Amount": 1,
+    "CliffProb": [
+      1.5
+    ],
+    "CliffDmgType": 1
+  },
+  {
+    "Id": 2,
+    "Grade": 5,
+    "CurrencyType": 6024,
+    "Amount": 1,
+    "CliffProb": [
+      1.5
+    ],
+    "CliffDmgType": 2
+  },
+  {
+    "Id": 3,
+    "Grade": 5,
+    "CurrencyType": 6025,
+    "Amount": 1,
+    "CliffProb": [
+      1.5
+    ],
+    "CliffDmgType": 3
+  },
+  {
+    "Id": 4,
+    "Grade": 5,
+    "CurrencyType": 6026,
+    "Amount": 1,
+    "CliffProb": [
+      1.5
+    ],
+    "CliffDmgType": 4
+  },
+  {
+    "Id": 5,
+    "Grade": 4,
+    "CurrencyType": 6027,
+    "Amount": 1,
+    "CliffProb": [
+      2.0
+    ],
+    "CliffDmgType": 100
+  }
+]

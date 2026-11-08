@@ -1,0 +1,321 @@
+{
+  "sources": {
+    "libil2cpp_sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+    "checkpoint_zip_sha256": "2d86c76278a5cdf7fa148cbaafb27a3134498aae007833f63846b98364554960"
+  },
+  "stage": {
+    "count": 3000,
+    "ids_contiguous": true,
+    "base_table_20_subs_each_main_0_to_49": true,
+    "samples": [
+      {
+        "Id": 0,
+        "MainNumber": 0,
+        "SubNumber": 0,
+        "Map": 0,
+        "Type": 4,
+        "Hp": "8",
+        "BossHp": "40",
+        "BossAtk": "1",
+        "Gold": "14",
+        "Exp": 15,
+        "Monster": [
+          6,
+          6,
+          0
+        ]
+      },
+      {
+        "Id": 1,
+        "MainNumber": 0,
+        "SubNumber": 1,
+        "Map": 0,
+        "Type": 4,
+        "Hp": "30",
+        "BossHp": "300",
+        "BossAtk": "1",
+        "Gold": "20",
+        "Exp": 16,
+        "Monster": [
+          1,
+          6,
+          0
+        ]
+      },
+      {
+        "Id": 19,
+        "MainNumber": 0,
+        "SubNumber": 19,
+        "Map": 1,
+        "Type": 4,
+        "Hp": "11676",
+        "BossHp": "233520",
+        "BossAtk": "100",
+        "Gold": "960",
+        "Exp": 45,
+        "Monster": [
+          5,
+          33,
+          0
+        ]
+      },
+      {
+        "Id": 20,
+        "MainNumber": 1,
+        "SubNumber": 0,
+        "Map": 2,
+        "Type": 3,
+        "Hp": "16347",
+        "BossHp": "326940",
+        "BossAtk": "175",
+        "Gold": "1103",
+        "Exp": 46,
+        "Monster": [
+          53,
+          53,
+          0
+        ]
+      },
+      {
+        "Id": 21,
+        "MainNumber": 1,
+        "SubNumber": 1,
+        "Map": 2,
+        "Type": 3,
+        "Hp": "17165",
+        "BossHp": "343300",
+        "BossAtk": "210",
+        "Gold": "1210",
+        "Exp": 47,
+        "Monster": [
+          53,
+          53,
+          0
+        ]
+      },
+      {
+        "Id": 40,
+        "MainNumber": 2,
+        "SubNumber": 0,
+        "Map": 4,
+        "Type": 1,
+        "Hp": "2867727",
+        "BossHp": "57354540",
+        "BossAtk": "1730",
+        "Gold": "3362",
+        "Exp": 68,
+        "Monster": [
+          36,
+          36,
+          0
+        ]
+      },
+      {
+        "Id": 1000,
+        "MainNumber": 50,
+        "SubNumber": 0,
+        "Map": 69,
+        "Type": 2,
+        "Hp": "1945372116533460000000000000000000000000000",
+        "BossHp": "972050141231520000000000000000000000000000000",
+        "BossAtk": "18118446935514000000000000",
+        "Gold": "80339708218",
+        "Exp": 8903428,
+        "Monster": [
+          881,
+          881,
+          0
+        ]
+      },
+      {
+        "Id": 2000,
+        "MainNumber": 91,
+        "SubNumber": 0,
+        "Map": 110,
+        "Type": 2,
+        "Hp": "245492518930731000000000000000000000000000000000000000000000000000000",
+        "BossHp": "122666011129596000000000000000000000000000000000000000000000000000000000",
+        "BossAtk": "19854516823905600000000000000000000000000000000000",
+        "Gold": "2868847153136",
+        "Exp": 1045181588,
+        "Monster": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "Id": 2999,
+        "MainNumber": 140,
+        "SubNumber": 19,
+        "Map": 159,
+        "Type": 2,
+        "Hp": "29787941903227300000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "BossHp": "14884233657890200000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "BossAtk": "2409137338454000000000000000000000000000000000000000000000000000000000000000",
+        "Gold": "11259059848647",
+        "Exp": 25944233326,
+        "Monster": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "skin_fields": [
+    {
+      "name": "CharacterNumber",
+      "offset": 1384,
+      "type": "int"
+    },
+    {
+      "name": "Skin_BodyIndex0",
+      "offset": 1412,
+      "type": "int"
+    },
+    {
+      "name": "Skin_BodyIndex1",
+      "offset": 1456,
+      "type": "int"
+    },
+    {
+      "name": "Skin_CostumeIndex0",
+      "offset": 1416,
+      "type": "int"
+    },
+    {
+      "name": "Skin_CostumeIndex1",
+      "offset": 1460,
+      "type": "int"
+    },
+    {
+      "name": "Skin_FaceIndex0",
+      "offset": 1420,
+      "type": "int"
+    },
+    {
+      "name": "Skin_FaceIndex1",
+      "offset": 1464,
+      "type": "int"
+    },
+    {
+      "name": "Skin_HairIndex0",
+      "offset": 1424,
+      "type": "int"
+    },
+    {
+      "name": "Skin_HairIndex1",
+      "offset": 1468,
+      "type": "int"
+    }
+  ],
+  "functions": {
+    "PlayerInGameDisplay::InitPlayer_MySkin": {
+      "start_va": "0x535214c",
+      "end_va": "0x53522e4",
+      "expected_calls": {
+        "PlayerInGameDisplay::SettingSkin": {
+          "va": "0x5351af8",
+          "present": true
+        }
+      },
+      "direct_call_count": 19
+    },
+    "PlayerInGameDisplay::SettingSkin": {
+      "start_va": "0x5351af8",
+      "end_va": "0x5351b78",
+      "expected_calls": {},
+      "direct_call_count": 6
+    },
+    "SkinManager::GetMyOriginalSkinData": {
+      "start_va": "0x535ecc4",
+      "end_va": "0x535ed20",
+      "expected_calls": {
+        "DatabaseManager::BuildUserAppearanceInfo": {
+          "va": "0x4d4bc84",
+          "present": true
+        }
+      },
+      "direct_call_count": 4
+    },
+    "DatabaseManager::BuildUserAppearanceInfo": {
+      "start_va": "0x4d4bc84",
+      "end_va": "0x4d4c304",
+      "expected_calls": {
+        "DatabaseManager::get_Skin_BodyIndex": {
+          "va": "0x4d4b038",
+          "present": true
+        },
+        "DatabaseManager::get_Skin_FaceIndex": {
+          "va": "0x4d4b168",
+          "present": true
+        },
+        "DatabaseManager::get_Skin_HairIndex": {
+          "va": "0x4d4b304",
+          "present": true
+        },
+        "DatabaseManager::get_Skin_HatIndex": {
+          "va": "0x4d4b564",
+          "present": true
+        },
+        "DatabaseManager::get_Skin_CostumeIndex": {
+          "va": "0x4d4ab28",
+          "present": true
+        },
+        "DatabaseManager::get_Skin_WeaponIndex": {
+          "va": "0x4d4a804",
+          "present": true
+        }
+      },
+      "direct_call_count": 85
+    },
+    "DatabaseManager::get_Skin_BodyIndex": {
+      "start_va": "0x4d4b038",
+      "end_va": "0x4d4b090",
+      "expected_calls": {},
+      "direct_call_count": 3
+    },
+    "StageManager::SelectStage": {
+      "start_va": "0x53a2688",
+      "end_va": "0x53a2910",
+      "expected_calls": {
+        "APIManager::EnterStage": {
+          "va": "0x50d0ab4",
+          "present": true
+        },
+        "GameManager::SceneChage_BlackOut_StageInit": {
+          "va": "0x4e45d00",
+          "present": true
+        }
+      },
+      "direct_call_count": 26
+    },
+    "GameManager::Stage_Init": {
+      "start_va": "0x4e425bc",
+      "end_va": "0x4e431fc",
+      "expected_calls": {
+        "MapManager::MapSetting_Index": {
+          "va": "0x4ec0c88",
+          "present": true
+        },
+        "PlayerBase::PlayerBattleStart": {
+          "va": "0x4ef4a60",
+          "present": true
+        },
+        "GameManager::Start_MakeEnemy_Stage": {
+          "va": "0x4e479ec",
+          "present": true
+        }
+      },
+      "direct_call_count": 130
+    },
+    "UserData::get_StageCurrent": {
+      "start_va": "0x53eb268",
+      "end_va": "0x53eb270",
+      "expected_calls": {},
+      "direct_call_count": 0
+    }
+  },
+  "disclaimer": "Static baseline IL2CPP; possible IFix runtime patches, account state and server behavior are not verified."
+}

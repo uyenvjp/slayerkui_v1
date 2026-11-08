@@ -1,0 +1,11 @@
+{
+  "cases": 1344,
+  "snapshots": 96,
+  "entries": 14,
+  "contract_cases": 9,
+  "connected_sequences": 1,
+  "sequence_actions": 6,
+  "instruction_steps": 33743,
+  "distinct_instructions": 495,
+  "scope": "API warm state getters/setters, strict request-time gate and Network.Request.IsValidCode dispatch. UTC DateTimeOffset/BCL/collections/diagnostic strings/stack trace/UI sinks explicit; no calendar overflow/culture/account/transport/retry-loop or full downstream parity."
+}

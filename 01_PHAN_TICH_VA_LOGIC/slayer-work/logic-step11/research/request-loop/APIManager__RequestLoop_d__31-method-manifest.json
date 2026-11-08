@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x600108b",
+    "name": "MoveNext",
+    "declaring_type_index": "1110",
+    "declaring_type_full_name": "APIManager+<RequestLoop>d__31",
+    "native_va": "0x4819ffc",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "481",
+    "iflags": "0",
+    "slot": "4",
+    "metadata_record_offset": "0x8998ec",
+    "end_va": "0x481b510",
+    "asm_file": "APIManager__RequestLoop_d__31__MoveNext_0x600108b.asm"
+  }
+]

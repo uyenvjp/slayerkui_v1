@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 0,
+    "GachaLevel": 1,
+    "SlayerClassIndex": 10,
+    "Count": 1
+  },
+  {
+    "Id": 1,
+    "GachaLevel": 2,
+    "SlayerClassIndex": 11,
+    "Count": 1
+  },
+  {
+    "Id": 2,
+    "GachaLevel": 3,
+    "SlayerClassIndex": 12,
+    "Count": 1
+  },
+  {
+    "Id": 3,
+    "GachaLevel": 4,
+    "SlayerClassIndex": 13,
+    "Count": 1
+  },
+  {
+    "Id": 4,
+    "GachaLevel": 5,
+    "SlayerClassIndex": 14,
+    "Count": 1
+  },
+  {
+    "Id": 5,
+    "GachaLevel": 6,
+    "SlayerClassIndex": 15,
+    "Count": 1
+  },
+  {
+    "Id": 6,
+    "GachaLevel": 7,
+    "SlayerClassIndex": 16,
+    "Count": 1
+  },
+  {
+    "Id": 7,
+    "GachaLevel": 8,
+    "SlayerClassIndex": 17,
+    "Count": 1
+  },
+  {
+    "Id": 8,
+    "GachaLevel": 9,
+    "SlayerClassIndex": 18,
+    "Count": 1
+  }
+]

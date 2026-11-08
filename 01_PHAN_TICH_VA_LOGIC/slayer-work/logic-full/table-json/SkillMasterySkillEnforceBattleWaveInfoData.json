@@ -1,0 +1,962 @@
+[
+  {
+    "Id": 8500,
+    "BattleIndex": 85,
+    "WaveNumber": 0,
+    "MonsterCount": 10,
+    "RepeatCount": 1,
+    "DistanceIndex": 0,
+    "monster": [
+      434,
+      434,
+      434,
+      434,
+      434,
+      434,
+      434,
+      434,
+      434,
+      434
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 9000,
+    "BattleIndex": 90,
+    "WaveNumber": 0,
+    "MonsterCount": 1,
+    "RepeatCount": 1,
+    "DistanceIndex": 0,
+    "monster": [
+      436
+    ],
+    "scale": [
+      2.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 9400,
+    "BattleIndex": 94,
+    "WaveNumber": 0,
+    "MonsterCount": 3,
+    "RepeatCount": 1,
+    "DistanceIndex": 0,
+    "monster": [
+      433,
+      433,
+      433
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 9900,
+    "BattleIndex": 99,
+    "WaveNumber": 0,
+    "MonsterCount": 3,
+    "RepeatCount": 1,
+    "DistanceIndex": 0,
+    "monster": [
+      435,
+      435,
+      435
+    ],
+    "scale": [
+      1.2000000476837158,
+      1.2000000476837158,
+      1.2000000476837158,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 10700,
+    "BattleIndex": 107,
+    "WaveNumber": 0,
+    "MonsterCount": 3,
+    "RepeatCount": 1,
+    "DistanceIndex": 1,
+    "monster": [
+      436,
+      436,
+      436
+    ],
+    "scale": [
+      2.0,
+      1.7000000476837158,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 11000,
+    "BattleIndex": 110,
+    "WaveNumber": 0,
+    "MonsterCount": 7,
+    "RepeatCount": 1,
+    "DistanceIndex": 14,
+    "monster": [
+      434,
+      434,
+      434,
+      434,
+      434,
+      434,
+      434
+    ],
+    "scale": [
+      1.7000000476837158,
+      1.7000000476837158,
+      1.7000000476837158,
+      1.399999976158142,
+      1.399999976158142,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 11500,
+    "BattleIndex": 115,
+    "WaveNumber": 0,
+    "MonsterCount": 8,
+    "RepeatCount": 1,
+    "DistanceIndex": 14,
+    "monster": [
+      433,
+      433,
+      433,
+      433,
+      433,
+      433,
+      433,
+      433
+    ],
+    "scale": [
+      1.2000000476837158,
+      1.2000000476837158,
+      1.2000000476837158,
+      1.2000000476837158,
+      1.2000000476837158,
+      1.2000000476837158,
+      1.2000000476837158,
+      1.2000000476837158,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 12100,
+    "BattleIndex": 121,
+    "WaveNumber": 0,
+    "MonsterCount": 10,
+    "RepeatCount": 1,
+    "DistanceIndex": 0,
+    "monster": [
+      434,
+      434,
+      434,
+      434,
+      434,
+      434,
+      434,
+      434,
+      434,
+      434
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 12300,
+    "BattleIndex": 123,
+    "WaveNumber": 0,
+    "MonsterCount": 1,
+    "RepeatCount": 1,
+    "DistanceIndex": 14,
+    "monster": [
+      436
+    ],
+    "scale": [
+      2.5,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 13000,
+    "BattleIndex": 130,
+    "WaveNumber": 0,
+    "MonsterCount": 10,
+    "RepeatCount": 1,
+    "DistanceIndex": 0,
+    "monster": [
+      436,
+      436,
+      436,
+      436,
+      436,
+      436,
+      436,
+      436,
+      436,
+      436
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 13600,
+    "BattleIndex": 136,
+    "WaveNumber": 0,
+    "MonsterCount": 1,
+    "RepeatCount": 1,
+    "DistanceIndex": 0,
+    "monster": [
+      435
+    ],
+    "scale": [
+      2.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 14000,
+    "BattleIndex": 140,
+    "WaveNumber": 0,
+    "MonsterCount": 10,
+    "RepeatCount": 1,
+    "DistanceIndex": 0,
+    "monster": [
+      434,
+      434,
+      434,
+      434,
+      434,
+      434,
+      434,
+      434,
+      434,
+      434
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 14600,
+    "BattleIndex": 146,
+    "WaveNumber": 0,
+    "MonsterCount": 10,
+    "RepeatCount": 1,
+    "DistanceIndex": 0,
+    "monster": [
+      433,
+      433,
+      433,
+      433,
+      433,
+      433,
+      433,
+      433,
+      433,
+      433
+    ],
+    "scale": [
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5
+    ]
+  },
+  {
+    "Id": 15200,
+    "BattleIndex": 152,
+    "WaveNumber": 0,
+    "MonsterCount": 1,
+    "RepeatCount": 1,
+    "DistanceIndex": 0,
+    "monster": [
+      435
+    ],
+    "scale": [
+      2.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 16200,
+    "BattleIndex": 162,
+    "WaveNumber": 0,
+    "MonsterCount": 6,
+    "RepeatCount": 1,
+    "DistanceIndex": 21,
+    "monster": [
+      1903,
+      1903,
+      1903,
+      1903,
+      1903,
+      1903
+    ],
+    "scale": [
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 16201,
+    "BattleIndex": 162,
+    "WaveNumber": 1,
+    "MonsterCount": 6,
+    "RepeatCount": 1,
+    "DistanceIndex": 21,
+    "monster": [
+      1903,
+      1903,
+      1903,
+      1903,
+      1903,
+      1903
+    ],
+    "scale": [
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 16202,
+    "BattleIndex": 162,
+    "WaveNumber": 2,
+    "MonsterCount": 6,
+    "RepeatCount": 1,
+    "DistanceIndex": 21,
+    "monster": [
+      1903,
+      1903,
+      1903,
+      1903,
+      1903,
+      1904
+    ],
+    "scale": [
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      2.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 16203,
+    "BattleIndex": 162,
+    "WaveNumber": 3,
+    "MonsterCount": 6,
+    "RepeatCount": 1,
+    "DistanceIndex": 21,
+    "monster": [
+      1903,
+      1903,
+      1903,
+      1903,
+      1903,
+      1903
+    ],
+    "scale": [
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 16204,
+    "BattleIndex": 162,
+    "WaveNumber": 4,
+    "MonsterCount": 6,
+    "RepeatCount": 1,
+    "DistanceIndex": 21,
+    "monster": [
+      1903,
+      1903,
+      1903,
+      1903,
+      1903,
+      1903
+    ],
+    "scale": [
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 16205,
+    "BattleIndex": 162,
+    "WaveNumber": 5,
+    "MonsterCount": 6,
+    "RepeatCount": 1,
+    "DistanceIndex": 21,
+    "monster": [
+      1903,
+      1903,
+      1903,
+      1903,
+      1903,
+      1903
+    ],
+    "scale": [
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 16206,
+    "BattleIndex": 162,
+    "WaveNumber": 6,
+    "MonsterCount": 6,
+    "RepeatCount": 1,
+    "DistanceIndex": 21,
+    "monster": [
+      1903,
+      1903,
+      1903,
+      1903,
+      1903,
+      1903
+    ],
+    "scale": [
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 16207,
+    "BattleIndex": 162,
+    "WaveNumber": 7,
+    "MonsterCount": 6,
+    "RepeatCount": 1,
+    "DistanceIndex": 21,
+    "monster": [
+      1903,
+      1903,
+      1903,
+      1903,
+      1903,
+      1903
+    ],
+    "scale": [
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 16208,
+    "BattleIndex": 162,
+    "WaveNumber": 8,
+    "MonsterCount": 6,
+    "RepeatCount": 1,
+    "DistanceIndex": 21,
+    "monster": [
+      1903,
+      1903,
+      1903,
+      1903,
+      1903,
+      1903
+    ],
+    "scale": [
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 16209,
+    "BattleIndex": 162,
+    "WaveNumber": 9,
+    "MonsterCount": 6,
+    "RepeatCount": 1,
+    "DistanceIndex": 21,
+    "monster": [
+      1903,
+      1903,
+      1903,
+      1903,
+      1903,
+      1903
+    ],
+    "scale": [
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 17000,
+    "BattleIndex": 170,
+    "WaveNumber": 0,
+    "MonsterCount": 2,
+    "RepeatCount": 1,
+    "DistanceIndex": 14,
+    "monster": [
+      1903,
+      1903
+    ],
+    "scale": [
+      1.7000000476837158,
+      1.7000000476837158,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 17001,
+    "BattleIndex": 170,
+    "WaveNumber": 1,
+    "MonsterCount": 2,
+    "RepeatCount": 1,
+    "DistanceIndex": 14,
+    "monster": [
+      1903,
+      1903
+    ],
+    "scale": [
+      1.7000000476837158,
+      1.7000000476837158,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 17002,
+    "BattleIndex": 170,
+    "WaveNumber": 2,
+    "MonsterCount": 1,
+    "RepeatCount": 1,
+    "DistanceIndex": 14,
+    "monster": [
+      1904
+    ],
+    "scale": [
+      2.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 17003,
+    "BattleIndex": 170,
+    "WaveNumber": 3,
+    "MonsterCount": 2,
+    "RepeatCount": 1,
+    "DistanceIndex": 14,
+    "monster": [
+      1903,
+      1903
+    ],
+    "scale": [
+      1.7000000476837158,
+      1.7000000476837158,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 17004,
+    "BattleIndex": 170,
+    "WaveNumber": 4,
+    "MonsterCount": 2,
+    "RepeatCount": 1,
+    "DistanceIndex": 14,
+    "monster": [
+      1903,
+      1903
+    ],
+    "scale": [
+      1.7000000476837158,
+      1.7000000476837158,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 17100,
+    "BattleIndex": 171,
+    "WaveNumber": 0,
+    "MonsterCount": 3,
+    "RepeatCount": 1,
+    "DistanceIndex": 21,
+    "monster": [
+      1903,
+      1903,
+      1903
+    ],
+    "scale": [
+      1.7000000476837158,
+      1.5,
+      1.2999999523162842,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 17101,
+    "BattleIndex": 171,
+    "WaveNumber": 1,
+    "MonsterCount": 3,
+    "RepeatCount": 1,
+    "DistanceIndex": 21,
+    "monster": [
+      1903,
+      1903,
+      1903
+    ],
+    "scale": [
+      1.7000000476837158,
+      1.5,
+      1.2999999523162842,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 17102,
+    "BattleIndex": 171,
+    "WaveNumber": 2,
+    "MonsterCount": 3,
+    "RepeatCount": 1,
+    "DistanceIndex": 21,
+    "monster": [
+      1904,
+      1903,
+      1903
+    ],
+    "scale": [
+      2.0,
+      1.5,
+      1.2999999523162842,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 17103,
+    "BattleIndex": 171,
+    "WaveNumber": 3,
+    "MonsterCount": 3,
+    "RepeatCount": 1,
+    "DistanceIndex": 21,
+    "monster": [
+      1903,
+      1903,
+      1903
+    ],
+    "scale": [
+      1.7000000476837158,
+      1.5,
+      1.2999999523162842,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 17104,
+    "BattleIndex": 171,
+    "WaveNumber": 4,
+    "MonsterCount": 3,
+    "RepeatCount": 1,
+    "DistanceIndex": 21,
+    "monster": [
+      1903,
+      1903,
+      1903
+    ],
+    "scale": [
+      1.7000000476837158,
+      1.5,
+      1.2999999523162842,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 17105,
+    "BattleIndex": 171,
+    "WaveNumber": 5,
+    "MonsterCount": 3,
+    "RepeatCount": 1,
+    "DistanceIndex": 21,
+    "monster": [
+      1903,
+      1903,
+      1903
+    ],
+    "scale": [
+      1.7000000476837158,
+      1.5,
+      1.2999999523162842,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 17106,
+    "BattleIndex": 171,
+    "WaveNumber": 6,
+    "MonsterCount": 3,
+    "RepeatCount": 1,
+    "DistanceIndex": 21,
+    "monster": [
+      1903,
+      1903,
+      1903
+    ],
+    "scale": [
+      1.7000000476837158,
+      1.5,
+      1.2999999523162842,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  }
+]

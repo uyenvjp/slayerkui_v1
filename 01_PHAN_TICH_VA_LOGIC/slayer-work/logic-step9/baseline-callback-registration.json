@@ -1,0 +1,26 @@
+{
+  "source_native_sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+  "on_enable_va": "0x4f16074",
+  "method_usage_va": "0xa42c1c0",
+  "encoded_usage": "0x6000eb45",
+  "method_definition_index": 30114,
+  "resolved_method": {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x60075a3",
+    "name": "LevelUp_Callback",
+    "declaring_type_index": "2959",
+    "declaring_type_full_name": "StatManager",
+    "native_va": "0x4f1758c",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "129",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x963bec"
+  },
+  "field": "StatManager.LevelUpAction",
+  "static_field_offset": 8,
+  "registration": "OnEnable constructs Action(this, resolved method), Delegate.Combine with previous static action, then writes result. OnDisable removes matching action. Static read only, not a full multicast runtime proof."
+}

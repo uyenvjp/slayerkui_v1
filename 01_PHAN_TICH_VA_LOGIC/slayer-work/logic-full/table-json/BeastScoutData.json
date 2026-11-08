@@ -1,0 +1,427 @@
+[
+  {
+    "Id": 1,
+    "MainNumber": 66,
+    "BeastCount": 4,
+    "BeastScoutBonusTypes": [
+      3
+    ],
+    "BonusBeastIndices": [
+      1
+    ],
+    "BeastIndices": "1,14,102,201",
+    "NeedSecond": 28800,
+    "CurrencyTypes": [
+      7005,
+      130
+    ],
+    "CurrencyIndices": [
+      0,
+      1009
+    ],
+    "CurrencyAmounts": [
+      10,
+      5
+    ]
+  },
+  {
+    "Id": 2,
+    "MainNumber": 56,
+    "BeastCount": 3,
+    "BeastScoutBonusTypes": [
+      3
+    ],
+    "BonusBeastIndices": [
+      2
+    ],
+    "BeastIndices": "2,11,202,302",
+    "NeedSecond": 28800,
+    "CurrencyTypes": [
+      7005,
+      130
+    ],
+    "CurrencyIndices": [
+      0,
+      1009
+    ],
+    "CurrencyAmounts": [
+      10,
+      5
+    ]
+  },
+  {
+    "Id": 3,
+    "MainNumber": 79,
+    "BeastCount": 2,
+    "BeastScoutBonusTypes": [
+      3
+    ],
+    "BonusBeastIndices": [
+      3
+    ],
+    "BeastIndices": "4,13",
+    "NeedSecond": 28800,
+    "CurrencyTypes": [
+      7005,
+      130
+    ],
+    "CurrencyIndices": [
+      0,
+      1009
+    ],
+    "CurrencyAmounts": [
+      10,
+      5
+    ]
+  },
+  {
+    "Id": 4,
+    "MainNumber": 31,
+    "BeastCount": 2,
+    "BeastScoutBonusTypes": [
+      3
+    ],
+    "BonusBeastIndices": [
+      4
+    ],
+    "BeastIndices": "3,203,303",
+    "NeedSecond": 28800,
+    "CurrencyTypes": [
+      7005,
+      130
+    ],
+    "CurrencyIndices": [
+      0,
+      1009
+    ],
+    "CurrencyAmounts": [
+      10,
+      5
+    ]
+  },
+  {
+    "Id": 5,
+    "MainNumber": 71,
+    "BeastCount": 3,
+    "BeastScoutBonusTypes": [
+      3
+    ],
+    "BonusBeastIndices": [
+      5
+    ],
+    "BeastIndices": "12,103,104,304",
+    "NeedSecond": 28800,
+    "CurrencyTypes": [
+      7005,
+      130
+    ],
+    "CurrencyIndices": [
+      0,
+      1009
+    ],
+    "CurrencyAmounts": [
+      10,
+      5
+    ]
+  },
+  {
+    "Id": 6,
+    "MainNumber": 21,
+    "BeastCount": 2,
+    "BeastScoutBonusTypes": [
+      3
+    ],
+    "BonusBeastIndices": [
+      6
+    ],
+    "BeastIndices": "101,204",
+    "NeedSecond": 28800,
+    "CurrencyTypes": [
+      7005,
+      130
+    ],
+    "CurrencyIndices": [
+      0,
+      1009
+    ],
+    "CurrencyAmounts": [
+      10,
+      5
+    ]
+  },
+  {
+    "Id": 7,
+    "MainNumber": 9,
+    "BeastCount": 4,
+    "BeastScoutBonusTypes": [
+      1
+    ],
+    "BonusBeastIndices": [
+      1
+    ],
+    "BeastIndices": "1,2,3,4,11,12,13,14",
+    "NeedSecond": 28800,
+    "CurrencyTypes": [
+      7005,
+      130
+    ],
+    "CurrencyIndices": [
+      0,
+      1009
+    ],
+    "CurrencyAmounts": [
+      10,
+      5
+    ]
+  },
+  {
+    "Id": 8,
+    "MainNumber": 43,
+    "BeastCount": 2,
+    "BeastScoutBonusTypes": [
+      1
+    ],
+    "BonusBeastIndices": [
+      2
+    ],
+    "BeastIndices": "101,102,103,104,301,302,303,304,305",
+    "NeedSecond": 28800,
+    "CurrencyTypes": [
+      7005,
+      130
+    ],
+    "CurrencyIndices": [
+      0,
+      1009
+    ],
+    "CurrencyAmounts": [
+      10,
+      5
+    ]
+  },
+  {
+    "Id": 9,
+    "MainNumber": 23,
+    "BeastCount": 2,
+    "BeastScoutBonusTypes": [
+      1
+    ],
+    "BonusBeastIndices": [
+      3
+    ],
+    "BeastIndices": "201,202,203,204,301,302,303,304,305",
+    "NeedSecond": 28800,
+    "CurrencyTypes": [
+      7005,
+      130
+    ],
+    "CurrencyIndices": [
+      0,
+      1009
+    ],
+    "CurrencyAmounts": [
+      10,
+      5
+    ]
+  },
+  {
+    "Id": 10,
+    "MainNumber": 19,
+    "BeastCount": 3,
+    "BeastScoutBonusTypes": [
+      2
+    ],
+    "BonusBeastIndices": [
+      101
+    ],
+    "BeastIndices": "1,2,3,4",
+    "NeedSecond": 28800,
+    "CurrencyTypes": [
+      7005,
+      130
+    ],
+    "CurrencyIndices": [
+      0,
+      1009
+    ],
+    "CurrencyAmounts": [
+      10,
+      5
+    ]
+  },
+  {
+    "Id": 11,
+    "MainNumber": 14,
+    "BeastCount": 3,
+    "BeastScoutBonusTypes": [
+      2
+    ],
+    "BonusBeastIndices": [
+      102
+    ],
+    "BeastIndices": "11,12,13,14",
+    "NeedSecond": 28800,
+    "CurrencyTypes": [
+      7005,
+      130
+    ],
+    "CurrencyIndices": [
+      0,
+      1009
+    ],
+    "CurrencyAmounts": [
+      10,
+      5
+    ]
+  },
+  {
+    "Id": 12,
+    "MainNumber": 37,
+    "BeastCount": 3,
+    "BeastScoutBonusTypes": [
+      2
+    ],
+    "BonusBeastIndices": [
+      201
+    ],
+    "BeastIndices": "101,102,103,104",
+    "NeedSecond": 28800,
+    "CurrencyTypes": [
+      7005,
+      130
+    ],
+    "CurrencyIndices": [
+      0,
+      1009
+    ],
+    "CurrencyAmounts": [
+      10,
+      5
+    ]
+  },
+  {
+    "Id": 13,
+    "MainNumber": 24,
+    "BeastCount": 3,
+    "BeastScoutBonusTypes": [
+      2
+    ],
+    "BonusBeastIndices": [
+      301
+    ],
+    "BeastIndices": "201,202,203,204",
+    "NeedSecond": 28800,
+    "CurrencyTypes": [
+      7005,
+      130
+    ],
+    "CurrencyIndices": [
+      0,
+      1009
+    ],
+    "CurrencyAmounts": [
+      10,
+      5
+    ]
+  },
+  {
+    "Id": 14,
+    "MainNumber": 12,
+    "BeastCount": 2,
+    "BeastScoutBonusTypes": [
+      4
+    ],
+    "BonusBeastIndices": [
+      2
+    ],
+    "BeastIndices": "4,14,305",
+    "NeedSecond": 28800,
+    "CurrencyTypes": [
+      7005,
+      130
+    ],
+    "CurrencyIndices": [
+      0,
+      1009
+    ],
+    "CurrencyAmounts": [
+      20,
+      10
+    ]
+  },
+  {
+    "Id": 15,
+    "MainNumber": 54,
+    "BeastCount": 2,
+    "BeastScoutBonusTypes": [
+      4
+    ],
+    "BonusBeastIndices": [
+      2
+    ],
+    "BeastIndices": "104,204,305",
+    "NeedSecond": 28800,
+    "CurrencyTypes": [
+      7005,
+      130
+    ],
+    "CurrencyIndices": [
+      0,
+      1009
+    ],
+    "CurrencyAmounts": [
+      20,
+      10
+    ]
+  },
+  {
+    "Id": 16,
+    "MainNumber": 41,
+    "BeastCount": 3,
+    "BeastScoutBonusTypes": [
+      2
+    ],
+    "BonusBeastIndices": [
+      401
+    ],
+    "BeastIndices": "301,302,303,304,305",
+    "NeedSecond": 28800,
+    "CurrencyTypes": [
+      7005,
+      130
+    ],
+    "CurrencyIndices": [
+      0,
+      1009
+    ],
+    "CurrencyAmounts": [
+      10,
+      5
+    ]
+  },
+  {
+    "Id": 17,
+    "MainNumber": 34,
+    "BeastCount": 2,
+    "BeastScoutBonusTypes": [
+      3
+    ],
+    "BonusBeastIndices": [
+      7
+    ],
+    "BeastIndices": "104,301,305",
+    "NeedSecond": 28800,
+    "CurrencyTypes": [
+      7005,
+      130
+    ],
+    "CurrencyIndices": [
+      0,
+      1009
+    ],
+    "CurrencyAmounts": [
+      10,
+      5
+    ]
+  }
+]

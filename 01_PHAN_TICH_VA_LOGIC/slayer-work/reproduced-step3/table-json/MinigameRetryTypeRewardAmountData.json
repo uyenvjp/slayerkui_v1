@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 0,
+    "MinigameType": 5,
+    "Grade": 1,
+    "RewardSlotAmount": 1
+  },
+  {
+    "Id": 1,
+    "MinigameType": 5,
+    "Grade": 2,
+    "RewardSlotAmount": 2
+  },
+  {
+    "Id": 2,
+    "MinigameType": 5,
+    "Grade": 3,
+    "RewardSlotAmount": 3
+  },
+  {
+    "Id": 3,
+    "MinigameType": 5,
+    "Grade": 4,
+    "RewardSlotAmount": 6
+  },
+  {
+    "Id": 4,
+    "MinigameType": 5,
+    "Grade": 5,
+    "RewardSlotAmount": 10
+  },
+  {
+    "Id": 5,
+    "MinigameType": 6,
+    "Grade": 1,
+    "RewardSlotAmount": 1
+  },
+  {
+    "Id": 6,
+    "MinigameType": 6,
+    "Grade": 2,
+    "RewardSlotAmount": 2
+  },
+  {
+    "Id": 7,
+    "MinigameType": 6,
+    "Grade": 3,
+    "RewardSlotAmount": 3
+  },
+  {
+    "Id": 8,
+    "MinigameType": 6,
+    "Grade": 4,
+    "RewardSlotAmount": 6
+  },
+  {
+    "Id": 9,
+    "MinigameType": 6,
+    "Grade": 5,
+    "RewardSlotAmount": 10
+  },
+  {
+    "Id": 10,
+    "MinigameType": 7,
+    "Grade": 1,
+    "RewardSlotAmount": 1
+  },
+  {
+    "Id": 11,
+    "MinigameType": 7,
+    "Grade": 2,
+    "RewardSlotAmount": 1
+  },
+  {
+    "Id": 12,
+    "MinigameType": 7,
+    "Grade": 3,
+    "RewardSlotAmount": 1
+  },
+  {
+    "Id": 13,
+    "MinigameType": 7,
+    "Grade": 4,
+    "RewardSlotAmount": 1
+  },
+  {
+    "Id": 14,
+    "MinigameType": 7,
+    "Grade": 5,
+    "RewardSlotAmount": 1
+  }
+]

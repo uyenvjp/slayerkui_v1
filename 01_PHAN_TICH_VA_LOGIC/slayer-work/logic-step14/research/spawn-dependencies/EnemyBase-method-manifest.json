@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6008f05",
+    "name": "ImageSetting_Enemy",
+    "declaring_type_index": "3792",
+    "declaring_type_full_name": "EnemyBase",
+    "native_va": "0x50b4b7c",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "10359",
+    "parameter_count": "1",
+    "flags": "454",
+    "iflags": "0",
+    "slot": "41",
+    "metadata_record_offset": "0x99682c",
+    "end_va": "0x50b4f08",
+    "asm_file": "EnemyBase__ImageSetting_Enemy_0x6008f05.asm"
+  }
+]

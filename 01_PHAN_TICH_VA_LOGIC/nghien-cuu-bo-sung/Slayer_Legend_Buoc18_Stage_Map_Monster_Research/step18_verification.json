@@ -1,0 +1,259 @@
+{
+  "status": "passed",
+  "source": "XAPK-derived libil2cpp checkpoint and extracted stage/monster tables",
+  "sha256_libil2cpp": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+  "checks_passed": 55,
+  "stage_count": 3000,
+  "stage_monster_id_present": 1920,
+  "stage_all_monster_ids_zero": 1080,
+  "monsters_table_count": 952,
+  "distinct_used_monster_ids": 575,
+  "nonzero_third_monster_option_stage_count": 60,
+  "evidence": [
+    {
+      "check": "lib_sha256",
+      "sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537"
+    },
+    {
+      "check": "method:GameManager.Stage_Init",
+      "va": "0x4e425bc"
+    },
+    {
+      "check": "method:GameManager.Start_MakeEnemy_Stage",
+      "va": "0x4e479ec"
+    },
+    {
+      "check": "method:GameManager.MakeEnemy_Stage",
+      "va": "0x4e517d8"
+    },
+    {
+      "check": "method:GameManager.MakeEnemy_StageBoss",
+      "va": "0x4e51fac"
+    },
+    {
+      "check": "method:GameManager.get_StageMonsterIndex",
+      "va": "0x4e51718"
+    },
+    {
+      "check": "method:GameManager.set_enemyHp",
+      "va": "0x4e4fcf4"
+    },
+    {
+      "check": "method:MapManager.MapSetting_Index",
+      "va": "0x4ec0c88"
+    },
+    {
+      "check": "method:MapManager.LayerSetting",
+      "va": "0x4ec08bc"
+    },
+    {
+      "check": "method:ObjectPooler_Enemy.GetEnemy",
+      "va": "0x4ecb900"
+    },
+    {
+      "check": "method:Character.set_Hp_max",
+      "va": "0x50165d0"
+    },
+    {
+      "check": "method:Character.set_Hp_cur",
+      "va": "0x501668c"
+    },
+    {
+      "check": "method:PlayerBase.PlayerBattleStart",
+      "va": "0x4ef4a60"
+    },
+    {
+      "check": "field:GameManager.CurrentStageInfo",
+      "offset": "0x208"
+    },
+    {
+      "check": "field:GameManager.EnemyHpValue",
+      "offset": "0x538"
+    },
+    {
+      "check": "field:DatabaseManager.StageCurrent",
+      "offset": "0x78"
+    },
+    {
+      "check": "field:StageInfo.Index",
+      "offset": "0x20"
+    },
+    {
+      "check": "field:StageInfo.monsterIndex",
+      "offset": "0x40"
+    },
+    {
+      "check": "field:StageInfo.MonsterCount",
+      "offset": "0x48"
+    },
+    {
+      "check": "field:StageInfo.Map",
+      "offset": "0x4c"
+    },
+    {
+      "check": "field:StageInfo.Hp",
+      "offset": "0x58"
+    },
+    {
+      "check": "field:StageInfo.BossHp",
+      "offset": "0x80"
+    },
+    {
+      "check": "field:StageInfo.BossAtk",
+      "offset": "0xa8"
+    },
+    {
+      "check": "field:MonsterInfo.Index",
+      "offset": "0x10"
+    },
+    {
+      "check": "opcode:stage_current_load",
+      "va": "0x4e42918",
+      "opcode": "0x3cc78120"
+    },
+    {
+      "check": "opcode:stageinfo_store",
+      "va": "0x4e42960",
+      "opcode": "0xf9010660"
+    },
+    {
+      "check": "opcode:stage_monster_count_read",
+      "va": "0x4e42db4",
+      "opcode": "0xb9404908"
+    },
+    {
+      "check": "opcode:stage_map_id_read",
+      "va": "0x4e42de8",
+      "opcode": "0xb9404d01"
+    },
+    {
+      "check": "opcode:monster_index_array",
+      "va": "0x4e51760",
+      "opcode": "0xf9402114"
+    },
+    {
+      "check": "opcode:random_three_choice",
+      "va": "0x4e51768",
+      "opcode": "0x52800061"
+    },
+    {
+      "check": "opcode:random_fallback_two_choice",
+      "va": "0x4e517a0",
+      "opcode": "0x52800041"
+    },
+    {
+      "check": "opcode:boss_hp_source",
+      "va": "0x4e52208",
+      "opcode": "0xad440500"
+    },
+    {
+      "check": "opcode:boss_atk_source",
+      "va": "0x4e52274",
+      "opcode": "0x9102a100"
+    },
+    {
+      "check": "opcode:boss_mul_four",
+      "va": "0x4e522a0",
+      "opcode": "0x52800080"
+    },
+    {
+      "check": "call:stageinfo_lookup",
+      "va": "0x4e42954",
+      "target": "0x8058794"
+    },
+    {
+      "check": "call:stage_hp_to_gamemanager",
+      "va": "0x4e429a8",
+      "target": "0x4e4fcf4"
+    },
+    {
+      "check": "call:stage_map_setting",
+      "va": "0x4e42df0",
+      "target": "0x4ec0c88"
+    },
+    {
+      "check": "call:stage_player_battle_start",
+      "va": "0x4e42e48",
+      "target": "0x4ef4a60"
+    },
+    {
+      "check": "call:stage_start_monsters",
+      "va": "0x4e43180",
+      "target": "0x4e479ec"
+    },
+    {
+      "check": "call:stage_monster_index_selection",
+      "va": "0x4e47c68",
+      "target": "0x4e51718"
+    },
+    {
+      "check": "call:stage_monster_spawn",
+      "va": "0x4e47c80",
+      "target": "0x4e517d8"
+    },
+    {
+      "check": "call:stage_get_pool_enemy",
+      "va": "0x4e518fc",
+      "target": "0x4ecb900"
+    },
+    {
+      "check": "call:stage_set_hp_max",
+      "va": "0x4e51a28",
+      "target": "0x50165d0"
+    },
+    {
+      "check": "call:stage_set_hp_cur",
+      "va": "0x4e51a50",
+      "target": "0x501668c"
+    },
+    {
+      "check": "call:boss_get_pool_enemy",
+      "va": "0x4e520f0",
+      "target": "0x4ecb900"
+    },
+    {
+      "check": "call:boss_set_hp_max",
+      "va": "0x4e52240",
+      "target": "0x50165d0"
+    },
+    {
+      "check": "call:boss_set_hp_cur",
+      "va": "0x4e52268",
+      "target": "0x501668c"
+    },
+    {
+      "check": "call:boss_attack_multiplier",
+      "va": "0x4e522c0",
+      "target": "0x917a844"
+    },
+    {
+      "check": "call:map_id_lookup",
+      "va": "0x4ec0d44",
+      "target": "0x8058794"
+    },
+    {
+      "check": "stage_ids_sequential_0_2999"
+    },
+    {
+      "check": "monster_table_952_records"
+    },
+    {
+      "check": "monster_indices_present_stage_0_1919"
+    },
+    {
+      "check": "no_monster_ids_stage_1920_2999"
+    },
+    {
+      "check": "575_nonzero_monster_ids_match_monster_info"
+    },
+    {
+      "check": "60_stage_records_have_third_monster_option"
+    }
+  ],
+  "limitations": [
+    "Static ARM64 only; IFix may replace method behavior",
+    "Stage 1920-2999 zero monster IDs do not prove unreleased content",
+    "No runtime game, server response, map texture extraction or spawn-validation",
+    "Monster data values and stage data do not by themselves establish combat formulas"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "package": "com.gear2.growslayer",
+  "version": "700.0.4",
+  "version_code": 705,
+  "native_sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+  "step8_bounded_native_model_cases": 2647,
+  "scoped_checks": [
+    {
+      "scope": "equipment_stats",
+      "passed": true,
+      "native_model_cases": 1359,
+      "native_report": "equipment-stat-native-flow-report.json",
+      "javascript_report": "js-equipment_stats-report.json",
+      "extra_checks": {
+        "contracts": 3
+      },
+      "limits": "Nine native equipment scalar/renew bodies plus EquipmentValue. Original table samples and synthetic edge fixtures; decrypted wrappers, initialized managers and collection lookup/get/set explicitly modeled. No Unity, online IFix, full account or backend parity."
+    },
+    {
+      "scope": "equipment_flow",
+      "passed": true,
+      "native_model_cases": 421,
+      "native_report": "equipment-flow-native-report.json",
+      "javascript_report": "js-equipment_flow-report.json",
+      "extra_checks": {
+        "sequences": 3
+      },
+      "limits": "Connected upgrade/state/iterator bodies with original native DatabaseManager.UseCurrency/get_UpgradeCube and CurrencyData.Get/Use/getters plus stat/math helpers. Secure wrappers, collections, currency callback observer, event shop selector, UI/formatting, telemetry/quest/audio, Player.Atk_Cal and API sinks are explicitly modeled; not Unity/live IFix/backend parity."
+    },
+    {
+      "scope": "currency_snapshot",
+      "passed": true,
+      "native_model_cases": 483,
+      "native_report": "currency-native-flow-report.json",
+      "javascript_report": "js-currency_snapshot-report.json",
+      "extra_checks": {
+        "contracts": 4
+      },
+      "limits": "GetCurrency/GetTotalGetValue/GetTotalUsedValue and two CheckValue overloads used by ItemUpgrade. CurrencyData/decrypted getters, allocations, constructor and PostLog sink explicitly modeled. No real network, full async RPC, PostLog implementation or server parity."
+    },
+    {
+      "scope": "currency_mutation",
+      "passed": true,
+      "native_model_cases": 384,
+      "native_report": "currency-mutation-native-report.json",
+      "javascript_report": "js-currency_mutation-report.json",
+      "extra_checks": {},
+      "limits": "CurrencyData instance/static Gain and Use bodies with exact int64 field updates. Decrypted secure wrappers, dictionary access and delegate invocation modeled explicitly; callback snapshot verifies post-update order. No server/Unity parity."
+    }
+  ],
+  "connected_sequences": 3,
+  "sequence_actions": 9,
+  "extra_checks_excluded_from_case_total": {
+    "equipment_input_contract_checks": 3,
+    "currency_null_contract_checks": 4
+  },
+  "all_client_logic_analyzed": false,
+  "all_game_logic_recovered": false,
+  "native_game_executed": false,
+  "game_services_called": false,
+  "live_ifix_loaded": false,
+  "h5_building_paused": true,
+  "deployed_this_step": false,
+  "new_or_substitute_assets_created": false,
+  "static_only_not_whole_body_validated": [
+    "APIManager.ItemUpgrade request assembly and async response continuation",
+    "DatabaseManager.UseCurrency currencies other than cube 6 and BigInteger overloads",
+    "EnemyBase.GetDmg draft from step 7 remains unvalidated as a whole body"
+  ],
+  "common_vm_change": {
+    "file": "../logic-step6/tools/native_flow_vm.py",
+    "change": "SCVTF source dN reads integer bits from SIMD register.",
+    "prior_scope": "No matching SIMD d-source instruction in step6 ASM; step7 matches only Level_Value_Setting, outside the earlier executed ranges.",
+    "prior_corpora_regenerated_this_step": false
+  },
+  "scope_notes": "Bounded original instruction models versus JavaScript translations with explicit initialized-manager, decrypted-wrapper, collection and downstream fixtures. No full account/Unity/Android/backend equivalence; case counts are not a completion percentage.",
+  "current_port_sha256": {
+    "recovered-currency-mutation.mjs": "17fd50ecf41e5b6d6cc64059babdad8ec65766c006c204baa2e178d682c0181d",
+    "recovered-currency-snapshot.mjs": "90303d49fa02ac4688e4bd33414de4f82a548a0b9191333f55c8a4065575212f",
+    "recovered-equipment-flow.mjs": "8b9eefcc0d434b1b013f9a61af178176d8bf0fb058fe49274c20713de2cc9074",
+    "recovered-equipment-stats.mjs": "d7b1bbc7135192e02bb0f5ba258a1ff1718a8bbb5c2c5f80399a4e70318deb31",
+    "verify-currency-mutation.mjs": "5f8bbb8a9823e235af92771eb814333d213b99ef6f789c0498ac43ad1b27ac08",
+    "verify-currency-snapshot.mjs": "a135ad6d5c3380001d23bb4b70de68f2c48686d5f0382ca6044f31849da997e5",
+    "verify-equipment-flow.mjs": "0d435276f2966661d1d814f91f96d9c400b4e8aa017de27c6f1c1a1033d5d02d",
+    "verify-equipment-stats.mjs": "063302b10eb37a47f448cba900f8b83aeff2b5f12db829cc453438d6a4f284f5"
+  }
+}

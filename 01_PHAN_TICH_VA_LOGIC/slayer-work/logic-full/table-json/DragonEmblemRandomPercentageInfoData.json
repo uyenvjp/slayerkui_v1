@@ -1,0 +1,46 @@
+[
+  {
+    "Id": 0,
+    "percentage": 0
+  },
+  {
+    "Id": 1,
+    "percentage": -50
+  },
+  {
+    "Id": 2,
+    "percentage": -40
+  },
+  {
+    "Id": 3,
+    "percentage": -30
+  },
+  {
+    "Id": 4,
+    "percentage": -20
+  },
+  {
+    "Id": 5,
+    "percentage": -10
+  },
+  {
+    "Id": 6,
+    "percentage": 10
+  },
+  {
+    "Id": 7,
+    "percentage": 20
+  },
+  {
+    "Id": 8,
+    "percentage": 30
+  },
+  {
+    "Id": 9,
+    "percentage": 40
+  },
+  {
+    "Id": 10,
+    "percentage": 50
+  }
+]

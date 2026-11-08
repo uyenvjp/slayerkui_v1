@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "filename": "global-metadata.dat",
+    "bytes": 33085012,
+    "sha256": "0f0c21c82432adab3421ea6c82e2662b032a8fc2fc17f81defe166b2ce294c46",
+    "raw_prefix_32_hex": "4c 49 4b 45 59 7f 00 00 df 02 53 df af 56 23 00 54 d6 f8 01 8e c5 2d 11 1d 3e 71 21 d6 2c 27 f3",
+    "liapp_prefix": true,
+    "xor_key_hex": "434445464748494a",
+    "xor_magic_offset": -1,
+    "raw_magic_offset": -1,
+    "verified_xor_output_sha256": "7cb188859da11aa686cba66937039e5fd14a59d87117526b5f16e3f79fb70818",
+    "visible_ascii_region": {
+      "start_hex": "0x2356af",
+      "end_exclusive_hex": "0x5308b7",
+      "length_bytes": 3125768,
+      "zero_separators": 127489,
+      "first_visible_bytes": "b'ALARM_TEXT_022\\x00ALARM_TEXT_023\\x00ALARM_TEXT_024\\x00ALARM_TEXT_025\\x00ALARM_TEXT_026\\x00ALARM_TEXT_027\\x00ALARM_TEXT'"
+    },
+    "number_of_xls_like_labels": 100,
+    "warning": "Strings and adjacent names are not a valid TypeDefinition/MethodDefinition dump."
+  },
+  "liapp_native": {
+    "filename": "libeufxww.so",
+    "bytes": 673836,
+    "sha256": "d87978199c6c5b05d6492b9ef7d1a3fcd85256948bdd607175cd62f1abbd1793",
+    "elf_machine": 183,
+    "pt_dynamic_offset_hex": "0xa3970",
+    "dt_soname": "libliapp.so",
+    "dt_needed": [
+      "liblog.so",
+      "libdl.so",
+      "libstdc++.so",
+      "libm.so",
+      "libc.so"
+    ]
+  },
+  "sample_xls_names": [
+    {
+      "table_label": "Xls_Localize",
+      "table_label_offset_hex": "0x27734c",
+      "candidate_adjacent_fields": 53,
+      "examples": [
+        "sheets",
+        "Sheet",
+        "Param",
+        "get_IKOR",
+        "get_IENG",
+        "get_IJPN",
+        "get_ICHN",
+        "get_ITWN",
+        "get_IVNM",
+        "get_ITHA",
+        "get_IFRA",
+        "get_IDEU",
+        "get_IESP",
+        "get_IITA",
+        "get_IRUS",
+        "get_IPRT",
+        "get_ITUR",
+        "Key",
+        "KOR",
+        "ENG"
+      ]
+    },
+    {
+      "table_label": "Xls_Accessory",
+      "table_label_offset_hex": "0x27caa7",
+      "candidate_adjacent_fields": 9,
+      "examples": [
+        "SlotIndex",
+        "SubGrade",
+        "Name",
+        "Lock",
+        "InitValue",
+        "InitPrice",
+        "HavePower_MpCharge",
+        "HavePower_MpAmount",
+        "HavePower_Exp"
+      ]
+    },
+    {
+      "table_label": "Xls_AdventureInfo",
+      "table_label_offset_hex": "0x27cb1a",
+      "candidate_adjacent_fields": 16,
+      "examples": [
+        "AdventureIndex",
+        "SubIndex",
+        "SubName",
+        "CameraSetting",
+        "BossNumber",
+        "Boss",
+        "BossScale",
+        "Dia_Clear",
+        "Emerald_Clear",
+        "Map",
+        "Hp",
+        "Atk",
+        "AttackSpeed",
+        "Miss",
+        "Accuracy",
+        "BattleTime"
+      ]
+    },
+    {
+      "table_label": "Xls_AdventureWaveInfo",
+      "table_label_offset_hex": "0x27cbbc",
+      "candidate_adjacent_fields": 24,
+      "examples": [
+        "WaveNumber",
+        "MonsterCount",
+        "RepeatCount",
+        "DistanceIndex",
+        "m1",
+        "m2",
+        "m3",
+        "m4",
+        "m5",
+        "m6",
+        "m7",
+        "m8",
+        "m9",
+        "m10",
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6"
+      ]
+    },
+    {
+      "table_label": "Xls_Artifact",
+      "table_label_offset_hex": "0x27cc42",
+      "candidate_adjacent_fields": 10,
+      "examples": [
+        "Des",
+        "MaxLevel",
+        "value1",
+        "value10",
+        "value20",
+        "value30",
+        "value40",
+        "value50",
+        "value60",
+        "value70"
+      ]
+    },
+    {
+      "table_label": "Xls_AttendanceReward",
+      "table_label_offset_hex": "0x27cc9b",
+      "candidate_adjacent_fields": 1,
+      "examples": [
+        "RewardAmount"
+      ]
+    },
+    {
+      "table_label": "Xls_Aura",
+      "table_label_offset_hex": "0x27ccbd",
+      "candidate_adjacent_fields": 8,
+      "examples": [
+        "LevelLimit",
+        "AtkSpeed",
+        "HavePower0",
+        "HavePowerValue0",
+        "HavePower1",
+        "HavePowerValue1",
+        "HavePower2",
+        "HavePowerValue2"
+      ]
+    },
+    {
+      "table_label": "Xls_AwakeningAccessory",
+      "table_label_offset_hex": "0x27cd2b",
+      "candidate_adjacent_fields": 1,
+      "examples": [
+        "AwakeningNeedCount"
+      ]
+    },
+    {
+      "table_label": "Xls_AwakeningSlayerClass",
+      "table_label_offset_hex": "0x27cd55",
+      "candidate_adjacent_fields": 3,
+      "examples": [
+        "Cloak",
+        "Hat",
+        "Costume"
+      ]
+    },
+    {
+      "table_label": "Xls_AwakeningWeapon",
+      "table_label_offset_hex": "0x27cd80",
+      "candidate_adjacent_fields": 2,
+      "examples": [
+        "HavePower_CriticalValue",
+        "HavePower_GoldAmountValue"
+      ]
+    },
+    {
+      "table_label": "Xls_CampaignEpisode",
+      "table_label_offset_hex": "0x27cdc6",
+      "candidate_adjacent_fields": 4,
+      "examples": [
+        "EpisodeIndex",
+        "Title",
+        "StartScenario",
+        "EndScenario"
+      ]
+    },
+    {
+      "table_label": "Xls_CampaignInfo",
+      "table_label_offset_hex": "0x27ce07",
+      "candidate_adjacent_fields": 19,
+      "examples": [
+        "Difficulty",
+        "ScenarioIndex",
+        "Bgm",
+        "Intro",
+        "Outro",
+        "Battle",
+        "AttackDistance",
+        "BossHpFactor",
+        "BossAtkFactor",
+        "EnemyHp",
+        "EnemyAtk",
+        "WaveCount",
+        "SameWave",
+        "BattleType",
+        "BattlePattern",
+        "EnemyAttackType",
+        "SpecialAttack_Prob",
+        "SpecialAttack_Cooltime",
+        "TimeLimit"
+      ]
+    }
+  ],
+  "important_xls_names": [
+    {
+      "table_label": "Xls_AdventureInfo",
+      "table_label_offset_hex": "0x27cb1a",
+      "candidate_adjacent_fields": 16,
+      "examples": [
+        "AdventureIndex",
+        "SubIndex",
+        "SubName",
+        "CameraSetting",
+        "BossNumber",
+        "Boss",
+        "BossScale",
+        "Dia_Clear",
+        "Emerald_Clear",
+        "Map",
+        "Hp",
+        "Atk",
+        "AttackSpeed",
+        "Miss",
+        "Accuracy",
+        "BattleTime"
+      ]
+    },
+    {
+      "table_label": "Xls_Aura",
+      "table_label_offset_hex": "0x27ccbd",
+      "candidate_adjacent_fields": 8,
+      "examples": [
+        "LevelLimit",
+        "AtkSpeed",
+        "HavePower0",
+        "HavePowerValue0",
+        "HavePower1",
+        "HavePowerValue1",
+        "HavePower2",
+        "HavePowerValue2"
+      ]
+    },
+    {
+      "table_label": "Xls_Equipment",
+      "table_label_offset_hex": "0x27d145",
+      "candidate_adjacent_fields": 0,
+      "examples": []
+    },
+    {
+      "table_label": "Xls_Reward",
+      "table_label_offset_hex": "0x27d86e",
+      "candidate_adjacent_fields": 1,
+      "examples": [
+        "RewardGroupIndex"
+      ]
+    },
+    {
+      "table_label": "Xls_Skill",
+      "table_label_offset_hex": "0x27d8d9",
+      "candidate_adjacent_fields": 16,
+      "examples": [
+        "SkillName",
+        "SkillBasicDes",
+        "SkillSpecificDes",
+        "skillOpenType",
+        "skillType",
+        "activeType",
+        "passiveType",
+        "MpCost",
+        "upgradeValue",
+        "ActiveNeedValue",
+        "Range",
+        "Duration",
+        "AnimationNumber",
+        "Have",
+        "OldSkill",
+        "MaxLevelType"
+      ]
+    },
+    {
+      "table_label": "Xls_SkillLevel",
+      "table_label_offset_hex": "0x27d999",
+      "candidate_adjacent_fields": 7,
+      "examples": [
+        "grade0",
+        "grade1",
+        "grade2",
+        "grade3",
+        "grade4",
+        "grade5",
+        "PriceFactor"
+      ]
+    },
+    {
+      "table_label": "Xls_Stage",
+      "table_label_offset_hex": "0x27df5d",
+      "candidate_adjacent_fields": 13,
+      "examples": [
+        "StageNumber",
+        "TranslateName",
+        "MapScale",
+        "MonsterScale",
+        "level_1",
+        "level_2",
+        "level_3",
+        "level_4",
+        "level_5",
+        "Hp_Factor",
+        "Gold_Factor",
+        "MpCost_Increase",
+        "Level_Factor"
+      ]
+    },
+    {
+      "table_label": "Xls_WeaponSkin",
+      "table_label_offset_hex": "0x27e1b7",
+      "candidate_adjacent_fields": 4,
+      "examples": [
+        "EffectColor",
+        "RecourcePath",
+        "WeaponSkinType",
+        "WeaponSkinTypeIndex"
+      ]
+    }
+  ]
+}

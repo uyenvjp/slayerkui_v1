@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 0,
+    "Progress": 100,
+    "AppearProb": 0.0
+  },
+  {
+    "Id": 1,
+    "Progress": 200,
+    "AppearProb": 1.0
+  },
+  {
+    "Id": 2,
+    "Progress": 300,
+    "AppearProb": 2.0
+  },
+  {
+    "Id": 3,
+    "Progress": 400,
+    "AppearProb": 3.0
+  },
+  {
+    "Id": 4,
+    "Progress": 500,
+    "AppearProb": 5.0
+  },
+  {
+    "Id": 5,
+    "Progress": 600,
+    "AppearProb": 8.0
+  },
+  {
+    "Id": 6,
+    "Progress": 700,
+    "AppearProb": 11.0
+  },
+  {
+    "Id": 7,
+    "Progress": 800,
+    "AppearProb": 15.0
+  },
+  {
+    "Id": 8,
+    "Progress": 900,
+    "AppearProb": 20.0
+  },
+  {
+    "Id": 9,
+    "Progress": 1000,
+    "AppearProb": 30.0
+  }
+]

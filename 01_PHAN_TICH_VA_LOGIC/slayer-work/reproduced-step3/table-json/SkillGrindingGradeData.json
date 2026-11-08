@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "SkillGrade": 0,
+    "GrindingCurrencyFactor": 10,
+    "NeedGrindingCurrency": 1,
+    "NeedDice": 5,
+    "NeedSeconds": 30
+  },
+  {
+    "Id": 2,
+    "SkillGrade": 1,
+    "GrindingCurrencyFactor": 7,
+    "NeedGrindingCurrency": 1,
+    "NeedDice": 10,
+    "NeedSeconds": 60
+  },
+  {
+    "Id": 3,
+    "SkillGrade": 2,
+    "GrindingCurrencyFactor": 5,
+    "NeedGrindingCurrency": 1,
+    "NeedDice": 20,
+    "NeedSeconds": 120
+  },
+  {
+    "Id": 4,
+    "SkillGrade": 3,
+    "GrindingCurrencyFactor": 3,
+    "NeedGrindingCurrency": 1,
+    "NeedDice": 50,
+    "NeedSeconds": 180
+  },
+  {
+    "Id": 5,
+    "SkillGrade": 4,
+    "GrindingCurrencyFactor": 2,
+    "NeedGrindingCurrency": 1,
+    "NeedDice": 100,
+    "NeedSeconds": 240
+  },
+  {
+    "Id": 6,
+    "SkillGrade": 5,
+    "GrindingCurrencyFactor": 1,
+    "NeedGrindingCurrency": 1,
+    "NeedDice": 200,
+    "NeedSeconds": 300
+  }
+]

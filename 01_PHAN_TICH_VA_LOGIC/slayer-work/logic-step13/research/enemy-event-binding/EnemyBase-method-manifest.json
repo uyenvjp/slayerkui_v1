@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6008f06",
+    "name": "OnEnable",
+    "declaring_type_index": "3792",
+    "declaring_type_full_name": "EnemyBase",
+    "native_va": "0x50b4f08",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "452",
+    "iflags": "0",
+    "slot": "42",
+    "metadata_record_offset": "0x99684c",
+    "end_va": "0x50b50e4",
+    "asm_file": "EnemyBase__OnEnable_0x6008f06.asm"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6008f71",
+    "name": ".ctor",
+    "declaring_type_index": "3792",
+    "declaring_type_full_name": "EnemyBase",
+    "native_va": "0x50be49c",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "6278",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x9975ac",
+    "end_va": "0x50be56c",
+    "asm_file": "EnemyBase__.ctor_0x6008f71.asm"
+  }
+]

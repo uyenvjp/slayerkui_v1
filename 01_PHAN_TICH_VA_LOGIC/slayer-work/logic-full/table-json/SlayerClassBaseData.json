@@ -1,0 +1,218 @@
+[
+  {
+    "Id": 0,
+    "SlotIndex": 0,
+    "Grade": 0,
+    "SubGrade": 0,
+    "Lock": false,
+    "InitValue": 1,
+    "InitPrice": 10
+  },
+  {
+    "Id": 1,
+    "SlotIndex": 1,
+    "Grade": 0,
+    "SubGrade": 1,
+    "Lock": true,
+    "InitValue": 4,
+    "InitPrice": 20
+  },
+  {
+    "Id": 2,
+    "SlotIndex": 2,
+    "Grade": 0,
+    "SubGrade": 2,
+    "Lock": true,
+    "InitValue": 7,
+    "InitPrice": 30
+  },
+  {
+    "Id": 3,
+    "SlotIndex": 3,
+    "Grade": 0,
+    "SubGrade": 3,
+    "Lock": true,
+    "InitValue": 10,
+    "InitPrice": 40
+  },
+  {
+    "Id": 4,
+    "SlotIndex": 4,
+    "Grade": 1,
+    "SubGrade": 0,
+    "Lock": true,
+    "InitValue": 18,
+    "InitPrice": 60
+  },
+  {
+    "Id": 5,
+    "SlotIndex": 5,
+    "Grade": 1,
+    "SubGrade": 1,
+    "Lock": true,
+    "InitValue": 30,
+    "InitPrice": 70
+  },
+  {
+    "Id": 6,
+    "SlotIndex": 6,
+    "Grade": 1,
+    "SubGrade": 2,
+    "Lock": true,
+    "InitValue": 45,
+    "InitPrice": 100
+  },
+  {
+    "Id": 7,
+    "SlotIndex": 7,
+    "Grade": 1,
+    "SubGrade": 3,
+    "Lock": true,
+    "InitValue": 72,
+    "InitPrice": 150
+  },
+  {
+    "Id": 8,
+    "SlotIndex": 8,
+    "Grade": 2,
+    "SubGrade": 0,
+    "Lock": true,
+    "InitValue": 90,
+    "InitPrice": 240
+  },
+  {
+    "Id": 9,
+    "SlotIndex": 9,
+    "Grade": 2,
+    "SubGrade": 1,
+    "Lock": true,
+    "InitValue": 150,
+    "InitPrice": 360
+  },
+  {
+    "Id": 10,
+    "SlotIndex": 10,
+    "Grade": 2,
+    "SubGrade": 2,
+    "Lock": true,
+    "InitValue": 220,
+    "InitPrice": 500
+  },
+  {
+    "Id": 11,
+    "SlotIndex": 11,
+    "Grade": 2,
+    "SubGrade": 3,
+    "Lock": true,
+    "InitValue": 300,
+    "InitPrice": 600
+  },
+  {
+    "Id": 12,
+    "SlotIndex": 12,
+    "Grade": 3,
+    "SubGrade": 0,
+    "Lock": true,
+    "InitValue": 450,
+    "InitPrice": 960
+  },
+  {
+    "Id": 13,
+    "SlotIndex": 13,
+    "Grade": 3,
+    "SubGrade": 1,
+    "Lock": true,
+    "InitValue": 800,
+    "InitPrice": 1000
+  },
+  {
+    "Id": 14,
+    "SlotIndex": 14,
+    "Grade": 3,
+    "SubGrade": 2,
+    "Lock": true,
+    "InitValue": 1000,
+    "InitPrice": 1500
+  },
+  {
+    "Id": 15,
+    "SlotIndex": 15,
+    "Grade": 3,
+    "SubGrade": 3,
+    "Lock": true,
+    "InitValue": 1500,
+    "InitPrice": 2400
+  },
+  {
+    "Id": 16,
+    "SlotIndex": 16,
+    "Grade": 4,
+    "SubGrade": 0,
+    "Lock": true,
+    "InitValue": 2000,
+    "InitPrice": 3600
+  },
+  {
+    "Id": 17,
+    "SlotIndex": 17,
+    "Grade": 4,
+    "SubGrade": 1,
+    "Lock": true,
+    "InitValue": 3000,
+    "InitPrice": 4200
+  },
+  {
+    "Id": 18,
+    "SlotIndex": 18,
+    "Grade": 4,
+    "SubGrade": 2,
+    "Lock": true,
+    "InitValue": 4500,
+    "InitPrice": 5500
+  },
+  {
+    "Id": 19,
+    "SlotIndex": 19,
+    "Grade": 4,
+    "SubGrade": 3,
+    "Lock": true,
+    "InitValue": 7000,
+    "InitPrice": 7000
+  },
+  {
+    "Id": 20,
+    "SlotIndex": 20,
+    "Grade": 5,
+    "SubGrade": 0,
+    "Lock": true,
+    "InitValue": 10000,
+    "InitPrice": 9000
+  },
+  {
+    "Id": 21,
+    "SlotIndex": 21,
+    "Grade": 6,
+    "SubGrade": 0,
+    "Lock": true,
+    "InitValue": 15000,
+    "InitPrice": 11000
+  },
+  {
+    "Id": 22,
+    "SlotIndex": 22,
+    "Grade": 6,
+    "SubGrade": 0,
+    "Lock": true,
+    "InitValue": 20000,
+    "InitPrice": 14000
+  },
+  {
+    "Id": 23,
+    "SlotIndex": 23,
+    "Grade": 6,
+    "SubGrade": 0,
+    "Lock": true,
+    "InitValue": 30000,
+    "InitPrice": 20000
+  }
+]

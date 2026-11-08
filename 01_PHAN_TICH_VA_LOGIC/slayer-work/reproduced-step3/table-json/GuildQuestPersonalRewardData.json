@@ -1,0 +1,2162 @@
+[
+  {
+    "Id": 1,
+    "PlayerClassIndex": 3,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      200,
+      100,
+      50
+    ]
+  },
+  {
+    "Id": 2,
+    "PlayerClassIndex": 3,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      220,
+      105,
+      55
+    ]
+  },
+  {
+    "Id": 3,
+    "PlayerClassIndex": 3,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      240,
+      110,
+      60
+    ]
+  },
+  {
+    "Id": 4,
+    "PlayerClassIndex": 3,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      260,
+      115,
+      65
+    ]
+  },
+  {
+    "Id": 5,
+    "PlayerClassIndex": 3,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      280,
+      120,
+      70
+    ]
+  },
+  {
+    "Id": 6,
+    "PlayerClassIndex": 3,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      300,
+      125,
+      75
+    ]
+  },
+  {
+    "Id": 7,
+    "PlayerClassIndex": 4,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      320,
+      130,
+      80
+    ]
+  },
+  {
+    "Id": 8,
+    "PlayerClassIndex": 4,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      340,
+      135,
+      85
+    ]
+  },
+  {
+    "Id": 9,
+    "PlayerClassIndex": 4,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      360,
+      140,
+      90
+    ]
+  },
+  {
+    "Id": 10,
+    "PlayerClassIndex": 4,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      380,
+      145,
+      95
+    ]
+  },
+  {
+    "Id": 11,
+    "PlayerClassIndex": 4,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      400,
+      150,
+      100
+    ]
+  },
+  {
+    "Id": 12,
+    "PlayerClassIndex": 4,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      420,
+      155,
+      105
+    ]
+  },
+  {
+    "Id": 13,
+    "PlayerClassIndex": 5,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      440,
+      160,
+      110
+    ]
+  },
+  {
+    "Id": 14,
+    "PlayerClassIndex": 5,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      460,
+      165,
+      115
+    ]
+  },
+  {
+    "Id": 15,
+    "PlayerClassIndex": 5,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      480,
+      170,
+      120
+    ]
+  },
+  {
+    "Id": 16,
+    "PlayerClassIndex": 5,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      500,
+      175,
+      125
+    ]
+  },
+  {
+    "Id": 17,
+    "PlayerClassIndex": 5,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      520,
+      180,
+      130
+    ]
+  },
+  {
+    "Id": 18,
+    "PlayerClassIndex": 5,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      540,
+      185,
+      135
+    ]
+  },
+  {
+    "Id": 19,
+    "PlayerClassIndex": 6,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      560,
+      190,
+      140
+    ]
+  },
+  {
+    "Id": 20,
+    "PlayerClassIndex": 6,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      580,
+      195,
+      145
+    ]
+  },
+  {
+    "Id": 21,
+    "PlayerClassIndex": 6,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      600,
+      200,
+      150
+    ]
+  },
+  {
+    "Id": 22,
+    "PlayerClassIndex": 6,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      620,
+      205,
+      155
+    ]
+  },
+  {
+    "Id": 23,
+    "PlayerClassIndex": 6,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      640,
+      210,
+      160
+    ]
+  },
+  {
+    "Id": 24,
+    "PlayerClassIndex": 6,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      660,
+      215,
+      165
+    ]
+  },
+  {
+    "Id": 25,
+    "PlayerClassIndex": 7,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      680,
+      220,
+      170
+    ]
+  },
+  {
+    "Id": 26,
+    "PlayerClassIndex": 7,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      700,
+      225,
+      175
+    ]
+  },
+  {
+    "Id": 27,
+    "PlayerClassIndex": 7,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      720,
+      230,
+      180
+    ]
+  },
+  {
+    "Id": 28,
+    "PlayerClassIndex": 7,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      740,
+      235,
+      185
+    ]
+  },
+  {
+    "Id": 29,
+    "PlayerClassIndex": 7,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      760,
+      240,
+      190
+    ]
+  },
+  {
+    "Id": 30,
+    "PlayerClassIndex": 7,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      780,
+      245,
+      195
+    ]
+  },
+  {
+    "Id": 31,
+    "PlayerClassIndex": 8,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      800,
+      250,
+      200
+    ]
+  },
+  {
+    "Id": 32,
+    "PlayerClassIndex": 8,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      820,
+      255,
+      205
+    ]
+  },
+  {
+    "Id": 33,
+    "PlayerClassIndex": 8,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      840,
+      260,
+      210
+    ]
+  },
+  {
+    "Id": 34,
+    "PlayerClassIndex": 8,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      860,
+      265,
+      215
+    ]
+  },
+  {
+    "Id": 35,
+    "PlayerClassIndex": 8,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      880,
+      270,
+      220
+    ]
+  },
+  {
+    "Id": 36,
+    "PlayerClassIndex": 8,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      900,
+      275,
+      225
+    ]
+  },
+  {
+    "Id": 37,
+    "PlayerClassIndex": 9,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      920,
+      280,
+      230
+    ]
+  },
+  {
+    "Id": 38,
+    "PlayerClassIndex": 9,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      940,
+      285,
+      235
+    ]
+  },
+  {
+    "Id": 39,
+    "PlayerClassIndex": 9,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      960,
+      290,
+      240
+    ]
+  },
+  {
+    "Id": 40,
+    "PlayerClassIndex": 9,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      980,
+      295,
+      245
+    ]
+  },
+  {
+    "Id": 41,
+    "PlayerClassIndex": 9,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1000,
+      300,
+      250
+    ]
+  },
+  {
+    "Id": 42,
+    "PlayerClassIndex": 9,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1020,
+      305,
+      255
+    ]
+  },
+  {
+    "Id": 43,
+    "PlayerClassIndex": 10,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1040,
+      310,
+      260
+    ]
+  },
+  {
+    "Id": 44,
+    "PlayerClassIndex": 10,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1060,
+      315,
+      265
+    ]
+  },
+  {
+    "Id": 45,
+    "PlayerClassIndex": 10,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1080,
+      320,
+      270
+    ]
+  },
+  {
+    "Id": 46,
+    "PlayerClassIndex": 10,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1100,
+      325,
+      275
+    ]
+  },
+  {
+    "Id": 47,
+    "PlayerClassIndex": 10,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1120,
+      330,
+      280
+    ]
+  },
+  {
+    "Id": 48,
+    "PlayerClassIndex": 10,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1140,
+      335,
+      285
+    ]
+  },
+  {
+    "Id": 49,
+    "PlayerClassIndex": 11,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1160,
+      340,
+      290
+    ]
+  },
+  {
+    "Id": 50,
+    "PlayerClassIndex": 11,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1180,
+      345,
+      295
+    ]
+  },
+  {
+    "Id": 51,
+    "PlayerClassIndex": 11,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1200,
+      350,
+      300
+    ]
+  },
+  {
+    "Id": 52,
+    "PlayerClassIndex": 11,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1220,
+      355,
+      305
+    ]
+  },
+  {
+    "Id": 53,
+    "PlayerClassIndex": 11,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1240,
+      360,
+      310
+    ]
+  },
+  {
+    "Id": 54,
+    "PlayerClassIndex": 11,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1260,
+      365,
+      315
+    ]
+  },
+  {
+    "Id": 55,
+    "PlayerClassIndex": 12,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1280,
+      370,
+      320
+    ]
+  },
+  {
+    "Id": 56,
+    "PlayerClassIndex": 12,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1300,
+      375,
+      325
+    ]
+  },
+  {
+    "Id": 57,
+    "PlayerClassIndex": 12,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1320,
+      380,
+      330
+    ]
+  },
+  {
+    "Id": 58,
+    "PlayerClassIndex": 12,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1340,
+      385,
+      335
+    ]
+  },
+  {
+    "Id": 59,
+    "PlayerClassIndex": 12,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1360,
+      390,
+      340
+    ]
+  },
+  {
+    "Id": 60,
+    "PlayerClassIndex": 12,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1380,
+      395,
+      345
+    ]
+  },
+  {
+    "Id": 61,
+    "PlayerClassIndex": 13,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1400,
+      400,
+      350
+    ]
+  },
+  {
+    "Id": 62,
+    "PlayerClassIndex": 13,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1420,
+      405,
+      355
+    ]
+  },
+  {
+    "Id": 63,
+    "PlayerClassIndex": 13,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1440,
+      410,
+      360
+    ]
+  },
+  {
+    "Id": 64,
+    "PlayerClassIndex": 13,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1460,
+      415,
+      365
+    ]
+  },
+  {
+    "Id": 65,
+    "PlayerClassIndex": 13,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1480,
+      420,
+      370
+    ]
+  },
+  {
+    "Id": 66,
+    "PlayerClassIndex": 13,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1500,
+      425,
+      375
+    ]
+  },
+  {
+    "Id": 67,
+    "PlayerClassIndex": 14,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1520,
+      430,
+      380
+    ]
+  },
+  {
+    "Id": 68,
+    "PlayerClassIndex": 14,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1540,
+      435,
+      385
+    ]
+  },
+  {
+    "Id": 69,
+    "PlayerClassIndex": 14,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1560,
+      440,
+      390
+    ]
+  },
+  {
+    "Id": 70,
+    "PlayerClassIndex": 14,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1580,
+      445,
+      395
+    ]
+  },
+  {
+    "Id": 71,
+    "PlayerClassIndex": 14,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1600,
+      450,
+      400
+    ]
+  },
+  {
+    "Id": 72,
+    "PlayerClassIndex": 14,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1620,
+      455,
+      405
+    ]
+  },
+  {
+    "Id": 73,
+    "PlayerClassIndex": 15,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1640,
+      460,
+      410
+    ]
+  },
+  {
+    "Id": 74,
+    "PlayerClassIndex": 15,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1660,
+      465,
+      415
+    ]
+  },
+  {
+    "Id": 75,
+    "PlayerClassIndex": 15,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1680,
+      470,
+      420
+    ]
+  },
+  {
+    "Id": 76,
+    "PlayerClassIndex": 15,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1700,
+      475,
+      425
+    ]
+  },
+  {
+    "Id": 77,
+    "PlayerClassIndex": 15,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1720,
+      480,
+      430
+    ]
+  },
+  {
+    "Id": 78,
+    "PlayerClassIndex": 15,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1740,
+      485,
+      435
+    ]
+  },
+  {
+    "Id": 79,
+    "PlayerClassIndex": 16,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1760,
+      490,
+      440
+    ]
+  },
+  {
+    "Id": 80,
+    "PlayerClassIndex": 16,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1780,
+      495,
+      445
+    ]
+  },
+  {
+    "Id": 81,
+    "PlayerClassIndex": 16,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1800,
+      500,
+      450
+    ]
+  },
+  {
+    "Id": 82,
+    "PlayerClassIndex": 16,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1820,
+      505,
+      455
+    ]
+  },
+  {
+    "Id": 83,
+    "PlayerClassIndex": 16,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1840,
+      510,
+      460
+    ]
+  },
+  {
+    "Id": 84,
+    "PlayerClassIndex": 16,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1860,
+      515,
+      465
+    ]
+  },
+  {
+    "Id": 85,
+    "PlayerClassIndex": 17,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1880,
+      520,
+      470
+    ]
+  },
+  {
+    "Id": 86,
+    "PlayerClassIndex": 17,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1900,
+      525,
+      475
+    ]
+  },
+  {
+    "Id": 87,
+    "PlayerClassIndex": 17,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1920,
+      530,
+      480
+    ]
+  },
+  {
+    "Id": 88,
+    "PlayerClassIndex": 17,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1940,
+      535,
+      485
+    ]
+  },
+  {
+    "Id": 89,
+    "PlayerClassIndex": 17,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1960,
+      540,
+      490
+    ]
+  },
+  {
+    "Id": 90,
+    "PlayerClassIndex": 17,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      1980,
+      545,
+      495
+    ]
+  },
+  {
+    "Id": 91,
+    "PlayerClassIndex": 18,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2000,
+      550,
+      500
+    ]
+  },
+  {
+    "Id": 92,
+    "PlayerClassIndex": 18,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2020,
+      555,
+      505
+    ]
+  },
+  {
+    "Id": 93,
+    "PlayerClassIndex": 18,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2040,
+      560,
+      510
+    ]
+  },
+  {
+    "Id": 94,
+    "PlayerClassIndex": 18,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2060,
+      565,
+      515
+    ]
+  },
+  {
+    "Id": 95,
+    "PlayerClassIndex": 18,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2080,
+      570,
+      520
+    ]
+  },
+  {
+    "Id": 96,
+    "PlayerClassIndex": 18,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2100,
+      575,
+      525
+    ]
+  },
+  {
+    "Id": 97,
+    "PlayerClassIndex": 19,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2120,
+      580,
+      530
+    ]
+  },
+  {
+    "Id": 98,
+    "PlayerClassIndex": 19,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2140,
+      585,
+      535
+    ]
+  },
+  {
+    "Id": 99,
+    "PlayerClassIndex": 19,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2160,
+      590,
+      540
+    ]
+  },
+  {
+    "Id": 100,
+    "PlayerClassIndex": 19,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2180,
+      595,
+      545
+    ]
+  },
+  {
+    "Id": 101,
+    "PlayerClassIndex": 19,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2200,
+      600,
+      550
+    ]
+  },
+  {
+    "Id": 102,
+    "PlayerClassIndex": 19,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2220,
+      605,
+      555
+    ]
+  },
+  {
+    "Id": 103,
+    "PlayerClassIndex": 20,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2240,
+      610,
+      560
+    ]
+  },
+  {
+    "Id": 104,
+    "PlayerClassIndex": 20,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2260,
+      615,
+      565
+    ]
+  },
+  {
+    "Id": 105,
+    "PlayerClassIndex": 20,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2280,
+      620,
+      570
+    ]
+  },
+  {
+    "Id": 106,
+    "PlayerClassIndex": 20,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2300,
+      625,
+      575
+    ]
+  },
+  {
+    "Id": 107,
+    "PlayerClassIndex": 20,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2320,
+      630,
+      580
+    ]
+  },
+  {
+    "Id": 108,
+    "PlayerClassIndex": 20,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2340,
+      635,
+      585
+    ]
+  },
+  {
+    "Id": 109,
+    "PlayerClassIndex": 21,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2360,
+      640,
+      590
+    ]
+  },
+  {
+    "Id": 110,
+    "PlayerClassIndex": 21,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2380,
+      645,
+      595
+    ]
+  },
+  {
+    "Id": 111,
+    "PlayerClassIndex": 21,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2400,
+      650,
+      600
+    ]
+  },
+  {
+    "Id": 112,
+    "PlayerClassIndex": 21,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2420,
+      655,
+      605
+    ]
+  },
+  {
+    "Id": 113,
+    "PlayerClassIndex": 21,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2440,
+      660,
+      610
+    ]
+  },
+  {
+    "Id": 114,
+    "PlayerClassIndex": 21,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2460,
+      665,
+      615
+    ]
+  },
+  {
+    "Id": 115,
+    "PlayerClassIndex": 22,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2480,
+      670,
+      620
+    ]
+  },
+  {
+    "Id": 116,
+    "PlayerClassIndex": 22,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2500,
+      675,
+      625
+    ]
+  },
+  {
+    "Id": 117,
+    "PlayerClassIndex": 22,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2520,
+      680,
+      630
+    ]
+  },
+  {
+    "Id": 118,
+    "PlayerClassIndex": 22,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2540,
+      685,
+      635
+    ]
+  },
+  {
+    "Id": 119,
+    "PlayerClassIndex": 22,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2560,
+      690,
+      640
+    ]
+  },
+  {
+    "Id": 120,
+    "PlayerClassIndex": 22,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2580,
+      695,
+      645
+    ]
+  },
+  {
+    "Id": 121,
+    "PlayerClassIndex": 23,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2600,
+      700,
+      650
+    ]
+  },
+  {
+    "Id": 122,
+    "PlayerClassIndex": 23,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2620,
+      705,
+      655
+    ]
+  },
+  {
+    "Id": 123,
+    "PlayerClassIndex": 23,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2640,
+      710,
+      660
+    ]
+  },
+  {
+    "Id": 124,
+    "PlayerClassIndex": 23,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2660,
+      715,
+      665
+    ]
+  },
+  {
+    "Id": 125,
+    "PlayerClassIndex": 23,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2680,
+      720,
+      670
+    ]
+  },
+  {
+    "Id": 126,
+    "PlayerClassIndex": 23,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2700,
+      725,
+      675
+    ]
+  },
+  {
+    "Id": 127,
+    "PlayerClassIndex": 24,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2720,
+      730,
+      680
+    ]
+  },
+  {
+    "Id": 128,
+    "PlayerClassIndex": 24,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2740,
+      735,
+      685
+    ]
+  },
+  {
+    "Id": 129,
+    "PlayerClassIndex": 24,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2760,
+      740,
+      690
+    ]
+  },
+  {
+    "Id": 130,
+    "PlayerClassIndex": 24,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2780,
+      745,
+      695
+    ]
+  },
+  {
+    "Id": 131,
+    "PlayerClassIndex": 24,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2800,
+      750,
+      700
+    ]
+  },
+  {
+    "Id": 132,
+    "PlayerClassIndex": 24,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2820,
+      755,
+      705
+    ]
+  },
+  {
+    "Id": 133,
+    "PlayerClassIndex": 25,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2840,
+      760,
+      710
+    ]
+  },
+  {
+    "Id": 134,
+    "PlayerClassIndex": 25,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2860,
+      765,
+      715
+    ]
+  },
+  {
+    "Id": 135,
+    "PlayerClassIndex": 25,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2880,
+      770,
+      720
+    ]
+  },
+  {
+    "Id": 136,
+    "PlayerClassIndex": 25,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2900,
+      775,
+      725
+    ]
+  },
+  {
+    "Id": 137,
+    "PlayerClassIndex": 25,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2920,
+      780,
+      730
+    ]
+  },
+  {
+    "Id": 138,
+    "PlayerClassIndex": 25,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2940,
+      785,
+      735
+    ]
+  },
+  {
+    "Id": 139,
+    "PlayerClassIndex": 26,
+    "MissionIndex": 1,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2960,
+      790,
+      740
+    ]
+  },
+  {
+    "Id": 140,
+    "PlayerClassIndex": 26,
+    "MissionIndex": 2,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      2980,
+      795,
+      745
+    ]
+  },
+  {
+    "Id": 141,
+    "PlayerClassIndex": 26,
+    "MissionIndex": 3,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      3000,
+      800,
+      750
+    ]
+  },
+  {
+    "Id": 142,
+    "PlayerClassIndex": 26,
+    "MissionIndex": 4,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      3020,
+      805,
+      755
+    ]
+  },
+  {
+    "Id": 143,
+    "PlayerClassIndex": 26,
+    "MissionIndex": 5,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      3040,
+      810,
+      760
+    ]
+  },
+  {
+    "Id": 144,
+    "PlayerClassIndex": 26,
+    "MissionIndex": 6,
+    "RewardTypes": [
+      43,
+      39,
+      42
+    ],
+    "RewardAmounts": [
+      3060,
+      815,
+      765
+    ]
+  }
+]

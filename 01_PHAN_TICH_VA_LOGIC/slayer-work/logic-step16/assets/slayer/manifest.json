@@ -1,0 +1,2040 @@
+{
+  "source_xapk_sha256": "b8c19d5fdf4da70c8c45cddf3f7e6b8a850863fd55b09b087c6d06d7001d6098",
+  "source_apk": "com.gear2.growslayer.apk",
+  "unity_version": "6000.3.10f1",
+  "decoder": "4.5 (Core Profile) Mesa 25.2.8-0ubuntu0.24.04.2",
+  "renderer": "llvmpipe (LLVM 20.1.2, 256 bits)",
+  "atlas_count": 2,
+  "sprite_count": 55,
+  "intro_sprite_count": 20,
+  "intro_sprites": [
+    "slayer_01_10",
+    "slayer_01_11",
+    "slayer_01_12",
+    "slayer_01_13",
+    "slayer_01_16",
+    "slayer_01_17",
+    "slayer_01_6",
+    "slayer_01_7",
+    "slayer_01_8",
+    "slayer_01_9",
+    "slayer_02_10",
+    "slayer_02_11",
+    "slayer_02_12",
+    "slayer_02_13",
+    "slayer_02_16",
+    "slayer_02_17",
+    "slayer_02_6",
+    "slayer_02_7",
+    "slayer_02_8",
+    "slayer_02_9"
+  ],
+  "atlases": [
+    {
+      "name": "slayer_02",
+      "file": "assets/slayer/atlases/slayer_02.png",
+      "source_file": "sharedassets0.assets",
+      "source_path_id": "95",
+      "source_object_data_offset": 108,
+      "unity_texture_format": 47,
+      "width": 1024,
+      "height": 1024,
+      "compressed_sha256": "69b8ec347a32ce189cb658a544e28a037e2945cd72dad2fe2914353a6ca494c8",
+      "png_sha256": "7f9be0c2c48d489f01407bdbebc0c8e9f038921c1d666d6fea426d15fc242b36"
+    },
+    {
+      "name": "slayer_01",
+      "file": "assets/slayer/atlases/slayer_01.png",
+      "source_file": "sharedassets0.assets",
+      "source_path_id": "100",
+      "source_object_data_offset": 108,
+      "unity_texture_format": 47,
+      "width": 1024,
+      "height": 1024,
+      "compressed_sha256": "14e810d365fe69c96bb2aee1c61715ff081137226a323882dd675554a6ad2ffb",
+      "png_sha256": "618a9d896a97b33aeb6288978ca0cf756c2d988e4905633935326517279453ee"
+    }
+  ],
+  "sprites": [
+    {
+      "name": "slayer_01_0",
+      "source_file": "sharedassets0.assets",
+      "source_path_id": "335",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        4,
+        896,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_0.png",
+      "png_sha256": "c76ae2c6c4df7186c8798f4da74664ef8d92a4a54a926589dc9c19e21b0a16fe",
+      "rect_xywh_png_top_left": [
+        4,
+        0,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        50,
+        25,
+        122,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_1",
+      "source_file": "4cb69c1459b34924b9a2786f51bda66b",
+      "source_path_id": "19",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        208,
+        896,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_1.png",
+      "png_sha256": "45e2a04fce5d3d5ff6203bf38a4b746a66c7ff31f70fe591f0bf88376276c93a",
+      "rect_xywh_png_top_left": [
+        208,
+        0,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        44,
+        29,
+        130,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_2",
+      "source_file": "4cb69c1459b34924b9a2786f51bda66b",
+      "source_path_id": "8",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        412,
+        896,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_2.png",
+      "png_sha256": "be7402c7f551ab5ab661dac5ab620de63b5de0810823ad50b0751e5b033775fa",
+      "rect_xywh_png_top_left": [
+        412,
+        0,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        50,
+        29,
+        130,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_3",
+      "source_file": "4cb69c1459b34924b9a2786f51bda66b",
+      "source_path_id": "12",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        616,
+        896,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_3.png",
+      "png_sha256": "c0193393d102d1765ae4061134a3011e0ae9e33f6515485cc31116dab5772be5",
+      "rect_xywh_png_top_left": [
+        616,
+        0,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        52,
+        29,
+        130,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_4",
+      "source_file": "4cb69c1459b34924b9a2786f51bda66b",
+      "source_path_id": "10",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        820,
+        896,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_4.png",
+      "png_sha256": "80bc1ddf2f0014e29d88b8687222b9b607b4417b0b1945b008cce82df9a2b68f",
+      "rect_xywh_png_top_left": [
+        820,
+        0,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        70,
+        36,
+        124,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_5",
+      "source_file": "4cb69c1459b34924b9a2786f51bda66b",
+      "source_path_id": "5",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        4,
+        768,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_5.png",
+      "png_sha256": "fa54f6fe1a45b76b1d4f2c9ade33e6b20858137bcbd47d1c83a8a7e93fab8ac2",
+      "rect_xywh_png_top_left": [
+        4,
+        128,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        69,
+        29,
+        129,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_6",
+      "source_file": "4cb69c1459b34924b9a2786f51bda66b",
+      "source_path_id": "7",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        208,
+        768,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_6.png",
+      "png_sha256": "450dc52d8743c54dab07f410510cbbd1acefc880e7bdec5f442d028fa67cfdeb",
+      "rect_xywh_png_top_left": [
+        208,
+        128,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        72,
+        31,
+        136,
+        119
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_7",
+      "source_file": "4cb69c1459b34924b9a2786f51bda66b",
+      "source_path_id": "13",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        412,
+        768,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_7.png",
+      "png_sha256": "bfea759d179a739fc71f9ab99f7aad3bc954112459c802ffff19fe72e701ef24",
+      "rect_xywh_png_top_left": [
+        412,
+        128,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        73,
+        27,
+        131,
+        119
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_8",
+      "source_file": "4cb69c1459b34924b9a2786f51bda66b",
+      "source_path_id": "2",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        616,
+        768,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_8.png",
+      "png_sha256": "5567a6c66e8a8e591e62565e9134dab965653009a807b9ba9d52aec514aa70d9",
+      "rect_xywh_png_top_left": [
+        616,
+        128,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        73,
+        25,
+        131,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_9",
+      "source_file": "4cb69c1459b34924b9a2786f51bda66b",
+      "source_path_id": "14",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        820,
+        768,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_9.png",
+      "png_sha256": "3360f6c979d84553ab60c6cbf882767f59158c19f2d5302ef7ad6dffe3e54c26",
+      "rect_xywh_png_top_left": [
+        820,
+        128,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        72,
+        29,
+        136,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_10",
+      "source_file": "4cb69c1459b34924b9a2786f51bda66b",
+      "source_path_id": "6",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        4,
+        640,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_10.png",
+      "png_sha256": "f9ab8c8e53077eed66394a2a15db88f975232896430be4d4f4536d4b6cf4d469",
+      "rect_xywh_png_top_left": [
+        4,
+        256,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        73,
+        28,
+        133,
+        118
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_11",
+      "source_file": "4cb69c1459b34924b9a2786f51bda66b",
+      "source_path_id": "3",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        208,
+        640,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_11.png",
+      "png_sha256": "09e7d04f79de7c84d3a3fc1d546bc2694738ee138e5bcd83da77b808a41c460d",
+      "rect_xywh_png_top_left": [
+        208,
+        256,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        75,
+        26,
+        130,
+        118
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_12",
+      "source_file": "sharedassets0.assets",
+      "source_path_id": "379",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        412,
+        640,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_12.png",
+      "png_sha256": "3a31f587d52071db683d5edf62ee7053ea0bbd3ff7a8603b3cdc25d457901340",
+      "rect_xywh_png_top_left": [
+        412,
+        256,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        44,
+        24,
+        116,
+        118
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_13",
+      "source_file": "sharedassets0.assets",
+      "source_path_id": "935",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        616,
+        640,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_13.png",
+      "png_sha256": "a98e316ef0ebbeeb7332543ad34292aa5fcf8c2f89f95334e1efe0c9a580e1b6",
+      "rect_xywh_png_top_left": [
+        616,
+        256,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        44,
+        26,
+        116,
+        118
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_14",
+      "source_file": "4cb69c1459b34924b9a2786f51bda66b",
+      "source_path_id": "1",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        820,
+        640,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_14.png",
+      "png_sha256": "662bd008c0ddfc3553e421723f1fb073fa045900151e46a53d2174103914ead7",
+      "rect_xywh_png_top_left": [
+        820,
+        256,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        30,
+        26,
+        107,
+        105
+      ],
+      "alpha_extrema": [
+        0,
+        239
+      ]
+    },
+    {
+      "name": "slayer_01_15",
+      "source_file": "4cb69c1459b34924b9a2786f51bda66b",
+      "source_path_id": "15",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        4,
+        512,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_15.png",
+      "png_sha256": "728f9486f1664f951f128a43e4eb9c35690f5956c6c18d4ff726efbbe5a7e734",
+      "rect_xywh_png_top_left": [
+        4,
+        384,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        8,
+        19,
+        120,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_16",
+      "source_file": "4cb69c1459b34924b9a2786f51bda66b",
+      "source_path_id": "18",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        208,
+        512,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_16.png",
+      "png_sha256": "27432b7c0d82b13dd79a2f1617a8f433ec3d57fe90172809284a99f5c4b78790",
+      "rect_xywh_png_top_left": [
+        208,
+        384,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        44,
+        23,
+        116,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_17",
+      "source_file": "4cb69c1459b34924b9a2786f51bda66b",
+      "source_path_id": "17",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        412,
+        512,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_17.png",
+      "png_sha256": "67267f21263eb8e2d6c4f585ddafe9de985a3b1210875daa5cb54cf72e943c64",
+      "rect_xywh_png_top_left": [
+        412,
+        384,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        44,
+        25,
+        116,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_18",
+      "source_file": "4cb69c1459b34924b9a2786f51bda66b",
+      "source_path_id": "11",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        616,
+        512,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_18.png",
+      "png_sha256": "1d85f281c49e9e9dd6dc5b557cdb3f7aeaa95c91f1a0aeb73ab39c59451c9fcc",
+      "rect_xywh_png_top_left": [
+        616,
+        384,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        50,
+        64,
+        126,
+        120
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_19",
+      "source_file": "4cb69c1459b34924b9a2786f51bda66b",
+      "source_path_id": "4",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        820,
+        512,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_19.png",
+      "png_sha256": "69386142fa610af7a1f1d2d9f9459e0c782454ac358dd5ccebdb5109fb052710",
+      "rect_xywh_png_top_left": [
+        820,
+        384,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        30,
+        38,
+        137,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_20",
+      "source_file": "4cb69c1459b34924b9a2786f51bda66b",
+      "source_path_id": "16",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        4,
+        384,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_20.png",
+      "png_sha256": "7fc04b17313f14b0b97fdcf2db200c9a1b1e3d5454d717da2c42b3f14c2a108a",
+      "rect_xywh_png_top_left": [
+        4,
+        512,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        58,
+        36,
+        136,
+        118
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_21",
+      "source_file": "sharedassets0.assets",
+      "source_path_id": "902",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        208,
+        384,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.5,
+        0.5
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_21.png",
+      "png_sha256": "4c24a2353bf3d3207acc12d04d0643d0dfb894dcbecdb01597e2f3b1c2585665",
+      "rect_xywh_png_top_left": [
+        208,
+        512,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        56,
+        31,
+        136,
+        119
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_22",
+      "source_file": "sharedassets0.assets",
+      "source_path_id": "389",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        412,
+        384,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.5,
+        0.5
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_22.png",
+      "png_sha256": "4ab0010d35afaae1d76aab934c1c077a60b61ae00e97f39e9f4c206dcd61d3c5",
+      "rect_xywh_png_top_left": [
+        412,
+        512,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        62,
+        27,
+        132,
+        119
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_23",
+      "source_file": "sharedassets0.assets",
+      "source_path_id": "909",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        616,
+        384,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.5,
+        0.5
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_23.png",
+      "png_sha256": "65d7b084c309eb8b7dd80bef1705fc7fb7e38f2173bc838975d56278f7780a47",
+      "rect_xywh_png_top_left": [
+        616,
+        512,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        60,
+        25,
+        132,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_24",
+      "source_file": "sharedassets0.assets",
+      "source_path_id": "393",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        820,
+        384,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.5,
+        0.5
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_24.png",
+      "png_sha256": "e25491c3cc89eb18ebc1952725bb9858105b202a689b41e677994ffbac16c3d6",
+      "rect_xywh_png_top_left": [
+        820,
+        512,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        62,
+        29,
+        136,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_25",
+      "source_file": "sharedassets0.assets",
+      "source_path_id": "900",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        4,
+        256,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.5,
+        0.5
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_25.png",
+      "png_sha256": "b975ce29a2cc3055f2bf9e92635bb1c7723def5f1d063f36c2fe54e6435b1cb1",
+      "rect_xywh_png_top_left": [
+        4,
+        640,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        60,
+        29,
+        134,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_26",
+      "source_file": "sharedassets0.assets",
+      "source_path_id": "394",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        208,
+        256,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.5,
+        0.5
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_26.png",
+      "png_sha256": "95b394e6eb4c441327f6cd6335631bb86fd02353a960adabf6dac7bf3b944a75",
+      "rect_xywh_png_top_left": [
+        208,
+        640,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        62,
+        27,
+        130,
+        119
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_01_28",
+      "source_file": "4cb69c1459b34924b9a2786f51bda66b",
+      "source_path_id": "9",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "100",
+      "rect_xywh_unity_bottom_left": [
+        816,
+        0,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.5,
+        0.5
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_01_28.png",
+      "png_sha256": "a9d6404697277f101bc265f3802072afcb290985d1c2f1b14ab7d3a3011b99f1",
+      "rect_xywh_png_top_left": [
+        816,
+        896,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        103,
+        54,
+        115,
+        68
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_0",
+      "source_file": "sharedassets0.assets",
+      "source_path_id": "918",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        4,
+        896,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_0.png",
+      "png_sha256": "c2917252d32a053df92849ff88a94a4bf9ca951130a03fec200699808c143abc",
+      "rect_xywh_png_top_left": [
+        4,
+        0,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        50,
+        33,
+        116,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_1",
+      "source_file": "440029e9a1e468e44ae898bcdb22dba3",
+      "source_path_id": "13",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        208,
+        896,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_1.png",
+      "png_sha256": "45e2a04fce5d3d5ff6203bf38a4b746a66c7ff31f70fe591f0bf88376276c93a",
+      "rect_xywh_png_top_left": [
+        208,
+        0,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        44,
+        29,
+        130,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_2",
+      "source_file": "440029e9a1e468e44ae898bcdb22dba3",
+      "source_path_id": "4",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        412,
+        896,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_2.png",
+      "png_sha256": "be7402c7f551ab5ab661dac5ab620de63b5de0810823ad50b0751e5b033775fa",
+      "rect_xywh_png_top_left": [
+        412,
+        0,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        50,
+        29,
+        130,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_3",
+      "source_file": "440029e9a1e468e44ae898bcdb22dba3",
+      "source_path_id": "1",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        616,
+        896,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_3.png",
+      "png_sha256": "c0193393d102d1765ae4061134a3011e0ae9e33f6515485cc31116dab5772be5",
+      "rect_xywh_png_top_left": [
+        616,
+        0,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        52,
+        29,
+        130,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_4",
+      "source_file": "440029e9a1e468e44ae898bcdb22dba3",
+      "source_path_id": "7",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        820,
+        896,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_4.png",
+      "png_sha256": "80bc1ddf2f0014e29d88b8687222b9b607b4417b0b1945b008cce82df9a2b68f",
+      "rect_xywh_png_top_left": [
+        820,
+        0,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        70,
+        36,
+        124,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_5",
+      "source_file": "440029e9a1e468e44ae898bcdb22dba3",
+      "source_path_id": "11",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        4,
+        768,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_5.png",
+      "png_sha256": "fa54f6fe1a45b76b1d4f2c9ade33e6b20858137bcbd47d1c83a8a7e93fab8ac2",
+      "rect_xywh_png_top_left": [
+        4,
+        128,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        69,
+        29,
+        129,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_6",
+      "source_file": "440029e9a1e468e44ae898bcdb22dba3",
+      "source_path_id": "18",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        208,
+        768,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_6.png",
+      "png_sha256": "d02e5b70cce86bc81fedcbbbb3a70d7cb9e25059ea31841630b24d874d5a39d1",
+      "rect_xywh_png_top_left": [
+        208,
+        128,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        66,
+        39,
+        128,
+        119
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_7",
+      "source_file": "440029e9a1e468e44ae898bcdb22dba3",
+      "source_path_id": "14",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        412,
+        768,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_7.png",
+      "png_sha256": "58282ce77026ec20465bb080738b11e0d52129377ec53a163af7e4cab80ee9fd",
+      "rect_xywh_png_top_left": [
+        412,
+        128,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        65,
+        35,
+        125,
+        119
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_8",
+      "source_file": "440029e9a1e468e44ae898bcdb22dba3",
+      "source_path_id": "15",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        616,
+        768,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_8.png",
+      "png_sha256": "317c921132f387041f4140ccce02a4c780513d803937eddd889e610830f6af82",
+      "rect_xywh_png_top_left": [
+        616,
+        128,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        67,
+        33,
+        125,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_9",
+      "source_file": "440029e9a1e468e44ae898bcdb22dba3",
+      "source_path_id": "5",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        820,
+        768,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_9.png",
+      "png_sha256": "e55959779be7868a642f6c78b08b7ccab5488b8e130e67658085a782abfe6535",
+      "rect_xywh_png_top_left": [
+        820,
+        128,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        68,
+        38,
+        128,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_10",
+      "source_file": "440029e9a1e468e44ae898bcdb22dba3",
+      "source_path_id": "16",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        4,
+        640,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_10.png",
+      "png_sha256": "4e2809af39beef8c4af9cf4ee53909e9b8ed0c334eb55eb5477aee887b36ec6e",
+      "rect_xywh_png_top_left": [
+        4,
+        256,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        71,
+        36,
+        127,
+        118
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_11",
+      "source_file": "440029e9a1e468e44ae898bcdb22dba3",
+      "source_path_id": "12",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        208,
+        640,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_11.png",
+      "png_sha256": "55e93accefae0206778df7a4a395510caf8a8c6f587757be7684b9ca79a648bf",
+      "rect_xywh_png_top_left": [
+        208,
+        256,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        68,
+        34,
+        124,
+        118
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_12",
+      "source_file": "sharedassets0.assets",
+      "source_path_id": "373",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        412,
+        640,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_12.png",
+      "png_sha256": "e24548f70ea85bef3b996a214ab8487e9632a011f2a2d81f2b48dbf39bdcfeb9",
+      "rect_xywh_png_top_left": [
+        412,
+        256,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        44,
+        32,
+        116,
+        118
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_13",
+      "source_file": "sharedassets0.assets",
+      "source_path_id": "367",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        616,
+        640,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_13.png",
+      "png_sha256": "e03604238ef6dcae5b685106eb9265e20b1d5acb2f9fc497dff5f5d8f49a4c52",
+      "rect_xywh_png_top_left": [
+        616,
+        256,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        44,
+        34,
+        116,
+        118
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_14",
+      "source_file": "440029e9a1e468e44ae898bcdb22dba3",
+      "source_path_id": "3",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        820,
+        640,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_14.png",
+      "png_sha256": "662bd008c0ddfc3553e421723f1fb073fa045900151e46a53d2174103914ead7",
+      "rect_xywh_png_top_left": [
+        820,
+        256,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        30,
+        26,
+        107,
+        105
+      ],
+      "alpha_extrema": [
+        0,
+        239
+      ]
+    },
+    {
+      "name": "slayer_02_15",
+      "source_file": "440029e9a1e468e44ae898bcdb22dba3",
+      "source_path_id": "10",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        4,
+        512,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_15.png",
+      "png_sha256": "728f9486f1664f951f128a43e4eb9c35690f5956c6c18d4ff726efbbe5a7e734",
+      "rect_xywh_png_top_left": [
+        4,
+        384,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        8,
+        19,
+        120,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_16",
+      "source_file": "440029e9a1e468e44ae898bcdb22dba3",
+      "source_path_id": "17",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        208,
+        512,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_16.png",
+      "png_sha256": "e3fa0fd165f35261c608011cf41728d4c673c914c12ca75461d34764be168f4e",
+      "rect_xywh_png_top_left": [
+        208,
+        384,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        44,
+        31,
+        116,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_17",
+      "source_file": "440029e9a1e468e44ae898bcdb22dba3",
+      "source_path_id": "9",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        412,
+        512,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_17.png",
+      "png_sha256": "58d3c3935aa45959f654b3779987f6af76e2690f84c1f2a8043dc65e551fd11a",
+      "rect_xywh_png_top_left": [
+        412,
+        384,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        44,
+        33,
+        116,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_18",
+      "source_file": "440029e9a1e468e44ae898bcdb22dba3",
+      "source_path_id": "6",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        616,
+        512,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_18.png",
+      "png_sha256": "ecfd1ddb6dc4791a994a07e9e4ce0f756efd005f04a014ee5d133d5edd630c19",
+      "rect_xywh_png_top_left": [
+        616,
+        384,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        50,
+        64,
+        126,
+        120
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_19",
+      "source_file": "440029e9a1e468e44ae898bcdb22dba3",
+      "source_path_id": "8",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        820,
+        512,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_19.png",
+      "png_sha256": "69386142fa610af7a1f1d2d9f9459e0c782454ac358dd5ccebdb5109fb052710",
+      "rect_xywh_png_top_left": [
+        820,
+        384,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        30,
+        38,
+        137,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_20",
+      "source_file": "440029e9a1e468e44ae898bcdb22dba3",
+      "source_path_id": "2",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        4,
+        384,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.4399999976158142,
+        0.07999999821186066
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_20.png",
+      "png_sha256": "bbe0629f36c1a909f8167cd68a4f9396114670dcbe4507ab97d0cde7760a8fa4",
+      "rect_xywh_png_top_left": [
+        4,
+        512,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        58,
+        36,
+        136,
+        118
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_21",
+      "source_file": "sharedassets0.assets",
+      "source_path_id": "356",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        208,
+        384,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.5,
+        0.5
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_21.png",
+      "png_sha256": "c8cd6944b114533edb224280a7a8b050f5da70bfa07b774035c54598273ada8f",
+      "rect_xywh_png_top_left": [
+        208,
+        512,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        50,
+        39,
+        129,
+        119
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_22",
+      "source_file": "sharedassets0.assets",
+      "source_path_id": "334",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        412,
+        384,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.5,
+        0.5
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_22.png",
+      "png_sha256": "e82c85a918d4b9d1b0b8b33d6ef3fb45ce299cc2f15f55c29069491c446b9a6c",
+      "rect_xywh_png_top_left": [
+        412,
+        512,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        44,
+        35,
+        126,
+        119
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_23",
+      "source_file": "sharedassets0.assets",
+      "source_path_id": "964",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        616,
+        384,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.5,
+        0.5
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_23.png",
+      "png_sha256": "5d473f83d93090dbcd13126d9c135e9622135843718abdc5733cb855b28545dd",
+      "rect_xywh_png_top_left": [
+        616,
+        512,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        48,
+        33,
+        126,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_24",
+      "source_file": "sharedassets0.assets",
+      "source_path_id": "365",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        820,
+        384,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.5,
+        0.5
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_24.png",
+      "png_sha256": "4e4d106e8c10b0257583d76bec3eceab0e773af8e2d5c6d9a155a4fa0d2dda66",
+      "rect_xywh_png_top_left": [
+        820,
+        512,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        52,
+        38,
+        129,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_25",
+      "source_file": "sharedassets0.assets",
+      "source_path_id": "344",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        4,
+        256,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.5,
+        0.5
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_25.png",
+      "png_sha256": "1b5e91905c7d13f78d13ee0fbff5c921fe59e9457709f42370a94071aa0957c6",
+      "rect_xywh_png_top_left": [
+        4,
+        640,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        56,
+        36,
+        128,
+        117
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "slayer_02_26",
+      "source_file": "sharedassets0.assets",
+      "source_path_id": "971",
+      "texture_file": "sharedassets0.assets",
+      "texture_path_id": "95",
+      "rect_xywh_unity_bottom_left": [
+        208,
+        256,
+        204,
+        128
+      ],
+      "pivot_normalized_bottom_left": [
+        0.5,
+        0.5
+      ],
+      "pixels_per_unit": 100.0,
+      "file": "assets/slayer/sprites/slayer_02_26.png",
+      "png_sha256": "40fa8774b4423718acf05c5a7705772c10f6eaff06193bfb707148f979bd0c90",
+      "rect_xywh_png_top_left": [
+        208,
+        640,
+        204,
+        128
+      ],
+      "alpha_bbox_png": [
+        50,
+        34,
+        125,
+        119
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    }
+  ]
+}

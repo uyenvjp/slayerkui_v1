@@ -1,0 +1,19 @@
+[
+  {
+    "Id": 1,
+    "CurrencyType": 104,
+    "CurrencyIndex": 11,
+    "Name": "SELECT_ITEM_NAME_011",
+    "Des": "SELECT_ITEM_DESC_011",
+    "CostCurrency": 27,
+    "Price": 30000,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 1,
+    "MaxSetCount": 1
+  }
+]

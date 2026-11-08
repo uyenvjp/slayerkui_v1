@@ -1,0 +1,38 @@
+{
+  "archive": "Slayer_Legend_Phan_Tich_Lien_Tuc.zip",
+  "input": "decoded MemoryPack tables in user-XAPK recovery archive",
+  "status": "all 3,000 rows decoded and field-wise matched to archived JSON",
+  "sources": [
+    {
+      "name": "StageInfoBaseData",
+      "rows": 1000,
+      "bytes": 2092213,
+      "binary_sha256": "621a4200be75b179d0d648a7e245808771a034dbbf36619946bf0579baeeb04b",
+      "archived_json_sha256": "557c5c32946197b086a1be88669748c534c57f3aded4897d763e4f883ce4fa44",
+      "verified": true
+    },
+    {
+      "name": "StageInfoBase1000Data",
+      "rows": 1000,
+      "bytes": 2145295,
+      "binary_sha256": "bab4d50d220e2da48306f43b90870b9ac1e922bd546b1285ca5916a996c661de",
+      "archived_json_sha256": "3386a5d8f210b97bc961d27b0f422e5d6d6c0411f2a7f5e2f8c41bbb9ef1745e",
+      "verified": true
+    },
+    {
+      "name": "StageInfoBase2000Data",
+      "rows": 1000,
+      "bytes": 2192952,
+      "binary_sha256": "ef77cd2c0586e2fbad7a9698244140e7d926cd3dd651d61a1666334ef6710043",
+      "archived_json_sha256": "56553fafb3584a94b510f82671c57f6327aaf44f889dbf42cf95638a992e6618",
+      "verified": true
+    }
+  ],
+  "recovered_stage_ids": [
+    0,
+    1,
+    20
+  ],
+  "game_runtime_start_id_confirmed": false,
+  "initial_player_appearance_confirmed": false
+}

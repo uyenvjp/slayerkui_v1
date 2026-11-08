@@ -1,0 +1,6 @@
+{
+  "passed": 820,
+  "entries": 20,
+  "transition_checks": 4,
+  "scope": "Selected method bodies and normalized ordered effects under explicit dependencies; not full Unity/gameplay validation."
+}

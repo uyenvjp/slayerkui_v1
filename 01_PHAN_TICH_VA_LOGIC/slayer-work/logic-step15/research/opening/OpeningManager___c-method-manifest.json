@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x600a41f",
+    "name": "<RightSelect_Tutorial0>b__13_0",
+    "declaring_type_index": "4414",
+    "declaring_type_full_name": "OpeningManager+<>c",
+    "native_va": "0x5242014",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "131",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x9c0b6c",
+    "end_va": "0x5242018",
+    "asm_file": "OpeningManager___c___RightSelect_Tutorial0_b__13_0_0x600a41f.asm"
+  }
+]

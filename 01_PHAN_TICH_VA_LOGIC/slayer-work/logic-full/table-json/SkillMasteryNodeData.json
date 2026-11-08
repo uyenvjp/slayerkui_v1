@@ -1,0 +1,5570 @@
+[
+  {
+    "Id": 1,
+    "Grade": 1,
+    "NodeNumber": 1,
+    "Ypos": 1,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 1,
+    "UpgradeType": 1,
+    "Value": 50,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 2,
+    "Grade": 1,
+    "NodeNumber": 2,
+    "Ypos": 2,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      1,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 1,
+    "UpgradeType": 2,
+    "Value": 40,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 3,
+    "Grade": 1,
+    "NodeNumber": 3,
+    "Ypos": 3,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      2,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 5,
+    "UpgradeType": 4,
+    "Value": 70,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 4,
+    "Grade": 1,
+    "NodeNumber": 4,
+    "Ypos": 3,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      2,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 5,
+    "UpgradeType": 5,
+    "Value": 10,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 5,
+    "Grade": 1,
+    "NodeNumber": 5,
+    "Ypos": 4,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      3,
+      0
+    ],
+    "NodeType": 0,
+    "MaxLevel": 1,
+    "UpgradeType": 6,
+    "Value": 0,
+    "AttackSkillType": 2,
+    "MaterialType": [
+      26,
+      101
+    ],
+    "MaterialAmount": [
+      100,
+      1
+    ],
+    "MaterialIndex": [
+      0,
+      20
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 6,
+    "Grade": 1,
+    "NodeNumber": 6,
+    "Ypos": 4,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      3,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 1,
+    "Value": 15,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 7,
+    "Grade": 1,
+    "NodeNumber": 7,
+    "Ypos": 4,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      4,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 3,
+    "Value": 5,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 8,
+    "Grade": 1,
+    "NodeNumber": 8,
+    "Ypos": 5,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      5,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 15,
+    "UpgradeType": 4,
+    "Value": 40,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 9,
+    "Grade": 1,
+    "NodeNumber": 9,
+    "Ypos": 5,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      6,
+      7,
+      0
+    ],
+    "NodeType": 0,
+    "MaxLevel": 1,
+    "UpgradeType": 6,
+    "Value": 0,
+    "AttackSkillType": 1,
+    "MaterialType": [
+      26,
+      100
+    ],
+    "MaterialAmount": [
+      100,
+      1
+    ],
+    "MaterialIndex": [
+      0,
+      20
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 10,
+    "Grade": 1,
+    "NodeNumber": 10,
+    "Ypos": 6,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      8,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 1,
+    "Value": 20,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 11,
+    "Grade": 1,
+    "NodeNumber": 11,
+    "Ypos": 6,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      9,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 5,
+    "Value": 10,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 12,
+    "Grade": 1,
+    "NodeNumber": 12,
+    "Ypos": 6,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      9,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 100,
+    "RewardAmount": 1,
+    "RewardIndex": 23
+  },
+  {
+    "Id": 13,
+    "Grade": 1,
+    "NodeNumber": 13,
+    "Ypos": 7,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      10,
+      11,
+      0
+    ],
+    "NodeType": 0,
+    "MaxLevel": 1,
+    "UpgradeType": 6,
+    "Value": 0,
+    "AttackSkillType": 3,
+    "MaterialType": [
+      26,
+      101
+    ],
+    "MaterialAmount": [
+      100,
+      1
+    ],
+    "MaterialIndex": [
+      0,
+      20
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 14,
+    "Grade": 2,
+    "NodeNumber": 1,
+    "Ypos": 1,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeType": 1,
+    "Value": 40,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 15,
+    "Grade": 2,
+    "NodeNumber": 2,
+    "Ypos": 2,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      1,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 5,
+    "UpgradeType": 2,
+    "Value": 8,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 16,
+    "Grade": 2,
+    "NodeNumber": 3,
+    "Ypos": 2,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      1,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 5,
+    "UpgradeType": 5,
+    "Value": 10,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 17,
+    "Grade": 2,
+    "NodeNumber": 4,
+    "Ypos": 2,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      1,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 5,
+    "UpgradeType": 3,
+    "Value": 20,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 18,
+    "Grade": 2,
+    "NodeNumber": 5,
+    "Ypos": 3,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      2,
+      3,
+      4
+    ],
+    "NodeType": 0,
+    "MaxLevel": 1,
+    "UpgradeType": 6,
+    "Value": 0,
+    "AttackSkillType": 5,
+    "MaterialType": [
+      26,
+      100
+    ],
+    "MaterialAmount": [
+      100,
+      1
+    ],
+    "MaterialIndex": [
+      0,
+      20
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 19,
+    "Grade": 2,
+    "NodeNumber": 6,
+    "Ypos": 4,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      5,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 4,
+    "Value": 30,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 20,
+    "Grade": 2,
+    "NodeNumber": 7,
+    "Ypos": 4,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      5,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 1,
+    "Value": 15,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 21,
+    "Grade": 2,
+    "NodeNumber": 8,
+    "Ypos": 4,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      5,
+      0
+    ],
+    "NodeType": 0,
+    "MaxLevel": 1,
+    "UpgradeType": 6,
+    "Value": 0,
+    "AttackSkillType": 4,
+    "MaterialType": [
+      26,
+      101
+    ],
+    "MaterialAmount": [
+      100,
+      1
+    ],
+    "MaterialIndex": [
+      0,
+      21
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 22,
+    "Grade": 2,
+    "NodeNumber": 9,
+    "Ypos": 5,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      7,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 15,
+    "UpgradeType": 2,
+    "Value": 10,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 23,
+    "Grade": 2,
+    "NodeNumber": 10,
+    "Ypos": 5,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      7,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 1,
+    "RewardAmount": 50000,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 24,
+    "Grade": 2,
+    "NodeNumber": 11,
+    "Ypos": 5,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      7,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 15,
+    "UpgradeType": 4,
+    "Value": 60,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 25,
+    "Grade": 2,
+    "NodeNumber": 12,
+    "Ypos": 6,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      9,
+      11,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 104,
+    "RewardAmount": 1,
+    "RewardIndex": 11
+  },
+  {
+    "Id": 26,
+    "Grade": 2,
+    "NodeNumber": 13,
+    "Ypos": 7,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      12,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 20,
+    "UpgradeType": 5,
+    "Value": 5,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 27,
+    "Grade": 2,
+    "NodeNumber": 14,
+    "Ypos": 7,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      12,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 20,
+    "UpgradeType": 1,
+    "Value": 20,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 28,
+    "Grade": 2,
+    "NodeNumber": 15,
+    "Ypos": 8,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      13,
+      14,
+      0
+    ],
+    "NodeType": 0,
+    "MaxLevel": 1,
+    "UpgradeType": 6,
+    "Value": 0,
+    "AttackSkillType": 6,
+    "MaterialType": [
+      26,
+      100
+    ],
+    "MaterialAmount": [
+      100,
+      1
+    ],
+    "MaterialIndex": [
+      0,
+      21
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 29,
+    "Grade": 3,
+    "NodeNumber": 1,
+    "Ypos": 1,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 1,
+    "UpgradeType": 3,
+    "Value": 40,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 30,
+    "Grade": 3,
+    "NodeNumber": 2,
+    "Ypos": 2,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      1,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 3,
+    "UpgradeType": 1,
+    "Value": 40,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 31,
+    "Grade": 3,
+    "NodeNumber": 3,
+    "Ypos": 3,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      2,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 5,
+    "UpgradeType": 4,
+    "Value": 100,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 32,
+    "Grade": 3,
+    "NodeNumber": 4,
+    "Ypos": 3,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      2,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 5,
+    "UpgradeType": 5,
+    "Value": 10,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 33,
+    "Grade": 3,
+    "NodeNumber": 5,
+    "Ypos": 4,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      3,
+      0,
+      4
+    ],
+    "NodeType": 0,
+    "MaxLevel": 1,
+    "UpgradeType": 6,
+    "Value": 0,
+    "AttackSkillType": 7,
+    "MaterialType": [
+      26,
+      101
+    ],
+    "MaterialAmount": [
+      100,
+      1
+    ],
+    "MaterialIndex": [
+      0,
+      21
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 34,
+    "Grade": 3,
+    "NodeNumber": 6,
+    "Ypos": 5,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      5,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 4,
+    "Value": 120,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 35,
+    "Grade": 3,
+    "NodeNumber": 7,
+    "Ypos": 5,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      5,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 1,
+    "Value": 30,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 36,
+    "Grade": 3,
+    "NodeNumber": 8,
+    "Ypos": 5,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      5,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 7,
+    "RewardAmount": 20000,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 37,
+    "Grade": 3,
+    "NodeNumber": 9,
+    "Ypos": 6,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      7,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 5,
+    "Value": 20,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 38,
+    "Grade": 3,
+    "NodeNumber": 10,
+    "Ypos": 6,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      6,
+      7,
+      0
+    ],
+    "NodeType": 0,
+    "MaxLevel": 1,
+    "UpgradeType": 6,
+    "Value": 0,
+    "AttackSkillType": 8,
+    "MaterialType": [
+      26,
+      100
+    ],
+    "MaterialAmount": [
+      100,
+      1
+    ],
+    "MaterialIndex": [
+      0,
+      21
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 39,
+    "Grade": 3,
+    "NodeNumber": 11,
+    "Ypos": 7,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      9,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 15,
+    "UpgradeType": 2,
+    "Value": 16,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 40,
+    "Grade": 3,
+    "NodeNumber": 12,
+    "Ypos": 7,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      9,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 3,
+    "Value": 7,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 41,
+    "Grade": 3,
+    "NodeNumber": 13,
+    "Ypos": 8,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      11,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 19,
+    "RewardAmount": 20,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 42,
+    "Grade": 3,
+    "NodeNumber": 14,
+    "Ypos": 8,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      12,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 20,
+    "UpgradeType": 1,
+    "Value": 20,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 43,
+    "Grade": 3,
+    "NodeNumber": 15,
+    "Ypos": 9,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      13,
+      0,
+      14
+    ],
+    "NodeType": 0,
+    "MaxLevel": 1,
+    "UpgradeType": 6,
+    "Value": 0,
+    "AttackSkillType": 11,
+    "MaterialType": [
+      26,
+      100
+    ],
+    "MaterialAmount": [
+      200,
+      1
+    ],
+    "MaterialIndex": [
+      0,
+      23
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 44,
+    "Grade": 4,
+    "NodeNumber": 1,
+    "Ypos": 1,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeType": 1,
+    "Value": 50,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 45,
+    "Grade": 4,
+    "NodeNumber": 2,
+    "Ypos": 2,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      1,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 5,
+    "UpgradeType": 4,
+    "Value": 80,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 46,
+    "Grade": 4,
+    "NodeNumber": 3,
+    "Ypos": 2,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      1,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 5,
+    "UpgradeType": 2,
+    "Value": 20,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 47,
+    "Grade": 4,
+    "NodeNumber": 4,
+    "Ypos": 2,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      1,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 5,
+    "UpgradeType": 5,
+    "Value": 30,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 48,
+    "Grade": 4,
+    "NodeNumber": 5,
+    "Ypos": 3,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      2,
+      3,
+      4
+    ],
+    "NodeType": 0,
+    "MaxLevel": 1,
+    "UpgradeType": 6,
+    "Value": 0,
+    "AttackSkillType": 10,
+    "MaterialType": [
+      26,
+      101
+    ],
+    "MaterialAmount": [
+      100,
+      1
+    ],
+    "MaterialIndex": [
+      0,
+      22
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 49,
+    "Grade": 4,
+    "NodeNumber": 6,
+    "Ypos": 4,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      7,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 18,
+    "RewardAmount": 20,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 50,
+    "Grade": 4,
+    "NodeNumber": 7,
+    "Ypos": 4,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      5,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 3,
+    "Value": 5,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 51,
+    "Grade": 4,
+    "NodeNumber": 8,
+    "Ypos": 4,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      5,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 15,
+    "UpgradeType": 5,
+    "Value": 8,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 52,
+    "Grade": 4,
+    "NodeNumber": 9,
+    "Ypos": 5,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      7,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 4,
+    "Value": 60,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 53,
+    "Grade": 4,
+    "NodeNumber": 10,
+    "Ypos": 5,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      7,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 1,
+    "Value": 35,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 54,
+    "Grade": 4,
+    "NodeNumber": 11,
+    "Ypos": 6,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      10,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 2,
+    "Value": 18,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 55,
+    "Grade": 4,
+    "NodeNumber": 12,
+    "Ypos": 6,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      8,
+      0
+    ],
+    "NodeType": 0,
+    "MaxLevel": 1,
+    "UpgradeType": 6,
+    "Value": 0,
+    "AttackSkillType": 9,
+    "MaterialType": [
+      26,
+      100
+    ],
+    "MaterialAmount": [
+      100,
+      1
+    ],
+    "MaterialIndex": [
+      0,
+      22
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 56,
+    "Grade": 4,
+    "NodeNumber": 13,
+    "Ypos": 7,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      11,
+      12,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 4,
+    "Value": 100,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 57,
+    "Grade": 4,
+    "NodeNumber": 14,
+    "Ypos": 8,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      9,
+      0
+    ],
+    "NodeType": 0,
+    "MaxLevel": 1,
+    "UpgradeType": 6,
+    "Value": 0,
+    "AttackSkillType": 13,
+    "MaterialType": [
+      26,
+      101
+    ],
+    "MaterialAmount": [
+      200,
+      1
+    ],
+    "MaterialIndex": [
+      0,
+      23
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 58,
+    "Grade": 4,
+    "NodeNumber": 15,
+    "Ypos": 8,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      13,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 15,
+    "UpgradeType": 3,
+    "Value": 6,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 59,
+    "Grade": 4,
+    "NodeNumber": 16,
+    "Ypos": 8,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      13,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 101,
+    "RewardAmount": 1,
+    "RewardIndex": 23
+  },
+  {
+    "Id": 60,
+    "Grade": 4,
+    "NodeNumber": 17,
+    "Ypos": 9,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      14,
+      15,
+      16
+    ],
+    "NodeType": 1,
+    "MaxLevel": 3,
+    "UpgradeType": 1,
+    "Value": 250,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 61,
+    "Grade": 5,
+    "NodeNumber": 1,
+    "Ypos": 1,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeType": 4,
+    "Value": 150,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 62,
+    "Grade": 5,
+    "NodeNumber": 2,
+    "Ypos": 2,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      1,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 5,
+    "UpgradeType": 1,
+    "Value": 30,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 63,
+    "Grade": 5,
+    "NodeNumber": 3,
+    "Ypos": 3,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      2,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 5,
+    "Value": 5,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 64,
+    "Grade": 5,
+    "NodeNumber": 4,
+    "Ypos": 3,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      2,
+      0
+    ],
+    "NodeType": 0,
+    "MaxLevel": 1,
+    "UpgradeType": 6,
+    "Value": 0,
+    "AttackSkillType": 12,
+    "MaterialType": [
+      26,
+      101
+    ],
+    "MaterialAmount": [
+      200,
+      1
+    ],
+    "MaterialIndex": [
+      0,
+      23
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 65,
+    "Grade": 5,
+    "NodeNumber": 5,
+    "Ypos": 4,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      3,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 5,
+    "UpgradeType": 2,
+    "Value": 50,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 66,
+    "Grade": 5,
+    "NodeNumber": 6,
+    "Ypos": 5,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      5,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 3,
+    "Value": 5,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 67,
+    "Grade": 5,
+    "NodeNumber": 7,
+    "Ypos": 5,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      5,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 19,
+    "RewardAmount": 20,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 68,
+    "Grade": 5,
+    "NodeNumber": 8,
+    "Ypos": 5,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      4,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 4,
+    "Value": 50,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 69,
+    "Grade": 5,
+    "NodeNumber": 9,
+    "Ypos": 6,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      6,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 5,
+    "Value": 5,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 70,
+    "Grade": 5,
+    "NodeNumber": 10,
+    "Ypos": 6,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      8,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeType": 4,
+    "Value": 600,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 71,
+    "Grade": 5,
+    "NodeNumber": 11,
+    "Ypos": 7,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      7,
+      9,
+      10
+    ],
+    "NodeType": 0,
+    "MaxLevel": 1,
+    "UpgradeType": 6,
+    "Value": 0,
+    "AttackSkillType": 14,
+    "MaterialType": [
+      26,
+      100
+    ],
+    "MaterialAmount": [
+      200,
+      1
+    ],
+    "MaterialIndex": [
+      0,
+      23
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 72,
+    "Grade": 5,
+    "NodeNumber": 12,
+    "Ypos": 8,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      11,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 15,
+    "UpgradeType": 2,
+    "Value": 6,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 73,
+    "Grade": 5,
+    "NodeNumber": 13,
+    "Ypos": 8,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      11,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 18,
+    "RewardAmount": 20,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 74,
+    "Grade": 5,
+    "NodeNumber": 14,
+    "Ypos": 9,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      12,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 1,
+    "Value": 30,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 75,
+    "Grade": 5,
+    "NodeNumber": 15,
+    "Ypos": 9,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      13,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 15,
+    "UpgradeType": 5,
+    "Value": 12,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 76,
+    "Grade": 5,
+    "NodeNumber": 16,
+    "Ypos": 9,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      13,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 3,
+    "Value": 10,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 77,
+    "Grade": 5,
+    "NodeNumber": 17,
+    "Ypos": 10,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      14,
+      15,
+      16
+    ],
+    "NodeType": 1,
+    "MaxLevel": 5,
+    "UpgradeType": 1,
+    "Value": 220,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 78,
+    "Grade": 6,
+    "NodeNumber": 1,
+    "Ypos": 1,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 5,
+    "UpgradeType": 5,
+    "Value": 20,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 79,
+    "Grade": 6,
+    "NodeNumber": 2,
+    "Ypos": 2,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      1,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 5,
+    "UpgradeType": 2,
+    "Value": 30,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 80,
+    "Grade": 6,
+    "NodeNumber": 3,
+    "Ypos": 2,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      1,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 3,
+    "Value": 10,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 81,
+    "Grade": 6,
+    "NodeNumber": 4,
+    "Ypos": 3,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      2,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 150,
+    "RewardAmount": 100,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 82,
+    "Grade": 6,
+    "NodeNumber": 5,
+    "Ypos": 3,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      3,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 1,
+    "Value": 40,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 83,
+    "Grade": 6,
+    "NodeNumber": 6,
+    "Ypos": 3,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      3,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 4,
+    "Value": 50,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 84,
+    "Grade": 6,
+    "NodeNumber": 7,
+    "Ypos": 4,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      4,
+      5,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 2,
+    "Value": 80,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 85,
+    "Grade": 6,
+    "NodeNumber": 8,
+    "Ypos": 4,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      5,
+      6,
+      0
+    ],
+    "NodeType": 0,
+    "MaxLevel": 2,
+    "UpgradeType": 7,
+    "Value": 0,
+    "AttackSkillType": 8,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 86,
+    "Grade": 6,
+    "NodeNumber": 9,
+    "Ypos": 5,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      8,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 9,
+    "Value": 20,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 87,
+    "Grade": 6,
+    "NodeNumber": 10,
+    "Ypos": 5,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      7,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 5,
+    "Value": 20,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 88,
+    "Grade": 6,
+    "NodeNumber": 11,
+    "Ypos": 5,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      10,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 7,
+    "RewardAmount": 10000,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 89,
+    "Grade": 6,
+    "NodeNumber": 12,
+    "Ypos": 6,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      9,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 15,
+    "UpgradeType": 1,
+    "Value": 60,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 90,
+    "Grade": 6,
+    "NodeNumber": 13,
+    "Ypos": 6,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      10,
+      9
+    ],
+    "NodeType": 0,
+    "MaxLevel": 2,
+    "UpgradeType": 7,
+    "Value": 0,
+    "AttackSkillType": 2,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 91,
+    "Grade": 6,
+    "NodeNumber": 14,
+    "Ypos": 7,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      13,
+      12,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 20,
+    "UpgradeType": 8,
+    "Value": 20,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 92,
+    "Grade": 6,
+    "NodeNumber": 15,
+    "Ypos": 7,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      13,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 18,
+    "RewardAmount": 20,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 93,
+    "Grade": 6,
+    "NodeNumber": 16,
+    "Ypos": 7,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      13,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 20,
+    "UpgradeType": 1,
+    "Value": 100,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 94,
+    "Grade": 6,
+    "NodeNumber": 17,
+    "Ypos": 8,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      14,
+      0,
+      16
+    ],
+    "NodeType": 0,
+    "MaxLevel": 2,
+    "UpgradeType": 7,
+    "Value": 0,
+    "AttackSkillType": 5,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 95,
+    "Grade": 7,
+    "NodeNumber": 1,
+    "Ypos": 1,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 3,
+    "Value": 20,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      10,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 96,
+    "Grade": 7,
+    "NodeNumber": 2,
+    "Ypos": 2,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      1,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 5,
+    "UpgradeType": 4,
+    "Value": 420,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 97,
+    "Grade": 7,
+    "NodeNumber": 3,
+    "Ypos": 2,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      1,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 1,
+    "Value": 60,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 98,
+    "Grade": 7,
+    "NodeNumber": 4,
+    "Ypos": 2,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      1,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 5,
+    "Value": 10,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 99,
+    "Grade": 7,
+    "NodeNumber": 5,
+    "Ypos": 3,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      2,
+      3,
+      0
+    ],
+    "NodeType": 0,
+    "MaxLevel": 2,
+    "UpgradeType": 7,
+    "Value": 0,
+    "AttackSkillType": 10,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 100,
+    "Grade": 7,
+    "NodeNumber": 6,
+    "Ypos": 3,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      5,
+      0,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 1,
+    "RewardAmount": 50000,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 101,
+    "Grade": 7,
+    "NodeNumber": 7,
+    "Ypos": 4,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      5,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 2,
+    "Value": 60,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 102,
+    "Grade": 7,
+    "NodeNumber": 8,
+    "Ypos": 4,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      4,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 9,
+    "Value": 50,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 103,
+    "Grade": 7,
+    "NodeNumber": 9,
+    "Ypos": 5,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      7,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 5,
+    "Value": 15,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 104,
+    "Grade": 7,
+    "NodeNumber": 10,
+    "Ypos": 5,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      7,
+      8,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 4,
+    "Value": 300,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 105,
+    "Grade": 7,
+    "NodeNumber": 11,
+    "Ypos": 5,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      8,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 15,
+    "UpgradeType": 1,
+    "Value": 60,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 106,
+    "Grade": 7,
+    "NodeNumber": 12,
+    "Ypos": 7,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      13,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 15,
+    "UpgradeType": 5,
+    "Value": 20,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 107,
+    "Grade": 7,
+    "NodeNumber": 13,
+    "Ypos": 6,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      9,
+      10,
+      0
+    ],
+    "NodeType": 0,
+    "MaxLevel": 2,
+    "UpgradeType": 7,
+    "Value": 0,
+    "AttackSkillType": 1,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 108,
+    "Grade": 7,
+    "NodeNumber": 14,
+    "Ypos": 7,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      13,
+      11
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 19,
+    "RewardAmount": 20,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 109,
+    "Grade": 7,
+    "NodeNumber": 15,
+    "Ypos": 6,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      9,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 20,
+    "UpgradeType": 1,
+    "Value": 100,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 110,
+    "Grade": 7,
+    "NodeNumber": 16,
+    "Ypos": 7,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      15,
+      0
+    ],
+    "NodeType": 0,
+    "MaxLevel": 2,
+    "UpgradeType": 7,
+    "Value": 0,
+    "AttackSkillType": 6,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 111,
+    "Grade": 7,
+    "NodeNumber": 17,
+    "Ypos": 8,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      16,
+      12,
+      14
+    ],
+    "NodeType": 1,
+    "MaxLevel": 20,
+    "UpgradeType": 8,
+    "Value": 50,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 112,
+    "Grade": 8,
+    "NodeNumber": 1,
+    "Ypos": 1,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 4,
+    "Value": 500,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 113,
+    "Grade": 8,
+    "NodeNumber": 2,
+    "Ypos": 2,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      3,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 150,
+    "RewardAmount": 100,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 114,
+    "Grade": 8,
+    "NodeNumber": 3,
+    "Ypos": 2,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      1,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 2,
+    "Value": 50,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 115,
+    "Grade": 8,
+    "NodeNumber": 4,
+    "Ypos": 2,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      1,
+      0
+    ],
+    "NodeType": 0,
+    "MaxLevel": 2,
+    "UpgradeType": 7,
+    "Value": 0,
+    "AttackSkillType": 4,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 116,
+    "Grade": 8,
+    "NodeNumber": 5,
+    "Ypos": 3,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      3,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 3,
+    "Value": 40,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 117,
+    "Grade": 8,
+    "NodeNumber": 6,
+    "Ypos": 4,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      7,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 35,
+    "RewardAmount": 10,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 118,
+    "Grade": 8,
+    "NodeNumber": 7,
+    "Ypos": 4,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      5,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 8,
+    "Value": 50,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 119,
+    "Grade": 8,
+    "NodeNumber": 8,
+    "Ypos": 4,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      4,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 1,
+    "Value": 90,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 120,
+    "Grade": 8,
+    "NodeNumber": 9,
+    "Ypos": 5,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      7,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 9,
+    "Value": 50,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 121,
+    "Grade": 8,
+    "NodeNumber": 10,
+    "Ypos": 5,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      7,
+      8,
+      0
+    ],
+    "NodeType": 0,
+    "MaxLevel": 2,
+    "UpgradeType": 7,
+    "Value": 0,
+    "AttackSkillType": 7,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 122,
+    "Grade": 8,
+    "NodeNumber": 11,
+    "Ypos": 5,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      8,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 15,
+    "UpgradeType": 5,
+    "Value": 30,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 123,
+    "Grade": 8,
+    "NodeNumber": 12,
+    "Ypos": 6,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      9,
+      10
+    ],
+    "NodeType": 0,
+    "MaxLevel": 2,
+    "UpgradeType": 7,
+    "Value": 0,
+    "AttackSkillType": 11,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 124,
+    "Grade": 8,
+    "NodeNumber": 13,
+    "Ypos": 6,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      10,
+      11
+    ],
+    "NodeType": 1,
+    "MaxLevel": 20,
+    "UpgradeType": 2,
+    "Value": 100,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 125,
+    "Grade": 8,
+    "NodeNumber": 14,
+    "Ypos": 7,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      12,
+      13
+    ],
+    "NodeType": 1,
+    "MaxLevel": 20,
+    "UpgradeType": 1,
+    "Value": 125,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 126,
+    "Grade": 9,
+    "NodeNumber": 1,
+    "Ypos": 1,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 3,
+    "Value": 25,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      10,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 127,
+    "Grade": 9,
+    "NodeNumber": 2,
+    "Ypos": 2,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      1,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 4,
+    "Value": 100,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 128,
+    "Grade": 9,
+    "NodeNumber": 3,
+    "Ypos": 2,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      1,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 5,
+    "Value": 10,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 129,
+    "Grade": 9,
+    "NodeNumber": 4,
+    "Ypos": 3,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      5,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 7,
+    "RewardAmount": 20000,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 130,
+    "Grade": 9,
+    "NodeNumber": 5,
+    "Ypos": 3,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      2,
+      0,
+      3
+    ],
+    "NodeType": 0,
+    "MaxLevel": 2,
+    "UpgradeType": 7,
+    "Value": 0,
+    "AttackSkillType": 3,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 131,
+    "Grade": 9,
+    "NodeNumber": 6,
+    "Ypos": 3,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      3,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 2,
+    "Value": 50,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 132,
+    "Grade": 9,
+    "NodeNumber": 7,
+    "Ypos": 4,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      5,
+      6
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 1,
+    "Value": 100,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 133,
+    "Grade": 9,
+    "NodeNumber": 8,
+    "Ypos": 4,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      6,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 5,
+    "Value": 40,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 134,
+    "Grade": 9,
+    "NodeNumber": 9,
+    "Ypos": 5,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      7,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 20,
+    "UpgradeType": 9,
+    "Value": 50,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 135,
+    "Grade": 9,
+    "NodeNumber": 10,
+    "Ypos": 5,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      9,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 34,
+    "RewardAmount": 1000,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 136,
+    "Grade": 9,
+    "NodeNumber": 11,
+    "Ypos": 5,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      8,
+      0
+    ],
+    "NodeType": 0,
+    "MaxLevel": 2,
+    "UpgradeType": 7,
+    "Value": 0,
+    "AttackSkillType": 9,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 137,
+    "Grade": 9,
+    "NodeNumber": 12,
+    "Ypos": 6,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      9,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 3,
+    "Value": 75,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 138,
+    "Grade": 9,
+    "NodeNumber": 13,
+    "Ypos": 6,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      9,
+      0,
+      11
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 4,
+    "Value": 500,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 139,
+    "Grade": 9,
+    "NodeNumber": 14,
+    "Ypos": 6,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      11,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 20,
+    "UpgradeType": 1,
+    "Value": 125,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 140,
+    "Grade": 9,
+    "NodeNumber": 15,
+    "Ypos": 7,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      12,
+      13,
+      14
+    ],
+    "NodeType": 0,
+    "MaxLevel": 2,
+    "UpgradeType": 7,
+    "Value": 0,
+    "AttackSkillType": 13,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 141,
+    "Grade": 10,
+    "NodeNumber": 1,
+    "Ypos": 1,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 1,
+    "Value": 20,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      10,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 142,
+    "Grade": 10,
+    "NodeNumber": 2,
+    "Ypos": 2,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      1,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 20,
+    "UpgradeType": 8,
+    "Value": 100,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 143,
+    "Grade": 10,
+    "NodeNumber": 3,
+    "Ypos": 3,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      2,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 3,
+    "Value": 30,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      10,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 144,
+    "Grade": 10,
+    "NodeNumber": 4,
+    "Ypos": 3,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      2,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 4,
+    "Value": 100,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 145,
+    "Grade": 10,
+    "NodeNumber": 5,
+    "Ypos": 3,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      2,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 5,
+    "Value": 20,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 146,
+    "Grade": 10,
+    "NodeNumber": 6,
+    "Ypos": 4,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      3,
+      4
+    ],
+    "NodeType": 0,
+    "MaxLevel": 2,
+    "UpgradeType": 7,
+    "Value": 0,
+    "AttackSkillType": 12,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 147,
+    "Grade": 10,
+    "NodeNumber": 7,
+    "Ypos": 4,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      6,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 20,
+    "RewardAmount": 25000,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 148,
+    "Grade": 10,
+    "NodeNumber": 8,
+    "Ypos": 5,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      6,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 1,
+    "Value": 50,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 149,
+    "Grade": 10,
+    "NodeNumber": 9,
+    "Ypos": 5,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      5,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 20,
+    "UpgradeType": 9,
+    "Value": 100,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 150,
+    "Grade": 10,
+    "NodeNumber": 10,
+    "Ypos": 6,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      8,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 2,
+    "Value": 20,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 151,
+    "Grade": 10,
+    "NodeNumber": 11,
+    "Ypos": 6,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      8,
+      0,
+      9
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 5,
+    "Value": 25,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 152,
+    "Grade": 10,
+    "NodeNumber": 12,
+    "Ypos": 6,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      9,
+      0
+    ],
+    "NodeType": 0,
+    "MaxLevel": 2,
+    "UpgradeType": 7,
+    "Value": 0,
+    "AttackSkillType": 14,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 153,
+    "Grade": 10,
+    "NodeNumber": 13,
+    "Ypos": 7,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      10,
+      11,
+      12
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 4,
+    "Value": 200,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 154,
+    "Grade": 10,
+    "NodeNumber": 14,
+    "Ypos": 8,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      13,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 2,
+    "Value": 50,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 155,
+    "Grade": 10,
+    "NodeNumber": 15,
+    "Ypos": 8,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      16,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 31,
+    "RewardAmount": 20,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 156,
+    "Grade": 10,
+    "NodeNumber": 16,
+    "Ypos": 8,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      13,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 3,
+    "Value": 60,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 157,
+    "Grade": 10,
+    "NodeNumber": 17,
+    "Ypos": 9,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      14,
+      0,
+      16
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 1,
+    "Value": 200,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 158,
+    "Grade": 11,
+    "NodeNumber": 1,
+    "Ypos": 1,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 1,
+    "Value": 100,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      10,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 159,
+    "Grade": 11,
+    "NodeNumber": 2,
+    "Ypos": 2,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      3,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 1,
+    "RewardAmount": 50000,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 160,
+    "Grade": 11,
+    "NodeNumber": 3,
+    "Ypos": 2,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      1,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 4,
+    "Value": 150,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 161,
+    "Grade": 11,
+    "NodeNumber": 4,
+    "Ypos": 2,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      1,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 5,
+    "Value": 20,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 162,
+    "Grade": 11,
+    "NodeNumber": 5,
+    "Ypos": 3,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      3,
+      4
+    ],
+    "NodeType": 0,
+    "MaxLevel": 2,
+    "UpgradeType": 7,
+    "Value": 0,
+    "AttackSkillType": 3,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 163,
+    "Grade": 11,
+    "NodeNumber": 6,
+    "Ypos": 4,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      5,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 2,
+    "Value": 100,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 164,
+    "Grade": 11,
+    "NodeNumber": 7,
+    "Ypos": 4,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      5,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 20,
+    "UpgradeType": 10,
+    "Value": 10,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 165,
+    "Grade": 11,
+    "NodeNumber": 8,
+    "Ypos": 4,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      5,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 5,
+    "Value": 50,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 166,
+    "Grade": 11,
+    "NodeNumber": 9,
+    "Ypos": 5,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      6,
+      7
+    ],
+    "NodeType": 1,
+    "MaxLevel": 20,
+    "UpgradeType": 4,
+    "Value": 150,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 167,
+    "Grade": 11,
+    "NodeNumber": 10,
+    "Ypos": 5,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      7,
+      8
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 3,
+    "Value": 200,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      20,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 168,
+    "Grade": 11,
+    "NodeNumber": 11,
+    "Ypos": 6,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      9,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 20,
+    "UpgradeType": 11,
+    "Value": 10,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 169,
+    "Grade": 11,
+    "NodeNumber": 12,
+    "Ypos": 6,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      11,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 7,
+    "RewardAmount": 20000,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 170,
+    "Grade": 11,
+    "NodeNumber": 13,
+    "Ypos": 6,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      10,
+      0
+    ],
+    "NodeType": 0,
+    "MaxLevel": 2,
+    "UpgradeType": 7,
+    "Value": 0,
+    "AttackSkillType": 2,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 171,
+    "Grade": 11,
+    "NodeNumber": 14,
+    "Ypos": 7,
+    "Xpos": 1,
+    "NeedNodeNumber": [
+      0,
+      11,
+      0
+    ],
+    "NodeType": 0,
+    "MaxLevel": 2,
+    "UpgradeType": 7,
+    "Value": 0,
+    "AttackSkillType": 1,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 172,
+    "Grade": 11,
+    "NodeNumber": 15,
+    "Ypos": 7,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      0,
+      16,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeType": 0,
+    "Value": 0,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 18,
+    "RewardAmount": 20,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 173,
+    "Grade": 11,
+    "NodeNumber": 16,
+    "Ypos": 7,
+    "Xpos": 3,
+    "NeedNodeNumber": [
+      0,
+      13,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 2,
+    "Value": 200,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      30,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 174,
+    "Grade": 11,
+    "NodeNumber": 17,
+    "Ypos": 8,
+    "Xpos": 2,
+    "NeedNodeNumber": [
+      14,
+      0,
+      16
+    ],
+    "NodeType": 1,
+    "MaxLevel": 10,
+    "UpgradeType": 1,
+    "Value": 200,
+    "AttackSkillType": 0,
+    "MaterialType": [
+      26,
+      0
+    ],
+    "MaterialAmount": [
+      40,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  }
+]

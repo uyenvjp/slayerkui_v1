@@ -1,0 +1,1682 @@
+[
+  {
+    "Id": 0,
+    "RewardAmount": 50,
+    "Type": [
+      14,
+      14
+    ],
+    "NeedCount": [
+      1,
+      1
+    ]
+  },
+  {
+    "Id": 1,
+    "RewardAmount": 100,
+    "Type": [
+      0,
+      0
+    ],
+    "NeedCount": [
+      5,
+      5
+    ]
+  },
+  {
+    "Id": 2,
+    "RewardAmount": 150,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      2,
+      2
+    ]
+  },
+  {
+    "Id": 3,
+    "RewardAmount": 200,
+    "Type": [
+      17,
+      17
+    ],
+    "NeedCount": [
+      1,
+      1
+    ]
+  },
+  {
+    "Id": 4,
+    "RewardAmount": 250,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      1,
+      1
+    ]
+  },
+  {
+    "Id": 5,
+    "RewardAmount": 300,
+    "Type": [
+      7,
+      7
+    ],
+    "NeedCount": [
+      3,
+      3
+    ]
+  },
+  {
+    "Id": 6,
+    "RewardAmount": 350,
+    "Type": [
+      12,
+      12
+    ],
+    "NeedCount": [
+      1,
+      1
+    ]
+  },
+  {
+    "Id": 7,
+    "RewardAmount": 400,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      3,
+      3
+    ]
+  },
+  {
+    "Id": 8,
+    "RewardAmount": 450,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      10,
+      10
+    ]
+  },
+  {
+    "Id": 9,
+    "RewardAmount": 500,
+    "Type": [
+      6,
+      6
+    ],
+    "NeedCount": [
+      1,
+      1
+    ]
+  },
+  {
+    "Id": 10,
+    "RewardAmount": 550,
+    "Type": [
+      15,
+      15
+    ],
+    "NeedCount": [
+      1,
+      1
+    ]
+  },
+  {
+    "Id": 11,
+    "RewardAmount": 600,
+    "Type": [
+      16,
+      16
+    ],
+    "NeedCount": [
+      1,
+      1
+    ]
+  },
+  {
+    "Id": 12,
+    "RewardAmount": 650,
+    "Type": [
+      0,
+      0
+    ],
+    "NeedCount": [
+      20,
+      20
+    ]
+  },
+  {
+    "Id": 13,
+    "RewardAmount": 700,
+    "Type": [
+      1,
+      1
+    ],
+    "NeedCount": [
+      20,
+      20
+    ]
+  },
+  {
+    "Id": 14,
+    "RewardAmount": 750,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      6,
+      6
+    ]
+  },
+  {
+    "Id": 15,
+    "RewardAmount": 800,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      15,
+      15
+    ]
+  },
+  {
+    "Id": 16,
+    "RewardAmount": 850,
+    "Type": [
+      6,
+      6
+    ],
+    "NeedCount": [
+      2,
+      2
+    ]
+  },
+  {
+    "Id": 17,
+    "RewardAmount": 900,
+    "Type": [
+      15,
+      15
+    ],
+    "NeedCount": [
+      2,
+      2
+    ]
+  },
+  {
+    "Id": 18,
+    "RewardAmount": 950,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      10,
+      10
+    ]
+  },
+  {
+    "Id": 19,
+    "RewardAmount": 1000,
+    "Type": [
+      18,
+      18
+    ],
+    "NeedCount": [
+      3,
+      3
+    ]
+  },
+  {
+    "Id": 20,
+    "RewardAmount": 1050,
+    "Type": [
+      19,
+      19
+    ],
+    "NeedCount": [
+      1,
+      1
+    ]
+  },
+  {
+    "Id": 21,
+    "RewardAmount": 1100,
+    "Type": [
+      5,
+      5
+    ],
+    "NeedCount": [
+      1,
+      1
+    ]
+  },
+  {
+    "Id": 22,
+    "RewardAmount": 1150,
+    "Type": [
+      7,
+      7
+    ],
+    "NeedCount": [
+      30,
+      30
+    ]
+  },
+  {
+    "Id": 23,
+    "RewardAmount": 1200,
+    "Type": [
+      0,
+      0
+    ],
+    "NeedCount": [
+      50,
+      50
+    ]
+  },
+  {
+    "Id": 24,
+    "RewardAmount": 1250,
+    "Type": [
+      1,
+      1
+    ],
+    "NeedCount": [
+      50,
+      50
+    ]
+  },
+  {
+    "Id": 25,
+    "RewardAmount": 1300,
+    "Type": [
+      2,
+      2
+    ],
+    "NeedCount": [
+      50,
+      50
+    ]
+  },
+  {
+    "Id": 26,
+    "RewardAmount": 1350,
+    "Type": [
+      18,
+      18
+    ],
+    "NeedCount": [
+      30,
+      30
+    ]
+  },
+  {
+    "Id": 27,
+    "RewardAmount": 1400,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      20,
+      20
+    ]
+  },
+  {
+    "Id": 28,
+    "RewardAmount": 1450,
+    "Type": [
+      13,
+      13
+    ],
+    "NeedCount": [
+      1,
+      1
+    ]
+  },
+  {
+    "Id": 29,
+    "RewardAmount": 1500,
+    "Type": [
+      7,
+      7
+    ],
+    "NeedCount": [
+      100,
+      100
+    ]
+  },
+  {
+    "Id": 30,
+    "RewardAmount": 1550,
+    "Type": [
+      3,
+      8
+    ],
+    "NeedCount": [
+      100,
+      30
+    ]
+  },
+  {
+    "Id": 31,
+    "RewardAmount": 1600,
+    "Type": [
+      4,
+      3
+    ],
+    "NeedCount": [
+      100,
+      100
+    ]
+  },
+  {
+    "Id": 32,
+    "RewardAmount": 1650,
+    "Type": [
+      5,
+      4
+    ],
+    "NeedCount": [
+      3,
+      100
+    ]
+  },
+  {
+    "Id": 33,
+    "RewardAmount": 1700,
+    "Type": [
+      8,
+      5
+    ],
+    "NeedCount": [
+      30,
+      5
+    ]
+  },
+  {
+    "Id": 34,
+    "RewardAmount": 1750,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      20,
+      20
+    ]
+  },
+  {
+    "Id": 35,
+    "RewardAmount": 1800,
+    "Type": [
+      0,
+      0
+    ],
+    "NeedCount": [
+      300,
+      300
+    ]
+  },
+  {
+    "Id": 36,
+    "RewardAmount": 1850,
+    "Type": [
+      1,
+      1
+    ],
+    "NeedCount": [
+      300,
+      300
+    ]
+  },
+  {
+    "Id": 37,
+    "RewardAmount": 1900,
+    "Type": [
+      2,
+      2
+    ],
+    "NeedCount": [
+      300,
+      300
+    ]
+  },
+  {
+    "Id": 38,
+    "RewardAmount": 1950,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      40,
+      40
+    ]
+  },
+  {
+    "Id": 39,
+    "RewardAmount": 2000,
+    "Type": [
+      5,
+      5
+    ],
+    "NeedCount": [
+      5,
+      10
+    ]
+  },
+  {
+    "Id": 40,
+    "RewardAmount": 2050,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      30,
+      30
+    ]
+  },
+  {
+    "Id": 41,
+    "RewardAmount": 2100,
+    "Type": [
+      3,
+      3
+    ],
+    "NeedCount": [
+      300,
+      300
+    ]
+  },
+  {
+    "Id": 42,
+    "RewardAmount": 2150,
+    "Type": [
+      4,
+      4
+    ],
+    "NeedCount": [
+      300,
+      300
+    ]
+  },
+  {
+    "Id": 43,
+    "RewardAmount": 2200,
+    "Type": [
+      5,
+      5
+    ],
+    "NeedCount": [
+      10,
+      15
+    ]
+  },
+  {
+    "Id": 44,
+    "RewardAmount": 2250,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      55,
+      55
+    ]
+  },
+  {
+    "Id": 45,
+    "RewardAmount": 2300,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      50,
+      50
+    ]
+  },
+  {
+    "Id": 46,
+    "RewardAmount": 2350,
+    "Type": [
+      3,
+      3
+    ],
+    "NeedCount": [
+      500,
+      500
+    ]
+  },
+  {
+    "Id": 47,
+    "RewardAmount": 2400,
+    "Type": [
+      4,
+      4
+    ],
+    "NeedCount": [
+      500,
+      500
+    ]
+  },
+  {
+    "Id": 48,
+    "RewardAmount": 2450,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      60,
+      60
+    ]
+  },
+  {
+    "Id": 49,
+    "RewardAmount": 2500,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      80,
+      80
+    ]
+  },
+  {
+    "Id": 50,
+    "RewardAmount": 2300,
+    "Type": [
+      0,
+      0
+    ],
+    "NeedCount": [
+      1000,
+      1000
+    ]
+  },
+  {
+    "Id": 51,
+    "RewardAmount": 2350,
+    "Type": [
+      1,
+      1
+    ],
+    "NeedCount": [
+      1000,
+      1000
+    ]
+  },
+  {
+    "Id": 52,
+    "RewardAmount": 2400,
+    "Type": [
+      2,
+      2
+    ],
+    "NeedCount": [
+      1000,
+      1000
+    ]
+  },
+  {
+    "Id": 53,
+    "RewardAmount": 2450,
+    "Type": [
+      5,
+      5
+    ],
+    "NeedCount": [
+      15,
+      20
+    ]
+  },
+  {
+    "Id": 54,
+    "RewardAmount": 2500,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      100,
+      100
+    ]
+  },
+  {
+    "Id": 55,
+    "RewardAmount": 2550,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      70,
+      70
+    ]
+  },
+  {
+    "Id": 56,
+    "RewardAmount": 2600,
+    "Type": [
+      3,
+      3
+    ],
+    "NeedCount": [
+      800,
+      800
+    ]
+  },
+  {
+    "Id": 57,
+    "RewardAmount": 2650,
+    "Type": [
+      4,
+      4
+    ],
+    "NeedCount": [
+      800,
+      800
+    ]
+  },
+  {
+    "Id": 58,
+    "RewardAmount": 2700,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      80,
+      80
+    ]
+  },
+  {
+    "Id": 59,
+    "RewardAmount": 2750,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      140,
+      140
+    ]
+  },
+  {
+    "Id": 60,
+    "RewardAmount": 2800,
+    "Type": [
+      0,
+      0
+    ],
+    "NeedCount": [
+      3500,
+      3500
+    ]
+  },
+  {
+    "Id": 61,
+    "RewardAmount": 2850,
+    "Type": [
+      1,
+      1
+    ],
+    "NeedCount": [
+      3500,
+      3500
+    ]
+  },
+  {
+    "Id": 62,
+    "RewardAmount": 2900,
+    "Type": [
+      2,
+      2
+    ],
+    "NeedCount": [
+      3500,
+      3500
+    ]
+  },
+  {
+    "Id": 63,
+    "RewardAmount": 2950,
+    "Type": [
+      5,
+      5
+    ],
+    "NeedCount": [
+      20,
+      25
+    ]
+  },
+  {
+    "Id": 64,
+    "RewardAmount": 3000,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      180,
+      180
+    ]
+  },
+  {
+    "Id": 65,
+    "RewardAmount": 3050,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      90,
+      90
+    ]
+  },
+  {
+    "Id": 66,
+    "RewardAmount": 3100,
+    "Type": [
+      3,
+      3
+    ],
+    "NeedCount": [
+      1000,
+      1000
+    ]
+  },
+  {
+    "Id": 67,
+    "RewardAmount": 3150,
+    "Type": [
+      4,
+      4
+    ],
+    "NeedCount": [
+      1000,
+      1000
+    ]
+  },
+  {
+    "Id": 68,
+    "RewardAmount": 3200,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      100,
+      100
+    ]
+  },
+  {
+    "Id": 69,
+    "RewardAmount": 3250,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      220,
+      220
+    ]
+  },
+  {
+    "Id": 70,
+    "RewardAmount": 3300,
+    "Type": [
+      0,
+      0
+    ],
+    "NeedCount": [
+      6000,
+      6000
+    ]
+  },
+  {
+    "Id": 71,
+    "RewardAmount": 3350,
+    "Type": [
+      1,
+      1
+    ],
+    "NeedCount": [
+      6000,
+      6000
+    ]
+  },
+  {
+    "Id": 72,
+    "RewardAmount": 3400,
+    "Type": [
+      2,
+      2
+    ],
+    "NeedCount": [
+      6000,
+      6000
+    ]
+  },
+  {
+    "Id": 73,
+    "RewardAmount": 3450,
+    "Type": [
+      5,
+      5
+    ],
+    "NeedCount": [
+      25,
+      30
+    ]
+  },
+  {
+    "Id": 74,
+    "RewardAmount": 3500,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      250,
+      250
+    ]
+  },
+  {
+    "Id": 75,
+    "RewardAmount": 3550,
+    "Type": [
+      0,
+      0
+    ],
+    "NeedCount": [
+      10000,
+      10000
+    ]
+  },
+  {
+    "Id": 76,
+    "RewardAmount": 3600,
+    "Type": [
+      1,
+      1
+    ],
+    "NeedCount": [
+      10000,
+      10000
+    ]
+  },
+  {
+    "Id": 77,
+    "RewardAmount": 3650,
+    "Type": [
+      2,
+      2
+    ],
+    "NeedCount": [
+      10000,
+      10000
+    ]
+  },
+  {
+    "Id": 78,
+    "RewardAmount": 3700,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      110,
+      110
+    ]
+  },
+  {
+    "Id": 79,
+    "RewardAmount": 3750,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      280,
+      280
+    ]
+  },
+  {
+    "Id": 80,
+    "RewardAmount": 3800,
+    "Type": [
+      0,
+      0
+    ],
+    "NeedCount": [
+      15000,
+      15000
+    ]
+  },
+  {
+    "Id": 81,
+    "RewardAmount": 3850,
+    "Type": [
+      1,
+      1
+    ],
+    "NeedCount": [
+      15000,
+      15000
+    ]
+  },
+  {
+    "Id": 82,
+    "RewardAmount": 3900,
+    "Type": [
+      2,
+      2
+    ],
+    "NeedCount": [
+      15000,
+      15000
+    ]
+  },
+  {
+    "Id": 83,
+    "RewardAmount": 3950,
+    "Type": [
+      5,
+      5
+    ],
+    "NeedCount": [
+      30,
+      35
+    ]
+  },
+  {
+    "Id": 84,
+    "RewardAmount": 4000,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      300,
+      300
+    ]
+  },
+  {
+    "Id": 85,
+    "RewardAmount": 4050,
+    "Type": [
+      0,
+      0
+    ],
+    "NeedCount": [
+      20000,
+      20000
+    ]
+  },
+  {
+    "Id": 86,
+    "RewardAmount": 4100,
+    "Type": [
+      1,
+      1
+    ],
+    "NeedCount": [
+      20000,
+      20000
+    ]
+  },
+  {
+    "Id": 87,
+    "RewardAmount": 4150,
+    "Type": [
+      2,
+      2
+    ],
+    "NeedCount": [
+      20000,
+      20000
+    ]
+  },
+  {
+    "Id": 88,
+    "RewardAmount": 4200,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      125,
+      125
+    ]
+  },
+  {
+    "Id": 89,
+    "RewardAmount": 4250,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      320,
+      320
+    ]
+  },
+  {
+    "Id": 90,
+    "RewardAmount": 4300,
+    "Type": [
+      0,
+      0
+    ],
+    "NeedCount": [
+      25000,
+      25000
+    ]
+  },
+  {
+    "Id": 91,
+    "RewardAmount": 4350,
+    "Type": [
+      1,
+      1
+    ],
+    "NeedCount": [
+      25000,
+      25000
+    ]
+  },
+  {
+    "Id": 92,
+    "RewardAmount": 4400,
+    "Type": [
+      2,
+      2
+    ],
+    "NeedCount": [
+      25000,
+      25000
+    ]
+  },
+  {
+    "Id": 93,
+    "RewardAmount": 4450,
+    "Type": [
+      5,
+      5
+    ],
+    "NeedCount": [
+      35,
+      40
+    ]
+  },
+  {
+    "Id": 94,
+    "RewardAmount": 4500,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      340,
+      340
+    ]
+  },
+  {
+    "Id": 95,
+    "RewardAmount": 4550,
+    "Type": [
+      0,
+      0
+    ],
+    "NeedCount": [
+      30000,
+      30000
+    ]
+  },
+  {
+    "Id": 96,
+    "RewardAmount": 4600,
+    "Type": [
+      1,
+      1
+    ],
+    "NeedCount": [
+      30000,
+      30000
+    ]
+  },
+  {
+    "Id": 97,
+    "RewardAmount": 4650,
+    "Type": [
+      2,
+      2
+    ],
+    "NeedCount": [
+      30000,
+      30000
+    ]
+  },
+  {
+    "Id": 98,
+    "RewardAmount": 4700,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      140,
+      140
+    ]
+  },
+  {
+    "Id": 99,
+    "RewardAmount": 4750,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      360,
+      360
+    ]
+  },
+  {
+    "Id": 100,
+    "RewardAmount": 4800,
+    "Type": [
+      0,
+      0
+    ],
+    "NeedCount": [
+      35000,
+      35000
+    ]
+  },
+  {
+    "Id": 101,
+    "RewardAmount": 4850,
+    "Type": [
+      1,
+      1
+    ],
+    "NeedCount": [
+      35000,
+      35000
+    ]
+  },
+  {
+    "Id": 102,
+    "RewardAmount": 4900,
+    "Type": [
+      2,
+      2
+    ],
+    "NeedCount": [
+      35000,
+      35000
+    ]
+  },
+  {
+    "Id": 103,
+    "RewardAmount": 4950,
+    "Type": [
+      5,
+      5
+    ],
+    "NeedCount": [
+      40,
+      45
+    ]
+  },
+  {
+    "Id": 104,
+    "RewardAmount": 5000,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      380,
+      380
+    ]
+  },
+  {
+    "Id": 105,
+    "RewardAmount": 5050,
+    "Type": [
+      0,
+      0
+    ],
+    "NeedCount": [
+      40000,
+      40000
+    ]
+  },
+  {
+    "Id": 106,
+    "RewardAmount": 5100,
+    "Type": [
+      1,
+      1
+    ],
+    "NeedCount": [
+      40000,
+      40000
+    ]
+  },
+  {
+    "Id": 107,
+    "RewardAmount": 5150,
+    "Type": [
+      2,
+      2
+    ],
+    "NeedCount": [
+      40000,
+      40000
+    ]
+  },
+  {
+    "Id": 108,
+    "RewardAmount": 5200,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      155,
+      155
+    ]
+  },
+  {
+    "Id": 109,
+    "RewardAmount": 5250,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      400,
+      400
+    ]
+  },
+  {
+    "Id": 110,
+    "RewardAmount": 5300,
+    "Type": [
+      0,
+      0
+    ],
+    "NeedCount": [
+      50000,
+      50000
+    ]
+  },
+  {
+    "Id": 111,
+    "RewardAmount": 5350,
+    "Type": [
+      1,
+      1
+    ],
+    "NeedCount": [
+      50000,
+      50000
+    ]
+  },
+  {
+    "Id": 112,
+    "RewardAmount": 5400,
+    "Type": [
+      2,
+      2
+    ],
+    "NeedCount": [
+      50000,
+      50000
+    ]
+  },
+  {
+    "Id": 113,
+    "RewardAmount": 5450,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      170,
+      170
+    ]
+  },
+  {
+    "Id": 114,
+    "RewardAmount": 5500,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      450,
+      450
+    ]
+  },
+  {
+    "Id": 115,
+    "RewardAmount": 5550,
+    "Type": [
+      0,
+      0
+    ],
+    "NeedCount": [
+      60000,
+      60000
+    ]
+  },
+  {
+    "Id": 116,
+    "RewardAmount": 5600,
+    "Type": [
+      1,
+      1
+    ],
+    "NeedCount": [
+      60000,
+      60000
+    ]
+  },
+  {
+    "Id": 117,
+    "RewardAmount": 5650,
+    "Type": [
+      2,
+      2
+    ],
+    "NeedCount": [
+      60000,
+      60000
+    ]
+  },
+  {
+    "Id": 118,
+    "RewardAmount": 5700,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      190,
+      190
+    ]
+  },
+  {
+    "Id": 119,
+    "RewardAmount": 5750,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      500,
+      500
+    ]
+  },
+  {
+    "Id": 120,
+    "RewardAmount": 5800,
+    "Type": [
+      0,
+      0
+    ],
+    "NeedCount": [
+      70000,
+      70000
+    ]
+  },
+  {
+    "Id": 121,
+    "RewardAmount": 5850,
+    "Type": [
+      1,
+      1
+    ],
+    "NeedCount": [
+      70000,
+      70000
+    ]
+  },
+  {
+    "Id": 122,
+    "RewardAmount": 5900,
+    "Type": [
+      2,
+      2
+    ],
+    "NeedCount": [
+      70000,
+      70000
+    ]
+  },
+  {
+    "Id": 123,
+    "RewardAmount": 5950,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      220,
+      220
+    ]
+  },
+  {
+    "Id": 124,
+    "RewardAmount": 6000,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      550,
+      550
+    ]
+  },
+  {
+    "Id": 125,
+    "RewardAmount": 6050,
+    "Type": [
+      0,
+      0
+    ],
+    "NeedCount": [
+      80000,
+      80000
+    ]
+  },
+  {
+    "Id": 126,
+    "RewardAmount": 6100,
+    "Type": [
+      1,
+      1
+    ],
+    "NeedCount": [
+      80000,
+      80000
+    ]
+  },
+  {
+    "Id": 127,
+    "RewardAmount": 6150,
+    "Type": [
+      2,
+      2
+    ],
+    "NeedCount": [
+      80000,
+      80000
+    ]
+  },
+  {
+    "Id": 128,
+    "RewardAmount": 6200,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      250,
+      250
+    ]
+  },
+  {
+    "Id": 129,
+    "RewardAmount": 6250,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      600,
+      600
+    ]
+  },
+  {
+    "Id": 130,
+    "RewardAmount": 6300,
+    "Type": [
+      0,
+      0
+    ],
+    "NeedCount": [
+      90000,
+      90000
+    ]
+  },
+  {
+    "Id": 131,
+    "RewardAmount": 6350,
+    "Type": [
+      1,
+      1
+    ],
+    "NeedCount": [
+      90000,
+      90000
+    ]
+  },
+  {
+    "Id": 132,
+    "RewardAmount": 6400,
+    "Type": [
+      2,
+      2
+    ],
+    "NeedCount": [
+      90000,
+      90000
+    ]
+  },
+  {
+    "Id": 133,
+    "RewardAmount": 6450,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      280,
+      280
+    ]
+  },
+  {
+    "Id": 134,
+    "RewardAmount": 6500,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      650,
+      650
+    ]
+  },
+  {
+    "Id": 135,
+    "RewardAmount": 6550,
+    "Type": [
+      0,
+      0
+    ],
+    "NeedCount": [
+      100000,
+      100000
+    ]
+  },
+  {
+    "Id": 136,
+    "RewardAmount": 6600,
+    "Type": [
+      1,
+      1
+    ],
+    "NeedCount": [
+      100000,
+      100000
+    ]
+  },
+  {
+    "Id": 137,
+    "RewardAmount": 6650,
+    "Type": [
+      2,
+      2
+    ],
+    "NeedCount": [
+      100000,
+      100000
+    ]
+  },
+  {
+    "Id": 138,
+    "RewardAmount": 6700,
+    "Type": [
+      8,
+      8
+    ],
+    "NeedCount": [
+      310,
+      310
+    ]
+  },
+  {
+    "Id": 139,
+    "RewardAmount": 6750,
+    "Type": [
+      11,
+      11
+    ],
+    "NeedCount": [
+      700,
+      700
+    ]
+  }
+]

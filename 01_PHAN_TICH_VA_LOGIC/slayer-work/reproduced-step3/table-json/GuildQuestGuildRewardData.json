@@ -1,0 +1,162 @@
+[
+  {
+    "Id": 1,
+    "NeedPoint": 2000,
+    "IsAdditionalReward": false,
+    "BaseRewardType": 39,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 100
+  },
+  {
+    "Id": 2,
+    "NeedPoint": 4000,
+    "IsAdditionalReward": false,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 1000
+  },
+  {
+    "Id": 3,
+    "NeedPoint": 6000,
+    "IsAdditionalReward": false,
+    "BaseRewardType": 40,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 5
+  },
+  {
+    "Id": 4,
+    "NeedPoint": 8000,
+    "IsAdditionalReward": false,
+    "BaseRewardType": 20,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 1000
+  },
+  {
+    "Id": 5,
+    "NeedPoint": 10000,
+    "IsAdditionalReward": false,
+    "BaseRewardType": 7,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 400
+  },
+  {
+    "Id": 6,
+    "NeedPoint": 12000,
+    "IsAdditionalReward": false,
+    "BaseRewardType": 39,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 500
+  },
+  {
+    "Id": 7,
+    "NeedPoint": 14000,
+    "IsAdditionalReward": false,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 2000
+  },
+  {
+    "Id": 8,
+    "NeedPoint": 16000,
+    "IsAdditionalReward": false,
+    "BaseRewardType": 40,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 10
+  },
+  {
+    "Id": 9,
+    "NeedPoint": 18000,
+    "IsAdditionalReward": false,
+    "BaseRewardType": 10,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 10
+  },
+  {
+    "Id": 10,
+    "NeedPoint": 20000,
+    "IsAdditionalReward": false,
+    "BaseRewardType": 39,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 1000
+  },
+  {
+    "Id": 11,
+    "NeedPoint": 22500,
+    "IsAdditionalReward": true,
+    "BaseRewardType": 39,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 50
+  },
+  {
+    "Id": 12,
+    "NeedPoint": 25000,
+    "IsAdditionalReward": true,
+    "BaseRewardType": 39,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 50
+  },
+  {
+    "Id": 13,
+    "NeedPoint": 27500,
+    "IsAdditionalReward": true,
+    "BaseRewardType": 39,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 50
+  },
+  {
+    "Id": 14,
+    "NeedPoint": 30000,
+    "IsAdditionalReward": true,
+    "BaseRewardType": 39,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 50
+  },
+  {
+    "Id": 15,
+    "NeedPoint": 35000,
+    "IsAdditionalReward": true,
+    "BaseRewardType": 39,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 50
+  },
+  {
+    "Id": 16,
+    "NeedPoint": 40000,
+    "IsAdditionalReward": true,
+    "BaseRewardType": 39,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 50
+  },
+  {
+    "Id": 17,
+    "NeedPoint": 45000,
+    "IsAdditionalReward": true,
+    "BaseRewardType": 39,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 50
+  },
+  {
+    "Id": 18,
+    "NeedPoint": 50000,
+    "IsAdditionalReward": true,
+    "BaseRewardType": 39,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 50
+  },
+  {
+    "Id": 19,
+    "NeedPoint": 60000,
+    "IsAdditionalReward": true,
+    "BaseRewardType": 39,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 50
+  },
+  {
+    "Id": 20,
+    "NeedPoint": 70000,
+    "IsAdditionalReward": true,
+    "BaseRewardType": 39,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 50
+  }
+]

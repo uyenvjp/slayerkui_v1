@@ -1,0 +1,126 @@
+{
+  "package": "com.gear2.growslayer",
+  "version": "700.0.4",
+  "version_code": 705,
+  "native_sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+  "step11_bounded_entry_cases": 3648,
+  "connected_sequences": 393,
+  "connected_sequence_actions": 1585,
+  "continuation_fragment_sequences": 140,
+  "continuation_fragment_actions": 180,
+  "contract_cases_excluded_from_entry_total": 36,
+  "signal_cases_excluded_from_entry_total": 4,
+  "scoped_checks": [
+    {
+      "scope": "prefs",
+      "passed": true,
+      "native_report": "prefs-native-report.json",
+      "javascript_report": "js-prefs-report.json",
+      "observed": {
+        "passed": 2304,
+        "contracts": 18,
+        "sequences": 2,
+        "scope": "ServerPrefs value identity, parse gates, dirty/load/save/remove decisions under explicit BCL/JSON/network dependencies."
+      },
+      "limits": "24 selected ServerPrefs/Value entries: string/enum get-set/has/remove, dirty flags, load success/empty/account-null paths and Save decision. Original methods and dirty reset bodies interpreted. Explicit initialized metadata, collections/enumerators, ASCII parser fixtures, enum names, allocation, deserialize/serialize and RequestServerSync sink; no exception-unwind/complete JSON/BCL/network/account-save parity."
+    },
+    {
+      "scope": "api_control",
+      "passed": true,
+      "native_report": "api-control-native-report.json",
+      "javascript_report": "js-api_control-report.json",
+      "observed": {
+        "passed": 1344,
+        "contracts": 9,
+        "sequences": 1,
+        "scope": "API warm controls, strict time boundary, result-code branches and effect order under explicit dependencies."
+      },
+      "limits": "API warm state getters/setters, strict request-time gate and Network.Request.IsValidCode dispatch. UTC DateTimeOffset/BCL/collections/diagnostic strings/stack trace/UI sinks explicit; no calendar overflow/culture/account/transport/retry-loop or full downstream parity."
+    },
+    {
+      "scope": "prefs_sync",
+      "passed": true,
+      "native_report": "prefs-sync-native-report.json",
+      "javascript_report": "js-prefs_sync-report.json",
+      "observed": {
+        "sequences": 192,
+        "actions": 768,
+        "callbackContracts": 4,
+        "signalCases": 4,
+        "scope": "Linked native sync/callback/signal/wait/dirty reset under explicit RPC and scheduler dependencies."
+      },
+      "limits": "Original RequestServerSync.MoveNext + callback + WaitForSignal Signal/Reset + AwaitForSignal.UniTaskWait.MoveNext + ResetAllDirtyFlag and SetString bodies linked. Explicit UniTask wrapper/builder/interface dispatch, frame scheduler, allocations, RPC-response fixtures and unpatched IFix. No game/RPC execution, exceptions/unwind or live scheduler parity."
+    },
+    {
+      "scope": "request_loop",
+      "passed": true,
+      "native_report": "request-loop-native-report.json",
+      "javascript_report": "js-request_loop-report.json",
+      "observed": {
+        "sequences": 96,
+        "actions": 310,
+        "contracts": 5,
+        "scope": "RequestLoop normal/immediate/pending/empty branches under explicit scheduler, transport, collections and UI fixtures."
+      },
+      "limits": "RequestLoop.MoveNext normal, immediate and pending response/empty-frame branches, sequence assignment, dequeue, counter reset, release deploy=2, code-17 diagnostic and KickOut before dispatch; selected original API setters linked. Queue/task/interface/RPC/UI/diagnostics are explicit fixtures. No SEH/RpcException/retry branches, transport serialization, complete callbacks or Android/UniTask scheduler parity."
+    },
+    {
+      "scope": "retry_disposition",
+      "passed": true,
+      "native_report": "retry-disposition-native-report.json",
+      "javascript_report": "js-retry_disposition-report.json",
+      "observed": {
+        "fragmentSequences": 140,
+        "actions": 180,
+        "scope": "Retry-disposition fragment with reconstructed native context, not full RPC exception/unwind verification."
+      },
+      "limits": "Post-diagnostic retry-disposition fragment with explicit reconstructed live register/stack context: retry/fail thresholds, original shared counter helpers, Delay/pending resume, IsValidCode and normal queue continuation linked. Does not validate entry into catch, exception classification, unwinding, actual gRPC failure, Grpc.Status formatting or live transport/scheduler."
+    },
+    {
+      "scope": "client_sync",
+      "passed": true,
+      "native_report": "client-sync-native-report.json",
+      "javascript_report": "js-client_sync-report.json",
+      "observed": {
+        "sequences": 102,
+        "actions": 487,
+        "scope": "Stronger api255 response/callback/signal/dirty-reset link; explicit queue dispatch, RPC, Task and scheduler fixtures."
+      },
+      "limits": "Stronger linked ServerPrefs sync -> APIManager.SetClientData/api255 -> packet ctor/set_Content -> AddRequest/Create -> SetClientData response MoveNext/IsValidCode -> native callback/signal/wait/reset. Queue dispatch, Task/async builders, network singleton/front client, RPC responses/headers, UI, string precondition/serialization and unpatched IFix explicit. Queue processing/sequencing is separately tested, not linked into this corpus. No RPC/SEH/live scheduler/backend parity."
+    }
+  ],
+  "all_client_logic_analyzed": false,
+  "all_game_logic_recovered": false,
+  "native_game_executed": false,
+  "game_services_called": false,
+  "live_ifix_loaded": false,
+  "h5_building_paused": true,
+  "deployed_this_step": false,
+  "new_or_substitute_assets_created": false,
+  "key_refinement": "The 192 ServerPrefs-only sequences inject callbacks directly. The stronger 102 linked api255 sequences show SetClientData response MoveNext invokes that callback only if IsValidCode succeeds. Invalid-code responses leave the modeled outer signal wait pending; the three-send local loop is not proven reachable through that normal response path.",
+  "common_native_vm_change": {
+    "file": "../logic-step6/tools/native_flow_vm.py",
+    "change": "Added ORR and LDURB/STURB opcode handling, exercised by the new selected bodies.",
+    "prior_corpora_regenerated_this_step": false
+  },
+  "static_or_incomplete": [
+    "RequestLoop catch entry, type classification, exception unwinding and gRPC Status formatting",
+    "Full protobuf JSON/binary transport serialization and save schema compatibility",
+    "Account initialization, remaining acquisition/upgrade/equip/stage/buff/subscriber/animation lifecycles",
+    "Live IFix payload and server implementation unavailable from observed inputs"
+  ],
+  "scope_notes": "Entry cases, connected actions, contract cases and reconstructed continuation fragments are reported separately. Counts overlap stronger rechecks of linked original bodies; no completion percentage or whole-game equivalence. Explicit initialized statics, dictionary/delegate/BCL/Task/UniTask/queue/UI/RPC fixtures. No game native loading or service requests.",
+  "current_port_sha256": {
+    "recovered-api-control.mjs": "8a8fb7b3bfcb66736060f324cfe1ebebcbe6d942485b109c5cec7ae8ef024479",
+    "recovered-client-sync.mjs": "15407014d02d3941b3ccdf17ba0c4866ea1495a2da42eab8afd75857c0f310b4",
+    "recovered-prefs-sync.mjs": "d217f827f9bc43589f5f53f9f9f6be56034f0695229675592dfb3c2ce4a6e24b",
+    "recovered-request-loop.mjs": "246fb9f3a4d7ab2fbc77fed39352f3f96e41c24c1a529bcb5313c973b18275a1",
+    "recovered-server-prefs.mjs": "bfa8baac6badf3ccc8aebb31c67655b496a738f76a7b00d62161c2e81778bb65",
+    "verify-api-control.mjs": "2ed6796d579946200bbc42c51c13d179a0e78bc8e5c0885b7c343586e08d0f3f",
+    "verify-client-sync.mjs": "450fe503f9d0ad47b8bd8625a6be7ee0d5375b8479639e02a949e3319b1fc4ea",
+    "verify-prefs-sync.mjs": "9028fc60a923010800f423b8504eca76b91da02040a3b53ae762adb708ec4571",
+    "verify-prefs.mjs": "93e7c45a45dbb457a27cf3ee28a90576f2b5ac5e475f58f8157a514852f2879d",
+    "verify-request-loop.mjs": "14a931218dfe1acab2c7c6fdad3ac9a8481bff28ea04860b42b188b45bb8edad",
+    "verify-retry-disposition.mjs": "697e067358a30922fe239687de084c7a2bb1ab138d6be3d333ee9f97b3dda551"
+  }
+}

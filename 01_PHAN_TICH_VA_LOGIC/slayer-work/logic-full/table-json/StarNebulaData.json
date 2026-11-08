@@ -1,0 +1,350 @@
+[
+  {
+    "Id": 1,
+    "DmgType": 1,
+    "Size": 1,
+    "MaxCount": 23,
+    "LimitLevel": 1,
+    "NeedSeconds": [
+      1800,
+      3600,
+      10800,
+      43200,
+      86400,
+      129600,
+      172800
+    ],
+    "CurrencyTypes": [
+      34,
+      5
+    ],
+    "CurrencyIndices": [
+      0,
+      0
+    ],
+    "CurrencyAmounts": [
+      100,
+      10000
+    ]
+  },
+  {
+    "Id": 2,
+    "DmgType": 1,
+    "Size": 2,
+    "MaxCount": 12,
+    "LimitLevel": 2,
+    "NeedSeconds": [
+      7200,
+      14400,
+      43200,
+      86400,
+      172800,
+      259200,
+      345600
+    ],
+    "CurrencyTypes": [
+      34,
+      5
+    ],
+    "CurrencyIndices": [
+      0,
+      0
+    ],
+    "CurrencyAmounts": [
+      200,
+      20000
+    ]
+  },
+  {
+    "Id": 3,
+    "DmgType": 1,
+    "Size": 3,
+    "MaxCount": 2,
+    "LimitLevel": 7,
+    "NeedSeconds": [
+      172800,
+      691200,
+      691200,
+      691200,
+      691200,
+      691200,
+      691200
+    ],
+    "CurrencyTypes": [
+      34,
+      5,
+      103
+    ],
+    "CurrencyIndices": [
+      0,
+      0,
+      18
+    ],
+    "CurrencyAmounts": [
+      500,
+      50000,
+      1
+    ]
+  },
+  {
+    "Id": 4,
+    "DmgType": 2,
+    "Size": 1,
+    "MaxCount": 23,
+    "LimitLevel": 1,
+    "NeedSeconds": [
+      1800,
+      3600,
+      10800,
+      43200,
+      86400,
+      129600,
+      172800
+    ],
+    "CurrencyTypes": [
+      34,
+      11
+    ],
+    "CurrencyIndices": [
+      0,
+      0
+    ],
+    "CurrencyAmounts": [
+      100,
+      10000
+    ]
+  },
+  {
+    "Id": 5,
+    "DmgType": 2,
+    "Size": 2,
+    "MaxCount": 12,
+    "LimitLevel": 2,
+    "NeedSeconds": [
+      7200,
+      14400,
+      43200,
+      86400,
+      172800,
+      259200,
+      345600
+    ],
+    "CurrencyTypes": [
+      34,
+      11
+    ],
+    "CurrencyIndices": [
+      0,
+      0
+    ],
+    "CurrencyAmounts": [
+      200,
+      20000
+    ]
+  },
+  {
+    "Id": 6,
+    "DmgType": 2,
+    "Size": 3,
+    "MaxCount": 2,
+    "LimitLevel": 8,
+    "NeedSeconds": [
+      172800,
+      691200,
+      691200,
+      691200,
+      691200,
+      691200,
+      691200
+    ],
+    "CurrencyTypes": [
+      34,
+      11,
+      103
+    ],
+    "CurrencyIndices": [
+      0,
+      0,
+      18
+    ],
+    "CurrencyAmounts": [
+      500,
+      50000,
+      1
+    ]
+  },
+  {
+    "Id": 7,
+    "DmgType": 3,
+    "Size": 1,
+    "MaxCount": 23,
+    "LimitLevel": 1,
+    "NeedSeconds": [
+      1800,
+      3600,
+      10800,
+      43200,
+      86400,
+      129600,
+      172800
+    ],
+    "CurrencyTypes": [
+      34,
+      12
+    ],
+    "CurrencyIndices": [
+      0,
+      0
+    ],
+    "CurrencyAmounts": [
+      100,
+      10000
+    ]
+  },
+  {
+    "Id": 8,
+    "DmgType": 3,
+    "Size": 2,
+    "MaxCount": 12,
+    "LimitLevel": 3,
+    "NeedSeconds": [
+      7200,
+      14400,
+      43200,
+      86400,
+      172800,
+      259200,
+      345600
+    ],
+    "CurrencyTypes": [
+      34,
+      12
+    ],
+    "CurrencyIndices": [
+      0,
+      0
+    ],
+    "CurrencyAmounts": [
+      200,
+      20000
+    ]
+  },
+  {
+    "Id": 9,
+    "DmgType": 3,
+    "Size": 3,
+    "MaxCount": 2,
+    "LimitLevel": 6,
+    "NeedSeconds": [
+      172800,
+      691200,
+      691200,
+      691200,
+      691200,
+      691200,
+      691200
+    ],
+    "CurrencyTypes": [
+      34,
+      12,
+      103
+    ],
+    "CurrencyIndices": [
+      0,
+      0,
+      18
+    ],
+    "CurrencyAmounts": [
+      500,
+      50000,
+      1
+    ]
+  },
+  {
+    "Id": 10,
+    "DmgType": 4,
+    "Size": 1,
+    "MaxCount": 23,
+    "LimitLevel": 1,
+    "NeedSeconds": [
+      1800,
+      3600,
+      10800,
+      43200,
+      86400,
+      129600,
+      172800
+    ],
+    "CurrencyTypes": [
+      34,
+      3
+    ],
+    "CurrencyIndices": [
+      0,
+      0
+    ],
+    "CurrencyAmounts": [
+      100,
+      10000
+    ]
+  },
+  {
+    "Id": 11,
+    "DmgType": 4,
+    "Size": 2,
+    "MaxCount": 12,
+    "LimitLevel": 4,
+    "NeedSeconds": [
+      7200,
+      14400,
+      43200,
+      86400,
+      172800,
+      259200,
+      345600
+    ],
+    "CurrencyTypes": [
+      34,
+      3
+    ],
+    "CurrencyIndices": [
+      0,
+      0
+    ],
+    "CurrencyAmounts": [
+      200,
+      20000
+    ]
+  },
+  {
+    "Id": 12,
+    "DmgType": 4,
+    "Size": 3,
+    "MaxCount": 2,
+    "LimitLevel": 5,
+    "NeedSeconds": [
+      172800,
+      691200,
+      691200,
+      691200,
+      691200,
+      691200,
+      691200
+    ],
+    "CurrencyTypes": [
+      34,
+      3,
+      103
+    ],
+    "CurrencyIndices": [
+      0,
+      0,
+      18
+    ],
+    "CurrencyAmounts": [
+      500,
+      50000,
+      1
+    ]
+  }
+]

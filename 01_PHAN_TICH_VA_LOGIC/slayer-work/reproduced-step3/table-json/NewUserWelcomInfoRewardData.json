@@ -1,0 +1,11 @@
+[
+  {
+    "Id": 0,
+    "WelcomeRewardType": 132,
+    "WelcomeRewardAmount": 200,
+    "WelcomeRewardMailContent": "NEWUSER_WELCOME_PRESENT_RECEIVE",
+    "ThanksRewardType": 1,
+    "ThanksRewardAmount": 1000,
+    "ThanksRewardMailContent": "NEWUSER_WELCOME_PRESENT_RECEIVE_NAME"
+  }
+]

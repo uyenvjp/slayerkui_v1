@@ -1,0 +1,6 @@
+{
+  "passed": 198,
+  "entries": 3,
+  "contract_checks": 3,
+  "scope": "Three getter bodies and cache writes; decrypted account/manager state explicitly provided."
+}

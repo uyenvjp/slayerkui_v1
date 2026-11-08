@@ -1,0 +1,530 @@
+[
+  {
+    "Id": 1,
+    "SlotIndex": 0,
+    "OrderNumber": 0,
+    "Grade": 1,
+    "DmgType": 1,
+    "QuestType": 2,
+    "QuestNeedValue": 360,
+    "Name": "SKILLSTONE_NAME_001",
+    "OptionType": [
+      1
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      4.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 2,
+    "SlotIndex": 0,
+    "OrderNumber": 1,
+    "Grade": 1,
+    "DmgType": 2,
+    "QuestType": 2,
+    "QuestNeedValue": 380,
+    "Name": "SKILLSTONE_NAME_002",
+    "OptionType": [
+      1
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      4.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 3,
+    "SlotIndex": 0,
+    "OrderNumber": 2,
+    "Grade": 1,
+    "DmgType": 3,
+    "QuestType": 2,
+    "QuestNeedValue": 400,
+    "Name": "SKILLSTONE_NAME_003",
+    "OptionType": [
+      1
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      4.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 4,
+    "SlotIndex": 0,
+    "OrderNumber": 3,
+    "Grade": 1,
+    "DmgType": 4,
+    "QuestType": 2,
+    "QuestNeedValue": 420,
+    "Name": "SKILLSTONE_NAME_004",
+    "OptionType": [
+      1
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      4.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 5,
+    "SlotIndex": 1,
+    "OrderNumber": 4,
+    "Grade": 1,
+    "DmgType": 1,
+    "QuestType": 2,
+    "QuestNeedValue": 440,
+    "Name": "SKILLSTONE_NAME_005",
+    "OptionType": [
+      2
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      4.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 6,
+    "SlotIndex": 1,
+    "OrderNumber": 5,
+    "Grade": 1,
+    "DmgType": 2,
+    "QuestType": 2,
+    "QuestNeedValue": 460,
+    "Name": "SKILLSTONE_NAME_006",
+    "OptionType": [
+      2
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      4.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 7,
+    "SlotIndex": 1,
+    "OrderNumber": 6,
+    "Grade": 1,
+    "DmgType": 3,
+    "QuestType": 2,
+    "QuestNeedValue": 480,
+    "Name": "SKILLSTONE_NAME_007",
+    "OptionType": [
+      2
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      4.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 8,
+    "SlotIndex": 1,
+    "OrderNumber": 7,
+    "Grade": 1,
+    "DmgType": 4,
+    "QuestType": 2,
+    "QuestNeedValue": 500,
+    "Name": "SKILLSTONE_NAME_008",
+    "OptionType": [
+      2
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      4.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 9,
+    "SlotIndex": 2,
+    "OrderNumber": 8,
+    "Grade": 1,
+    "DmgType": 1,
+    "QuestType": 2,
+    "QuestNeedValue": 520,
+    "Name": "SKILLSTONE_NAME_009",
+    "OptionType": [
+      3
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      4.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 10,
+    "SlotIndex": 2,
+    "OrderNumber": 9,
+    "Grade": 1,
+    "DmgType": 2,
+    "QuestType": 2,
+    "QuestNeedValue": 540,
+    "Name": "SKILLSTONE_NAME_010",
+    "OptionType": [
+      3
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      4.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 11,
+    "SlotIndex": 2,
+    "OrderNumber": 10,
+    "Grade": 1,
+    "DmgType": 3,
+    "QuestType": 2,
+    "QuestNeedValue": 560,
+    "Name": "SKILLSTONE_NAME_011",
+    "OptionType": [
+      3
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      4.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 12,
+    "SlotIndex": 2,
+    "OrderNumber": 11,
+    "Grade": 1,
+    "DmgType": 4,
+    "QuestType": 2,
+    "QuestNeedValue": 580,
+    "Name": "SKILLSTONE_NAME_012",
+    "OptionType": [
+      3
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      4.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 13,
+    "SlotIndex": 0,
+    "OrderNumber": 12,
+    "Grade": 2,
+    "DmgType": 1,
+    "QuestType": 2,
+    "QuestNeedValue": 600,
+    "Name": "SKILLSTONE_NAME_001",
+    "OptionType": [
+      1
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      7.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 14,
+    "SlotIndex": 0,
+    "OrderNumber": 13,
+    "Grade": 2,
+    "DmgType": 2,
+    "QuestType": 2,
+    "QuestNeedValue": 620,
+    "Name": "SKILLSTONE_NAME_002",
+    "OptionType": [
+      1
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      7.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 15,
+    "SlotIndex": 0,
+    "OrderNumber": 14,
+    "Grade": 2,
+    "DmgType": 3,
+    "QuestType": 2,
+    "QuestNeedValue": 640,
+    "Name": "SKILLSTONE_NAME_003",
+    "OptionType": [
+      1
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      7.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 16,
+    "SlotIndex": 0,
+    "OrderNumber": 15,
+    "Grade": 2,
+    "DmgType": 4,
+    "QuestType": 2,
+    "QuestNeedValue": 660,
+    "Name": "SKILLSTONE_NAME_004",
+    "OptionType": [
+      1
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      7.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 17,
+    "SlotIndex": 1,
+    "OrderNumber": 16,
+    "Grade": 2,
+    "DmgType": 1,
+    "QuestType": 2,
+    "QuestNeedValue": 680,
+    "Name": "SKILLSTONE_NAME_005",
+    "OptionType": [
+      2
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      7.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 18,
+    "SlotIndex": 1,
+    "OrderNumber": 17,
+    "Grade": 2,
+    "DmgType": 2,
+    "QuestType": 2,
+    "QuestNeedValue": 700,
+    "Name": "SKILLSTONE_NAME_006",
+    "OptionType": [
+      2
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      7.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 19,
+    "SlotIndex": 1,
+    "OrderNumber": 18,
+    "Grade": 2,
+    "DmgType": 3,
+    "QuestType": 2,
+    "QuestNeedValue": 720,
+    "Name": "SKILLSTONE_NAME_007",
+    "OptionType": [
+      2
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      7.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 20,
+    "SlotIndex": 1,
+    "OrderNumber": 19,
+    "Grade": 2,
+    "DmgType": 4,
+    "QuestType": 2,
+    "QuestNeedValue": 740,
+    "Name": "SKILLSTONE_NAME_008",
+    "OptionType": [
+      2
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      7.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 21,
+    "SlotIndex": 2,
+    "OrderNumber": 20,
+    "Grade": 2,
+    "DmgType": 1,
+    "QuestType": 2,
+    "QuestNeedValue": 760,
+    "Name": "SKILLSTONE_NAME_009",
+    "OptionType": [
+      3
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      7.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 22,
+    "SlotIndex": 2,
+    "OrderNumber": 21,
+    "Grade": 2,
+    "DmgType": 2,
+    "QuestType": 2,
+    "QuestNeedValue": 780,
+    "Name": "SKILLSTONE_NAME_010",
+    "OptionType": [
+      3
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      7.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 23,
+    "SlotIndex": 2,
+    "OrderNumber": 22,
+    "Grade": 2,
+    "DmgType": 3,
+    "QuestType": 2,
+    "QuestNeedValue": 800,
+    "Name": "SKILLSTONE_NAME_011",
+    "OptionType": [
+      3
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      7.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  },
+  {
+    "Id": 24,
+    "SlotIndex": 2,
+    "OrderNumber": 23,
+    "Grade": 2,
+    "DmgType": 4,
+    "QuestType": 2,
+    "QuestNeedValue": 820,
+    "Name": "SKILLSTONE_NAME_012",
+    "OptionType": [
+      3
+    ],
+    "OptionIndex": [
+      0
+    ],
+    "OptionValue": [
+      7.0
+    ],
+    "OptionColor": [
+      "FFFF00"
+    ]
+  }
+]

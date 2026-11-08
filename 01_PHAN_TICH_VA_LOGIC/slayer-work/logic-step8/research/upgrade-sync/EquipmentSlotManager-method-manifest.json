@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6006fec",
+    "name": "UpgradeStat_Apply",
+    "declaring_type_index": "2777",
+    "declaring_type_full_name": "EquipmentSlotManager",
+    "native_va": "0x4e9db80",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "134",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x95850c",
+    "end_va": "0x4e9dcac",
+    "asm_file": "EquipmentSlotManager__UpgradeStat_Apply_0x6006fec.asm"
+  }
+]

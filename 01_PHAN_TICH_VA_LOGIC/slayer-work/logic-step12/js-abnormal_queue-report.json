@@ -1,0 +1,6 @@
+{
+  "passed": 244,
+  "sequences": 3,
+  "actions": 29,
+  "scope": "Original abnormal scheduling and queue iterator with explicit Unity ticks/getters/executor dependencies."
+}

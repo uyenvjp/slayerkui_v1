@@ -1,0 +1,140 @@
+[
+  {
+    "Id": 0,
+    "Grade": 0,
+    "AwakenCount": 0,
+    "LevelLimit": 20
+  },
+  {
+    "Id": 1,
+    "Grade": 1,
+    "AwakenCount": 0,
+    "LevelLimit": 40
+  },
+  {
+    "Id": 2,
+    "Grade": 2,
+    "AwakenCount": 0,
+    "LevelLimit": 60
+  },
+  {
+    "Id": 3,
+    "Grade": 3,
+    "AwakenCount": 0,
+    "LevelLimit": 80
+  },
+  {
+    "Id": 4,
+    "Grade": 4,
+    "AwakenCount": 0,
+    "LevelLimit": 100
+  },
+  {
+    "Id": 5,
+    "Grade": 4,
+    "AwakenCount": 1,
+    "LevelLimit": 120
+  },
+  {
+    "Id": 6,
+    "Grade": 4,
+    "AwakenCount": 2,
+    "LevelLimit": 140
+  },
+  {
+    "Id": 7,
+    "Grade": 4,
+    "AwakenCount": 3,
+    "LevelLimit": 160
+  },
+  {
+    "Id": 8,
+    "Grade": 4,
+    "AwakenCount": 4,
+    "LevelLimit": 180
+  },
+  {
+    "Id": 9,
+    "Grade": 4,
+    "AwakenCount": 5,
+    "LevelLimit": 200
+  },
+  {
+    "Id": 10,
+    "Grade": 5,
+    "AwakenCount": 0,
+    "LevelLimit": 250
+  },
+  {
+    "Id": 11,
+    "Grade": 5,
+    "AwakenCount": 1,
+    "LevelLimit": 270
+  },
+  {
+    "Id": 12,
+    "Grade": 5,
+    "AwakenCount": 2,
+    "LevelLimit": 290
+  },
+  {
+    "Id": 13,
+    "Grade": 5,
+    "AwakenCount": 3,
+    "LevelLimit": 310
+  },
+  {
+    "Id": 14,
+    "Grade": 5,
+    "AwakenCount": 4,
+    "LevelLimit": 330
+  },
+  {
+    "Id": 15,
+    "Grade": 5,
+    "AwakenCount": 5,
+    "LevelLimit": 350
+  },
+  {
+    "Id": 16,
+    "Grade": 6,
+    "AwakenCount": 0,
+    "LevelLimit": 400
+  },
+  {
+    "Id": 17,
+    "Grade": 6,
+    "AwakenCount": 1,
+    "LevelLimit": 420
+  },
+  {
+    "Id": 18,
+    "Grade": 6,
+    "AwakenCount": 2,
+    "LevelLimit": 440
+  },
+  {
+    "Id": 19,
+    "Grade": 6,
+    "AwakenCount": 3,
+    "LevelLimit": 460
+  },
+  {
+    "Id": 20,
+    "Grade": 6,
+    "AwakenCount": 4,
+    "LevelLimit": 480
+  },
+  {
+    "Id": 21,
+    "Grade": 6,
+    "AwakenCount": 5,
+    "LevelLimit": 500
+  },
+  {
+    "Id": 22,
+    "Grade": 7,
+    "AwakenCount": 0,
+    "LevelLimit": 600
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "Id": 1,
+    "MaxCount": 120,
+    "ClientMaxCount": 100,
+    "Moderate": 15,
+    "Busy": 50
+  }
+]

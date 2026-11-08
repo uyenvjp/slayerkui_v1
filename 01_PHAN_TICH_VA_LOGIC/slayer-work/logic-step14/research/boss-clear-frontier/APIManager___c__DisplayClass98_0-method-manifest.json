@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6001076",
+    "name": "<ClearBossStage>b__0",
+    "declaring_type_index": "1100",
+    "declaring_type_full_name": "APIManager+<>c__DisplayClass98_0",
+    "native_va": "0x4816c44",
+    "return_type_index": "48610",
+    "return_type_name": "generic_instance",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "131",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x89964c",
+    "end_va": "0x4816d2c",
+    "asm_file": "APIManager___c__DisplayClass98_0___ClearBossStage_b__0_0x6001076.asm"
+  }
+]

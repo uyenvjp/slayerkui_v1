@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6006d89",
+    "name": "<StageBossClear_Coroutine>g__StageClearSetting|0",
+    "declaring_type_index": "2650",
+    "declaring_type_full_name": "GameManager+<>c__DisplayClass110_0",
+    "native_va": "0x4e7eb78",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "131",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x9538ac",
+    "end_va": "0x4e7f138",
+    "asm_file": "GameManager___c__DisplayClass110_0___StageBossClear_Coroutine_g__StageClearSetting_0_0x6006d89.asm"
+  }
+]

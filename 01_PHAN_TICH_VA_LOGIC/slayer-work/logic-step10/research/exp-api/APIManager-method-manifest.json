@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6000880",
+    "name": "AddRequest",
+    "declaring_type_index": "1112",
+    "declaring_type_full_name": "APIManager",
+    "native_va": "0x50c1a44",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "750",
+    "parameter_count": "3",
+    "flags": "145",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x88978c",
+    "end_va": "0x50c1b80",
+    "asm_file": "APIManager__AddRequest_0x6000880.asm"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x60008d1",
+    "name": "LevelUp",
+    "declaring_type_index": "1112",
+    "declaring_type_full_name": "APIManager",
+    "native_va": "0x50cc2b4",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "953",
+    "parameter_count": "2",
+    "flags": "150",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x88a1ac",
+    "end_va": "0x50cc424",
+    "asm_file": "APIManager__LevelUp_0x60008d1.asm"
+  }
+]

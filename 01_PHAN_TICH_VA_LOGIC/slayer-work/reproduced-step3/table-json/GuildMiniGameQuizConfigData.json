@@ -1,0 +1,11 @@
+[
+  {
+    "Id": 1,
+    "BonusReward1Currency": 42,
+    "BonusReward1Index": 0,
+    "BonusReward1Amount": 100,
+    "BonusReward2Currency": 39,
+    "BonusReward2Index": 0,
+    "BonusReward2Amount": 200
+  }
+]

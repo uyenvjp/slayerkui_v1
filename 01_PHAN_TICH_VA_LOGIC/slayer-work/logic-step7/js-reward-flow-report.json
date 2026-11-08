@@ -1,0 +1,5 @@
+{
+  "passed": 1025,
+  "extraChecks": 10001,
+  "scope": "Bounded native method-flow fixtures; no Android, live patch or acquisition/backend parity."
+}

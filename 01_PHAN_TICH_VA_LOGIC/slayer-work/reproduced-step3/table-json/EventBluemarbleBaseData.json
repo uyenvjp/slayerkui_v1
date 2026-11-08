@@ -1,0 +1,328 @@
+[
+  {
+    "Id": 1,
+    "EventType": 48,
+    "Col": 3,
+    "Row": 0,
+    "MoveIndex": 0,
+    "IsEnd": false,
+    "IsStart": true,
+    "BgType": 0,
+    "CurrencyTypes": [
+      298
+    ],
+    "Amount": [
+      1
+    ],
+    "Rate": [
+      100.0
+    ]
+  },
+  {
+    "Id": 2,
+    "EventType": 48,
+    "Col": 2,
+    "Row": 0,
+    "MoveIndex": 0,
+    "IsEnd": false,
+    "IsStart": false,
+    "BgType": 0,
+    "CurrencyTypes": [
+      10
+    ],
+    "Amount": [
+      1
+    ],
+    "Rate": [
+      100.0
+    ]
+  },
+  {
+    "Id": 3,
+    "EventType": 48,
+    "Col": 1,
+    "Row": 0,
+    "MoveIndex": 0,
+    "IsEnd": false,
+    "IsStart": false,
+    "BgType": 0,
+    "CurrencyTypes": [
+      1
+    ],
+    "Amount": [
+      500
+    ],
+    "Rate": [
+      100.0
+    ]
+  },
+  {
+    "Id": 4,
+    "EventType": 48,
+    "Col": 1,
+    "Row": 1,
+    "MoveIndex": 8,
+    "IsEnd": false,
+    "IsStart": false,
+    "BgType": 1,
+    "CurrencyTypes": [
+      0
+    ],
+    "Amount": [],
+    "Rate": []
+  },
+  {
+    "Id": 5,
+    "EventType": 48,
+    "Col": 0,
+    "Row": 1,
+    "MoveIndex": 0,
+    "IsEnd": false,
+    "IsStart": false,
+    "BgType": 0,
+    "CurrencyTypes": [
+      5
+    ],
+    "Amount": [
+      1000
+    ],
+    "Rate": [
+      100.0
+    ]
+  },
+  {
+    "Id": 6,
+    "EventType": 48,
+    "Col": 0,
+    "Row": 2,
+    "MoveIndex": 0,
+    "IsEnd": false,
+    "IsStart": false,
+    "BgType": 0,
+    "CurrencyTypes": [
+      19
+    ],
+    "Amount": [
+      1
+    ],
+    "Rate": [
+      100.0
+    ]
+  },
+  {
+    "Id": 7,
+    "EventType": 48,
+    "Col": 0,
+    "Row": 3,
+    "MoveIndex": 0,
+    "IsEnd": false,
+    "IsStart": false,
+    "BgType": 0,
+    "CurrencyTypes": [
+      11
+    ],
+    "Amount": [
+      1000
+    ],
+    "Rate": [
+      100.0
+    ]
+  },
+  {
+    "Id": 8,
+    "EventType": 48,
+    "Col": 1,
+    "Row": 3,
+    "MoveIndex": 0,
+    "IsEnd": false,
+    "IsStart": false,
+    "BgType": 1,
+    "CurrencyTypes": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "Amount": [
+      100,
+      500,
+      1000,
+      2500,
+      5000
+    ],
+    "Rate": [
+      32.0,
+      40.0,
+      20.0,
+      6.0,
+      2.0
+    ]
+  },
+  {
+    "Id": 9,
+    "EventType": 48,
+    "Col": 1,
+    "Row": 4,
+    "MoveIndex": 0,
+    "IsEnd": false,
+    "IsStart": false,
+    "BgType": 0,
+    "CurrencyTypes": [
+      298
+    ],
+    "Amount": [
+      1
+    ],
+    "Rate": [
+      100.0
+    ]
+  },
+  {
+    "Id": 10,
+    "EventType": 48,
+    "Col": 2,
+    "Row": 4,
+    "MoveIndex": 0,
+    "IsEnd": false,
+    "IsStart": false,
+    "BgType": 0,
+    "CurrencyTypes": [
+      10,
+      10,
+      10
+    ],
+    "Amount": [
+      1,
+      2,
+      3
+    ],
+    "Rate": [
+      45.0,
+      50.0,
+      5.0
+    ]
+  },
+  {
+    "Id": 11,
+    "EventType": 48,
+    "Col": 3,
+    "Row": 4,
+    "MoveIndex": 0,
+    "IsEnd": false,
+    "IsStart": false,
+    "BgType": 0,
+    "CurrencyTypes": [
+      7
+    ],
+    "Amount": [
+      150
+    ],
+    "Rate": [
+      100.0
+    ]
+  },
+  {
+    "Id": 12,
+    "EventType": 48,
+    "Col": 3,
+    "Row": 3,
+    "MoveIndex": 16,
+    "IsEnd": false,
+    "IsStart": false,
+    "BgType": 2,
+    "CurrencyTypes": [
+      0
+    ],
+    "Amount": [],
+    "Rate": []
+  },
+  {
+    "Id": 13,
+    "EventType": 48,
+    "Col": 4,
+    "Row": 3,
+    "MoveIndex": 0,
+    "IsEnd": false,
+    "IsStart": false,
+    "BgType": 0,
+    "CurrencyTypes": [
+      12
+    ],
+    "Amount": [
+      1000
+    ],
+    "Rate": [
+      100.0
+    ]
+  },
+  {
+    "Id": 14,
+    "EventType": 48,
+    "Col": 4,
+    "Row": 2,
+    "MoveIndex": 0,
+    "IsEnd": false,
+    "IsStart": false,
+    "BgType": 0,
+    "CurrencyTypes": [
+      18
+    ],
+    "Amount": [
+      1
+    ],
+    "Rate": [
+      100.0
+    ]
+  },
+  {
+    "Id": 15,
+    "EventType": 48,
+    "Col": 4,
+    "Row": 1,
+    "MoveIndex": 0,
+    "IsEnd": false,
+    "IsStart": false,
+    "BgType": 0,
+    "CurrencyTypes": [
+      3
+    ],
+    "Amount": [
+      1000
+    ],
+    "Rate": [
+      100.0
+    ]
+  },
+  {
+    "Id": 16,
+    "EventType": 48,
+    "Col": 3,
+    "Row": 1,
+    "MoveIndex": 0,
+    "IsEnd": true,
+    "IsStart": false,
+    "BgType": 2,
+    "CurrencyTypes": [
+      7,
+      7,
+      7,
+      7,
+      7
+    ],
+    "Amount": [
+      30,
+      120,
+      300,
+      700,
+      1500
+    ],
+    "Rate": [
+      32.0,
+      40.0,
+      20.0,
+      6.0,
+      2.0
+    ]
+  }
+]

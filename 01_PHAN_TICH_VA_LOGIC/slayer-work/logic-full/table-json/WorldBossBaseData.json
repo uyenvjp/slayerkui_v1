@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 3000,
+    "EventType": 3000,
+    "Active": false
+  },
+  {
+    "Id": 3001,
+    "EventType": 3001,
+    "Active": true
+  }
+]

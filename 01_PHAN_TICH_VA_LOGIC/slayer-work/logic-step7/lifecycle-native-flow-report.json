@@ -1,0 +1,7 @@
+{
+  "cases": 212,
+  "continuedPhases": 3,
+  "instructionSteps": 7738,
+  "distinctInstructions": 279,
+  "scope": "Co_FakeDeath.MoveNext, DefeatCoroutine.MoveNext, SetRebornState bodies. Downstream healing, movement, BattleEnd and Unity effects modeled; no full lifecycle or scheduler parity."
+}

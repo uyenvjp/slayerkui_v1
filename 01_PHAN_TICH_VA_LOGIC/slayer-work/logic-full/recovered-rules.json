@@ -1,0 +1,62 @@
+{
+  "scope": "Unpatched native baseline only; total combat/stat pipeline is still under analysis",
+  "rules": [
+    {
+      "method": "EquipmentSlotManager.EquipmentValue",
+      "native_va": "0x4e9af74",
+      "formula": "trunc_toward_zero(wrap_signed64(base_value * EquipmentInfoBaseData[level].Value) / 100000)",
+      "magic_division_constant": "0x29f16b11c6d1e109"
+    },
+    {
+      "method": "AccessorySlotManager.AccessoryValue",
+      "native_va": "0x4f6bb48",
+      "formula": "trunc_toward_zero(wrap_signed64(base_value * AccessoryInfoBaseData[level].Value) / 100000)"
+    },
+    {
+      "method": "EquipmentSlotManager.HavePowerCritical_Cal",
+      "native_va": "0x4e9c0c4",
+      "formula": "float32(base_critical * float32(1 + float32(float32(level) * float32(0.1))))",
+      "row_sources": [
+        "Equipment.HavePower_CriticalValue @172",
+        "AwakeningWeapon.HavePower_CriticalValue @40 when slot>=24 and DatabaseManager.AwakeningWeapon>=1"
+      ]
+    },
+    {
+      "method": "DatabaseManager.Gold_Cal",
+      "native_va": "0x4d4d544",
+      "formula": "trunc_toward_zero(input_gold * GoldAmountAdd / 100)",
+      "note": "GoldAmountAdd is the returned total percentage; its upstream aggregation is not yet fully translated."
+    },
+    {
+      "method": "DatabaseManager.Exp_Cal",
+      "native_va": "0x4d4da60",
+      "formula": "trunc_toward_zero(input_exp * trunc_toward_zero(float64(float32(ExpAdd)) * 1000.0) / 100000)",
+      "constant_va": "0x1f29000"
+    },
+    {
+      "method": "Character.DmgType_Cal",
+      "native_va": "0x5018334",
+      "defeat_type_map_1_through_4": [
+        2,
+        3,
+        4,
+        1
+      ],
+      "win_type_map_1_through_4": [
+        4,
+        1,
+        2,
+        3
+      ],
+      "formula": "attackType==0: unchanged; defenderType==DefeatType(attackType): trunc(damage*70/100); else defenderType==WinType(attackType): damage*2; otherwise unchanged",
+      "enum_values": {
+        "None": 0,
+        "Fire": 1,
+        "Water": 2,
+        "Wind": 3,
+        "Earth": 4,
+        "All": 100
+      }
+    }
+  ]
+}

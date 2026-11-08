@@ -1,0 +1,7 @@
+{
+  "cases": 1025,
+  "stageDropSnapshots": 158,
+  "instructionSteps": 138591,
+  "distinctInstructions": 1087,
+  "scope": "Nine entry bodies: StageItemDrop, StageGoldAmount, GoldAmount_Nobuff, Gold_Cal, Exp_Cal, Gold_Get, SoulDivision, StageMonsterIndex, Probability; explicit decrypted values/RNG/manager/dictionary/effect fixtures. No native execution or server/gameplay parity."
+}

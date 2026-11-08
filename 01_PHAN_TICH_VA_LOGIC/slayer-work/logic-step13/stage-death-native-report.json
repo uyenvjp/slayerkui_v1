@@ -1,0 +1,7 @@
+{
+  "cases": 72,
+  "contract_cases": 1,
+  "instruction_steps": 94088,
+  "distinct_instructions": 1270,
+  "scope": "True-damage hit/HP/death/normal-loot -> native GameManager.Enemy_Dead/EnemyRemove on mode0 paths, list removal, deactivate, WaveCount int32 and wave9->10 reward-box vector offset. Spawn, stage-bar, restart coroutine and Unity/list dependencies explicit. rightVector static values declared fixtures; not all modes, spawn implementation, stage clear/account or full game parity."
+}

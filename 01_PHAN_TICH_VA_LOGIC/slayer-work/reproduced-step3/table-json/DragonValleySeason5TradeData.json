@@ -1,0 +1,450 @@
+[
+  {
+    "Id": 1,
+    "DragonValleyChefType": 1,
+    "CurrencyType": 6008,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6013
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 2,
+    "DragonValleyChefType": 1,
+    "CurrencyType": 6008,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6003
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 3,
+    "DragonValleyChefType": 1,
+    "CurrencyType": 6008,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6016
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 4,
+    "DragonValleyChefType": 1,
+    "CurrencyType": 6008,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6015
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 5,
+    "DragonValleyChefType": 1,
+    "CurrencyType": 6020,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6013
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 6,
+    "DragonValleyChefType": 1,
+    "CurrencyType": 6020,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6003
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 7,
+    "DragonValleyChefType": 1,
+    "CurrencyType": 6020,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6016
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 8,
+    "DragonValleyChefType": 1,
+    "CurrencyType": 6020,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6015
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 101,
+    "DragonValleyChefType": 2,
+    "CurrencyType": 6019,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6013
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 102,
+    "DragonValleyChefType": 2,
+    "CurrencyType": 6019,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6003
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 103,
+    "DragonValleyChefType": 2,
+    "CurrencyType": 6019,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6016
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 104,
+    "DragonValleyChefType": 2,
+    "CurrencyType": 6019,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6015
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 105,
+    "DragonValleyChefType": 2,
+    "CurrencyType": 6017,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6013
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 106,
+    "DragonValleyChefType": 2,
+    "CurrencyType": 6017,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6003
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 107,
+    "DragonValleyChefType": 2,
+    "CurrencyType": 6017,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6016
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 108,
+    "DragonValleyChefType": 2,
+    "CurrencyType": 6017,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6015
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 201,
+    "DragonValleyChefType": 3,
+    "CurrencyType": 6022,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6013
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 202,
+    "DragonValleyChefType": 3,
+    "CurrencyType": 6022,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6003
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 203,
+    "DragonValleyChefType": 3,
+    "CurrencyType": 6022,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6016
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 204,
+    "DragonValleyChefType": 3,
+    "CurrencyType": 6022,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6015
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 205,
+    "DragonValleyChefType": 3,
+    "CurrencyType": 6018,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6013
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 206,
+    "DragonValleyChefType": 3,
+    "CurrencyType": 6018,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6003
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 207,
+    "DragonValleyChefType": 3,
+    "CurrencyType": 6018,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6016
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 208,
+    "DragonValleyChefType": 3,
+    "CurrencyType": 6018,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6015
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 301,
+    "DragonValleyChefType": 4,
+    "CurrencyType": 6021,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6013
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 302,
+    "DragonValleyChefType": 4,
+    "CurrencyType": 6021,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6003
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 303,
+    "DragonValleyChefType": 4,
+    "CurrencyType": 6021,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6016
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 304,
+    "DragonValleyChefType": 4,
+    "CurrencyType": 6021,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6015
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 305,
+    "DragonValleyChefType": 4,
+    "CurrencyType": 6012,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6013
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 306,
+    "DragonValleyChefType": 4,
+    "CurrencyType": 6012,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6003
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 307,
+    "DragonValleyChefType": 4,
+    "CurrencyType": 6012,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6016
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 308,
+    "DragonValleyChefType": 4,
+    "CurrencyType": 6012,
+    "RewardAmount": 10,
+    "DragonValleyExchangeType": 3,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6015
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  }
+]

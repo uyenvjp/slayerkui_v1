@@ -1,0 +1,1568 @@
+{
+  "source_filename": "Slayer+Legend+_+Idle+RPG_700.0.4_APKPure(1).xapk",
+  "xapk_sha256": null,
+  "packs": {
+    "hero": {
+      "bundle_sha256": "e3826a4745d0c6b625e52efd6a3e3c5c6167cb23844a0b04b04378e8b19e66da",
+      "unity_revision": "6000.3.10f1",
+      "serialized_object_count": 5356,
+      "class_id_counts": {
+        "213": 5116,
+        "28": 239,
+        "142": 1
+      },
+      "groups": [
+        {
+          "class_id": 213,
+          "category": "warrior",
+          "count": 1268,
+          "examples": [
+            "warrior_44_18",
+            "warrior_03_4",
+            "warrior_13_15",
+            "warrior_08_17",
+            "warrior_1007_6",
+            "warrior_23_16",
+            "warrior_43_2",
+            "warrior_04_5"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "archer",
+          "count": 1268,
+          "examples": [
+            "archer_skin_display_0",
+            "archer_47_19",
+            "archer_32_10",
+            "archer_22_10",
+            "archer_19_7",
+            "archer_44_9",
+            "archer_display_5",
+            "archer_1002_16"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "ninja",
+          "count": 1268,
+          "examples": [
+            "ninja_1008_14",
+            "ninja_28_8",
+            "ninja_14_14",
+            "ninja_37_11",
+            "ninja_skin_display_53",
+            "ninja_33_0",
+            "ninja_22_19",
+            "ninja_1001_0"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "mage",
+          "count": 1248,
+          "examples": [
+            "mage_21_4",
+            "mage_22_5",
+            "mage_37_17",
+            "mage_37_19",
+            "mage_29_3",
+            "mage_10_9",
+            "mage_1007_19",
+            "mage_17_13"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "campaign",
+          "count": 64,
+          "examples": [
+            "campaign_character_4_2",
+            "campaign_character_1_10",
+            "campaign_character_3_12",
+            "campaign_character_1_0",
+            "campaign_character_3_6",
+            "campaign_character_4_10",
+            "campaign_character_4_7",
+            "campaign_character_1_3"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "archer",
+          "count": 59,
+          "examples": [
+            "archer_27",
+            "archer_13",
+            "archer_14",
+            "archer_24",
+            "archer_15",
+            "archer_33",
+            "archer_47",
+            "archer_1002"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "warrior",
+          "count": 59,
+          "examples": [
+            "warrior_20",
+            "warrior_43",
+            "warrior_26",
+            "warrior_44",
+            "warrior_38",
+            "warrior_13",
+            "warrior_37",
+            "warrior_42"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "ninja",
+          "count": 59,
+          "examples": [
+            "ninja_16",
+            "ninja_display",
+            "ninja_34",
+            "ninja_46",
+            "ninja_41",
+            "ninja_40",
+            "ninja_01",
+            "ninja_08"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "mage",
+          "count": 58,
+          "examples": [
+            "mage_42",
+            "mage_04",
+            "mage_24",
+            "mage_12",
+            "mage_02",
+            "mage_29",
+            "mage_48",
+            "mage_38"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "campaign",
+          "count": 4,
+          "examples": [
+            "campaign_character_1",
+            "campaign_character_2",
+            "campaign_character_4",
+            "campaign_character_3"
+          ]
+        }
+      ]
+    },
+    "skin": {
+      "bundle_sha256": "4867bd92c1aadad840ddaea7cb6fe7fe31661e0316079a1f04b8d4c9fb23f7ec",
+      "unity_revision": "6000.3.10f1",
+      "serialized_object_count": 17273,
+      "class_id_counts": {
+        "213": 15718,
+        "28": 1453,
+        "74": 14,
+        "91": 14,
+        "95": 14,
+        "212": 7,
+        "114": 14,
+        "224": 7,
+        "1": 14,
+        "115": 2,
+        "222": 7,
+        "21": 1,
+        "142": 1,
+        "4": 7
+      },
+      "groups": [
+        {
+          "class_id": 213,
+          "category": "skin_costume",
+          "count": 8864,
+          "examples": [
+            "skin_costume_109_13",
+            "skin_costume_000_10",
+            "skin_costume_002_31",
+            "skin_costume_163_16",
+            "skin_costume_238_10",
+            "skin_costume_167_1_6",
+            "skin_costume_1018_2",
+            "skin_costume_219_19"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "skin_body",
+          "count": 893,
+          "examples": [
+            "skin_body_1008_8",
+            "skin_body_1014_8",
+            "skin_body_000_28",
+            "skin_body_1016_23",
+            "skin_body_1000_2",
+            "skin_body_1014_27",
+            "skin_body_002_29",
+            "skin_body_1014_9"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "skin_face",
+          "count": 694,
+          "examples": [
+            "skin_face_515_0",
+            "skin_face_533_Lens_1",
+            "skin_face_046_1",
+            "skin_face_543_Lens_2",
+            "skin_Face_005_3",
+            "skin_face_539_1",
+            "skin_face_543_0",
+            "skin_face_025_Lens_0"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "skin_hair",
+          "count": 654,
+          "examples": [
+            "skin_hair_015_5",
+            "skin_hair_051_3",
+            "skin_hair_532_4",
+            "skin_hair_025_2",
+            "skin_hair_534_4",
+            "skin_hair_517_4",
+            "skin_hair_053_5",
+            "skin_hair_541_0"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "skin_hat",
+          "count": 584,
+          "examples": [
+            "skin_hat_067_0",
+            "skin_hat_1009_0",
+            "skin_hat_115_0",
+            "skin_hat_1001_5",
+            "skin_hat_142_0",
+            "skin_hat_010_0",
+            "skin_hat_1021_2",
+            "skin_hat_1023_1"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "sword",
+          "count": 571,
+          "examples": [
+            "sword_33",
+            "sword_1228",
+            "sword_23",
+            "sword_1087",
+            "sword_1137_Animation_9",
+            "sword_1032",
+            "sword_103_12",
+            "sword_102_6"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "sword",
+          "count": 421,
+          "examples": [
+            "sword_1130",
+            "sword_1190",
+            "sword_1202",
+            "sword_1133",
+            "sword_1052",
+            "sword_1159",
+            "sword_07",
+            "sword_27_Animation"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "skin_facedeco",
+          "count": 404,
+          "examples": [
+            "skin_facedeco_039_2",
+            "skin_facedeco_047_3",
+            "skin_facedeco_071_2",
+            "skin_facedeco_024_1",
+            "skin_facedeco_061_3",
+            "skin_facedeco_041_0",
+            "skin_facedeco_032_3",
+            "skin_facedeco_041_1"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "skin_cloak",
+          "count": 396,
+          "examples": [
+            "skin_cloak_030_12",
+            "skin_cloak_016_5",
+            "skin_cloak_031_13",
+            "skin_cloak_002_14",
+            "skin_cloak_1001_11",
+            "skin_cloak_001_11",
+            "skin_cloak_014_8",
+            "skin_cloak_024_8"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "skin_costume",
+          "count": 277,
+          "examples": [
+            "skin_costume_104",
+            "skin_costume_201_1",
+            "skin_costume_202_1",
+            "skin_costume_178",
+            "skin_costume_163",
+            "skin_costume_1015",
+            "skin_costume_168",
+            "skin_costume_132"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "skin_hairback",
+          "count": 270,
+          "examples": [
+            "skin_hairback_010_3",
+            "skin_hairback_043_5",
+            "skin_hairback_016_2",
+            "skin_hairback_040_4",
+            "skin_hairback_007_3",
+            "skin_hairback_041_3",
+            "skin_hairback_009_1",
+            "skin_hairback_004_3"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "skin_face",
+          "count": 198,
+          "examples": [
+            "skin_face_528_Lens",
+            "skin_face_524",
+            "skin_face_048",
+            "skin_face_542",
+            "skin_face_034",
+            "skin_face_531",
+            "skin_face_049_Lens",
+            "skin_face_008"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_cloak00",
+          "count": 192,
+          "examples": [
+            "Display_cloak00_59",
+            "Display_cloak00_51",
+            "Display_cloak00_4",
+            "Display_cloak00_13",
+            "Display_cloak00_44",
+            "Display_cloak00_15",
+            "Display_cloak00_86",
+            "Display_cloak00_79"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "skin_hat",
+          "count": 184,
+          "examples": [
+            "skin_hat_1023",
+            "skin_hat_1014",
+            "skin_hat_086",
+            "skin_hat_113",
+            "skin_hat_005",
+            "skin_hat_132",
+            "skin_hat_046",
+            "skin_hat_100"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_face",
+          "count": 128,
+          "examples": [
+            "Display_face_Lens_00_10",
+            "Display_face_Lens_10_56",
+            "Display_face_Lens_10_3",
+            "Display_face_Lens_10_31",
+            "Display_face_Lens_00_8",
+            "Display_face_Lens_10_33",
+            "Display_face_Lens_00_59",
+            "Display_face_Lens_10_61"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "skin_hair",
+          "count": 109,
+          "examples": [
+            "skin_hair_014",
+            "skin_hair_513",
+            "skin_hair_047",
+            "skin_hair_510",
+            "skin_hair_547",
+            "skin_hair_550",
+            "skin_hair_026",
+            "skin_hair_528"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hairlight00",
+          "count": 108,
+          "examples": [
+            "Display_hairLight00_10",
+            "Display_hairLight00_23",
+            "Display_hairLight00_16",
+            "Display_hairLight00_3",
+            "Display_hairLight00_3",
+            "Display_hairLight00_11",
+            "Display_hairLight00_29",
+            "Display_hairLight00_16"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "skin_facedeco",
+          "count": 101,
+          "examples": [
+            "skin_facedeco_005",
+            "skin_facedeco_010",
+            "skin_facedeco_056",
+            "skin_facedeco_050",
+            "skin_facedeco_035",
+            "skin_facedeco_066",
+            "skin_facedeco_070",
+            "skin_facedeco_088"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_costume11",
+          "count": 96,
+          "examples": [
+            "Display_costume11_74",
+            "Display_costume11_15",
+            "Display_costume11_57",
+            "Display_costume11_12",
+            "Display_costume11_91",
+            "Display_costume11_50",
+            "Display_costume11_65",
+            "Display_costume11_66"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_costume01",
+          "count": 96,
+          "examples": [
+            "Display_costume01_58",
+            "Display_costume01_76",
+            "Display_costume01_21",
+            "Display_costume01_41",
+            "Display_costume01_54",
+            "Display_costume01_51",
+            "Display_costume01_39",
+            "Display_costume01_33"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_costume02",
+          "count": 96,
+          "examples": [
+            "Display_costume02_63",
+            "Display_costume02_71",
+            "Display_costume02_34",
+            "Display_costume02_13",
+            "Display_costume02_62",
+            "Display_costume02_19",
+            "Display_costume02_11",
+            "Display_costume02_65"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_costume12",
+          "count": 96,
+          "examples": [
+            "Display_costume12_29",
+            "Display_costume12_76",
+            "Display_costume12_64",
+            "Display_costume12_2",
+            "Display_costume12_26",
+            "Display_costume12_69",
+            "Display_costume12_32",
+            "Display_costume12_1"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_cloakback00",
+          "count": 80,
+          "examples": [
+            "Display_cloakback00_16",
+            "Display_cloakback00_10",
+            "Display_cloakback00_35",
+            "Display_cloakback00_3",
+            "Display_cloakback00_35",
+            "Display_cloakback00_4",
+            "Display_cloakback00_32",
+            "Display_cloakback00_20"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hair10",
+          "count": 72,
+          "examples": [
+            "Display_hair10_7",
+            "Display_hair10_34",
+            "Display_hair10_32",
+            "Display_hair10_2",
+            "Display_hair10_14",
+            "Display_hair10_12",
+            "Display_hair10_30",
+            "Display_hair10_11"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_face10",
+          "count": 64,
+          "examples": [
+            "Display_face10_25",
+            "Display_face10_35",
+            "Display_face10_40",
+            "Display_face10_33",
+            "Display_face10_23",
+            "Display_face10_27",
+            "Display_face10_12",
+            "Display_face10_17"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_face00",
+          "count": 64,
+          "examples": [
+            "Display_face00_49",
+            "Display_face00_5",
+            "Display_face00_36",
+            "Display_face00_52",
+            "Display_face00_2",
+            "Display_face00_10",
+            "Display_face00_58",
+            "Display_face00_56"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_facedeco10",
+          "count": 64,
+          "examples": [
+            "Display_facedeco10_47",
+            "Display_facedeco10_29",
+            "Display_facedeco10_24",
+            "Display_facedeco10_39",
+            "Display_facedeco10_41",
+            "Display_facedeco10_59",
+            "Display_facedeco10_19",
+            "Display_facedeco10_17"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_earring00",
+          "count": 64,
+          "examples": [
+            "Display_earring00_37",
+            "Display_earring00_33",
+            "Display_earring00_56",
+            "Display_earring00_48",
+            "Display_earring00_51",
+            "Display_earring00_59",
+            "Display_earring00_46",
+            "Display_earring00_42"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_facedeco01",
+          "count": 64,
+          "examples": [
+            "Display_facedeco01_42",
+            "Display_facedeco01_4",
+            "Display_facedeco01_21",
+            "Display_facedeco01_63",
+            "Display_facedeco01_18",
+            "Display_facedeco01_52",
+            "Display_facedeco01_24",
+            "Display_facedeco01_9"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_facedeco00",
+          "count": 64,
+          "examples": [
+            "Display_facedeco00_15",
+            "Display_facedeco00_1",
+            "Display_facedeco00_37",
+            "Display_facedeco00_34",
+            "Display_facedeco00_5",
+            "Display_facedeco00_55",
+            "Display_facedeco00_36",
+            "Display_facedeco00_58"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_facedeco11",
+          "count": 64,
+          "examples": [
+            "Display_facedeco11_44",
+            "Display_facedeco11_8",
+            "Display_facedeco11_0",
+            "Display_facedeco11_51",
+            "Display_facedeco11_18",
+            "Display_facedeco11_33",
+            "Display_facedeco11_10",
+            "Display_facedeco11_54"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_costume00",
+          "count": 48,
+          "examples": [
+            "Display_costume00_3",
+            "Display_costume00_11",
+            "Display_costume00_0",
+            "Display_costume00_18",
+            "Display_costume00_32",
+            "Display_costume00_37",
+            "Display_costume00_14",
+            "Display_costume00_40"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_costume10",
+          "count": 48,
+          "examples": [
+            "Display_costume10_18",
+            "Display_costume10_7",
+            "Display_costume10_43",
+            "Display_costume10_9",
+            "Display_costume10_38",
+            "Display_costume10_4",
+            "Display_costume10_42",
+            "Display_costume10_3"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_costume",
+          "count": 48,
+          "examples": [
+            "Display_costume_event_36",
+            "Display_costume_event_37",
+            "Display_costume_event_47",
+            "Display_costume_event_25",
+            "Display_costume_event_14",
+            "Display_costume_event_27",
+            "Display_costume_event_41",
+            "Display_costume_event_21"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hairback00",
+          "count": 48,
+          "examples": [
+            "Display_hairback00_0",
+            "Display_hairback00_43",
+            "Display_hairback00_24",
+            "Display_hairback00_12",
+            "Display_hairback00_29",
+            "Display_hairback00_39",
+            "Display_hairback00_28",
+            "Display_hairback00_19"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_body",
+          "count": 48,
+          "examples": [
+            "display_body_woman_0_3",
+            "display_body_woman_0_4",
+            "Display_body_event_23",
+            "Display_body_event_18",
+            "Display_body_event_25",
+            "Display_body_event_15",
+            "Display_body_event_11",
+            "display_body_woman_0_0"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "skin_hairback",
+          "count": 45,
+          "examples": [
+            "skin_hairback_039",
+            "skin_hairback_036",
+            "skin_hairback_032",
+            "skin_hairback_028",
+            "skin_hairback_016",
+            "skin_hairback_031",
+            "skin_hairback_010",
+            "skin_hairback_009"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "skin_earring",
+          "count": 40,
+          "examples": [
+            "skin_earring_000_2",
+            "skin_earring_006_1",
+            "skin_earring_005_0",
+            "skin_earring_009_1",
+            "skin_earring_007_2",
+            "skin_earring_004_3",
+            "skin_earring_000_3",
+            "skin_earring_008_3"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hat11",
+          "count": 36,
+          "examples": [
+            "Display_hat11_17",
+            "Display_hat11_2",
+            "Display_hat11_10",
+            "Display_hat11_12",
+            "Display_hat11_8",
+            "Display_hat11_21",
+            "Display_hat11_23",
+            "Display_hat11_34"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hat03",
+          "count": 36,
+          "examples": [
+            "Display_hat03_23",
+            "Display_hat03_17",
+            "Display_hat03_27",
+            "Display_hat03_14",
+            "Display_hat03_13",
+            "Display_hat03_18",
+            "Display_hat03_25",
+            "Display_hat03_28"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hair",
+          "count": 36,
+          "examples": [
+            "Display_hair_13",
+            "Display_hair_35",
+            "Display_hair_12",
+            "Display_hair_33",
+            "Display_hair_6",
+            "Display_hair_18",
+            "Display_hair_28",
+            "Display_hair_31"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hairdown01",
+          "count": 36,
+          "examples": [
+            "Display_hairdown01_23",
+            "Display_hairdown01_33",
+            "Display_hairdown01_24",
+            "Display_hairdown01_16",
+            "Display_hairdown01_30",
+            "Display_hairdown01_26",
+            "Display_hairdown01_18",
+            "Display_hairdown01_34"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hat01",
+          "count": 36,
+          "examples": [
+            "Display_hat01_14",
+            "Display_hat01_25",
+            "Display_hat01_4",
+            "Display_hat01_33",
+            "Display_hat01_23",
+            "Display_hat01_15",
+            "Display_hat01_31",
+            "Display_hat01_1"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hair01",
+          "count": 36,
+          "examples": [
+            "Display_hair01_3",
+            "Display_hair01_34",
+            "Display_hair01_24",
+            "Display_hair01_11",
+            "Display_hair01_9",
+            "Display_hair01_31",
+            "Display_hair01_19",
+            "Display_hair01_35"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hat10",
+          "count": 36,
+          "examples": [
+            "Display_hat10_6",
+            "Display_hat10_23",
+            "Display_hat10_27",
+            "Display_hat10_13",
+            "Display_hat10_4",
+            "Display_hat10_24",
+            "Display_hat10_34",
+            "Display_hat10_3"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hairlight01",
+          "count": 36,
+          "examples": [
+            "Display_hairLight01_2",
+            "Display_hairLight01_29",
+            "Display_hairLight01_12",
+            "Display_hairLight01_26",
+            "Display_hairLight01_31",
+            "Display_hairLight01_11",
+            "Display_hairLight01_16",
+            "Display_hairLight01_3"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hat00",
+          "count": 36,
+          "examples": [
+            "Display_hat00_14",
+            "Display_hat00_5",
+            "Display_hat00_32",
+            "Display_hat00_0",
+            "Display_hat00_9",
+            "Display_hat00_28",
+            "Display_hat00_16",
+            "Display_hat00_27"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hat04",
+          "count": 36,
+          "examples": [
+            "Display_hat04_24",
+            "Display_hat04_8",
+            "Display_hat04_22",
+            "Display_hat04_35",
+            "Display_hat04_18",
+            "Display_hat04_15",
+            "Display_hat04_34",
+            "Display_hat04_5"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hat14",
+          "count": 36,
+          "examples": [
+            "Display_hat14_23",
+            "Display_hat14_8",
+            "Display_hat14_27",
+            "Display_hat14_33",
+            "Display_hat14_1",
+            "Display_hat14_22",
+            "Display_hat14_24",
+            "Display_hat14_29"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hairdown10",
+          "count": 36,
+          "examples": [
+            "Display_hairdown10_5",
+            "Display_hairdown10_33",
+            "Display_hairdown10_0",
+            "Display_hairdown10_18",
+            "Display_hairdown10_29",
+            "Display_hairdown10_8",
+            "Display_hairdown10_11",
+            "Display_hairdown10_17"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hat12",
+          "count": 36,
+          "examples": [
+            "Display_hat12_8",
+            "Display_hat12_6",
+            "Display_hat12_1",
+            "Display_hat12_33",
+            "Display_hat12_10",
+            "Display_hat12_13",
+            "Display_hat12_0",
+            "Display_hat12_17"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hat13",
+          "count": 36,
+          "examples": [
+            "Display_hat13_25",
+            "Display_hat13_9",
+            "Display_hat13_21",
+            "Display_hat13_8",
+            "Display_hat13_11",
+            "Display_hat13_28",
+            "Display_hat13_24",
+            "Display_hat13_14"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hairdown00",
+          "count": 36,
+          "examples": [
+            "Display_hairdown00_34",
+            "Display_hairdown00_24",
+            "Display_hairdown00_3",
+            "Display_hairdown00_22",
+            "Display_hairdown00_19",
+            "Display_hairdown00_9",
+            "Display_hairdown00_13",
+            "Display_hairdown00_28"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hat",
+          "count": 36,
+          "examples": [
+            "Display_hat_event_6",
+            "Display_hat_event_5",
+            "Display_hat_event_35",
+            "Display_hat_event_15",
+            "Display_hat_event_1",
+            "Display_hat_event_14",
+            "Display_hat_event_12",
+            "Display_hat_event_26"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hairdown11",
+          "count": 36,
+          "examples": [
+            "Display_hairdown11_13",
+            "Display_hairdown11_16",
+            "Display_hairdown11_32",
+            "Display_hairdown11_34",
+            "Display_hairdown11_9",
+            "Display_hairdown11_20",
+            "Display_hairdown11_35",
+            "Display_hairdown11_30"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hat02",
+          "count": 36,
+          "examples": [
+            "Display_hat02_34",
+            "Display_hat02_20",
+            "Display_hat02_2",
+            "Display_hat02_9",
+            "Display_hat02_30",
+            "Display_hat02_8",
+            "Display_hat02_6",
+            "Display_hat02_24"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "skin_body",
+          "count": 29,
+          "examples": [
+            "skin_body_003",
+            "skin_body_005",
+            "skin_body_1009",
+            "skin_body_008",
+            "skin_body_1017",
+            "skin_body_1001",
+            "skin_body_1013",
+            "skin_body_1002"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "skin_cloak",
+          "count": 25,
+          "examples": [
+            "skin_cloak_006",
+            "skin_cloak_001",
+            "skin_cloak_024",
+            "skin_cloak_021",
+            "skin_cloak_017",
+            "skin_cloak_031",
+            "skin_cloak_019",
+            "skin_cloak_000"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_hairfront00",
+          "count": 24,
+          "examples": [
+            "Display_hairfront00_13",
+            "Display_hairfront00_8",
+            "Display_hairfront00_23",
+            "Display_hairfront00_0",
+            "Display_hairfront00_7",
+            "Display_hairfront00_10",
+            "Display_hairfront00_18",
+            "Display_hairfront00_21"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "skin_earring",
+          "count": 10,
+          "examples": [
+            "skin_earring_002",
+            "skin_earring_006",
+            "skin_earring_007",
+            "skin_earring_003",
+            "skin_earring_004",
+            "skin_earring_008",
+            "skin_earring_005",
+            "skin_earring_009"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_body10",
+          "count": 8,
+          "examples": [
+            "Display_body10_3",
+            "Display_body10_1",
+            "Display_body10_4",
+            "Display_body10_7",
+            "Display_body10_5",
+            "Display_body10_6",
+            "Display_body10_0",
+            "Display_body10_2"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "display_body00",
+          "count": 8,
+          "examples": [
+            "Display_body00_5",
+            "Display_body00_1",
+            "Display_body00_3",
+            "Display_body00_2",
+            "Display_body00_0",
+            "Display_body00_4",
+            "Display_body00_7",
+            "Display_body00_6"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "basicface",
+          "count": 4,
+          "examples": [
+            "basicFace_1",
+            "basicFace_2",
+            "basicFace_3",
+            "basicFace_0"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_body",
+          "count": 3,
+          "examples": [
+            "display_body_woman_0",
+            "display_body_man_0",
+            "Display_body_event"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "avatar",
+          "count": 2,
+          "examples": [
+            "avatar_000_1",
+            "avatar_000_0"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_face",
+          "count": 2,
+          "examples": [
+            "Display_face_Lens_10",
+            "Display_face_Lens_00"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_costume12",
+          "count": 1,
+          "examples": [
+            "Display_costume12"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_facedeco10",
+          "count": 1,
+          "examples": [
+            "Display_facedeco10"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_costume02",
+          "count": 1,
+          "examples": [
+            "Display_costume02"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hat13",
+          "count": 1,
+          "examples": [
+            "Display_hat13"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hat11",
+          "count": 1,
+          "examples": [
+            "Display_hat11"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hairback00",
+          "count": 1,
+          "examples": [
+            "Display_hairback00"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hairdown00",
+          "count": 1,
+          "examples": [
+            "Display_hairdown00"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hair11",
+          "count": 1,
+          "examples": [
+            "Display_hair11"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hat01",
+          "count": 1,
+          "examples": [
+            "Display_hat01"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hairdown11",
+          "count": 1,
+          "examples": [
+            "Display_hairdown11"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hairlight10",
+          "count": 1,
+          "examples": [
+            "Display_hairLight10"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_costume00",
+          "count": 1,
+          "examples": [
+            "Display_costume00"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_earring00",
+          "count": 1,
+          "examples": [
+            "Display_earring00"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_facedeco01",
+          "count": 1,
+          "examples": [
+            "Display_facedeco01"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hat14",
+          "count": 1,
+          "examples": [
+            "Display_hat14"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hair00",
+          "count": 1,
+          "examples": [
+            "Display_hair00"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hair10",
+          "count": 1,
+          "examples": [
+            "Display_hair10"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "cap",
+          "count": 1,
+          "examples": [
+            "cap"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_costume",
+          "count": 1,
+          "examples": [
+            "Display_costume_event"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_face00",
+          "count": 1,
+          "examples": [
+            "Display_face00"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hair01",
+          "count": 1,
+          "examples": [
+            "Display_hair01"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hat04",
+          "count": 1,
+          "examples": [
+            "Display_hat04"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hairdown10",
+          "count": 1,
+          "examples": [
+            "Display_hairdown10"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "cap",
+          "count": 1,
+          "examples": [
+            "cap"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_face10",
+          "count": 1,
+          "examples": [
+            "Display_face10"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hairlight01",
+          "count": 1,
+          "examples": [
+            "Display_hairLight01"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "costumetest",
+          "count": 1,
+          "examples": [
+            "costumeTest"
+          ]
+        },
+        {
+          "class_id": 213,
+          "category": "costumetest",
+          "count": 1,
+          "examples": [
+            "costumeTest"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hat02",
+          "count": 1,
+          "examples": [
+            "Display_hat02"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_costume01",
+          "count": 1,
+          "examples": [
+            "Display_costume01"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hat12",
+          "count": 1,
+          "examples": [
+            "Display_hat12"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_facedeco00",
+          "count": 1,
+          "examples": [
+            "Display_facedeco00"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_cloak00",
+          "count": 1,
+          "examples": [
+            "Display_cloak00"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hat10",
+          "count": 1,
+          "examples": [
+            "Display_hat10"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_cloakback",
+          "count": 1,
+          "examples": [
+            "Display_cloakback_event"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_facedeco11",
+          "count": 1,
+          "examples": [
+            "Display_facedeco11"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hairlight11",
+          "count": 1,
+          "examples": [
+            "Display_hairLight11"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_body10",
+          "count": 1,
+          "examples": [
+            "Display_body10"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hat00",
+          "count": 1,
+          "examples": [
+            "Display_hat00"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hat",
+          "count": 1,
+          "examples": [
+            "Display_hat_event"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "basicface",
+          "count": 1,
+          "examples": [
+            "basicFace"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_costume11",
+          "count": 1,
+          "examples": [
+            "Display_costume11"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hairlight00",
+          "count": 1,
+          "examples": [
+            "Display_hairLight00"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_cloakback00",
+          "count": 1,
+          "examples": [
+            "Display_cloakback00"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_cloak",
+          "count": 1,
+          "examples": [
+            "Display_cloak_event"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "avatar",
+          "count": 1,
+          "examples": [
+            "avatar_000"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_body00",
+          "count": 1,
+          "examples": [
+            "Display_body00"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hairdown01",
+          "count": 1,
+          "examples": [
+            "Display_hairdown01"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hairfront00",
+          "count": 1,
+          "examples": [
+            "Display_hairfront00"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_costume10",
+          "count": 1,
+          "examples": [
+            "Display_costume10"
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "display_hat03",
+          "count": 1,
+          "examples": [
+            "Display_hat03"
+          ]
+        }
+      ]
+    }
+  },
+  "notes": [
+    "Asset names and counts come from serialized Unity objects, not inferred from a YouTube video.",
+    "No default player costume has been identified; missing configuration is not guessed."
+  ]
+}

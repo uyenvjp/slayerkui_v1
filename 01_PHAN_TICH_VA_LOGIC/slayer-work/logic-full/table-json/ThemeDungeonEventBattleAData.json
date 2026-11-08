@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "RewardAmount": 2500,
+    "HpFactor": 0.004999999888241291,
+    "AtkFactor": 0.004999999888241291,
+    "CameraSetting": 4.0,
+    "AttackDistance": 1.7999999523162842,
+    "Map": 4000,
+    "DmgType": 0,
+    "AttackSpeed": 1.0,
+    "Miss": 1.0,
+    "Accuracy": 4000.0,
+    "WaveCount": 50,
+    "SameWave": true,
+    "BattleType": 3,
+    "BattlePattern": 19,
+    "EnemyAttackType": 0,
+    "TimeLimit": 90,
+    "MapColor": "FFFFFF",
+    "MapEffectType": 0
+  }
+]

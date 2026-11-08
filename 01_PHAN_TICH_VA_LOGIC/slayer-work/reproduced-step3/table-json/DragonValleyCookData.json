@@ -1,0 +1,152 @@
+[
+  {
+    "Id": 1,
+    "CurrencyType": 6109,
+    "Value": 5.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6009,
+      6002,
+      6007,
+      6005
+    ],
+    "MaterialCounts": [
+      100,
+      40,
+      15,
+      1
+    ]
+  },
+  {
+    "Id": 2,
+    "CurrencyType": 6110,
+    "Value": 5.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6002,
+      6008,
+      6010
+    ],
+    "MaterialCounts": [
+      15,
+      120,
+      5
+    ]
+  },
+  {
+    "Id": 3,
+    "CurrencyType": 6111,
+    "Value": 2.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6009,
+      6002,
+      6005
+    ],
+    "MaterialCounts": [
+      250,
+      35,
+      1
+    ]
+  },
+  {
+    "Id": 4,
+    "CurrencyType": 6103,
+    "Value": 3.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6009,
+      6007,
+      6008,
+      6005
+    ],
+    "MaterialCounts": [
+      50,
+      30,
+      60,
+      1
+    ]
+  },
+  {
+    "Id": 5,
+    "CurrencyType": 6104,
+    "Value": 5.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6009,
+      6007,
+      6008
+    ],
+    "MaterialCounts": [
+      150,
+      15,
+      120
+    ]
+  },
+  {
+    "Id": 6,
+    "CurrencyType": 6105,
+    "Value": 5.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6009,
+      6002,
+      6008
+    ],
+    "MaterialCounts": [
+      150,
+      25,
+      120
+    ]
+  },
+  {
+    "Id": 7,
+    "CurrencyType": 6106,
+    "Value": 5.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6009,
+      6002,
+      6007
+    ],
+    "MaterialCounts": [
+      200,
+      30,
+      20
+    ]
+  },
+  {
+    "Id": 8,
+    "CurrencyType": 6107,
+    "Value": 5.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6007,
+      6008,
+      6005
+    ],
+    "MaterialCounts": [
+      15,
+      50,
+      2
+    ]
+  },
+  {
+    "Id": 9,
+    "CurrencyType": 6108,
+    "Value": 5.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6002,
+      6007,
+      6008,
+      6005
+    ],
+    "MaterialCounts": [
+      40,
+      10,
+      30,
+      1
+    ]
+  }
+]

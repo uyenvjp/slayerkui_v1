@@ -1,0 +1,9 @@
+[
+  {
+    "Id": 1,
+    "DailyCount": 5,
+    "ConsumeCurrencyType": 1,
+    "ConsumeAmount": 500,
+    "CooldownSeconds": 300
+  }
+]

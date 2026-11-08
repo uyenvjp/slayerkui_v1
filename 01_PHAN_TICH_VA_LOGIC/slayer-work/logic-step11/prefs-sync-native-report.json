@@ -1,0 +1,9 @@
+{
+  "connected_sequences": 192,
+  "sequence_actions": 768,
+  "callback_contracts": 4,
+  "signal_cases": 4,
+  "instruction_steps": 97920,
+  "distinct_instructions": 472,
+  "scope": "Original RequestServerSync.MoveNext + callback + WaitForSignal Signal/Reset + AwaitForSignal.UniTaskWait.MoveNext + ResetAllDirtyFlag and SetString bodies linked. Explicit UniTask wrapper/builder/interface dispatch, frame scheduler, allocations, RPC-response fixtures and unpatched IFix. No game/RPC execution, exceptions/unwind or live scheduler parity."
+}

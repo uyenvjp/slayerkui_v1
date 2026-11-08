@@ -1,0 +1,163 @@
+[
+  {
+    "Id": 0,
+    "PlayerClassLimit": 0,
+    "BonusFactor": 0,
+    "DmgFactor": "1",
+    "DmgFactorSerialized": "1"
+  },
+  {
+    "Id": 1,
+    "PlayerClassLimit": 5,
+    "BonusFactor": 3,
+    "DmgFactor": "5",
+    "DmgFactorSerialized": "5"
+  },
+  {
+    "Id": 2,
+    "PlayerClassLimit": 6,
+    "BonusFactor": 5,
+    "DmgFactor": "10",
+    "DmgFactorSerialized": "10"
+  },
+  {
+    "Id": 3,
+    "PlayerClassLimit": 7,
+    "BonusFactor": 8,
+    "DmgFactor": "1000",
+    "DmgFactorSerialized": "1000"
+  },
+  {
+    "Id": 4,
+    "PlayerClassLimit": 8,
+    "BonusFactor": 9,
+    "DmgFactor": "10000",
+    "DmgFactorSerialized": "10000"
+  },
+  {
+    "Id": 5,
+    "PlayerClassLimit": 9,
+    "BonusFactor": 11,
+    "DmgFactor": "100000",
+    "DmgFactorSerialized": "100000"
+  },
+  {
+    "Id": 6,
+    "PlayerClassLimit": 10,
+    "BonusFactor": 14,
+    "DmgFactor": "2000000",
+    "DmgFactorSerialized": "2000000"
+  },
+  {
+    "Id": 7,
+    "PlayerClassLimit": 11,
+    "BonusFactor": 16,
+    "DmgFactor": "40000000",
+    "DmgFactorSerialized": "40000000"
+  },
+  {
+    "Id": 8,
+    "PlayerClassLimit": 12,
+    "BonusFactor": 25,
+    "DmgFactor": "800000000",
+    "DmgFactorSerialized": "800000000"
+  },
+  {
+    "Id": 9,
+    "PlayerClassLimit": 13,
+    "BonusFactor": 32,
+    "DmgFactor": "10000000000",
+    "DmgFactorSerialized": "10000000000"
+  },
+  {
+    "Id": 10,
+    "PlayerClassLimit": 14,
+    "BonusFactor": 39,
+    "DmgFactor": "200000000000",
+    "DmgFactorSerialized": "200000000000"
+  },
+  {
+    "Id": 11,
+    "PlayerClassLimit": 15,
+    "BonusFactor": 50,
+    "DmgFactor": "4000000000000",
+    "DmgFactorSerialized": "4000000000000"
+  },
+  {
+    "Id": 12,
+    "PlayerClassLimit": 16,
+    "BonusFactor": 55,
+    "DmgFactor": "80000000000000",
+    "DmgFactorSerialized": "80000000000000"
+  },
+  {
+    "Id": 13,
+    "PlayerClassLimit": 17,
+    "BonusFactor": 60,
+    "DmgFactor": "1600000000000000",
+    "DmgFactorSerialized": "1600000000000000"
+  },
+  {
+    "Id": 14,
+    "PlayerClassLimit": 18,
+    "BonusFactor": 70,
+    "DmgFactor": "32000000000000000",
+    "DmgFactorSerialized": "32000000000000000"
+  },
+  {
+    "Id": 15,
+    "PlayerClassLimit": 19,
+    "BonusFactor": 82,
+    "DmgFactor": "640000000000000000",
+    "DmgFactorSerialized": "640000000000000000"
+  },
+  {
+    "Id": 16,
+    "PlayerClassLimit": 20,
+    "BonusFactor": 93,
+    "DmgFactor": "12800000000000000000",
+    "DmgFactorSerialized": "12800000000000000000"
+  },
+  {
+    "Id": 17,
+    "PlayerClassLimit": 21,
+    "BonusFactor": 101,
+    "DmgFactor": "256000000000000000000",
+    "DmgFactorSerialized": "256000000000000000000"
+  },
+  {
+    "Id": 18,
+    "PlayerClassLimit": 22,
+    "BonusFactor": 111,
+    "DmgFactor": "5120000000000000000000",
+    "DmgFactorSerialized": "5120000000000000000000"
+  },
+  {
+    "Id": 19,
+    "PlayerClassLimit": 23,
+    "BonusFactor": 123,
+    "DmgFactor": "102400000000000000000000",
+    "DmgFactorSerialized": "102400000000000000000000"
+  },
+  {
+    "Id": 20,
+    "PlayerClassLimit": 24,
+    "BonusFactor": 134,
+    "DmgFactor": "2048000000000000000000000",
+    "DmgFactorSerialized": "2048000000000000000000000"
+  },
+  {
+    "Id": 21,
+    "PlayerClassLimit": 25,
+    "BonusFactor": 146,
+    "DmgFactor": "40960000000000000000000000",
+    "DmgFactorSerialized": "40960000000000000000000000"
+  },
+  {
+    "Id": 22,
+    "PlayerClassLimit": 26,
+    "BonusFactor": 158,
+    "DmgFactor": "819200000000000000000000000",
+    "DmgFactorSerialized": "819200000000000000000000000"
+  }
+]

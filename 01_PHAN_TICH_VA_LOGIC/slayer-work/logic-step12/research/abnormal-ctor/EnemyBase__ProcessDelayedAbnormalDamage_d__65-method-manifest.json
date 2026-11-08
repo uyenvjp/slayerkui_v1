@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6008f8e",
+    "name": ".ctor",
+    "declaring_type_index": "3787",
+    "declaring_type_full_name": "EnemyBase+<ProcessDelayedAbnormalDamage>d__65",
+    "native_va": "0x50b7438",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "10472",
+    "parameter_count": "1",
+    "flags": "6278",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x99794c",
+    "end_va": "0x50b7460",
+    "asm_file": "EnemyBase__ProcessDelayedAbnormalDamage_d__65__.ctor_0x6008f8e.asm"
+  }
+]

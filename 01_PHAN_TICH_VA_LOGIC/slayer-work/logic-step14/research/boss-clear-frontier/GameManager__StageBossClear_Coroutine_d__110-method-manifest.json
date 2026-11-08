@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6006e7b",
+    "name": "MoveNext",
+    "declaring_type_index": "2703",
+    "declaring_type_full_name": "GameManager+<StageBossClear_Coroutine>d__110",
+    "native_va": "0x4e85d4c",
+    "return_type_index": "59073",
+    "return_type_name": "bool",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "481",
+    "iflags": "0",
+    "slot": "6",
+    "metadata_record_offset": "0x9556ec",
+    "end_va": "0x4e86d70",
+    "asm_file": "GameManager__StageBossClear_Coroutine_d__110__MoveNext_0x6006e7b.asm"
+  }
+]

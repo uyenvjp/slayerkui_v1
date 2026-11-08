@@ -1,0 +1,6 @@
+{
+  "passed": 630,
+  "native_method_bodies": 16,
+  "contracts": 6,
+  "scope": "Native getter flow with explicit external dependencies; no Unity/gameplay parity claim."
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 1,
+    "RepeatQuestType": 0,
+    "ActionConditionType": 17
+  },
+  {
+    "Id": 2,
+    "RepeatQuestType": 1,
+    "ActionConditionType": 2
+  },
+  {
+    "Id": 3,
+    "RepeatQuestType": 2,
+    "ActionConditionType": 16
+  },
+  {
+    "Id": 4,
+    "RepeatQuestType": 3,
+    "ActionConditionType": 4
+  },
+  {
+    "Id": 5,
+    "RepeatQuestType": 4,
+    "ActionConditionType": 7
+  },
+  {
+    "Id": 6,
+    "RepeatQuestType": 5,
+    "ActionConditionType": 5
+  },
+  {
+    "Id": 7,
+    "RepeatQuestType": 6,
+    "ActionConditionType": 6
+  },
+  {
+    "Id": 8,
+    "RepeatQuestType": 7,
+    "ActionConditionType": 8
+  },
+  {
+    "Id": 9,
+    "RepeatQuestType": 8,
+    "ActionConditionType": 9
+  },
+  {
+    "Id": 10,
+    "RepeatQuestType": 9,
+    "ActionConditionType": 10
+  }
+]

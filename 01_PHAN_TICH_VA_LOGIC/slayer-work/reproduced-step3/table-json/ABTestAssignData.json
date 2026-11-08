@@ -1,0 +1,68 @@
+[
+  {
+    "Id": 4,
+    "MinVersion": "600.3.4",
+    "MaxVersion": "600.3.4",
+    "SelectedGroup": 1
+  },
+  {
+    "Id": 5,
+    "MinVersion": "600.3.7",
+    "MaxVersion": "600.3.7",
+    "SelectedGroup": 1
+  },
+  {
+    "Id": 7,
+    "MinVersion": "600.5.8",
+    "MaxVersion": "600.5.8",
+    "SelectedGroup": 1
+  },
+  {
+    "Id": 8,
+    "MinVersion": "600.6.1",
+    "MaxVersion": "600.6.4",
+    "SelectedGroup": 2
+  },
+  {
+    "Id": 9,
+    "MinVersion": "600.6.5",
+    "MaxVersion": "600.6.5",
+    "SelectedGroup": 2
+  },
+  {
+    "Id": 10,
+    "MinVersion": "600.7.6",
+    "MaxVersion": "600.7.6",
+    "SelectedGroup": 1
+  },
+  {
+    "Id": 11,
+    "MinVersion": "600.8.6",
+    "MaxVersion": "600.9.0",
+    "SelectedGroup": 2
+  },
+  {
+    "Id": 12,
+    "MinVersion": "600.9.1",
+    "MaxVersion": "999.999.999",
+    "SelectedGroup": 1
+  },
+  {
+    "Id": 13,
+    "MinVersion": "600.9.3",
+    "MaxVersion": "600.9.6",
+    "SelectedGroup": 1
+  },
+  {
+    "Id": 14,
+    "MinVersion": "700.0.3",
+    "MaxVersion": "700.0.3",
+    "SelectedGroup": 1
+  },
+  {
+    "Id": 15,
+    "MinVersion": "700.0.4",
+    "MaxVersion": "999.999.999",
+    "SelectedGroup": 0
+  }
+]

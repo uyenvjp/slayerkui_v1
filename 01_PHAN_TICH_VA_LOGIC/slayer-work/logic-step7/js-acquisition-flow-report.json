@@ -1,0 +1,4 @@
+{
+  "passed": 144,
+  "scope": "Two client queue method bodies with explicit downstream hooks."
+}

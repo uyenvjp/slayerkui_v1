@@ -1,0 +1,110 @@
+[
+  {
+    "Id": 1,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 8500
+  },
+  {
+    "Id": 2,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 10100
+  },
+  {
+    "Id": 3,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 11800
+  },
+  {
+    "Id": 4,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 13600
+  },
+  {
+    "Id": 5,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 15500
+  },
+  {
+    "Id": 6,
+    "AwakeningNeedCount": 4,
+    "LightShardNeedCount": 0,
+    "InitValue": 23500
+  },
+  {
+    "Id": 7,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 25500
+  },
+  {
+    "Id": 8,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 28000
+  },
+  {
+    "Id": 9,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 31000
+  },
+  {
+    "Id": 10,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 34500
+  },
+  {
+    "Id": 11,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 38500
+  },
+  {
+    "Id": 12,
+    "AwakeningNeedCount": 4,
+    "LightShardNeedCount": 0,
+    "InitValue": 53500
+  },
+  {
+    "Id": 13,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 64200
+  },
+  {
+    "Id": 14,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 74400
+  },
+  {
+    "Id": 15,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 85500
+  },
+  {
+    "Id": 16,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 97400
+  },
+  {
+    "Id": 17,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0,
+    "InitValue": 109000
+  },
+  {
+    "Id": 18,
+    "AwakeningNeedCount": 0,
+    "LightShardNeedCount": 10000,
+    "InitValue": 170000
+  }
+]

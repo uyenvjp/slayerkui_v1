@@ -1,0 +1,132 @@
+[
+  {
+    "Id": 1,
+    "CostCurrencyTypes": 1,
+    "Price": 100
+  },
+  {
+    "Id": 2,
+    "CostCurrencyTypes": 1,
+    "Price": 200
+  },
+  {
+    "Id": 3,
+    "CostCurrencyTypes": 1,
+    "Price": 300
+  },
+  {
+    "Id": 4,
+    "CostCurrencyTypes": 1,
+    "Price": 400
+  },
+  {
+    "Id": 5,
+    "CostCurrencyTypes": 1,
+    "Price": 500
+  },
+  {
+    "Id": 6,
+    "CostCurrencyTypes": 1,
+    "Price": 600
+  },
+  {
+    "Id": 7,
+    "CostCurrencyTypes": 1,
+    "Price": 700
+  },
+  {
+    "Id": 8,
+    "CostCurrencyTypes": 1,
+    "Price": 800
+  },
+  {
+    "Id": 9,
+    "CostCurrencyTypes": 1,
+    "Price": 900
+  },
+  {
+    "Id": 10,
+    "CostCurrencyTypes": 1,
+    "Price": 1000
+  },
+  {
+    "Id": 11,
+    "CostCurrencyTypes": 1,
+    "Price": 1100
+  },
+  {
+    "Id": 12,
+    "CostCurrencyTypes": 1,
+    "Price": 1200
+  },
+  {
+    "Id": 13,
+    "CostCurrencyTypes": 1,
+    "Price": 1300
+  },
+  {
+    "Id": 14,
+    "CostCurrencyTypes": 1,
+    "Price": 1400
+  },
+  {
+    "Id": 15,
+    "CostCurrencyTypes": 1,
+    "Price": 1500
+  },
+  {
+    "Id": 16,
+    "CostCurrencyTypes": 1,
+    "Price": 1600
+  },
+  {
+    "Id": 17,
+    "CostCurrencyTypes": 1,
+    "Price": 1700
+  },
+  {
+    "Id": 18,
+    "CostCurrencyTypes": 1,
+    "Price": 1800
+  },
+  {
+    "Id": 19,
+    "CostCurrencyTypes": 1,
+    "Price": 1900
+  },
+  {
+    "Id": 20,
+    "CostCurrencyTypes": 1,
+    "Price": 2000
+  },
+  {
+    "Id": 21,
+    "CostCurrencyTypes": 1,
+    "Price": 2100
+  },
+  {
+    "Id": 22,
+    "CostCurrencyTypes": 1,
+    "Price": 2200
+  },
+  {
+    "Id": 23,
+    "CostCurrencyTypes": 1,
+    "Price": 2300
+  },
+  {
+    "Id": 24,
+    "CostCurrencyTypes": 1,
+    "Price": 2400
+  },
+  {
+    "Id": 25,
+    "CostCurrencyTypes": 1,
+    "Price": 2500
+  },
+  {
+    "Id": 26,
+    "CostCurrencyTypes": 1,
+    "Price": 2600
+  }
+]

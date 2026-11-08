@@ -1,0 +1,27 @@
+{
+  "cases": 188,
+  "entry_cases": {
+    "wave": 120,
+    "box": 36,
+    "death": 32
+  },
+  "stage_table_rows": [
+    0,
+    120,
+    121
+  ],
+  "contract_cases": 26,
+  "instruction_steps_on_completed_runs": 266327,
+  "distinct_instructions": 2029,
+  "distinct_branch_outcomes": 286,
+  "input_table_sha256": {
+    "StageInfoBaseData.json": "557c5c32946197b086a1be88669748c534c57f3aded4897d763e4f883ce4fa44",
+    "MonsterDistanceInfoBaseData.json": "539aa111876cb76a44e117705693889a9809c5186f5d104f8600a29f79e68fa5",
+    "MonsterInfoBaseData.json": "43dbd977dd13831b6f1020f82d8ecc1ea18936d73914929aca77eb5c97046435"
+  },
+  "float_constants_le": {
+    "forwardEpsilon": "17b7d138",
+    "normalAttackSpeed": "3333333f"
+  },
+  "scope": "Original mode0 death continuation, Start_MakeEnemy_Stage, MakeEnemy_Stage, StageMonsterIndex, get_enemyHp, MakeEnemy_RewardBox, StageBar_Update and Character setters. Explicit input values, pool, RNG results, Unity, image/theme setup, List.Remove/AddWithResize, and coroutine dependencies."
+}

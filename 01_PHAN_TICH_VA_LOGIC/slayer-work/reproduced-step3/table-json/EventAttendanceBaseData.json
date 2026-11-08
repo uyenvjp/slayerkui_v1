@@ -1,0 +1,322 @@
+[
+  {
+    "Id": 1,
+    "EventType": 20,
+    "AttendanceDay": 1,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 10000
+  },
+  {
+    "Id": 2,
+    "EventType": 20,
+    "AttendanceDay": 2,
+    "BaseRewardType": 60,
+    "BaseRewardIndex": 29,
+    "BaseRewardCount": 1
+  },
+  {
+    "Id": 3,
+    "EventType": 20,
+    "AttendanceDay": 3,
+    "BaseRewardType": 10,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 50
+  },
+  {
+    "Id": 4,
+    "EventType": 20,
+    "AttendanceDay": 4,
+    "BaseRewardType": 104,
+    "BaseRewardIndex": 17,
+    "BaseRewardCount": 3
+  },
+  {
+    "Id": 5,
+    "EventType": 20,
+    "AttendanceDay": 5,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 50000
+  },
+  {
+    "Id": 6,
+    "EventType": 20,
+    "AttendanceDay": 6,
+    "BaseRewardType": 19,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 30
+  },
+  {
+    "Id": 7,
+    "EventType": 20,
+    "AttendanceDay": 7,
+    "BaseRewardType": 104,
+    "BaseRewardIndex": 22,
+    "BaseRewardCount": 1
+  },
+  {
+    "Id": 8,
+    "EventType": 20,
+    "AttendanceDay": 8,
+    "BaseRewardType": 10,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 50
+  },
+  {
+    "Id": 9,
+    "EventType": 20,
+    "AttendanceDay": 9,
+    "BaseRewardType": 18,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 30
+  },
+  {
+    "Id": 10,
+    "EventType": 20,
+    "AttendanceDay": 10,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 100000
+  },
+  {
+    "Id": 11,
+    "EventType": 26,
+    "AttendanceDay": 1,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 5000
+  },
+  {
+    "Id": 12,
+    "EventType": 26,
+    "AttendanceDay": 2,
+    "BaseRewardType": 7,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 500
+  },
+  {
+    "Id": 13,
+    "EventType": 26,
+    "AttendanceDay": 3,
+    "BaseRewardType": 60,
+    "BaseRewardIndex": 49,
+    "BaseRewardCount": 1
+  },
+  {
+    "Id": 14,
+    "EventType": 26,
+    "AttendanceDay": 4,
+    "BaseRewardType": 7,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 5000
+  },
+  {
+    "Id": 15,
+    "EventType": 26,
+    "AttendanceDay": 5,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 100000
+  },
+  {
+    "Id": 16,
+    "EventType": 26,
+    "AttendanceDay": 6,
+    "BaseRewardType": 104,
+    "BaseRewardIndex": 22,
+    "BaseRewardCount": 1
+  },
+  {
+    "Id": 17,
+    "EventType": 26,
+    "AttendanceDay": 7,
+    "BaseRewardType": 20,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 12500
+  },
+  {
+    "Id": 18,
+    "EventType": 26,
+    "AttendanceDay": 8,
+    "BaseRewardType": 7,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 10000
+  },
+  {
+    "Id": 19,
+    "EventType": 26,
+    "AttendanceDay": 9,
+    "BaseRewardType": 10,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 50
+  },
+  {
+    "Id": 20,
+    "EventType": 26,
+    "AttendanceDay": 10,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 200000
+  },
+  {
+    "Id": 21,
+    "EventType": 33,
+    "AttendanceDay": 1,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 10000
+  },
+  {
+    "Id": 22,
+    "EventType": 33,
+    "AttendanceDay": 2,
+    "BaseRewardType": 60,
+    "BaseRewardIndex": 73,
+    "BaseRewardCount": 1
+  },
+  {
+    "Id": 23,
+    "EventType": 33,
+    "AttendanceDay": 3,
+    "BaseRewardType": 10,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 30
+  },
+  {
+    "Id": 24,
+    "EventType": 33,
+    "AttendanceDay": 4,
+    "BaseRewardType": 104,
+    "BaseRewardIndex": 17,
+    "BaseRewardCount": 3
+  },
+  {
+    "Id": 25,
+    "EventType": 33,
+    "AttendanceDay": 5,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 50000
+  },
+  {
+    "Id": 26,
+    "EventType": 33,
+    "AttendanceDay": 6,
+    "BaseRewardType": 19,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 10
+  },
+  {
+    "Id": 27,
+    "EventType": 33,
+    "AttendanceDay": 7,
+    "BaseRewardType": 104,
+    "BaseRewardIndex": 22,
+    "BaseRewardCount": 1
+  },
+  {
+    "Id": 28,
+    "EventType": 33,
+    "AttendanceDay": 8,
+    "BaseRewardType": 10,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 30
+  },
+  {
+    "Id": 29,
+    "EventType": 33,
+    "AttendanceDay": 9,
+    "BaseRewardType": 18,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 10
+  },
+  {
+    "Id": 30,
+    "EventType": 33,
+    "AttendanceDay": 10,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 100000
+  },
+  {
+    "Id": 31,
+    "EventType": 44,
+    "AttendanceDay": 1,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 10000
+  },
+  {
+    "Id": 32,
+    "EventType": 44,
+    "AttendanceDay": 2,
+    "BaseRewardType": 60,
+    "BaseRewardIndex": 122,
+    "BaseRewardCount": 1
+  },
+  {
+    "Id": 33,
+    "EventType": 44,
+    "AttendanceDay": 3,
+    "BaseRewardType": 10,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 30
+  },
+  {
+    "Id": 34,
+    "EventType": 44,
+    "AttendanceDay": 4,
+    "BaseRewardType": 104,
+    "BaseRewardIndex": 17,
+    "BaseRewardCount": 3
+  },
+  {
+    "Id": 35,
+    "EventType": 44,
+    "AttendanceDay": 5,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 50000
+  },
+  {
+    "Id": 36,
+    "EventType": 44,
+    "AttendanceDay": 6,
+    "BaseRewardType": 19,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 10
+  },
+  {
+    "Id": 37,
+    "EventType": 44,
+    "AttendanceDay": 7,
+    "BaseRewardType": 104,
+    "BaseRewardIndex": 22,
+    "BaseRewardCount": 1
+  },
+  {
+    "Id": 38,
+    "EventType": 44,
+    "AttendanceDay": 8,
+    "BaseRewardType": 10,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 30
+  },
+  {
+    "Id": 39,
+    "EventType": 44,
+    "AttendanceDay": 9,
+    "BaseRewardType": 18,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 10
+  },
+  {
+    "Id": 40,
+    "EventType": 44,
+    "AttendanceDay": 10,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 100000
+  }
+]

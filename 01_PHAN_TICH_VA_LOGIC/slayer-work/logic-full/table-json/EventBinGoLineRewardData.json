@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 0,
+    "LineType": 0,
+    "LineIndex": 0,
+    "RewardCurrency": 1,
+    "Amount": 5000
+  },
+  {
+    "Id": 1,
+    "LineType": 0,
+    "LineIndex": 1,
+    "RewardCurrency": 5,
+    "Amount": 10000
+  },
+  {
+    "Id": 2,
+    "LineType": 0,
+    "LineIndex": 2,
+    "RewardCurrency": 18,
+    "Amount": 5
+  },
+  {
+    "Id": 3,
+    "LineType": 0,
+    "LineIndex": 3,
+    "RewardCurrency": 11,
+    "Amount": 10000
+  },
+  {
+    "Id": 4,
+    "LineType": 0,
+    "LineIndex": 4,
+    "RewardCurrency": 10,
+    "Amount": 10
+  },
+  {
+    "Id": 5,
+    "LineType": 1,
+    "LineIndex": 0,
+    "RewardCurrency": 1,
+    "Amount": 10000
+  },
+  {
+    "Id": 6,
+    "LineType": 1,
+    "LineIndex": 1,
+    "RewardCurrency": 7,
+    "Amount": 1250
+  },
+  {
+    "Id": 7,
+    "LineType": 1,
+    "LineIndex": 2,
+    "RewardCurrency": 12,
+    "Amount": 10000
+  },
+  {
+    "Id": 8,
+    "LineType": 1,
+    "LineIndex": 3,
+    "RewardCurrency": 19,
+    "Amount": 5
+  },
+  {
+    "Id": 9,
+    "LineType": 1,
+    "LineIndex": 4,
+    "RewardCurrency": 3,
+    "Amount": 10000
+  },
+  {
+    "Id": 10,
+    "LineType": 2,
+    "LineIndex": 0,
+    "RewardCurrency": 10,
+    "Amount": 10
+  },
+  {
+    "Id": 11,
+    "LineType": 3,
+    "LineIndex": 0,
+    "RewardCurrency": 7,
+    "Amount": 2500
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6007635",
+    "name": "MoveNext",
+    "declaring_type_index": "2955",
+    "declaring_type_full_name": "StatManager+<LevelUpDelay_IE>d__49",
+    "native_va": "0x4f22318",
+    "return_type_index": "59073",
+    "return_type_name": "bool",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "481",
+    "iflags": "0",
+    "slot": "6",
+    "metadata_record_offset": "0x964e2c",
+    "end_va": "0x4f223d4",
+    "asm_file": "StatManager__LevelUpDelay_IE_d__49__MoveNext_0x6007635.asm"
+  }
+]

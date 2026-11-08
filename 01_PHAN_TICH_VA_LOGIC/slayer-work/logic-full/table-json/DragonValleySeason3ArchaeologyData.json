@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "MinDealCount": 1,
+    "MaxDealCount": 3,
+    "GemFactor": 1.0,
+    "DealFactor": 20.0,
+    "NeedMaterialType": 6010,
+    "NeedMaterialCount": 1,
+    "FossilPieceCount": 7,
+    "DragonValleyFossilBuffType": 1,
+    "FossilBuffValue": 4.0,
+    "DragonValleyFossilCompleteBuffType": 1,
+    "FossilCompleteBuffValue": 100.0
+  },
+  {
+    "Id": 2,
+    "MinDealCount": 0,
+    "MaxDealCount": 1,
+    "GemFactor": 1.0,
+    "DealFactor": 20.0,
+    "NeedMaterialType": 6012,
+    "NeedMaterialCount": 2,
+    "FossilPieceCount": 8,
+    "DragonValleyFossilBuffType": 1,
+    "FossilBuffValue": 4.0,
+    "DragonValleyFossilCompleteBuffType": 2,
+    "FossilCompleteBuffValue": 100.0
+  },
+  {
+    "Id": 3,
+    "MinDealCount": 0,
+    "MaxDealCount": 2,
+    "GemFactor": 1.0,
+    "DealFactor": 20.0,
+    "NeedMaterialType": 6011,
+    "NeedMaterialCount": 5,
+    "FossilPieceCount": 9,
+    "DragonValleyFossilBuffType": 1,
+    "FossilBuffValue": 4.0,
+    "DragonValleyFossilCompleteBuffType": 3,
+    "FossilCompleteBuffValue": 10.0
+  },
+  {
+    "Id": 4,
+    "MinDealCount": 0,
+    "MaxDealCount": 3,
+    "GemFactor": 1.0,
+    "DealFactor": 20.0,
+    "NeedMaterialType": 6001,
+    "NeedMaterialCount": 10,
+    "FossilPieceCount": 6,
+    "DragonValleyFossilBuffType": 1,
+    "FossilBuffValue": 4.0,
+    "DragonValleyFossilCompleteBuffType": 4,
+    "FossilCompleteBuffValue": 300.0
+  }
+]

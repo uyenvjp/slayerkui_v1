@@ -1,0 +1,4 @@
+{
+  "passed": 704,
+  "scope": "Receive-EXP paths with original aggregate getter substituted for the prior scalar dependency."
+}

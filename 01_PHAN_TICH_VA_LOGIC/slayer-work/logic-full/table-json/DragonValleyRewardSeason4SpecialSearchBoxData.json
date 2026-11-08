@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 0,
+    "Grade": 1,
+    "CurrencyType": 6000,
+    "Amount": 2,
+    "CliffProb": [
+      0.0
+    ]
+  },
+  {
+    "Id": 1,
+    "Grade": 4,
+    "CurrencyType": 6209,
+    "Amount": 1,
+    "CliffProb": [
+      20.0
+    ]
+  },
+  {
+    "Id": 2,
+    "Grade": 5,
+    "CurrencyType": 6210,
+    "Amount": 1,
+    "CliffProb": [
+      5.0
+    ]
+  }
+]

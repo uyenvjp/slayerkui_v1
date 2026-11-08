@@ -1,0 +1,5 @@
+{
+  "passed": 1232,
+  "contracts": 2,
+  "scope": "Exact EXP BigInt updates, buff order, conditional RNG, local level prediction under explicit dependencies."
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 20,
+    "EventType": 20,
+    "DisplayCurrency": [
+      238,
+      239
+    ],
+    "RewardType": 1,
+    "RewardAmount": 1000,
+    "CheerupMailCostType": 238,
+    "CheerupMailCostValue": 1,
+    "CheerupMailContent": "CHEERUP_MAIL",
+    "CheerupMailRewardType": 131,
+    "CheerupMailRewardValue": 1
+  }
+]

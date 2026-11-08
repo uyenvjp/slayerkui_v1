@@ -1,0 +1,110 @@
+[
+  {
+    "Id": 1,
+    "ProductType": 701,
+    "PromotionIndex": 1,
+    "QuestionNumber": 0,
+    "BaseRewardType": 4,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 3000,
+    "PassRewardType": 1,
+    "PassRewardIndex": 0,
+    "PassRewardCount": 10000
+  },
+  {
+    "Id": 2,
+    "ProductType": 701,
+    "PromotionIndex": 1,
+    "QuestionNumber": 1,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 3000,
+    "PassRewardType": 1,
+    "PassRewardIndex": 0,
+    "PassRewardCount": 10000
+  },
+  {
+    "Id": 3,
+    "ProductType": 701,
+    "PromotionIndex": 1,
+    "QuestionNumber": 2,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 3000,
+    "PassRewardType": 100,
+    "PassRewardIndex": 17,
+    "PassRewardCount": 1
+  },
+  {
+    "Id": 4,
+    "ProductType": 702,
+    "PromotionIndex": 2,
+    "QuestionNumber": 0,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 3000,
+    "PassRewardType": 1,
+    "PassRewardIndex": 0,
+    "PassRewardCount": 20000
+  },
+  {
+    "Id": 5,
+    "ProductType": 702,
+    "PromotionIndex": 2,
+    "QuestionNumber": 1,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 3000,
+    "PassRewardType": 100,
+    "PassRewardIndex": 19,
+    "PassRewardCount": 2
+  },
+  {
+    "Id": 6,
+    "ProductType": 702,
+    "PromotionIndex": 2,
+    "QuestionNumber": 2,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 3000,
+    "PassRewardType": 101,
+    "PassRewardIndex": 20,
+    "PassRewardCount": 1
+  },
+  {
+    "Id": 7,
+    "ProductType": 703,
+    "PromotionIndex": 3,
+    "QuestionNumber": 0,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 3000,
+    "PassRewardType": 1,
+    "PassRewardIndex": 0,
+    "PassRewardCount": 30000
+  },
+  {
+    "Id": 8,
+    "ProductType": 703,
+    "PromotionIndex": 3,
+    "QuestionNumber": 1,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 3000,
+    "PassRewardType": 4,
+    "PassRewardIndex": 0,
+    "PassRewardCount": 30000
+  },
+  {
+    "Id": 9,
+    "ProductType": 703,
+    "PromotionIndex": 3,
+    "QuestionNumber": 2,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 3000,
+    "PassRewardType": 100,
+    "PassRewardIndex": 20,
+    "PassRewardCount": 1
+  }
+]

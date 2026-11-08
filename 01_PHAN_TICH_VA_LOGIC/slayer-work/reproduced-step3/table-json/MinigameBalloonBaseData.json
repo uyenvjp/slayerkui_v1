@@ -1,0 +1,79 @@
+[
+  {
+    "Id": 1,
+    "level": 1,
+    "Rate": 95.0,
+    "CurrencyTypes": 1,
+    "amount": 100
+  },
+  {
+    "Id": 2,
+    "level": 2,
+    "Rate": 90.0,
+    "CurrencyTypes": 1,
+    "amount": 200
+  },
+  {
+    "Id": 3,
+    "level": 3,
+    "Rate": 85.0,
+    "CurrencyTypes": 1,
+    "amount": 400
+  },
+  {
+    "Id": 4,
+    "level": 4,
+    "Rate": 80.0,
+    "CurrencyTypes": 1,
+    "amount": 800
+  },
+  {
+    "Id": 5,
+    "level": 5,
+    "Rate": 75.0,
+    "CurrencyTypes": 1,
+    "amount": 1600
+  },
+  {
+    "Id": 6,
+    "level": 6,
+    "Rate": 70.0,
+    "CurrencyTypes": 1,
+    "amount": 3200
+  },
+  {
+    "Id": 7,
+    "level": 7,
+    "Rate": 65.0,
+    "CurrencyTypes": 1,
+    "amount": 6400
+  },
+  {
+    "Id": 8,
+    "level": 8,
+    "Rate": 60.0,
+    "CurrencyTypes": 1,
+    "amount": 12800
+  },
+  {
+    "Id": 9,
+    "level": 9,
+    "Rate": 55.0,
+    "CurrencyTypes": 1,
+    "amount": 25600
+  },
+  {
+    "Id": 10,
+    "level": 10,
+    "Rate": 50.0,
+    "CurrencyTypes": 1,
+    "amount": 51200
+  },
+  {
+    "Id": 11,
+    "level": 11,
+    "Rate": 0.0,
+    "CurrencyTypes": 1,
+    "amount": 102400
+  }
+]

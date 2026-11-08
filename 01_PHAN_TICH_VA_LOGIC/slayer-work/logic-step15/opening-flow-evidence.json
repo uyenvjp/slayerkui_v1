@@ -1,0 +1,230 @@
+{
+  "package": "com.gear2.growslayer",
+  "version": "700.0.4",
+  "version_code": 705,
+  "native_sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+  "checks": {
+    "native_words": 26,
+    "direct_branches": 16,
+    "field_offsets": 13,
+    "resolved_literals": 4,
+    "resolved_callbacks": 5,
+    "opening_animation_clips": 6,
+    "validated_sign_buttons": 5
+  },
+  "resolved_literals": {
+    "0xa3efd40": "state",
+    "0xa4176d8": "Off",
+    "0xa41f8d8": "GearMain_RPG",
+    "0xa421038": "startscene"
+  },
+  "resolved_callbacks": {
+    "0xa43b978": {
+      "method": "OpeningDialogue",
+      "va": "0x5241848"
+    },
+    "0xa43b988": {
+      "method": "LeftSelect_Tutorial0",
+      "va": "0x5241b04"
+    },
+    "0xa43b990": {
+      "method": "RightSelect_Tutorial0",
+      "va": "0x5241be8"
+    },
+    "0xa43b998": {
+      "method": "<LeftSelect_Tutorial0>b__12_0",
+      "va": "0x5241f2c"
+    },
+    "0xa43b9a0": {
+      "method": "<RightSelect_Tutorial0>b__13_0",
+      "va": "0x5242014"
+    }
+  },
+  "companion_index": {
+    "0": [
+      "FRIEND_ARCHER"
+    ],
+    "1": [
+      "FRIEND_WARRIOR"
+    ],
+    "2": [
+      "FRIEND_NINJA"
+    ],
+    "3": [
+      "FRIEND_MAGE"
+    ]
+  },
+  "stories": {
+    "Tutorial0": {
+      "Id": "Tutorial0",
+      "StoryType": 0,
+      "TypeIndex": 0,
+      "first": 0,
+      "last": 3,
+      "Select": false,
+      "LeftSelect": "L",
+      "RightSelect": "R"
+    },
+    "Tutorial1": {
+      "Id": "Tutorial1",
+      "StoryType": 0,
+      "TypeIndex": 1,
+      "first": 10,
+      "last": 12,
+      "Select": true,
+      "LeftSelect": "DIALOGUE_SELECT_001",
+      "RightSelect": "DIALOGUE_SELECT_002"
+    },
+    "Tutorial2": {
+      "Id": "Tutorial2",
+      "StoryType": 0,
+      "TypeIndex": 2,
+      "first": 20,
+      "last": 21,
+      "Select": false,
+      "LeftSelect": "L",
+      "RightSelect": "R"
+    },
+    "Tutorial3": {
+      "Id": "Tutorial3",
+      "StoryType": 0,
+      "TypeIndex": 3,
+      "first": 30,
+      "last": 30,
+      "Select": false,
+      "LeftSelect": "L",
+      "RightSelect": "R"
+    }
+  },
+  "dialogue_key_rows": [
+    {
+      "Id": 0,
+      "Who": 0,
+      "Icon": "None",
+      "IsSilhouette": false,
+      "Name": "DIALOGUE_WHO_3",
+      "Sentence": "DIALOGUE_0000",
+      "IconTypeIndex": -1,
+      "CallbackType": 0
+    },
+    {
+      "Id": 1,
+      "Who": 0,
+      "Icon": "None",
+      "IsSilhouette": false,
+      "Name": "DIALOGUE_WHO_3",
+      "Sentence": "DIALOGUE_0001",
+      "IconTypeIndex": -1,
+      "CallbackType": 0
+    },
+    {
+      "Id": 2,
+      "Who": 0,
+      "Icon": "None",
+      "IsSilhouette": false,
+      "Name": "DIALOGUE_WHO_3",
+      "Sentence": "DIALOGUE_0002",
+      "IconTypeIndex": -1,
+      "CallbackType": 0
+    },
+    {
+      "Id": 3,
+      "Who": 0,
+      "Icon": "None",
+      "IsSilhouette": false,
+      "Name": "DIALOGUE_WHO_3",
+      "Sentence": "DIALOGUE_0003",
+      "IconTypeIndex": -1,
+      "CallbackType": 0
+    },
+    {
+      "Id": 10,
+      "Who": 0,
+      "Icon": "None",
+      "IsSilhouette": false,
+      "Name": "DIALOGUE_WHO_3",
+      "Sentence": "DIALOGUE_0010",
+      "IconTypeIndex": -1,
+      "CallbackType": 0
+    },
+    {
+      "Id": 11,
+      "Who": 1,
+      "Icon": "Tutor",
+      "IsSilhouette": false,
+      "Name": "DIALOGUE_TRAINER",
+      "Sentence": "DIALOGUE_0011",
+      "IconTypeIndex": -1,
+      "CallbackType": 0
+    },
+    {
+      "Id": 12,
+      "Who": 1,
+      "Icon": "Tutor",
+      "IsSilhouette": false,
+      "Name": "DIALOGUE_TRAINER",
+      "Sentence": "DIALOGUE_0012",
+      "IconTypeIndex": -1,
+      "CallbackType": 0
+    },
+    {
+      "Id": 20,
+      "Who": 1,
+      "Icon": "Tutor",
+      "IsSilhouette": false,
+      "Name": "DIALOGUE_TRAINER",
+      "Sentence": "DIALOGUE_0020",
+      "IconTypeIndex": -1,
+      "CallbackType": 0
+    },
+    {
+      "Id": 21,
+      "Who": 1,
+      "Icon": "Tutor",
+      "IsSilhouette": false,
+      "Name": "DIALOGUE_TRAINER",
+      "Sentence": "DIALOGUE_0021",
+      "IconTypeIndex": -1,
+      "CallbackType": 0
+    },
+    {
+      "Id": 30,
+      "Who": 1,
+      "Icon": "Tutor",
+      "IsSilhouette": false,
+      "Name": "DIALOGUE_TRAINER",
+      "Sentence": "DIALOGUE_0030",
+      "IconTypeIndex": -1,
+      "CallbackType": 0
+    }
+  ],
+  "character_creation": {
+    "man_character_id": 0,
+    "woman_character_id": 1,
+    "no_selection_sentinel": -1,
+    "sign_up_request_field": "GrowSlayer.SignUpV2Request.characterId_"
+  },
+  "opening_state": {
+    "name": "state",
+    "source": "DatabaseManager.CharacterNumber",
+    "initial": {
+      "zero": 1,
+      "nonzero": 10
+    },
+    "left_after_tutorial2": {
+      "zero": 3,
+      "nonzero": 30,
+      "delay_seconds": 2
+    },
+    "right": {
+      "zero": 2,
+      "nonzero": 20,
+      "delay_seconds": 3
+    }
+  },
+  "battle_default_appearance_verified": false,
+  "new_account_stage_index_verified": false,
+  "video_reference_verified": false,
+  "native_execution": false,
+  "replacement_assets_created": false
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 0,
+    "Grade": 1,
+    "RewardType": 1,
+    "RewardAmount": 1000,
+    "Rate": 25.0
+  },
+  {
+    "Id": 1,
+    "Grade": 1,
+    "RewardType": 7,
+    "RewardAmount": 250,
+    "Rate": 25.0
+  },
+  {
+    "Id": 2,
+    "Grade": 1,
+    "RewardType": 10,
+    "RewardAmount": 2,
+    "Rate": 25.0
+  },
+  {
+    "Id": 3,
+    "Grade": 1,
+    "RewardType": 20,
+    "RewardAmount": 500,
+    "Rate": 25.0
+  },
+  {
+    "Id": 4,
+    "Grade": 2,
+    "RewardType": 1,
+    "RewardAmount": 2000,
+    "Rate": 25.0
+  },
+  {
+    "Id": 5,
+    "Grade": 2,
+    "RewardType": 7,
+    "RewardAmount": 500,
+    "Rate": 25.0
+  },
+  {
+    "Id": 6,
+    "Grade": 2,
+    "RewardType": 10,
+    "RewardAmount": 4,
+    "Rate": 25.0
+  },
+  {
+    "Id": 7,
+    "Grade": 2,
+    "RewardType": 20,
+    "RewardAmount": 1000,
+    "Rate": 25.0
+  },
+  {
+    "Id": 8,
+    "Grade": 3,
+    "RewardType": 1,
+    "RewardAmount": 4000,
+    "Rate": 25.0
+  },
+  {
+    "Id": 9,
+    "Grade": 3,
+    "RewardType": 7,
+    "RewardAmount": 1000,
+    "Rate": 25.0
+  },
+  {
+    "Id": 10,
+    "Grade": 3,
+    "RewardType": 10,
+    "RewardAmount": 10,
+    "Rate": 25.0
+  },
+  {
+    "Id": 11,
+    "Grade": 3,
+    "RewardType": 20,
+    "RewardAmount": 2000,
+    "Rate": 25.0
+  }
+]

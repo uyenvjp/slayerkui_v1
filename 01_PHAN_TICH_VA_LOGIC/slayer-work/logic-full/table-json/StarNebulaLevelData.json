@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "Level": 1,
+    "NeedMakeCount": 4,
+    "TimeDecreaseFactor": 0,
+    "AtkFactor": 0,
+    "HpFactor": 0,
+    "HealFactor": 0,
+    "MaxLevelAdd": 0
+  },
+  {
+    "Id": 2,
+    "Level": 2,
+    "NeedMakeCount": 10,
+    "TimeDecreaseFactor": 2,
+    "AtkFactor": 50,
+    "HpFactor": 30,
+    "HealFactor": 20,
+    "MaxLevelAdd": 50
+  },
+  {
+    "Id": 3,
+    "Level": 3,
+    "NeedMakeCount": 18,
+    "TimeDecreaseFactor": 4,
+    "AtkFactor": 150,
+    "HpFactor": 90,
+    "HealFactor": 60,
+    "MaxLevelAdd": 100
+  },
+  {
+    "Id": 4,
+    "Level": 4,
+    "NeedMakeCount": 29,
+    "TimeDecreaseFactor": 6,
+    "AtkFactor": 300,
+    "HpFactor": 180,
+    "HealFactor": 120,
+    "MaxLevelAdd": 150
+  },
+  {
+    "Id": 5,
+    "Level": 5,
+    "NeedMakeCount": 41,
+    "TimeDecreaseFactor": 8,
+    "AtkFactor": 500,
+    "HpFactor": 300,
+    "HealFactor": 200,
+    "MaxLevelAdd": 200
+  },
+  {
+    "Id": 6,
+    "Level": 6,
+    "NeedMakeCount": 54,
+    "TimeDecreaseFactor": 10,
+    "AtkFactor": 750,
+    "HpFactor": 450,
+    "HealFactor": 300,
+    "MaxLevelAdd": 250
+  },
+  {
+    "Id": 7,
+    "Level": 7,
+    "NeedMakeCount": 67,
+    "TimeDecreaseFactor": 12,
+    "AtkFactor": 1050,
+    "HpFactor": 630,
+    "HealFactor": 420,
+    "MaxLevelAdd": 300
+  },
+  {
+    "Id": 8,
+    "Level": 8,
+    "NeedMakeCount": 81,
+    "TimeDecreaseFactor": 14,
+    "AtkFactor": 1400,
+    "HpFactor": 840,
+    "HealFactor": 560,
+    "MaxLevelAdd": 350
+  },
+  {
+    "Id": 9,
+    "Level": 9,
+    "NeedMakeCount": 95,
+    "TimeDecreaseFactor": 16,
+    "AtkFactor": 1800,
+    "HpFactor": 1080,
+    "HealFactor": 720,
+    "MaxLevelAdd": 400
+  },
+  {
+    "Id": 10,
+    "Level": 10,
+    "NeedMakeCount": 111,
+    "TimeDecreaseFactor": 18,
+    "AtkFactor": 2250,
+    "HpFactor": 1350,
+    "HealFactor": 900,
+    "MaxLevelAdd": 450
+  },
+  {
+    "Id": 11,
+    "Level": 11,
+    "NeedMakeCount": 128,
+    "TimeDecreaseFactor": 20,
+    "AtkFactor": 2750,
+    "HpFactor": 1650,
+    "HealFactor": 1100,
+    "MaxLevelAdd": 500
+  },
+  {
+    "Id": 12,
+    "Level": 12,
+    "NeedMakeCount": 148,
+    "TimeDecreaseFactor": 22,
+    "AtkFactor": 3300,
+    "HpFactor": 1980,
+    "HealFactor": 1320,
+    "MaxLevelAdd": 600
+  }
+]

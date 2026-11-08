@@ -1,0 +1,8 @@
+{
+  "cases": 1359,
+  "snapshots": 151,
+  "entries": 9,
+  "instruction_steps": 106466,
+  "distinct_instructions": 796,
+  "scope": "Nine native equipment scalar/renew bodies plus EquipmentValue. Original table samples and synthetic edge fixtures; decrypted wrappers, initialized managers and collection lookup/get/set explicitly modeled. No Unity, online IFix, full account or backend parity."
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "MaxClearCount": 4,
+    "MonsterHpFactor": 1.0,
+    "MonsterAtkFactor": 1.0,
+    "BonusPoint": 5000
+  },
+  {
+    "Id": 2,
+    "MaxClearCount": 5,
+    "MonsterHpFactor": 2.299999952316284,
+    "MonsterAtkFactor": 2.299999952316284,
+    "BonusPoint": 7500
+  },
+  {
+    "Id": 3,
+    "MaxClearCount": 5,
+    "MonsterHpFactor": 5.28000020980835,
+    "MonsterAtkFactor": 5.28000020980835,
+    "BonusPoint": 7500
+  },
+  {
+    "Id": 4,
+    "MaxClearCount": 5,
+    "MonsterHpFactor": 12.119999885559082,
+    "MonsterAtkFactor": 12.119999885559082,
+    "BonusPoint": 7500
+  },
+  {
+    "Id": 5,
+    "MaxClearCount": 5,
+    "MonsterHpFactor": 27.860000610351562,
+    "MonsterAtkFactor": 27.860000610351562,
+    "BonusPoint": 7500
+  },
+  {
+    "Id": 6,
+    "MaxClearCount": 6,
+    "MonsterHpFactor": 64.0,
+    "MonsterAtkFactor": 64.0,
+    "BonusPoint": 10000
+  }
+]

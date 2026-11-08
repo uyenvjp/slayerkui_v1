@@ -1,0 +1,1081 @@
+﻿path_id,name,enabled,layer
+49,SkinSlot,0,5
+70,GameObject,1,5
+105,PROB_Panel_SlayerClassGacha_Info,0,5
+152,EnemyBar,0,5
+159,Btn_Start_2,1,5
+183,PlayerClassBattleShield,0,5
+211,Btn_Start_3,1,5
+260,SkinTestBtns,0,5
+293,Panel_SlayerClassGacha,0,5
+301,btn_submenu_playerclass,1,5
+349,Btn_SlayerClass_Fuse,1,5
+365,Btn_Start_Wing,0,5
+401,Btn_MoveToPlayerOption (ContentsPreset),0,5
+403,Panel_SceneChange_BlackOut,0,5
+456,GameObject,1,0
+459,SceneChange,0,0
+516,BTN_STAGE,1,5
+523,Button_SkinGet,0,5
+528,Panel_SCENE,0,5
+628,SkinEquipState,1,5
+655,hand_costume (4),1,0
+681,TXT_SummonSlayerClassAmount,1,5
+697,Btn_For_quest_OFF (2),1,5
+745,Slot_PlayerOption (1),1,5
+753,ObjectPooler_Enemy,1,0
+760,StageSlots,1,5
+785,MiniQuest_2_Heal,1,0
+820,StageBar,1,5
+844,PanelSkinState,1,5
+853,Btn_Start_1,1,5
+871,startsceneNpc_12 (9),1,0
+882,t_playername,1,5
+919,SlayerClassGacha_Select,0,5
+933,Panel_Buy_SkinProduct,0,5
+1019,StartLight (1),1,0
+1026,StartLight,1,0
+1054,BTN_SkinMapSetting,1,5
+1058,Player_Ghostobj,0,9
+1092,Panel_StartCave,0,5
+1111,foot_costume1,0,0
+1154,Panel_CostumeAbility,1,5
+1188,Character,1,0
+1208,UsingSkinCheck,1,5
+1218,SlayerClass_Gacha,1,5
+1226,PlayerClassBattleIceShield,0,5
+1230,Panel_CharacterChange_Confirm,0,5
+1243,Btn_Start (4),1,5
+1252,GameObject,1,5
+1384,Character,1,5
+1396,MiniQuest_1_Hp,1,0
+1449,PanelnewbieQuest_mini,0,5
+1471,GameObject,1,5
+1522,TutorialManager,1,0
+1528,Etc_LightShard_SlayerClass,1,0
+1547,Btn_Quest,0,5
+1577,Slot_PlayerOption (3),1,5
+1591,Panel_PlayerOptionReset,0,5
+1594,MiniQuest_5_AdventureClear,1,0
+1614,Panel_SlayerClass,0,5
+1648,Btn_MoveToWeaponSkin,1,5
+1671,Button_SkinPurchase,0,5
+1698,i_skin,0,5
+1699,Slot_PlayerOption (6),1,5
+1713,PanelSkinCoin,1,5
+1728,GameModeUI,0,5
+1749,Btn_Start,1,5
+1755,GameObject,1,5
+1759,GameObject,1,5
+1765,PanelSkinBattleInfo,0,5
+1784,MiniQuest,1,0
+1803,PlayerClassManager,1,0
+1818,startsceneNpc_12 (11),1,0
+1821,img_SkinCoin,1,5
+1832,Stage_Spirit,1,0
+1874,Btn_Start_2,1,5
+1930,SkinManager,1,0
+1947,MiniQuest_18_AccessoryGacha,1,0
+2167,t_slayerclass,0,5
+2176,PanelButtons_SkinType,1,5
+2217,GameObject,0,5
+2243,t_StageClearExp,1,5
+2257,GameMode,1,0
+2306,SlayerClass_Gacha_11,1,5
+2365,StageBossButton,1,5
+2393,StageSlot,1,0
+2405,StageBar,1,5
+2410,Btn_costume,1,5
+2420,RepeatQuest,0,5
+2488,t_stageName,1,5
+2507,QUEST,0,5
+2550,btn_SlayerClass,1,5
+2589,Btn_Start (3),1,5
+2590,MiniQuest_11_UserLevel,1,0
+2641,SlayerClassSlots,1,5
+2661,Btn_Start_1,1,5
+2664,StageClearImg,0,5
+2678,MiniQuest_17_StatStr,1,0
+2681,title_slayer story,1,5
+2695,Panel_Costume,0,5
+2707,t_stageNumber,1,5
+2750,MiniQuest_8_Stage,1,0
+2791,t_questcontents,1,5
+2800,hand_costume (3),1,0
+2816,GameManager,1,0
+2830,Panel_MiniQuestReward,0,5
+2860,MiniQuest_15_SkillSlotEquip,1,0
+2871,Btn_SlayerClass_Gacha,1,5
+2991,SkinIInfo,1,5
+3004,GameObject,0,5
+3043,SkinSlots,1,5
+3103,SkinEquipState,0,5
+3129,StageUI,1,5
+3148,EffectStart,1,5
+3159,PanelSkinState,0,5
+3168,InputField,1,5
+3210,IMG_SlayerClassGacha1Currency,1,5
+3221,MiniQuest_12_WeaponEquip,1,0
+3262,OtherPlayers,1,0
+3275,Btn_Start (1),1,5
+3302,t_selectCharacter,1,5
+3341,Btn_CharacterChange,1,5
+3349,Slot_PlayerOption,1,5
+3359,MiniQuest_1_Hp,1,0
+3399,GameObject (1),1,5
+3420,PlayerClassBattle_Objects,0,0
+3430,MiniQuestManager,1,0
+3432,Slot_PlayerOption (4),1,5
+3495,GameObject,0,5
+3513,SkinProductSlotTf,1,5
+3540,GameObject,1,5
+3556,IMG_SummonSlayerClassCurrency,1,5
+3612,Panel_CostumeAbility,1,5
+3629,MiniQuest_15_SkillSlotEquip,1,0
+3632,Panel_CharacterChange_Confirm_Free,0,5
+3652,SkinSlotTf,1,5
+3677,SlayerClassManager,1,0
+3714,Slot_StageClearItem,1,0
+3749,Costume,1,9
+3783,GameObject,1,5
+3806,startsceneNpc_6 (1),1,0
+3901,MiniQuest_7_EquipmentGacha,1,0
+3911,SCENE_INFO_GAGES,1,5
+3929,Panel_SlayerClassInfo,0,5
+3971,Btn_Stage,1,5
+3990,Panel_SlayerClassAllFusion,0,5
+4001,Gage_StageGage (1),0,5
+4028,Btn_Start_3,1,5
+4036,MiniQuest_16_SkillUse,1,0
+4055,Btn_Start_3,1,5
+4091,GameObject,0,0
+4100,GameObject,1,5
+4130,des_costumeskin,1,5
+4174,MiniQuest_14_MonsterKillCount,1,0
+4233,PlayerClassBattleShield,0,5
+4241,GameObject,1,5
+4255,Btn_Start_1,1,5
+4271,Btn_For_quest_OFF (3),1,5
+4291,Btn_Start,1,5
+4294,skin,1,5
+4312,BTN_STAGE,1,5
+4338,PanelPlayerOption,1,5
+4341,GameObject,1,5
+4355,GameObject (2),1,0
+4396,GameObject,1,5
+4415,[Tutorialtem],1,0
+4426,Btn_Start_1,1,5
+4438,Panel_CharacterBase,1,5
+4459,Slot_PlayerOption (2),1,5
+4463,SkinProductSlot,0,5
+4544,GameObject,1,0
+4584,MiniQuest_19_AccessoryEquip,1,0
+4628,PanelnewbieQuest,1,5
+4663,SkinBattle_Objects,0,0
+4677,t_Stagetitle,1,0
+4713,startsceneNpc_6 (1),1,0
+4726,Button_Equip_SkinProduct,1,5
+4745,Level_Skin,1,0
+4752,MainSkinTab_Costume,1,5
+4792,Panel_PlayerOption,0,5
+4837,t_costumeName,1,5
+4855,t_skinInfo,1,5
+4885,OtherPlayerSummonPos,1,9
+4893,CharacterDisplayManager,1,0
+4897,SkinBattlePanel,0,5
+4900,t_StageCount,1,5
+4902,Btn_Start,1,5
+4906,GamePlay,1,0
+4952,BTN_CostumeReset,1,5
+4987,startsceneNpc_6 (1),1,0
+5001,GameObject,1,5
+5019,MiniQuest_7_EquipmentGacha,1,0
+5021,Button_skin,1,5
+5022,StageClear_Alarm,0,5
+5032,GameObject (1),1,0
+5048,Button_SkinBattle,1,5
+5066,MiniQuest_6_SkillMake,1,0
+5085,MiniQuest_11_UserLevel,1,0
+5096,MiniQuest_0_Atk,1,0
+5099,GameObject,1,5
+5106,GameObject (1),1,5
+5138,IMG_SlayerClassGacha11Currency,1,5
+5194,Btn_Start (2),1,5
+5233,StageManager,1,0
+5279,CostumeEffect22,0,9
+5293,Btn_Start,1,5
+5305,SceneGearMain_RPG,1,0
+5311,OBJ_SummonSlayerClassPanel,0,5
+5393,bar_startLine,0,5
+5413,Btn_HighSlayer,0,5
+5418,t_NextStageTime,1,5
+5421,Btn_Start_Free,1,5
+5423,i_character,1,5
+5478,t_StageClearGold,1,5
+5519,MiniQuest_8_Stage,1,0
+5617,t_des_stage,1,5
+5623,Panel_SelectCharacter,1,5
+5639,GameObject (1),0,5
+5658,GameObject,1,5
+5696,PanelCurrentStage,1,0
+5699,startsceneNpc_12 (11),1,0
+5762,Panel_CharacterChange,0,5
+5769,GameObject,1,5
+5796,MiniQuest_13_PlayerClass,1,0
+5815,MiniQuest_6_SkillMake,1,0
+5894,MiniQuest_5_AdventureClear,1,0
+5945,Button_Costume,1,5
+6058,startsceneNpc_12 (10),1,0
+6061,Slot_DailyQuest,1,5
+6066,QuestManager,1,0
+6083,HeadSkinSlots,1,5
+6094,Panel_Stage,0,5
+6151,des_costumeskin (1),0,5
+6153,t_questName,1,5
+6245,t_SkinCoin,1,5
+6269,GameObject,1,5
+6297,Btn_MiddleSlayer,0,5
+6332,PanelSkinState_Battle,0,5
+6356,Btn_Start_3,1,5
+6363,PlayerClassBattleSandStormShield,0,5
+6394,GameObject,1,5
+6399,Stage_SoulWeapon,1,0
+6416,Player,1,9
+6449,GameObject (2),1,5
+6463,GameObject,0,0
+6541,startsceneNpc_6 (1),1,0
+6542,SceneLoad,0,0
+6554,Panel_DragonScene,0,5
+6709,Panel_StageClearReward,0,5
+6711,QuestTf,1,5
+6725,SlayerClass_ReGacha_11,1,5
+6728,CostumeEffect,0,9
+6739,MenuButtons_Costume,1,5
+6740,MiniQuest_18_AccessoryGacha,1,0
+6746,GameObject,1,5
+6800,UI_CharacterSelect,1,5
+6826,GameObject,1,5
+6841,Btn_Start_2,1,5
+6852,MultipleEnemyBar,0,5
+6961,Slot_PlayerOption (5),1,5
+6964,MainSkinTab_Head,0,5
+6967,Btn_Start_2,1,5
+7018,MiniQuest_0_Atk,1,0
+7031,GameObject,1,5
+7149,Panel_StageItemInfo,0,5
+7175,DailyQuest,1,5
+7217,SceneChangeEffect,0,5
+7447,CharacterDisplay,0,0
+7489,GameObject,1,0
+7740,GameObject,1,0
+7743,GameObject,1,0
+7747,GameObject,1,0
+7750,GameObject,1,0
+7753,GameObject,1,0
+7755,GameObject,1,0
+7760,GameObject,1,0
+7761,GameObject,1,0
+7766,GameObject,1,0
+7892,Slot_PlayerOption (4),1,5
+7893,Slot_PlayerOption,1,5
+7894,Slot_PlayerOption (5),1,5
+7895,Slot_PlayerOption (1),1,5
+7896,Slot_PlayerOption (3),1,5
+7897,Slot_PlayerOption (2),1,5
+7898,Slot_PlayerOption (6),1,5
+8134,CostumeEffect_Spark_Class22,0,0
+8135,CostumeEffect_Spark_Class22,0,0
+8136,CostumeEffect_Spark_Class22,0,0
+8137,CostumeEffect_Spark_Class22,0,0
+8138,CostumeEffect_Spark_Class22,0,0
+8139,CostumeEffect_Spark_Class22,0,0
+8140,CostumeEffect_Spark_Class22,0,0
+8141,CostumeEffect_Spark_Class22,0,0
+8142,CostumeEffect_Spark_Class22,0,0
+8160,CostumeEffect_Spark,0,0
+8857,CostumeEffect_185_1,0,0
+8858,CostumeEffect_185_1,0,0
+9051,CostumeEffect_Spark,0,0
+9187,GameObject,1,5
+9194,GameObject (1),1,9
+9195,GameObject (1),1,9
+9196,GameObject (1),1,9
+9197,GameObject (1),1,9
+9272,CostumeEffect_185,0,0
+9273,CostumeEffect_185,0,0
+9274,CostumeEffect_185,0,0
+9275,CostumeEffect_185,0,0
+9276,CostumeEffect_185,0,0
+9277,CostumeEffect_185,0,0
+9278,CostumeEffect_185,0,0
+9279,CostumeEffect_185,0,0
+9280,CostumeEffect_185,0,0
+9291,CostumeEffect_Class22,0,0
+9553,i_character,1,5
+9628,CostumeDisplayEffect,1,0
+9629,CostumeDisplayEffect,1,0
+9739,GameObject,0,0
+9787,i_character,1,5
+9788,i_character,1,5
+9789,i_character,1,5
+9790,i_character,1,5
+9795,i_character,1,5
+9799,i_character,1,5
+9801,i_character,1,5
+9802,i_character,1,5
+9804,i_character,1,5
+9811,i_character,1,5
+9813,i_character,1,5
+9814,i_character,1,5
+9819,i_character,1,5
+9823,i_character,1,5
+9827,i_character,1,5
+9832,i_character,1,5
+9835,i_character,1,5
+9837,i_character,1,5
+9842,i_character,1,5
+9843,i_character,1,5
+9850,i_character,1,5
+9854,i_character,1,5
+9858,i_character,1,5
+9870,i_character,1,5
+9871,i_character,1,5
+9875,i_character,1,5
+9878,i_character,1,5
+9884,i_character,1,5
+9887,i_character,1,5
+9888,i_character,1,5
+9896,i_character,1,5
+9897,i_character,1,5
+9899,i_character,1,5
+9900,i_character,1,5
+9901,i_character,1,5
+9902,i_character,1,5
+9904,i_character,1,5
+9906,i_character,1,5
+9907,i_character,1,5
+9914,i_character,1,5
+9915,i_character,1,5
+9916,i_character,1,5
+9921,i_character,1,5
+9926,i_character,1,5
+9928,i_character,1,5
+9930,i_character,1,5
+9938,i_character,1,5
+9947,i_character,1,5
+9949,i_character,1,5
+9950,i_character,1,5
+9953,i_character,1,5
+9954,i_character,1,5
+9957,i_character,1,5
+9960,i_character,1,5
+9962,i_character,1,5
+9967,i_character,1,5
+9968,i_character,1,5
+9970,i_character,1,5
+9971,i_character,1,5
+9973,i_character,1,5
+9974,i_character,1,5
+9980,i_character,1,5
+9982,i_character,1,5
+9983,i_character,1,5
+9987,i_character,1,5
+9989,i_character,1,5
+9992,i_character,1,5
+9993,i_character,1,5
+9996,i_character,1,5
+9997,i_character,1,5
+10000,i_character,1,5
+10009,i_character,1,5
+10011,i_character,1,5
+10013,i_character,1,5
+10016,i_character,1,5
+10017,i_character,1,5
+10018,i_character,1,5
+10021,i_character,1,5
+10025,i_character,1,5
+10027,i_character,1,5
+10028,i_character,1,5
+10029,i_character,1,5
+10033,i_character,1,5
+10035,i_character,1,5
+10042,i_character,1,5
+10052,i_character,1,5
+10053,i_character,1,5
+10060,i_character,1,5
+10061,i_character,1,5
+10066,i_character,1,5
+10068,i_character,1,5
+10073,i_character,1,5
+10075,i_character,1,5
+10082,i_character,1,5
+10083,i_character,1,5
+10085,i_character,1,5
+10086,i_character,1,5
+10087,i_character,1,5
+10093,i_character,1,5
+10096,i_character,1,5
+10100,i_character,1,5
+10105,i_character,1,5
+10115,i_character,1,5
+10116,i_character,1,5
+10119,i_character,1,5
+10121,i_character,1,5
+10128,i_character,1,5
+10130,i_character,1,5
+10133,i_character,1,5
+10134,i_character,1,5
+10135,i_character,1,5
+10137,i_character,1,5
+10140,i_character,1,5
+10141,i_character,1,5
+10142,i_character,1,5
+10144,i_character,1,5
+10146,i_character,1,5
+10147,i_character,1,5
+10148,i_character,1,5
+10155,i_character,1,5
+10160,i_character,1,5
+10163,i_character,1,5
+10166,i_character,1,5
+10169,i_character,1,5
+10171,i_character,1,5
+10172,i_character,1,5
+10173,i_character,1,5
+10174,i_character,1,5
+10176,i_character,1,5
+10178,i_character,1,5
+10179,i_character,1,5
+10188,i_character,1,5
+10191,i_character,1,5
+10195,i_character,1,5
+10199,i_character,1,5
+10205,i_character,1,5
+10206,i_character,1,5
+10208,i_character,1,5
+10210,i_character,1,5
+10217,i_character,1,5
+10223,i_character,1,5
+10225,i_character,1,5
+10227,i_character,1,5
+10228,i_character,1,5
+10230,i_character,1,5
+10231,i_character,1,5
+10233,i_character,1,5
+10234,i_character,1,5
+10235,i_character,1,5
+10236,i_character,1,5
+10237,i_character,1,5
+10239,i_character,1,5
+10243,i_character,1,5
+10247,i_character,1,5
+10248,i_character,1,5
+10249,i_character,1,5
+10251,i_character,1,5
+10254,i_character,1,5
+10255,i_character,1,5
+10264,i_character,1,5
+10266,i_character,1,5
+10268,i_character,1,5
+10272,i_character,1,5
+10274,i_character,1,5
+10275,i_character,1,5
+10277,i_character,1,5
+10281,i_character,1,5
+10282,i_character,1,5
+10283,i_character,1,5
+10285,i_character,1,5
+10290,i_character,1,5
+10291,i_character,1,5
+10292,i_character,1,5
+10296,i_character,1,5
+10298,i_character,1,5
+10300,i_character,1,5
+10309,i_character,1,5
+10312,i_character,1,5
+10314,i_character,1,5
+10325,i_character,1,5
+10333,i_character,1,5
+10334,i_character,1,5
+10336,i_character,1,5
+10338,i_character,1,5
+10342,i_character,1,5
+10345,i_character,1,5
+10346,i_character,1,5
+10353,i_character,1,5
+10354,i_character,1,5
+10355,i_character,1,5
+10360,i_character,1,5
+10362,i_character,1,5
+10365,i_character,1,5
+10366,i_character,1,5
+10368,i_character,1,5
+10497,GameObject,1,5
+10616,CostumeEffect,0,0
+10672,GameObject,1,5
+10673,GameObject,1,5
+10674,GameObject,1,5
+10675,GameObject,1,5
+10676,GameObject,1,5
+10677,GameObject,1,5
+10678,GameObject,1,5
+10679,GameObject,1,5
+10680,GameObject,1,5
+10681,GameObject,1,5
+11432,Slot_EventPackage_SpecialSkin,0,5
+11651,GameObject,1,5
+11652,GameObject,1,5
+11653,GameObject,1,5
+11654,GameObject,1,5
+11937,t_StageNumber,1,0
+11957,CostumeEffect_Class22,0,0
+12046,CostumeEffect_Spark,0,0
+12536,CharacterDisplay,1,0
+12552,GameObject,1,5
+12553,GameObject,1,5
+12554,GameObject,1,5
+12555,GameObject,1,5
+12572,DefeatGuideSlot_SlayerClass,0,5
+12589,CostumeEffect,0,0
+13405,panel_characterImg,1,5
+13423,Xbtn_Quest,1,5
+13453,Btn_StageRankingPanel,1,5
+13476,tf_StartPos,1,5
+13737,GameObject,1,5
+13815,SkinTf,0,0
+13998,CharacterDisplay,1,0
+14013,SkinObj,0,5
+14014,SkinTf,0,0
+14015,SkinTf,0,0
+14016,SkinTf,0,0
+14017,SkinTf,0,0
+14018,SkinTf,0,0
+14019,SkinTf,0,0
+14175,costume,0,0
+14176,costume,0,0
+14234,CostumeEffect,0,0
+14327,GuildQuest,1,5
+14328,GuildQuest,1,5
+14329,GuildQuest,1,5
+14330,GuildQuest,1,5
+14331,GuildQuest,1,5
+14332,GuildQuest,1,5
+14333,GuildQuest,1,5
+14334,GuildQuest,1,5
+14335,GuildQuest,1,5
+14336,GuildQuest,1,5
+15007,CostumeEffect_Class22,0,0
+15066,Costume,1,9
+15067,Costume,1,9
+15068,Costume,1,9
+15069,Costume,1,9
+15167,GameObject,1,5
+15168,GameObject,1,5
+15169,GameObject,1,5
+15170,GameObject,1,5
+15523,ButtonSkinType (0) Costume,1,5
+15607,GameObject,1,5
+15842,SkinDisplaySlot_SkinState,1,5
+15843,SkinDisplaySlot_SkinInfo,1,5
+15963,GameObject,1,5
+15964,GameObject,1,5
+15965,GameObject,1,5
+15966,GameObject,1,5
+15967,GameObject,1,5
+15968,GameObject,1,5
+15969,GameObject,1,5
+15970,GameObject,1,5
+15971,GameObject,1,5
+15972,GameObject,1,5
+15976,GameObject,1,9
+15977,GameObject,1,9
+15978,GameObject,1,9
+15979,GameObject,1,9
+16050,PackageItemSlot (SkinCoin),1,5
+16139,CostumeEffect,0,0
+16140,CostumeEffect,0,0
+16141,CostumeEffect,0,0
+16142,CostumeEffect,0,0
+16143,CostumeEffect,0,0
+16144,CostumeEffect,0,0
+16145,CostumeEffect,0,0
+16146,CostumeEffect,0,0
+16147,CostumeEffect,0,0
+16226,hand_costume (3),1,9
+16227,hand_costume (3),1,9
+16228,hand_costume (3),1,9
+16229,hand_costume (3),1,9
+16353,t_questName,1,5
+16354,t_questName,1,5
+16356,t_questName,1,5
+16358,t_questName,1,5
+16359,t_questName,1,5
+16360,t_questName,1,5
+16362,t_questName,1,5
+16363,t_questName,1,5
+16365,t_questName,1,5
+16470,GameObject,1,5
+16471,GameObject,1,5
+16472,GameObject,1,5
+16473,GameObject,1,5
+16474,GameObject,1,5
+16475,GameObject,1,5
+16476,GameObject,1,5
+16477,GameObject,1,5
+16478,GameObject,1,5
+16479,GameObject,1,5
+16483,t_playername,1,9
+16484,t_playername,1,9
+16485,t_playername,1,9
+16486,t_playername,1,9
+17253,GameObject,1,0
+17691,CostumeEffect_185,0,0
+17792,CostumeEffect_Class22,0,0
+17793,CostumeEffect_Class22,0,0
+17794,CostumeEffect_Class22,0,0
+17795,CostumeEffect_Class22,0,0
+17796,CostumeEffect_Class22,0,0
+17797,CostumeEffect_Class22,0,0
+17798,CostumeEffect_Class22,0,0
+17799,CostumeEffect_Class22,0,0
+17800,CostumeEffect_Class22,0,0
+18057,CostumeEffect_185_1,0,0
+18163,DemonEnemySoulEffect,1,0
+18208,CostumeEffect_Spark_Class22,0,0
+18226,GameObject,1,0
+18251,Slot_PlayerClass,0,5
+18275,SkinTf,0,0
+18318,CostumeDisplayEffect,1,0
+18412,hand_costume (4),1,9
+18413,hand_costume (4),1,9
+18414,hand_costume (4),1,9
+18415,hand_costume (4),1,9
+18921,Slot_RepeatQuest (1),1,5
+18933,Slot_RepeatQuest (4),1,5
+18949,Slot_RepeatQuest (5),1,5
+18953,Slot_RepeatQuest (8),1,5
+18965,Slot_RepeatQuest (3),1,5
+18971,Slot_RepeatQuest (6),1,5
+18984,Slot_RepeatQuest (2),1,5
+18994,Slot_RepeatQuest (9),1,5
+18997,Slot_RepeatQuest (7),1,5
+19001,CostumeEffect,0,9
+19002,CostumeEffect,0,9
+19003,CostumeEffect,0,9
+19004,CostumeEffect,0,9
+19012,GameObject,1,9
+19013,GameObject,1,9
+19014,GameObject,1,9
+19015,GameObject,1,9
+19133,CharacterDisplay_Skin,1,0
+19134,CharacterDisplay_Skin,1,0
+19135,CharacterDisplay_Skin,1,0
+19136,CharacterDisplay_Skin,1,0
+19137,CharacterDisplay_OfflineReward,1,0
+19138,CharacterDisplay_Skin,1,0
+19139,CharacterDisplay_Main,1,0
+19140,CharacterDisplay_Upgrade,1,0
+19141,CharacterDisplay_Skin,1,0
+19552,GameObject (1),0,5
+19875,t_StageNumber,1,0
+19876,t_StageNumber,1,0
+19877,t_StageNumber,1,0
+19878,t_StageNumber,1,0
+19879,t_StageNumber,1,0
+19880,t_StageNumber,1,0
+19881,t_StageNumber,1,0
+19882,t_StageNumber,1,0
+19883,t_StageNumber,1,0
+19884,t_StageNumber,1,0
+19885,t_StageNumber,1,0
+19886,t_StageNumber,1,0
+19887,t_StageNumber,1,0
+19888,t_StageNumber,1,0
+19889,t_StageNumber,1,0
+19890,t_StageNumber,1,0
+19891,t_StageNumber,1,0
+19892,t_StageNumber,1,0
+19893,t_StageNumber,1,0
+20047,Panel_Selected_PlayerOption,1,5
+20050,CostumeEffect_185,0,0
+20222,CostumeEffect_Spark_Class22,0,0
+20706,CharacterObj,1,5
+20707,CharacterObj,1,5
+20708,LoadingScene,0,0
+21189,RankingMonsters_Ingame,1,5
+21507,SlayerClassGachaRewardSlot (7),1,5
+21508,SlayerClassGachaRewardSlot (4),1,5
+21509,SlayerClassGachaRewardSlot (1),1,5
+21510,SlayerClassGachaRewardSlot (2),1,5
+21511,SlayerClassGachaRewardSlot (6),1,5
+21512,SlayerClassGachaRewardSlot (5),1,5
+21513,SlayerClassGachaRewardSlot (3),1,5
+21514,SlayerClassGachaRewardSlot (8),1,5
+21879,costume,1,0
+21955,t_EnemyName,0,5
+22167,PlayerInGameDisplay_Animation,1,9
+22168,PlayerInGameDisplay_Animation,1,9
+22169,PlayerInGameDisplay_Animation,1,9
+22170,PlayerInGameDisplay_Animation,1,9
+22425,foot_costume1,0,0
+22426,foot_costume1,0,0
+22427,foot_costume1,0,0
+22428,foot_costume1,0,0
+22610,CostumeEffect_185,0,0
+22887,CostumeEffect_Spark,0,0
+22888,CostumeEffect_Spark,0,0
+22889,CostumeEffect_Spark,0,0
+22890,CostumeEffect_Spark,0,0
+22891,CostumeEffect_Spark,0,0
+22892,CostumeEffect_Spark,0,0
+22893,CostumeEffect_Spark,0,0
+22894,CostumeEffect_Spark,0,0
+22895,CostumeEffect_Spark,0,0
+22909,CostumeEffect_Spark_Class22,0,0
+23764,StageSlot (15),1,0
+23780,StageSlot (3),1,0
+23792,StageSlot (18),1,0
+23796,StageSlot (8),1,0
+23801,StageSlot (10),1,0
+23809,StageSlot (4),1,0
+23815,StageSlot (13),1,0
+23825,StageSlot (6),1,0
+23837,StageSlot (5),1,0
+23843,StageSlot (11),1,0
+23851,StageSlot (12),1,0
+23867,StageSlot (17),1,0
+23871,StageSlot (1),1,0
+23879,StageSlot (2),1,0
+23882,StageSlot (19),1,0
+23887,StageSlot (9),1,0
+23893,StageSlot (16),1,0
+23904,StageSlot (14),1,0
+23907,StageSlot (7),1,0
+24303,PlayerInGameDisplay (3),0,9
+24304,PlayerInGameDisplay,0,9
+24305,PlayerInGameDisplay (1),0,9
+24306,PlayerInGameDisplay (2),0,9
+25047,SlayerClassDisplay,1,5
+25048,SlayerClassDisplay,1,5
+25049,SlayerClassDisplay,1,5
+25050,SlayerClassDisplay,1,5
+25051,SlayerClassDisplay,1,5
+25052,SlayerClassDisplay,1,5
+25053,SlayerClassDisplay,1,5
+25054,SlayerClassDisplay,1,5
+25055,SlayerClassDisplay,1,5
+25056,SlayerClassDisplay,1,5
+25057,SlayerClassDisplay,1,5
+25058,SlayerClassDisplay,1,5
+25059,SlayerClassDisplay,1,5
+25060,SlayerClassDisplay,1,5
+25061,SlayerClassDisplay,1,5
+25062,SlayerClassDisplay,1,5
+25063,SlayerClassDisplay,1,5
+25064,SlayerClassDisplay,1,5
+25065,SlayerClassDisplay,1,5
+25066,SlayerClassDisplay,1,5
+25189,GameObject,1,5
+25807,StartEffect,1,0
+25808,StartEffect,1,0
+26188,StartLight,1,9
+26189,StartLight,1,9
+26190,StartLight,1,9
+26191,StartLight,1,9
+26508,SlayerClassDisplay,1,5
+26509,SlayerClassDisplay,1,5
+26510,SlayerClassDisplay,1,5
+26511,SlayerClassDisplay,1,5
+26512,SlayerClassDisplay,1,5
+26513,SlayerClassDisplay,1,5
+26514,Equip_SlayerClassDisplay,1,5
+26945,CostumeEffect_Spark,0,0
+27943,FriendSkinSlotV2,1,5
+27957,ButtonSkinType (1) WeaponSkin,1,5
+27958,ButtonSkinType (4) Hat,1,5
+27959,ButtonSkinType (3) Earring,0,5
+27960,ButtonSkinType (5) Beast,1,5
+27961,ButtonSkinType (3),1,5
+27962,ButtonSkinType (4),1,5
+27963,ButtonSkinType,1,5
+27964,ButtonSkinType (2) FaceDeco,1,5
+27965,ButtonSkinType (2),1,5
+27966,ButtonSkinType (1),1,5
+28001,SkinSlot,0,5
+28288,GameObject,1,0
+28508,costume,1,0
+28509,costume,1,0
+28510,costume,1,0
+28511,costume,1,0
+28512,costume,1,0
+28513,costume,1,0
+28514,costume,1,0
+28515,costume,1,0
+28516,costume,1,0
+28902,CostumeEffect_185_1,0,0
+28903,CostumeEffect_185_1,0,0
+28904,CostumeEffect_185_1,0,0
+28905,CostumeEffect_185_1,0,0
+28906,CostumeEffect_185_1,0,0
+28907,CostumeEffect_185_1,0,0
+28908,CostumeEffect_185_1,0,0
+28909,CostumeEffect_185_1,0,0
+28910,CostumeEffect_185_1,0,0
+29092,GameObject,1,5
+29093,GameObject,1,5
+29094,GameObject,1,5
+29095,GameObject,1,5
+29096,GameObject,1,5
+29097,GameObject,1,5
+29098,GameObject,1,5
+29099,GameObject,1,5
+29100,GameObject,1,5
+29101,GameObject,1,5
+29272,CostumeEffect_Spark_Class22,0,0
+29273,CostumeEffect_Spark_Class22,0,0
+29336,CostumeEffect_Class22,0,0
+29800,t_reward_PlayerOption,1,5
+30218,GameObject,1,9
+30219,GameObject,1,9
+30220,GameObject,1,9
+30221,GameObject,1,9
+30289,Panel_PlayerClassBattleClear,0,5
+30290,GameObject,1,5
+30291,GameObject,1,5
+30344,GameObject,1,5
+30563,GameObject,1,5
+30564,GameObject,1,5
+30565,GameObject,1,5
+30566,GameObject,1,5
+30593,CostumeEffect,0,0
+30652,BTN_Costume,1,5
+30653,IMG_Costume,1,5
+30688,OBJ_Character,1,5
+31084,GameObject (1),0,0
+31156,GameObject,1,5
+31515,GameObject,1,5
+31516,GameObject,1,5
+31517,GameObject,1,5
+31518,GameObject,1,5
+31560,CharacterDisplay_Skin,1,0
+31953,CharacterObj,1,5
+31969,Slot_SlayerClassGacha (18),1,5
+31991,Slot_SlayerClassGacha (12),1,5
+32017,Slot_SlayerClassGacha (9),1,5
+32022,Slot_SlayerClassGacha (14),1,5
+32023,Slot_SlayerClassGacha (17),1,5
+32037,Slot_SlayerClassGacha (10),1,5
+32059,Slot_SlayerClassGacha (4),1,5
+32065,Slot_SlayerClassGacha (3),1,5
+32085,Slot_SlayerClassGacha (8),1,5
+32086,Slot_SlayerClassGacha (19),1,5
+32090,Slot_SlayerClassGacha (7),1,5
+32107,Slot_SlayerClassGacha (11),1,5
+32108,Slot_SlayerClassGacha (2),1,5
+32123,Slot_SlayerClassGacha (6),1,5
+32131,Slot_SlayerClassGacha (13),1,5
+32159,Slot_SlayerClassGacha (1),1,5
+32178,Slot_SlayerClassGacha (15),1,5
+32190,Slot_SlayerClassGacha (5),1,5
+32193,Slot_SlayerClassGacha (16),1,5
+32355,i_character,1,5
+32356,i_character,1,5
+32357,i_character,1,5
+32378,CostumeDisplayEffect,1,0
+32379,CostumeDisplayEffect,1,0
+32380,CostumeDisplayEffect,1,0
+32381,CostumeDisplayEffect,1,0
+32382,CostumeDisplayEffect,1,0
+32383,CostumeDisplayEffect,1,0
+32384,CostumeDisplayEffect,1,0
+32385,CostumeDisplayEffect,1,0
+32386,CostumeDisplayEffect,1,0
+32474,GuildQuestFieldEffectIcon,1,5
+32475,GuildQuestFieldEffectIcon,1,5
+32575,SlayerClassGachaRewardSlot,1,5
+32715,GameObject,1,5
+32716,GameObject,1,5
+32717,GameObject,1,5
+32718,GameObject,1,5
+32719,GameObject,1,5
+32720,GameObject,1,5
+32721,GameObject,1,5
+32722,GameObject,1,5
+32723,GameObject,1,5
+32724,GameObject,1,5
+32967,CostumeEffect_185,0,0
+32968,CostumeEffect_185,0,0
+33032,StartEffect,1,0
+33303,GameObject,1,5
+33596,t_stage,1,5
+33597,t_stage,1,5
+33598,t_stage,1,5
+33746,GameObject,1,5
+33747,GameObject,1,5
+33748,GameObject,1,5
+33749,GameObject,1,5
+33808,costume,1,0
+33860,CostumeDisplayEffect,1,0
+34220,CostumeEffect_185_1,0,0
+34311,GameObject,1,5
+34312,GameObject,1,5
+34313,GameObject,1,5
+34314,GameObject,1,5
+34315,GameObject,1,5
+34316,GameObject,1,5
+34317,GameObject,1,5
+34318,GameObject,1,5
+34319,GameObject,1,5
+34320,GameObject,1,5
+34597,Button_ContentsPreset_PlayerOption,0,5
+34667,Slot_SlayerClassGacha,1,5
+34738,CostumeDisplayEffect,1,0
+34786,CostumeEffect22,0,9
+34787,CostumeEffect22,0,9
+34788,CostumeEffect22,0,9
+34789,CostumeEffect22,0,9
+34988,Character,1,5
+35206,CostumeEffect_185_1,0,0
+35243,GameObject,1,0
+35244,GameObject,1,0
+35245,GameObject,1,0
+35246,GameObject,1,0
+35247,GameObject,1,0
+35248,GameObject,1,0
+35249,GameObject,1,0
+35250,GameObject,1,0
+35251,GameObject,1,0
+35252,GameObject,1,0
+35253,GameObject,1,0
+35254,GameObject,1,0
+35255,GameObject,1,0
+35256,GameObject,1,0
+35257,GameObject,1,0
+35258,GameObject,1,0
+35259,GameObject,1,0
+35260,GameObject,1,0
+35261,GameObject,1,0
+35262,GameObject,1,0
+35263,GameObject,1,0
+35264,GameObject,1,0
+35265,GameObject,1,0
+35266,GameObject,1,0
+35267,GameObject,1,0
+35268,GameObject,1,0
+35269,GameObject,1,0
+35270,GameObject,1,0
+35271,GameObject,1,0
+35272,GameObject,1,0
+35273,GameObject,1,0
+35274,GameObject,1,0
+35275,GameObject,1,0
+35276,GameObject,1,0
+35277,GameObject,1,0
+35278,GameObject,1,0
+35279,GameObject,1,0
+35280,GameObject,1,0
+35281,GameObject,1,0
+35282,GameObject,1,0
+35283,GameObject,1,0
+35284,GameObject,1,0
+35285,GameObject,1,0
+35286,GameObject,1,0
+35287,GameObject,1,0
+35288,GameObject,1,0
+35289,GameObject,1,0
+35290,GameObject,1,0
+35291,GameObject,1,0
+35292,GameObject,1,0
+35293,GameObject,1,0
+35294,GameObject,1,0
+35295,GameObject,1,0
+35296,GameObject,1,0
+35297,GameObject,1,0
+35298,GameObject,1,0
+35299,GameObject,1,0
+35300,GameObject,1,0
+35301,GameObject,1,0
+35302,GameObject,1,0
+35303,GameObject,1,0
+35304,GameObject,1,0
+35305,GameObject,1,0
+35306,GameObject,1,0
+35307,GameObject,1,0
+35308,GameObject,1,0
+35480,CostumeEffect_Spark,0,0
+35481,CostumeEffect_Spark,0,0
+35745,StartEffect,1,0
+35839,InputField,1,5
+36873,Slot_DailyQuest (5),1,5
+36907,Slot_DailyQuest (2),1,5
+36920,Slot_DailyQuest (3),1,5
+36930,Slot_DailyQuest (1),1,5
+36955,Slot_DailyQuest (4),1,5
+37043,SkinDisplaySlot,1,5
+37222,GameObject,1,5
+37462,Alarm_All_Notice_OnGameMessage,0,5
+37472,CostumeDisplayEffect,1,0
+37614,GameObject,1,5
+37615,GameObject,1,5
+37616,GameObject,1,5
+37617,GameObject,1,5
+37637,CostumeEffect_Spark_Class22,0,0
+37656,CostumeEffect_Class22,0,0
+37657,CostumeEffect_Class22,0,0
+37862,GameObject,1,5
+38024,CostumeEffect,0,0
+38025,CostumeEffect,0,0
+38027,costume,0,0
+38183,Slot_SlayerClass (16),1,5
+38184,Slot_SlayerClass (6),1,5
+38185,Slot_SlayerClass (8),1,5
+38189,Slot_SlayerClass (5),1,5
+38191,Slot_SlayerClass (9),1,5
+38196,Slot_SlayerClass (4),1,5
+38197,Slot_SlayerClass (14),1,5
+38198,Slot_SlayerClass (2),1,5
+38199,Slot_SlayerClass (13),1,5
+38203,Slot_SlayerClass (7),1,5
+38204,Slot_SlayerClass (15),1,5
+38205,Slot_SlayerClass (12),1,5
+38207,Slot_SlayerClass (1),1,5
+38210,Slot_SlayerClass (17),1,5
+38211,Slot_SlayerClass (18),1,5
+38214,Slot_SlayerClass (11),1,5
+38216,Slot_SlayerClass (3),1,5
+38219,Slot_SlayerClass,1,5
+38220,Slot_SlayerClass (19),1,5
+38222,Slot_SlayerClass (10),1,5
+38262,GameObject,1,5
+38263,GameObject,1,5
+38264,GameObject,1,5
+38265,GameObject,1,5
+38453,Slot_RepeatQuest,1,5
+38540,SkinObj,0,5
+38541,SkinObj,0,5
+39420,GameObject,1,5
+39421,GameObject,1,5
+39422,GameObject,1,5
+39423,GameObject,1,5
+39529,StartLight,1,0
+39681,costume,0,0
+39693,GameObject,1,5
+39896,CharacterDisplay,1,0
+39897,CharacterDisplay,1,0
+39933,CostumeEffect_185_1,0,0
+40072,GameObject,1,5
+40073,GameObject,1,5
+40074,GameObject,1,5
+40075,GameObject,1,5
+40171,CostumeEffect_185,0,0
+40244,GameObject,1,5
+40477,GameObject,1,5
+40478,GameObject,1,5
+40479,GameObject,1,5
+40480,GameObject,1,5
+40481,GameObject,1,5
+40482,GameObject,1,5
+40483,GameObject,1,5
+40484,GameObject,1,5
+40485,GameObject,1,5
+40486,GameObject,1,5

@@ -1,0 +1,9 @@
+{
+  "game_version": "700.0.4",
+  "canonical_checkpoint_sha256": "4c55f6e8dc4faeec031b73a682ec0ed6cddde913103b4091e731854cffaf331b",
+  "byte_identical_pngs_in_supplementary_exports": {
+    "Slayer_Legend_PNG_HERO.zip": 5355,
+    "Slayer_Legend_PNG_MAP_DEEP.zip": 1665
+  },
+  "note": "Checkpoint, bằng chứng nhánh và dữ liệu trích xuất. XAPK nguồn được dẫn riêng ở 00_DOC_TRUOC.md."
+}

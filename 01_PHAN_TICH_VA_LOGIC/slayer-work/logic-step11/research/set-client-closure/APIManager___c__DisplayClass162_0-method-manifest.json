@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6000b55",
+    "name": ".ctor",
+    "declaring_type_index": "448",
+    "declaring_type_full_name": "APIManager+<>c__DisplayClass162_0",
+    "native_va": "0x51ce40c",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "6278",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x88f22c",
+    "end_va": "0x51ce414",
+    "asm_file": "APIManager___c__DisplayClass162_0__.ctor_0x6000b55.asm"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6000b56",
+    "name": "<SetClientData>b__0",
+    "declaring_type_index": "448",
+    "declaring_type_full_name": "APIManager+<>c__DisplayClass162_0",
+    "native_va": "0x51ce414",
+    "return_type_index": "48610",
+    "return_type_name": "generic_instance",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "131",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x88f24c",
+    "end_va": "0x51ce4fc",
+    "asm_file": "APIManager___c__DisplayClass162_0___SetClientData_b__0_0x6000b56.asm"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "FirstCompleteRewardType": 67,
+    "FirstCompleteRewardIndex": 51,
+    "FirstCompleteRewardCount": 1,
+    "CompleteRewardType": 1,
+    "CompleteRewardIndex": 0,
+    "CompleteRewardCount": 5000,
+    "NeedGoldenPen": 5,
+    "NeedPen": 1,
+    "DuplicatedRewardGoldenPen": 1
+  }
+]

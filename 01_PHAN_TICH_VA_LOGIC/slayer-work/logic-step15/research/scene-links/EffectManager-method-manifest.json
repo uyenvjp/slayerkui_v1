@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x600597a",
+    "name": "SceneChange_Start",
+    "declaring_type_index": "2030",
+    "declaring_type_full_name": "EffectManager",
+    "native_va": "0x4d0981c",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "3849",
+    "parameter_count": "2",
+    "flags": "134",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x92b6cc",
+    "end_va": "0x4d09898",
+    "asm_file": "EffectManager__SceneChange_Start_0x600597a.asm"
+  }
+]

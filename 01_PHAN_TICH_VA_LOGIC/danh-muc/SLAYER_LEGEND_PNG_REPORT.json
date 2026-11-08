@@ -1,0 +1,90 @@
+{
+  "total_png": 43771,
+  "pack_report": {
+    "hero": {
+      "sprite": 5116,
+      "texture": 239,
+      "missing": 0,
+      "declared_sprite": 5116,
+      "declared_texture": 239
+    },
+    "monster": {
+      "sprite": 15302,
+      "texture": 1042,
+      "missing": 697,
+      "declared_sprite": 15987,
+      "declared_texture": 1054
+    },
+    "map": {
+      "sprite": 1346,
+      "texture": 319,
+      "missing": 11,
+      "declared_sprite": 1356,
+      "declared_texture": 320
+    },
+    "skin": {
+      "sprite": 15718,
+      "texture": 1453,
+      "missing": 0,
+      "declared_sprite": 15718,
+      "declared_texture": 1453
+    },
+    "popup": {
+      "sprite": 2399,
+      "texture": 837,
+      "missing": 1152,
+      "declared_sprite": 3388,
+      "declared_texture": 1000
+    }
+  },
+  "categories": {
+    "01_VU_KHI_TRANG_BI": {
+      "name": "Vũ khí và trang bị",
+      "count_png": 1070,
+      "sprites": 625,
+      "textures": 445
+    },
+    "02_HERO_NHAN_VAT_SKIN": {
+      "name": "Hero, nhân vật, skin",
+      "count_png": 18403,
+      "sprites": 17228,
+      "textures": 1175
+    },
+    "03_QUAI_VAT": {
+      "name": "Quái vật",
+      "count_png": 16964,
+      "sprites": 15798,
+      "textures": 1166
+    },
+    "04_MAP": {
+      "name": "Map và cảnh nền",
+      "count_png": 1704,
+      "sprites": 1378,
+      "textures": 326
+    },
+    "05_ITEM_VAT_PHAM": {
+      "name": "Vật phẩm và item",
+      "count_png": 3650,
+      "sprites": 3390,
+      "textures": 260
+    },
+    "06_HIEU_UNG_KY_NANG": {
+      "name": "Hiệu ứng",
+      "count_png": 240,
+      "sprites": 178,
+      "textures": 62
+    },
+    "07_GIAO_DIEN": {
+      "name": "Giao diện, icon",
+      "count_png": 1740,
+      "sprites": 1284,
+      "textures": 456
+    }
+  },
+  "notes": [
+    "XAPK nguồn hiện thiếu ZIP central directory/đoạn cuối; một số split package không khôi phục được từ file hiện có.",
+    "Các gói contents và emoticon xuất hiện trong danh mục cũ nhưng không có dữ liệu gói truy cập được từ bản XAPK hiện tại.",
+    "Texture ASTC 49-51 và một số Sprite tham chiếu texture chưa hỗ trợ nên chưa có PNG cho chúng.",
+    "Texture atlas có thể chứa nhiều sprite; file texture và sprite được tính riêng, không phải số item gameplay duy nhất."
+  ]
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "pack": "monster",
+    "serialized_class_id": 114,
+    "type_index": 28,
+    "type_hash": "7a0dadb0914a768bc4e3387266e66c16",
+    "path_id": "-8698611304847757807",
+    "serialized_object_offset_dec": 449280,
+    "declared_object_size": 440,
+    "consumed_bytes": 440,
+    "values": {
+      "characterType": 0,
+      "state": 1,
+      "atkSpeed": 0.0,
+      "miss": 0.0,
+      "accuracy": 0.0,
+      "dmgReduce": 0.0,
+      "MonsterType": 0,
+      "AttackRange": 0.0,
+      "SpecialAttack_Cooltime": 2.0,
+      "SpecialAttack_Prob": 0.0,
+      "AttackPossible": false,
+      "isDead": false
+    },
+    "interpretation": "Serialized prefab/component defaults; not runtime combat formula"
+  },
+  {
+    "pack": "monster",
+    "serialized_class_id": 114,
+    "type_index": 20,
+    "type_hash": "296cc624c2421c376a8521488e9fd63e",
+    "path_id": "-8872260379832926451",
+    "serialized_object_offset_dec": 304208,
+    "declared_object_size": 284,
+    "consumed_bytes": 284,
+    "values": {
+      "SpiritId": 0,
+      "SpeciesIndex": 0,
+      "Grade": 0,
+      "Level": 0,
+      "AwakenCount": 0,
+      "SkillType": 0,
+      "SkillValues": [],
+      "maxCooltime": 0.0,
+      "curCooltime": 0.0
+    },
+    "interpretation": "Serialized prefab/component defaults; not runtime combat formula"
+  },
+  {
+    "pack": "monster",
+    "serialized_class_id": 114,
+    "type_index": 20,
+    "type_hash": "296cc624c2421c376a8521488e9fd63e",
+    "path_id": "-8255579940909734152",
+    "serialized_object_offset_dec": 811264,
+    "declared_object_size": 284,
+    "consumed_bytes": 284,
+    "values": {
+      "SpiritId": 0,
+      "SpeciesIndex": 0,
+      "Grade": 0,
+      "Level": 0,
+      "AwakenCount": 0,
+      "SkillType": 0,
+      "SkillValues": [],
+      "maxCooltime": 0.0,
+      "curCooltime": 0.0
+    },
+    "interpretation": "Serialized prefab/component defaults; not runtime combat formula"
+  },
+  {
+    "pack": "monster",
+    "serialized_class_id": 114,
+    "type_index": 20,
+    "type_hash": "296cc624c2421c376a8521488e9fd63e",
+    "path_id": "-7276274619917124390",
+    "serialized_object_offset_dec": 1596560,
+    "declared_object_size": 284,
+    "consumed_bytes": 284,
+    "values": {
+      "SpiritId": 0,
+      "SpeciesIndex": 0,
+      "Grade": 0,
+      "Level": 0,
+      "AwakenCount": 0,
+      "SkillType": 0,
+      "SkillValues": [],
+      "maxCooltime": 0.0,
+      "curCooltime": 0.0
+    },
+    "interpretation": "Serialized prefab/component defaults; not runtime combat formula"
+  },
+  {
+    "pack": "monster",
+    "serialized_class_id": 114,
+    "type_index": 20,
+    "type_hash": "296cc624c2421c376a8521488e9fd63e",
+    "path_id": "-6868475013282412453",
+    "serialized_object_offset_dec": 2738624,
+    "declared_object_size": 284,
+    "consumed_bytes": 284,
+    "values": {
+      "SpiritId": 0,
+      "SpeciesIndex": 0,
+      "Grade": 0,
+      "Level": 0,
+      "AwakenCount": 0,
+      "SkillType": 0,
+      "SkillValues": [],
+      "maxCooltime": 0.0,
+      "curCooltime": 0.0
+    },
+    "interpretation": "Serialized prefab/component defaults; not runtime combat formula"
+  },
+  {
+    "pack": "monster",
+    "serialized_class_id": 114,
+    "type_index": 20,
+    "type_hash": "296cc624c2421c376a8521488e9fd63e",
+    "path_id": "-5492727839025586760",
+    "serialized_object_offset_dec": 4088368,
+    "declared_object_size": 284,
+    "consumed_bytes": 284,
+    "values": {
+      "SpiritId": 0,
+      "SpeciesIndex": 0,
+      "Grade": 0,
+      "Level": 0,
+      "AwakenCount": 0,
+      "SkillType": 0,
+      "SkillValues": [],
+      "maxCooltime": 0.0,
+      "curCooltime": 0.0
+    },
+    "interpretation": "Serialized prefab/component defaults; not runtime combat formula"
+  }
+]

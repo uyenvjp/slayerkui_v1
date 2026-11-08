@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x60085d4",
+    "name": "OnTriggerEnter2D",
+    "declaring_type_index": "3475",
+    "declaring_type_full_name": "CoinEffect",
+    "native_va": "0x5019fdc",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "9228",
+    "parameter_count": "1",
+    "flags": "129",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x98420c",
+    "end_va": "0x501a2ac",
+    "asm_file": "CoinEffect__OnTriggerEnter2D_0x60085d4.asm"
+  }
+]

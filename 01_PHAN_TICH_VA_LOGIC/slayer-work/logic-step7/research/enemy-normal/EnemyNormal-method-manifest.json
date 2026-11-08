@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x60090b6",
+    "name": "DeadEvent",
+    "declaring_type_index": "3815",
+    "declaring_type_full_name": "EnemyNormal",
+    "native_va": "0x50f9388",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "196",
+    "iflags": "0",
+    "slot": "62",
+    "metadata_record_offset": "0x999e4c",
+    "end_va": "0x50f9804",
+    "asm_file": "EnemyNormal__DeadEvent_0x60090b6.asm"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x60090b8",
+    "name": "StageItemDrop",
+    "declaring_type_index": "3815",
+    "declaring_type_full_name": "EnemyNormal",
+    "native_va": "0x50f9804",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "129",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x999e8c",
+    "end_va": "0x50fa418",
+    "asm_file": "EnemyNormal__StageItemDrop_0x60090b8.asm"
+  }
+]

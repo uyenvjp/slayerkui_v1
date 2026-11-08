@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 0,
+    "UpdateMaxValueType": 0,
+    "Value": 380
+  },
+  {
+    "Id": 1,
+    "UpdateMaxValueType": 1,
+    "Value": 2000
+  },
+  {
+    "Id": 2,
+    "UpdateMaxValueType": 2,
+    "Value": 2200000
+  },
+  {
+    "Id": 3,
+    "UpdateMaxValueType": 3,
+    "Value": 1000
+  },
+  {
+    "Id": 7,
+    "UpdateMaxValueType": 7,
+    "Value": 1000
+  },
+  {
+    "Id": 8,
+    "UpdateMaxValueType": 8,
+    "Value": 1000
+  },
+  {
+    "Id": 4,
+    "UpdateMaxValueType": 4,
+    "Value": 390
+  },
+  {
+    "Id": 5,
+    "UpdateMaxValueType": 5,
+    "Value": 4000
+  },
+  {
+    "Id": 6,
+    "UpdateMaxValueType": 6,
+    "Value": 36
+  }
+]

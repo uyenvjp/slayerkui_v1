@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6008f26",
+    "name": "ProcessDelayedAbnormalDamage",
+    "declaring_type_index": "3792",
+    "declaring_type_full_name": "EnemyBase",
+    "native_va": "0x50b7394",
+    "return_type_index": "69183",
+    "return_type_name": "System.Collections.IEnumerator",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "129",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x996c4c",
+    "end_va": "0x50b7438",
+    "asm_file": "EnemyBase__ProcessDelayedAbnormalDamage_0x6008f26.asm"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6008f27",
+    "name": "ExecuteAbnormalAddDamage",
+    "declaring_type_index": "3792",
+    "declaring_type_full_name": "EnemyBase",
+    "native_va": "0x50b7460",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "10368",
+    "parameter_count": "2",
+    "flags": "129",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x996c6c",
+    "end_va": "0x50b7810",
+    "asm_file": "EnemyBase__ExecuteAbnormalAddDamage_0x6008f27.asm"
+  }
+]

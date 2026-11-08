@@ -1,0 +1,64 @@
+{
+  "package": "com.gear2.growslayer",
+  "version": "700.0.4",
+  "version_code": 705,
+  "native_sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+  "step10_bounded_native_model_cases": 1678,
+  "scoped_checks": [
+    {
+      "scope": "experience_data",
+      "passed": true,
+      "native_model_cases": 910,
+      "native_report": "experience-data-native-report.json",
+      "javascript_report": "js-experience_data-report.json",
+      "limits": "Five DatabaseManager EXP aggregation/setter/spirit-array/sync entry bodies and original UserExp string setters. Decrypted wrappers, initialized metadata, string conversion, generic non-null check and bounded decimal Parse dependency modeled. Finite numeric bits and intermediate cache writes compared; NaNs compared by class, not payload. No full account/Unity/IFix/backend/culture-complete parser parity."
+    },
+    {
+      "scope": "linked_experience",
+      "passed": true,
+      "native_model_cases": 704,
+      "native_report": "linked-experience-native-report.json",
+      "javascript_report": "js-linked_experience-report.json",
+      "limits": "Stronger linked recheck of the three receive-EXP paths and AddBuffs, now using original DatabaseManager.get_ExpAdd and original Exp_Cal/scroll/Probability bodies. Previous scalar ExpAdd hook removed; raw source fields required. Same explicit manager/wrapper/spirit/event/RNG/UI/log/Cave dependencies as step9 remain. No Unity/full account/backend parity."
+    },
+    {
+      "scope": "level_request",
+      "passed": true,
+      "native_model_cases": 64,
+      "native_report": "level-request-native-report.json",
+      "javascript_report": "js-level_request-report.json",
+      "limits": "Original GetSyncExp/UserExp setters -> APIManager.LevelUp -> AddRequest -> RequestData.Create selected api13 path. Cached UserExp identity/queued payload/delegate reference and effects checked. Allocation/constructors, delegate construction, loading HashSet, AcquireItems sink and queue storage explicitly modeled; no queue processing/serialization/transport/async response or full acquisition parity."
+    }
+  ],
+  "connected_sequences": 3,
+  "sequence_actions": 9,
+  "extra_checks_excluded_from_case_total": {
+    "null_and_parser_dependency_contracts": 7
+  },
+  "all_client_logic_analyzed": false,
+  "all_game_logic_recovered": false,
+  "native_game_executed": false,
+  "game_services_called": false,
+  "live_ifix_loaded": false,
+  "h5_building_paused": true,
+  "deployed_this_step": false,
+  "new_or_substitute_assets_created": false,
+  "static_only_not_whole_body_validated": [
+    "LevelUp async response continuation",
+    "LevelUpRequest copy constructor and UserExp Clone/copy lifecycle",
+    "Queue processing, serialization, retry, IsValidCode and complete acquisition/subscriber/account logic"
+  ],
+  "common_native_vm_change": {
+    "file": "../logic-step6/tools/native_flow_vm.py",
+    "change": "Added BIC with ASR shifted operand for the spirit-array getter; existing opcode handling unchanged.",
+    "prior_corpora_regenerated_this_step": false
+  },
+  "scope_notes": "1678 scoped cases, including 704 stronger rechecks of earlier EXP orchestration with the actual aggregate getter. Explicit wrappers/manager/BCL string parse and formatting/constructors/delegates/collections/downstream fixtures. Finite numeric bits and intermediate writes checked; NaN payloads and culture-complete parsing are not recovered. No completion percentage or whole game/Android/backend equivalence.",
+  "current_port_sha256": {
+    "recovered-experience-data.mjs": "6ea7e7c8e1726bb1f8093dd77538d1d71f9614d9bde1ec3586d2a4f97cca92f4",
+    "recovered-level-request.mjs": "3a3bda15c8502524bfc38e6aa257ff2087db2725661738da7c4d3eae65793953",
+    "verify-experience-data.mjs": "fd78189c03a1badd5014667b4191f58385419f5827e45781aa9ed6471137c1aa",
+    "verify-level-request.mjs": "cb55427c7c291786efa4f3504ea73b6f6e37f2d0aa4272e1e683f82554822a3f",
+    "verify-linked-experience.mjs": "ea900cef0a5fa61ecbd207275a8b0c271d6d3d0c723ad62489d2fb540a552820"
+  }
+}

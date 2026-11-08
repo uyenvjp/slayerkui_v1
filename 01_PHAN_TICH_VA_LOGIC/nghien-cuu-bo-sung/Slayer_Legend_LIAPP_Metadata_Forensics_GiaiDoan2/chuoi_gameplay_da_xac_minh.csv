@@ -1,0 +1,8 @@
+chuoi,so_lan_xuat_hien_trong_du_lieu_XOR,offset_dau_tien_HEX,ghi_chu
+Xls_Skill,25,0x27d8d9,Chuoi goc co offset; khong phai cong thuc game
+Xls_AdventureInfo,5,0x27cb1a,Chuoi goc co offset; khong phai cong thuc game
+Xls_WeaponSkin,5,0x27e1b7,Chuoi goc co offset; khong phai cong thuc game
+GameManager,479,0x295cb2,Chuoi goc co offset; khong phai cong thuc game
+BossNumber,4,0x27cb5a,Chuoi goc co offset; khong phai cong thuc game
+BossScale,4,0x27cb6a,Chuoi goc co offset; khong phai cong thuc game
+AuraAtkSpeed,1,0x28d42b,Chuoi goc co offset; khong phai cong thuc game

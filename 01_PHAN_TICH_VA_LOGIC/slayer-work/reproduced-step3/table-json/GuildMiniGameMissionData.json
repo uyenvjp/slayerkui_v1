@@ -1,0 +1,178 @@
+[
+  {
+    "Id": 1,
+    "GuildMiniGameType": 1,
+    "MissionType": 1,
+    "MissionCount": 1,
+    "MissionSubCount": 0,
+    "SlotIndex": 0,
+    "RewardCurrency": 39,
+    "RewardIndex": 0,
+    "RewardAmount": 100
+  },
+  {
+    "Id": 2,
+    "GuildMiniGameType": 1,
+    "MissionType": 2,
+    "MissionCount": 1,
+    "MissionSubCount": 0,
+    "SlotIndex": 1,
+    "RewardCurrency": 39,
+    "RewardIndex": 0,
+    "RewardAmount": 200
+  },
+  {
+    "Id": 3,
+    "GuildMiniGameType": 1,
+    "MissionType": 3,
+    "MissionCount": 1,
+    "MissionSubCount": 0,
+    "SlotIndex": 1,
+    "RewardCurrency": 39,
+    "RewardIndex": 0,
+    "RewardAmount": 200
+  },
+  {
+    "Id": 4,
+    "GuildMiniGameType": 1,
+    "MissionType": 4,
+    "MissionCount": 1,
+    "MissionSubCount": 0,
+    "SlotIndex": 1,
+    "RewardCurrency": 39,
+    "RewardIndex": 0,
+    "RewardAmount": 200
+  },
+  {
+    "Id": 5,
+    "GuildMiniGameType": 1,
+    "MissionType": 5,
+    "MissionCount": 1,
+    "MissionSubCount": 0,
+    "SlotIndex": 1,
+    "RewardCurrency": 39,
+    "RewardIndex": 0,
+    "RewardAmount": 200
+  },
+  {
+    "Id": 6,
+    "GuildMiniGameType": 1,
+    "MissionType": 6,
+    "MissionCount": 1,
+    "MissionSubCount": 2,
+    "SlotIndex": 1,
+    "RewardCurrency": 39,
+    "RewardIndex": 0,
+    "RewardAmount": 200
+  },
+  {
+    "Id": 7,
+    "GuildMiniGameType": 1,
+    "MissionType": 7,
+    "MissionCount": 1,
+    "MissionSubCount": 3,
+    "SlotIndex": 1,
+    "RewardCurrency": 39,
+    "RewardIndex": 0,
+    "RewardAmount": 200
+  },
+  {
+    "Id": 8,
+    "GuildMiniGameType": 1,
+    "MissionType": 8,
+    "MissionCount": 5,
+    "MissionSubCount": 0,
+    "SlotIndex": 1,
+    "RewardCurrency": 39,
+    "RewardIndex": 0,
+    "RewardAmount": 200
+  },
+  {
+    "Id": 9,
+    "GuildMiniGameType": 1,
+    "MissionType": 2,
+    "MissionCount": 2,
+    "MissionSubCount": 0,
+    "SlotIndex": 2,
+    "RewardCurrency": 42,
+    "RewardIndex": 0,
+    "RewardAmount": 200
+  },
+  {
+    "Id": 10,
+    "GuildMiniGameType": 1,
+    "MissionType": 3,
+    "MissionCount": 2,
+    "MissionSubCount": 0,
+    "SlotIndex": 2,
+    "RewardCurrency": 42,
+    "RewardIndex": 0,
+    "RewardAmount": 200
+  },
+  {
+    "Id": 11,
+    "GuildMiniGameType": 1,
+    "MissionType": 4,
+    "MissionCount": 2,
+    "MissionSubCount": 0,
+    "SlotIndex": 2,
+    "RewardCurrency": 42,
+    "RewardIndex": 0,
+    "RewardAmount": 200
+  },
+  {
+    "Id": 12,
+    "GuildMiniGameType": 1,
+    "MissionType": 5,
+    "MissionCount": 2,
+    "MissionSubCount": 0,
+    "SlotIndex": 2,
+    "RewardCurrency": 42,
+    "RewardIndex": 0,
+    "RewardAmount": 200
+  },
+  {
+    "Id": 13,
+    "GuildMiniGameType": 1,
+    "MissionType": 6,
+    "MissionCount": 1,
+    "MissionSubCount": 3,
+    "SlotIndex": 2,
+    "RewardCurrency": 42,
+    "RewardIndex": 0,
+    "RewardAmount": 200
+  },
+  {
+    "Id": 14,
+    "GuildMiniGameType": 1,
+    "MissionType": 7,
+    "MissionCount": 1,
+    "MissionSubCount": 5,
+    "SlotIndex": 2,
+    "RewardCurrency": 42,
+    "RewardIndex": 0,
+    "RewardAmount": 200
+  },
+  {
+    "Id": 15,
+    "GuildMiniGameType": 1,
+    "MissionType": 8,
+    "MissionCount": 10,
+    "MissionSubCount": 0,
+    "SlotIndex": 2,
+    "RewardCurrency": 42,
+    "RewardIndex": 0,
+    "RewardAmount": 200
+  },
+  {
+    "Id": 101,
+    "GuildMiniGameType": 2,
+    "MissionType": 1,
+    "MissionCount": 1,
+    "MissionSubCount": 0,
+    "SlotIndex": 0,
+    "RewardCurrency": 39,
+    "RewardIndex": 0,
+    "RewardAmount": 300
+  }
+]

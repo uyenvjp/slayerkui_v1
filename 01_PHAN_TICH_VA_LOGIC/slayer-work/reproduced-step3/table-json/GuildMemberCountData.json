@@ -1,0 +1,182 @@
+[
+  {
+    "Id": 1,
+    "GuildLevel": 1,
+    "Level": 0,
+    "MaxMemberCount": 7
+  },
+  {
+    "Id": 2,
+    "GuildLevel": 2,
+    "Level": 1,
+    "MaxMemberCount": 9
+  },
+  {
+    "Id": 3,
+    "GuildLevel": 3,
+    "Level": 1,
+    "MaxMemberCount": 9
+  },
+  {
+    "Id": 4,
+    "GuildLevel": 4,
+    "Level": 1,
+    "MaxMemberCount": 9
+  },
+  {
+    "Id": 5,
+    "GuildLevel": 5,
+    "Level": 1,
+    "MaxMemberCount": 9
+  },
+  {
+    "Id": 6,
+    "GuildLevel": 6,
+    "Level": 2,
+    "MaxMemberCount": 11
+  },
+  {
+    "Id": 7,
+    "GuildLevel": 7,
+    "Level": 2,
+    "MaxMemberCount": 11
+  },
+  {
+    "Id": 8,
+    "GuildLevel": 8,
+    "Level": 2,
+    "MaxMemberCount": 11
+  },
+  {
+    "Id": 9,
+    "GuildLevel": 9,
+    "Level": 3,
+    "MaxMemberCount": 14
+  },
+  {
+    "Id": 10,
+    "GuildLevel": 10,
+    "Level": 3,
+    "MaxMemberCount": 14
+  },
+  {
+    "Id": 11,
+    "GuildLevel": 11,
+    "Level": 3,
+    "MaxMemberCount": 14
+  },
+  {
+    "Id": 12,
+    "GuildLevel": 12,
+    "Level": 3,
+    "MaxMemberCount": 14
+  },
+  {
+    "Id": 13,
+    "GuildLevel": 13,
+    "Level": 4,
+    "MaxMemberCount": 17
+  },
+  {
+    "Id": 14,
+    "GuildLevel": 14,
+    "Level": 4,
+    "MaxMemberCount": 17
+  },
+  {
+    "Id": 15,
+    "GuildLevel": 15,
+    "Level": 4,
+    "MaxMemberCount": 17
+  },
+  {
+    "Id": 16,
+    "GuildLevel": 16,
+    "Level": 4,
+    "MaxMemberCount": 17
+  },
+  {
+    "Id": 17,
+    "GuildLevel": 17,
+    "Level": 5,
+    "MaxMemberCount": 20
+  },
+  {
+    "Id": 18,
+    "GuildLevel": 18,
+    "Level": 5,
+    "MaxMemberCount": 20
+  },
+  {
+    "Id": 19,
+    "GuildLevel": 19,
+    "Level": 5,
+    "MaxMemberCount": 20
+  },
+  {
+    "Id": 20,
+    "GuildLevel": 20,
+    "Level": 5,
+    "MaxMemberCount": 20
+  },
+  {
+    "Id": 21,
+    "GuildLevel": 21,
+    "Level": 5,
+    "MaxMemberCount": 20
+  },
+  {
+    "Id": 22,
+    "GuildLevel": 22,
+    "Level": 5,
+    "MaxMemberCount": 20
+  },
+  {
+    "Id": 23,
+    "GuildLevel": 23,
+    "Level": 5,
+    "MaxMemberCount": 20
+  },
+  {
+    "Id": 24,
+    "GuildLevel": 24,
+    "Level": 5,
+    "MaxMemberCount": 20
+  },
+  {
+    "Id": 25,
+    "GuildLevel": 25,
+    "Level": 5,
+    "MaxMemberCount": 20
+  },
+  {
+    "Id": 26,
+    "GuildLevel": 26,
+    "Level": 5,
+    "MaxMemberCount": 20
+  },
+  {
+    "Id": 27,
+    "GuildLevel": 27,
+    "Level": 5,
+    "MaxMemberCount": 20
+  },
+  {
+    "Id": 28,
+    "GuildLevel": 28,
+    "Level": 5,
+    "MaxMemberCount": 20
+  },
+  {
+    "Id": 29,
+    "GuildLevel": 29,
+    "Level": 5,
+    "MaxMemberCount": 20
+  },
+  {
+    "Id": 30,
+    "GuildLevel": 30,
+    "Level": 5,
+    "MaxMemberCount": 20
+  }
+]

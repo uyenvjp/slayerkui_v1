@@ -1,0 +1,10 @@
+{
+  "cases": 1232,
+  "snapshots": 176,
+  "entries": 7,
+  "instruction_steps": 240254,
+  "distinct_instructions": 824,
+  "original_level_table_rows": 5001,
+  "configured_user_max_level": 4000,
+  "scope": "Seven EXP/scroll/prediction entry bodies plus Exp_Cal and Probability bodies. Explicit decrypted wrappers, ExpAdd/spirit/event getters, original table lookups, initialized managers, RNG results, UI/log/Cave sinks. No full account, Unity/IFix/server or level-up application parity."
+}

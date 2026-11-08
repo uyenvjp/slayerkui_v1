@@ -1,0 +1,8 @@
+{
+  "connected_sequences": 16,
+  "sequence_actions": 96,
+  "contract_sequences": 3,
+  "contract_actions": 18,
+  "distinct_instructions": 2436,
+  "scope": "Lethal hit on warm EnemyNormal -> mode0 reward box spawn -> direct EnemyBox.DeadEvent on that object -> ItemDrop -> restart factory/ctor/MoveNext -> Stage_Reset -> explicit SceneChange callback -> Stage_Restart and wave spawn. Timing and callback delivery are externally stepped. Reward effects do not credit the account."
+}

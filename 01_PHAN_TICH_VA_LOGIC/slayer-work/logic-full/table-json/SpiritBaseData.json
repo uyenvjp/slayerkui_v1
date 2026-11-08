@@ -1,0 +1,529 @@
+[
+  {
+    "Id": 1,
+    "SpeciesIndex": 1,
+    "Name": "SPIRIT_NAME_001",
+    "DmgType": 1,
+    "SpiritAbilityTypes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AbilityValues": [
+      22,
+      20,
+      22,
+      20
+    ],
+    "SkillName": "SPIRIT_SKILL_NAME_001",
+    "SkillBasicDes": "SPIRIT_SKILL_BASIC_DES_001",
+    "SkillDes": "SPIRIT_SKILL_DES_001",
+    "SkillType": 1,
+    "SkillValues": [
+      6.0,
+      7.0,
+      8.0,
+      9.0,
+      10.0
+    ],
+    "PartnerEffect": 1.100000023841858,
+    "KorName": "살라"
+  },
+  {
+    "Id": 2,
+    "SpeciesIndex": 2,
+    "Name": "SPIRIT_NAME_002",
+    "DmgType": 2,
+    "SpiritAbilityTypes": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "AbilityValues": [
+      21,
+      21,
+      20,
+      20
+    ],
+    "SkillName": "SPIRIT_SKILL_NAME_002",
+    "SkillBasicDes": "SPIRIT_SKILL_BASIC_DES_002",
+    "SkillDes": "SPIRIT_SKILL_DES_002",
+    "SkillType": 2,
+    "SkillValues": [
+      4.0,
+      5.0,
+      6.0,
+      8.0,
+      10.0
+    ],
+    "PartnerEffect": 1.100000023841858,
+    "KorName": "아크"
+  },
+  {
+    "Id": 3,
+    "SpeciesIndex": 3,
+    "Name": "SPIRIT_NAME_003",
+    "DmgType": 3,
+    "SpiritAbilityTypes": [
+      3,
+      4,
+      1,
+      2
+    ],
+    "AbilityValues": [
+      20,
+      21,
+      21,
+      20
+    ],
+    "SkillName": "SPIRIT_SKILL_NAME_003",
+    "SkillBasicDes": "SPIRIT_SKILL_BASIC_DES_003",
+    "SkillDes": "SPIRIT_SKILL_DES_003",
+    "SkillType": 3,
+    "SkillValues": [
+      4.0,
+      4.5,
+      5.0,
+      5.5,
+      6.0
+    ],
+    "PartnerEffect": 1.100000023841858,
+    "KorName": "헤르"
+  },
+  {
+    "Id": 4,
+    "SpeciesIndex": 4,
+    "Name": "SPIRIT_NAME_004",
+    "DmgType": 4,
+    "SpiritAbilityTypes": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "AbilityValues": [
+      20,
+      20,
+      20,
+      22
+    ],
+    "SkillName": "SPIRIT_SKILL_NAME_004",
+    "SkillBasicDes": "SPIRIT_SKILL_BASIC_DES_004",
+    "SkillDes": "SPIRIT_SKILL_DES_004",
+    "SkillType": 4,
+    "SkillValues": [
+      10.0,
+      22.0,
+      35.0,
+      50.0,
+      80.0
+    ],
+    "PartnerEffect": 1.100000023841858,
+    "KorName": "로어"
+  },
+  {
+    "Id": 5,
+    "SpeciesIndex": 5,
+    "Name": "SPIRIT_NAME_005",
+    "DmgType": 1,
+    "SpiritAbilityTypes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AbilityValues": [
+      21,
+      20,
+      22,
+      21
+    ],
+    "SkillName": "SPIRIT_SKILL_NAME_005",
+    "SkillBasicDes": "SPIRIT_SKILL_BASIC_DES_005",
+    "SkillDes": "SPIRIT_SKILL_DES_005",
+    "SkillType": 5,
+    "SkillValues": [
+      10.0,
+      22.0,
+      35.0,
+      50.0,
+      80.0
+    ],
+    "PartnerEffect": 1.100000023841858,
+    "KorName": "뭄"
+  },
+  {
+    "Id": 6,
+    "SpeciesIndex": 6,
+    "Name": "SPIRIT_NAME_006",
+    "DmgType": 2,
+    "SpiritAbilityTypes": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "AbilityValues": [
+      20,
+      20,
+      20,
+      22
+    ],
+    "SkillName": "SPIRIT_SKILL_NAME_006",
+    "SkillBasicDes": "SPIRIT_SKILL_BASIC_DES_006",
+    "SkillDes": "SPIRIT_SKILL_DES_006",
+    "SkillType": 6,
+    "SkillValues": [
+      10.0,
+      22.0,
+      35.0,
+      50.0,
+      80.0
+    ],
+    "PartnerEffect": 1.100000023841858,
+    "KorName": "토드"
+  },
+  {
+    "Id": 7,
+    "SpeciesIndex": 7,
+    "Name": "SPIRIT_NAME_007",
+    "DmgType": 3,
+    "SpiritAbilityTypes": [
+      3,
+      4,
+      1,
+      2
+    ],
+    "AbilityValues": [
+      21,
+      20,
+      21,
+      20
+    ],
+    "SkillName": "SPIRIT_SKILL_NAME_007",
+    "SkillBasicDes": "SPIRIT_SKILL_BASIC_DES_007",
+    "SkillDes": "SPIRIT_SKILL_DES_007",
+    "SkillType": 7,
+    "SkillValues": [
+      14.0,
+      18.0,
+      22.0,
+      26.0,
+      30.0
+    ],
+    "PartnerEffect": 1.100000023841858,
+    "KorName": "제피"
+  },
+  {
+    "Id": 8,
+    "SpeciesIndex": 8,
+    "Name": "SPIRIT_NAME_008",
+    "DmgType": 4,
+    "SpiritAbilityTypes": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "AbilityValues": [
+      20,
+      20,
+      21,
+      21
+    ],
+    "SkillName": "SPIRIT_SKILL_NAME_008",
+    "SkillBasicDes": "SPIRIT_SKILL_BASIC_DES_008",
+    "SkillDes": "SPIRIT_SKILL_DES_008",
+    "SkillType": 8,
+    "SkillValues": [
+      10.0,
+      22.0,
+      35.0,
+      50.0,
+      80.0
+    ],
+    "PartnerEffect": 1.100000023841858,
+    "KorName": "라돈"
+  },
+  {
+    "Id": 9,
+    "SpeciesIndex": 9,
+    "Name": "SPIRIT_NAME_009",
+    "DmgType": 1,
+    "SpiritAbilityTypes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AbilityValues": [
+      20,
+      20,
+      21,
+      23
+    ],
+    "SkillName": "SPIRIT_SKILL_NAME_009",
+    "SkillBasicDes": "SPIRIT_SKILL_BASIC_DES_009",
+    "SkillDes": "SPIRIT_SKILL_DES_009",
+    "SkillType": 9,
+    "SkillValues": [
+      100.0,
+      180.0,
+      300.0,
+      400.0,
+      500.0
+    ],
+    "PartnerEffect": 1.100000023841858,
+    "KorName": "보"
+  },
+  {
+    "Id": 10,
+    "SpeciesIndex": 10,
+    "Name": "SPIRIT_NAME_010",
+    "DmgType": 2,
+    "SpiritAbilityTypes": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "AbilityValues": [
+      20,
+      20,
+      22,
+      20
+    ],
+    "SkillName": "SPIRIT_SKILL_NAME_010",
+    "SkillBasicDes": "SPIRIT_SKILL_BASIC_DES_010",
+    "SkillDes": "SPIRIT_SKILL_DES_010",
+    "SkillType": 10,
+    "SkillValues": [
+      10.0,
+      22.0,
+      35.0,
+      50.0,
+      80.0
+    ],
+    "PartnerEffect": 1.100000023841858,
+    "KorName": "루가"
+  },
+  {
+    "Id": 11,
+    "SpeciesIndex": 11,
+    "Name": "SPIRIT_NAME_011",
+    "DmgType": 3,
+    "SpiritAbilityTypes": [
+      3,
+      4,
+      1,
+      2
+    ],
+    "AbilityValues": [
+      20,
+      21,
+      21,
+      20
+    ],
+    "SkillName": "SPIRIT_SKILL_NAME_011",
+    "SkillBasicDes": "SPIRIT_SKILL_BASIC_DES_011",
+    "SkillDes": "SPIRIT_SKILL_DES_011",
+    "SkillType": 11,
+    "SkillValues": [
+      13.0,
+      16.0,
+      19.0,
+      22.0,
+      25.0
+    ],
+    "PartnerEffect": 1.100000023841858,
+    "KorName": "카트"
+  },
+  {
+    "Id": 12,
+    "SpeciesIndex": 12,
+    "Name": "SPIRIT_NAME_012",
+    "DmgType": 4,
+    "SpiritAbilityTypes": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "AbilityValues": [
+      20,
+      20,
+      20,
+      22
+    ],
+    "SkillName": "SPIRIT_SKILL_NAME_012",
+    "SkillBasicDes": "SPIRIT_SKILL_BASIC_DES_012",
+    "SkillDes": "SPIRIT_SKILL_DES_012",
+    "SkillType": 12,
+    "SkillValues": [
+      1.2000000476837158,
+      1.399999976158142,
+      1.600000023841858,
+      1.7999999523162842,
+      2.0
+    ],
+    "PartnerEffect": 1.100000023841858,
+    "KorName": "노아"
+  },
+  {
+    "Id": 100,
+    "SpeciesIndex": 100,
+    "Name": "SPIRIT_NAME_100",
+    "DmgType": 100,
+    "SpiritAbilityTypes": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "AbilityValues": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillName": "SPIRIT_SKILL_NAME_100",
+    "SkillBasicDes": "SPIRIT_SKILL_BASIC_DES_100",
+    "SkillDes": "SPIRIT_SKILL_DES_100",
+    "SkillType": 100,
+    "SkillValues": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PartnerEffect": 0.0,
+    "KorName": "멜론"
+  },
+  {
+    "Id": 101,
+    "SpeciesIndex": 101,
+    "Name": "SPIRIT_NAME_101",
+    "DmgType": 1,
+    "SpiritAbilityTypes": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "AbilityValues": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillName": "SPIRIT_SKILL_NAME_101",
+    "SkillBasicDes": "SPIRIT_SKILL_BASIC_DES_101",
+    "SkillDes": "SPIRIT_SKILL_DES_101",
+    "SkillType": 100,
+    "SkillValues": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PartnerEffect": 0.0,
+    "KorName": "멜론"
+  },
+  {
+    "Id": 102,
+    "SpeciesIndex": 102,
+    "Name": "SPIRIT_NAME_102",
+    "DmgType": 2,
+    "SpiritAbilityTypes": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "AbilityValues": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillName": "SPIRIT_SKILL_NAME_102",
+    "SkillBasicDes": "SPIRIT_SKILL_BASIC_DES_102",
+    "SkillDes": "SPIRIT_SKILL_DES_102",
+    "SkillType": 100,
+    "SkillValues": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PartnerEffect": 0.0,
+    "KorName": "멜론"
+  },
+  {
+    "Id": 103,
+    "SpeciesIndex": 103,
+    "Name": "SPIRIT_NAME_103",
+    "DmgType": 3,
+    "SpiritAbilityTypes": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "AbilityValues": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillName": "SPIRIT_SKILL_NAME_103",
+    "SkillBasicDes": "SPIRIT_SKILL_BASIC_DES_103",
+    "SkillDes": "SPIRIT_SKILL_DES_103",
+    "SkillType": 100,
+    "SkillValues": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PartnerEffect": 0.0,
+    "KorName": "멜론"
+  },
+  {
+    "Id": 104,
+    "SpeciesIndex": 104,
+    "Name": "SPIRIT_NAME_104",
+    "DmgType": 4,
+    "SpiritAbilityTypes": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "AbilityValues": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillName": "SPIRIT_SKILL_NAME_104",
+    "SkillBasicDes": "SPIRIT_SKILL_BASIC_DES_104",
+    "SkillDes": "SPIRIT_SKILL_DES_104",
+    "SkillType": 100,
+    "SkillValues": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PartnerEffect": 0.0,
+    "KorName": "멜론"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6000868",
+    "name": "MoveNext",
+    "declaring_type_index": "316",
+    "declaring_type_full_name": "IFixRuntimePatcher+<StartPatch>d__5",
+    "native_va": "0x51b93a4",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "481",
+    "iflags": "0",
+    "slot": "4",
+    "metadata_record_offset": "0x88948c",
+    "end_va": "0x51ba090",
+    "asm_file": "IFixRuntimePatcher__StartPatch_d__5__MoveNext_0x6000868.asm"
+  }
+]

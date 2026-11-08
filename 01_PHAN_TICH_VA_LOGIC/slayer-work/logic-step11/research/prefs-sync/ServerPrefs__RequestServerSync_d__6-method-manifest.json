@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x600a005",
+    "name": "MoveNext",
+    "declaring_type_index": "4200",
+    "declaring_type_full_name": "ServerPrefs+<RequestServerSync>d__6",
+    "native_va": "0x51f19c0",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "481",
+    "iflags": "0",
+    "slot": "4",
+    "metadata_record_offset": "0x9b882c",
+    "end_va": "0x51f1ea4",
+    "asm_file": "ServerPrefs__RequestServerSync_d__6__MoveNext_0x600a005.asm"
+  }
+]

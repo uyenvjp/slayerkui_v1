@@ -1,0 +1,7 @@
+{
+  "connected_sequences": 102,
+  "sequence_actions": 487,
+  "instruction_steps": 72859,
+  "distinct_instructions": 916,
+  "scope": "Stronger linked ServerPrefs sync -> APIManager.SetClientData/api255 -> packet ctor/set_Content -> AddRequest/Create -> SetClientData response MoveNext/IsValidCode -> native callback/signal/wait/reset. Queue dispatch, Task/async builders, network singleton/front client, RPC responses/headers, UI, string precondition/serialization and unpatched IFix explicit. Queue processing/sequencing is separately tested, not linked into this corpus. No RPC/SEH/live scheduler/backend parity."
+}

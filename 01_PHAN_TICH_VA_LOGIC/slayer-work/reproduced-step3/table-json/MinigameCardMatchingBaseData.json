@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "CardCount": 6,
+    "CardMatchingPlayType": 1,
+    "Prob": 30.0,
+    "LimitTime": 10
+  },
+  {
+    "Id": 2,
+    "CardCount": 8,
+    "CardMatchingPlayType": 1,
+    "Prob": 30.0,
+    "LimitTime": 20
+  },
+  {
+    "Id": 3,
+    "CardCount": 12,
+    "CardMatchingPlayType": 1,
+    "Prob": 30.0,
+    "LimitTime": 30
+  },
+  {
+    "Id": 4,
+    "CardCount": 12,
+    "CardMatchingPlayType": 2,
+    "Prob": 10.0,
+    "LimitTime": 30
+  }
+]

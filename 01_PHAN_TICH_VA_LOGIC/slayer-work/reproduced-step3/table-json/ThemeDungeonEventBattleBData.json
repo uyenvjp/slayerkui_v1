@@ -1,0 +1,28 @@
+[
+  {
+    "Id": 1,
+    "RewardDefaultAmount": 2250,
+    "Multiplier": 1.0,
+    "CameraSetting": 4.0,
+    "AttackDistance": 3.0,
+    "Map": 4000,
+    "BossScale": 3,
+    "BossNumber": 3007,
+    "DmgType": 0,
+    "AttackSpeed": 1.0,
+    "Miss": 1.0,
+    "Accuracy": 4000.0,
+    "BaseHp": "10000000000",
+    "BaseHpSerialized": "10000000000",
+    "BaseAtk": "2000",
+    "BaseAtkSerialized": "2000",
+    "HpFactor": 1.1699999570846558,
+    "AtkFactor": 1.0199999809265137,
+    "BattleType": 2,
+    "BattlePattern": 19,
+    "EnemyAttackType": 0,
+    "TimeLimit": 40,
+    "MapColor": "FFFFFF",
+    "MapEffectType": 0
+  }
+]

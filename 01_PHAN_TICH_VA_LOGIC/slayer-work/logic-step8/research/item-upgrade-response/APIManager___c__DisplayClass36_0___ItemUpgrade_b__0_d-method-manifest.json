@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6000e41",
+    "name": "MoveNext",
+    "declaring_type_index": "816",
+    "declaring_type_full_name": "APIManager+<>c__DisplayClass36_0+<<ItemUpgrade>b__0>d",
+    "native_va": "0x4712f24",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "481",
+    "iflags": "0",
+    "slot": "4",
+    "metadata_record_offset": "0x894fac",
+    "end_va": "0x47132a0",
+    "asm_file": "APIManager___c__DisplayClass36_0___ItemUpgrade_b__0_d__MoveNext_0x6000e41.asm"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 0,
+    "Count": 1,
+    "RewardCurrency": 1,
+    "Amount": 2000
+  },
+  {
+    "Id": 1,
+    "Count": 3,
+    "RewardCurrency": 7,
+    "Amount": 1000
+  },
+  {
+    "Id": 2,
+    "Count": 6,
+    "RewardCurrency": 1,
+    "Amount": 6000
+  },
+  {
+    "Id": 3,
+    "Count": 9,
+    "RewardCurrency": 7,
+    "Amount": 2000
+  },
+  {
+    "Id": 4,
+    "Count": 12,
+    "RewardCurrency": 1,
+    "Amount": 10000
+  }
+]

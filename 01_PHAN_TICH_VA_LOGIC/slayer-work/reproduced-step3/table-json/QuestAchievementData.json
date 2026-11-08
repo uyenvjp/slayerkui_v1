@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "AchievementType": 0,
+    "ActionConditionType": 11
+  },
+  {
+    "Id": 2,
+    "AchievementType": 1,
+    "ActionConditionType": 12
+  },
+  {
+    "Id": 3,
+    "AchievementType": 2,
+    "ActionConditionType": 13
+  },
+  {
+    "Id": 4,
+    "AchievementType": 3,
+    "ActionConditionType": 14
+  },
+  {
+    "Id": 5,
+    "AchievementType": 4,
+    "ActionConditionType": 6
+  },
+  {
+    "Id": 6,
+    "AchievementType": 5,
+    "ActionConditionType": 15
+  }
+]

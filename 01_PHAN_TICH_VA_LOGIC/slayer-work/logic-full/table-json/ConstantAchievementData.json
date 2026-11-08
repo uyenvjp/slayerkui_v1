@@ -1,0 +1,12 @@
+[
+  {
+    "Id": "RewardOffline_MaxOfflineMinutes",
+    "Key": "RewardOffline_MaxOfflineMinutes",
+    "Value": "600"
+  },
+  {
+    "Id": "RewardOffline_AdRewardBonusPercent",
+    "Key": "RewardOffline_AdRewardBonusPercent",
+    "Value": "30"
+  }
+]

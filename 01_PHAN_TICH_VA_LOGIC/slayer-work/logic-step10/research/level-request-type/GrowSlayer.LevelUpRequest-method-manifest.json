@@ -1,0 +1,38 @@
+[
+  {
+    "module": "GrowSlayer.ProtoGenScripts.dll",
+    "token": "0x6005b0c",
+    "name": ".ctor",
+    "declaring_type_index": "9214",
+    "declaring_type_full_name": "GrowSlayer.LevelUpRequest",
+    "native_va": "0x8936f00",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "6278",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0xb2dd0c",
+    "end_va": "0x8936f08",
+    "asm_file": "GrowSlayer.LevelUpRequest__.ctor_0x6005b0c.asm"
+  },
+  {
+    "module": "GrowSlayer.ProtoGenScripts.dll",
+    "token": "0x6005b0d",
+    "name": ".ctor",
+    "declaring_type_index": "9214",
+    "declaring_type_full_name": "GrowSlayer.LevelUpRequest",
+    "native_va": "0x8936f08",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "41704",
+    "parameter_count": "1",
+    "flags": "6278",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0xb2dd2c",
+    "end_va": "0x8936f78",
+    "asm_file": "GrowSlayer.LevelUpRequest__.ctor_0x6005b0d.asm"
+  }
+]

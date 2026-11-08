@@ -1,0 +1,8 @@
+{
+  "cases": 820,
+  "snapshots": 41,
+  "entries": 20,
+  "instruction_steps": 145526,
+  "distinct_instructions_visited": 1389,
+  "scope": "SkillData method bodies with decrypted wrappers, account getters, UI calls, iterator allocation and localization represented explicitly; not Unity or live IFix validation."
+}

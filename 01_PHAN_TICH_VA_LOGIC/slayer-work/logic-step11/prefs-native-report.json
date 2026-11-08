@@ -1,0 +1,11 @@
+{
+  "cases": 2304,
+  "snapshots": 96,
+  "entries": 24,
+  "contract_cases": 18,
+  "connected_sequences": 2,
+  "sequence_actions": 14,
+  "instruction_steps": 125845,
+  "distinct_instructions": 1065,
+  "scope": "24 selected ServerPrefs/Value entries: string/enum get-set/has/remove, dirty flags, load success/empty/account-null paths and Save decision. Original methods and dirty reset bodies interpreted. Explicit initialized metadata, collections/enumerators, ASCII parser fixtures, enum names, allocation, deserialize/serialize and RequestServerSync sink; no exception-unwind/complete JSON/BCL/network/account-save parity."
+}

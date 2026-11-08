@@ -1,0 +1,2739 @@
+[
+  {
+    "Id": 1,
+    "CurrencyTypes": 1,
+    "Name": "GOODS_NAME_001",
+    "Desc": "GOODS_DESC_001",
+    "IconPath": "Icon/Item_Icon/Goods_Diamond",
+    "Get": [
+      "KEY_0423",
+      "KEY_0429",
+      "KEY_0686"
+    ]
+  },
+  {
+    "Id": 2,
+    "CurrencyTypes": 2,
+    "Name": "GOODS_NAME_012",
+    "Desc": "GOODS_DESC_012",
+    "IconPath": "Icon/Item_Icon/Goods_DragonForce",
+    "Get": [
+      "KEY_0782"
+    ]
+  },
+  {
+    "Id": 3,
+    "CurrencyTypes": 3,
+    "Name": "GOODS_NAME_005",
+    "Desc": "GOODS_DESC_005",
+    "IconPath": "Icon/Item_Icon/Goods_EarthStone",
+    "Get": [
+      "IMMORTAL_TREE_STAGE",
+      "KEY_0408"
+    ]
+  },
+  {
+    "Id": 4,
+    "CurrencyTypes": 4,
+    "Name": "GOODS_NAME_008",
+    "Desc": "GOODS_DESC_008",
+    "IconPath": "Icon/Item_Icon/Goods_Dice",
+    "Get": [
+      "IMMORTAL_TREE_STAGE"
+    ]
+  },
+  {
+    "Id": 5,
+    "CurrencyTypes": 5,
+    "Name": "GOODS_NAME_006",
+    "Desc": "GOODS_DESC_006",
+    "IconPath": "Icon/Item_Icon/Goods_FireStone",
+    "Get": [
+      "IMMORTAL_TREE_STAGE",
+      "KEY_0408"
+    ]
+  },
+  {
+    "Id": 6,
+    "CurrencyTypes": 6,
+    "Name": "GOODS_NAME_003",
+    "Desc": "GOODS_DESC_003",
+    "IconPath": "Icon/Item_Icon/Goods_UpgradeCube",
+    "Get": [
+      "IMMORTAL_TREE_STAGE",
+      "KEY_0408",
+      "KEY_0497"
+    ]
+  },
+  {
+    "Id": 7,
+    "CurrencyTypes": 7,
+    "Name": "GOODS_NAME_002",
+    "Desc": "GOODS_DESC_002",
+    "IconPath": "Icon/Item_Icon/Goods_Emerald",
+    "Get": [
+      "KEY_0423",
+      "KEY_0429",
+      "KEY_0686"
+    ]
+  },
+  {
+    "Id": 8,
+    "CurrencyTypes": 8,
+    "Name": "GOODS_NAME_000",
+    "Desc": "GOODS_DESC_000",
+    "IconPath": "Icon/Item_Icon/Goods_Gold",
+    "Get": []
+  },
+  {
+    "Id": 9,
+    "CurrencyTypes": 9,
+    "Name": "GOODS_NAME_011",
+    "Desc": "GOODS_DESC_011",
+    "IconPath": "Icon/Item_Icon/Goods_Mileage",
+    "Get": [
+      "KEY_0686"
+    ]
+  },
+  {
+    "Id": 10,
+    "CurrencyTypes": 10,
+    "Name": "GOODS_NAME_009",
+    "Desc": "GOODS_DESC_009",
+    "IconPath": "Icon/Item_Icon/Goods_Wing",
+    "Get": [
+      "KEY_0423",
+      "KEY_0686"
+    ]
+  },
+  {
+    "Id": 11,
+    "CurrencyTypes": 11,
+    "Name": "GOODS_NAME_007",
+    "Desc": "GOODS_DESC_007",
+    "IconPath": "Icon/Item_Icon/Goods_WaterStone",
+    "Get": [
+      "IMMORTAL_TREE_STAGE",
+      "KEY_0408"
+    ]
+  },
+  {
+    "Id": 12,
+    "CurrencyTypes": 12,
+    "Name": "GOODS_NAME_004",
+    "Desc": "GOODS_DESC_004",
+    "IconPath": "Icon/Item_Icon/Goods_WindStone",
+    "Get": [
+      "IMMORTAL_TREE_STAGE",
+      "KEY_0408"
+    ]
+  },
+  {
+    "Id": 13,
+    "CurrencyTypes": 13,
+    "Name": "GOODS_NAME_018",
+    "Desc": "GOODS_DESC_018",
+    "IconPath": "Icon/Item_Icon/Goods_SoulGreen",
+    "Get": [
+      "IMMORTAL_TREE_STAGE"
+    ]
+  },
+  {
+    "Id": 14,
+    "CurrencyTypes": 14,
+    "Name": "GOODS_NAME_019",
+    "Desc": "GOODS_DESC_019",
+    "IconPath": "Icon/Item_Icon/Goods_SoulBlue",
+    "Get": [
+      "IMMORTAL_TREE_STAGE"
+    ]
+  },
+  {
+    "Id": 15,
+    "CurrencyTypes": 15,
+    "Name": "GOODS_NAME_020",
+    "Desc": "GOODS_DESC_020",
+    "IconPath": "Icon/Item_Icon/Goods_SoulRed",
+    "Get": [
+      "IMMORTAL_TREE_STAGE"
+    ]
+  },
+  {
+    "Id": 16,
+    "CurrencyTypes": 16,
+    "Name": "GOODS_NAME_021",
+    "Desc": "GOODS_DESC_021",
+    "IconPath": "Icon/Item_Icon/Goods_SoulWhite",
+    "Get": [
+      "REFINE_SOULWEAPON"
+    ]
+  },
+  {
+    "Id": 17,
+    "CurrencyTypes": 17,
+    "Name": "GOODS_NAME_022",
+    "Desc": "GOODS_DESC_022",
+    "IconPath": "Icon/Item_Icon/Goods_ManaCrystal",
+    "Get": [
+      "KEY_0292"
+    ]
+  },
+  {
+    "Id": 18,
+    "CurrencyTypes": 18,
+    "Name": "GOODS_NAME_025",
+    "Desc": "GOODS_DESC_025",
+    "IconPath": "Icon/Item_Icon/Goods_TicketForest",
+    "Get": []
+  },
+  {
+    "Id": 19,
+    "CurrencyTypes": 19,
+    "Name": "GOODS_NAME_024",
+    "Desc": "GOODS_DESC_024",
+    "IconPath": "Icon/Item_Icon/Goods_TicketRankingBattle",
+    "Get": []
+  },
+  {
+    "Id": 20,
+    "CurrencyTypes": 20,
+    "Name": "GOODS_NAME_ATTRIBUTE_STONE_BUNDLE",
+    "Desc": "GOODS_DESC_013",
+    "IconPath": "Icon/Item_Icon/Goods_AllStone",
+    "Get": []
+  },
+  {
+    "Id": 21,
+    "CurrencyTypes": 21,
+    "Name": "GOODS_NAME_PaidDiamond",
+    "Desc": "GOODS_NAME_PaidDiamond",
+    "IconPath": "Icon/Item_Icon/Goods_PaidDiamond",
+    "Get": []
+  },
+  {
+    "Id": 22,
+    "CurrencyTypes": 22,
+    "Name": "GOODS_NAME_PaidEmerald",
+    "Desc": "GOODS_NAME_PaidEmerald",
+    "IconPath": "Icon/Item_Icon/Goods_PaidEmerald",
+    "Get": []
+  },
+  {
+    "Id": 23,
+    "CurrencyTypes": 23,
+    "Name": "GOODS_NAME_AllScroll",
+    "Desc": "GOODS_NAME_AllScroll",
+    "IconPath": "Icon/Item_Icon/Goods_AllScroll",
+    "Get": []
+  },
+  {
+    "Id": 24,
+    "CurrencyTypes": 24,
+    "Name": "GOODS_NAME_010",
+    "Desc": "GOODS_DESC_010",
+    "IconPath": "Icon/Item_Icon/Goods_Exp",
+    "Get": []
+  },
+  {
+    "Id": 25,
+    "CurrencyTypes": 25,
+    "Name": "GOODS_NAME_SKINCOIN",
+    "Desc": "GOODS_DESC_SKINCOIN",
+    "IconPath": "Icon/Item_Icon/Goods_SkinCoin",
+    "Get": [
+      "KEY_0686"
+    ]
+  },
+  {
+    "Id": 26,
+    "CurrencyTypes": 26,
+    "Name": "GOODS_NAME_MASTERYPOINT",
+    "Desc": "GOODS_DESC_MASTERYPOINT",
+    "IconPath": "Icon/Item_Icon/Goods_MasteryPoint",
+    "Get": [
+      "ACHIEVE_TITLE_004"
+    ]
+  },
+  {
+    "Id": 27,
+    "CurrencyTypes": 27,
+    "Name": "GOODS_NAME_SEASON_RANKING_SHOP_COIN",
+    "Desc": "GOODS_NAME_SEASON_RANKING_SHOP_COIN",
+    "IconPath": "Icon/Item_Icon/Goods_SeasonRankingShopCoin",
+    "Get": []
+  },
+  {
+    "Id": 50,
+    "CurrencyTypes": 50,
+    "Name": "GOODS_NAME_014",
+    "Desc": "GOODS_DESC_014",
+    "IconPath": "Icon/Item_Icon/Goods_GoldBuff",
+    "Get": []
+  },
+  {
+    "Id": 51,
+    "CurrencyTypes": 51,
+    "Name": "GOODS_NAME_015",
+    "Desc": "GOODS_DESC_015",
+    "IconPath": "Icon/Item_Icon/Goods_ExpBuff",
+    "Get": []
+  },
+  {
+    "Id": 52,
+    "CurrencyTypes": 52,
+    "Name": "GOODS_NAME_016",
+    "Desc": "GOODS_DESC_016",
+    "IconPath": "Icon/Item_Icon/Goods_CubeDropBuff",
+    "Get": []
+  },
+  {
+    "Id": 53,
+    "CurrencyTypes": 53,
+    "Name": "GOODS_NAME_017",
+    "Desc": "GOODS_DESC_017",
+    "IconPath": "Icon/Item_Icon/Goods_EquipmentDropBuff",
+    "Get": []
+  },
+  {
+    "Id": 100,
+    "CurrencyTypes": 100,
+    "Name": "GOODS_NAME_WEAPON",
+    "Desc": "GOODS_NAME_WEAPON",
+    "IconPath": "Icon/Item_Icon/Goods_Weapon",
+    "Get": []
+  },
+  {
+    "Id": 101,
+    "CurrencyTypes": 101,
+    "Name": "GOODS_NAME_ACCESSORY",
+    "Desc": "GOODS_NAME_ACCESSORY",
+    "IconPath": "Icon/Item_Icon/Goods_Accessory",
+    "Get": []
+  },
+  {
+    "Id": 102,
+    "CurrencyTypes": 102,
+    "Name": "GOODS_NAME_SKILL",
+    "Desc": "GOODS_NAME_SKILL",
+    "IconPath": "Icon/Item_Icon/Goods_Skill",
+    "Get": []
+  },
+  {
+    "Id": 103,
+    "CurrencyTypes": 103,
+    "Name": "GOODS_NAME_SLAYERCLASS",
+    "Desc": "GOODS_NAME_SLAYERCLASS",
+    "IconPath": "Icon/Item_Icon/Goods_SlayerClass",
+    "Get": []
+  },
+  {
+    "Id": 121,
+    "CurrencyTypes": 121,
+    "Name": "GOODS_NAME_ARTIFACT",
+    "Desc": "GOODS_NAME_ARTIFACT",
+    "IconPath": "Icon/Item_Icon/Goods_Artifact",
+    "Get": []
+  },
+  {
+    "Id": 200,
+    "CurrencyTypes": 200,
+    "Name": "GOODS_NAME_EVENT_MONEY_200",
+    "Desc": "GOODS_NAME_EVENT_MONEY_200",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney200",
+    "Get": []
+  },
+  {
+    "Id": 201,
+    "CurrencyTypes": 201,
+    "Name": "GOODS_NAME_EVENT_MONEY_201",
+    "Desc": "GOODS_NAME_EVENT_MONEY_201",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney201",
+    "Get": []
+  },
+  {
+    "Id": 202,
+    "CurrencyTypes": 202,
+    "Name": "GOODS_NAME_EVENT_MONEY_202",
+    "Desc": "GOODS_NAME_EVENT_MONEY_202",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney202",
+    "Get": []
+  },
+  {
+    "Id": 203,
+    "CurrencyTypes": 203,
+    "Name": "GOODS_NAME_EVENT_MONEY_203",
+    "Desc": "GOODS_NAME_EVENT_MONEY_203",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney203",
+    "Get": []
+  },
+  {
+    "Id": 204,
+    "CurrencyTypes": 204,
+    "Name": "GOODS_NAME_EVENT_MONEY_204",
+    "Desc": "GOODS_NAME_EVENT_MONEY_204",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney204",
+    "Get": []
+  },
+  {
+    "Id": 205,
+    "CurrencyTypes": 205,
+    "Name": "GOODS_NAME_EVENT_MONEY_205",
+    "Desc": "GOODS_NAME_EVENT_MONEY_205",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney205",
+    "Get": []
+  },
+  {
+    "Id": 206,
+    "CurrencyTypes": 206,
+    "Name": "GOODS_NAME_EVENT_MONEY_206",
+    "Desc": "GOODS_NAME_EVENT_MONEY_206",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney206",
+    "Get": []
+  },
+  {
+    "Id": 207,
+    "CurrencyTypes": 207,
+    "Name": "GOODS_NAME_EVENT_MONEY_207",
+    "Desc": "GOODS_NAME_EVENT_MONEY_207",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney207",
+    "Get": []
+  },
+  {
+    "Id": 208,
+    "CurrencyTypes": 208,
+    "Name": "GOODS_NAME_EVENT_MONEY_208",
+    "Desc": "GOODS_NAME_EVENT_MONEY_208",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney208",
+    "Get": []
+  },
+  {
+    "Id": 209,
+    "CurrencyTypes": 209,
+    "Name": "GOODS_NAME_EVENT_MONEY_209",
+    "Desc": "GOODS_NAME_EVENT_MONEY_209",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney209",
+    "Get": []
+  },
+  {
+    "Id": 210,
+    "CurrencyTypes": 210,
+    "Name": "GOODS_NAME_EVENT_MONEY_210",
+    "Desc": "GOODS_NAME_EVENT_MONEY_210",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney210",
+    "Get": []
+  },
+  {
+    "Id": 211,
+    "CurrencyTypes": 211,
+    "Name": "GOODS_NAME_EVENT_MONEY_211",
+    "Desc": "GOODS_NAME_EVENT_MONEY_211",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney211",
+    "Get": []
+  },
+  {
+    "Id": 212,
+    "CurrencyTypes": 212,
+    "Name": "GOODS_NAME_EVENT_MONEY_212",
+    "Desc": "GOODS_NAME_EVENT_MONEY_212",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney212",
+    "Get": []
+  },
+  {
+    "Id": 213,
+    "CurrencyTypes": 213,
+    "Name": "GOODS_NAME_EVENT_MONEY_213",
+    "Desc": "GOODS_NAME_EVENT_MONEY_213",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney213",
+    "Get": []
+  },
+  {
+    "Id": 214,
+    "CurrencyTypes": 214,
+    "Name": "GOODS_NAME_EVENT_MONEY_214",
+    "Desc": "GOODS_NAME_EVENT_MONEY_214",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney214",
+    "Get": []
+  },
+  {
+    "Id": 215,
+    "CurrencyTypes": 215,
+    "Name": "GOODS_NAME_EVENT_MONEY_215",
+    "Desc": "GOODS_NAME_EVENT_MONEY_215",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney215",
+    "Get": []
+  },
+  {
+    "Id": 216,
+    "CurrencyTypes": 216,
+    "Name": "GOODS_NAME_EVENT_MONEY_216",
+    "Desc": "GOODS_NAME_EVENT_MONEY_216",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney216",
+    "Get": []
+  },
+  {
+    "Id": 217,
+    "CurrencyTypes": 217,
+    "Name": "GOODS_NAME_EVENT_MONEY_217",
+    "Desc": "GOODS_NAME_EVENT_MONEY_217",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney217",
+    "Get": []
+  },
+  {
+    "Id": 218,
+    "CurrencyTypes": 218,
+    "Name": "GOODS_NAME_EVENT_MONEY_218",
+    "Desc": "GOODS_NAME_EVENT_MONEY_218",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney218",
+    "Get": []
+  },
+  {
+    "Id": 219,
+    "CurrencyTypes": 219,
+    "Name": "GOODS_NAME_EVENT_MONEY_219",
+    "Desc": "GOODS_NAME_EVENT_MONEY_219",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney219",
+    "Get": []
+  },
+  {
+    "Id": 220,
+    "CurrencyTypes": 220,
+    "Name": "GOODS_NAME_EVENT_MONEY_220",
+    "Desc": "GOODS_NAME_EVENT_MONEY_220",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney220",
+    "Get": []
+  },
+  {
+    "Id": 221,
+    "CurrencyTypes": 221,
+    "Name": "GOODS_NAME_EVENT_MONEY_221",
+    "Desc": "GOODS_NAME_EVENT_MONEY_221",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney221",
+    "Get": []
+  },
+  {
+    "Id": 222,
+    "CurrencyTypes": 222,
+    "Name": "GOODS_NAME_EVENT_MONEY_222",
+    "Desc": "GOODS_NAME_EVENT_MONEY_222",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney222",
+    "Get": []
+  },
+  {
+    "Id": 223,
+    "CurrencyTypes": 223,
+    "Name": "GOODS_NAME_EVENT_MONEY_223",
+    "Desc": "GOODS_NAME_EVENT_MONEY_223",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney223",
+    "Get": []
+  },
+  {
+    "Id": 224,
+    "CurrencyTypes": 224,
+    "Name": "GOODS_NAME_EVENT_MONEY_224",
+    "Desc": "GOODS_NAME_EVENT_MONEY_224",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney224",
+    "Get": []
+  },
+  {
+    "Id": 225,
+    "CurrencyTypes": 225,
+    "Name": "GOODS_NAME_EVENT_MONEY_225",
+    "Desc": "GOODS_NAME_EVENT_MONEY_225",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney225",
+    "Get": []
+  },
+  {
+    "Id": 226,
+    "CurrencyTypes": 226,
+    "Name": "GOODS_NAME_EVENT_MONEY_226",
+    "Desc": "GOODS_NAME_EVENT_MONEY_226",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney226",
+    "Get": []
+  },
+  {
+    "Id": 227,
+    "CurrencyTypes": 227,
+    "Name": "GOODS_NAME_EVENT_MONEY_227",
+    "Desc": "GOODS_NAME_EVENT_MONEY_227",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney227",
+    "Get": []
+  },
+  {
+    "Id": 228,
+    "CurrencyTypes": 228,
+    "Name": "GOODS_NAME_EVENT_MONEY_228",
+    "Desc": "GOODS_NAME_EVENT_MONEY_228",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney228",
+    "Get": []
+  },
+  {
+    "Id": 229,
+    "CurrencyTypes": 229,
+    "Name": "GOODS_NAME_EVENT_MONEY_229",
+    "Desc": "GOODS_NAME_EVENT_MONEY_229",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney229",
+    "Get": []
+  },
+  {
+    "Id": 230,
+    "CurrencyTypes": 230,
+    "Name": "GOODS_NAME_EVENT_MONEY_230",
+    "Desc": "GOODS_NAME_EVENT_MONEY_230",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney230",
+    "Get": []
+  },
+  {
+    "Id": 231,
+    "CurrencyTypes": 231,
+    "Name": "GOODS_NAME_EVENT_MONEY_231",
+    "Desc": "GOODS_NAME_EVENT_MONEY_231",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney231",
+    "Get": []
+  },
+  {
+    "Id": 232,
+    "CurrencyTypes": 232,
+    "Name": "GOODS_NAME_EVENT_MONEY_232",
+    "Desc": "GOODS_NAME_EVENT_MONEY_232",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney232",
+    "Get": []
+  },
+  {
+    "Id": 233,
+    "CurrencyTypes": 233,
+    "Name": "GOODS_NAME_EVENT_MONEY_233",
+    "Desc": "GOODS_NAME_EVENT_MONEY_233",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney233",
+    "Get": []
+  },
+  {
+    "Id": 234,
+    "CurrencyTypes": 234,
+    "Name": "GOODS_NAME_EVENT_MONEY_234",
+    "Desc": "GOODS_NAME_EVENT_MONEY_234",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney234",
+    "Get": []
+  },
+  {
+    "Id": 235,
+    "CurrencyTypes": 235,
+    "Name": "GOODS_NAME_EVENT_MONEY_235",
+    "Desc": "GOODS_NAME_EVENT_MONEY_235",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney235",
+    "Get": []
+  },
+  {
+    "Id": 236,
+    "CurrencyTypes": 236,
+    "Name": "GOODS_NAME_EVENT_MONEY_236",
+    "Desc": "GOODS_NAME_EVENT_MONEY_236",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney236",
+    "Get": []
+  },
+  {
+    "Id": 237,
+    "CurrencyTypes": 237,
+    "Name": "GOODS_NAME_EVENT_MONEY_237",
+    "Desc": "GOODS_NAME_EVENT_MONEY_237",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney237",
+    "Get": []
+  },
+  {
+    "Id": 238,
+    "CurrencyTypes": 238,
+    "Name": "GOODS_NAME_EVENT_MONEY_238",
+    "Desc": "GOODS_NAME_EVENT_MONEY_238",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney238",
+    "Get": []
+  },
+  {
+    "Id": 239,
+    "CurrencyTypes": 239,
+    "Name": "GOODS_NAME_EVENT_MONEY_239",
+    "Desc": "GOODS_NAME_EVENT_MONEY_239",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney239",
+    "Get": []
+  },
+  {
+    "Id": 240,
+    "CurrencyTypes": 240,
+    "Name": "GOODS_NAME_EVENT_MONEY_240",
+    "Desc": "GOODS_NAME_EVENT_MONEY_240",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney240",
+    "Get": []
+  },
+  {
+    "Id": 241,
+    "CurrencyTypes": 241,
+    "Name": "GOODS_NAME_EVENT_MONEY_241",
+    "Desc": "GOODS_NAME_EVENT_MONEY_241",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney241",
+    "Get": []
+  },
+  {
+    "Id": 242,
+    "CurrencyTypes": 242,
+    "Name": "GOODS_NAME_EVENT_MONEY_242",
+    "Desc": "GOODS_NAME_EVENT_MONEY_242",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney242",
+    "Get": []
+  },
+  {
+    "Id": 243,
+    "CurrencyTypes": 243,
+    "Name": "GOODS_NAME_EVENT_MONEY_243",
+    "Desc": "GOODS_NAME_EVENT_MONEY_243",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney243",
+    "Get": []
+  },
+  {
+    "Id": 244,
+    "CurrencyTypes": 244,
+    "Name": "GOODS_NAME_EVENT_MONEY_244",
+    "Desc": "GOODS_NAME_EVENT_MONEY_244",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney244",
+    "Get": []
+  },
+  {
+    "Id": 245,
+    "CurrencyTypes": 245,
+    "Name": "GOODS_NAME_EVENT_MONEY_245",
+    "Desc": "GOODS_NAME_EVENT_MONEY_245",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney245",
+    "Get": []
+  },
+  {
+    "Id": 246,
+    "CurrencyTypes": 246,
+    "Name": "GOODS_NAME_EVENT_MONEY_246",
+    "Desc": "GOODS_NAME_EVENT_MONEY_246",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney246",
+    "Get": []
+  },
+  {
+    "Id": 247,
+    "CurrencyTypes": 247,
+    "Name": "GOODS_NAME_EVENT_MONEY_247",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney247",
+    "Get": []
+  },
+  {
+    "Id": 248,
+    "CurrencyTypes": 248,
+    "Name": "GOODS_NAME_EVENT_MONEY_248",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney248",
+    "Get": []
+  },
+  {
+    "Id": 249,
+    "CurrencyTypes": 249,
+    "Name": "GOODS_NAME_EVENT_MONEY_249",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney249",
+    "Get": []
+  },
+  {
+    "Id": 250,
+    "CurrencyTypes": 250,
+    "Name": "GOODS_NAME_EVENT_MONEY_250",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney250",
+    "Get": []
+  },
+  {
+    "Id": 251,
+    "CurrencyTypes": 251,
+    "Name": "GOODS_NAME_EVENT_MONEY_251",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney251",
+    "Get": []
+  },
+  {
+    "Id": 252,
+    "CurrencyTypes": 252,
+    "Name": "GOODS_NAME_EVENT_MONEY_252",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney252",
+    "Get": []
+  },
+  {
+    "Id": 253,
+    "CurrencyTypes": 253,
+    "Name": "GOODS_NAME_EVENT_MONEY_253",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney253",
+    "Get": []
+  },
+  {
+    "Id": 254,
+    "CurrencyTypes": 254,
+    "Name": "GOODS_NAME_EVENT_MONEY_254",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney254",
+    "Get": []
+  },
+  {
+    "Id": 255,
+    "CurrencyTypes": 255,
+    "Name": "GOODS_NAME_EVENT_MONEY_255",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney255",
+    "Get": []
+  },
+  {
+    "Id": 256,
+    "CurrencyTypes": 256,
+    "Name": "GOODS_NAME_EVENT_MONEY_256",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney256",
+    "Get": []
+  },
+  {
+    "Id": 257,
+    "CurrencyTypes": 257,
+    "Name": "GOODS_NAME_EVENT_MONEY_257",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney257",
+    "Get": []
+  },
+  {
+    "Id": 258,
+    "CurrencyTypes": 258,
+    "Name": "GOODS_NAME_EVENT_MONEY_258",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney258",
+    "Get": []
+  },
+  {
+    "Id": 259,
+    "CurrencyTypes": 259,
+    "Name": "GOODS_NAME_EVENT_MONEY_259",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney259",
+    "Get": []
+  },
+  {
+    "Id": 260,
+    "CurrencyTypes": 260,
+    "Name": "GOODS_NAME_EVENT_MONEY_260",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney260",
+    "Get": []
+  },
+  {
+    "Id": 261,
+    "CurrencyTypes": 261,
+    "Name": "GOODS_NAME_EVENT_MONEY_261",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney261",
+    "Get": []
+  },
+  {
+    "Id": 262,
+    "CurrencyTypes": 262,
+    "Name": "GOODS_NAME_EVENT_MONEY_262",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney262",
+    "Get": []
+  },
+  {
+    "Id": 263,
+    "CurrencyTypes": 263,
+    "Name": "GOODS_NAME_EVENT_MONEY_263",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney263",
+    "Get": []
+  },
+  {
+    "Id": 264,
+    "CurrencyTypes": 264,
+    "Name": "GOODS_NAME_EVENT_MONEY_264",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney264",
+    "Get": []
+  },
+  {
+    "Id": 265,
+    "CurrencyTypes": 265,
+    "Name": "GOODS_NAME_EVENT_MONEY_265",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney265",
+    "Get": []
+  },
+  {
+    "Id": 266,
+    "CurrencyTypes": 266,
+    "Name": "GOODS_NAME_EVENT_MONEY_266",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney266",
+    "Get": []
+  },
+  {
+    "Id": 267,
+    "CurrencyTypes": 267,
+    "Name": "GOODS_NAME_EVENT_MONEY_267",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney267",
+    "Get": []
+  },
+  {
+    "Id": 268,
+    "CurrencyTypes": 268,
+    "Name": "GOODS_NAME_EVENT_MONEY_268",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney268",
+    "Get": []
+  },
+  {
+    "Id": 269,
+    "CurrencyTypes": 269,
+    "Name": "GOODS_NAME_EVENT_MONEY_269",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney269",
+    "Get": []
+  },
+  {
+    "Id": 270,
+    "CurrencyTypes": 270,
+    "Name": "GOODS_NAME_EVENT_MONEY_270",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney270",
+    "Get": []
+  },
+  {
+    "Id": 271,
+    "CurrencyTypes": 271,
+    "Name": "GOODS_NAME_EVENT_MONEY_271",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney271",
+    "Get": []
+  },
+  {
+    "Id": 272,
+    "CurrencyTypes": 272,
+    "Name": "GOODS_NAME_EVENT_MONEY_272",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney272",
+    "Get": []
+  },
+  {
+    "Id": 273,
+    "CurrencyTypes": 273,
+    "Name": "GOODS_NAME_EVENT_MONEY_273",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney273",
+    "Get": []
+  },
+  {
+    "Id": 274,
+    "CurrencyTypes": 274,
+    "Name": "GOODS_NAME_EVENT_MONEY_274",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney274",
+    "Get": []
+  },
+  {
+    "Id": 275,
+    "CurrencyTypes": 275,
+    "Name": "GOODS_NAME_EVENT_MONEY_275",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney275",
+    "Get": []
+  },
+  {
+    "Id": 276,
+    "CurrencyTypes": 276,
+    "Name": "GOODS_NAME_EVENT_MONEY_276",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney276",
+    "Get": []
+  },
+  {
+    "Id": 277,
+    "CurrencyTypes": 277,
+    "Name": "GOODS_NAME_EVENT_MONEY_277",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney277",
+    "Get": []
+  },
+  {
+    "Id": 278,
+    "CurrencyTypes": 278,
+    "Name": "GOODS_NAME_EVENT_MONEY_278",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney278",
+    "Get": []
+  },
+  {
+    "Id": 279,
+    "CurrencyTypes": 279,
+    "Name": "GOODS_NAME_EVENT_MONEY_279",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney279",
+    "Get": []
+  },
+  {
+    "Id": 280,
+    "CurrencyTypes": 280,
+    "Name": "GOODS_NAME_EVENT_MONEY_280",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney280",
+    "Get": []
+  },
+  {
+    "Id": 281,
+    "CurrencyTypes": 281,
+    "Name": "GOODS_NAME_EVENT_MONEY_281",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney281",
+    "Get": []
+  },
+  {
+    "Id": 282,
+    "CurrencyTypes": 282,
+    "Name": "GOODS_NAME_EVENT_MONEY_282",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney282",
+    "Get": []
+  },
+  {
+    "Id": 283,
+    "CurrencyTypes": 283,
+    "Name": "GOODS_NAME_EVENT_MONEY_283",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney283",
+    "Get": []
+  },
+  {
+    "Id": 284,
+    "CurrencyTypes": 284,
+    "Name": "GOODS_NAME_EVENT_MONEY_284",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney284",
+    "Get": []
+  },
+  {
+    "Id": 285,
+    "CurrencyTypes": 285,
+    "Name": "GOODS_NAME_EVENT_MONEY_285",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney285",
+    "Get": []
+  },
+  {
+    "Id": 286,
+    "CurrencyTypes": 286,
+    "Name": "GOODS_NAME_EVENT_MONEY_286",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney286",
+    "Get": []
+  },
+  {
+    "Id": 287,
+    "CurrencyTypes": 287,
+    "Name": "GOODS_NAME_EVENT_MONEY_287",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney287",
+    "Get": []
+  },
+  {
+    "Id": 288,
+    "CurrencyTypes": 288,
+    "Name": "GOODS_NAME_EVENT_MONEY_288",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney288",
+    "Get": []
+  },
+  {
+    "Id": 289,
+    "CurrencyTypes": 289,
+    "Name": "GOODS_NAME_EVENT_MONEY_289",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney289",
+    "Get": []
+  },
+  {
+    "Id": 290,
+    "CurrencyTypes": 290,
+    "Name": "GOODS_NAME_EVENT_MONEY_290",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney290",
+    "Get": []
+  },
+  {
+    "Id": 291,
+    "CurrencyTypes": 291,
+    "Name": "GOODS_NAME_EVENT_MONEY_291",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney291",
+    "Get": []
+  },
+  {
+    "Id": 292,
+    "CurrencyTypes": 292,
+    "Name": "GOODS_NAME_EVENT_MONEY_292",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney292",
+    "Get": []
+  },
+  {
+    "Id": 293,
+    "CurrencyTypes": 293,
+    "Name": "GOODS_NAME_EVENT_MONEY_293",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney293",
+    "Get": []
+  },
+  {
+    "Id": 294,
+    "CurrencyTypes": 294,
+    "Name": "GOODS_NAME_EVENT_MONEY_294",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney294",
+    "Get": []
+  },
+  {
+    "Id": 295,
+    "CurrencyTypes": 295,
+    "Name": "GOODS_NAME_EVENT_MONEY_295",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney295",
+    "Get": []
+  },
+  {
+    "Id": 296,
+    "CurrencyTypes": 296,
+    "Name": "GOODS_NAME_EVENT_MONEY_296",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney296",
+    "Get": []
+  },
+  {
+    "Id": 297,
+    "CurrencyTypes": 297,
+    "Name": "GOODS_NAME_EVENT_MONEY_297",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney297",
+    "Get": []
+  },
+  {
+    "Id": 298,
+    "CurrencyTypes": 298,
+    "Name": "GOODS_NAME_EVENT_MONEY_298",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney298",
+    "Get": []
+  },
+  {
+    "Id": 299,
+    "CurrencyTypes": 299,
+    "Name": "GOODS_NAME_EVENT_MONEY_299",
+    "Desc": "GOODS_DESC_EVENT_MONEY",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney299",
+    "Get": []
+  },
+  {
+    "Id": 300,
+    "CurrencyTypes": 300,
+    "Name": "GOODS_NAME_EVENT_MONEY_300",
+    "Desc": "GOODS_DESC_EVENT_MINIGAME",
+    "IconPath": "Icon/Item_Icon/Goods_EventMoney300",
+    "Get": []
+  },
+  {
+    "Id": 900,
+    "CurrencyTypes": 900,
+    "Name": "GOODS_NAME_MINEBOX",
+    "Desc": "GOODS_NAME_MINEBOX",
+    "IconPath": "Icon/Item_Icon/Goods_MineBox",
+    "Get": []
+  },
+  {
+    "Id": 105,
+    "CurrencyTypes": 105,
+    "Name": "GOODS_NAME_105",
+    "Desc": "GOODS_NAME_105",
+    "IconPath": "Icon/Item_Icon/RandomBox",
+    "Get": []
+  },
+  {
+    "Id": 106,
+    "CurrencyTypes": 106,
+    "Name": "GOODS_NAME_106",
+    "Desc": "GOODS_NAME_106",
+    "IconPath": "Icon/Item_Icon/RandomBox",
+    "Get": []
+  },
+  {
+    "Id": 107,
+    "CurrencyTypes": 107,
+    "Name": "GOODS_NAME_107",
+    "Desc": "GOODS_NAME_107",
+    "IconPath": "Icon/Item_Icon/RandomBox",
+    "Get": []
+  },
+  {
+    "Id": 104,
+    "CurrencyTypes": 104,
+    "Name": "GOODS_NAME_104",
+    "Desc": "GOODS_NAME_104",
+    "IconPath": "Icon/Item_Icon/RandomBox",
+    "Get": [
+      "EVENT_SHOP"
+    ]
+  },
+  {
+    "Id": 114,
+    "CurrencyTypes": 114,
+    "Name": "HOT_TIME_SCROLL",
+    "Desc": "HOT_TIME_002",
+    "IconPath": "Icon/Item_Icon/Goods_HotTimeScroll",
+    "Get": []
+  },
+  {
+    "Id": 115,
+    "CurrencyTypes": 115,
+    "Name": "GOODS_NAME_106",
+    "Desc": "GOODS_NAME_106",
+    "IconPath": "Icon/Item_Icon/Goods_HotTimeScroll",
+    "Get": []
+  },
+  {
+    "Id": 116,
+    "CurrencyTypes": 116,
+    "Name": "GOODS_NAME_107",
+    "Desc": "GOODS_NAME_107",
+    "IconPath": "Icon/Item_Icon/Goods_HotTimeScroll",
+    "Get": []
+  },
+  {
+    "Id": 108,
+    "CurrencyTypes": 108,
+    "Name": "SKILL_GRADE_0",
+    "Desc": "GOODS_DESC_SKILL_CARD_0",
+    "IconPath": "Icon/Item_Icon/Goods_SkillCardIcon_1",
+    "Get": [
+      "EVENT_SHOP"
+    ]
+  },
+  {
+    "Id": 109,
+    "CurrencyTypes": 109,
+    "Name": "SKILL_GRADE_1",
+    "Desc": "GOODS_DESC_SKILL_CARD_1",
+    "IconPath": "Icon/Item_Icon/Goods_SkillCardIcon_2",
+    "Get": [
+      "EVENT_SHOP"
+    ]
+  },
+  {
+    "Id": 110,
+    "CurrencyTypes": 110,
+    "Name": "SKILL_GRADE_2",
+    "Desc": "GOODS_DESC_SKILL_CARD_2",
+    "IconPath": "Icon/Item_Icon/Goods_SkillCardIcon_3",
+    "Get": [
+      "EVENT_SHOP"
+    ]
+  },
+  {
+    "Id": 111,
+    "CurrencyTypes": 111,
+    "Name": "SKILL_GRADE_3",
+    "Desc": "GOODS_DESC_SKILL_CARD_3",
+    "IconPath": "Icon/Item_Icon/Goods_SkillCardIcon_4",
+    "Get": [
+      "EVENT_SHOP"
+    ]
+  },
+  {
+    "Id": 112,
+    "CurrencyTypes": 112,
+    "Name": "SKILL_GRADE_4",
+    "Desc": "GOODS_DESC_SKILL_CARD_4",
+    "IconPath": "Icon/Item_Icon/Goods_SkillCardIcon_5",
+    "Get": [
+      "EVENT_SHOP"
+    ]
+  },
+  {
+    "Id": 113,
+    "CurrencyTypes": 113,
+    "Name": "SKILL_GRADE_5",
+    "Desc": "GOODS_DESC_SKILL_CARD_5",
+    "IconPath": "Icon/Item_Icon/Goods_SkillCardIcon_6",
+    "Get": [
+      "EVENT_SHOP"
+    ]
+  },
+  {
+    "Id": 28,
+    "CurrencyTypes": 28,
+    "Name": "GOODS_NAME_028",
+    "Desc": "GOODS_DES_TIMEGOLD2",
+    "IconPath": "Icon/Item_Icon/Goods_TimeGold",
+    "Get": []
+  },
+  {
+    "Id": 119,
+    "CurrencyTypes": 119,
+    "Name": "GOODS_NAME_119",
+    "Desc": "GOODS_NAME_119",
+    "IconPath": "",
+    "Get": []
+  },
+  {
+    "Id": 118,
+    "CurrencyTypes": 118,
+    "Name": "GOODS_NAME_118",
+    "Desc": "GOODS_NAME_118",
+    "IconPath": "",
+    "Get": []
+  },
+  {
+    "Id": 117,
+    "CurrencyTypes": 117,
+    "Name": "GOODS_NAME_117",
+    "Desc": "GOODS_NAME_117",
+    "IconPath": "",
+    "Get": []
+  },
+  {
+    "Id": 29,
+    "CurrencyTypes": 29,
+    "Name": "GOODS_NAME_ATTRIBUTE_STONE_BUNDLE",
+    "Desc": "GOODS_NAME_ATTRIBUTE_STONE_BUNDLE",
+    "IconPath": "Icon/Item_Icon/Goods_AttributeStoneBundle",
+    "Get": [
+      "IMMORTAL_TREE_STAGE",
+      "KEY_0408"
+    ]
+  },
+  {
+    "Id": 30,
+    "CurrencyTypes": 30,
+    "Name": "GOODS_NAME_BLACKMANA",
+    "Desc": "GOODS_DESC_BLACKMANA",
+    "IconPath": "Icon/Item_Icon/Goods_BlackMana",
+    "Get": []
+  },
+  {
+    "Id": 31,
+    "CurrencyTypes": 31,
+    "Name": "GOODS_NAME_TICKET_BLACKMANA",
+    "Desc": "GOODS_NAME_TICKET_BLACKMANA_DES",
+    "IconPath": "Icon/Item_Icon/Goods_TicketBlackMana",
+    "Get": []
+  },
+  {
+    "Id": 131,
+    "CurrencyTypes": 131,
+    "Name": "GOODS_NAME_RANDOMREWARDBOX",
+    "Desc": "GOODS_NAME_RANDOMREWARDBOX",
+    "IconPath": "Icon/Item_Icon/Goods_CheerUpRandomBox",
+    "Get": []
+  },
+  {
+    "Id": 132,
+    "CurrencyTypes": 132,
+    "Name": "GOODS_NAME_WELCOMEREWARDBOX",
+    "Desc": "GOODS_NAME_WELCOMEREWARDBOX",
+    "IconPath": "Icon/Item_Icon/Goods_NewUserWelcomeRandomBox",
+    "Get": []
+  },
+  {
+    "Id": 32,
+    "CurrencyTypes": 32,
+    "Name": "GOODS_NAME_IMMORTAL_TREE_ENERY",
+    "Desc": "GOODS_NAME_IMMORTAL_TREE_ENERY_DES",
+    "IconPath": "Icon/Item_Icon/Goods_ImmortalTreeEnergy",
+    "Get": [
+      "IMMORTAL_TREE_TITLE"
+    ]
+  },
+  {
+    "Id": 33,
+    "CurrencyTypes": 33,
+    "Name": "GOODS_NAME_AWAKEN_DRAGONFORCE",
+    "Desc": "GOODS_DESC_AWAKEN_DRAGONFORCE",
+    "IconPath": "Icon/Item_Icon/Goods_AwakenDragonForce",
+    "Get": [
+      "KEY_0782"
+    ]
+  },
+  {
+    "Id": 34,
+    "CurrencyTypes": 34,
+    "Name": "GOODS_NAME_LIGHTSHARD",
+    "Desc": "GOODS_LIGHTSHARD_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_LightShard",
+    "Get": [
+      "REFINE_ITEM",
+      "GUILD"
+    ]
+  },
+  {
+    "Id": 35,
+    "CurrencyTypes": 35,
+    "Name": "GOODS_NAME_TICKETBUNDLE",
+    "Desc": "GOODS_TICKETBUNDLE_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_TicketBundle",
+    "Get": []
+  },
+  {
+    "Id": 2001,
+    "CurrencyTypes": 2001,
+    "Name": "GOODS_NAME_SEASON_SKILL_POINT",
+    "Desc": "GOODS_SEASON_SKILL_POINT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_SeasonSkillPoint",
+    "Get": [
+      "SEASON_SKILL_MISSION"
+    ]
+  },
+  {
+    "Id": 2002,
+    "CurrencyTypes": 2002,
+    "Name": "GOODS_NAME_SEASON_SKILL_POINT",
+    "Desc": "GOODS_SEASON_SKILL_POINT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_SeasonSkillPoint",
+    "Get": [
+      "SEASON_SKILL_MISSION"
+    ]
+  },
+  {
+    "Id": 2003,
+    "CurrencyTypes": 2003,
+    "Name": "GOODS_NAME_SEASON_SKILL_POINT",
+    "Desc": "GOODS_SEASON_SKILL_POINT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_SeasonSkillPoint",
+    "Get": [
+      "SEASON_SKILL_MISSION"
+    ]
+  },
+  {
+    "Id": 2004,
+    "CurrencyTypes": 2004,
+    "Name": "GOODS_NAME_SEASON_SKILL_POINT",
+    "Desc": "GOODS_SEASON_SKILL_POINT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_SeasonSkillPoint",
+    "Get": [
+      "SEASON_SKILL_MISSION"
+    ]
+  },
+  {
+    "Id": 2005,
+    "CurrencyTypes": 2005,
+    "Name": "GOODS_NAME_SEASON_SKILL_POINT",
+    "Desc": "GOODS_SEASON_SKILL_POINT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_SeasonSkillPoint",
+    "Get": [
+      "SEASON_SKILL_MISSION"
+    ]
+  },
+  {
+    "Id": 2006,
+    "CurrencyTypes": 2006,
+    "Name": "GOODS_NAME_SEASON_SKILL_POINT",
+    "Desc": "GOODS_SEASON_SKILL_POINT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_SeasonSkillPoint",
+    "Get": [
+      "SEASON_SKILL_MISSION"
+    ]
+  },
+  {
+    "Id": 36,
+    "CurrencyTypes": 36,
+    "Name": "GOODS_NAME_DEMONSOULORB",
+    "Desc": "GOODS_DEMONSOULORB_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DemonSoulOrb",
+    "Get": [
+      "DEMON_SANCTUARY"
+    ]
+  },
+  {
+    "Id": 150,
+    "CurrencyTypes": 150,
+    "Name": "GOODS_NAME_SUMMON_SKILL",
+    "Desc": "GOODS_SUMMON_SKILL_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_SummonSkill",
+    "Get": [
+      "EVENT_SHOP",
+      "GUILD"
+    ]
+  },
+  {
+    "Id": 151,
+    "CurrencyTypes": 151,
+    "Name": "GOODS_NAME_SUMMON_SLAYERCLASS",
+    "Desc": "GOODS_SUMMON_SLAYERCLASS_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_SummonSlayerClass",
+    "Get": [
+      "EVENT_SHOP",
+      "GUILD"
+    ]
+  },
+  {
+    "Id": 155,
+    "CurrencyTypes": 155,
+    "Name": "GOODS_NAME_SUMMON_DEMON",
+    "Desc": "GOODS_SUMMON_DEMON_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_SummonDemon",
+    "Get": []
+  },
+  {
+    "Id": 37,
+    "CurrencyTypes": 37,
+    "Name": "GOODS_NAME_DRAGONMEDAL",
+    "Desc": "GOODS_NAME_DRAGONMEDAL_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonMedal",
+    "Get": []
+  },
+  {
+    "Id": 6000,
+    "CurrencyTypes": 6000,
+    "Name": "GOODS_NAME_DRAGONVALLEYBRANCH",
+    "Desc": "GOODS_NAME_DRAGONVALLEYBRANCH_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyBasicBranch",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6001,
+    "CurrencyTypes": 6001,
+    "Name": "GOODS_NAME_DRAGONVALLEYMOSS",
+    "Desc": "GOODS_NAME_DRAGONVALLEYMOSS_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyMoss",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6002,
+    "CurrencyTypes": 6002,
+    "Name": "GOODS_NAME_DRAGONVALLEYHONEY",
+    "Desc": "GOODS_NAME_DRAGONVALLEYHONEY_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyHoney",
+    "Get": [
+      "GUILD_CONTENT_STATUS_DRAGON_VALLEY_SEARCH",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6003,
+    "CurrencyTypes": 6003,
+    "Name": "GOODS_NAME_DRAGONVALLEYMEAT",
+    "Desc": "GOODS_NAME_DRAGONVALLEYMEAT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyMeat",
+    "Get": [
+      "GUILD_CONTENT_STATUS_DRAGON_VALLEY_SEARCH",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6004,
+    "CurrencyTypes": 6004,
+    "Name": "GOODS_NAME_DRAGONVALLEYMUSHROOM",
+    "Desc": "GOODS_NAME_DRAGONVALLEYMUSHROOM_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyMushroom",
+    "Get": [
+      "GUILD_CONTENT_STATUS_DRAGON_VALLEY_SEARCH",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6005,
+    "CurrencyTypes": 6005,
+    "Name": "GOODS_NAME_DRAGONVALLEYEGG",
+    "Desc": "GOODS_NAME_DRAGONVALLEYEGG_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyEgg",
+    "Get": [
+      "GUILD_CONTENT_STATUS_DRAGON_VALLEY_SEARCH",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6006,
+    "CurrencyTypes": 6006,
+    "Name": "GOODS_NAME_DRAGONVALLEYWETBRANCH",
+    "Desc": "GOODS_NAME_DRAGONVALLEYWETBRANCH_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyWetBranch",
+    "Get": [
+      "DRAGON_VALLEY",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6007,
+    "CurrencyTypes": 6007,
+    "Name": "GOODS_NAME_DRAGONVALLEYFROZENMEAT",
+    "Desc": "GOODS_NAME_DRAGONVALLEYFROZENMEAT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyFrozenMeat",
+    "Get": [
+      "DRAGON_VALLEY",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6008,
+    "CurrencyTypes": 6008,
+    "Name": "GOODS_NAME_DRAGONVALLEYPOTATO",
+    "Desc": "GOODS_NAME_DRAGONVALLEYPOTATO_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyPotato",
+    "Get": [
+      "DIALOGUE_ARWEN",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6009,
+    "CurrencyTypes": 6009,
+    "Name": "GOODS_NAME_DRAGONVALLEYGRASS",
+    "Desc": "GOODS_NAME_DRAGONVALLEYGRASS_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyGrass",
+    "Get": [
+      "DRAGON_VALLEY",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6010,
+    "CurrencyTypes": 6010,
+    "Name": "GOODS_NAME_DRAGONVALLEYFISH",
+    "Desc": "GOODS_NAME_DRAGONVALLEYFISH_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyFish",
+    "Get": [
+      "GUILD_CONTENT_STATUS_DRAGON_VALLEY_SEARCH",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6012,
+    "CurrencyTypes": 6012,
+    "Name": "GOODS_NAME_DRAGONVALLEYSUGARCANE",
+    "Desc": "GOODS_NAME_DRAGONVALLEYSUGARCANE_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleySugarcane",
+    "Get": [
+      "DIALOGUE_CEDRIC",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6011,
+    "CurrencyTypes": 6011,
+    "Name": "GOODS_NAME_DRAGONVALLEYCARROT",
+    "Desc": "GOODS_NAME_DRAGONVALLEYCARROT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyCarrot",
+    "Get": [
+      "GUILD_CONTENT_STATUS_DRAGON_VALLEY_SEARCH",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6013,
+    "CurrencyTypes": 6013,
+    "Name": "GOODS_NAME_DRAGONVALLEYWHEAT",
+    "Desc": "GOODS_NAME_DRAGONVALLEYWHEAT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyWheat",
+    "Get": [
+      "GUILD_CONTENT_STATUS_DRAGON_VALLEY_SEARCH",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6014,
+    "CurrencyTypes": 6014,
+    "Name": "GOODS_NAME_DRAGONVALLEYBEAN",
+    "Desc": "GOODS_NAME_DRAGONVALLEYBEAN_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyBean",
+    "Get": [
+      "GUILD_CONTENT_STATUS_DRAGON_VALLEY_SEARCH",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6015,
+    "CurrencyTypes": 6015,
+    "Name": "GOODS_NAME_DRAGONVALLEYMILK",
+    "Desc": "GOODS_NAME_DRAGONVALLEYMILK_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyMilk",
+    "Get": [
+      "GUILD_CONTENT_STATUS_DRAGON_VALLEY_SEARCH",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6016,
+    "CurrencyTypes": 6016,
+    "Name": "GOODS_NAME_DRAGONVALLEYLETTUCE",
+    "Desc": "GOODS_NAME_DRAGONVALLEYLETTUCE_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyLettuce",
+    "Get": [
+      "GUILD_CONTENT_STATUS_DRAGON_VALLEY_SEARCH",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6017,
+    "CurrencyTypes": 6017,
+    "Name": "GOODS_NAME_DRAGONVALLEYRICE",
+    "Desc": "GOODS_NAME_DRAGONVALLEYRICE_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyRice",
+    "Get": [
+      "DIALOGUE_JEAN",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6018,
+    "CurrencyTypes": 6018,
+    "Name": "GOODS_NAME_DRAGONVALLEYCORN",
+    "Desc": "GOODS_NAME_DRAGONVALLEYCORN_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyCorn",
+    "Get": [
+      "DIALOGUE_ROSA",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6019,
+    "CurrencyTypes": 6019,
+    "Name": "GOODS_NAME_DRAGONVALLEYSHRIMP",
+    "Desc": "GOODS_NAME_DRAGONVALLEYSHRIMP_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyShrimp",
+    "Get": [
+      "DIALOGUE_JEAN",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6020,
+    "CurrencyTypes": 6020,
+    "Name": "GOODS_NAME_DRAGONVALLEYTOMATO",
+    "Desc": "GOODS_NAME_DRAGONVALLEYTOMATO_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyTomato",
+    "Get": [
+      "DIALOGUE_ARWEN",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6023,
+    "CurrencyTypes": 6023,
+    "Name": "GOODS_NAME_DRAGONVALLEYCHILI",
+    "Desc": "GOODS_NAME_DRAGONVALLEYCHILI_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyChili",
+    "Get": [
+      "DRAGON_VALLEY_CLIFF_1",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6024,
+    "CurrencyTypes": 6024,
+    "Name": "GOODS_NAME_DRAGONVALLEYTUNA",
+    "Desc": "GOODS_NAME_DRAGONVALLEYTUNA_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyTuna",
+    "Get": [
+      "DRAGON_VALLEY_CLIFF_2",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6025,
+    "CurrencyTypes": 6025,
+    "Name": "GOODS_NAME_DRAGONVALLEYBASIL",
+    "Desc": "GOODS_NAME_DRAGONVALLEYBASIL_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyBasil",
+    "Get": [
+      "DRAGON_VALLEY_CLIFF_3",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6026,
+    "CurrencyTypes": 6026,
+    "Name": "GOODS_NAME_DRAGONVALLEYCACAO",
+    "Desc": "GOODS_NAME_DRAGONVALLEYCACAO_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyCacao",
+    "Get": [
+      "DRAGON_VALLEY_CLIFF_4",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6027,
+    "CurrencyTypes": 6027,
+    "Name": "GOODS_NAME_DRAGONVALLEYCHEESE",
+    "Desc": "GOODS_NAME_DRAGONVALLEYCHEESE_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyCheese",
+    "Get": [
+      "GUILD_CONTENT_STATUS_DRAGON_VALLEY_SEARCH",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6028,
+    "CurrencyTypes": 6028,
+    "Name": "GOODS_NAME_DRAGONVALLEYCAVIAR",
+    "Desc": "GOODS_NAME_DRAGONVALLEYCAVIAR_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyCaviar",
+    "Get": [
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6029,
+    "CurrencyTypes": 6029,
+    "Name": "GOODS_NAME_DRAGONVALLEYTRUFFLE",
+    "Desc": "GOODS_NAME_DRAGONVALLEYTRUFFLE_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyTruffle",
+    "Get": [
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6030,
+    "CurrencyTypes": 6030,
+    "Name": "GOODS_NAME_DRAGONVALLEYHONEYCOMB",
+    "Desc": "GOODS_NAME_DRAGONVALLEYHONEYCOMB_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyHoneycomb",
+    "Get": [
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6021,
+    "CurrencyTypes": 6021,
+    "Name": "GOODS_NAME_DRAGONVALLEYSTRAWBERRY",
+    "Desc": "GOODS_NAME_DRAGONVALLEYSTRAWBERRY_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyStrawberry",
+    "Get": [
+      "DIALOGUE_CEDRIC",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6022,
+    "CurrencyTypes": 6022,
+    "Name": "GOODS_NAME_DRAGONVALLEYPEANUT",
+    "Desc": "GOODS_NAME_DRAGONVALLEYPEANUT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyPeanut",
+    "Get": [
+      "DIALOGUE_ROSA",
+      "DRAGON_VALLEY_RUNE"
+    ]
+  },
+  {
+    "Id": 6100,
+    "CurrencyTypes": 6100,
+    "Name": "GOODS_NAME_DRAGONVALLEYYAKITORI",
+    "Desc": "GOODS_NAME_DRAGONVALLEYYAKITORI_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyYakitori",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6101,
+    "CurrencyTypes": 6101,
+    "Name": "GOODS_NAME_DRAGONVALLEYPILAF",
+    "Desc": "GOODS_NAME_DRAGONVALLEYPILAF_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyPilaf",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6102,
+    "CurrencyTypes": 6102,
+    "Name": "GOODS_NAME_DRAGONVALLEYSALAD",
+    "Desc": "GOODS_NAME_DRAGONVALLEYSALAD_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleySalad",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6103,
+    "CurrencyTypes": 6103,
+    "Name": "GOODS_NAME_DRAGONVALLEYSTEAK",
+    "Desc": "GOODS_NAME_DRAGONVALLEYSTEAK_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleySteak",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6104,
+    "CurrencyTypes": 6104,
+    "Name": "GOODS_NAME_DRAGONVALLEYCURRY",
+    "Desc": "GOODS_NAME_DRAGONVALLEYCURRY_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyCurry",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6105,
+    "CurrencyTypes": 6105,
+    "Name": "GOODS_NAME_DRAGONVALLEYSOUP",
+    "Desc": "GOODS_NAME_DRAGONVALLEYSOUP_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleySoup",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6106,
+    "CurrencyTypes": 6106,
+    "Name": "GOODS_NAME_DRAGONVALLEYBURGER",
+    "Desc": "GOODS_NAME_DRAGONVALLEYBURGER_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyBurger",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6107,
+    "CurrencyTypes": 6107,
+    "Name": "GOODS_NAME_DRAGONVALLEYPIZZA",
+    "Desc": "GOODS_NAME_DRAGONVALLEYPIZZA_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyPizza",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6108,
+    "CurrencyTypes": 6108,
+    "Name": "GOODS_NAME_DRAGONVALLEYSTEW",
+    "Desc": "GOODS_NAME_DRAGONVALLEYSTEW_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyStew",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6109,
+    "CurrencyTypes": 6109,
+    "Name": "GOODS_NAME_DRAGONVALLEYKATSU",
+    "Desc": "GOODS_NAME_DRAGONVALLEYKATSU_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyKatsu",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6110,
+    "CurrencyTypes": 6110,
+    "Name": "GOODS_NAME_DRAGONVALLEYHOTSTEW",
+    "Desc": "GOODS_NAME_DRAGONVALLEYHOTSTEW_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyHotStew",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6111,
+    "CurrencyTypes": 6111,
+    "Name": "GOODS_NAME_DRAGONVALLEYPASTA",
+    "Desc": "GOODS_NAME_DRAGONVALLEYPASTA_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyPasta",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6112,
+    "CurrencyTypes": 6112,
+    "Name": "GOODS_NAME_DRAGONVALLEYSUSHI",
+    "Desc": "GOODS_NAME_DRAGONVALLEYSUSHI_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleySushi",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6113,
+    "CurrencyTypes": 6113,
+    "Name": "GOODS_NAME_DRAGONVALLEYHOTDOG",
+    "Desc": "GOODS_NAME_DRAGONVALLEYHOTDOG_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyHotdog",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6114,
+    "CurrencyTypes": 6114,
+    "Name": "GOODS_NAME_DRAGONVALLEYDIMSUM",
+    "Desc": "GOODS_NAME_DRAGONVALLEYDIMSUM_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyDimsum",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6115,
+    "CurrencyTypes": 6115,
+    "Name": "GOODS_NAME_DRAGONVALLEYHOTPOT",
+    "Desc": "GOODS_NAME_DRAGONVALLEYHOTPOT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyHotpot",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6116,
+    "CurrencyTypes": 6116,
+    "Name": "GOODS_NAME_DRAGONVALLEYCOFFEE",
+    "Desc": "GOODS_NAME_DRAGONVALLEYCOFFEE_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyCoffee",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6117,
+    "CurrencyTypes": 6117,
+    "Name": "GOODS_NAME_DRAGONVALLEYCREAMPASTA",
+    "Desc": "GOODS_NAME_DRAGONVALLEYCREAMPASTA_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyCreamPasta",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6118,
+    "CurrencyTypes": 6118,
+    "Name": "GOODS_NAME_DRAGONVALLEYNOODLE",
+    "Desc": "GOODS_NAME_DRAGONVALLEYNOODLE_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyNoodle",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6119,
+    "CurrencyTypes": 6119,
+    "Name": "GOODS_NAME_DRAGONVALLEYPORKRIB",
+    "Desc": "GOODS_NAME_DRAGONVALLEYPORKRIB_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyPorkRib",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6120,
+    "CurrencyTypes": 6120,
+    "Name": "GOODS_NAME_DRAGONVALLEYSANDWICH",
+    "Desc": "GOODS_NAME_DRAGONVALLEYSANDWICH_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleySandwich",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6154,
+    "CurrencyTypes": 6154,
+    "Name": "GOODS_NAME_DRAGONVALLEYBLUECURRY",
+    "Desc": "GOODS_NAME_DRAGONVALLEYBLUECURRY_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyBlueCurry",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6155,
+    "CurrencyTypes": 6155,
+    "Name": "GOODS_NAME_DRAGONVALLEYFROZENSOUP",
+    "Desc": "GOODS_NAME_DRAGONVALLEYFROZENSOUP_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyFrozenSoup",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6156,
+    "CurrencyTypes": 6156,
+    "Name": "GOODS_NAME_DRAGONVALLEYSNOWBURGER",
+    "Desc": "GOODS_NAME_DRAGONVALLEYSNOWBURGER_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleySnowBurger",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6157,
+    "CurrencyTypes": 6157,
+    "Name": "GOODS_NAME_DRAGONVALLEYFROZENPIZZA",
+    "Desc": "GOODS_NAME_DRAGONVALLEYFROZENPIZZA_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyFrozenPizza",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6158,
+    "CurrencyTypes": 6158,
+    "Name": "GOODS_NAME_DRAGONVALLEYANCIENTSTEAK",
+    "Desc": "GOODS_NAME_DRAGONVALLEYANCIENTSTEAK_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyAncientSteak",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6200,
+    "CurrencyTypes": 6200,
+    "Name": "GOODS_NAME_DRAGONVALLEYSCORE",
+    "Desc": "GOODS_NAME_DRAGONVALLEYSCORE_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyScore",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6201,
+    "CurrencyTypes": 6201,
+    "Name": "GOODS_NAME_DRAGONVALLEYNORMALSTONE",
+    "Desc": "GOODS_NAME_DRAGONVALLEYNORMALSTONE_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyNormalStone",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6202,
+    "CurrencyTypes": 6202,
+    "Name": "GOODS_NAME_DRAGONVALLEYGEMSTONE",
+    "Desc": "GOODS_NAME_DRAGONVALLEYGEMSTONE_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyGemStone",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6203,
+    "CurrencyTypes": 6203,
+    "Name": "GOODS_NAME_DRAGONVALLEYFOSSILSTONE",
+    "Desc": "GOODS_NAME_DRAGONVALLEYFOSSILSTONE_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyFossilStone",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6204,
+    "CurrencyTypes": 6204,
+    "Name": "GOODS_NAME_DRAGONVALLEYSTONEFRAGMENT",
+    "Desc": "GOODS_NAME_DRAGONVALLEYSTONEFRAGMENT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyStoneFragment",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6205,
+    "CurrencyTypes": 6205,
+    "Name": "GOODS_NAME_DRAGONVALLEYGEM",
+    "Desc": "GOODS_NAME_DRAGONVALLEYGEM_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyGem",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6206,
+    "CurrencyTypes": 6206,
+    "Name": "GOODS_NAME_DRAGONVALLEYFOSSIL",
+    "Desc": "GOODS_NAME_DRAGONVALLEYFOSSIL_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyFossil",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6207,
+    "CurrencyTypes": 6207,
+    "Name": "GOODS_NAME_DRAGONVALLEYFAILEDFOSSIL",
+    "Desc": "GOODS_NAME_DRAGONVALLEYFAILEDFOSSIL_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyFailedFossil",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6208,
+    "CurrencyTypes": 6208,
+    "Name": "GOODS_NAME_DRAGONVALLEYSEARCHTICKET",
+    "Desc": "GOODS_NAME_DRAGONVALLEYSEARCHTICKET_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleySearchTicket",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6211,
+    "CurrencyTypes": 6211,
+    "Name": "GOODS_NAME_DRAGONVALLEYHUNTTICKET",
+    "Desc": "GOODS_NAME_DRAGONVALLEYHUNTTICKET_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyHuntTicket",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6209,
+    "CurrencyTypes": 6209,
+    "Name": "GOODS_NAME_DRAGONVALLEYNUT",
+    "Desc": "GOODS_NAME_DRAGONVALLEYNUT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleyNut",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6210,
+    "CurrencyTypes": 6210,
+    "Name": "GOODS_NAME_DRAGONVALLEYSUPERNUT",
+    "Desc": "GOODS_NAME_DRAGONVALLEYSUPERNUT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DragonValleySuperNut",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 6212,
+    "CurrencyTypes": 6212,
+    "Name": "",
+    "Desc": "",
+    "IconPath": "",
+    "Get": [
+      "DRAGON_VALLEY"
+    ]
+  },
+  {
+    "Id": 38,
+    "CurrencyTypes": 38,
+    "Name": "GOODS_NAME_CHAOS_SOUL",
+    "Desc": "GOODS_NAME_CHAOS_SOUL_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_ChaosSoul",
+    "Get": [
+      "KILL_MONSTER"
+    ]
+  },
+  {
+    "Id": 5002,
+    "CurrencyTypes": 5002,
+    "Name": "GOODS_NAME_NICKNAMECHANGE_TICKET",
+    "Desc": "GOODS_NAME_NICKNAMECHANGE_TICKET_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_NicknameChangeTicket",
+    "Get": []
+  },
+  {
+    "Id": 39,
+    "CurrencyTypes": 39,
+    "Name": "GOODS_NAME_GUILD_COIN",
+    "Desc": "GOODS_NAME_GUILD_COIN_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_GuildCoin",
+    "Get": [
+      "GUILD"
+    ]
+  },
+  {
+    "Id": 40,
+    "CurrencyTypes": 40,
+    "Name": "GOODS_NAME_GUILD_SKIN_COIN",
+    "Desc": "GOODS_NAME_GUILD_SKIN_COIN_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_GuildSkinCoin",
+    "Get": [
+      "GUILD"
+    ]
+  },
+  {
+    "Id": 41,
+    "CurrencyTypes": 41,
+    "Name": "GOODS_NAME_GUILD_BEAST_EXP",
+    "Desc": "GOODS_NAME_GUILD_BEAST_EXP_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_GuildBeastExp",
+    "Get": [
+      "GUILD"
+    ]
+  },
+  {
+    "Id": 42,
+    "CurrencyTypes": 42,
+    "Name": "GOODS_NAME_GUILD_ASSIST",
+    "Desc": "GOODS_NAME_GUILD_ASSIST_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_GuildAssist",
+    "Get": [
+      "GUILD"
+    ]
+  },
+  {
+    "Id": 130,
+    "CurrencyTypes": 130,
+    "Name": "",
+    "Desc": "",
+    "IconPath": "",
+    "Get": [
+      "GUILD"
+    ]
+  },
+  {
+    "Id": 43,
+    "CurrencyTypes": 43,
+    "Name": "GOODS_NAME_GUILD_QUEST_POINT",
+    "Desc": "GOODS_NAME_GUILD_QUEST_POINT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_GuildQuestPoint",
+    "Get": [
+      "GUILD"
+    ]
+  },
+  {
+    "Id": 2007,
+    "CurrencyTypes": 2007,
+    "Name": "GOODS_NAME_SEASON_SKILL_PEN",
+    "Desc": "GOODS_NAME_SEASON_SKILL_PEN_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_SeasonSkillPen",
+    "Get": [
+      "SEASON_SKILL_MISSION"
+    ]
+  },
+  {
+    "Id": 2008,
+    "CurrencyTypes": 2008,
+    "Name": "GOODS_NAME_SEASON_SKILL_GOLDEN_PEN",
+    "Desc": "GOODS_NAME_SEASON_SKILL_GOLDEN_PEN_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_SeasonSkillGoldenPen",
+    "Get": [
+      "SEASON_SKILL_MISSION"
+    ]
+  },
+  {
+    "Id": 7002,
+    "CurrencyTypes": 7002,
+    "Name": "GOODS_NAME_WHISTLE",
+    "Desc": "GOODS_NAME_WHISTLE_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_Whistle",
+    "Get": [
+      "BEAST"
+    ]
+  },
+  {
+    "Id": 7001,
+    "CurrencyTypes": 7001,
+    "Name": "GOODS_NAME_BEASTTOKEN",
+    "Desc": "GOODS_NAME_BEASTTOKEN_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_BeastToken",
+    "Get": [
+      "BEAST"
+    ]
+  },
+  {
+    "Id": 7005,
+    "CurrencyTypes": 7005,
+    "Name": "GOODS_NAME_BUBBLEFRUIT",
+    "Desc": "GOODS_NAME_BUBBLEFRUIT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_BubbleFruit",
+    "Get": [
+      "BEAST"
+    ]
+  },
+  {
+    "Id": 7003,
+    "CurrencyTypes": 7003,
+    "Name": "GOODS_NAME_HEARTFRUIT",
+    "Desc": "GOODS_NAME_HEARTFRUIT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_HeartFruit",
+    "Get": [
+      "BEAST"
+    ]
+  },
+  {
+    "Id": 7004,
+    "CurrencyTypes": 7004,
+    "Name": "GOODS_NAME_STARFRUIT",
+    "Desc": "GOODS_NAME_STARFRUIT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_StarFruit",
+    "Get": [
+      "BEAST"
+    ]
+  },
+  {
+    "Id": 7011,
+    "CurrencyTypes": 7011,
+    "Name": "GOODS_NAME_FEEDWOLF",
+    "Desc": "GOODS_NAME_FEEDWOLF_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_FeedWolf",
+    "Get": [
+      "BEAST"
+    ]
+  },
+  {
+    "Id": 7012,
+    "CurrencyTypes": 7012,
+    "Name": "GOODS_NAME_FEEDBOAR",
+    "Desc": "GOODS_NAME_FEEDBOAR_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_FeedBoar",
+    "Get": [
+      "BEAST"
+    ]
+  },
+  {
+    "Id": 7013,
+    "CurrencyTypes": 7013,
+    "Name": "GOODS_NAME_FEEDBAT",
+    "Desc": "GOODS_NAME_FEEDBAT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_FeedBat",
+    "Get": [
+      "BEAST"
+    ]
+  },
+  {
+    "Id": 7014,
+    "CurrencyTypes": 7014,
+    "Name": "GOODS_NAME_FEEDGOLEM",
+    "Desc": "GOODS_NAME_FEEDGOLEM_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_FeedGolem",
+    "Get": [
+      "BEAST"
+    ]
+  },
+  {
+    "Id": 7015,
+    "CurrencyTypes": 7015,
+    "Name": "GOODS_NAME_FEEDDRAGON",
+    "Desc": "GOODS_NAME_FEEDDRAGON_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_FeedDragon",
+    "Get": [
+      "BEAST"
+    ]
+  },
+  {
+    "Id": 152,
+    "CurrencyTypes": 152,
+    "Name": "GOODS_NAME_SUMMON_WEAPON",
+    "Desc": "GOODS_SUMMON_WEAPON_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_SummonWeapon",
+    "Get": []
+  },
+  {
+    "Id": 153,
+    "CurrencyTypes": 153,
+    "Name": "GOODS_NAME_SUMMON_ACCESSORY",
+    "Desc": "GOODS_SUMMON_ACCESSORY_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_SummonAccessory",
+    "Get": []
+  },
+  {
+    "Id": 154,
+    "CurrencyTypes": 154,
+    "Name": "GOODS_NAME_SUMMON_SPIRIT",
+    "Desc": "GOODS_SUMMON_SPIRIT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_SummonSpirit",
+    "Get": []
+  },
+  {
+    "Id": 156,
+    "CurrencyTypes": 156,
+    "Name": "GOODS_NAME_SUMMON_ARTIFACT",
+    "Desc": "GOODS_SUMMON_ARTIFACT_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_SummonArtifact",
+    "Get": []
+  },
+  {
+    "Id": 3000,
+    "CurrencyTypes": 3000,
+    "Name": "GOODS_NAME_MONEY_A_ThemeDungeonDetective2026",
+    "Desc": "GOODS_NAME_MONEY_A_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_ThemeDungeonMoneyA",
+    "Get": [
+      "KEY_0386"
+    ]
+  },
+  {
+    "Id": 3001,
+    "CurrencyTypes": 3001,
+    "Name": "GOODS_NAME_MONEY_B_ThemeDungeonDetective2026",
+    "Desc": "GOODS_NAME_MONEY_B_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_ThemeDungeonMoneyB",
+    "Get": [
+      "KEY_0386"
+    ]
+  },
+  {
+    "Id": 3002,
+    "CurrencyTypes": 3002,
+    "Name": "GOODS_NAME_TICKET_ThemeDungeonDetective2026",
+    "Desc": "GOODS_NAME_TICKET_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_ThemeDungeonTicket",
+    "Get": [
+      "KEY_0386"
+    ]
+  },
+  {
+    "Id": 3003,
+    "CurrencyTypes": 3003,
+    "Name": "GOODS_NAME_POINT_ThemeDungeonDetective2026",
+    "Desc": "",
+    "IconPath": "Icon/Item_Icon/Goods_ThemeDungeonPoint",
+    "Get": []
+  },
+  {
+    "Id": 45,
+    "CurrencyTypes": 45,
+    "Name": "GOODS_NAME_BLACKSHARD",
+    "Desc": "GOODS_NAME_BLACKSHARD_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_BlackShard",
+    "Get": [
+      "ORB_AWAKEN"
+    ]
+  },
+  {
+    "Id": 8000,
+    "CurrencyTypes": 8000,
+    "Name": "GOODS_NAME_WORLDBOSS_SCORE",
+    "Desc": "GOODS_NAME_WORLDBOSS_SCORE_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_WorldBossScore",
+    "Get": []
+  },
+  {
+    "Id": 8001,
+    "CurrencyTypes": 8001,
+    "Name": "GOODS_NAME_WORLDBOSS_BLACKBOSSBUFF",
+    "Desc": "GOODS_NAME_WORLDBOSS_BLACKBOSSBUFF_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_WorldBossBlackBossBuff",
+    "Get": []
+  },
+  {
+    "Id": 8002,
+    "CurrencyTypes": 8002,
+    "Name": "GOODS_NAME_WORLDBOSS_DEMONBOSSBUFF",
+    "Desc": "GOODS_NAME_WORLDBOSS_DEMONBOSSBUFF_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_WorldBossDemonBossBuff",
+    "Get": []
+  },
+  {
+    "Id": 8003,
+    "CurrencyTypes": 8003,
+    "Name": "GOODS_NAME_WORLDBOSS_RAGNABOSSBUFF",
+    "Desc": "GOODS_NAME_WORLDBOSS_RAGNABOSSBUFF_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_WorldBossRagnaBossBuff",
+    "Get": []
+  },
+  {
+    "Id": 8004,
+    "CurrencyTypes": 8004,
+    "Name": "GOODS_NAME_WORLDBOSS_NFINENTBOSSBUFF",
+    "Desc": "GOODS_NAME_WORLDBOSS_NFINENTBOSSBUFF_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_WorldBossInfinentBossBuff",
+    "Get": []
+  },
+  {
+    "Id": 8005,
+    "CurrencyTypes": 8005,
+    "Name": "GOODS_NAME_WORLDBOSS_ETHERBOSSBUFF",
+    "Desc": "GOODS_NAME_WORLDBOSS_ETHERBOSSBUFF_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_WorldBossEtherBossBuff",
+    "Get": []
+  },
+  {
+    "Id": 8006,
+    "CurrencyTypes": 8006,
+    "Name": "GOODS_NAME_WORLDBOSS_DARKBOSSBUFF",
+    "Desc": "GOODS_NAME_WORLDBOSS_DARKBOSSBUFF_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_WorldBossDarkBossBuff",
+    "Get": []
+  },
+  {
+    "Id": 8007,
+    "CurrencyTypes": 8007,
+    "Name": "GOODS_NAME_WORLDBOSS_BLUEBOSSBUFF",
+    "Desc": "GOODS_NAME_WORLDBOSS_BLUEBOSSBUFF_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_WorldBossBlueBossBuff",
+    "Get": []
+  },
+  {
+    "Id": 8099,
+    "CurrencyTypes": 8099,
+    "Name": "GOODS_NAME_WORLDBOSS_LORDBUFF",
+    "Desc": "GOODS_NAME_WORLDBOSS_LORDBUFF_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_WorldBossLordBuff",
+    "Get": []
+  },
+  {
+    "Id": 161,
+    "CurrencyTypes": 161,
+    "Name": "GOODS_NAME_DEMONNA",
+    "Desc": "GOODS_NAME_DEMONNA_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_Demonna",
+    "Get": []
+  },
+  {
+    "Id": 162,
+    "CurrencyTypes": 162,
+    "Name": "GOODS_NAME_DEMONRION",
+    "Desc": "GOODS_NAME_DEMONRION_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_Demonrion",
+    "Get": []
+  },
+  {
+    "Id": 163,
+    "CurrencyTypes": 163,
+    "Name": "GOODS_NAME_DEMONRU",
+    "Desc": "GOODS_NAME_DEMONRU_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_Demonru",
+    "Get": []
+  },
+  {
+    "Id": 164,
+    "CurrencyTypes": 164,
+    "Name": "GOODS_NAME_DEMONMUS",
+    "Desc": "GOODS_NAME_DEMONMUS_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_Demonmus",
+    "Get": []
+  },
+  {
+    "Id": 165,
+    "CurrencyTypes": 165,
+    "Name": "GOODS_NAME_DEMONHI",
+    "Desc": "GOODS_NAME_DEMONHI_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_Demonhi",
+    "Get": []
+  },
+  {
+    "Id": 166,
+    "CurrencyTypes": 166,
+    "Name": "GOODS_NAME_DEMONA",
+    "Desc": "GOODS_NAME_DEMONA_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_Demona",
+    "Get": []
+  },
+  {
+    "Id": 167,
+    "CurrencyTypes": 167,
+    "Name": "GOODS_NAME_DEMONJE",
+    "Desc": "GOODS_NAME_DEMONJE_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_Demonje",
+    "Get": []
+  },
+  {
+    "Id": 168,
+    "CurrencyTypes": 168,
+    "Name": "GOODS_NAME_DEMONTI",
+    "Desc": "GOODS_NAME_DEMONTI_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_Demonti",
+    "Get": []
+  },
+  {
+    "Id": 169,
+    "CurrencyTypes": 169,
+    "Name": "GOODS_NAME_DEMONKU",
+    "Desc": "GOODS_NAME_DEMONKU_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_Demonku",
+    "Get": []
+  },
+  {
+    "Id": 160,
+    "CurrencyTypes": 160,
+    "Name": "GOODS_NAME_DEMONPE",
+    "Desc": "GOODS_NAME_DEMONPE_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_Demonpe",
+    "Get": []
+  },
+  {
+    "Id": 171,
+    "CurrencyTypes": 171,
+    "Name": "GOODS_NAME_DEMONSHA",
+    "Desc": "GOODS_NAME_DEMONSHA_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_Demonsha",
+    "Get": []
+  },
+  {
+    "Id": 172,
+    "CurrencyTypes": 172,
+    "Name": "GOODS_NAME_DEMONPO",
+    "Desc": "GOODS_NAME_DEMONPO_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_Demonpo",
+    "Get": []
+  },
+  {
+    "Id": 8100,
+    "CurrencyTypes": 8100,
+    "Name": "GOODS_NAME_DEMONSECRETKEY1",
+    "Desc": "GOODS_NAME_DEMONSECRETKEY1_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DemonSecretKey1",
+    "Get": []
+  },
+  {
+    "Id": 8101,
+    "CurrencyTypes": 8101,
+    "Name": "GOODS_NAME_DEMONSECRETKEY2",
+    "Desc": "GOODS_NAME_DEMONSECRETKEY2_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DemonSecretKey2",
+    "Get": []
+  },
+  {
+    "Id": 8102,
+    "CurrencyTypes": 8102,
+    "Name": "GOODS_NAME_DEMONSECRETKEY3",
+    "Desc": "GOODS_NAME_DEMONSECRETKEY3_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DemonSecretKey3",
+    "Get": []
+  },
+  {
+    "Id": 8103,
+    "CurrencyTypes": 8103,
+    "Name": "GOODS_NAME_DEMONSECRETKEY4",
+    "Desc": "GOODS_NAME_DEMONSECRETKEY4_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DemonSecretKey4",
+    "Get": []
+  },
+  {
+    "Id": 8104,
+    "CurrencyTypes": 8104,
+    "Name": "GOODS_NAME_DEMONSECRETKEY5",
+    "Desc": "GOODS_NAME_DEMONSECRETKEY5_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DemonSecretKey5",
+    "Get": []
+  },
+  {
+    "Id": 8105,
+    "CurrencyTypes": 8105,
+    "Name": "GOODS_NAME_DEMONSECRETKEY6",
+    "Desc": "GOODS_NAME_DEMONSECRETKEY6_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DemonSecretKey6",
+    "Get": []
+  },
+  {
+    "Id": 46,
+    "CurrencyTypes": 46,
+    "Name": "GOODS_NAME_DEMONSOULESSENCE",
+    "Desc": "GOODS_NAME_DEMONSOULESSENCE_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_DemonSoulEssence",
+    "Get": [
+      "DEMON_SANCTUARY"
+    ]
+  },
+  {
+    "Id": 47,
+    "CurrencyTypes": 47,
+    "Name": "GOODS_NAME_MEGAPHONE",
+    "Desc": "GOODS_NAME_MEGAPHONE_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_Megaphone",
+    "Get": []
+  },
+  {
+    "Id": 48,
+    "CurrencyTypes": 48,
+    "Name": "GOODS_NAME_LUCKYCOIN",
+    "Desc": "GOODS_NAME_LUCKYCOIN_DESC",
+    "IconPath": "Icon/Item_Icon/Goods_LuckyCoin",
+    "Get": []
+  }
+]

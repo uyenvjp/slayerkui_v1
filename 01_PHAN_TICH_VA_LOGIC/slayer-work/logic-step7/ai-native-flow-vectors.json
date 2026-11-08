@@ -1,0 +1,5205 @@
+{
+  "vectors": [
+    {
+      "case": 0,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": -1,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "nan",
+          "gameDeltaTime": -1,
+          "enemyX": 0.016666666666666666,
+          "playerX": 2,
+          "attackRange": 0.016666666666666666
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000000",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          },
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 1,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "-inf",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "inf",
+          "gameDeltaTime": "nan",
+          "enemyX": 2.000001,
+          "playerX": 0.016666666666666666,
+          "attackRange": 2
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "0000c07f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 2,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": -1,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 2.000001,
+          "gameDeltaTime": 1,
+          "enemyX": 0.016666666666666666,
+          "playerX": 0,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "00000000",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 3,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": 2,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 1,
+          "gameDeltaTime": "inf",
+          "enemyX": "-inf",
+          "playerX": 0.016666666666666666,
+          "attackRange": 0
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "0000807f",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 4,
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "waitTime": 2.000001,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "-inf",
+          "gameDeltaTime": "-inf",
+          "enemyX": -1,
+          "playerX": "-inf",
+          "attackRange": 2.000001
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "04000040",
+        "current": "old",
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 5,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 0,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 1,
+          "gameDeltaTime": 0,
+          "enemyX": "nan",
+          "playerX": 1,
+          "attackRange": 0.016666666666666666
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "00000000",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 6,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 0,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 0.016666666666666666,
+          "gameDeltaTime": 0,
+          "enemyX": 2.000001,
+          "playerX": 2.000001,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "00000000",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 7,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": "-inf",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "nan",
+          "gameDeltaTime": "-inf",
+          "enemyX": 0.016666666666666666,
+          "playerX": "nan",
+          "attackRange": "nan"
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000000",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          },
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 8,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 0,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": -1,
+          "gameDeltaTime": 0,
+          "enemyX": "inf",
+          "playerX": 2,
+          "attackRange": 0
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000000",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 9,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 10,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0,
+          "gameDeltaTime": -1,
+          "enemyX": 0,
+          "playerX": 1,
+          "attackRange": "-inf"
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00002041",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 10,
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "waitTime": 2,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 1,
+          "gameDeltaTime": "nan",
+          "enemyX": "nan",
+          "playerX": "nan",
+          "attackRange": "-inf"
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000040",
+        "current": "old",
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 11,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": 2.000001,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 2.000001,
+          "enemyX": "nan",
+          "playerX": 2.000001,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "04000040",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 12,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "inf",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 0.016666666666666666,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": 0.016666666666666666,
+          "playerX": "nan",
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000807f",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 13,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 0,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 1,
+          "gameDeltaTime": 2,
+          "enemyX": 1,
+          "playerX": 1,
+          "attackRange": -1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "00000040",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 14,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": 0,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 0,
+          "gameDeltaTime": "-inf",
+          "enemyX": "nan",
+          "playerX": 1,
+          "attackRange": "nan"
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "000080ff",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 15,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 1,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 1,
+          "gameDeltaTime": "nan",
+          "enemyX": -1,
+          "playerX": 0.016666666666666666,
+          "attackRange": "inf"
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "0000c07f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 16,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": 1,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 1,
+          "enemyX": "nan",
+          "playerX": "nan",
+          "attackRange": -1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "0000803f",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 17,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "inf",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 2,
+          "enemyX": "inf",
+          "playerX": 0.016666666666666666,
+          "attackRange": 0
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000807f",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 18,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 10,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 0.016666666666666666,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": "-inf",
+          "playerX": -1,
+          "attackRange": "inf"
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00002041",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 19,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": "-inf",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0.016666666666666666,
+          "gameDeltaTime": 2,
+          "enemyX": "inf",
+          "playerX": "nan",
+          "attackRange": 0.016666666666666666
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "00000040",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 20,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 1,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": -1,
+          "gameDeltaTime": 1,
+          "enemyX": 2,
+          "playerX": 0,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000803f",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 21,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 10,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 1,
+          "gameDeltaTime": 2,
+          "enemyX": 1,
+          "playerX": -1,
+          "attackRange": 0
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00002041",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 22,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "inf",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 1,
+          "gameDeltaTime": 0,
+          "enemyX": 2.000001,
+          "playerX": "nan",
+          "attackRange": "inf"
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000807f",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 23,
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "waitTime": 2.000001,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": -1,
+          "gameDeltaTime": "nan",
+          "enemyX": "nan",
+          "playerX": 2.000001,
+          "attackRange": "-inf"
+        }
+      },
+      "result": {
+        "state": 2,
+        "waitTimeBits": "04000040",
+        "current": null,
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 24,
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "waitTime": "nan",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 0,
+          "gameDeltaTime": 0,
+          "enemyX": 0.016666666666666666,
+          "playerX": "nan",
+          "attackRange": "nan"
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000c07f",
+        "current": "old",
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 25,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "-inf",
+          "gameDeltaTime": "-inf",
+          "enemyX": "-inf",
+          "playerX": "nan",
+          "attackRange": -1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000040",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 26,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": 2.000001,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 0,
+          "gameDeltaTime": 0,
+          "enemyX": 0.016666666666666666,
+          "playerX": "nan",
+          "attackRange": -1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "00000000",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 27,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "inf",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "nan",
+          "gameDeltaTime": 1,
+          "enemyX": 1,
+          "playerX": 2,
+          "attackRange": 2.000001
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000807f",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 28,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "-inf",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 0,
+          "enemyX": "nan",
+          "playerX": 2.000001,
+          "attackRange": 0.016666666666666666
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "000080ff",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 29,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 0,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0.016666666666666666,
+          "gameDeltaTime": 1,
+          "enemyX": 0,
+          "playerX": "-inf",
+          "attackRange": -1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "0000803f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 30,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": 0,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 0.016666666666666666,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": 1,
+          "playerX": 0.016666666666666666,
+          "attackRange": 2.000001
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "8988883c",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 31,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": 1,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0.016666666666666666,
+          "gameDeltaTime": 0,
+          "enemyX": 2.000001,
+          "playerX": 2,
+          "attackRange": 2.000001
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "00000000",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 32,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 0,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": -1,
+          "gameDeltaTime": -1,
+          "enemyX": "-inf",
+          "playerX": 1,
+          "attackRange": -1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000000",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 33,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": 1,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "-inf",
+          "gameDeltaTime": -1,
+          "enemyX": -1,
+          "playerX": -1,
+          "attackRange": 0
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000000",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          },
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 34,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 10,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 2.000001,
+          "gameDeltaTime": 2.000001,
+          "enemyX": -1,
+          "playerX": 2.000001,
+          "attackRange": "nan"
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00002041",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 35,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "nan",
+          "gameDeltaTime": 2.000001,
+          "enemyX": -1,
+          "playerX": "nan",
+          "attackRange": 0
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000040",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 36,
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "waitTime": 0,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 0,
+          "gameDeltaTime": 1,
+          "enemyX": 1,
+          "playerX": 0.016666666666666666,
+          "attackRange": -1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000000",
+        "current": "old",
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 37,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 1,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "nan",
+          "gameDeltaTime": 0,
+          "enemyX": 0.016666666666666666,
+          "playerX": 0.016666666666666666,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000803f",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 38,
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "waitTime": 0,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "-inf",
+          "gameDeltaTime": 0,
+          "enemyX": "inf",
+          "playerX": 0.016666666666666666,
+          "attackRange": -1
+        }
+      },
+      "result": {
+        "state": 2,
+        "waitTimeBits": "00000000",
+        "current": "old",
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 39,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "inf",
+          "gameDeltaTime": 0,
+          "enemyX": -1,
+          "playerX": 1,
+          "attackRange": 2
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "00000040",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 40,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": "-inf",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": -1,
+          "enemyX": 1,
+          "playerX": 2,
+          "attackRange": "-inf"
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "000080bf",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 41,
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "waitTime": -1,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0,
+          "gameDeltaTime": 2,
+          "enemyX": -1,
+          "playerX": 2,
+          "attackRange": -1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "000080bf",
+        "current": null,
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 42,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 1,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 2.000001,
+          "gameDeltaTime": "nan",
+          "enemyX": 0.016666666666666666,
+          "playerX": "nan",
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "0000c07f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 43,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": 2.000001,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "-inf",
+          "gameDeltaTime": 0,
+          "enemyX": 0.016666666666666666,
+          "playerX": 0.016666666666666666,
+          "attackRange": "-inf"
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000000",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          },
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 44,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "inf",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "-inf",
+          "gameDeltaTime": 2.000001,
+          "enemyX": 2.000001,
+          "playerX": "-inf",
+          "attackRange": "nan"
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000807f",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 45,
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "waitTime": 2.000001,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 1,
+          "gameDeltaTime": "nan",
+          "enemyX": -1,
+          "playerX": 1,
+          "attackRange": -1
+        }
+      },
+      "result": {
+        "state": 2,
+        "waitTimeBits": "04000040",
+        "current": null,
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 46,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 2.000001,
+          "enemyX": -1,
+          "playerX": "nan",
+          "attackRange": 0.016666666666666666
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "02008040",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 47,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 1,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 1,
+          "enemyX": 2,
+          "playerX": "-inf",
+          "attackRange": 2
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "00000040",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 48,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2.000001,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "nan",
+          "gameDeltaTime": -1,
+          "enemyX": 2,
+          "playerX": -1,
+          "attackRange": 0.016666666666666666
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "04000040",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 49,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "inf",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 1,
+          "gameDeltaTime": "nan",
+          "enemyX": 0,
+          "playerX": 0.016666666666666666,
+          "attackRange": -1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000807f",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 50,
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "waitTime": 0,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "inf",
+          "gameDeltaTime": 2,
+          "enemyX": 1,
+          "playerX": -1,
+          "attackRange": "inf"
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000000",
+        "current": "old",
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 51,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": 2,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0.016666666666666666,
+          "gameDeltaTime": "-inf",
+          "enemyX": 2,
+          "playerX": 1,
+          "attackRange": 2.000001
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "000080ff",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 52,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 10,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 0.016666666666666666,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": "-inf",
+          "playerX": -1,
+          "attackRange": -1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00002041",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 53,
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "waitTime": 0,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "-inf",
+          "gameDeltaTime": "nan",
+          "enemyX": 1,
+          "playerX": 0,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000000",
+        "current": null,
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 54,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": "-inf",
+          "enemyX": 2.000001,
+          "playerX": 2,
+          "attackRange": -1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "000080ff",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 55,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": -1,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "inf",
+          "gameDeltaTime": 2,
+          "enemyX": "-inf",
+          "playerX": "-inf",
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "00000040",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 56,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": "nan",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "-inf",
+          "gameDeltaTime": 0,
+          "enemyX": 0.016666666666666666,
+          "playerX": 0,
+          "attackRange": "inf"
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000000",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          },
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 57,
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "waitTime": 2,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0.016666666666666666,
+          "gameDeltaTime": 0,
+          "enemyX": "inf",
+          "playerX": 2.000001,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": 2,
+        "waitTimeBits": "00000040",
+        "current": null,
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 58,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "-inf",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "inf",
+          "gameDeltaTime": 1,
+          "enemyX": 0.016666666666666666,
+          "playerX": 2.000001,
+          "attackRange": 2
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "000080ff",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 59,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 0,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "-inf",
+          "gameDeltaTime": 2,
+          "enemyX": 0.016666666666666666,
+          "playerX": 0,
+          "attackRange": -1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000000",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 60,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": -1,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "inf",
+          "gameDeltaTime": 2,
+          "enemyX": 2.000001,
+          "playerX": 2.000001,
+          "attackRange": "-inf"
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "0000803f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 61,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "nan",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "-inf",
+          "gameDeltaTime": 0,
+          "enemyX": 0,
+          "playerX": "nan",
+          "attackRange": 0
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000c07f",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 62,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": "nan",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 0,
+          "enemyX": 0,
+          "playerX": 1,
+          "attackRange": -1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "00000000",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 63,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": 10,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": "-inf",
+          "playerX": "nan",
+          "attackRange": 2
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "8988883c",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 64,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2.000001,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "inf",
+          "gameDeltaTime": 2.000001,
+          "enemyX": 0,
+          "playerX": 2,
+          "attackRange": 2.000001
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "04008040",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 65,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "inf",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "nan",
+          "gameDeltaTime": "nan",
+          "enemyX": "-inf",
+          "playerX": 0,
+          "attackRange": "inf"
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000807f",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 66,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 10,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 0.016666666666666666,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": 2,
+          "playerX": 1,
+          "attackRange": 2
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00002041",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 67,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": 2.000001,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0.016666666666666666,
+          "gameDeltaTime": "inf",
+          "enemyX": 2,
+          "playerX": 2.000001,
+          "attackRange": "-inf"
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "0000807f",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 68,
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "waitTime": 0,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 0,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": 0.016666666666666666,
+          "playerX": -1,
+          "attackRange": -1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000000",
+        "current": "old",
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 69,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "nan",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": -1,
+          "gameDeltaTime": 2,
+          "enemyX": "-inf",
+          "playerX": "nan",
+          "attackRange": "nan"
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000c07f",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 70,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 10,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 1,
+          "gameDeltaTime": "inf",
+          "enemyX": 2,
+          "playerX": "inf",
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00002041",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 71,
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "waitTime": 0,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0,
+          "gameDeltaTime": "nan",
+          "enemyX": 0,
+          "playerX": 1,
+          "attackRange": "inf"
+        }
+      },
+      "result": {
+        "state": 2,
+        "waitTimeBits": "00000000",
+        "current": null,
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 72,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 1,
+          "gameDeltaTime": "nan",
+          "enemyX": "inf",
+          "playerX": 1,
+          "attackRange": 2.000001
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000040",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 73,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 1,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "nan",
+          "gameDeltaTime": "nan",
+          "enemyX": 0,
+          "playerX": 1,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000803f",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 74,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": 2.000001,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 1,
+          "gameDeltaTime": "inf",
+          "enemyX": 2.000001,
+          "playerX": 2,
+          "attackRange": 0
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "0000807f",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 75,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 1,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 1,
+          "gameDeltaTime": -1,
+          "enemyX": 0,
+          "playerX": 1,
+          "attackRange": "inf"
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "00000000",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 76,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "nan",
+          "gameDeltaTime": 2.000001,
+          "enemyX": "-inf",
+          "playerX": -1,
+          "attackRange": 0.016666666666666666
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000040",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 77,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 1,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "inf",
+          "gameDeltaTime": -1,
+          "enemyX": 0.016666666666666666,
+          "playerX": 1,
+          "attackRange": 2
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "00000000",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 78,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "nan",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": "inf",
+          "enemyX": 1,
+          "playerX": 2,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000c07f",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 79,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "nan",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2.000001,
+          "gameDeltaTime": 2.000001,
+          "enemyX": 2,
+          "playerX": 2.000001,
+          "attackRange": 0.016666666666666666
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000c07f",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 80,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": -1,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "nan",
+          "gameDeltaTime": 2.000001,
+          "enemyX": 1,
+          "playerX": 1,
+          "attackRange": 2.000001
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "000080bf",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 81,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "-inf",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": -1,
+          "enemyX": "nan",
+          "playerX": "inf",
+          "attackRange": "nan"
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "000080ff",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 82,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 0,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": -1,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": -1,
+          "playerX": 0.016666666666666666,
+          "attackRange": 2
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000000",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 83,
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "waitTime": 1,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "inf",
+          "gameDeltaTime": -1,
+          "enemyX": "-inf",
+          "playerX": 2.000001,
+          "attackRange": 2
+        }
+      },
+      "result": {
+        "state": 2,
+        "waitTimeBits": "0000803f",
+        "current": null,
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 84,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": 2,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 0,
+          "gameDeltaTime": 2.000001,
+          "enemyX": 2.000001,
+          "playerX": "-inf",
+          "attackRange": "nan"
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "04000040",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 85,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "-inf",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": -1,
+          "gameDeltaTime": "nan",
+          "enemyX": "nan",
+          "playerX": 1,
+          "attackRange": "-inf"
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "0000c07f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 86,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "inf",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": -1,
+          "gameDeltaTime": "nan",
+          "enemyX": 2.000001,
+          "playerX": "-inf",
+          "attackRange": "inf"
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000807f",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 87,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "nan",
+          "gameDeltaTime": "nan",
+          "enemyX": -1,
+          "playerX": 1,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000040",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 88,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": 1,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 1,
+          "gameDeltaTime": -1,
+          "enemyX": "inf",
+          "playerX": "inf",
+          "attackRange": "-inf"
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "000080bf",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 89,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 10,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0.016666666666666666,
+          "gameDeltaTime": "inf",
+          "enemyX": "nan",
+          "playerX": 0,
+          "attackRange": 2.000001
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00002041",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 90,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": "nan",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": -1,
+          "gameDeltaTime": 2.000001,
+          "enemyX": "-inf",
+          "playerX": -1,
+          "attackRange": 0.016666666666666666
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000000",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          },
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 91,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "inf",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": -1,
+          "gameDeltaTime": "nan",
+          "enemyX": 1,
+          "playerX": "nan",
+          "attackRange": "-inf"
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000807f",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 92,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "nan",
+          "gameDeltaTime": -1,
+          "enemyX": 2,
+          "playerX": -1,
+          "attackRange": 2.000001
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000040",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 93,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": -1,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 1,
+          "gameDeltaTime": -1,
+          "enemyX": "nan",
+          "playerX": "inf",
+          "attackRange": "nan"
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "000000c0",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 94,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 1,
+          "gameDeltaTime": 2.000001,
+          "enemyX": "-inf",
+          "playerX": 0,
+          "attackRange": "-inf"
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000040",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 95,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": -1,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 1,
+          "enemyX": "nan",
+          "playerX": 1,
+          "attackRange": "-inf"
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "00000000",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 96,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "-inf",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": 2,
+          "playerX": -1,
+          "attackRange": "-inf"
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "000080ff",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 97,
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "waitTime": "-inf",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "inf",
+          "gameDeltaTime": -1,
+          "enemyX": 2.000001,
+          "playerX": 1,
+          "attackRange": 0
+        }
+      },
+      "result": {
+        "state": 2,
+        "waitTimeBits": "000080ff",
+        "current": null,
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 98,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 1,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "inf",
+          "gameDeltaTime": "-inf",
+          "enemyX": 2,
+          "playerX": 1,
+          "attackRange": 2
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "000080ff",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 99,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "inf",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2.000001,
+          "gameDeltaTime": "nan",
+          "enemyX": "inf",
+          "playerX": 2,
+          "attackRange": 0
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000807f",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 100,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "-inf",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "nan",
+          "gameDeltaTime": "nan",
+          "enemyX": -1,
+          "playerX": "inf",
+          "attackRange": "-inf"
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "000080ff",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 101,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 1,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": -1,
+          "gameDeltaTime": "-inf",
+          "enemyX": 2.000001,
+          "playerX": 0.016666666666666666,
+          "attackRange": 2.000001
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000803f",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 102,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "inf",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "nan",
+          "gameDeltaTime": "-inf",
+          "enemyX": 0.016666666666666666,
+          "playerX": "nan",
+          "attackRange": 0.016666666666666666
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000807f",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 103,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "inf",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 2,
+          "enemyX": 2,
+          "playerX": 2,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000807f",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 104,
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "waitTime": 2.000001,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "-inf",
+          "gameDeltaTime": 2.000001,
+          "enemyX": 2,
+          "playerX": "nan",
+          "attackRange": 0
+        }
+      },
+      "result": {
+        "state": 2,
+        "waitTimeBits": "04000040",
+        "current": "old",
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 105,
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "waitTime": 2,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2.000001,
+          "gameDeltaTime": "nan",
+          "enemyX": 2,
+          "playerX": 2.000001,
+          "attackRange": "nan"
+        }
+      },
+      "result": {
+        "state": 2,
+        "waitTimeBits": "00000040",
+        "current": null,
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 106,
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "waitTime": "-inf",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": -1,
+          "gameDeltaTime": 2.000001,
+          "enemyX": 0,
+          "playerX": "-inf",
+          "attackRange": "inf"
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "000080ff",
+        "current": "old",
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 107,
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "waitTime": 2.000001,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0,
+          "gameDeltaTime": 2,
+          "enemyX": "nan",
+          "playerX": 1,
+          "attackRange": -1
+        }
+      },
+      "result": {
+        "state": 2,
+        "waitTimeBits": "04000040",
+        "current": null,
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 108,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": -1,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "-inf",
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": 1,
+          "playerX": "inf",
+          "attackRange": 2.000001
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "000080bf",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 109,
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "waitTime": "inf",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0,
+          "gameDeltaTime": "nan",
+          "enemyX": "-inf",
+          "playerX": -1,
+          "attackRange": 0.016666666666666666
+        }
+      },
+      "result": {
+        "state": 2,
+        "waitTimeBits": "0000807f",
+        "current": null,
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 110,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 0,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "nan",
+          "gameDeltaTime": -1,
+          "enemyX": "-inf",
+          "playerX": 2.000001,
+          "attackRange": 2.000001
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000000",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 111,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 0,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": "nan",
+          "enemyX": -1,
+          "playerX": "nan",
+          "attackRange": "nan"
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "0000c07f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 112,
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "waitTime": 0,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 2.000001,
+          "gameDeltaTime": "-inf",
+          "enemyX": "-inf",
+          "playerX": "nan",
+          "attackRange": -1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000000",
+        "current": "old",
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 113,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": 2.000001,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": "inf",
+          "enemyX": 2.000001,
+          "playerX": -1,
+          "attackRange": "inf"
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "0000807f",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 114,
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "waitTime": 2.000001,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": -1,
+          "gameDeltaTime": "-inf",
+          "enemyX": 0,
+          "playerX": 2.000001,
+          "attackRange": 2.000001
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "04000040",
+        "current": "old",
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 115,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2.000001,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 1,
+          "gameDeltaTime": "inf",
+          "enemyX": "inf",
+          "playerX": "inf",
+          "attackRange": 0
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "04000040",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 116,
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "waitTime": 2,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "-inf",
+          "gameDeltaTime": "-inf",
+          "enemyX": 1,
+          "playerX": 0.016666666666666666,
+          "attackRange": 2
+        }
+      },
+      "result": {
+        "state": 2,
+        "waitTimeBits": "00000040",
+        "current": "old",
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 117,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": "nan",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0,
+          "gameDeltaTime": 2,
+          "enemyX": 0.016666666666666666,
+          "playerX": 0.016666666666666666,
+          "attackRange": 2
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "00000040",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 118,
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "waitTime": 2,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "nan",
+          "gameDeltaTime": -1,
+          "enemyX": 1,
+          "playerX": 2.000001,
+          "attackRange": "-inf"
+        }
+      },
+      "result": {
+        "state": 2,
+        "waitTimeBits": "00000040",
+        "current": "old",
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 119,
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "waitTime": "inf",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0,
+          "gameDeltaTime": "-inf",
+          "enemyX": -1,
+          "playerX": -1,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000807f",
+        "current": null,
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 120,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "-inf",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": -1,
+          "gameDeltaTime": 1,
+          "enemyX": 2.000001,
+          "playerX": 2.000001,
+          "attackRange": "nan"
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "000080ff",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 121,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": 10,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "inf",
+          "gameDeltaTime": 2.000001,
+          "enemyX": -1,
+          "playerX": 2,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "04000040",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 122,
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "waitTime": "nan",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "inf",
+          "gameDeltaTime": 1,
+          "enemyX": 0.016666666666666666,
+          "playerX": "inf",
+          "attackRange": 0
+        }
+      },
+      "result": {
+        "state": 2,
+        "waitTimeBits": "0000c07f",
+        "current": "old",
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 123,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "-inf",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0.016666666666666666,
+          "gameDeltaTime": 2,
+          "enemyX": 2,
+          "playerX": "nan",
+          "attackRange": 0.016666666666666666
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "000080ff",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 124,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "nan",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 2.000001,
+          "gameDeltaTime": "nan",
+          "enemyX": 0.016666666666666666,
+          "playerX": 0,
+          "attackRange": "inf"
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000c07f",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 125,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "-inf",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0,
+          "gameDeltaTime": 2,
+          "enemyX": 0,
+          "playerX": -1,
+          "attackRange": 0.016666666666666666
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "000080ff",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 126,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2.000001,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "inf",
+          "gameDeltaTime": -1,
+          "enemyX": 1,
+          "playerX": 0.016666666666666666,
+          "attackRange": "-inf"
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "0800803f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 127,
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "waitTime": 0,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "-inf",
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": 2.000001,
+          "playerX": 2.000001,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": 2,
+        "waitTimeBits": "00000000",
+        "current": null,
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 128,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 10,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 2.000001,
+          "gameDeltaTime": 2.000001,
+          "enemyX": 2.000001,
+          "playerX": 1,
+          "attackRange": 2.000001
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00002041",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 129,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2.000001,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "nan",
+          "gameDeltaTime": 2,
+          "enemyX": "-inf",
+          "playerX": "-inf",
+          "attackRange": 0.016666666666666666
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "04000040",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 130,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": 2,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 2.000001,
+          "enemyX": 2,
+          "playerX": 2.000001,
+          "attackRange": "inf"
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "04000040",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 131,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 0,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "-inf",
+          "gameDeltaTime": 1,
+          "enemyX": "-inf",
+          "playerX": "-inf",
+          "attackRange": -1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000000",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 132,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2.000001,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": -1,
+          "gameDeltaTime": "nan",
+          "enemyX": -1,
+          "playerX": 0.016666666666666666,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "04000040",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 133,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "nan",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": "-inf",
+          "enemyX": "inf",
+          "playerX": 1,
+          "attackRange": 0
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000c07f",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 134,
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "waitTime": "inf",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 0.016666666666666666,
+          "gameDeltaTime": -1,
+          "enemyX": 2,
+          "playerX": 2,
+          "attackRange": 2
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000807f",
+        "current": "old",
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 135,
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "waitTime": 2.000001,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0,
+          "gameDeltaTime": 2,
+          "enemyX": "inf",
+          "playerX": 0.016666666666666666,
+          "attackRange": "-inf"
+        }
+      },
+      "result": {
+        "state": 2,
+        "waitTimeBits": "04000040",
+        "current": null,
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 136,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 0,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 0.016666666666666666,
+          "gameDeltaTime": "inf",
+          "enemyX": 2.000001,
+          "playerX": "-inf",
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "0000807f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 137,
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "waitTime": 10,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0.016666666666666666,
+          "gameDeltaTime": 0,
+          "enemyX": "inf",
+          "playerX": 1,
+          "attackRange": "inf"
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00002041",
+        "current": null,
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 138,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": -1,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 2.000001,
+          "gameDeltaTime": "inf",
+          "enemyX": 0,
+          "playerX": "nan",
+          "attackRange": 2
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "0000807f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 139,
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "waitTime": "nan",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "inf",
+          "gameDeltaTime": 1,
+          "enemyX": 2,
+          "playerX": -1,
+          "attackRange": 2
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000c07f",
+        "current": null,
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 140,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": -1,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "-inf",
+          "gameDeltaTime": "nan",
+          "enemyX": "nan",
+          "playerX": "nan",
+          "attackRange": 2
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "000080bf",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 141,
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "waitTime": "inf",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": "nan",
+          "gameDeltaTime": 2.000001,
+          "enemyX": "inf",
+          "playerX": "-inf",
+          "attackRange": 0.016666666666666666
+        }
+      },
+      "result": {
+        "state": 2,
+        "waitTimeBits": "0000807f",
+        "current": null,
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 142,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "inf",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "nan",
+          "gameDeltaTime": "inf",
+          "enemyX": 0,
+          "playerX": "inf",
+          "attackRange": 0.016666666666666666
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000807f",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 143,
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "waitTime": -1,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0.016666666666666666,
+          "gameDeltaTime": 2.000001,
+          "enemyX": "-inf",
+          "playerX": 2,
+          "attackRange": "nan"
+        }
+      },
+      "result": {
+        "state": 2,
+        "waitTimeBits": "000080bf",
+        "current": null,
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 144,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 10,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": "inf",
+          "playerX": 2.000001,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00002041",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 145,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": 1,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": -1,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": 0.016666666666666666,
+          "playerX": 2,
+          "attackRange": 2
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000000",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          },
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 146,
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "waitTime": 0,
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "inf",
+          "gameDeltaTime": 0,
+          "enemyX": 1,
+          "playerX": 0.016666666666666666,
+          "attackRange": 2.000001
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "00000000",
+        "current": "old",
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 147,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": "-inf",
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0,
+          "gameDeltaTime": -1,
+          "enemyX": -1,
+          "playerX": "-inf",
+          "attackRange": 2
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "000080bf",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 148,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": "nan",
+          "current": "old"
+        },
+        "input": {
+          "attackSpeed": "-inf",
+          "gameDeltaTime": "nan",
+          "enemyX": 2,
+          "playerX": "-inf",
+          "attackRange": -1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "0000c07f",
+        "current": "old",
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 149,
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "waitTime": -1,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 0.016666666666666666,
+          "gameDeltaTime": -1,
+          "enemyX": "-inf",
+          "playerX": 0.016666666666666666,
+          "attackRange": "nan"
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "000080bf",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      }
+    },
+    {
+      "case": 150,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 0,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": 0.999999,
+          "playerX": 0,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "8988883c",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 151,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 0,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": 1,
+          "playerX": 0,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "8988883c",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 152,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 0,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": 1.000001,
+          "playerX": 0,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "8988883c",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 153,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 1.999999,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": 0.999999,
+          "playerX": 0,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "0d110140",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 154,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 1.999999,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": 1,
+          "playerX": 0,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "0d110140",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 155,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 1.999999,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": 1.000001,
+          "playerX": 0,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "0d110140",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 156,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": 0.999999,
+          "playerX": 0,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "11110140",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 157,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": 1,
+          "playerX": 0,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "11110140",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 158,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": 1.000001,
+          "playerX": 0,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": 1,
+        "waitTimeBits": "11110140",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      }
+    },
+    {
+      "case": 159,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2.000001,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": 0.999999,
+          "playerX": 0,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "04000040",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    },
+    {
+      "case": 160,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2.000001,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": 1,
+          "playerX": 0,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "04000040",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    },
+    {
+      "case": 161,
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "waitTime": 2.000001,
+          "current": null
+        },
+        "input": {
+          "attackSpeed": 2,
+          "gameDeltaTime": 0.016666666666666666,
+          "enemyX": 1.000001,
+          "playerX": 0,
+          "attackRange": 1
+        }
+      },
+      "result": {
+        "state": -1,
+        "waitTimeBits": "04000040",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "AttackReady"
+          }
+        ]
+      }
+    }
+  ],
+  "sequence": {
+    "fixture": {
+      "iterator": {
+        "state": 0,
+        "waitTime": 0,
+        "current": null
+      },
+      "input": {
+        "attackSpeed": 2,
+        "gameDeltaTime": 0.016666666666666666,
+        "enemyX": 10,
+        "playerX": 9.5,
+        "attackRange": 1
+      }
+    },
+    "frames": [
+      {
+        "state": 1,
+        "waitTimeBits": "8988883c",
+        "current": null,
+        "yielded": true,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 1
+          }
+        ]
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "8988083d",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "cecc4c3d",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "8988883d",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "abaaaa3d",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "cdcccc3d",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "efeeee3d",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "8988083e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "9a99193e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "abaa2a3e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "bcbb3b3e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "cdcc4c3e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "dedd5d3e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "efee6e3e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "0000803e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "8988883e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "1211913e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "9b99993e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "2422a23e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "adaaaa3e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "3633b33e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "bfbbbb3e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "4844c43e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "d1cccc3e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "5a55d53e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "e3dddd3e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "6c66e63e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "f5eeee3e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "7e77f73e",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "0300003f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "4744043f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "8b88083f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "cfcc0c3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "1311113f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "5755153f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "9b99193f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "dfdd1d3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "2322223f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "6766263f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "abaa2a3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "efee2e3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "3333333f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "7777373f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "bbbb3b3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "ffff3f3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "4344443f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "8788483f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "cbcc4c3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "0f11513f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "5355553f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "9799593f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "dbdd5d3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "1f22623f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "6366663f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "a7aa6a3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "ebee6e3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "2f33733f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "7377773f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "b7bb7b3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "fbff7f3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "2022823f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "4244843f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "6466863f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "8688883f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "a8aa8a3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "cacc8c3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "ecee8e3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "0e11913f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "3033933f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "5255953f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "7477973f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "9699993f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "b8bb9b3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "dadd9d3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "fcff9f3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "1e22a23f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "4044a43f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "6266a63f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "8488a83f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "a6aaaa3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "c8ccac3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "eaeeae3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "0c11b13f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "2e33b33f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "5055b53f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "7277b73f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "9499b93f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "b6bbbb3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "d8ddbd3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "faffbf3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "1c22c23f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "3e44c43f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "6066c63f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "8288c83f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "a4aaca3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "c6cccc3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "e8eece3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "0a11d13f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "2c33d33f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "4e55d53f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "7077d73f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "9299d93f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "b4bbdb3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "d6dddd3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "f8ffdf3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "1a22e23f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "3c44e43f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "5e66e63f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "8088e83f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "a2aaea3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "c4ccec3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "e6eeee3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "0811f13f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "2a33f33f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "4c55f53f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "6e77f73f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "9099f93f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "b2bbfb3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "d4ddfd3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "f6ffff3f",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": 1,
+        "waitTimeBits": "0c110140",
+        "current": null,
+        "yielded": true,
+        "effects": []
+      },
+      {
+        "state": -1,
+        "waitTimeBits": "0c110140",
+        "current": null,
+        "yielded": false,
+        "effects": [
+          {
+            "kind": "SetState",
+            "state": 10
+          }
+        ]
+      }
+    ]
+  }
+}

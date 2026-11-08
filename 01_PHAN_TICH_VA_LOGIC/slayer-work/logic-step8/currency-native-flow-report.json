@@ -1,0 +1,8 @@
+{
+  "cases": 483,
+  "contracts": 4,
+  "entries": 5,
+  "instruction_steps": 19591,
+  "distinct_instructions": 177,
+  "scope": "GetCurrency/GetTotalGetValue/GetTotalUsedValue and two CheckValue overloads used by ItemUpgrade. CurrencyData/decrypted getters, allocations, constructor and PostLog sink explicitly modeled. No real network, full async RPC, PostLog implementation or server parity."
+}

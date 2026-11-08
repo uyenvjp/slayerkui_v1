@@ -1,0 +1,6 @@
+{
+  "passed": 832,
+  "sequences": 7,
+  "contracts": 1,
+  "scope": "Native level application, actual baseline display callback and batching with declared downstream sinks."
+}

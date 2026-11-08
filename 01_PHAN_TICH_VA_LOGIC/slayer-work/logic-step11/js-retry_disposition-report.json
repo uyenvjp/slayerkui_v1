@@ -1,0 +1,5 @@
+{
+  "fragmentSequences": 140,
+  "actions": 180,
+  "scope": "Retry-disposition fragment with reconstructed native context, not full RPC exception/unwind verification."
+}

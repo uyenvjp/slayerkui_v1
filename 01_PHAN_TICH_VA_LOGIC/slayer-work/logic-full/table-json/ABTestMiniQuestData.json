@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 4,
+    "A": 0,
+    "B": 0,
+    "SelectedIndex": 0,
+    "ResetIndices": "22~28"
+  },
+  {
+    "Id": 5,
+    "A": 0,
+    "B": 0,
+    "SelectedIndex": 0,
+    "ResetIndices": "22~28"
+  },
+  {
+    "Id": 8,
+    "A": 1,
+    "B": 1,
+    "SelectedIndex": 1,
+    "ResetIndices": ""
+  },
+  {
+    "Id": 12,
+    "A": 1,
+    "B": 0,
+    "SelectedIndex": 1,
+    "ResetIndices": ""
+  }
+]

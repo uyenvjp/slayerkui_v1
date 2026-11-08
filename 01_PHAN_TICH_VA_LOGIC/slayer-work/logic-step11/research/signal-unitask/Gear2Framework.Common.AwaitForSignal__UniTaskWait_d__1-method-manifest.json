@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x600ca08",
+    "name": "MoveNext",
+    "declaring_type_index": "5721",
+    "declaring_type_full_name": "Gear2Framework.Common.AwaitForSignal+<UniTaskWait>d__1",
+    "native_va": "0x47460f4",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "481",
+    "iflags": "0",
+    "slot": "4",
+    "metadata_record_offset": "0xa0c88c",
+    "end_va": "0x47464ac",
+    "asm_file": "Gear2Framework.Common.AwaitForSignal__UniTaskWait_d__1__MoveNext_0x600ca08.asm"
+  }
+]

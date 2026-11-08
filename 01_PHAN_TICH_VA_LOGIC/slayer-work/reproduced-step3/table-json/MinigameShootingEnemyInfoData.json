@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 0,
+    "EnemyIndex": 1,
+    "size": 1.0,
+    "DropExp": 1,
+    "DropGauge": 1
+  },
+  {
+    "Id": 1,
+    "EnemyIndex": 2,
+    "size": 1.2000000476837158,
+    "DropExp": 2,
+    "DropGauge": 2
+  },
+  {
+    "Id": 2,
+    "EnemyIndex": 3,
+    "size": 1.399999976158142,
+    "DropExp": 3,
+    "DropGauge": 3
+  },
+  {
+    "Id": 3,
+    "EnemyIndex": 4,
+    "size": 1.5,
+    "DropExp": 4,
+    "DropGauge": 4
+  },
+  {
+    "Id": 4,
+    "EnemyIndex": 5,
+    "size": 1.600000023841858,
+    "DropExp": 5,
+    "DropGauge": 5
+  }
+]

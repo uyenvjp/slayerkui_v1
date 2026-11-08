@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6008f25",
+    "name": "ScheduleAbnormalAddDamage",
+    "declaring_type_index": "3792",
+    "declaring_type_full_name": "EnemyBase",
+    "native_va": "0x50b7248",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "129",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x996c2c",
+    "end_va": "0x50b7394",
+    "asm_file": "EnemyBase__ScheduleAbnormalAddDamage_0x6008f25.asm"
+  }
+]

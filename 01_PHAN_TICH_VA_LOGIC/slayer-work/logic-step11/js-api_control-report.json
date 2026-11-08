@@ -1,0 +1,6 @@
+{
+  "passed": 1344,
+  "contracts": 9,
+  "sequences": 1,
+  "scope": "API warm controls, strict time boundary, result-code branches and effect order under explicit dependencies."
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "DailyQuestType": 0,
+    "ActionConditionType": 1
+  },
+  {
+    "Id": 2,
+    "DailyQuestType": 1,
+    "ActionConditionType": 2
+  },
+  {
+    "Id": 3,
+    "DailyQuestType": 2,
+    "ActionConditionType": 3
+  },
+  {
+    "Id": 4,
+    "DailyQuestType": 3,
+    "ActionConditionType": 4
+  },
+  {
+    "Id": 5,
+    "DailyQuestType": 4,
+    "ActionConditionType": 5
+  },
+  {
+    "Id": 6,
+    "DailyQuestType": 5,
+    "ActionConditionType": 6
+  }
+]

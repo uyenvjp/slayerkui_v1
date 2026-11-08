@@ -1,0 +1,63 @@
+{
+  "package": "com.gear2.growslayer",
+  "version": "700.0.4",
+  "version_code": 705,
+  "native_sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+  "native_instruction_model_cases": 2268,
+  "scoped_checks": [
+    {
+      "scope": "attack_hp",
+      "cases": 414,
+      "native_report": "native-flow-report.json",
+      "javascript_report": "js-native-flow-report.json",
+      "passed": true
+    },
+    {
+      "scope": "database_buffs",
+      "cases": 630,
+      "native_report": "db-native-flow-report.json",
+      "javascript_report": "js-database-flow-report.json",
+      "passed": true
+    },
+    {
+      "scope": "skill_timing",
+      "cases": 820,
+      "native_report": "timing-native-flow-report.json",
+      "javascript_report": "js-skill-timing-report.json",
+      "passed": true
+    },
+    {
+      "scope": "player_damage",
+      "cases": 206,
+      "native_report": "player-damage-native-flow-report.json",
+      "javascript_report": "js-player-damage-report.json",
+      "passed": true
+    },
+    {
+      "scope": "defense_stats",
+      "cases": 198,
+      "native_report": "defense-native-flow-report.json",
+      "javascript_report": "js-defense-stats-report.json",
+      "passed": true
+    }
+  ],
+  "all_client_logic_analyzed": false,
+  "all_game_logic_recovered": false,
+  "native_game_executed": false,
+  "h5_built": false,
+  "hosted": false,
+  "new_or_substitute_assets_created": false,
+  "scope_notes": "Bounded original method bodies under explicit external models; fixture data is synthetic. Not full Unity/Android/live IFix/server/gameplay verification.",
+  "current_port_sha256": {
+    "recovered-database-buffs.mjs": "272a357e38596e00e55f383249d7cf4321e069496fb408eb2a798a99461d6688",
+    "recovered-defense-stats.mjs": "feaf641b59f659732fd776e2eefa196ebddbec17c39620c677df2bd6be1a2417",
+    "recovered-player-aggregation.mjs": "89dd478ef0c0d3811669c694907518acafcf1d1f59372897e2aa0bb77c4c77df",
+    "recovered-player-damage.mjs": "8053f422c62eb6963331667b174a497eb9ce9dfed871fb86053be09be4737d01",
+    "recovered-skill-timing.mjs": "289ca5da0d18b9f0099373e74646a62ceebfab85e870ffa0bc18ff1337db011a",
+    "verify-database-buffs.mjs": "7755830f159153b41e708a4bbfccee49a21c480ce1b450936596510b6ce95b96",
+    "verify-defense-stats.mjs": "5820ddb368f7b55317063174e6acf16cc0da0bc5e98591187c2a4d47fdc2aa48",
+    "verify-native-flow.mjs": "4ecbb7b6399909961fc123e8bbb536a84aca942c55c03907dae370a133c8692f",
+    "verify-player-damage.mjs": "e97f794550a435403142400bd35e8a0668476fbd347af8b03328a15af6999542",
+    "verify-skill-timing.mjs": "ce98c1e730a83f1f5041e1910caf66b37eafb02270fa7696d8f1b30b48554a5c"
+  }
+}

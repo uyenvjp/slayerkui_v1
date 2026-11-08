@@ -1,0 +1,8762 @@
+[
+  {
+    "Id": "Tutorial0",
+    "StoryType": 0,
+    "TypeIndex": 0,
+    "first": 0,
+    "last": 3,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Tutorial1",
+    "StoryType": 0,
+    "TypeIndex": 1,
+    "first": 10,
+    "last": 12,
+    "Select": true,
+    "LeftSelect": "DIALOGUE_SELECT_001",
+    "RightSelect": "DIALOGUE_SELECT_002"
+  },
+  {
+    "Id": "Tutorial2",
+    "StoryType": 0,
+    "TypeIndex": 2,
+    "first": 20,
+    "last": 21,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Tutorial3",
+    "StoryType": 0,
+    "TypeIndex": 3,
+    "first": 30,
+    "last": 30,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass1",
+    "StoryType": 3,
+    "TypeIndex": 1,
+    "first": 100,
+    "last": 104,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass2",
+    "StoryType": 3,
+    "TypeIndex": 2,
+    "first": 110,
+    "last": 112,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass3",
+    "StoryType": 3,
+    "TypeIndex": 3,
+    "first": 120,
+    "last": 121,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass4",
+    "StoryType": 3,
+    "TypeIndex": 4,
+    "first": 130,
+    "last": 133,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass5",
+    "StoryType": 3,
+    "TypeIndex": 5,
+    "first": 140,
+    "last": 143,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass6",
+    "StoryType": 3,
+    "TypeIndex": 6,
+    "first": 150,
+    "last": 153,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass7",
+    "StoryType": 3,
+    "TypeIndex": 7,
+    "first": 160,
+    "last": 163,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass8",
+    "StoryType": 3,
+    "TypeIndex": 8,
+    "first": 170,
+    "last": 173,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass9",
+    "StoryType": 3,
+    "TypeIndex": 9,
+    "first": 180,
+    "last": 183,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass10",
+    "StoryType": 3,
+    "TypeIndex": 10,
+    "first": 190,
+    "last": 195,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass11",
+    "StoryType": 3,
+    "TypeIndex": 11,
+    "first": 200,
+    "last": 203,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass12",
+    "StoryType": 3,
+    "TypeIndex": 12,
+    "first": 210,
+    "last": 213,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass13",
+    "StoryType": 3,
+    "TypeIndex": 13,
+    "first": 220,
+    "last": 223,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass14",
+    "StoryType": 3,
+    "TypeIndex": 14,
+    "first": 230,
+    "last": 233,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass15",
+    "StoryType": 3,
+    "TypeIndex": 15,
+    "first": 240,
+    "last": 243,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass16",
+    "StoryType": 3,
+    "TypeIndex": 16,
+    "first": 250,
+    "last": 254,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass17",
+    "StoryType": 3,
+    "TypeIndex": 17,
+    "first": 260,
+    "last": 263,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass18",
+    "StoryType": 3,
+    "TypeIndex": 18,
+    "first": 270,
+    "last": 273,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass19",
+    "StoryType": 3,
+    "TypeIndex": 19,
+    "first": 280,
+    "last": 283,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass20",
+    "StoryType": 3,
+    "TypeIndex": 20,
+    "first": 290,
+    "last": 294,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass21",
+    "StoryType": 3,
+    "TypeIndex": 21,
+    "first": 300,
+    "last": 304,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass22",
+    "StoryType": 3,
+    "TypeIndex": 22,
+    "first": 310,
+    "last": 315,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass23",
+    "StoryType": 3,
+    "TypeIndex": 23,
+    "first": 320,
+    "last": 325,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass24",
+    "StoryType": 3,
+    "TypeIndex": 24,
+    "first": 330,
+    "last": 335,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass25",
+    "StoryType": 3,
+    "TypeIndex": 25,
+    "first": 343,
+    "last": 347,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass26",
+    "StoryType": 3,
+    "TypeIndex": 26,
+    "first": 350,
+    "last": 355,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlayerClass40",
+    "StoryType": 3,
+    "TypeIndex": 40,
+    "first": 134,
+    "last": 137,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Event0",
+    "StoryType": 6,
+    "TypeIndex": 0,
+    "first": 900,
+    "last": 904,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Event1",
+    "StoryType": 6,
+    "TypeIndex": 1,
+    "first": 905,
+    "last": 912,
+    "Select": true,
+    "LeftSelect": "DIALOGUE_SELECT_007",
+    "RightSelect": "DIALOGUE_SELECT_008"
+  },
+  {
+    "Id": "Event2",
+    "StoryType": 6,
+    "TypeIndex": 2,
+    "first": 913,
+    "last": 913,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Event3",
+    "StoryType": 6,
+    "TypeIndex": 3,
+    "first": 914,
+    "last": 914,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Guild0",
+    "StoryType": 9,
+    "TypeIndex": 0,
+    "first": 915,
+    "last": 915,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Guild1",
+    "StoryType": 9,
+    "TypeIndex": 1,
+    "first": 916,
+    "last": 919,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Guild2",
+    "StoryType": 9,
+    "TypeIndex": 2,
+    "first": 920,
+    "last": 923,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Guild3",
+    "StoryType": 9,
+    "TypeIndex": 3,
+    "first": 924,
+    "last": 926,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Guild4",
+    "StoryType": 9,
+    "TypeIndex": 4,
+    "first": 927,
+    "last": 929,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Guild5",
+    "StoryType": 9,
+    "TypeIndex": 5,
+    "first": 930,
+    "last": 935,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Guild6",
+    "StoryType": 9,
+    "TypeIndex": 6,
+    "first": 936,
+    "last": 938,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Event4",
+    "StoryType": 6,
+    "TypeIndex": 4,
+    "first": 939,
+    "last": 941,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Guild7",
+    "StoryType": 9,
+    "TypeIndex": 7,
+    "first": 943,
+    "last": 947,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "WorldBoss0",
+    "StoryType": 11,
+    "TypeIndex": 0,
+    "first": 948,
+    "last": 954,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "WorldBoss1",
+    "StoryType": 11,
+    "TypeIndex": 1,
+    "first": 955,
+    "last": 960,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "WorldBoss2",
+    "StoryType": 11,
+    "TypeIndex": 2,
+    "first": 961,
+    "last": 966,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "WorldBoss3",
+    "StoryType": 11,
+    "TypeIndex": 3,
+    "first": 967,
+    "last": 968,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "WorldBoss4",
+    "StoryType": 11,
+    "TypeIndex": 4,
+    "first": 969,
+    "last": 970,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza0",
+    "StoryType": 12,
+    "TypeIndex": 0,
+    "first": 971,
+    "last": 976,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1",
+    "StoryType": 12,
+    "TypeIndex": 1,
+    "first": 977,
+    "last": 981,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza2",
+    "StoryType": 12,
+    "TypeIndex": 2,
+    "first": 982,
+    "last": 982,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza3",
+    "StoryType": 12,
+    "TypeIndex": 3,
+    "first": 983,
+    "last": 983,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza4",
+    "StoryType": 12,
+    "TypeIndex": 4,
+    "first": 984,
+    "last": 984,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza5",
+    "StoryType": 12,
+    "TypeIndex": 5,
+    "first": 985,
+    "last": 985,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza6",
+    "StoryType": 12,
+    "TypeIndex": 6,
+    "first": 986,
+    "last": 986,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza7",
+    "StoryType": 12,
+    "TypeIndex": 7,
+    "first": 987,
+    "last": 987,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza8",
+    "StoryType": 12,
+    "TypeIndex": 8,
+    "first": 988,
+    "last": 989,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza9",
+    "StoryType": 12,
+    "TypeIndex": 9,
+    "first": 990,
+    "last": 991,
+    "Select": true,
+    "LeftSelect": "DIALOGUE_SELECT_009",
+    "RightSelect": "DIALOGUE_SELECT_010"
+  },
+  {
+    "Id": "Plaza10",
+    "StoryType": 12,
+    "TypeIndex": 10,
+    "first": 992,
+    "last": 993,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza11",
+    "StoryType": 12,
+    "TypeIndex": 11,
+    "first": 5000,
+    "last": 5006,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza12",
+    "StoryType": 12,
+    "TypeIndex": 12,
+    "first": 5007,
+    "last": 5009,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza13",
+    "StoryType": 12,
+    "TypeIndex": 13,
+    "first": 5010,
+    "last": 5011,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Friend0",
+    "StoryType": 2,
+    "TypeIndex": 0,
+    "first": 1000,
+    "last": 1001,
+    "Select": true,
+    "LeftSelect": "DIALOGUE_SELECT_003",
+    "RightSelect": "DIALOGUE_SELECT_004"
+  },
+  {
+    "Id": "Friend1",
+    "StoryType": 2,
+    "TypeIndex": 1,
+    "first": 1010,
+    "last": 1012,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Friend2",
+    "StoryType": 2,
+    "TypeIndex": 2,
+    "first": 1020,
+    "last": 1021,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Friend10",
+    "StoryType": 2,
+    "TypeIndex": 10,
+    "first": 1100,
+    "last": 1101,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Friend11",
+    "StoryType": 2,
+    "TypeIndex": 11,
+    "first": 1110,
+    "last": 1112,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Friend20",
+    "StoryType": 2,
+    "TypeIndex": 20,
+    "first": 1200,
+    "last": 1201,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Friend21",
+    "StoryType": 2,
+    "TypeIndex": 21,
+    "first": 1210,
+    "last": 1211,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Friend30",
+    "StoryType": 2,
+    "TypeIndex": 30,
+    "first": 1300,
+    "last": 1301,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Friend31",
+    "StoryType": 2,
+    "TypeIndex": 31,
+    "first": 1310,
+    "last": 1312,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Stage0",
+    "StoryType": 7,
+    "TypeIndex": 0,
+    "first": 2000,
+    "last": 2002,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Stage1",
+    "StoryType": 7,
+    "TypeIndex": 1,
+    "first": 2010,
+    "last": 2014,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Stage2",
+    "StoryType": 7,
+    "TypeIndex": 2,
+    "first": 2020,
+    "last": 2020,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Dungeon0",
+    "StoryType": 8,
+    "TypeIndex": 0,
+    "first": 3000,
+    "last": 3003,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Dungeon1",
+    "StoryType": 8,
+    "TypeIndex": 1,
+    "first": 3010,
+    "last": 3011,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Dungeon2",
+    "StoryType": 8,
+    "TypeIndex": 2,
+    "first": 3020,
+    "last": 3023,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "ThemeDungeon0",
+    "StoryType": 10,
+    "TypeIndex": 0,
+    "first": 4000,
+    "last": 4002,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "ThemeDungeon1",
+    "StoryType": 10,
+    "TypeIndex": 1,
+    "first": 4003,
+    "last": 4005,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "ThemeDungeon2",
+    "StoryType": 10,
+    "TypeIndex": 2,
+    "first": 4006,
+    "last": 4008,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle101",
+    "StoryType": 4,
+    "TypeIndex": 101,
+    "first": 10000,
+    "last": 10002,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle102",
+    "StoryType": 4,
+    "TypeIndex": 102,
+    "first": 10010,
+    "last": 10012,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle105",
+    "StoryType": 4,
+    "TypeIndex": 105,
+    "first": 10020,
+    "last": 10022,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle106",
+    "StoryType": 4,
+    "TypeIndex": 106,
+    "first": 10030,
+    "last": 10032,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle107",
+    "StoryType": 4,
+    "TypeIndex": 107,
+    "first": 10040,
+    "last": 10042,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle108",
+    "StoryType": 4,
+    "TypeIndex": 108,
+    "first": 10050,
+    "last": 10052,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle109",
+    "StoryType": 4,
+    "TypeIndex": 109,
+    "first": 10060,
+    "last": 10062,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle111",
+    "StoryType": 4,
+    "TypeIndex": 111,
+    "first": 10070,
+    "last": 10072,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle112",
+    "StoryType": 4,
+    "TypeIndex": 112,
+    "first": 10080,
+    "last": 10082,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle114",
+    "StoryType": 4,
+    "TypeIndex": 114,
+    "first": 10090,
+    "last": 10092,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle115",
+    "StoryType": 4,
+    "TypeIndex": 115,
+    "first": 10100,
+    "last": 10102,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle116",
+    "StoryType": 4,
+    "TypeIndex": 116,
+    "first": 10110,
+    "last": 10112,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle117",
+    "StoryType": 4,
+    "TypeIndex": 117,
+    "first": 10120,
+    "last": 10122,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle118",
+    "StoryType": 4,
+    "TypeIndex": 118,
+    "first": 10130,
+    "last": 10132,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle119",
+    "StoryType": 4,
+    "TypeIndex": 119,
+    "first": 10140,
+    "last": 10142,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle120",
+    "StoryType": 4,
+    "TypeIndex": 120,
+    "first": 10150,
+    "last": 10152,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle122",
+    "StoryType": 4,
+    "TypeIndex": 122,
+    "first": 10160,
+    "last": 10162,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle125",
+    "StoryType": 4,
+    "TypeIndex": 125,
+    "first": 10170,
+    "last": 10172,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle126",
+    "StoryType": 4,
+    "TypeIndex": 126,
+    "first": 10180,
+    "last": 10182,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle127",
+    "StoryType": 4,
+    "TypeIndex": 127,
+    "first": 10190,
+    "last": 10192,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle129",
+    "StoryType": 4,
+    "TypeIndex": 129,
+    "first": 10200,
+    "last": 10202,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle132",
+    "StoryType": 4,
+    "TypeIndex": 132,
+    "first": 10210,
+    "last": 10212,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle133",
+    "StoryType": 4,
+    "TypeIndex": 133,
+    "first": 10220,
+    "last": 10222,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle134",
+    "StoryType": 4,
+    "TypeIndex": 134,
+    "first": 10230,
+    "last": 10232,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle135",
+    "StoryType": 4,
+    "TypeIndex": 135,
+    "first": 10240,
+    "last": 10242,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle136",
+    "StoryType": 4,
+    "TypeIndex": 136,
+    "first": 10250,
+    "last": 10252,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle137",
+    "StoryType": 4,
+    "TypeIndex": 137,
+    "first": 10260,
+    "last": 10262,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle138",
+    "StoryType": 4,
+    "TypeIndex": 138,
+    "first": 10270,
+    "last": 10272,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle139",
+    "StoryType": 4,
+    "TypeIndex": 139,
+    "first": 10280,
+    "last": 10282,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle140",
+    "StoryType": 4,
+    "TypeIndex": 140,
+    "first": 10290,
+    "last": 10292,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle141",
+    "StoryType": 4,
+    "TypeIndex": 141,
+    "first": 10300,
+    "last": 10302,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle146",
+    "StoryType": 4,
+    "TypeIndex": 146,
+    "first": 10310,
+    "last": 10312,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle147",
+    "StoryType": 4,
+    "TypeIndex": 147,
+    "first": 10320,
+    "last": 10322,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle148",
+    "StoryType": 4,
+    "TypeIndex": 148,
+    "first": 10330,
+    "last": 10332,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle149",
+    "StoryType": 4,
+    "TypeIndex": 149,
+    "first": 10340,
+    "last": 10342,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle152",
+    "StoryType": 4,
+    "TypeIndex": 152,
+    "first": 10350,
+    "last": 10352,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle153",
+    "StoryType": 4,
+    "TypeIndex": 153,
+    "first": 10360,
+    "last": 10362,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle156",
+    "StoryType": 4,
+    "TypeIndex": 156,
+    "first": 10370,
+    "last": 10372,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle159",
+    "StoryType": 4,
+    "TypeIndex": 159,
+    "first": 10380,
+    "last": 10383,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle165",
+    "StoryType": 4,
+    "TypeIndex": 165,
+    "first": 10390,
+    "last": 10392,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle170",
+    "StoryType": 4,
+    "TypeIndex": 170,
+    "first": 10400,
+    "last": 10403,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle174",
+    "StoryType": 4,
+    "TypeIndex": 174,
+    "first": 10410,
+    "last": 10413,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle180",
+    "StoryType": 4,
+    "TypeIndex": 180,
+    "first": 10430,
+    "last": 10435,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle186",
+    "StoryType": 4,
+    "TypeIndex": 186,
+    "first": 10436,
+    "last": 10440,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle196",
+    "StoryType": 4,
+    "TypeIndex": 196,
+    "first": 10450,
+    "last": 10454,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle207",
+    "StoryType": 4,
+    "TypeIndex": 207,
+    "first": 10455,
+    "last": 10461,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle222",
+    "StoryType": 4,
+    "TypeIndex": 222,
+    "first": 10462,
+    "last": 10466,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle236",
+    "StoryType": 4,
+    "TypeIndex": 236,
+    "first": 10467,
+    "last": 10470,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "SkinBattle10002",
+    "StoryType": 4,
+    "TypeIndex": 10002,
+    "first": 10420,
+    "last": 10422,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign0",
+    "StoryType": 5,
+    "TypeIndex": 0,
+    "first": 19999,
+    "last": 19999,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign100",
+    "StoryType": 5,
+    "TypeIndex": 100,
+    "first": 20000,
+    "last": 20000,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign101",
+    "StoryType": 5,
+    "TypeIndex": 101,
+    "first": 20001,
+    "last": 20019,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign102",
+    "StoryType": 5,
+    "TypeIndex": 102,
+    "first": 20020,
+    "last": 20021,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign200",
+    "StoryType": 5,
+    "TypeIndex": 200,
+    "first": 20022,
+    "last": 20022,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign201",
+    "StoryType": 5,
+    "TypeIndex": 201,
+    "first": 20023,
+    "last": 20027,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign202",
+    "StoryType": 5,
+    "TypeIndex": 202,
+    "first": 20028,
+    "last": 20032,
+    "Select": true,
+    "LeftSelect": "DIALOGUE_SELECT_005",
+    "RightSelect": "DIALOGUE_SELECT_006"
+  },
+  {
+    "Id": "Campaign203",
+    "StoryType": 5,
+    "TypeIndex": 203,
+    "first": 20033,
+    "last": 20038,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign204",
+    "StoryType": 5,
+    "TypeIndex": 204,
+    "first": 20039,
+    "last": 20045,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign300",
+    "StoryType": 5,
+    "TypeIndex": 300,
+    "first": 20046,
+    "last": 20046,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign301",
+    "StoryType": 5,
+    "TypeIndex": 301,
+    "first": 20047,
+    "last": 20047,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign302",
+    "StoryType": 5,
+    "TypeIndex": 302,
+    "first": 20048,
+    "last": 20048,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign303",
+    "StoryType": 5,
+    "TypeIndex": 303,
+    "first": 20049,
+    "last": 20051,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign304",
+    "StoryType": 5,
+    "TypeIndex": 304,
+    "first": 20052,
+    "last": 20052,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign305",
+    "StoryType": 5,
+    "TypeIndex": 305,
+    "first": 20053,
+    "last": 20058,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign306",
+    "StoryType": 5,
+    "TypeIndex": 306,
+    "first": 20059,
+    "last": 20063,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign307",
+    "StoryType": 5,
+    "TypeIndex": 307,
+    "first": 20064,
+    "last": 20069,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign308",
+    "StoryType": 5,
+    "TypeIndex": 308,
+    "first": 20070,
+    "last": 20072,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign309",
+    "StoryType": 5,
+    "TypeIndex": 309,
+    "first": 20073,
+    "last": 20080,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign310",
+    "StoryType": 5,
+    "TypeIndex": 310,
+    "first": 20081,
+    "last": 20085,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign400",
+    "StoryType": 5,
+    "TypeIndex": 400,
+    "first": 20086,
+    "last": 20086,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign401",
+    "StoryType": 5,
+    "TypeIndex": 401,
+    "first": 20087,
+    "last": 20094,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign402",
+    "StoryType": 5,
+    "TypeIndex": 402,
+    "first": 20095,
+    "last": 20102,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign403",
+    "StoryType": 5,
+    "TypeIndex": 403,
+    "first": 20103,
+    "last": 20108,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign500",
+    "StoryType": 5,
+    "TypeIndex": 500,
+    "first": 20109,
+    "last": 20111,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign501",
+    "StoryType": 5,
+    "TypeIndex": 501,
+    "first": 20112,
+    "last": 20122,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign502",
+    "StoryType": 5,
+    "TypeIndex": 502,
+    "first": 20123,
+    "last": 20123,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign503",
+    "StoryType": 5,
+    "TypeIndex": 503,
+    "first": 20124,
+    "last": 20124,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign504",
+    "StoryType": 5,
+    "TypeIndex": 504,
+    "first": 20125,
+    "last": 20161,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign505",
+    "StoryType": 5,
+    "TypeIndex": 505,
+    "first": 20162,
+    "last": 20164,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign506",
+    "StoryType": 5,
+    "TypeIndex": 506,
+    "first": 20165,
+    "last": 20169,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign600",
+    "StoryType": 5,
+    "TypeIndex": 600,
+    "first": 20170,
+    "last": 20184,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign601",
+    "StoryType": 5,
+    "TypeIndex": 601,
+    "first": 20185,
+    "last": 20191,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign602",
+    "StoryType": 5,
+    "TypeIndex": 602,
+    "first": 20192,
+    "last": 20193,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign603",
+    "StoryType": 5,
+    "TypeIndex": 603,
+    "first": 20194,
+    "last": 20194,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign604",
+    "StoryType": 5,
+    "TypeIndex": 604,
+    "first": 20195,
+    "last": 20196,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign605",
+    "StoryType": 5,
+    "TypeIndex": 605,
+    "first": 20197,
+    "last": 20198,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign700",
+    "StoryType": 5,
+    "TypeIndex": 700,
+    "first": 20199,
+    "last": 20202,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign701",
+    "StoryType": 5,
+    "TypeIndex": 701,
+    "first": 20203,
+    "last": 20211,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign702",
+    "StoryType": 5,
+    "TypeIndex": 702,
+    "first": 20212,
+    "last": 20215,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign703",
+    "StoryType": 5,
+    "TypeIndex": 703,
+    "first": 20216,
+    "last": 20222,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign704",
+    "StoryType": 5,
+    "TypeIndex": 704,
+    "first": 20223,
+    "last": 20229,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign705",
+    "StoryType": 5,
+    "TypeIndex": 705,
+    "first": 20230,
+    "last": 20230,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign706",
+    "StoryType": 5,
+    "TypeIndex": 706,
+    "first": 20231,
+    "last": 20242,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign707",
+    "StoryType": 5,
+    "TypeIndex": 707,
+    "first": 20243,
+    "last": 20250,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign708",
+    "StoryType": 5,
+    "TypeIndex": 708,
+    "first": 20251,
+    "last": 20252,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign709",
+    "StoryType": 5,
+    "TypeIndex": 709,
+    "first": 20253,
+    "last": 20260,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign800",
+    "StoryType": 5,
+    "TypeIndex": 800,
+    "first": 20261,
+    "last": 20267,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign801",
+    "StoryType": 5,
+    "TypeIndex": 801,
+    "first": 20268,
+    "last": 20279,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign802",
+    "StoryType": 5,
+    "TypeIndex": 802,
+    "first": 20280,
+    "last": 20283,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign803",
+    "StoryType": 5,
+    "TypeIndex": 803,
+    "first": 20284,
+    "last": 20284,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign804",
+    "StoryType": 5,
+    "TypeIndex": 804,
+    "first": 20285,
+    "last": 20291,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign805",
+    "StoryType": 5,
+    "TypeIndex": 805,
+    "first": 20292,
+    "last": 20292,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign806",
+    "StoryType": 5,
+    "TypeIndex": 806,
+    "first": 20293,
+    "last": 20299,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign807",
+    "StoryType": 5,
+    "TypeIndex": 807,
+    "first": 20300,
+    "last": 20302,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign808",
+    "StoryType": 5,
+    "TypeIndex": 808,
+    "first": 20303,
+    "last": 20306,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign809",
+    "StoryType": 5,
+    "TypeIndex": 809,
+    "first": 20307,
+    "last": 20308,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign900",
+    "StoryType": 5,
+    "TypeIndex": 900,
+    "first": 20309,
+    "last": 20309,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign901",
+    "StoryType": 5,
+    "TypeIndex": 901,
+    "first": 20310,
+    "last": 20315,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign902",
+    "StoryType": 5,
+    "TypeIndex": 902,
+    "first": 20316,
+    "last": 20319,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign903",
+    "StoryType": 5,
+    "TypeIndex": 903,
+    "first": 20320,
+    "last": 20339,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign904",
+    "StoryType": 5,
+    "TypeIndex": 904,
+    "first": 20340,
+    "last": 20340,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign905",
+    "StoryType": 5,
+    "TypeIndex": 905,
+    "first": 20341,
+    "last": 20387,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign906",
+    "StoryType": 5,
+    "TypeIndex": 906,
+    "first": 20388,
+    "last": 20394,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1000",
+    "StoryType": 5,
+    "TypeIndex": 1000,
+    "first": 20395,
+    "last": 20417,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1001",
+    "StoryType": 5,
+    "TypeIndex": 1001,
+    "first": 20418,
+    "last": 20422,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1002",
+    "StoryType": 5,
+    "TypeIndex": 1002,
+    "first": 20423,
+    "last": 20423,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1003",
+    "StoryType": 5,
+    "TypeIndex": 1003,
+    "first": 20424,
+    "last": 20435,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1100",
+    "StoryType": 5,
+    "TypeIndex": 1100,
+    "first": 20436,
+    "last": 20436,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1101",
+    "StoryType": 5,
+    "TypeIndex": 1101,
+    "first": 20437,
+    "last": 20449,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1102",
+    "StoryType": 5,
+    "TypeIndex": 1102,
+    "first": 20450,
+    "last": 20460,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1103",
+    "StoryType": 5,
+    "TypeIndex": 1103,
+    "first": 20461,
+    "last": 20466,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1104",
+    "StoryType": 5,
+    "TypeIndex": 1104,
+    "first": 20467,
+    "last": 20482,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1105",
+    "StoryType": 5,
+    "TypeIndex": 1105,
+    "first": 20483,
+    "last": 20485,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1106",
+    "StoryType": 5,
+    "TypeIndex": 1106,
+    "first": 20486,
+    "last": 20489,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1107",
+    "StoryType": 5,
+    "TypeIndex": 1107,
+    "first": 20490,
+    "last": 20496,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1108",
+    "StoryType": 5,
+    "TypeIndex": 1108,
+    "first": 20497,
+    "last": 20497,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1109",
+    "StoryType": 5,
+    "TypeIndex": 1109,
+    "first": 20498,
+    "last": 20501,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1110",
+    "StoryType": 5,
+    "TypeIndex": 1110,
+    "first": 20502,
+    "last": 20505,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1111",
+    "StoryType": 5,
+    "TypeIndex": 1111,
+    "first": 20506,
+    "last": 20506,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1112",
+    "StoryType": 5,
+    "TypeIndex": 1112,
+    "first": 20507,
+    "last": 20514,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1200",
+    "StoryType": 5,
+    "TypeIndex": 1200,
+    "first": 20515,
+    "last": 20532,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1201",
+    "StoryType": 5,
+    "TypeIndex": 1201,
+    "first": 20533,
+    "last": 20535,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1202",
+    "StoryType": 5,
+    "TypeIndex": 1202,
+    "first": 20536,
+    "last": 20560,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1300",
+    "StoryType": 5,
+    "TypeIndex": 1300,
+    "first": 20561,
+    "last": 20568,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1301",
+    "StoryType": 5,
+    "TypeIndex": 1301,
+    "first": 20569,
+    "last": 20575,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1302",
+    "StoryType": 5,
+    "TypeIndex": 1302,
+    "first": 20576,
+    "last": 20581,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1303",
+    "StoryType": 5,
+    "TypeIndex": 1303,
+    "first": 20582,
+    "last": 20585,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1304",
+    "StoryType": 5,
+    "TypeIndex": 1304,
+    "first": 20586,
+    "last": 20587,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1305",
+    "StoryType": 5,
+    "TypeIndex": 1305,
+    "first": 20588,
+    "last": 20595,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1306",
+    "StoryType": 5,
+    "TypeIndex": 1306,
+    "first": 20596,
+    "last": 20596,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1307",
+    "StoryType": 5,
+    "TypeIndex": 1307,
+    "first": 20597,
+    "last": 20609,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1308",
+    "StoryType": 5,
+    "TypeIndex": 1308,
+    "first": 20610,
+    "last": 20611,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1309",
+    "StoryType": 5,
+    "TypeIndex": 1309,
+    "first": 20612,
+    "last": 20616,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1310",
+    "StoryType": 5,
+    "TypeIndex": 1310,
+    "first": 20617,
+    "last": 20627,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1311",
+    "StoryType": 5,
+    "TypeIndex": 1311,
+    "first": 20628,
+    "last": 20630,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1312",
+    "StoryType": 5,
+    "TypeIndex": 1312,
+    "first": 20631,
+    "last": 20633,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1400",
+    "StoryType": 5,
+    "TypeIndex": 1400,
+    "first": 20634,
+    "last": 20650,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1401",
+    "StoryType": 5,
+    "TypeIndex": 1401,
+    "first": 20651,
+    "last": 20651,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1402",
+    "StoryType": 5,
+    "TypeIndex": 1402,
+    "first": 20652,
+    "last": 20658,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1500",
+    "StoryType": 5,
+    "TypeIndex": 1500,
+    "first": 20659,
+    "last": 20667,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1501",
+    "StoryType": 5,
+    "TypeIndex": 1501,
+    "first": 20668,
+    "last": 20669,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1502",
+    "StoryType": 5,
+    "TypeIndex": 1502,
+    "first": 20670,
+    "last": 20672,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1503",
+    "StoryType": 5,
+    "TypeIndex": 1503,
+    "first": 20673,
+    "last": 20677,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1504",
+    "StoryType": 5,
+    "TypeIndex": 1504,
+    "first": 20678,
+    "last": 20679,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1505",
+    "StoryType": 5,
+    "TypeIndex": 1505,
+    "first": 20680,
+    "last": 20687,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1600",
+    "StoryType": 5,
+    "TypeIndex": 1600,
+    "first": 20688,
+    "last": 20699,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1601",
+    "StoryType": 5,
+    "TypeIndex": 1601,
+    "first": 20700,
+    "last": 20701,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1602",
+    "StoryType": 5,
+    "TypeIndex": 1602,
+    "first": 20702,
+    "last": 20715,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1603",
+    "StoryType": 5,
+    "TypeIndex": 1603,
+    "first": 20716,
+    "last": 20716,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1604",
+    "StoryType": 5,
+    "TypeIndex": 1604,
+    "first": 20717,
+    "last": 20719,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1605",
+    "StoryType": 5,
+    "TypeIndex": 1605,
+    "first": 20720,
+    "last": 20720,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1606",
+    "StoryType": 5,
+    "TypeIndex": 1606,
+    "first": 20721,
+    "last": 20731,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1607",
+    "StoryType": 5,
+    "TypeIndex": 1607,
+    "first": 20732,
+    "last": 20732,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1608",
+    "StoryType": 5,
+    "TypeIndex": 1608,
+    "first": 20733,
+    "last": 20747,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1609",
+    "StoryType": 5,
+    "TypeIndex": 1609,
+    "first": 20748,
+    "last": 20754,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1610",
+    "StoryType": 5,
+    "TypeIndex": 1610,
+    "first": 20755,
+    "last": 20756,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1611",
+    "StoryType": 5,
+    "TypeIndex": 1611,
+    "first": 20757,
+    "last": 20762,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1700",
+    "StoryType": 5,
+    "TypeIndex": 1700,
+    "first": 20763,
+    "last": 20763,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1701",
+    "StoryType": 5,
+    "TypeIndex": 1701,
+    "first": 20764,
+    "last": 20772,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1702",
+    "StoryType": 5,
+    "TypeIndex": 1702,
+    "first": 20773,
+    "last": 20788,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1800",
+    "StoryType": 5,
+    "TypeIndex": 1800,
+    "first": 20789,
+    "last": 20789,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1801",
+    "StoryType": 5,
+    "TypeIndex": 1801,
+    "first": 20790,
+    "last": 20791,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1802",
+    "StoryType": 5,
+    "TypeIndex": 1802,
+    "first": 20792,
+    "last": 20808,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1803",
+    "StoryType": 5,
+    "TypeIndex": 1803,
+    "first": 20809,
+    "last": 20815,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1900",
+    "StoryType": 5,
+    "TypeIndex": 1900,
+    "first": 20816,
+    "last": 20821,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1901",
+    "StoryType": 5,
+    "TypeIndex": 1901,
+    "first": 20822,
+    "last": 20822,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1902",
+    "StoryType": 5,
+    "TypeIndex": 1902,
+    "first": 20823,
+    "last": 20824,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1903",
+    "StoryType": 5,
+    "TypeIndex": 1903,
+    "first": 20825,
+    "last": 20831,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1904",
+    "StoryType": 5,
+    "TypeIndex": 1904,
+    "first": 20832,
+    "last": 20834,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1905",
+    "StoryType": 5,
+    "TypeIndex": 1905,
+    "first": 20835,
+    "last": 20835,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1906",
+    "StoryType": 5,
+    "TypeIndex": 1906,
+    "first": 20836,
+    "last": 20843,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign1907",
+    "StoryType": 5,
+    "TypeIndex": 1907,
+    "first": 20844,
+    "last": 20856,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2000",
+    "StoryType": 5,
+    "TypeIndex": 2000,
+    "first": 20857,
+    "last": 20864,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2001",
+    "StoryType": 5,
+    "TypeIndex": 2001,
+    "first": 20865,
+    "last": 20874,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2002",
+    "StoryType": 5,
+    "TypeIndex": 2002,
+    "first": 20875,
+    "last": 20884,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2003",
+    "StoryType": 5,
+    "TypeIndex": 2003,
+    "first": 20885,
+    "last": 20885,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2004",
+    "StoryType": 5,
+    "TypeIndex": 2004,
+    "first": 20886,
+    "last": 20890,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2005",
+    "StoryType": 5,
+    "TypeIndex": 2005,
+    "first": 20891,
+    "last": 20895,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2006",
+    "StoryType": 5,
+    "TypeIndex": 2006,
+    "first": 20896,
+    "last": 20906,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2007",
+    "StoryType": 5,
+    "TypeIndex": 2007,
+    "first": 20907,
+    "last": 20910,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2008",
+    "StoryType": 5,
+    "TypeIndex": 2008,
+    "first": 20911,
+    "last": 20926,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2100",
+    "StoryType": 5,
+    "TypeIndex": 2100,
+    "first": 20927,
+    "last": 20939,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2101",
+    "StoryType": 5,
+    "TypeIndex": 2101,
+    "first": 20940,
+    "last": 20965,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2102",
+    "StoryType": 5,
+    "TypeIndex": 2102,
+    "first": 20966,
+    "last": 20968,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2103",
+    "StoryType": 5,
+    "TypeIndex": 2103,
+    "first": 20969,
+    "last": 20970,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2104",
+    "StoryType": 5,
+    "TypeIndex": 2104,
+    "first": 20971,
+    "last": 20971,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2105",
+    "StoryType": 5,
+    "TypeIndex": 2105,
+    "first": 20972,
+    "last": 20983,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2200",
+    "StoryType": 5,
+    "TypeIndex": 2200,
+    "first": 20984,
+    "last": 20994,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2300",
+    "StoryType": 5,
+    "TypeIndex": 2300,
+    "first": 20995,
+    "last": 20995,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2301",
+    "StoryType": 5,
+    "TypeIndex": 2301,
+    "first": 20996,
+    "last": 21000,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2302",
+    "StoryType": 5,
+    "TypeIndex": 2302,
+    "first": 21001,
+    "last": 21004,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2303",
+    "StoryType": 5,
+    "TypeIndex": 2303,
+    "first": 21005,
+    "last": 21012,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2304",
+    "StoryType": 5,
+    "TypeIndex": 2304,
+    "first": 21013,
+    "last": 21013,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2305",
+    "StoryType": 5,
+    "TypeIndex": 2305,
+    "first": 21014,
+    "last": 21019,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2400",
+    "StoryType": 5,
+    "TypeIndex": 2400,
+    "first": 21020,
+    "last": 21026,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2401",
+    "StoryType": 5,
+    "TypeIndex": 2401,
+    "first": 21027,
+    "last": 21027,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2402",
+    "StoryType": 5,
+    "TypeIndex": 2402,
+    "first": 21028,
+    "last": 21032,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2500",
+    "StoryType": 5,
+    "TypeIndex": 2500,
+    "first": 21033,
+    "last": 21034,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2501",
+    "StoryType": 5,
+    "TypeIndex": 2501,
+    "first": 21035,
+    "last": 21050,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2502",
+    "StoryType": 5,
+    "TypeIndex": 2502,
+    "first": 21051,
+    "last": 21052,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2503",
+    "StoryType": 5,
+    "TypeIndex": 2503,
+    "first": 21053,
+    "last": 21053,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2504",
+    "StoryType": 5,
+    "TypeIndex": 2504,
+    "first": 21054,
+    "last": 21054,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2505",
+    "StoryType": 5,
+    "TypeIndex": 2505,
+    "first": 21055,
+    "last": 21058,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2506",
+    "StoryType": 5,
+    "TypeIndex": 2506,
+    "first": 21059,
+    "last": 21063,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2507",
+    "StoryType": 5,
+    "TypeIndex": 2507,
+    "first": 21064,
+    "last": 21074,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2508",
+    "StoryType": 5,
+    "TypeIndex": 2508,
+    "first": 21075,
+    "last": 21077,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2509",
+    "StoryType": 5,
+    "TypeIndex": 2509,
+    "first": 21078,
+    "last": 21079,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2510",
+    "StoryType": 5,
+    "TypeIndex": 2510,
+    "first": 21080,
+    "last": 21084,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2511",
+    "StoryType": 5,
+    "TypeIndex": 2511,
+    "first": 21085,
+    "last": 21085,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2512",
+    "StoryType": 5,
+    "TypeIndex": 2512,
+    "first": 21086,
+    "last": 21090,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2513",
+    "StoryType": 5,
+    "TypeIndex": 2513,
+    "first": 21091,
+    "last": 21107,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2600",
+    "StoryType": 5,
+    "TypeIndex": 2600,
+    "first": 21108,
+    "last": 21108,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2601",
+    "StoryType": 5,
+    "TypeIndex": 2601,
+    "first": 21109,
+    "last": 21109,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2602",
+    "StoryType": 5,
+    "TypeIndex": 2602,
+    "first": 21110,
+    "last": 21117,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2603",
+    "StoryType": 5,
+    "TypeIndex": 2603,
+    "first": 21118,
+    "last": 21139,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2604",
+    "StoryType": 5,
+    "TypeIndex": 2604,
+    "first": 21140,
+    "last": 21145,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2605",
+    "StoryType": 5,
+    "TypeIndex": 2605,
+    "first": 21146,
+    "last": 21159,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2606",
+    "StoryType": 5,
+    "TypeIndex": 2606,
+    "first": 21160,
+    "last": 21163,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2607",
+    "StoryType": 5,
+    "TypeIndex": 2607,
+    "first": 21164,
+    "last": 21169,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2700",
+    "StoryType": 5,
+    "TypeIndex": 2700,
+    "first": 21170,
+    "last": 21170,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2701",
+    "StoryType": 5,
+    "TypeIndex": 2701,
+    "first": 21171,
+    "last": 21173,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2702",
+    "StoryType": 5,
+    "TypeIndex": 2702,
+    "first": 21174,
+    "last": 21174,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2703",
+    "StoryType": 5,
+    "TypeIndex": 2703,
+    "first": 21175,
+    "last": 21175,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2704",
+    "StoryType": 5,
+    "TypeIndex": 2704,
+    "first": 21176,
+    "last": 21187,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2705",
+    "StoryType": 5,
+    "TypeIndex": 2705,
+    "first": 21188,
+    "last": 21188,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2706",
+    "StoryType": 5,
+    "TypeIndex": 2706,
+    "first": 21189,
+    "last": 21201,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2707",
+    "StoryType": 5,
+    "TypeIndex": 2707,
+    "first": 21202,
+    "last": 21202,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2708",
+    "StoryType": 5,
+    "TypeIndex": 2708,
+    "first": 21203,
+    "last": 21206,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2709",
+    "StoryType": 5,
+    "TypeIndex": 2709,
+    "first": 21207,
+    "last": 21209,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2710",
+    "StoryType": 5,
+    "TypeIndex": 2710,
+    "first": 21210,
+    "last": 21214,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2711",
+    "StoryType": 5,
+    "TypeIndex": 2711,
+    "first": 21215,
+    "last": 21227,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2712",
+    "StoryType": 5,
+    "TypeIndex": 2712,
+    "first": 21228,
+    "last": 21239,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2800",
+    "StoryType": 5,
+    "TypeIndex": 2800,
+    "first": 21240,
+    "last": 21243,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2801",
+    "StoryType": 5,
+    "TypeIndex": 2801,
+    "first": 21244,
+    "last": 21248,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2802",
+    "StoryType": 5,
+    "TypeIndex": 2802,
+    "first": 21249,
+    "last": 21249,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2803",
+    "StoryType": 5,
+    "TypeIndex": 2803,
+    "first": 21250,
+    "last": 21251,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2804",
+    "StoryType": 5,
+    "TypeIndex": 2804,
+    "first": 21252,
+    "last": 21260,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2805",
+    "StoryType": 5,
+    "TypeIndex": 2805,
+    "first": 21261,
+    "last": 21264,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2806",
+    "StoryType": 5,
+    "TypeIndex": 2806,
+    "first": 21265,
+    "last": 21278,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2807",
+    "StoryType": 5,
+    "TypeIndex": 2807,
+    "first": 21279,
+    "last": 21299,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2808",
+    "StoryType": 5,
+    "TypeIndex": 2808,
+    "first": 21300,
+    "last": 21314,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2809",
+    "StoryType": 5,
+    "TypeIndex": 2809,
+    "first": 21315,
+    "last": 21315,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2810",
+    "StoryType": 5,
+    "TypeIndex": 2810,
+    "first": 21316,
+    "last": 21316,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2811",
+    "StoryType": 5,
+    "TypeIndex": 2811,
+    "first": 21317,
+    "last": 21320,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2812",
+    "StoryType": 5,
+    "TypeIndex": 2812,
+    "first": 21321,
+    "last": 21328,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2813",
+    "StoryType": 5,
+    "TypeIndex": 2813,
+    "first": 21329,
+    "last": 21336,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2900",
+    "StoryType": 5,
+    "TypeIndex": 2900,
+    "first": 21337,
+    "last": 21338,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2901",
+    "StoryType": 5,
+    "TypeIndex": 2901,
+    "first": 21339,
+    "last": 21348,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2902",
+    "StoryType": 5,
+    "TypeIndex": 2902,
+    "first": 21349,
+    "last": 21349,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2903",
+    "StoryType": 5,
+    "TypeIndex": 2903,
+    "first": 21350,
+    "last": 21353,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2904",
+    "StoryType": 5,
+    "TypeIndex": 2904,
+    "first": 21354,
+    "last": 21357,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2905",
+    "StoryType": 5,
+    "TypeIndex": 2905,
+    "first": 21358,
+    "last": 21360,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2906",
+    "StoryType": 5,
+    "TypeIndex": 2906,
+    "first": 21361,
+    "last": 21368,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2907",
+    "StoryType": 5,
+    "TypeIndex": 2907,
+    "first": 21369,
+    "last": 21369,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign2908",
+    "StoryType": 5,
+    "TypeIndex": 2908,
+    "first": 21370,
+    "last": 21372,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3000",
+    "StoryType": 5,
+    "TypeIndex": 3000,
+    "first": 21373,
+    "last": 21373,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3001",
+    "StoryType": 5,
+    "TypeIndex": 3001,
+    "first": 21374,
+    "last": 21377,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3002",
+    "StoryType": 5,
+    "TypeIndex": 3002,
+    "first": 21378,
+    "last": 21379,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3003",
+    "StoryType": 5,
+    "TypeIndex": 3003,
+    "first": 21380,
+    "last": 21381,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3004",
+    "StoryType": 5,
+    "TypeIndex": 3004,
+    "first": 21382,
+    "last": 21389,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3005",
+    "StoryType": 5,
+    "TypeIndex": 3005,
+    "first": 21390,
+    "last": 21391,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3006",
+    "StoryType": 5,
+    "TypeIndex": 3006,
+    "first": 21392,
+    "last": 21395,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3007",
+    "StoryType": 5,
+    "TypeIndex": 3007,
+    "first": 21396,
+    "last": 21400,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3008",
+    "StoryType": 5,
+    "TypeIndex": 3008,
+    "first": 21401,
+    "last": 21411,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3009",
+    "StoryType": 5,
+    "TypeIndex": 3009,
+    "first": 21412,
+    "last": 21414,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3100",
+    "StoryType": 5,
+    "TypeIndex": 3100,
+    "first": 21415,
+    "last": 21417,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3101",
+    "StoryType": 5,
+    "TypeIndex": 3101,
+    "first": 21418,
+    "last": 21422,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3102",
+    "StoryType": 5,
+    "TypeIndex": 3102,
+    "first": 21423,
+    "last": 21426,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3103",
+    "StoryType": 5,
+    "TypeIndex": 3103,
+    "first": 21427,
+    "last": 21427,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3104",
+    "StoryType": 5,
+    "TypeIndex": 3104,
+    "first": 21428,
+    "last": 21434,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3105",
+    "StoryType": 5,
+    "TypeIndex": 3105,
+    "first": 21435,
+    "last": 21435,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3106",
+    "StoryType": 5,
+    "TypeIndex": 3106,
+    "first": 21436,
+    "last": 21447,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3200",
+    "StoryType": 5,
+    "TypeIndex": 3200,
+    "first": 21448,
+    "last": 21453,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3201",
+    "StoryType": 5,
+    "TypeIndex": 3201,
+    "first": 21454,
+    "last": 21460,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3202",
+    "StoryType": 5,
+    "TypeIndex": 3202,
+    "first": 21461,
+    "last": 21461,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3203",
+    "StoryType": 5,
+    "TypeIndex": 3203,
+    "first": 21462,
+    "last": 21474,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3204",
+    "StoryType": 5,
+    "TypeIndex": 3204,
+    "first": 21475,
+    "last": 21475,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3205",
+    "StoryType": 5,
+    "TypeIndex": 3205,
+    "first": 21476,
+    "last": 21481,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3206",
+    "StoryType": 5,
+    "TypeIndex": 3206,
+    "first": 21482,
+    "last": 21500,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3207",
+    "StoryType": 5,
+    "TypeIndex": 3207,
+    "first": 21501,
+    "last": 21503,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3208",
+    "StoryType": 5,
+    "TypeIndex": 3208,
+    "first": 21504,
+    "last": 21504,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3209",
+    "StoryType": 5,
+    "TypeIndex": 3209,
+    "first": 21505,
+    "last": 21511,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3210",
+    "StoryType": 5,
+    "TypeIndex": 3210,
+    "first": 21512,
+    "last": 21512,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3300",
+    "StoryType": 5,
+    "TypeIndex": 3300,
+    "first": 21513,
+    "last": 21514,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3301",
+    "StoryType": 5,
+    "TypeIndex": 3301,
+    "first": 21515,
+    "last": 21516,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3302",
+    "StoryType": 5,
+    "TypeIndex": 3302,
+    "first": 21517,
+    "last": 21522,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3303",
+    "StoryType": 5,
+    "TypeIndex": 3303,
+    "first": 21523,
+    "last": 21530,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3304",
+    "StoryType": 5,
+    "TypeIndex": 3304,
+    "first": 21531,
+    "last": 21540,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3305",
+    "StoryType": 5,
+    "TypeIndex": 3305,
+    "first": 21541,
+    "last": 21544,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3400",
+    "StoryType": 5,
+    "TypeIndex": 3400,
+    "first": 21545,
+    "last": 21547,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3401",
+    "StoryType": 5,
+    "TypeIndex": 3401,
+    "first": 21548,
+    "last": 21554,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3402",
+    "StoryType": 5,
+    "TypeIndex": 3402,
+    "first": 21555,
+    "last": 21556,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3403",
+    "StoryType": 5,
+    "TypeIndex": 3403,
+    "first": 21557,
+    "last": 21558,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3404",
+    "StoryType": 5,
+    "TypeIndex": 3404,
+    "first": 21559,
+    "last": 21561,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3405",
+    "StoryType": 5,
+    "TypeIndex": 3405,
+    "first": 21562,
+    "last": 21563,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3406",
+    "StoryType": 5,
+    "TypeIndex": 3406,
+    "first": 21564,
+    "last": 21565,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3407",
+    "StoryType": 5,
+    "TypeIndex": 3407,
+    "first": 21566,
+    "last": 21567,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3408",
+    "StoryType": 5,
+    "TypeIndex": 3408,
+    "first": 21568,
+    "last": 21572,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3409",
+    "StoryType": 5,
+    "TypeIndex": 3409,
+    "first": 21573,
+    "last": 21600,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3410",
+    "StoryType": 5,
+    "TypeIndex": 3410,
+    "first": 21601,
+    "last": 21601,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3411",
+    "StoryType": 5,
+    "TypeIndex": 3411,
+    "first": 21602,
+    "last": 21602,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3412",
+    "StoryType": 5,
+    "TypeIndex": 3412,
+    "first": 21603,
+    "last": 21605,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3500",
+    "StoryType": 5,
+    "TypeIndex": 3500,
+    "first": 21606,
+    "last": 21611,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3501",
+    "StoryType": 5,
+    "TypeIndex": 3501,
+    "first": 21612,
+    "last": 21612,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3502",
+    "StoryType": 5,
+    "TypeIndex": 3502,
+    "first": 21613,
+    "last": 21622,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3503",
+    "StoryType": 5,
+    "TypeIndex": 3503,
+    "first": 21623,
+    "last": 21629,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3504",
+    "StoryType": 5,
+    "TypeIndex": 3504,
+    "first": 21630,
+    "last": 21633,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3505",
+    "StoryType": 5,
+    "TypeIndex": 3505,
+    "first": 21634,
+    "last": 21638,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3506",
+    "StoryType": 5,
+    "TypeIndex": 3506,
+    "first": 21639,
+    "last": 21641,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3600",
+    "StoryType": 5,
+    "TypeIndex": 3600,
+    "first": 21642,
+    "last": 21646,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3601",
+    "StoryType": 5,
+    "TypeIndex": 3601,
+    "first": 21647,
+    "last": 21648,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3602",
+    "StoryType": 5,
+    "TypeIndex": 3602,
+    "first": 21649,
+    "last": 21651,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3603",
+    "StoryType": 5,
+    "TypeIndex": 3603,
+    "first": 21652,
+    "last": 21662,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3604",
+    "StoryType": 5,
+    "TypeIndex": 3604,
+    "first": 21663,
+    "last": 21669,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3605",
+    "StoryType": 5,
+    "TypeIndex": 3605,
+    "first": 21670,
+    "last": 21674,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3700",
+    "StoryType": 5,
+    "TypeIndex": 3700,
+    "first": 21675,
+    "last": 21681,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3701",
+    "StoryType": 5,
+    "TypeIndex": 3701,
+    "first": 21682,
+    "last": 21693,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3702",
+    "StoryType": 5,
+    "TypeIndex": 3702,
+    "first": 21694,
+    "last": 21698,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3703",
+    "StoryType": 5,
+    "TypeIndex": 3703,
+    "first": 21699,
+    "last": 21700,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3704",
+    "StoryType": 5,
+    "TypeIndex": 3704,
+    "first": 21701,
+    "last": 21705,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3705",
+    "StoryType": 5,
+    "TypeIndex": 3705,
+    "first": 21706,
+    "last": 21713,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3706",
+    "StoryType": 5,
+    "TypeIndex": 3706,
+    "first": 21714,
+    "last": 21725,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign3707",
+    "StoryType": 5,
+    "TypeIndex": 3707,
+    "first": 21726,
+    "last": 21727,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10000",
+    "StoryType": 5,
+    "TypeIndex": 10000,
+    "first": 30000,
+    "last": 30003,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10001",
+    "StoryType": 5,
+    "TypeIndex": 10001,
+    "first": 30004,
+    "last": 30005,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10002",
+    "StoryType": 5,
+    "TypeIndex": 10002,
+    "first": 30006,
+    "last": 30006,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10003",
+    "StoryType": 5,
+    "TypeIndex": 10003,
+    "first": 30007,
+    "last": 30007,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10004",
+    "StoryType": 5,
+    "TypeIndex": 10004,
+    "first": 30008,
+    "last": 30008,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10005",
+    "StoryType": 5,
+    "TypeIndex": 10005,
+    "first": 30009,
+    "last": 30012,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10006",
+    "StoryType": 5,
+    "TypeIndex": 10006,
+    "first": 30013,
+    "last": 30016,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10007",
+    "StoryType": 5,
+    "TypeIndex": 10007,
+    "first": 30017,
+    "last": 30017,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10008",
+    "StoryType": 5,
+    "TypeIndex": 10008,
+    "first": 30018,
+    "last": 30018,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10009",
+    "StoryType": 5,
+    "TypeIndex": 10009,
+    "first": 30019,
+    "last": 30019,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10010",
+    "StoryType": 5,
+    "TypeIndex": 10010,
+    "first": 30020,
+    "last": 30020,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10011",
+    "StoryType": 5,
+    "TypeIndex": 10011,
+    "first": 30021,
+    "last": 30022,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10012",
+    "StoryType": 5,
+    "TypeIndex": 10012,
+    "first": 30023,
+    "last": 30024,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10013",
+    "StoryType": 5,
+    "TypeIndex": 10013,
+    "first": 30025,
+    "last": 30027,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10014",
+    "StoryType": 5,
+    "TypeIndex": 10014,
+    "first": 30028,
+    "last": 30028,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10015",
+    "StoryType": 5,
+    "TypeIndex": 10015,
+    "first": 30029,
+    "last": 30029,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10016",
+    "StoryType": 5,
+    "TypeIndex": 10016,
+    "first": 30030,
+    "last": 30033,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10017",
+    "StoryType": 5,
+    "TypeIndex": 10017,
+    "first": 30034,
+    "last": 30036,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10018",
+    "StoryType": 5,
+    "TypeIndex": 10018,
+    "first": 30037,
+    "last": 30044,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10019",
+    "StoryType": 5,
+    "TypeIndex": 10019,
+    "first": 30045,
+    "last": 30045,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10100",
+    "StoryType": 5,
+    "TypeIndex": 10100,
+    "first": 30046,
+    "last": 30047,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10101",
+    "StoryType": 5,
+    "TypeIndex": 10101,
+    "first": 30048,
+    "last": 30048,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10102",
+    "StoryType": 5,
+    "TypeIndex": 10102,
+    "first": 30049,
+    "last": 30051,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10103",
+    "StoryType": 5,
+    "TypeIndex": 10103,
+    "first": 30052,
+    "last": 30052,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10104",
+    "StoryType": 5,
+    "TypeIndex": 10104,
+    "first": 30053,
+    "last": 30054,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10105",
+    "StoryType": 5,
+    "TypeIndex": 10105,
+    "first": 30055,
+    "last": 30055,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10106",
+    "StoryType": 5,
+    "TypeIndex": 10106,
+    "first": 30056,
+    "last": 30058,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10107",
+    "StoryType": 5,
+    "TypeIndex": 10107,
+    "first": 30059,
+    "last": 30059,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10108",
+    "StoryType": 5,
+    "TypeIndex": 10108,
+    "first": 30060,
+    "last": 30061,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10109",
+    "StoryType": 5,
+    "TypeIndex": 10109,
+    "first": 30062,
+    "last": 30063,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10110",
+    "StoryType": 5,
+    "TypeIndex": 10110,
+    "first": 30064,
+    "last": 30065,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10111",
+    "StoryType": 5,
+    "TypeIndex": 10111,
+    "first": 30066,
+    "last": 30066,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10112",
+    "StoryType": 5,
+    "TypeIndex": 10112,
+    "first": 30067,
+    "last": 30067,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10113",
+    "StoryType": 5,
+    "TypeIndex": 10113,
+    "first": 30068,
+    "last": 30068,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10114",
+    "StoryType": 5,
+    "TypeIndex": 10114,
+    "first": 30069,
+    "last": 30069,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10115",
+    "StoryType": 5,
+    "TypeIndex": 10115,
+    "first": 30070,
+    "last": 30070,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10116",
+    "StoryType": 5,
+    "TypeIndex": 10116,
+    "first": 30071,
+    "last": 30071,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10117",
+    "StoryType": 5,
+    "TypeIndex": 10117,
+    "first": 30072,
+    "last": 30073,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10118",
+    "StoryType": 5,
+    "TypeIndex": 10118,
+    "first": 30074,
+    "last": 30077,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10119",
+    "StoryType": 5,
+    "TypeIndex": 10119,
+    "first": 30078,
+    "last": 30078,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10120",
+    "StoryType": 5,
+    "TypeIndex": 10120,
+    "first": 30079,
+    "last": 30080,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10200",
+    "StoryType": 5,
+    "TypeIndex": 10200,
+    "first": 30081,
+    "last": 30083,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10201",
+    "StoryType": 5,
+    "TypeIndex": 10201,
+    "first": 30084,
+    "last": 30084,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10202",
+    "StoryType": 5,
+    "TypeIndex": 10202,
+    "first": 30085,
+    "last": 30085,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10203",
+    "StoryType": 5,
+    "TypeIndex": 10203,
+    "first": 30086,
+    "last": 30087,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10204",
+    "StoryType": 5,
+    "TypeIndex": 10204,
+    "first": 30088,
+    "last": 30088,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10205",
+    "StoryType": 5,
+    "TypeIndex": 10205,
+    "first": 30089,
+    "last": 30089,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10206",
+    "StoryType": 5,
+    "TypeIndex": 10206,
+    "first": 30090,
+    "last": 30090,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10207",
+    "StoryType": 5,
+    "TypeIndex": 10207,
+    "first": 30091,
+    "last": 30093,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10208",
+    "StoryType": 5,
+    "TypeIndex": 10208,
+    "first": 30094,
+    "last": 30094,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10209",
+    "StoryType": 5,
+    "TypeIndex": 10209,
+    "first": 30095,
+    "last": 30096,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10210",
+    "StoryType": 5,
+    "TypeIndex": 10210,
+    "first": 30097,
+    "last": 30097,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10211",
+    "StoryType": 5,
+    "TypeIndex": 10211,
+    "first": 30098,
+    "last": 30101,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10212",
+    "StoryType": 5,
+    "TypeIndex": 10212,
+    "first": 30102,
+    "last": 30103,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10213",
+    "StoryType": 5,
+    "TypeIndex": 10213,
+    "first": 30104,
+    "last": 30104,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10214",
+    "StoryType": 5,
+    "TypeIndex": 10214,
+    "first": 30105,
+    "last": 30105,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10215",
+    "StoryType": 5,
+    "TypeIndex": 10215,
+    "first": 30106,
+    "last": 30106,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10216",
+    "StoryType": 5,
+    "TypeIndex": 10216,
+    "first": 30107,
+    "last": 30109,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10217",
+    "StoryType": 5,
+    "TypeIndex": 10217,
+    "first": 30110,
+    "last": 30112,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10218",
+    "StoryType": 5,
+    "TypeIndex": 10218,
+    "first": 30113,
+    "last": 30113,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10219",
+    "StoryType": 5,
+    "TypeIndex": 10219,
+    "first": 30114,
+    "last": 30114,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10220",
+    "StoryType": 5,
+    "TypeIndex": 10220,
+    "first": 30115,
+    "last": 30117,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10221",
+    "StoryType": 5,
+    "TypeIndex": 10221,
+    "first": 30118,
+    "last": 30121,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10222",
+    "StoryType": 5,
+    "TypeIndex": 10222,
+    "first": 30122,
+    "last": 30122,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10223",
+    "StoryType": 5,
+    "TypeIndex": 10223,
+    "first": 30123,
+    "last": 30126,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10224",
+    "StoryType": 5,
+    "TypeIndex": 10224,
+    "first": 30127,
+    "last": 30127,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10225",
+    "StoryType": 5,
+    "TypeIndex": 10225,
+    "first": 30128,
+    "last": 30128,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10226",
+    "StoryType": 5,
+    "TypeIndex": 10226,
+    "first": 30129,
+    "last": 30131,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10227",
+    "StoryType": 5,
+    "TypeIndex": 10227,
+    "first": 30132,
+    "last": 30132,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10228",
+    "StoryType": 5,
+    "TypeIndex": 10228,
+    "first": 30133,
+    "last": 30135,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10229",
+    "StoryType": 5,
+    "TypeIndex": 10229,
+    "first": 30136,
+    "last": 30139,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10230",
+    "StoryType": 5,
+    "TypeIndex": 10230,
+    "first": 30140,
+    "last": 30141,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10231",
+    "StoryType": 5,
+    "TypeIndex": 10231,
+    "first": 30142,
+    "last": 30142,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10300",
+    "StoryType": 5,
+    "TypeIndex": 10300,
+    "first": 30143,
+    "last": 30144,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10301",
+    "StoryType": 5,
+    "TypeIndex": 10301,
+    "first": 30145,
+    "last": 30146,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10302",
+    "StoryType": 5,
+    "TypeIndex": 10302,
+    "first": 30147,
+    "last": 30147,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10303",
+    "StoryType": 5,
+    "TypeIndex": 10303,
+    "first": 30148,
+    "last": 30148,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10304",
+    "StoryType": 5,
+    "TypeIndex": 10304,
+    "first": 30149,
+    "last": 30151,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10305",
+    "StoryType": 5,
+    "TypeIndex": 10305,
+    "first": 30152,
+    "last": 30152,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10306",
+    "StoryType": 5,
+    "TypeIndex": 10306,
+    "first": 30153,
+    "last": 30153,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10307",
+    "StoryType": 5,
+    "TypeIndex": 10307,
+    "first": 30154,
+    "last": 30155,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10308",
+    "StoryType": 5,
+    "TypeIndex": 10308,
+    "first": 30156,
+    "last": 30156,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10309",
+    "StoryType": 5,
+    "TypeIndex": 10309,
+    "first": 30157,
+    "last": 30157,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10310",
+    "StoryType": 5,
+    "TypeIndex": 10310,
+    "first": 30158,
+    "last": 30158,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10311",
+    "StoryType": 5,
+    "TypeIndex": 10311,
+    "first": 30159,
+    "last": 30159,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10312",
+    "StoryType": 5,
+    "TypeIndex": 10312,
+    "first": 30160,
+    "last": 30163,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10313",
+    "StoryType": 5,
+    "TypeIndex": 10313,
+    "first": 30164,
+    "last": 30165,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10314",
+    "StoryType": 5,
+    "TypeIndex": 10314,
+    "first": 30166,
+    "last": 30166,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10315",
+    "StoryType": 5,
+    "TypeIndex": 10315,
+    "first": 30167,
+    "last": 30167,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10316",
+    "StoryType": 5,
+    "TypeIndex": 10316,
+    "first": 30168,
+    "last": 30170,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10317",
+    "StoryType": 5,
+    "TypeIndex": 10317,
+    "first": 30171,
+    "last": 30173,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10318",
+    "StoryType": 5,
+    "TypeIndex": 10318,
+    "first": 30174,
+    "last": 30174,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10400",
+    "StoryType": 5,
+    "TypeIndex": 10400,
+    "first": 30175,
+    "last": 30176,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10401",
+    "StoryType": 5,
+    "TypeIndex": 10401,
+    "first": 30177,
+    "last": 30183,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10402",
+    "StoryType": 5,
+    "TypeIndex": 10402,
+    "first": 30184,
+    "last": 30184,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10403",
+    "StoryType": 5,
+    "TypeIndex": 10403,
+    "first": 30185,
+    "last": 30187,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10404",
+    "StoryType": 5,
+    "TypeIndex": 10404,
+    "first": 30188,
+    "last": 30188,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10405",
+    "StoryType": 5,
+    "TypeIndex": 10405,
+    "first": 30189,
+    "last": 30190,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10406",
+    "StoryType": 5,
+    "TypeIndex": 10406,
+    "first": 30191,
+    "last": 30191,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10407",
+    "StoryType": 5,
+    "TypeIndex": 10407,
+    "first": 30192,
+    "last": 30196,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10408",
+    "StoryType": 5,
+    "TypeIndex": 10408,
+    "first": 30197,
+    "last": 30202,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10409",
+    "StoryType": 5,
+    "TypeIndex": 10409,
+    "first": 30203,
+    "last": 30207,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10410",
+    "StoryType": 5,
+    "TypeIndex": 10410,
+    "first": 30208,
+    "last": 30210,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10411",
+    "StoryType": 5,
+    "TypeIndex": 10411,
+    "first": 30211,
+    "last": 30212,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10412",
+    "StoryType": 5,
+    "TypeIndex": 10412,
+    "first": 30213,
+    "last": 30213,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10413",
+    "StoryType": 5,
+    "TypeIndex": 10413,
+    "first": 30214,
+    "last": 30215,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10414",
+    "StoryType": 5,
+    "TypeIndex": 10414,
+    "first": 30216,
+    "last": 30216,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10415",
+    "StoryType": 5,
+    "TypeIndex": 10415,
+    "first": 30217,
+    "last": 30217,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10416",
+    "StoryType": 5,
+    "TypeIndex": 10416,
+    "first": 30218,
+    "last": 30218,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10417",
+    "StoryType": 5,
+    "TypeIndex": 10417,
+    "first": 30219,
+    "last": 30219,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10418",
+    "StoryType": 5,
+    "TypeIndex": 10418,
+    "first": 30220,
+    "last": 30220,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10419",
+    "StoryType": 5,
+    "TypeIndex": 10419,
+    "first": 30221,
+    "last": 30221,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10420",
+    "StoryType": 5,
+    "TypeIndex": 10420,
+    "first": 30222,
+    "last": 30222,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10421",
+    "StoryType": 5,
+    "TypeIndex": 10421,
+    "first": 30223,
+    "last": 30224,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10422",
+    "StoryType": 5,
+    "TypeIndex": 10422,
+    "first": 30225,
+    "last": 30225,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10423",
+    "StoryType": 5,
+    "TypeIndex": 10423,
+    "first": 30226,
+    "last": 30226,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10500",
+    "StoryType": 5,
+    "TypeIndex": 10500,
+    "first": 30227,
+    "last": 30227,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10501",
+    "StoryType": 5,
+    "TypeIndex": 10501,
+    "first": 30228,
+    "last": 30228,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10502",
+    "StoryType": 5,
+    "TypeIndex": 10502,
+    "first": 30229,
+    "last": 30229,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10503",
+    "StoryType": 5,
+    "TypeIndex": 10503,
+    "first": 30230,
+    "last": 30230,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10504",
+    "StoryType": 5,
+    "TypeIndex": 10504,
+    "first": 30231,
+    "last": 30231,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10505",
+    "StoryType": 5,
+    "TypeIndex": 10505,
+    "first": 30232,
+    "last": 30232,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10506",
+    "StoryType": 5,
+    "TypeIndex": 10506,
+    "first": 30233,
+    "last": 30235,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10507",
+    "StoryType": 5,
+    "TypeIndex": 10507,
+    "first": 30236,
+    "last": 30236,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10508",
+    "StoryType": 5,
+    "TypeIndex": 10508,
+    "first": 30237,
+    "last": 30237,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10509",
+    "StoryType": 5,
+    "TypeIndex": 10509,
+    "first": 30238,
+    "last": 30239,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10510",
+    "StoryType": 5,
+    "TypeIndex": 10510,
+    "first": 30240,
+    "last": 30240,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10511",
+    "StoryType": 5,
+    "TypeIndex": 10511,
+    "first": 30241,
+    "last": 30241,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10512",
+    "StoryType": 5,
+    "TypeIndex": 10512,
+    "first": 30242,
+    "last": 30242,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10513",
+    "StoryType": 5,
+    "TypeIndex": 10513,
+    "first": 30243,
+    "last": 30243,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10514",
+    "StoryType": 5,
+    "TypeIndex": 10514,
+    "first": 30244,
+    "last": 30244,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10515",
+    "StoryType": 5,
+    "TypeIndex": 10515,
+    "first": 30245,
+    "last": 30246,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10516",
+    "StoryType": 5,
+    "TypeIndex": 10516,
+    "first": 30247,
+    "last": 30247,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10517",
+    "StoryType": 5,
+    "TypeIndex": 10517,
+    "first": 30248,
+    "last": 30252,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10518",
+    "StoryType": 5,
+    "TypeIndex": 10518,
+    "first": 30253,
+    "last": 30253,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10519",
+    "StoryType": 5,
+    "TypeIndex": 10519,
+    "first": 30254,
+    "last": 30254,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10520",
+    "StoryType": 5,
+    "TypeIndex": 10520,
+    "first": 30255,
+    "last": 30256,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10521",
+    "StoryType": 5,
+    "TypeIndex": 10521,
+    "first": 30257,
+    "last": 30257,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10522",
+    "StoryType": 5,
+    "TypeIndex": 10522,
+    "first": 30258,
+    "last": 30259,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10523",
+    "StoryType": 5,
+    "TypeIndex": 10523,
+    "first": 30260,
+    "last": 30263,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10524",
+    "StoryType": 5,
+    "TypeIndex": 10524,
+    "first": 30264,
+    "last": 30264,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10525",
+    "StoryType": 5,
+    "TypeIndex": 10525,
+    "first": 30265,
+    "last": 30268,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10526",
+    "StoryType": 5,
+    "TypeIndex": 10526,
+    "first": 30269,
+    "last": 30269,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10527",
+    "StoryType": 5,
+    "TypeIndex": 10527,
+    "first": 30270,
+    "last": 30270,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10528",
+    "StoryType": 5,
+    "TypeIndex": 10528,
+    "first": 30271,
+    "last": 30271,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10529",
+    "StoryType": 5,
+    "TypeIndex": 10529,
+    "first": 30272,
+    "last": 30274,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10530",
+    "StoryType": 5,
+    "TypeIndex": 10530,
+    "first": 30275,
+    "last": 30276,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10531",
+    "StoryType": 5,
+    "TypeIndex": 10531,
+    "first": 30277,
+    "last": 30281,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10532",
+    "StoryType": 5,
+    "TypeIndex": 10532,
+    "first": 30282,
+    "last": 30282,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10533",
+    "StoryType": 5,
+    "TypeIndex": 10533,
+    "first": 30283,
+    "last": 30283,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10600",
+    "StoryType": 5,
+    "TypeIndex": 10600,
+    "first": 30284,
+    "last": 30284,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10601",
+    "StoryType": 5,
+    "TypeIndex": 10601,
+    "first": 30285,
+    "last": 30287,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10602",
+    "StoryType": 5,
+    "TypeIndex": 10602,
+    "first": 30288,
+    "last": 30288,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10603",
+    "StoryType": 5,
+    "TypeIndex": 10603,
+    "first": 30289,
+    "last": 30290,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10604",
+    "StoryType": 5,
+    "TypeIndex": 10604,
+    "first": 30291,
+    "last": 30294,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10605",
+    "StoryType": 5,
+    "TypeIndex": 10605,
+    "first": 30295,
+    "last": 30295,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10606",
+    "StoryType": 5,
+    "TypeIndex": 10606,
+    "first": 30296,
+    "last": 30297,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10607",
+    "StoryType": 5,
+    "TypeIndex": 10607,
+    "first": 30298,
+    "last": 30304,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10608",
+    "StoryType": 5,
+    "TypeIndex": 10608,
+    "first": 30305,
+    "last": 30305,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10609",
+    "StoryType": 5,
+    "TypeIndex": 10609,
+    "first": 30306,
+    "last": 30306,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10610",
+    "StoryType": 5,
+    "TypeIndex": 10610,
+    "first": 30307,
+    "last": 30307,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10611",
+    "StoryType": 5,
+    "TypeIndex": 10611,
+    "first": 30308,
+    "last": 30309,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10612",
+    "StoryType": 5,
+    "TypeIndex": 10612,
+    "first": 30310,
+    "last": 30310,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign10613",
+    "StoryType": 5,
+    "TypeIndex": 10613,
+    "first": 30311,
+    "last": 30311,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20000",
+    "StoryType": 5,
+    "TypeIndex": 20000,
+    "first": 30312,
+    "last": 30314,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20001",
+    "StoryType": 5,
+    "TypeIndex": 20001,
+    "first": 30315,
+    "last": 30315,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20002",
+    "StoryType": 5,
+    "TypeIndex": 20002,
+    "first": 30316,
+    "last": 30316,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20003",
+    "StoryType": 5,
+    "TypeIndex": 20003,
+    "first": 30317,
+    "last": 30318,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20004",
+    "StoryType": 5,
+    "TypeIndex": 20004,
+    "first": 30319,
+    "last": 30319,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20005",
+    "StoryType": 5,
+    "TypeIndex": 20005,
+    "first": 30320,
+    "last": 30320,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20006",
+    "StoryType": 5,
+    "TypeIndex": 20006,
+    "first": 30321,
+    "last": 30322,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20007",
+    "StoryType": 5,
+    "TypeIndex": 20007,
+    "first": 30323,
+    "last": 30323,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20008",
+    "StoryType": 5,
+    "TypeIndex": 20008,
+    "first": 30324,
+    "last": 30327,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20009",
+    "StoryType": 5,
+    "TypeIndex": 20009,
+    "first": 30328,
+    "last": 30328,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20010",
+    "StoryType": 5,
+    "TypeIndex": 20010,
+    "first": 30329,
+    "last": 30330,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20011",
+    "StoryType": 5,
+    "TypeIndex": 20011,
+    "first": 30331,
+    "last": 30333,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20012",
+    "StoryType": 5,
+    "TypeIndex": 20012,
+    "first": 30334,
+    "last": 30336,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20013",
+    "StoryType": 5,
+    "TypeIndex": 20013,
+    "first": 30337,
+    "last": 30337,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20014",
+    "StoryType": 5,
+    "TypeIndex": 20014,
+    "first": 30338,
+    "last": 30338,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20015",
+    "StoryType": 5,
+    "TypeIndex": 20015,
+    "first": 30339,
+    "last": 30343,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20016",
+    "StoryType": 5,
+    "TypeIndex": 20016,
+    "first": 30344,
+    "last": 30344,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20017",
+    "StoryType": 5,
+    "TypeIndex": 20017,
+    "first": 30345,
+    "last": 30347,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20018",
+    "StoryType": 5,
+    "TypeIndex": 20018,
+    "first": 30348,
+    "last": 30349,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20019",
+    "StoryType": 5,
+    "TypeIndex": 20019,
+    "first": 30350,
+    "last": 30351,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20100",
+    "StoryType": 5,
+    "TypeIndex": 20100,
+    "first": 30352,
+    "last": 30352,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20101",
+    "StoryType": 5,
+    "TypeIndex": 20101,
+    "first": 30353,
+    "last": 30357,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20102",
+    "StoryType": 5,
+    "TypeIndex": 20102,
+    "first": 30358,
+    "last": 30359,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20103",
+    "StoryType": 5,
+    "TypeIndex": 20103,
+    "first": 30360,
+    "last": 30364,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20104",
+    "StoryType": 5,
+    "TypeIndex": 20104,
+    "first": 30365,
+    "last": 30371,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20105",
+    "StoryType": 5,
+    "TypeIndex": 20105,
+    "first": 30372,
+    "last": 30372,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20106",
+    "StoryType": 5,
+    "TypeIndex": 20106,
+    "first": 30373,
+    "last": 30373,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20107",
+    "StoryType": 5,
+    "TypeIndex": 20107,
+    "first": 30374,
+    "last": 30376,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20108",
+    "StoryType": 5,
+    "TypeIndex": 20108,
+    "first": 30377,
+    "last": 30377,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20109",
+    "StoryType": 5,
+    "TypeIndex": 20109,
+    "first": 30378,
+    "last": 30381,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20110",
+    "StoryType": 5,
+    "TypeIndex": 20110,
+    "first": 30382,
+    "last": 30384,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20111",
+    "StoryType": 5,
+    "TypeIndex": 20111,
+    "first": 30385,
+    "last": 30389,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20112",
+    "StoryType": 5,
+    "TypeIndex": 20112,
+    "first": 30390,
+    "last": 30394,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20113",
+    "StoryType": 5,
+    "TypeIndex": 20113,
+    "first": 30395,
+    "last": 30400,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20114",
+    "StoryType": 5,
+    "TypeIndex": 20114,
+    "first": 30401,
+    "last": 30402,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20200",
+    "StoryType": 5,
+    "TypeIndex": 20200,
+    "first": 30403,
+    "last": 30403,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20201",
+    "StoryType": 5,
+    "TypeIndex": 20201,
+    "first": 30404,
+    "last": 30407,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20202",
+    "StoryType": 5,
+    "TypeIndex": 20202,
+    "first": 30408,
+    "last": 30408,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20203",
+    "StoryType": 5,
+    "TypeIndex": 20203,
+    "first": 30409,
+    "last": 30413,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20204",
+    "StoryType": 5,
+    "TypeIndex": 20204,
+    "first": 30414,
+    "last": 30415,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20205",
+    "StoryType": 5,
+    "TypeIndex": 20205,
+    "first": 30416,
+    "last": 30419,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20206",
+    "StoryType": 5,
+    "TypeIndex": 20206,
+    "first": 30420,
+    "last": 30423,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20207",
+    "StoryType": 5,
+    "TypeIndex": 20207,
+    "first": 30424,
+    "last": 30426,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20208",
+    "StoryType": 5,
+    "TypeIndex": 20208,
+    "first": 30427,
+    "last": 30427,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20209",
+    "StoryType": 5,
+    "TypeIndex": 20209,
+    "first": 30428,
+    "last": 30428,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20210",
+    "StoryType": 5,
+    "TypeIndex": 20210,
+    "first": 30429,
+    "last": 30429,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20211",
+    "StoryType": 5,
+    "TypeIndex": 20211,
+    "first": 30430,
+    "last": 30430,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20212",
+    "StoryType": 5,
+    "TypeIndex": 20212,
+    "first": 30431,
+    "last": 30431,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20213",
+    "StoryType": 5,
+    "TypeIndex": 20213,
+    "first": 30432,
+    "last": 30432,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20214",
+    "StoryType": 5,
+    "TypeIndex": 20214,
+    "first": 30433,
+    "last": 30435,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20215",
+    "StoryType": 5,
+    "TypeIndex": 20215,
+    "first": 30436,
+    "last": 30437,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20216",
+    "StoryType": 5,
+    "TypeIndex": 20216,
+    "first": 30438,
+    "last": 30439,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20217",
+    "StoryType": 5,
+    "TypeIndex": 20217,
+    "first": 30440,
+    "last": 30445,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20218",
+    "StoryType": 5,
+    "TypeIndex": 20218,
+    "first": 30446,
+    "last": 30447,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20219",
+    "StoryType": 5,
+    "TypeIndex": 20219,
+    "first": 30448,
+    "last": 30452,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20220",
+    "StoryType": 5,
+    "TypeIndex": 20220,
+    "first": 30453,
+    "last": 30455,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20221",
+    "StoryType": 5,
+    "TypeIndex": 20221,
+    "first": 30456,
+    "last": 30456,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20222",
+    "StoryType": 5,
+    "TypeIndex": 20222,
+    "first": 30457,
+    "last": 30458,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20223",
+    "StoryType": 5,
+    "TypeIndex": 20223,
+    "first": 30459,
+    "last": 30459,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20300",
+    "StoryType": 5,
+    "TypeIndex": 20300,
+    "first": 30460,
+    "last": 30461,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20301",
+    "StoryType": 5,
+    "TypeIndex": 20301,
+    "first": 30462,
+    "last": 30462,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20302",
+    "StoryType": 5,
+    "TypeIndex": 20302,
+    "first": 30463,
+    "last": 30464,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20303",
+    "StoryType": 5,
+    "TypeIndex": 20303,
+    "first": 30465,
+    "last": 30465,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20304",
+    "StoryType": 5,
+    "TypeIndex": 20304,
+    "first": 30466,
+    "last": 30467,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20305",
+    "StoryType": 5,
+    "TypeIndex": 20305,
+    "first": 30468,
+    "last": 30471,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20306",
+    "StoryType": 5,
+    "TypeIndex": 20306,
+    "first": 30472,
+    "last": 30474,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20307",
+    "StoryType": 5,
+    "TypeIndex": 20307,
+    "first": 30475,
+    "last": 30475,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20308",
+    "StoryType": 5,
+    "TypeIndex": 20308,
+    "first": 30476,
+    "last": 30476,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20309",
+    "StoryType": 5,
+    "TypeIndex": 20309,
+    "first": 30477,
+    "last": 30477,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20310",
+    "StoryType": 5,
+    "TypeIndex": 20310,
+    "first": 30478,
+    "last": 30479,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20311",
+    "StoryType": 5,
+    "TypeIndex": 20311,
+    "first": 30480,
+    "last": 30481,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20312",
+    "StoryType": 5,
+    "TypeIndex": 20312,
+    "first": 30482,
+    "last": 30493,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20313",
+    "StoryType": 5,
+    "TypeIndex": 20313,
+    "first": 30494,
+    "last": 30498,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20314",
+    "StoryType": 5,
+    "TypeIndex": 20314,
+    "first": 30499,
+    "last": 30507,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20315",
+    "StoryType": 5,
+    "TypeIndex": 20315,
+    "first": 30508,
+    "last": 30511,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20316",
+    "StoryType": 5,
+    "TypeIndex": 20316,
+    "first": 30512,
+    "last": 30514,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20317",
+    "StoryType": 5,
+    "TypeIndex": 20317,
+    "first": 30515,
+    "last": 30517,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20318",
+    "StoryType": 5,
+    "TypeIndex": 20318,
+    "first": 30518,
+    "last": 30521,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20319",
+    "StoryType": 5,
+    "TypeIndex": 20319,
+    "first": 30522,
+    "last": 30524,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20320",
+    "StoryType": 5,
+    "TypeIndex": 20320,
+    "first": 30525,
+    "last": 30526,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20321",
+    "StoryType": 5,
+    "TypeIndex": 20321,
+    "first": 30527,
+    "last": 30527,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20322",
+    "StoryType": 5,
+    "TypeIndex": 20322,
+    "first": 30528,
+    "last": 30530,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20323",
+    "StoryType": 5,
+    "TypeIndex": 20323,
+    "first": 30531,
+    "last": 30536,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20324",
+    "StoryType": 5,
+    "TypeIndex": 20324,
+    "first": 30537,
+    "last": 30537,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20325",
+    "StoryType": 5,
+    "TypeIndex": 20325,
+    "first": 30538,
+    "last": 30539,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20400",
+    "StoryType": 5,
+    "TypeIndex": 20400,
+    "first": 30540,
+    "last": 30540,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20401",
+    "StoryType": 5,
+    "TypeIndex": 20401,
+    "first": 30541,
+    "last": 30546,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20402",
+    "StoryType": 5,
+    "TypeIndex": 20402,
+    "first": 30547,
+    "last": 30552,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20403",
+    "StoryType": 5,
+    "TypeIndex": 20403,
+    "first": 30553,
+    "last": 30556,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20404",
+    "StoryType": 5,
+    "TypeIndex": 20404,
+    "first": 30557,
+    "last": 30557,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20405",
+    "StoryType": 5,
+    "TypeIndex": 20405,
+    "first": 30558,
+    "last": 30565,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20406",
+    "StoryType": 5,
+    "TypeIndex": 20406,
+    "first": 30566,
+    "last": 30573,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20407",
+    "StoryType": 5,
+    "TypeIndex": 20407,
+    "first": 30574,
+    "last": 30574,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20408",
+    "StoryType": 5,
+    "TypeIndex": 20408,
+    "first": 30575,
+    "last": 30575,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20409",
+    "StoryType": 5,
+    "TypeIndex": 20409,
+    "first": 30576,
+    "last": 30577,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20410",
+    "StoryType": 5,
+    "TypeIndex": 20410,
+    "first": 30578,
+    "last": 30578,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20411",
+    "StoryType": 5,
+    "TypeIndex": 20411,
+    "first": 30579,
+    "last": 30579,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20412",
+    "StoryType": 5,
+    "TypeIndex": 20412,
+    "first": 30580,
+    "last": 30581,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20413",
+    "StoryType": 5,
+    "TypeIndex": 20413,
+    "first": 30582,
+    "last": 30583,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20414",
+    "StoryType": 5,
+    "TypeIndex": 20414,
+    "first": 30584,
+    "last": 30585,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20415",
+    "StoryType": 5,
+    "TypeIndex": 20415,
+    "first": 30586,
+    "last": 30588,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20416",
+    "StoryType": 5,
+    "TypeIndex": 20416,
+    "first": 30589,
+    "last": 30589,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20417",
+    "StoryType": 5,
+    "TypeIndex": 20417,
+    "first": 30590,
+    "last": 30590,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20418",
+    "StoryType": 5,
+    "TypeIndex": 20418,
+    "first": 30591,
+    "last": 30597,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20419",
+    "StoryType": 5,
+    "TypeIndex": 20419,
+    "first": 30598,
+    "last": 30599,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20420",
+    "StoryType": 5,
+    "TypeIndex": 20420,
+    "first": 30600,
+    "last": 30601,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20421",
+    "StoryType": 5,
+    "TypeIndex": 20421,
+    "first": 30602,
+    "last": 30602,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20422",
+    "StoryType": 5,
+    "TypeIndex": 20422,
+    "first": 30603,
+    "last": 30603,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20423",
+    "StoryType": 5,
+    "TypeIndex": 20423,
+    "first": 30604,
+    "last": 30604,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20500",
+    "StoryType": 5,
+    "TypeIndex": 20500,
+    "first": 30605,
+    "last": 30605,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20501",
+    "StoryType": 5,
+    "TypeIndex": 20501,
+    "first": 30606,
+    "last": 30607,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20502",
+    "StoryType": 5,
+    "TypeIndex": 20502,
+    "first": 30608,
+    "last": 30608,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20503",
+    "StoryType": 5,
+    "TypeIndex": 20503,
+    "first": 30609,
+    "last": 30609,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20504",
+    "StoryType": 5,
+    "TypeIndex": 20504,
+    "first": 30610,
+    "last": 30614,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20505",
+    "StoryType": 5,
+    "TypeIndex": 20505,
+    "first": 30615,
+    "last": 30615,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20506",
+    "StoryType": 5,
+    "TypeIndex": 20506,
+    "first": 30616,
+    "last": 30618,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20507",
+    "StoryType": 5,
+    "TypeIndex": 20507,
+    "first": 30619,
+    "last": 30621,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20508",
+    "StoryType": 5,
+    "TypeIndex": 20508,
+    "first": 30622,
+    "last": 30624,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20509",
+    "StoryType": 5,
+    "TypeIndex": 20509,
+    "first": 30625,
+    "last": 30626,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20510",
+    "StoryType": 5,
+    "TypeIndex": 20510,
+    "first": 30627,
+    "last": 30627,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20511",
+    "StoryType": 5,
+    "TypeIndex": 20511,
+    "first": 30628,
+    "last": 30628,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20512",
+    "StoryType": 5,
+    "TypeIndex": 20512,
+    "first": 30629,
+    "last": 30629,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20513",
+    "StoryType": 5,
+    "TypeIndex": 20513,
+    "first": 30630,
+    "last": 30630,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20514",
+    "StoryType": 5,
+    "TypeIndex": 20514,
+    "first": 30631,
+    "last": 30631,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20515",
+    "StoryType": 5,
+    "TypeIndex": 20515,
+    "first": 30632,
+    "last": 30632,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20516",
+    "StoryType": 5,
+    "TypeIndex": 20516,
+    "first": 30633,
+    "last": 30638,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20517",
+    "StoryType": 5,
+    "TypeIndex": 20517,
+    "first": 30639,
+    "last": 30639,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20518",
+    "StoryType": 5,
+    "TypeIndex": 20518,
+    "first": 30640,
+    "last": 30640,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20519",
+    "StoryType": 5,
+    "TypeIndex": 20519,
+    "first": 30641,
+    "last": 30644,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20520",
+    "StoryType": 5,
+    "TypeIndex": 20520,
+    "first": 30645,
+    "last": 30646,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20521",
+    "StoryType": 5,
+    "TypeIndex": 20521,
+    "first": 30647,
+    "last": 30649,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20522",
+    "StoryType": 5,
+    "TypeIndex": 20522,
+    "first": 30650,
+    "last": 30651,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20523",
+    "StoryType": 5,
+    "TypeIndex": 20523,
+    "first": 30652,
+    "last": 30656,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20524",
+    "StoryType": 5,
+    "TypeIndex": 20524,
+    "first": 30657,
+    "last": 30663,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20525",
+    "StoryType": 5,
+    "TypeIndex": 20525,
+    "first": 30664,
+    "last": 30664,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20526",
+    "StoryType": 5,
+    "TypeIndex": 20526,
+    "first": 30665,
+    "last": 30665,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20527",
+    "StoryType": 5,
+    "TypeIndex": 20527,
+    "first": 30666,
+    "last": 30676,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20528",
+    "StoryType": 5,
+    "TypeIndex": 20528,
+    "first": 30677,
+    "last": 30680,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20529",
+    "StoryType": 5,
+    "TypeIndex": 20529,
+    "first": 30681,
+    "last": 30681,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20600",
+    "StoryType": 5,
+    "TypeIndex": 20600,
+    "first": 30682,
+    "last": 30682,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20601",
+    "StoryType": 5,
+    "TypeIndex": 20601,
+    "first": 30683,
+    "last": 30684,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20602",
+    "StoryType": 5,
+    "TypeIndex": 20602,
+    "first": 30685,
+    "last": 30685,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20603",
+    "StoryType": 5,
+    "TypeIndex": 20603,
+    "first": 30686,
+    "last": 30686,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20604",
+    "StoryType": 5,
+    "TypeIndex": 20604,
+    "first": 30687,
+    "last": 30689,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20605",
+    "StoryType": 5,
+    "TypeIndex": 20605,
+    "first": 30690,
+    "last": 30694,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20606",
+    "StoryType": 5,
+    "TypeIndex": 20606,
+    "first": 30695,
+    "last": 30699,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20607",
+    "StoryType": 5,
+    "TypeIndex": 20607,
+    "first": 30700,
+    "last": 30700,
+    "Select": false,
+    "LeftSelect": "s",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20608",
+    "StoryType": 5,
+    "TypeIndex": 20608,
+    "first": 30701,
+    "last": 30709,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20609",
+    "StoryType": 5,
+    "TypeIndex": 20609,
+    "first": 30710,
+    "last": 30711,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20610",
+    "StoryType": 5,
+    "TypeIndex": 20610,
+    "first": 30712,
+    "last": 30717,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20611",
+    "StoryType": 5,
+    "TypeIndex": 20611,
+    "first": 30718,
+    "last": 30718,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20612",
+    "StoryType": 5,
+    "TypeIndex": 20612,
+    "first": 30719,
+    "last": 30719,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20613",
+    "StoryType": 5,
+    "TypeIndex": 20613,
+    "first": 30720,
+    "last": 30724,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20614",
+    "StoryType": 5,
+    "TypeIndex": 20614,
+    "first": 30725,
+    "last": 30730,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20615",
+    "StoryType": 5,
+    "TypeIndex": 20615,
+    "first": 30731,
+    "last": 30731,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20616",
+    "StoryType": 5,
+    "TypeIndex": 20616,
+    "first": 30732,
+    "last": 30733,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20617",
+    "StoryType": 5,
+    "TypeIndex": 20617,
+    "first": 30734,
+    "last": 30735,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20618",
+    "StoryType": 5,
+    "TypeIndex": 20618,
+    "first": 30736,
+    "last": 30737,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign20619",
+    "StoryType": 5,
+    "TypeIndex": 20619,
+    "first": 30738,
+    "last": 30740,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50000",
+    "StoryType": 5,
+    "TypeIndex": 50000,
+    "first": 50000,
+    "last": 50000,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50001",
+    "StoryType": 5,
+    "TypeIndex": 50001,
+    "first": 50001,
+    "last": 50001,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50002",
+    "StoryType": 5,
+    "TypeIndex": 50002,
+    "first": 50002,
+    "last": 50002,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50003",
+    "StoryType": 5,
+    "TypeIndex": 50003,
+    "first": 50003,
+    "last": 50004,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50004",
+    "StoryType": 5,
+    "TypeIndex": 50004,
+    "first": 50005,
+    "last": 50008,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50005",
+    "StoryType": 5,
+    "TypeIndex": 50005,
+    "first": 50009,
+    "last": 50010,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50006",
+    "StoryType": 5,
+    "TypeIndex": 50006,
+    "first": 50011,
+    "last": 50011,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50007",
+    "StoryType": 5,
+    "TypeIndex": 50007,
+    "first": 50012,
+    "last": 50012,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50008",
+    "StoryType": 5,
+    "TypeIndex": 50008,
+    "first": 50013,
+    "last": 50016,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50009",
+    "StoryType": 5,
+    "TypeIndex": 50009,
+    "first": 50017,
+    "last": 50017,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50010",
+    "StoryType": 5,
+    "TypeIndex": 50010,
+    "first": 50018,
+    "last": 50022,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50011",
+    "StoryType": 5,
+    "TypeIndex": 50011,
+    "first": 50023,
+    "last": 50024,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50012",
+    "StoryType": 5,
+    "TypeIndex": 50012,
+    "first": 50025,
+    "last": 50025,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50013",
+    "StoryType": 5,
+    "TypeIndex": 50013,
+    "first": 50026,
+    "last": 50026,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50014",
+    "StoryType": 5,
+    "TypeIndex": 50014,
+    "first": 50027,
+    "last": 50029,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50015",
+    "StoryType": 5,
+    "TypeIndex": 50015,
+    "first": 50030,
+    "last": 50031,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50016",
+    "StoryType": 5,
+    "TypeIndex": 50016,
+    "first": 50032,
+    "last": 50034,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50017",
+    "StoryType": 5,
+    "TypeIndex": 50017,
+    "first": 50035,
+    "last": 50038,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50018",
+    "StoryType": 5,
+    "TypeIndex": 50018,
+    "first": 50039,
+    "last": 50039,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50019",
+    "StoryType": 5,
+    "TypeIndex": 50019,
+    "first": 50040,
+    "last": 50043,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50020",
+    "StoryType": 5,
+    "TypeIndex": 50020,
+    "first": 50044,
+    "last": 50044,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50021",
+    "StoryType": 5,
+    "TypeIndex": 50021,
+    "first": 50045,
+    "last": 50047,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50022",
+    "StoryType": 5,
+    "TypeIndex": 50022,
+    "first": 50048,
+    "last": 50048,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50023",
+    "StoryType": 5,
+    "TypeIndex": 50023,
+    "first": 50049,
+    "last": 50053,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50024",
+    "StoryType": 5,
+    "TypeIndex": 50024,
+    "first": 50054,
+    "last": 50055,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50025",
+    "StoryType": 5,
+    "TypeIndex": 50025,
+    "first": 50056,
+    "last": 50063,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50026",
+    "StoryType": 5,
+    "TypeIndex": 50026,
+    "first": 50064,
+    "last": 50064,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50100",
+    "StoryType": 5,
+    "TypeIndex": 50100,
+    "first": 50100,
+    "last": 50101,
+    "Select": true,
+    "LeftSelect": "DIALOGUE_SELECT_003",
+    "RightSelect": "DIALOGUE_SELECT_004"
+  },
+  {
+    "Id": "Campaign50101",
+    "StoryType": 5,
+    "TypeIndex": 50101,
+    "first": 50102,
+    "last": 50104,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50102",
+    "StoryType": 5,
+    "TypeIndex": 50102,
+    "first": 50105,
+    "last": 50106,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50103",
+    "StoryType": 5,
+    "TypeIndex": 50103,
+    "first": 50107,
+    "last": 50110,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50104",
+    "StoryType": 5,
+    "TypeIndex": 50104,
+    "first": 50111,
+    "last": 50112,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50105",
+    "StoryType": 5,
+    "TypeIndex": 50105,
+    "first": 50113,
+    "last": 50114,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50106",
+    "StoryType": 5,
+    "TypeIndex": 50106,
+    "first": 50115,
+    "last": 50116,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50107",
+    "StoryType": 5,
+    "TypeIndex": 50107,
+    "first": 50117,
+    "last": 50119,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50200",
+    "StoryType": 5,
+    "TypeIndex": 50200,
+    "first": 50200,
+    "last": 50201,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50300",
+    "StoryType": 5,
+    "TypeIndex": 50300,
+    "first": 50300,
+    "last": 50300,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50301",
+    "StoryType": 5,
+    "TypeIndex": 50301,
+    "first": 50301,
+    "last": 50301,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50302",
+    "StoryType": 5,
+    "TypeIndex": 50302,
+    "first": 50302,
+    "last": 50302,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50303",
+    "StoryType": 5,
+    "TypeIndex": 50303,
+    "first": 50303,
+    "last": 50304,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50304",
+    "StoryType": 5,
+    "TypeIndex": 50304,
+    "first": 50305,
+    "last": 50308,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50305",
+    "StoryType": 5,
+    "TypeIndex": 50305,
+    "first": 50309,
+    "last": 50310,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50306",
+    "StoryType": 5,
+    "TypeIndex": 50306,
+    "first": 50311,
+    "last": 50311,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50307",
+    "StoryType": 5,
+    "TypeIndex": 50307,
+    "first": 50312,
+    "last": 50312,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50308",
+    "StoryType": 5,
+    "TypeIndex": 50308,
+    "first": 50313,
+    "last": 50316,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50309",
+    "StoryType": 5,
+    "TypeIndex": 50309,
+    "first": 50317,
+    "last": 50317,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50310",
+    "StoryType": 5,
+    "TypeIndex": 50310,
+    "first": 50318,
+    "last": 50322,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50311",
+    "StoryType": 5,
+    "TypeIndex": 50311,
+    "first": 50323,
+    "last": 50324,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50312",
+    "StoryType": 5,
+    "TypeIndex": 50312,
+    "first": 50325,
+    "last": 50325,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50313",
+    "StoryType": 5,
+    "TypeIndex": 50313,
+    "first": 50326,
+    "last": 50326,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50314",
+    "StoryType": 5,
+    "TypeIndex": 50314,
+    "first": 50327,
+    "last": 50329,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50315",
+    "StoryType": 5,
+    "TypeIndex": 50315,
+    "first": 50330,
+    "last": 50331,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50316",
+    "StoryType": 5,
+    "TypeIndex": 50316,
+    "first": 50332,
+    "last": 50334,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50317",
+    "StoryType": 5,
+    "TypeIndex": 50317,
+    "first": 50335,
+    "last": 50338,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50318",
+    "StoryType": 5,
+    "TypeIndex": 50318,
+    "first": 50339,
+    "last": 50339,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50319",
+    "StoryType": 5,
+    "TypeIndex": 50319,
+    "first": 50340,
+    "last": 50343,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50320",
+    "StoryType": 5,
+    "TypeIndex": 50320,
+    "first": 50344,
+    "last": 50344,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50321",
+    "StoryType": 5,
+    "TypeIndex": 50321,
+    "first": 50345,
+    "last": 50350,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50322",
+    "StoryType": 5,
+    "TypeIndex": 50322,
+    "first": 50351,
+    "last": 50351,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50323",
+    "StoryType": 5,
+    "TypeIndex": 50323,
+    "first": 50352,
+    "last": 50356,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50324",
+    "StoryType": 5,
+    "TypeIndex": 50324,
+    "first": 50357,
+    "last": 50358,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50325",
+    "StoryType": 5,
+    "TypeIndex": 50325,
+    "first": 50359,
+    "last": 50366,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Campaign50326",
+    "StoryType": 5,
+    "TypeIndex": 50326,
+    "first": 50367,
+    "last": 50367,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1000",
+    "StoryType": 12,
+    "TypeIndex": 1000,
+    "first": 100000,
+    "last": 100002,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1001",
+    "StoryType": 12,
+    "TypeIndex": 1001,
+    "first": 100003,
+    "last": 100003,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1002",
+    "StoryType": 12,
+    "TypeIndex": 1002,
+    "first": 100004,
+    "last": 100006,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1003",
+    "StoryType": 12,
+    "TypeIndex": 1003,
+    "first": 100007,
+    "last": 100007,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1004",
+    "StoryType": 12,
+    "TypeIndex": 1004,
+    "first": 100008,
+    "last": 100010,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1010",
+    "StoryType": 12,
+    "TypeIndex": 1010,
+    "first": 100100,
+    "last": 100101,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1011",
+    "StoryType": 12,
+    "TypeIndex": 1011,
+    "first": 100102,
+    "last": 100102,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1012",
+    "StoryType": 12,
+    "TypeIndex": 1012,
+    "first": 100103,
+    "last": 100104,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1020",
+    "StoryType": 12,
+    "TypeIndex": 1020,
+    "first": 100200,
+    "last": 100202,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1021",
+    "StoryType": 12,
+    "TypeIndex": 1021,
+    "first": 100203,
+    "last": 100203,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1022",
+    "StoryType": 12,
+    "TypeIndex": 1022,
+    "first": 100204,
+    "last": 100206,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1030",
+    "StoryType": 12,
+    "TypeIndex": 1030,
+    "first": 100300,
+    "last": 100302,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1031",
+    "StoryType": 12,
+    "TypeIndex": 1031,
+    "first": 100303,
+    "last": 100303,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1032",
+    "StoryType": 12,
+    "TypeIndex": 1032,
+    "first": 100304,
+    "last": 100306,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1040",
+    "StoryType": 12,
+    "TypeIndex": 1040,
+    "first": 100400,
+    "last": 100402,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1041",
+    "StoryType": 12,
+    "TypeIndex": 1041,
+    "first": 100403,
+    "last": 100403,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1042",
+    "StoryType": 12,
+    "TypeIndex": 1042,
+    "first": 100404,
+    "last": 100406,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1043",
+    "StoryType": 12,
+    "TypeIndex": 1043,
+    "first": 100407,
+    "last": 100407,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1044",
+    "StoryType": 12,
+    "TypeIndex": 1044,
+    "first": 100408,
+    "last": 100409,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1050",
+    "StoryType": 12,
+    "TypeIndex": 1050,
+    "first": 100500,
+    "last": 100502,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1051",
+    "StoryType": 12,
+    "TypeIndex": 1051,
+    "first": 100503,
+    "last": 100503,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1052",
+    "StoryType": 12,
+    "TypeIndex": 1052,
+    "first": 100504,
+    "last": 100505,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1060",
+    "StoryType": 12,
+    "TypeIndex": 1060,
+    "first": 100600,
+    "last": 100602,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1061",
+    "StoryType": 12,
+    "TypeIndex": 1061,
+    "first": 100603,
+    "last": 100603,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1062",
+    "StoryType": 12,
+    "TypeIndex": 1062,
+    "first": 100604,
+    "last": 100606,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1070",
+    "StoryType": 12,
+    "TypeIndex": 1070,
+    "first": 100700,
+    "last": 100702,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1071",
+    "StoryType": 12,
+    "TypeIndex": 1071,
+    "first": 100703,
+    "last": 100703,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1072",
+    "StoryType": 12,
+    "TypeIndex": 1072,
+    "first": 100704,
+    "last": 100706,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1073",
+    "StoryType": 12,
+    "TypeIndex": 1073,
+    "first": 100707,
+    "last": 100707,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1074",
+    "StoryType": 12,
+    "TypeIndex": 1074,
+    "first": 100708,
+    "last": 100709,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1080",
+    "StoryType": 12,
+    "TypeIndex": 1080,
+    "first": 100800,
+    "last": 100802,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1081",
+    "StoryType": 12,
+    "TypeIndex": 1081,
+    "first": 100803,
+    "last": 100803,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1082",
+    "StoryType": 12,
+    "TypeIndex": 1082,
+    "first": 100804,
+    "last": 100806,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1083",
+    "StoryType": 12,
+    "TypeIndex": 1083,
+    "first": 100807,
+    "last": 100807,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1084",
+    "StoryType": 12,
+    "TypeIndex": 1084,
+    "first": 100808,
+    "last": 100810,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1085",
+    "StoryType": 12,
+    "TypeIndex": 1085,
+    "first": 100811,
+    "last": 100811,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1086",
+    "StoryType": 12,
+    "TypeIndex": 1086,
+    "first": 100812,
+    "last": 100814,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1087",
+    "StoryType": 12,
+    "TypeIndex": 1087,
+    "first": 100815,
+    "last": 100815,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1088",
+    "StoryType": 12,
+    "TypeIndex": 1088,
+    "first": 100816,
+    "last": 100818,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1090",
+    "StoryType": 12,
+    "TypeIndex": 1090,
+    "first": 100900,
+    "last": 100902,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1091",
+    "StoryType": 12,
+    "TypeIndex": 1091,
+    "first": 100903,
+    "last": 100903,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1092",
+    "StoryType": 12,
+    "TypeIndex": 1092,
+    "first": 100904,
+    "last": 100905,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "Plaza1093",
+    "StoryType": 12,
+    "TypeIndex": 1093,
+    "first": 100906,
+    "last": 100907,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent0",
+    "StoryType": 13,
+    "TypeIndex": 0,
+    "first": 200000,
+    "last": 200002,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent1",
+    "StoryType": 13,
+    "TypeIndex": 1,
+    "first": 200003,
+    "last": 200003,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent2",
+    "StoryType": 13,
+    "TypeIndex": 2,
+    "first": 200004,
+    "last": 200005,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent3",
+    "StoryType": 13,
+    "TypeIndex": 3,
+    "first": 200006,
+    "last": 200006,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent4",
+    "StoryType": 13,
+    "TypeIndex": 4,
+    "first": 200007,
+    "last": 200009,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent5",
+    "StoryType": 13,
+    "TypeIndex": 5,
+    "first": 200010,
+    "last": 200010,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent6",
+    "StoryType": 13,
+    "TypeIndex": 6,
+    "first": 200011,
+    "last": 200012,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent7",
+    "StoryType": 13,
+    "TypeIndex": 7,
+    "first": 200013,
+    "last": 200013,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent8",
+    "StoryType": 13,
+    "TypeIndex": 8,
+    "first": 200014,
+    "last": 200016,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent10",
+    "StoryType": 13,
+    "TypeIndex": 10,
+    "first": 200100,
+    "last": 200103,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent11",
+    "StoryType": 13,
+    "TypeIndex": 11,
+    "first": 200104,
+    "last": 200104,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent12",
+    "StoryType": 13,
+    "TypeIndex": 12,
+    "first": 200105,
+    "last": 200105,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent13",
+    "StoryType": 13,
+    "TypeIndex": 13,
+    "first": 200106,
+    "last": 200107,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent20",
+    "StoryType": 13,
+    "TypeIndex": 20,
+    "first": 200200,
+    "last": 200202,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent21",
+    "StoryType": 13,
+    "TypeIndex": 21,
+    "first": 200203,
+    "last": 200203,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent22",
+    "StoryType": 13,
+    "TypeIndex": 22,
+    "first": 200204,
+    "last": 200204,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent23",
+    "StoryType": 13,
+    "TypeIndex": 23,
+    "first": 200205,
+    "last": 200208,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent24",
+    "StoryType": 13,
+    "TypeIndex": 24,
+    "first": 200209,
+    "last": 200209,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent25",
+    "StoryType": 13,
+    "TypeIndex": 25,
+    "first": 200210,
+    "last": 200212,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent26",
+    "StoryType": 13,
+    "TypeIndex": 26,
+    "first": 200213,
+    "last": 200213,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent27",
+    "StoryType": 13,
+    "TypeIndex": 27,
+    "first": 200214,
+    "last": 200216,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent30",
+    "StoryType": 13,
+    "TypeIndex": 30,
+    "first": 200300,
+    "last": 200303,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent31",
+    "StoryType": 13,
+    "TypeIndex": 31,
+    "first": 200304,
+    "last": 200304,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent32",
+    "StoryType": 13,
+    "TypeIndex": 32,
+    "first": 200305,
+    "last": 200307,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent40",
+    "StoryType": 13,
+    "TypeIndex": 40,
+    "first": 200400,
+    "last": 200402,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent41",
+    "StoryType": 13,
+    "TypeIndex": 41,
+    "first": 200403,
+    "last": 200403,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent42",
+    "StoryType": 13,
+    "TypeIndex": 42,
+    "first": 200404,
+    "last": 200407,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent43",
+    "StoryType": 13,
+    "TypeIndex": 43,
+    "first": 200408,
+    "last": 200412,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent50",
+    "StoryType": 13,
+    "TypeIndex": 50,
+    "first": 200500,
+    "last": 200502,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent51",
+    "StoryType": 13,
+    "TypeIndex": 51,
+    "first": 200503,
+    "last": 200503,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent52",
+    "StoryType": 13,
+    "TypeIndex": 52,
+    "first": 200504,
+    "last": 200507,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent53",
+    "StoryType": 13,
+    "TypeIndex": 53,
+    "first": 200508,
+    "last": 200508,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  },
+  {
+    "Id": "PlazaEvent54",
+    "StoryType": 13,
+    "TypeIndex": 54,
+    "first": 200509,
+    "last": 200513,
+    "Select": false,
+    "LeftSelect": "L",
+    "RightSelect": "R"
+  }
+]

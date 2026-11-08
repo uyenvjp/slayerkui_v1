@@ -1,0 +1,2092 @@
+{
+  "source_file": "Slayer+Legend+_+Idle+RPG_700.0.4_APKPure(1).xapk",
+  "asset_origin": "UnityFS contained in XAPK only; no other graphic sources",
+  "entries": {
+    "hero/archer_01_0.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "archer_01_0",
+      "sprite_path_id": "5505143482632349920",
+      "texture_name": "archer_01",
+      "texture_path_id": "6989962309718216415",
+      "sprite_rect_unity": [
+        4.0,
+        384.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "df6da3813fe5cfd19c676b5354b1f4ad04cedabf3e97b3b7447e12003d14cb49"
+    },
+    "hero/archer_01_1.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "archer_01_1",
+      "sprite_path_id": "-1333518463423913184",
+      "texture_name": "archer_01",
+      "texture_path_id": "6989962309718216415",
+      "sprite_rect_unity": [
+        208.0,
+        384.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "91957403523e333dc81ea4b4b90886aab826831995143086c2c52084962d0708"
+    },
+    "hero/archer_01_10.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "archer_01_10",
+      "sprite_path_id": "6054850419847595593",
+      "texture_name": "archer_01",
+      "texture_path_id": "6989962309718216415",
+      "sprite_rect_unity": [
+        4.0,
+        128.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "d0c6a84c91142de38fc763529e9e87fe23e6cd7400520f5ecdbb2e717617f6b8"
+    },
+    "hero/archer_01_11.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "archer_01_11",
+      "sprite_path_id": "7170394508326504353",
+      "texture_name": "archer_01",
+      "texture_path_id": "6989962309718216415",
+      "sprite_rect_unity": [
+        208.0,
+        128.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "c1f79660bb190d163cc79b14b6a40513911b8ada4007f33e245549df9746777d"
+    },
+    "hero/archer_01_12.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "archer_01_12",
+      "sprite_path_id": "-7487893168162463209",
+      "texture_name": "archer_01",
+      "texture_path_id": "6989962309718216415",
+      "sprite_rect_unity": [
+        412.0,
+        128.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "db098dc1ea1b7ae8f392094e3125c474e5f54fd50c10b31a182abb1d779cf58d"
+    },
+    "hero/archer_01_13.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "archer_01_13",
+      "sprite_path_id": "-3521189895726531138",
+      "texture_name": "archer_01",
+      "texture_path_id": "6989962309718216415",
+      "sprite_rect_unity": [
+        616.0,
+        128.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "e1400d20826977a6d2a6fca7db183779aa438862c6a9e1d1308bdfe12e4cde39"
+    },
+    "hero/archer_01_14.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "archer_01_14",
+      "sprite_path_id": "5027030415155819155",
+      "texture_name": "archer_01",
+      "texture_path_id": "6989962309718216415",
+      "sprite_rect_unity": [
+        820.0,
+        128.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "1d884fba2273850b6d8939493281e956b9037437795f18959d221baa3a7639af"
+    },
+    "hero/archer_01_15.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "archer_01_15",
+      "sprite_path_id": "8407447125646008120",
+      "texture_name": "archer_01",
+      "texture_path_id": "6989962309718216415",
+      "sprite_rect_unity": [
+        4.0,
+        0.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "4a03d6042db6df6f4872f3d302b674f79fd59e4180fc02dd436e21460957f4f0"
+    },
+    "hero/archer_01_16.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "archer_01_16",
+      "sprite_path_id": "5316179215023961590",
+      "texture_name": "archer_01",
+      "texture_path_id": "6989962309718216415",
+      "sprite_rect_unity": [
+        208.0,
+        0.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "9e4cf50cf33a040c11a32759fd93eba6b3fef08029845b0b25b4e21178c6e37a"
+    },
+    "hero/archer_01_17.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "archer_01_17",
+      "sprite_path_id": "2503163589041693658",
+      "texture_name": "archer_01",
+      "texture_path_id": "6989962309718216415",
+      "sprite_rect_unity": [
+        412.0,
+        0.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "04d05836517bbd82618c7ea745918247bacf45dc8be841f860f6a5517a95fae9"
+    },
+    "hero/archer_01_18.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "archer_01_18",
+      "sprite_path_id": "-7453438168313267246",
+      "texture_name": "archer_01",
+      "texture_path_id": "6989962309718216415",
+      "sprite_rect_unity": [
+        616.0,
+        0.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "337c7045792b63759266891d2750a73861b0305e05bbb079cc9667e0adfddd26"
+    },
+    "hero/archer_01_19.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "archer_01_19",
+      "sprite_path_id": "-6669075610824062957",
+      "texture_name": "archer_01",
+      "texture_path_id": "6989962309718216415",
+      "sprite_rect_unity": [
+        820.0,
+        0.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "168ef24c0ab2e6c6ec5af428700080bb2d116fca6c094f206bc31552f337e591"
+    },
+    "hero/archer_01_2.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "archer_01_2",
+      "sprite_path_id": "-5363353091340387739",
+      "texture_name": "archer_01",
+      "texture_path_id": "6989962309718216415",
+      "sprite_rect_unity": [
+        412.0,
+        384.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "bed61e6d45e281cd889500041743218daaa073a57c8b1dfbc70e136ae063ed91"
+    },
+    "hero/archer_01_3.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "archer_01_3",
+      "sprite_path_id": "1330074886070449577",
+      "texture_name": "archer_01",
+      "texture_path_id": "6989962309718216415",
+      "sprite_rect_unity": [
+        616.0,
+        384.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "23a179e7e1a8fa9a735289e4aff053b767b19f077522194fc354e40c02553ff7"
+    },
+    "hero/archer_01_4.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "archer_01_4",
+      "sprite_path_id": "-8725031603571042864",
+      "texture_name": "archer_01",
+      "texture_path_id": "6989962309718216415",
+      "sprite_rect_unity": [
+        820.0,
+        384.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "d93f0b6f89435ebf4acbb322c0e08c053f91077ee25ebbcf9bb20c23bbcc6f09"
+    },
+    "hero/archer_01_5.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "archer_01_5",
+      "sprite_path_id": "1909154104389939626",
+      "texture_name": "archer_01",
+      "texture_path_id": "6989962309718216415",
+      "sprite_rect_unity": [
+        4.0,
+        256.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "dd2fa3353084e193abed9b21dd87865fa0671128f3c6d079dfe1bf4d63eb773c"
+    },
+    "hero/archer_01_6.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "archer_01_6",
+      "sprite_path_id": "2172660344676630940",
+      "texture_name": "archer_01",
+      "texture_path_id": "6989962309718216415",
+      "sprite_rect_unity": [
+        208.0,
+        256.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "1177d5b220f2ed1c1547a6dc25970de839c533ce9c67ccda381966631efc72e9"
+    },
+    "hero/archer_01_7.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "archer_01_7",
+      "sprite_path_id": "676692412723537492",
+      "texture_name": "archer_01",
+      "texture_path_id": "6989962309718216415",
+      "sprite_rect_unity": [
+        412.0,
+        256.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "2f9165a426b6e633d10429334f01507d7006f1a9ebe17ffb464c5535ea8696e9"
+    },
+    "hero/archer_01_8.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "archer_01_8",
+      "sprite_path_id": "-739331451289004220",
+      "texture_name": "archer_01",
+      "texture_path_id": "6989962309718216415",
+      "sprite_rect_unity": [
+        616.0,
+        256.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "f65a387723908d6d6d975b37be0926cbc66afb2ae36dd29a22abd3231126cc49"
+    },
+    "hero/archer_01_9.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "archer_01_9",
+      "sprite_path_id": "6689603929433745856",
+      "texture_name": "archer_01",
+      "texture_path_id": "6989962309718216415",
+      "sprite_rect_unity": [
+        820.0,
+        256.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "ea2a91cba3eb8ae8a2bd83127fcf005216812628842acb04ef146554f30346cd"
+    },
+    "hero/mage_01_0.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "mage_01_0",
+      "sprite_path_id": "734860182536838127",
+      "texture_name": "mage_01",
+      "texture_path_id": "7544901840522270387",
+      "sprite_rect_unity": [
+        4.0,
+        384.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "a7422eb59ada78632a8e6a67547ebdfefeedf0791bcdffe6a2d826f1730d811c"
+    },
+    "hero/mage_01_1.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "mage_01_1",
+      "sprite_path_id": "-8251036512258785514",
+      "texture_name": "mage_01",
+      "texture_path_id": "7544901840522270387",
+      "sprite_rect_unity": [
+        208.0,
+        384.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "874aea91ccc46ea87bffaf7cafe34c92b0ca93e18ddc2c7d15bd62d16ffabf37"
+    },
+    "hero/mage_01_10.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "mage_01_10",
+      "sprite_path_id": "-3946536273298031385",
+      "texture_name": "mage_01",
+      "texture_path_id": "7544901840522270387",
+      "sprite_rect_unity": [
+        4.0,
+        128.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "d7f4da3b3da8032c2621e01a825f15565842b54b0a1d124e03a402d44cc160c6"
+    },
+    "hero/mage_01_11.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "mage_01_11",
+      "sprite_path_id": "-4511043631077102548",
+      "texture_name": "mage_01",
+      "texture_path_id": "7544901840522270387",
+      "sprite_rect_unity": [
+        208.0,
+        128.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "765561b902cfd2e6707f7757224cba76bcc673f44054c9b0bca6a5dfe6fea70d"
+    },
+    "hero/mage_01_12.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "mage_01_12",
+      "sprite_path_id": "2657715128073814505",
+      "texture_name": "mage_01",
+      "texture_path_id": "7544901840522270387",
+      "sprite_rect_unity": [
+        412.0,
+        128.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "0dd7bee7d4934bce5dc642297218c414f4abe59c11558493bc46b277cfe37a6a"
+    },
+    "hero/mage_01_13.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "mage_01_13",
+      "sprite_path_id": "-3767860882041370238",
+      "texture_name": "mage_01",
+      "texture_path_id": "7544901840522270387",
+      "sprite_rect_unity": [
+        616.0,
+        128.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "9f57e51a9295d393f0a88fac63788a56835e591307ff9f898dc81298586dfebc"
+    },
+    "hero/mage_01_14.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "mage_01_14",
+      "sprite_path_id": "1303570759989628224",
+      "texture_name": "mage_01",
+      "texture_path_id": "7544901840522270387",
+      "sprite_rect_unity": [
+        820.0,
+        128.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "0ab027a9649b5b65b59aaaae2c151c8573b95dbc3f8a05bc2f0b25345ddea2e6"
+    },
+    "hero/mage_01_15.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "mage_01_15",
+      "sprite_path_id": "3131965560126949144",
+      "texture_name": "mage_01",
+      "texture_path_id": "7544901840522270387",
+      "sprite_rect_unity": [
+        4.0,
+        0.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "e7437906991d5b3a620098743deb227d2b1b615d67d0749ba629b8a0374f29cd"
+    },
+    "hero/mage_01_16.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "mage_01_16",
+      "sprite_path_id": "1050720689355334838",
+      "texture_name": "mage_01",
+      "texture_path_id": "7544901840522270387",
+      "sprite_rect_unity": [
+        208.0,
+        0.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "30d962f2ebf83a7321dfb36b460364e5d3877c6861ae71f27c92d3b4477ecc4f"
+    },
+    "hero/mage_01_17.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "mage_01_17",
+      "sprite_path_id": "-3587648107648691024",
+      "texture_name": "mage_01",
+      "texture_path_id": "7544901840522270387",
+      "sprite_rect_unity": [
+        412.0,
+        0.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "b8b18cc791c6c0c92a972d6d2aff7a5772a606854b24a1c043c8e45be5de0fed"
+    },
+    "hero/mage_01_18.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "mage_01_18",
+      "sprite_path_id": "8551325004013517397",
+      "texture_name": "mage_01",
+      "texture_path_id": "7544901840522270387",
+      "sprite_rect_unity": [
+        616.0,
+        0.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "62665c0e186177ac941c83154fcb17c86d18e218a1064a4fb6459482e2a878b2"
+    },
+    "hero/mage_01_19.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "mage_01_19",
+      "sprite_path_id": "5799992310523542680",
+      "texture_name": "mage_01",
+      "texture_path_id": "7544901840522270387",
+      "sprite_rect_unity": [
+        820.0,
+        0.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "3e19f12e99816ef603d5028b151e02b3c2542d8cca223ab363b18400200cbff8"
+    },
+    "hero/mage_01_2.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "mage_01_2",
+      "sprite_path_id": "7011955273946259414",
+      "texture_name": "mage_01",
+      "texture_path_id": "7544901840522270387",
+      "sprite_rect_unity": [
+        412.0,
+        384.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "2303405496e8b34f573cdaab626845502980e4bd4d122a5ff33d4b49b14cdd5f"
+    },
+    "hero/mage_01_3.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "mage_01_3",
+      "sprite_path_id": "-1638042121535394219",
+      "texture_name": "mage_01",
+      "texture_path_id": "7544901840522270387",
+      "sprite_rect_unity": [
+        616.0,
+        384.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "82a887712eb12d5f663a5d652b149ac23fadab516b2916784b11e5c0d167333b"
+    },
+    "hero/mage_01_4.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "mage_01_4",
+      "sprite_path_id": "652852200806623980",
+      "texture_name": "mage_01",
+      "texture_path_id": "7544901840522270387",
+      "sprite_rect_unity": [
+        820.0,
+        384.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "cbdd3527c6e289142601e677599cb397f9f8afe059ed1dc23bc1bb7e0009017c"
+    },
+    "hero/mage_01_5.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "mage_01_5",
+      "sprite_path_id": "2617565442481296676",
+      "texture_name": "mage_01",
+      "texture_path_id": "7544901840522270387",
+      "sprite_rect_unity": [
+        4.0,
+        256.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "949538ebe004bdd40a82921ad9c811612cd740f29f6d175b2ac345559799c174"
+    },
+    "hero/mage_01_6.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "mage_01_6",
+      "sprite_path_id": "-5687611131170480835",
+      "texture_name": "mage_01",
+      "texture_path_id": "7544901840522270387",
+      "sprite_rect_unity": [
+        208.0,
+        256.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "6cbd20c00c2cf01b80a9b0b7d62e4f9ebce1aad9a4c3efda6b300efc40d4bf80"
+    },
+    "hero/mage_01_7.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "mage_01_7",
+      "sprite_path_id": "-7440170536200744041",
+      "texture_name": "mage_01",
+      "texture_path_id": "7544901840522270387",
+      "sprite_rect_unity": [
+        412.0,
+        256.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "51f7235765ea5597734beb0aedced3ef24f56db4324b7b97504c267b1a086a99"
+    },
+    "hero/mage_01_8.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "mage_01_8",
+      "sprite_path_id": "-3360636670483906167",
+      "texture_name": "mage_01",
+      "texture_path_id": "7544901840522270387",
+      "sprite_rect_unity": [
+        616.0,
+        256.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "0a00f197767ee611b6fea69a3a9c5995edfd859cf727367d660873a3db2c86bf"
+    },
+    "hero/mage_01_9.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "mage_01_9",
+      "sprite_path_id": "-6514598285198151488",
+      "texture_name": "mage_01",
+      "texture_path_id": "7544901840522270387",
+      "sprite_rect_unity": [
+        820.0,
+        256.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "20cce10e69132391a31ed608c6ea4f7ea727b1402180e6d39d863db3aa02bfc9"
+    },
+    "hero/ninja_01_0.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "ninja_01_0",
+      "sprite_path_id": "-8452846688607235460",
+      "texture_name": "ninja_01",
+      "texture_path_id": "-6158177326277516425",
+      "sprite_rect_unity": [
+        4.0,
+        384.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "3f5e3a1eaf7b4f0c2ee07c3836e2ae35b2c6a7b15a4c299a0f226ca23003c7a5"
+    },
+    "hero/ninja_01_1.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "ninja_01_1",
+      "sprite_path_id": "-1437229444796837275",
+      "texture_name": "ninja_01",
+      "texture_path_id": "-6158177326277516425",
+      "sprite_rect_unity": [
+        208.0,
+        384.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "498dc07920272f4948c96c8bf5da8c1176b748116ff7f594b6b7e7e3eaf2859e"
+    },
+    "hero/ninja_01_10.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "ninja_01_10",
+      "sprite_path_id": "-633279442788874270",
+      "texture_name": "ninja_01",
+      "texture_path_id": "-6158177326277516425",
+      "sprite_rect_unity": [
+        4.0,
+        128.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "eafd7f6f2bd342b5ac3f728d53dd94c35570b286c0dcc7d040e88053ba6c986c"
+    },
+    "hero/ninja_01_11.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "ninja_01_11",
+      "sprite_path_id": "-3066456210294218162",
+      "texture_name": "ninja_01",
+      "texture_path_id": "-6158177326277516425",
+      "sprite_rect_unity": [
+        208.0,
+        128.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "f3d32f542ca58e8ea0378d286178ece6452f0305da38e830e7d77c1425692045"
+    },
+    "hero/ninja_01_12.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "ninja_01_12",
+      "sprite_path_id": "792640211141954866",
+      "texture_name": "ninja_01",
+      "texture_path_id": "-6158177326277516425",
+      "sprite_rect_unity": [
+        412.0,
+        128.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "7ccd536606537fde956cc856bdea236b4b4bd5e8e1081abee19a75e80bfcad5b"
+    },
+    "hero/ninja_01_13.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "ninja_01_13",
+      "sprite_path_id": "5520495447906323080",
+      "texture_name": "ninja_01",
+      "texture_path_id": "-6158177326277516425",
+      "sprite_rect_unity": [
+        616.0,
+        128.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "74ef0329efb9af102d65726a8c893d3fa83f17f078177818b42ae850c18005de"
+    },
+    "hero/ninja_01_14.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "ninja_01_14",
+      "sprite_path_id": "-7400745793963897331",
+      "texture_name": "ninja_01",
+      "texture_path_id": "-6158177326277516425",
+      "sprite_rect_unity": [
+        820.0,
+        128.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "a94c16ca99f431adf4672fe4508fa9106c6492e89c399e2cfaa748a99aa97f52"
+    },
+    "hero/ninja_01_15.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "ninja_01_15",
+      "sprite_path_id": "-4754610203584447210",
+      "texture_name": "ninja_01",
+      "texture_path_id": "-6158177326277516425",
+      "sprite_rect_unity": [
+        4.0,
+        0.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "87bd4dca4e1486c13156190f119019b0511189cc3e25b9fdb722f46734cc3295"
+    },
+    "hero/ninja_01_16.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "ninja_01_16",
+      "sprite_path_id": "-1798767694201472132",
+      "texture_name": "ninja_01",
+      "texture_path_id": "-6158177326277516425",
+      "sprite_rect_unity": [
+        208.0,
+        0.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "ae6a5227f0977846e0e360d59b438d9f463b63fb354f1f38ef641a63c487d27f"
+    },
+    "hero/ninja_01_17.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "ninja_01_17",
+      "sprite_path_id": "776553129919842588",
+      "texture_name": "ninja_01",
+      "texture_path_id": "-6158177326277516425",
+      "sprite_rect_unity": [
+        412.0,
+        0.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "3ae4a5fcc1f7a96096799f9b1cbd6b26ea2742d6c389a79c707a423ee36aaf9f"
+    },
+    "hero/ninja_01_18.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "ninja_01_18",
+      "sprite_path_id": "3908855260749567043",
+      "texture_name": "ninja_01",
+      "texture_path_id": "-6158177326277516425",
+      "sprite_rect_unity": [
+        616.0,
+        0.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "3a529a864804498ef93633e685ef8e74e57b06ddee955babe8afd7124b338a8b"
+    },
+    "hero/ninja_01_19.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "ninja_01_19",
+      "sprite_path_id": "6164684098910174746",
+      "texture_name": "ninja_01",
+      "texture_path_id": "-6158177326277516425",
+      "sprite_rect_unity": [
+        820.0,
+        0.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "b022b6125673677d601c32e7f79dd0657e9fb4c62bac1880b1a78761fda4c542"
+    },
+    "hero/ninja_01_2.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "ninja_01_2",
+      "sprite_path_id": "-6594133955094686205",
+      "texture_name": "ninja_01",
+      "texture_path_id": "-6158177326277516425",
+      "sprite_rect_unity": [
+        412.0,
+        384.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "d0b96bef6617f7da67f3cb5787ec6e4cccf4bebf95c56a179e0f170d9ede7b3d"
+    },
+    "hero/ninja_01_3.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "ninja_01_3",
+      "sprite_path_id": "-498359453022515154",
+      "texture_name": "ninja_01",
+      "texture_path_id": "-6158177326277516425",
+      "sprite_rect_unity": [
+        616.0,
+        384.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "9c3cfb016c814a7ef27b48138214bc55436f95ce6acb8ac16c8676c954daa13f"
+    },
+    "hero/ninja_01_4.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "ninja_01_4",
+      "sprite_path_id": "-3824028979044895439",
+      "texture_name": "ninja_01",
+      "texture_path_id": "-6158177326277516425",
+      "sprite_rect_unity": [
+        820.0,
+        384.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "d2fa3f1f2ad56aa875d6337aa0926c15e13ceb113416afafd0986cfd05b1b95d"
+    },
+    "hero/ninja_01_5.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "ninja_01_5",
+      "sprite_path_id": "-8411180430103772030",
+      "texture_name": "ninja_01",
+      "texture_path_id": "-6158177326277516425",
+      "sprite_rect_unity": [
+        4.0,
+        256.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "5c81ed51ab9d2340e281a4472498a7ed0c1d57f6b6d7e785587c67aa7a87740f"
+    },
+    "hero/ninja_01_6.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "ninja_01_6",
+      "sprite_path_id": "-6517798429067158807",
+      "texture_name": "ninja_01",
+      "texture_path_id": "-6158177326277516425",
+      "sprite_rect_unity": [
+        208.0,
+        256.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "bed93e333ced4b3e2aa6dc3228906afebbb9c444aba052e6dee69258810ae906"
+    },
+    "hero/ninja_01_7.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "ninja_01_7",
+      "sprite_path_id": "-2149870700813409057",
+      "texture_name": "ninja_01",
+      "texture_path_id": "-6158177326277516425",
+      "sprite_rect_unity": [
+        412.0,
+        256.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "6a9acb0355d0af91c509c914066a07fb95ccf0910c653d952303d705c2b11c79"
+    },
+    "hero/ninja_01_8.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "ninja_01_8",
+      "sprite_path_id": "-7658785648527791794",
+      "texture_name": "ninja_01",
+      "texture_path_id": "-6158177326277516425",
+      "sprite_rect_unity": [
+        616.0,
+        256.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "35c0fb3434faed7d971ecf1b18f482a06fd5133e5e87d1460130211f71a695ca"
+    },
+    "hero/ninja_01_9.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "ninja_01_9",
+      "sprite_path_id": "8236908345343232961",
+      "texture_name": "ninja_01",
+      "texture_path_id": "-6158177326277516425",
+      "sprite_rect_unity": [
+        820.0,
+        256.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "2b0a7b63d4e7b6eeb3ce05ec688a532c90830b93ba5d3b73ee7ad938b9533112"
+    },
+    "hero/warrior_01_0.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "warrior_01_0",
+      "sprite_path_id": "4740057854139464756",
+      "texture_name": "warrior_01",
+      "texture_path_id": "3319675161039767591",
+      "sprite_rect_unity": [
+        4.0,
+        384.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "480adf239a16a9d4ccbc08c11636c747cce73246164d1320a75f78b69438f97f"
+    },
+    "hero/warrior_01_1.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "warrior_01_1",
+      "sprite_path_id": "-5556393659295716975",
+      "texture_name": "warrior_01",
+      "texture_path_id": "3319675161039767591",
+      "sprite_rect_unity": [
+        208.0,
+        384.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "6fd40493c07d061feac74e294da064b0261b77d87b92dc8476b4dd23f3b5ff61"
+    },
+    "hero/warrior_01_10.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "warrior_01_10",
+      "sprite_path_id": "6446824024610859899",
+      "texture_name": "warrior_01",
+      "texture_path_id": "3319675161039767591",
+      "sprite_rect_unity": [
+        4.0,
+        128.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "60e08ce5583ddefa643d41e55e61176f2c14c6f656db1e56c39c64b87af9ff13"
+    },
+    "hero/warrior_01_11.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "warrior_01_11",
+      "sprite_path_id": "7201432583561904949",
+      "texture_name": "warrior_01",
+      "texture_path_id": "3319675161039767591",
+      "sprite_rect_unity": [
+        208.0,
+        128.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "cd74cf7fd784658e30de27beca44b9330823fff23ac543e9764ccfceb6b57db0"
+    },
+    "hero/warrior_01_12.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "warrior_01_12",
+      "sprite_path_id": "8191564090979752711",
+      "texture_name": "warrior_01",
+      "texture_path_id": "3319675161039767591",
+      "sprite_rect_unity": [
+        412.0,
+        128.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "be0cafab8b4f71a58f8957027e649a29aa22d55238defcb9e309dabe8336b9ed"
+    },
+    "hero/warrior_01_13.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "warrior_01_13",
+      "sprite_path_id": "-217638890533812280",
+      "texture_name": "warrior_01",
+      "texture_path_id": "3319675161039767591",
+      "sprite_rect_unity": [
+        616.0,
+        128.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "4a514986ac5bddb60ad79f42954a25ddb90bfa1a5ea8945f10e9d9b9f1b5b545"
+    },
+    "hero/warrior_01_14.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "warrior_01_14",
+      "sprite_path_id": "7446586212656481416",
+      "texture_name": "warrior_01",
+      "texture_path_id": "3319675161039767591",
+      "sprite_rect_unity": [
+        820.0,
+        128.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "03f27adf37da15dad55cec30de08b370e07aedff49c65af5f2d556f3880fdb6d"
+    },
+    "hero/warrior_01_15.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "warrior_01_15",
+      "sprite_path_id": "4415353218626111051",
+      "texture_name": "warrior_01",
+      "texture_path_id": "3319675161039767591",
+      "sprite_rect_unity": [
+        4.0,
+        0.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "a921b21839a6fff37057e804f9183b9ce1e33d36040b242ecdf9e9a9ebc2cccf"
+    },
+    "hero/warrior_01_16.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "warrior_01_16",
+      "sprite_path_id": "-3527245205088676621",
+      "texture_name": "warrior_01",
+      "texture_path_id": "3319675161039767591",
+      "sprite_rect_unity": [
+        208.0,
+        0.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "88e4549f92ae5fabd2aac210fd607f3a1961978264fd4855dd85aa9a1d126cb2"
+    },
+    "hero/warrior_01_17.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "warrior_01_17",
+      "sprite_path_id": "1053374083112458182",
+      "texture_name": "warrior_01",
+      "texture_path_id": "3319675161039767591",
+      "sprite_rect_unity": [
+        412.0,
+        0.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "a9bc8dcc3891dad66668e918c5b4d5386e213e8c90bb0f4a838bee176612d852"
+    },
+    "hero/warrior_01_18.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "warrior_01_18",
+      "sprite_path_id": "1061804369367858683",
+      "texture_name": "warrior_01",
+      "texture_path_id": "3319675161039767591",
+      "sprite_rect_unity": [
+        616.0,
+        0.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "085c90776c4e852a4c384495c52b23c026b592264e1fe7448d0a11bbe060e48f"
+    },
+    "hero/warrior_01_19.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "warrior_01_19",
+      "sprite_path_id": "2073466322762475790",
+      "texture_name": "warrior_01",
+      "texture_path_id": "3319675161039767591",
+      "sprite_rect_unity": [
+        820.0,
+        0.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "c661a1bfe7303d6e9aeb92270baeef7695923d8db1734f57d5c393d222e12a85"
+    },
+    "hero/warrior_01_2.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "warrior_01_2",
+      "sprite_path_id": "-9029402388758282109",
+      "texture_name": "warrior_01",
+      "texture_path_id": "3319675161039767591",
+      "sprite_rect_unity": [
+        412.0,
+        384.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "680d156d26a9a4206d287e11e332f244c8a1608515a689da29f6896d95b632ed"
+    },
+    "hero/warrior_01_3.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "warrior_01_3",
+      "sprite_path_id": "8802704646893103690",
+      "texture_name": "warrior_01",
+      "texture_path_id": "3319675161039767591",
+      "sprite_rect_unity": [
+        616.0,
+        384.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "476f0bb5622e18bc948723dcbd123c00676fa8dc3d9f0f23172e9140608dd072"
+    },
+    "hero/warrior_01_4.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "warrior_01_4",
+      "sprite_path_id": "-86394512141979515",
+      "texture_name": "warrior_01",
+      "texture_path_id": "3319675161039767591",
+      "sprite_rect_unity": [
+        820.0,
+        384.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "f9cb8ca88545390a2c61cf73e1368fd585fa0a43535f5613012aee095e73cdf8"
+    },
+    "hero/warrior_01_5.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "warrior_01_5",
+      "sprite_path_id": "9021676975175508076",
+      "texture_name": "warrior_01",
+      "texture_path_id": "3319675161039767591",
+      "sprite_rect_unity": [
+        4.0,
+        256.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "a6f891b1add1d298fc9b650f5adae81d52f3d4f0e467332fbec9c1fac04d21b7"
+    },
+    "hero/warrior_01_6.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "warrior_01_6",
+      "sprite_path_id": "-6488383553059633080",
+      "texture_name": "warrior_01",
+      "texture_path_id": "3319675161039767591",
+      "sprite_rect_unity": [
+        208.0,
+        256.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "f1865dbf2701bb739d60943f65da20ecf53acb287e94ffe27649272ad8ed9a71"
+    },
+    "hero/warrior_01_7.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "warrior_01_7",
+      "sprite_path_id": "4590873247868284130",
+      "texture_name": "warrior_01",
+      "texture_path_id": "3319675161039767591",
+      "sprite_rect_unity": [
+        412.0,
+        256.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "a860df45a51c715022567582ea34b9bc7481997c10cf18f63849c614c19fcc94"
+    },
+    "hero/warrior_01_8.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "warrior_01_8",
+      "sprite_path_id": "4354531717854993960",
+      "texture_name": "warrior_01",
+      "texture_path_id": "3319675161039767591",
+      "sprite_rect_unity": [
+        616.0,
+        256.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "c9ef38eb124b6032e1d9b8c7c15493ac79940d816320fb712fbe4c55ceb64ba2"
+    },
+    "hero/warrior_01_9.png": {
+      "original_pack": "hero.apk",
+      "sprite_name": "warrior_01_9",
+      "sprite_path_id": "-7207225924018480537",
+      "texture_name": "warrior_01",
+      "texture_path_id": "3319675161039767591",
+      "sprite_rect_unity": [
+        820.0,
+        256.0,
+        204.0,
+        128.0
+      ],
+      "sha256_png": "096992ef7dfbf4cb653fcd0467ec56fd26534987652448f7797353cecf36691b"
+    },
+    "monster/001_0.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "001_0",
+      "sprite_path_id": "-1508803909649888339",
+      "texture_name": "001",
+      "texture_path_id": "6814077710213907139",
+      "sprite_rect_unity": [
+        0.0,
+        384.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "01de36be98ffe4acb2eb21f069b94fd226af3ffd21a72a4196489d925cdd49b6"
+    },
+    "monster/001_1.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "001_1",
+      "sprite_path_id": "-469992401374349692",
+      "texture_name": "001",
+      "texture_path_id": "6814077710213907139",
+      "sprite_rect_unity": [
+        128.0,
+        384.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "957c8ed97e62059b38e4f7c29a948f342d4529bedd3be2fbe72440d8ce5ffcb7"
+    },
+    "monster/001_10.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "001_10",
+      "sprite_path_id": "6776783618077071310",
+      "texture_name": "001",
+      "texture_path_id": "6814077710213907139",
+      "sprite_rect_unity": [
+        256.0,
+        128.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "01c32d41e633705f311dc63ad28ab163483be42e3e70839129fc598bec6dfc7b"
+    },
+    "monster/001_11.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "001_11",
+      "sprite_path_id": "5703339814086507804",
+      "texture_name": "001",
+      "texture_path_id": "6814077710213907139",
+      "sprite_rect_unity": [
+        384.0,
+        128.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "397fc04c40b29e388f93f1a22e273ecd7cfeb899746a3599c9ecf8ac9669e53c"
+    },
+    "monster/001_12.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "001_12",
+      "sprite_path_id": "-1234864079241932044",
+      "texture_name": "001",
+      "texture_path_id": "6814077710213907139",
+      "sprite_rect_unity": [
+        0.0,
+        0.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "2651392002b47f477d0efd86a2b0d8a8898df2d9e460f8f925d7a44091276b13"
+    },
+    "monster/001_13.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "001_13",
+      "sprite_path_id": "-1319746181540898004",
+      "texture_name": "001",
+      "texture_path_id": "6814077710213907139",
+      "sprite_rect_unity": [
+        128.0,
+        0.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "734d3ccae3dc25e03a128f82aefdd79ef41b5b3414e59bde6ff3569e4fa16882"
+    },
+    "monster/001_14.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "001_14",
+      "sprite_path_id": "6526516914143690630",
+      "texture_name": "001",
+      "texture_path_id": "6814077710213907139",
+      "sprite_rect_unity": [
+        256.0,
+        0.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "3462b9564a9bf559aab342a22cb00cbbdcee1487fdb261db06320a0acbb0af4d"
+    },
+    "monster/001_15.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "001_15",
+      "sprite_path_id": "506290254950174265",
+      "texture_name": "001",
+      "texture_path_id": "6814077710213907139",
+      "sprite_rect_unity": [
+        384.0,
+        0.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "86b51c7acdedc0145f5ea7dae4983169700ce7fa306c1ca58114c72780cd8024"
+    },
+    "monster/001_2.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "001_2",
+      "sprite_path_id": "8942541861742675824",
+      "texture_name": "001",
+      "texture_path_id": "6814077710213907139",
+      "sprite_rect_unity": [
+        256.0,
+        384.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "2d7a3f63d2fe27cbf15d6cf6b2155246103fc1600d6de31acc532ce76b0ceb7d"
+    },
+    "monster/001_3.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "001_3",
+      "sprite_path_id": "960763115557500012",
+      "texture_name": "001",
+      "texture_path_id": "6814077710213907139",
+      "sprite_rect_unity": [
+        384.0,
+        384.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "01de36be98ffe4acb2eb21f069b94fd226af3ffd21a72a4196489d925cdd49b6"
+    },
+    "monster/001_4.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "001_4",
+      "sprite_path_id": "620603005840715814",
+      "texture_name": "001",
+      "texture_path_id": "6814077710213907139",
+      "sprite_rect_unity": [
+        0.0,
+        256.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "c5252c43e39d5d77073f49fabddab0fd008ec7d679a039dc6932c9ba6bc89d91"
+    },
+    "monster/001_5.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "001_5",
+      "sprite_path_id": "4696322232568835033",
+      "texture_name": "001",
+      "texture_path_id": "6814077710213907139",
+      "sprite_rect_unity": [
+        128.0,
+        256.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "c119685cfed14e953c65a7f2fe0852383b7f80b22a1da9a45a8a0d60733f64f2"
+    },
+    "monster/001_6.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "001_6",
+      "sprite_path_id": "1471221949811011176",
+      "texture_name": "001",
+      "texture_path_id": "6814077710213907139",
+      "sprite_rect_unity": [
+        256.0,
+        256.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "ba9d82791ab165632f5879e471e33ff70043dd1bb0b0826c2fcc518f9ca28592"
+    },
+    "monster/001_7.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "001_7",
+      "sprite_path_id": "-3761108200707992207",
+      "texture_name": "001",
+      "texture_path_id": "6814077710213907139",
+      "sprite_rect_unity": [
+        384.0,
+        256.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "b7cbd8634b6c0c57698f45f6b618bd6bcebadd371da444624d277fb2b652fd9a"
+    },
+    "monster/001_8.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "001_8",
+      "sprite_path_id": "338029304171422044",
+      "texture_name": "001",
+      "texture_path_id": "6814077710213907139",
+      "sprite_rect_unity": [
+        0.0,
+        128.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "877f0d670fba5340c29a3dc1354877598b884aaad4e48181207cc4f442b72d0c"
+    },
+    "monster/001_9.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "001_9",
+      "sprite_path_id": "-4550938298140142269",
+      "texture_name": "001",
+      "texture_path_id": "6814077710213907139",
+      "sprite_rect_unity": [
+        128.0,
+        128.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "39254c5933a35d62958a66e68bf9b24d18844e1c6ad97fcb20fbcc178c30701f"
+    },
+    "monster/274_0.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "274_0",
+      "sprite_path_id": "-7844678539275667621",
+      "texture_name": "274",
+      "texture_path_id": "-3877751102819214955",
+      "sprite_rect_unity": [
+        0.0,
+        384.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "93dd7e9b93b2327d73f559a7deee203972c4e769daf8822fa80d51d058444f29"
+    },
+    "monster/274_1.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "274_1",
+      "sprite_path_id": "5092983554243220773",
+      "texture_name": "274",
+      "texture_path_id": "-3877751102819214955",
+      "sprite_rect_unity": [
+        128.0,
+        384.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "0bd63d2b1830d821d3c6921fe974edf8ec52115040098f8d8d5fe8c6272443cd"
+    },
+    "monster/274_10.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "274_10",
+      "sprite_path_id": "5227794250541533712",
+      "texture_name": "274",
+      "texture_path_id": "-3877751102819214955",
+      "sprite_rect_unity": [
+        256.0,
+        128.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "87c43a3081347b1b3a8138f0abb21c51c1a9621b82f62372c8a04f2dc668da54"
+    },
+    "monster/274_11.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "274_11",
+      "sprite_path_id": "3019488290562177562",
+      "texture_name": "274",
+      "texture_path_id": "-3877751102819214955",
+      "sprite_rect_unity": [
+        384.0,
+        128.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "bcb60bd7f056d92a7d9e500a88772b4e8619bf107d4b62ce380fe136913d5900"
+    },
+    "monster/274_12.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "274_12",
+      "sprite_path_id": "-802486672794469692",
+      "texture_name": "274",
+      "texture_path_id": "-3877751102819214955",
+      "sprite_rect_unity": [
+        0.0,
+        0.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "accfa5879c83db74ab2feca2a899e0622fc441204fe02b19e27114b5dd88958f"
+    },
+    "monster/274_13.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "274_13",
+      "sprite_path_id": "8573731466504066493",
+      "texture_name": "274",
+      "texture_path_id": "-3877751102819214955",
+      "sprite_rect_unity": [
+        128.0,
+        0.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "1a99b75533fa814db79043ccab53835ed2ec2bd0dbcf95bfc4f9401410f10e67"
+    },
+    "monster/274_14.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "274_14",
+      "sprite_path_id": "-1510643673690193008",
+      "texture_name": "274",
+      "texture_path_id": "-3877751102819214955",
+      "sprite_rect_unity": [
+        256.0,
+        0.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "87c43a3081347b1b3a8138f0abb21c51c1a9621b82f62372c8a04f2dc668da54"
+    },
+    "monster/274_15.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "274_15",
+      "sprite_path_id": "2609534197739844957",
+      "texture_name": "274",
+      "texture_path_id": "-3877751102819214955",
+      "sprite_rect_unity": [
+        384.0,
+        0.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "bcb60bd7f056d92a7d9e500a88772b4e8619bf107d4b62ce380fe136913d5900"
+    },
+    "monster/274_2.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "274_2",
+      "sprite_path_id": "7691063408885541570",
+      "texture_name": "274",
+      "texture_path_id": "-3877751102819214955",
+      "sprite_rect_unity": [
+        256.0,
+        384.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "5108a51eb8063ba8aa8042c96a5f82cad3a15257fe65a52f6e19a46fa1811037"
+    },
+    "monster/274_3.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "274_3",
+      "sprite_path_id": "-4054534732332232847",
+      "texture_name": "274",
+      "texture_path_id": "-3877751102819214955",
+      "sprite_rect_unity": [
+        384.0,
+        384.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "9da588fd9596e7625d6b4aa36550e276a341859d5916573757fee113cf7a6010"
+    },
+    "monster/274_4.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "274_4",
+      "sprite_path_id": "-3323947014805567835",
+      "texture_name": "274",
+      "texture_path_id": "-3877751102819214955",
+      "sprite_rect_unity": [
+        0.0,
+        256.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "fdcebf4e45022f06718f8fa3f6305b6e299646110ca9e1e6172e95c69af1cb0d"
+    },
+    "monster/274_5.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "274_5",
+      "sprite_path_id": "7583440567816416416",
+      "texture_name": "274",
+      "texture_path_id": "-3877751102819214955",
+      "sprite_rect_unity": [
+        128.0,
+        256.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "8a516c339b59d7b045b2a93f78c1240ef4e3f2e08f31fa40bde39000f0505115"
+    },
+    "monster/274_6.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "274_6",
+      "sprite_path_id": "-9222433062979996271",
+      "texture_name": "274",
+      "texture_path_id": "-3877751102819214955",
+      "sprite_rect_unity": [
+        256.0,
+        256.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "73bf6a47ec555da966c713fa2d097897bfe2a846db6f34a708747277c1cae3d5"
+    },
+    "monster/274_7.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "274_7",
+      "sprite_path_id": "8278040112932206111",
+      "texture_name": "274",
+      "texture_path_id": "-3877751102819214955",
+      "sprite_rect_unity": [
+        384.0,
+        256.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "bcb60bd7f056d92a7d9e500a88772b4e8619bf107d4b62ce380fe136913d5900"
+    },
+    "monster/274_8.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "274_8",
+      "sprite_path_id": "9127384320149175176",
+      "texture_name": "274",
+      "texture_path_id": "-3877751102819214955",
+      "sprite_rect_unity": [
+        0.0,
+        128.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "accfa5879c83db74ab2feca2a899e0622fc441204fe02b19e27114b5dd88958f"
+    },
+    "monster/274_9.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "274_9",
+      "sprite_path_id": "-1593272087807542070",
+      "texture_name": "274",
+      "texture_path_id": "-3877751102819214955",
+      "sprite_rect_unity": [
+        128.0,
+        128.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "1f7673cd2193fac25166ec3052b808a679d99dd64ce7130c077c8a85f7c3edaa"
+    },
+    "monster/400_0.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "400_0",
+      "sprite_path_id": "-634023757029864514",
+      "texture_name": "400",
+      "texture_path_id": "-9173985262025517433",
+      "sprite_rect_unity": [
+        0.0,
+        384.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "2a7a13a1f722ffd6b4e9f6593fb867163d1e7c330f7403bfbfc4532d37698dd3"
+    },
+    "monster/400_1.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "400_1",
+      "sprite_path_id": "-5512603259023737082",
+      "texture_name": "400",
+      "texture_path_id": "-9173985262025517433",
+      "sprite_rect_unity": [
+        128.0,
+        384.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "cf274822accba703dc9dfbe57c74bb529cda0eb4c351be715738d505b2020edd"
+    },
+    "monster/400_10.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "400_10",
+      "sprite_path_id": "7438297664515608979",
+      "texture_name": "400",
+      "texture_path_id": "-9173985262025517433",
+      "sprite_rect_unity": [
+        256.0,
+        128.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "c579d5235dd528bc66f4af2a0d2f0ac6e7af4d61d36fa4b867815655f3b6855f"
+    },
+    "monster/400_11.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "400_11",
+      "sprite_path_id": "1826696746022315511",
+      "texture_name": "400",
+      "texture_path_id": "-9173985262025517433",
+      "sprite_rect_unity": [
+        384.0,
+        128.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "66a644665cc266974e8319a740445cb34c9a8b54e7f8c76e9957dc904ca37d7f"
+    },
+    "monster/400_12.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "400_12",
+      "sprite_path_id": "-7474153502488440444",
+      "texture_name": "400",
+      "texture_path_id": "-9173985262025517433",
+      "sprite_rect_unity": [
+        0.0,
+        0.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "1136032a6ce7577aab01bc6a7580e4da43ebaf43c761826f79d5cf382231b2df"
+    },
+    "monster/400_13.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "400_13",
+      "sprite_path_id": "2352516531631574920",
+      "texture_name": "400",
+      "texture_path_id": "-9173985262025517433",
+      "sprite_rect_unity": [
+        128.0,
+        0.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "61b3ef4f3f2f3c5b9853d0fca9f74fd45b775d15e15f3a88afa45020a055a20a"
+    },
+    "monster/400_14.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "400_14",
+      "sprite_path_id": "-6538614047087508979",
+      "texture_name": "400",
+      "texture_path_id": "-9173985262025517433",
+      "sprite_rect_unity": [
+        256.0,
+        0.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "a072c500fb2ac4c9fb5645a233cd5a10aa612e65aa277b7bf77bfd5f07a35c03"
+    },
+    "monster/400_15.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "400_15",
+      "sprite_path_id": "-5944110909337788950",
+      "texture_name": "400",
+      "texture_path_id": "-9173985262025517433",
+      "sprite_rect_unity": [
+        384.0,
+        0.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "5ea7f0f6bc0fa321a378ab505c70c09577c446efe502c574027be18ffed8b4e8"
+    },
+    "monster/400_2.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "400_2",
+      "sprite_path_id": "1715228600696609328",
+      "texture_name": "400",
+      "texture_path_id": "-9173985262025517433",
+      "sprite_rect_unity": [
+        256.0,
+        384.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "041f2d1ee4004ca60154c215f25bc18637ec23cec08d750560c225ae20196851"
+    },
+    "monster/400_3.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "400_3",
+      "sprite_path_id": "7703706464549021559",
+      "texture_name": "400",
+      "texture_path_id": "-9173985262025517433",
+      "sprite_rect_unity": [
+        384.0,
+        384.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "24144410fe5b02b7b18502c4ad8bb0df2713bf552ab396e3ba132fac9aa760f8"
+    },
+    "monster/400_4.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "400_4",
+      "sprite_path_id": "7711901605359518449",
+      "texture_name": "400",
+      "texture_path_id": "-9173985262025517433",
+      "sprite_rect_unity": [
+        0.0,
+        256.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "38df8cd152d4976e13cc9f13f0b32c1479945c367b9448ce722e9f65d44e4ed2"
+    },
+    "monster/400_5.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "400_5",
+      "sprite_path_id": "-6172876056343534505",
+      "texture_name": "400",
+      "texture_path_id": "-9173985262025517433",
+      "sprite_rect_unity": [
+        128.0,
+        256.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "e95d935012951548f6ba31f44ee5056891cc81b7915341c496bb3f5c0ed5382c"
+    },
+    "monster/400_6.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "400_6",
+      "sprite_path_id": "2168218046865790337",
+      "texture_name": "400",
+      "texture_path_id": "-9173985262025517433",
+      "sprite_rect_unity": [
+        256.0,
+        256.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "917e6636d01b141220da79c511fa3b4a2031ba04d0ddef95b47e7dd032df101d"
+    },
+    "monster/400_7.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "400_7",
+      "sprite_path_id": "-6810704461228074469",
+      "texture_name": "400",
+      "texture_path_id": "-9173985262025517433",
+      "sprite_rect_unity": [
+        384.0,
+        256.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "66498d008f3eb601ac99379ddef256eb4d671f12afeb63ee5152c0f43f3082a1"
+    },
+    "monster/400_8.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "400_8",
+      "sprite_path_id": "-6887085465670025267",
+      "texture_name": "400",
+      "texture_path_id": "-9173985262025517433",
+      "sprite_rect_unity": [
+        0.0,
+        128.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "0a26a29400b623ad8eeabb63941fb24cee5522bc65d93f0848685ee65fc38a9b"
+    },
+    "monster/400_9.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "400_9",
+      "sprite_path_id": "6371857153334795366",
+      "texture_name": "400",
+      "texture_path_id": "-9173985262025517433",
+      "sprite_rect_unity": [
+        128.0,
+        128.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "a6e176bc8d5748699360313ba10514955c8f23a0ed9bc47c09ba9e17760c71b0"
+    },
+    "monster/4031_0.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "4031_0",
+      "sprite_path_id": "2099958154001038446",
+      "texture_name": "4031",
+      "texture_path_id": "-3718520873664106655",
+      "sprite_rect_unity": [
+        0.0,
+        384.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "23381c70ef4c57f0951ca72833befa8a22be5d741ecc640a17a89de91865a0ff"
+    },
+    "monster/4031_1.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "4031_1",
+      "sprite_path_id": "3817144613954633896",
+      "texture_name": "4031",
+      "texture_path_id": "-3718520873664106655",
+      "sprite_rect_unity": [
+        128.0,
+        384.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "23381c70ef4c57f0951ca72833befa8a22be5d741ecc640a17a89de91865a0ff"
+    },
+    "monster/4031_10.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "4031_10",
+      "sprite_path_id": "-9159015980765354284",
+      "texture_name": "4031",
+      "texture_path_id": "-3718520873664106655",
+      "sprite_rect_unity": [
+        256.0,
+        128.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "1ecb1862edffec967273c8648a33cf90b511b50e8b08df068284f3a0f8f5f418"
+    },
+    "monster/4031_11.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "4031_11",
+      "sprite_path_id": "-5891690548628462723",
+      "texture_name": "4031",
+      "texture_path_id": "-3718520873664106655",
+      "sprite_rect_unity": [
+        384.0,
+        128.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "946bc7d8d2348f9c6648ce8531aea6174d1246789b5ccacf62bb700b316eae46"
+    },
+    "monster/4031_12.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "4031_12",
+      "sprite_path_id": "-3236330374963245650",
+      "texture_name": "4031",
+      "texture_path_id": "-3718520873664106655",
+      "sprite_rect_unity": [
+        0.0,
+        0.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "946bc7d8d2348f9c6648ce8531aea6174d1246789b5ccacf62bb700b316eae46"
+    },
+    "monster/4031_13.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "4031_13",
+      "sprite_path_id": "-5724436398857618108",
+      "texture_name": "4031",
+      "texture_path_id": "-3718520873664106655",
+      "sprite_rect_unity": [
+        128.0,
+        0.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "946bc7d8d2348f9c6648ce8531aea6174d1246789b5ccacf62bb700b316eae46"
+    },
+    "monster/4031_14.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "4031_14",
+      "sprite_path_id": "-9223105673141461906",
+      "texture_name": "4031",
+      "texture_path_id": "-3718520873664106655",
+      "sprite_rect_unity": [
+        256.0,
+        0.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "1ecb1862edffec967273c8648a33cf90b511b50e8b08df068284f3a0f8f5f418"
+    },
+    "monster/4031_15.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "4031_15",
+      "sprite_path_id": "5471508720014081791",
+      "texture_name": "4031",
+      "texture_path_id": "-3718520873664106655",
+      "sprite_rect_unity": [
+        384.0,
+        0.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "946bc7d8d2348f9c6648ce8531aea6174d1246789b5ccacf62bb700b316eae46"
+    },
+    "monster/4031_2.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "4031_2",
+      "sprite_path_id": "-2211055334371525492",
+      "texture_name": "4031",
+      "texture_path_id": "-3718520873664106655",
+      "sprite_rect_unity": [
+        256.0,
+        384.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "751c4e245f9f1f13aa044b7a6379cd3636f0cac6cc2dd6d093ac4ae459f8f408"
+    },
+    "monster/4031_3.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "4031_3",
+      "sprite_path_id": "-5436343222801485745",
+      "texture_name": "4031",
+      "texture_path_id": "-3718520873664106655",
+      "sprite_rect_unity": [
+        384.0,
+        384.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "23381c70ef4c57f0951ca72833befa8a22be5d741ecc640a17a89de91865a0ff"
+    },
+    "monster/4031_4.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "4031_4",
+      "sprite_path_id": "-7786173346701663778",
+      "texture_name": "4031",
+      "texture_path_id": "-3718520873664106655",
+      "sprite_rect_unity": [
+        0.0,
+        256.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "946bc7d8d2348f9c6648ce8531aea6174d1246789b5ccacf62bb700b316eae46"
+    },
+    "monster/4031_5.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "4031_5",
+      "sprite_path_id": "-3333934830757545290",
+      "texture_name": "4031",
+      "texture_path_id": "-3718520873664106655",
+      "sprite_rect_unity": [
+        128.0,
+        256.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "946bc7d8d2348f9c6648ce8531aea6174d1246789b5ccacf62bb700b316eae46"
+    },
+    "monster/4031_6.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "4031_6",
+      "sprite_path_id": "-88864661015540577",
+      "texture_name": "4031",
+      "texture_path_id": "-3718520873664106655",
+      "sprite_rect_unity": [
+        256.0,
+        256.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "1ecb1862edffec967273c8648a33cf90b511b50e8b08df068284f3a0f8f5f418"
+    },
+    "monster/4031_7.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "4031_7",
+      "sprite_path_id": "2997868224834456745",
+      "texture_name": "4031",
+      "texture_path_id": "-3718520873664106655",
+      "sprite_rect_unity": [
+        384.0,
+        256.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "946bc7d8d2348f9c6648ce8531aea6174d1246789b5ccacf62bb700b316eae46"
+    },
+    "monster/4031_8.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "4031_8",
+      "sprite_path_id": "-3432143280356870912",
+      "texture_name": "4031",
+      "texture_path_id": "-3718520873664106655",
+      "sprite_rect_unity": [
+        0.0,
+        128.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "946bc7d8d2348f9c6648ce8531aea6174d1246789b5ccacf62bb700b316eae46"
+    },
+    "monster/4031_9.png": {
+      "original_pack": "monster.apk",
+      "sprite_name": "4031_9",
+      "sprite_path_id": "1797815876885142288",
+      "texture_name": "4031",
+      "texture_path_id": "-3718520873664106655",
+      "sprite_rect_unity": [
+        128.0,
+        128.0,
+        128.0,
+        128.0
+      ],
+      "sha256_png": "946bc7d8d2348f9c6648ce8531aea6174d1246789b5ccacf62bb700b316eae46"
+    },
+    "map/Field.png": {
+      "original_pack": "map.apk",
+      "sprite_name": "Field",
+      "sprite_path_id": "1431984372098774960",
+      "texture_name": "Field",
+      "texture_path_id": "-1359510035645504918",
+      "sprite_rect_unity": [
+        0.0,
+        0.0,
+        512.0,
+        256.0
+      ],
+      "sha256_png": "9f553123303e8062dadc92e8f183aefc66bcd996315bfc99b77f12e7756e8f98"
+    },
+    "map/Fire_Dragon_Temple.png": {
+      "original_pack": "map.apk",
+      "sprite_name": "Fire Dragon Temple",
+      "sprite_path_id": "-9196522627085679066",
+      "texture_name": "Fire Dragon Temple",
+      "texture_path_id": "8436875369853877169",
+      "sprite_rect_unity": [
+        0.0,
+        0.0,
+        512.0,
+        256.0
+      ],
+      "sha256_png": "c48fa244d1ec0c433f2239c98919d308d482f288682c51dd558d247506d2969c"
+    },
+    "map/Forest.png": {
+      "original_pack": "map.apk",
+      "sprite_name": "Forest",
+      "sprite_path_id": "6392035816661668977",
+      "texture_name": "Forest",
+      "texture_path_id": "6623974059585750234",
+      "sprite_rect_unity": [
+        0.0,
+        0.0,
+        512.0,
+        256.0
+      ],
+      "sha256_png": "126cbe6f33ff6334749b4bf7b39c9ecb1ddb1bf2c9b6b0809834323e43521288"
+    },
+    "map/Frozen_Mist_Forest.png": {
+      "original_pack": "map.apk",
+      "sprite_name": "Frozen Mist Forest",
+      "sprite_path_id": "-9163578490387515649",
+      "texture_name": "Frozen Mist Forest",
+      "texture_path_id": "3822865183698066131",
+      "sprite_rect_unity": [
+        0.0,
+        0.0,
+        512.0,
+        256.0
+      ],
+      "sha256_png": "f0ea67b7fcbbb9e98a308a110d71a3ee1d800cd040b76fa585d87442c1030011"
+    },
+    "map/Snow.png": {
+      "original_pack": "map.apk",
+      "sprite_name": "Snow",
+      "sprite_path_id": "-9147204132536999413",
+      "texture_name": "Snow",
+      "texture_path_id": "-829738430884948277",
+      "sprite_rect_unity": [
+        0.0,
+        0.0,
+        512.0,
+        256.0
+      ],
+      "sha256_png": "c90e5aadace50099d970115c64a3bbab7cc1e1d31f33339a1bd669d93753621b"
+    }
+  }
+}

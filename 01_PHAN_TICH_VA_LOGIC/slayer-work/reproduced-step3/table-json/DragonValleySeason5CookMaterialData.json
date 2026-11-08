@@ -1,0 +1,191 @@
+[
+  {
+    "Id": 6013,
+    "CurrencyType": 6013,
+    "Grade": 0,
+    "AmountPerClick": 100,
+    "FailedCookScore": 300,
+    "DragonValleySpecialCookMaterialBuffType": 2,
+    "BuffValue": 1.0
+  },
+  {
+    "Id": 6003,
+    "CurrencyType": 6003,
+    "Grade": 0,
+    "AmountPerClick": 10,
+    "FailedCookScore": 300,
+    "DragonValleySpecialCookMaterialBuffType": 1,
+    "BuffValue": 1.0
+  },
+  {
+    "Id": 6016,
+    "CurrencyType": 6016,
+    "Grade": 0,
+    "AmountPerClick": 20,
+    "FailedCookScore": 300,
+    "DragonValleySpecialCookMaterialBuffType": 3,
+    "BuffValue": 1.0
+  },
+  {
+    "Id": 6015,
+    "CurrencyType": 6015,
+    "Grade": 0,
+    "AmountPerClick": 50,
+    "FailedCookScore": 300,
+    "DragonValleySpecialCookMaterialBuffType": 4,
+    "BuffValue": 1.0
+  },
+  {
+    "Id": 6005,
+    "CurrencyType": 6005,
+    "Grade": 1,
+    "AmountPerClick": 1,
+    "FailedCookScore": 300,
+    "DragonValleySpecialCookMaterialBuffType": 5,
+    "BuffValue": 1.0
+  },
+  {
+    "Id": 6008,
+    "CurrencyType": 6008,
+    "Grade": 3,
+    "AmountPerClick": 10,
+    "FailedCookScore": 500,
+    "DragonValleySpecialCookMaterialBuffType": 2,
+    "BuffValue": 2.0
+  },
+  {
+    "Id": 6020,
+    "CurrencyType": 6020,
+    "Grade": 3,
+    "AmountPerClick": 10,
+    "FailedCookScore": 500,
+    "DragonValleySpecialCookMaterialBuffType": 2,
+    "BuffValue": 2.0
+  },
+  {
+    "Id": 6019,
+    "CurrencyType": 6019,
+    "Grade": 3,
+    "AmountPerClick": 10,
+    "FailedCookScore": 500,
+    "DragonValleySpecialCookMaterialBuffType": 1,
+    "BuffValue": 2.0
+  },
+  {
+    "Id": 6017,
+    "CurrencyType": 6017,
+    "Grade": 3,
+    "AmountPerClick": 10,
+    "FailedCookScore": 500,
+    "DragonValleySpecialCookMaterialBuffType": 1,
+    "BuffValue": 2.0
+  },
+  {
+    "Id": 6022,
+    "CurrencyType": 6022,
+    "Grade": 3,
+    "AmountPerClick": 10,
+    "FailedCookScore": 500,
+    "DragonValleySpecialCookMaterialBuffType": 3,
+    "BuffValue": 2.0
+  },
+  {
+    "Id": 6018,
+    "CurrencyType": 6018,
+    "Grade": 3,
+    "AmountPerClick": 10,
+    "FailedCookScore": 500,
+    "DragonValleySpecialCookMaterialBuffType": 3,
+    "BuffValue": 2.0
+  },
+  {
+    "Id": 6021,
+    "CurrencyType": 6021,
+    "Grade": 3,
+    "AmountPerClick": 10,
+    "FailedCookScore": 500,
+    "DragonValleySpecialCookMaterialBuffType": 4,
+    "BuffValue": 2.0
+  },
+  {
+    "Id": 6012,
+    "CurrencyType": 6012,
+    "Grade": 3,
+    "AmountPerClick": 10,
+    "FailedCookScore": 500,
+    "DragonValleySpecialCookMaterialBuffType": 4,
+    "BuffValue": 2.0
+  },
+  {
+    "Id": 6023,
+    "CurrencyType": 6023,
+    "Grade": 5,
+    "AmountPerClick": 1,
+    "FailedCookScore": 1000,
+    "DragonValleySpecialCookMaterialBuffType": 6,
+    "BuffValue": 1.0
+  },
+  {
+    "Id": 6024,
+    "CurrencyType": 6024,
+    "Grade": 5,
+    "AmountPerClick": 1,
+    "FailedCookScore": 1000,
+    "DragonValleySpecialCookMaterialBuffType": 7,
+    "BuffValue": 1.0
+  },
+  {
+    "Id": 6025,
+    "CurrencyType": 6025,
+    "Grade": 5,
+    "AmountPerClick": 1,
+    "FailedCookScore": 1000,
+    "DragonValleySpecialCookMaterialBuffType": 8,
+    "BuffValue": 1.0
+  },
+  {
+    "Id": 6026,
+    "CurrencyType": 6026,
+    "Grade": 5,
+    "AmountPerClick": 1,
+    "FailedCookScore": 1000,
+    "DragonValleySpecialCookMaterialBuffType": 9,
+    "BuffValue": 1.0
+  },
+  {
+    "Id": 6027,
+    "CurrencyType": 6027,
+    "Grade": 4,
+    "AmountPerClick": 1,
+    "FailedCookScore": 1000,
+    "DragonValleySpecialCookMaterialBuffType": 10,
+    "BuffValue": 1.0
+  },
+  {
+    "Id": 6028,
+    "CurrencyType": 6028,
+    "Grade": 6,
+    "AmountPerClick": 1,
+    "FailedCookScore": 2000,
+    "DragonValleySpecialCookMaterialBuffType": 11,
+    "BuffValue": 1.0
+  },
+  {
+    "Id": 6029,
+    "CurrencyType": 6029,
+    "Grade": 6,
+    "AmountPerClick": 1,
+    "FailedCookScore": 2000,
+    "DragonValleySpecialCookMaterialBuffType": 11,
+    "BuffValue": 1.0
+  },
+  {
+    "Id": 6030,
+    "CurrencyType": 6030,
+    "Grade": 6,
+    "AmountPerClick": 1,
+    "FailedCookScore": 2000,
+    "DragonValleySpecialCookMaterialBuffType": 11,
+    "BuffValue": 1.0
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "cases": 630,
+  "snapshots": 15,
+  "methods": 16,
+  "distinct_instructions_visited": 1098,
+  "instruction_steps": 37149,
+  "scope": "Getter method bodies with dictionary enumeration order, wish values, decrypted wrappers, enum boxing and initialized runtime modeled explicitly; not full collection/Unity/Android/IFix validation."
+}

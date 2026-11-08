@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x600763b",
+    "name": "MoveNext",
+    "declaring_type_index": "2956",
+    "declaring_type_full_name": "StatManager+<LevelUp_coroutine>d__55",
+    "native_va": "0x4f22448",
+    "return_type_index": "59073",
+    "return_type_name": "bool",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "481",
+    "iflags": "0",
+    "slot": "6",
+    "metadata_record_offset": "0x964eec",
+    "end_va": "0x4f2258c",
+    "asm_file": "StatManager__LevelUp_coroutine_d__55__MoveNext_0x600763b.asm"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x600b153",
+    "name": ".ctor",
+    "declaring_type_index": "4929",
+    "declaring_type_full_name": "Body",
+    "native_va": "0x5347b18",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "14318",
+    "parameter_count": "1",
+    "flags": "6278",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x9db1ec",
+    "end_va": "0x5347c3c",
+    "asm_file": "Body__.ctor_0x600b153.asm"
+  }
+]

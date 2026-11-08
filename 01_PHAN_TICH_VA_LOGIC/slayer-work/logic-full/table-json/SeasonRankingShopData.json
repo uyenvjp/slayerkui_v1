@@ -1,0 +1,1009 @@
+[
+  {
+    "Id": 1,
+    "Slot": 1,
+    "CurrencyType": 28,
+    "CurrencyIndex": 2,
+    "Name": "GOODS_NAME_28",
+    "Des": "GOODS_NAME_28",
+    "CostCurrency": 27,
+    "Price": 500,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 0,
+    "MaxBuyCount": 1,
+    "OrderNumber": 1,
+    "MaxSetCount": 1,
+    "Rate": 10000
+  },
+  {
+    "Id": 2,
+    "Slot": 2,
+    "CurrencyType": 7,
+    "CurrencyIndex": 0,
+    "Name": "GOODS_NAME_002",
+    "Des": "GOODS_NAME_002",
+    "CostCurrency": 27,
+    "Price": 400,
+    "ProductAmount": [
+      200
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 2,
+    "MaxSetCount": 1,
+    "Rate": 10000
+  },
+  {
+    "Id": 3,
+    "Slot": 3,
+    "CurrencyType": 10,
+    "CurrencyIndex": 0,
+    "Name": "GOODS_NAME_010",
+    "Des": "GOODS_NAME_010",
+    "CostCurrency": 27,
+    "Price": 200,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 3,
+    "MaxSetCount": 1,
+    "Rate": 6000
+  },
+  {
+    "Id": 4,
+    "Slot": 3,
+    "CurrencyType": 19,
+    "CurrencyIndex": 0,
+    "Name": "GOODS_NAME_024",
+    "Des": "GOODS_DES_024",
+    "CostCurrency": 27,
+    "Price": 1000,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 3,
+    "MaxSetCount": 1,
+    "Rate": 2000
+  },
+  {
+    "Id": 5,
+    "Slot": 3,
+    "CurrencyType": 18,
+    "CurrencyIndex": 0,
+    "Name": "GOODS_NAME_025",
+    "Des": "GOODS_DES_025",
+    "CostCurrency": 27,
+    "Price": 1000,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 3,
+    "MaxSetCount": 1,
+    "Rate": 2000
+  },
+  {
+    "Id": 6,
+    "Slot": 4,
+    "CurrencyType": 5,
+    "CurrencyIndex": 0,
+    "Name": "GOODS_NAME_006",
+    "Des": "GOODS_NAME_006",
+    "CostCurrency": 27,
+    "Price": 750,
+    "ProductAmount": [
+      3000
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 4,
+    "MaxSetCount": 1,
+    "Rate": 2500
+  },
+  {
+    "Id": 7,
+    "Slot": 4,
+    "CurrencyType": 11,
+    "CurrencyIndex": 0,
+    "Name": "GOODS_NAME_007",
+    "Des": "GOODS_NAME_007",
+    "CostCurrency": 27,
+    "Price": 750,
+    "ProductAmount": [
+      3000
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 4,
+    "MaxSetCount": 1,
+    "Rate": 2500
+  },
+  {
+    "Id": 8,
+    "Slot": 4,
+    "CurrencyType": 12,
+    "CurrencyIndex": 0,
+    "Name": "GOODS_NAME_004",
+    "Des": "GOODS_NAME_004",
+    "CostCurrency": 27,
+    "Price": 750,
+    "ProductAmount": [
+      3000
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 4,
+    "MaxSetCount": 1,
+    "Rate": 2500
+  },
+  {
+    "Id": 9,
+    "Slot": 4,
+    "CurrencyType": 3,
+    "CurrencyIndex": 0,
+    "Name": "GOODS_NAME_005",
+    "Des": "GOODS_NAME_005",
+    "CostCurrency": 27,
+    "Price": 750,
+    "ProductAmount": [
+      3000
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 4,
+    "MaxSetCount": 1,
+    "Rate": 2500
+  },
+  {
+    "Id": 10,
+    "Slot": 5,
+    "CurrencyType": 102,
+    "CurrencyIndex": 1,
+    "Name": "SKILL_NAME_001",
+    "Des": "SKILL_NAME_001",
+    "CostCurrency": 27,
+    "Price": 1000,
+    "ProductAmount": [
+      20
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 5,
+    "MaxSetCount": 1,
+    "Rate": 1428
+  },
+  {
+    "Id": 11,
+    "Slot": 5,
+    "CurrencyType": 102,
+    "CurrencyIndex": 8,
+    "Name": "SKILL_NAME_008",
+    "Des": "SKILL_NAME_008",
+    "CostCurrency": 27,
+    "Price": 1000,
+    "ProductAmount": [
+      20
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 5,
+    "MaxSetCount": 1,
+    "Rate": 1428
+  },
+  {
+    "Id": 12,
+    "Slot": 5,
+    "CurrencyType": 102,
+    "CurrencyIndex": 12,
+    "Name": "SKILL_NAME_012",
+    "Des": "SKILL_NAME_012",
+    "CostCurrency": 27,
+    "Price": 1000,
+    "ProductAmount": [
+      20
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 5,
+    "MaxSetCount": 1,
+    "Rate": 1428
+  },
+  {
+    "Id": 13,
+    "Slot": 5,
+    "CurrencyType": 102,
+    "CurrencyIndex": 16,
+    "Name": "SKILL_NAME_016",
+    "Des": "SKILL_NAME_016",
+    "CostCurrency": 27,
+    "Price": 1000,
+    "ProductAmount": [
+      20
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 5,
+    "MaxSetCount": 1,
+    "Rate": 1428
+  },
+  {
+    "Id": 14,
+    "Slot": 5,
+    "CurrencyType": 102,
+    "CurrencyIndex": 23,
+    "Name": "SKILL_NAME_023",
+    "Des": "SKILL_NAME_023",
+    "CostCurrency": 27,
+    "Price": 1000,
+    "ProductAmount": [
+      20
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 5,
+    "MaxSetCount": 1,
+    "Rate": 1428
+  },
+  {
+    "Id": 15,
+    "Slot": 5,
+    "CurrencyType": 102,
+    "CurrencyIndex": 34,
+    "Name": "SKILL_NAME_034",
+    "Des": "SKILL_NAME_034",
+    "CostCurrency": 27,
+    "Price": 1000,
+    "ProductAmount": [
+      20
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 5,
+    "MaxSetCount": 1,
+    "Rate": 1428
+  },
+  {
+    "Id": 16,
+    "Slot": 5,
+    "CurrencyType": 102,
+    "CurrencyIndex": 43,
+    "Name": "SKILL_NAME_043",
+    "Des": "SKILL_NAME_043",
+    "CostCurrency": 27,
+    "Price": 1000,
+    "ProductAmount": [
+      20
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 5,
+    "MaxSetCount": 1,
+    "Rate": 1428
+  },
+  {
+    "Id": 17,
+    "Slot": 6,
+    "CurrencyType": 102,
+    "CurrencyIndex": 4,
+    "Name": "SKILL_NAME_004",
+    "Des": "SKILL_NAME_004",
+    "CostCurrency": 27,
+    "Price": 1600,
+    "ProductAmount": [
+      20
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 6,
+    "MaxSetCount": 1,
+    "Rate": 1666
+  },
+  {
+    "Id": 18,
+    "Slot": 6,
+    "CurrencyType": 102,
+    "CurrencyIndex": 13,
+    "Name": "SKILL_NAME_013",
+    "Des": "SKILL_DES_BASIC_013",
+    "CostCurrency": 27,
+    "Price": 1600,
+    "ProductAmount": [
+      20
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 6,
+    "MaxSetCount": 1,
+    "Rate": 1666
+  },
+  {
+    "Id": 19,
+    "Slot": 6,
+    "CurrencyType": 102,
+    "CurrencyIndex": 26,
+    "Name": "SKILL_NAME_026",
+    "Des": "SKILL_DES_BASIC_026",
+    "CostCurrency": 27,
+    "Price": 1600,
+    "ProductAmount": [
+      20
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 6,
+    "MaxSetCount": 1,
+    "Rate": 1666
+  },
+  {
+    "Id": 20,
+    "Slot": 6,
+    "CurrencyType": 102,
+    "CurrencyIndex": 32,
+    "Name": "SKILL_NAME_032",
+    "Des": "SKILL_DES_BASIC_032",
+    "CostCurrency": 27,
+    "Price": 1600,
+    "ProductAmount": [
+      20
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 6,
+    "MaxSetCount": 1,
+    "Rate": 1666
+  },
+  {
+    "Id": 21,
+    "Slot": 6,
+    "CurrencyType": 102,
+    "CurrencyIndex": 35,
+    "Name": "SKILL_NAME_035",
+    "Des": "SKILL_DES_BASIC_035",
+    "CostCurrency": 27,
+    "Price": 1600,
+    "ProductAmount": [
+      20
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 6,
+    "MaxSetCount": 1,
+    "Rate": 1666
+  },
+  {
+    "Id": 22,
+    "Slot": 6,
+    "CurrencyType": 102,
+    "CurrencyIndex": 37,
+    "Name": "SKILL_NAME_037",
+    "Des": "SKILL_DES_BASIC_037",
+    "CostCurrency": 27,
+    "Price": 1600,
+    "ProductAmount": [
+      20
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 6,
+    "MaxSetCount": 1,
+    "Rate": 1666
+  },
+  {
+    "Id": 23,
+    "Slot": 7,
+    "CurrencyType": 102,
+    "CurrencyIndex": 2,
+    "Name": "SKILL_NAME_002",
+    "Des": "SKILL_NAME_009",
+    "CostCurrency": 27,
+    "Price": 2100,
+    "ProductAmount": [
+      15
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 7,
+    "MaxSetCount": 1,
+    "Rate": 1000
+  },
+  {
+    "Id": 24,
+    "Slot": 7,
+    "CurrencyType": 102,
+    "CurrencyIndex": 9,
+    "Name": "SKILL_NAME_009",
+    "Des": "SKILL_NAME_015",
+    "CostCurrency": 27,
+    "Price": 2100,
+    "ProductAmount": [
+      15
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 7,
+    "MaxSetCount": 1,
+    "Rate": 1000
+  },
+  {
+    "Id": 25,
+    "Slot": 7,
+    "CurrencyType": 102,
+    "CurrencyIndex": 15,
+    "Name": "SKILL_NAME_015",
+    "Des": "SKILL_NAME_020",
+    "CostCurrency": 27,
+    "Price": 2100,
+    "ProductAmount": [
+      15
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 7,
+    "MaxSetCount": 1,
+    "Rate": 1000
+  },
+  {
+    "Id": 26,
+    "Slot": 7,
+    "CurrencyType": 102,
+    "CurrencyIndex": 20,
+    "Name": "SKILL_NAME_020",
+    "Des": "SKILL_NAME_024",
+    "CostCurrency": 27,
+    "Price": 2100,
+    "ProductAmount": [
+      15
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 7,
+    "MaxSetCount": 1,
+    "Rate": 1000
+  },
+  {
+    "Id": 27,
+    "Slot": 7,
+    "CurrencyType": 102,
+    "CurrencyIndex": 24,
+    "Name": "SKILL_NAME_024",
+    "Des": "SKILL_NAME_030",
+    "CostCurrency": 27,
+    "Price": 2100,
+    "ProductAmount": [
+      15
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 7,
+    "MaxSetCount": 1,
+    "Rate": 1000
+  },
+  {
+    "Id": 28,
+    "Slot": 7,
+    "CurrencyType": 102,
+    "CurrencyIndex": 30,
+    "Name": "SKILL_NAME_030",
+    "Des": "SKILL_NAME_042",
+    "CostCurrency": 27,
+    "Price": 2100,
+    "ProductAmount": [
+      15
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 7,
+    "MaxSetCount": 1,
+    "Rate": 1000
+  },
+  {
+    "Id": 29,
+    "Slot": 7,
+    "CurrencyType": 102,
+    "CurrencyIndex": 42,
+    "Name": "SKILL_NAME_042",
+    "Des": "SKILL_NAME_042",
+    "CostCurrency": 27,
+    "Price": 2100,
+    "ProductAmount": [
+      15
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 7,
+    "MaxSetCount": 1,
+    "Rate": 1000
+  },
+  {
+    "Id": 30,
+    "Slot": 7,
+    "CurrencyType": 102,
+    "CurrencyIndex": 6,
+    "Name": "SKILL_NAME_006",
+    "Des": "SKILL_NAME_006",
+    "CostCurrency": 27,
+    "Price": 4000,
+    "ProductAmount": [
+      5
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 7,
+    "MaxSetCount": 1,
+    "Rate": 428
+  },
+  {
+    "Id": 31,
+    "Slot": 7,
+    "CurrencyType": 102,
+    "CurrencyIndex": 21,
+    "Name": "SKILL_NAME_021",
+    "Des": "SKILL_NAME_021",
+    "CostCurrency": 27,
+    "Price": 4000,
+    "ProductAmount": [
+      5
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 7,
+    "MaxSetCount": 1,
+    "Rate": 428
+  },
+  {
+    "Id": 32,
+    "Slot": 7,
+    "CurrencyType": 102,
+    "CurrencyIndex": 22,
+    "Name": "SKILL_NAME_022",
+    "Des": "SKILL_NAME_022",
+    "CostCurrency": 27,
+    "Price": 4000,
+    "ProductAmount": [
+      5
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 7,
+    "MaxSetCount": 1,
+    "Rate": 428
+  },
+  {
+    "Id": 33,
+    "Slot": 7,
+    "CurrencyType": 102,
+    "CurrencyIndex": 28,
+    "Name": "SKILL_NAME_028",
+    "Des": "SKILL_NAME_028",
+    "CostCurrency": 27,
+    "Price": 4000,
+    "ProductAmount": [
+      5
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 7,
+    "MaxSetCount": 1,
+    "Rate": 428
+  },
+  {
+    "Id": 34,
+    "Slot": 7,
+    "CurrencyType": 102,
+    "CurrencyIndex": 31,
+    "Name": "SKILL_NAME_031",
+    "Des": "SKILL_NAME_031",
+    "CostCurrency": 27,
+    "Price": 4000,
+    "ProductAmount": [
+      5
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 7,
+    "MaxSetCount": 1,
+    "Rate": 428
+  },
+  {
+    "Id": 35,
+    "Slot": 7,
+    "CurrencyType": 102,
+    "CurrencyIndex": 41,
+    "Name": "SKILL_NAME_041",
+    "Des": "SKILL_NAME_041",
+    "CostCurrency": 27,
+    "Price": 4000,
+    "ProductAmount": [
+      5
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 7,
+    "MaxSetCount": 1,
+    "Rate": 428
+  },
+  {
+    "Id": 36,
+    "Slot": 7,
+    "CurrencyType": 102,
+    "CurrencyIndex": 44,
+    "Name": "SKILL_NAME_044",
+    "Des": "SKILL_NAME_044",
+    "CostCurrency": 27,
+    "Price": 4000,
+    "ProductAmount": [
+      5
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 7,
+    "MaxSetCount": 1,
+    "Rate": 428
+  },
+  {
+    "Id": 37,
+    "Slot": 8,
+    "CurrencyType": 102,
+    "CurrencyIndex": 3,
+    "Name": "SKILL_NAME_003",
+    "Des": "SKILL_NAME_003",
+    "CostCurrency": 27,
+    "Price": 6000,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 8,
+    "MaxSetCount": 1,
+    "Rate": 625
+  },
+  {
+    "Id": 38,
+    "Slot": 8,
+    "CurrencyType": 102,
+    "CurrencyIndex": 5,
+    "Name": "SKILL_NAME_005",
+    "Des": "SKILL_NAME_005",
+    "CostCurrency": 27,
+    "Price": 6000,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 8,
+    "MaxSetCount": 1,
+    "Rate": 625
+  },
+  {
+    "Id": 39,
+    "Slot": 8,
+    "CurrencyType": 102,
+    "CurrencyIndex": 10,
+    "Name": "SKILL_NAME_010",
+    "Des": "SKILL_NAME_010",
+    "CostCurrency": 27,
+    "Price": 6000,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 8,
+    "MaxSetCount": 1,
+    "Rate": 625
+  },
+  {
+    "Id": 40,
+    "Slot": 8,
+    "CurrencyType": 102,
+    "CurrencyIndex": 14,
+    "Name": "SKILL_NAME_014",
+    "Des": "SKILL_NAME_014",
+    "CostCurrency": 27,
+    "Price": 6000,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 8,
+    "MaxSetCount": 1,
+    "Rate": 625
+  },
+  {
+    "Id": 41,
+    "Slot": 8,
+    "CurrencyType": 102,
+    "CurrencyIndex": 17,
+    "Name": "SKILL_NAME_017",
+    "Des": "SKILL_NAME_017",
+    "CostCurrency": 27,
+    "Price": 6000,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 8,
+    "MaxSetCount": 1,
+    "Rate": 625
+  },
+  {
+    "Id": 42,
+    "Slot": 8,
+    "CurrencyType": 102,
+    "CurrencyIndex": 25,
+    "Name": "SKILL_NAME_025",
+    "Des": "SKILL_NAME_025",
+    "CostCurrency": 27,
+    "Price": 6000,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 8,
+    "MaxSetCount": 1,
+    "Rate": 625
+  },
+  {
+    "Id": 43,
+    "Slot": 8,
+    "CurrencyType": 102,
+    "CurrencyIndex": 27,
+    "Name": "SKILL_NAME_027",
+    "Des": "SKILL_NAME_027",
+    "CostCurrency": 27,
+    "Price": 6000,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 8,
+    "MaxSetCount": 1,
+    "Rate": 625
+  },
+  {
+    "Id": 44,
+    "Slot": 8,
+    "CurrencyType": 102,
+    "CurrencyIndex": 36,
+    "Name": "SKILL_NAME_036",
+    "Des": "SKILL_NAME_036",
+    "CostCurrency": 27,
+    "Price": 6000,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 8,
+    "MaxSetCount": 1,
+    "Rate": 625
+  },
+  {
+    "Id": 45,
+    "Slot": 8,
+    "CurrencyType": 102,
+    "CurrencyIndex": 38,
+    "Name": "SKILL_NAME_038",
+    "Des": "SKILL_NAME_038",
+    "CostCurrency": 27,
+    "Price": 6000,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 8,
+    "MaxSetCount": 1,
+    "Rate": 625
+  },
+  {
+    "Id": 46,
+    "Slot": 8,
+    "CurrencyType": 102,
+    "CurrencyIndex": 7,
+    "Name": "SKILL_NAME_007",
+    "Des": "SKILL_NAME_007",
+    "CostCurrency": 27,
+    "Price": 9000,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 8,
+    "MaxSetCount": 1,
+    "Rate": 625
+  },
+  {
+    "Id": 47,
+    "Slot": 8,
+    "CurrencyType": 102,
+    "CurrencyIndex": 11,
+    "Name": "SKILL_NAME_011",
+    "Des": "SKILL_NAME_011",
+    "CostCurrency": 27,
+    "Price": 9000,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 8,
+    "MaxSetCount": 1,
+    "Rate": 625
+  },
+  {
+    "Id": 48,
+    "Slot": 8,
+    "CurrencyType": 102,
+    "CurrencyIndex": 18,
+    "Name": "SKILL_NAME_018",
+    "Des": "SKILL_NAME_018",
+    "CostCurrency": 27,
+    "Price": 9000,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 8,
+    "MaxSetCount": 1,
+    "Rate": 625
+  },
+  {
+    "Id": 49,
+    "Slot": 8,
+    "CurrencyType": 102,
+    "CurrencyIndex": 19,
+    "Name": "SKILL_NAME_019",
+    "Des": "SKILL_NAME_019",
+    "CostCurrency": 27,
+    "Price": 9000,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 8,
+    "MaxSetCount": 1,
+    "Rate": 625
+  },
+  {
+    "Id": 50,
+    "Slot": 8,
+    "CurrencyType": 102,
+    "CurrencyIndex": 29,
+    "Name": "SKILL_NAME_029",
+    "Des": "SKILL_NAME_029",
+    "CostCurrency": 27,
+    "Price": 9000,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 8,
+    "MaxSetCount": 1,
+    "Rate": 625
+  },
+  {
+    "Id": 51,
+    "Slot": 8,
+    "CurrencyType": 102,
+    "CurrencyIndex": 33,
+    "Name": "SKILL_NAME_033",
+    "Des": "SKILL_NAME_033",
+    "CostCurrency": 27,
+    "Price": 9000,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 8,
+    "MaxSetCount": 1,
+    "Rate": 625
+  },
+  {
+    "Id": 52,
+    "Slot": 8,
+    "CurrencyType": 102,
+    "CurrencyIndex": 39,
+    "Name": "SKILL_NAME_039",
+    "Des": "SKILL_NAME_039",
+    "CostCurrency": 27,
+    "Price": 9000,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 8,
+    "MaxSetCount": 1,
+    "Rate": 625
+  },
+  {
+    "Id": 53,
+    "Slot": 8,
+    "CurrencyType": 102,
+    "CurrencyIndex": 40,
+    "Name": "SKILL_NAME_040",
+    "Des": "SKILL_NAME_040",
+    "CostCurrency": 27,
+    "Price": 9000,
+    "ProductAmount": [
+      1
+    ],
+    "Select": false,
+    "PeriodLimitType": 4,
+    "MaxBuyCount": 1,
+    "OrderNumber": 8,
+    "MaxSetCount": 1,
+    "Rate": 625
+  }
+]

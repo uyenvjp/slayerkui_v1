@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 0,
+    "CompleteCurrency": 1,
+    "CompleteAmount": 20000,
+    "ReplaceCurrency": 1,
+    "ReplaceAmount": 50,
+    "PlayCurrency": 200,
+    "PlayAmount": 1,
+    "SelectCurrency": 201,
+    "SelectAmount": 10
+  }
+]

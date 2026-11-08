@@ -1,0 +1,19 @@
+[
+  {
+    "Id": 1,
+    "InheritConsumeAmount": 10,
+    "StartProb": 80,
+    "MinimumProb": 20,
+    "ChangeProb": 15,
+    "MentalRecoverValue": 2,
+    "MasteryFactor": 20,
+    "MasterySkipCurrency": 1,
+    "MasterySkipCost": 3000,
+    "MasterySkipCount": 3,
+    "MasterySkipMinutes": 30,
+    "MasterySkipAdsCount": 3,
+    "MasterySkipAdsMinutes": 30,
+    "ExchangeMaterialCount": 10,
+    "ExchangeRewardCount": 7
+  }
+]

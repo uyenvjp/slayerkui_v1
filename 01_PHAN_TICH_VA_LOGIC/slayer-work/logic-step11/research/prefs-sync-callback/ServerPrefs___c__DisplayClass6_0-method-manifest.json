@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x600a003",
+    "name": ".ctor",
+    "declaring_type_index": "4199",
+    "declaring_type_full_name": "ServerPrefs+<>c__DisplayClass6_0",
+    "native_va": "0x51f1984",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "6278",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x9b87ec",
+    "end_va": "0x51f198c",
+    "asm_file": "ServerPrefs___c__DisplayClass6_0__.ctor_0x600a003.asm"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x600a004",
+    "name": "<RequestServerSync>b__0",
+    "declaring_type_index": "4199",
+    "declaring_type_full_name": "ServerPrefs+<>c__DisplayClass6_0",
+    "native_va": "0x51f198c",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "11927",
+    "parameter_count": "1",
+    "flags": "131",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x9b880c",
+    "end_va": "0x51f19c0",
+    "asm_file": "ServerPrefs___c__DisplayClass6_0___RequestServerSync_b__0_0x600a004.asm"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "Id": 1,
+    "SlotIndex": 1,
+    "SkillBonusLevel": 10
+  },
+  {
+    "Id": 2,
+    "SlotIndex": 2,
+    "SkillBonusLevel": 20
+  },
+  {
+    "Id": 3,
+    "SlotIndex": 3,
+    "SkillBonusLevel": 30
+  },
+  {
+    "Id": 4,
+    "SlotIndex": 4,
+    "SkillBonusLevel": 60
+  },
+  {
+    "Id": 5,
+    "SlotIndex": 5,
+    "SkillBonusLevel": 100
+  }
+]

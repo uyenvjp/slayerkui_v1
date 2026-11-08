@@ -1,0 +1,242 @@
+[
+  {
+    "Id": 1,
+    "StartStageNum": 40,
+    "Time": 360,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 2000
+  },
+  {
+    "Id": 2,
+    "StartStageNum": 60,
+    "Time": 2880,
+    "BaseRewardType": 7,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 500
+  },
+  {
+    "Id": 3,
+    "StartStageNum": 80,
+    "Time": 1440,
+    "BaseRewardType": 20,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 1000
+  },
+  {
+    "Id": 4,
+    "StartStageNum": 100,
+    "Time": 2880,
+    "BaseRewardType": 10,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 5
+  },
+  {
+    "Id": 5,
+    "StartStageNum": 120,
+    "Time": 30,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 5000
+  },
+  {
+    "Id": 6,
+    "StartStageNum": 140,
+    "Time": 2880,
+    "BaseRewardType": 7,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 1000
+  },
+  {
+    "Id": 7,
+    "StartStageNum": 160,
+    "Time": 1440,
+    "BaseRewardType": 19,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 10
+  },
+  {
+    "Id": 8,
+    "StartStageNum": 180,
+    "Time": 720,
+    "BaseRewardType": 150,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 100
+  },
+  {
+    "Id": 9,
+    "StartStageNum": 200,
+    "Time": 360,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 10000
+  },
+  {
+    "Id": 10,
+    "StartStageNum": 220,
+    "Time": 2880,
+    "BaseRewardType": 151,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 100
+  },
+  {
+    "Id": 11,
+    "StartStageNum": 240,
+    "Time": 360,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 2000
+  },
+  {
+    "Id": 12,
+    "StartStageNum": 260,
+    "Time": 720,
+    "BaseRewardType": 7,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 500
+  },
+  {
+    "Id": 13,
+    "StartStageNum": 280,
+    "Time": 2880,
+    "BaseRewardType": 20,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 1000
+  },
+  {
+    "Id": 14,
+    "StartStageNum": 300,
+    "Time": 2880,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 5000
+  },
+  {
+    "Id": 15,
+    "StartStageNum": 320,
+    "Time": 1440,
+    "BaseRewardType": 10,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 10
+  },
+  {
+    "Id": 16,
+    "StartStageNum": 340,
+    "Time": 360,
+    "BaseRewardType": 7,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 2000
+  },
+  {
+    "Id": 17,
+    "StartStageNum": 360,
+    "Time": 1440,
+    "BaseRewardType": 151,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 100
+  },
+  {
+    "Id": 18,
+    "StartStageNum": 380,
+    "Time": 1440,
+    "BaseRewardType": 150,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 100
+  },
+  {
+    "Id": 19,
+    "StartStageNum": 400,
+    "Time": 720,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 10000
+  },
+  {
+    "Id": 20,
+    "StartStageNum": 420,
+    "Time": 2880,
+    "BaseRewardType": 18,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 10
+  },
+  {
+    "Id": 21,
+    "StartStageNum": 440,
+    "Time": 360,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 10000
+  },
+  {
+    "Id": 22,
+    "StartStageNum": 460,
+    "Time": 720,
+    "BaseRewardType": 20,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 5000
+  },
+  {
+    "Id": 23,
+    "StartStageNum": 480,
+    "Time": 2880,
+    "BaseRewardType": 7,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 2000
+  },
+  {
+    "Id": 24,
+    "StartStageNum": 500,
+    "Time": 2880,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 20000
+  },
+  {
+    "Id": 25,
+    "StartStageNum": 520,
+    "Time": 1440,
+    "BaseRewardType": 7,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 3000
+  },
+  {
+    "Id": 26,
+    "StartStageNum": 540,
+    "Time": 360,
+    "BaseRewardType": 151,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 100
+  },
+  {
+    "Id": 27,
+    "StartStageNum": 560,
+    "Time": 1440,
+    "BaseRewardType": 10,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 20
+  },
+  {
+    "Id": 28,
+    "StartStageNum": 580,
+    "Time": 1440,
+    "BaseRewardType": 150,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 100
+  },
+  {
+    "Id": 29,
+    "StartStageNum": 600,
+    "Time": 720,
+    "BaseRewardType": 18,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 10
+  },
+  {
+    "Id": 30,
+    "StartStageNum": 620,
+    "Time": 2880,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 30000
+  }
+]

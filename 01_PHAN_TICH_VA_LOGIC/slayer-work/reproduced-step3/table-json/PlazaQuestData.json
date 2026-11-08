@@ -1,0 +1,114 @@
+[
+  {
+    "Id": 1,
+    "PrerequisiteQuestId": 0,
+    "TotalStep": 3,
+    "UnlockDelaySeconds": 172800,
+    "EventType": 0
+  },
+  {
+    "Id": 2,
+    "PrerequisiteQuestId": 1,
+    "TotalStep": 3,
+    "UnlockDelaySeconds": 172800,
+    "EventType": 0
+  },
+  {
+    "Id": 3,
+    "PrerequisiteQuestId": 1,
+    "TotalStep": 3,
+    "UnlockDelaySeconds": 172800,
+    "EventType": 0
+  },
+  {
+    "Id": 4,
+    "PrerequisiteQuestId": 1,
+    "TotalStep": 3,
+    "UnlockDelaySeconds": 172800,
+    "EventType": 0
+  },
+  {
+    "Id": 5,
+    "PrerequisiteQuestId": 1,
+    "TotalStep": 3,
+    "UnlockDelaySeconds": 172800,
+    "EventType": 0
+  },
+  {
+    "Id": 6,
+    "PrerequisiteQuestId": 1,
+    "TotalStep": 3,
+    "UnlockDelaySeconds": 172800,
+    "EventType": 0
+  },
+  {
+    "Id": 7,
+    "PrerequisiteQuestId": 1,
+    "TotalStep": 3,
+    "UnlockDelaySeconds": 172800,
+    "EventType": 0
+  },
+  {
+    "Id": 8,
+    "PrerequisiteQuestId": 1,
+    "TotalStep": 3,
+    "UnlockDelaySeconds": 172800,
+    "EventType": 0
+  },
+  {
+    "Id": 9,
+    "PrerequisiteQuestId": 1,
+    "TotalStep": 5,
+    "UnlockDelaySeconds": 172800,
+    "EventType": 0
+  },
+  {
+    "Id": 10,
+    "PrerequisiteQuestId": 1,
+    "TotalStep": 3,
+    "UnlockDelaySeconds": 172800,
+    "EventType": 0
+  },
+  {
+    "Id": 1001,
+    "PrerequisiteQuestId": 0,
+    "TotalStep": 5,
+    "UnlockDelaySeconds": 0,
+    "EventType": 48
+  },
+  {
+    "Id": 1002,
+    "PrerequisiteQuestId": 1001,
+    "TotalStep": 3,
+    "UnlockDelaySeconds": 0,
+    "EventType": 48
+  },
+  {
+    "Id": 1003,
+    "PrerequisiteQuestId": 1002,
+    "TotalStep": 5,
+    "UnlockDelaySeconds": 0,
+    "EventType": 48
+  },
+  {
+    "Id": 1004,
+    "PrerequisiteQuestId": 1003,
+    "TotalStep": 3,
+    "UnlockDelaySeconds": 0,
+    "EventType": 48
+  },
+  {
+    "Id": 1005,
+    "PrerequisiteQuestId": 1004,
+    "TotalStep": 3,
+    "UnlockDelaySeconds": 0,
+    "EventType": 48
+  },
+  {
+    "Id": 1006,
+    "PrerequisiteQuestId": 1005,
+    "TotalStep": 3,
+    "UnlockDelaySeconds": 0,
+    "EventType": 48
+  }
+]

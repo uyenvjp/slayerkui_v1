@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 0,
+    "BaseHp": "2000000000",
+    "BaseHpSerialized": "2000000000",
+    "BossHpLevelBonus": 0,
+    "BossScale": 4.0
+  },
+  {
+    "Id": 1,
+    "BaseHp": "2000000000",
+    "BaseHpSerialized": "2000000000",
+    "BossHpLevelBonus": 6,
+    "BossScale": 3.5
+  },
+  {
+    "Id": 2,
+    "BaseHp": "2000000000",
+    "BaseHpSerialized": "2000000000",
+    "BossHpLevelBonus": 7,
+    "BossScale": 4.0
+  }
+]

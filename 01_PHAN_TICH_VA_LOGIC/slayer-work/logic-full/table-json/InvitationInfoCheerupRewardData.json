@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Score": 20,
+    "RewardType": 1,
+    "RewardIndex": 1,
+    "RewardCount": 1000
+  },
+  {
+    "Id": 2,
+    "Score": 40,
+    "RewardType": 1,
+    "RewardIndex": 2,
+    "RewardCount": 1000
+  },
+  {
+    "Id": 3,
+    "Score": 60,
+    "RewardType": 1,
+    "RewardIndex": 3,
+    "RewardCount": 1000
+  },
+  {
+    "Id": 4,
+    "Score": 80,
+    "RewardType": 1,
+    "RewardIndex": 4,
+    "RewardCount": 1000
+  },
+  {
+    "Id": 5,
+    "Score": 100,
+    "RewardType": 1,
+    "RewardIndex": 5,
+    "RewardCount": 1000
+  }
+]

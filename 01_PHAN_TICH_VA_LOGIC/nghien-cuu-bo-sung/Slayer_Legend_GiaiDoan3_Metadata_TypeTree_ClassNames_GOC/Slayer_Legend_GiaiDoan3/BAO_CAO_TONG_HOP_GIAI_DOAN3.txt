@@ -1,0 +1,52 @@
+SLAYER LEGEND 700.0.4 — BÁO CÁO PHÂN TÍCH GIAI ĐOẠN 3 (TỔNG HỢP)
+Nguồn DUY NHẤT: XAPK gốc do người dùng cung cấp. Phân tích tĩnh, KHÔNG giả lập game.
+
+A. DIỄN BIẾN KHÔI PHỤC METADATA
+- File metadata gốc: 33085012 byte; SHA256 0f0c21c82432adab3421ea6c82e2662b032a8fc2fc17f81defe166b2ce294c46
+- Xác minh raw magic LIKEY: True
+- Vùng có chuỗi ASCII+NUL liên tục sau XOR: 0x2356af đến 0x5308b7 (exclusive).
+- Số chuỗi ASCII phân cách NUL trong vùng này: 127,483.
+- Số bảng có tên chính xác Xls_*: 100.
+- Không có magic chuẩn AF 1B B1 FA trong raw hay bản XOR phase0.
+- Các token Xls_* thường liền kề tên field; CHƯA xác minh chỉ số FieldDefinition.
+
+B. CATALOG UNITYFS VÀ DỮ LIỆU TỪ TYPE TREE
+- Tổng số SerializedFile Object trong 8 bundle: 428,701.
+- 8 bundle: contents, hero, monster, map, popup, skin, sound, emoticon.
+- Các bundle có MonoBehaviour(114): monster=1043, popup=75044, skin=14.
+- Đọc thành công MonoScript class/name/namespace/assembly: 611 object.
+- Liên kết các type MonoBehaviour có object tới đúng MonoScript qua PathID: 608/608.
+- Tên class được xác minh trực tiếp: WorldDemonBoss, WorldRagnabloodBoss, WorldDarkBoss, WorldBlackBoss, WorldInfinentBoss, WorldBlueBoss, WorldEtherBoss, EnemyNormalInfinent.
+- Class UI: PopupWorldBoss, PopupSkillGrinding, WorldBossBattleRewardSlot, SkillSelectSlot, v.v.
+- Việc nối MonoScript xác nhận tên class trong ASSET (không phải decompile body của class).
+
+C. GIÁ TRỊ BOSS ĐỌC ĐƯỢC (CHỈ PREFAB DEFAULT)
+- WorldDemonBoss: PathID=-8698611304847757807, typeIndex=28, SpecialAttack_Cooltime=2.0, SpecialAttack_Prob=0.0, bytes=440/440
+- WorldRagnabloodBoss: PathID=-7796146938046935451, typeIndex=42, SpecialAttack_Cooltime=2.0, SpecialAttack_Prob=0.0, bytes=496/496
+- WorldDarkBoss: PathID=-6876737884432933279, typeIndex=54, SpecialAttack_Cooltime=2.0, SpecialAttack_Prob=0.0, bytes=588/588
+- WorldBlackBoss: PathID=-5355454732569870035, typeIndex=60, SpecialAttack_Cooltime=2.0, SpecialAttack_Prob=0.0, bytes=372/372
+- WorldInfinentBoss: PathID=-3089879234222043335, typeIndex=72, SpecialAttack_Cooltime=2.0, SpecialAttack_Prob=0.0, bytes=388/388
+- EnemyNormalInfinent: PathID=-184852285551757442, typeIndex=76, SpecialAttack_Cooltime=2.0, SpecialAttack_Prob=0.0, bytes=360/360
+- WorldBlueBoss: PathID=3171960225054975008, typeIndex=82, SpecialAttack_Cooltime=2.0, SpecialAttack_Prob=0.0, bytes=628/628
+- WorldEtherBoss: PathID=8835683737882788640, typeIndex=89, SpecialAttack_Cooltime=1.2000000476837158, SpecialAttack_Prob=0.0, bytes=368/368
+- CẢNH BÁO: Những giá trị này là field serialize trong prefab, có thể thay đổi lúc chơi. Không phải công thức combat.
+
+D. ĐIỀU CHƯA KHÔI PHỤC
+- Không có metadata IL2CPP chuẩn, dump.cs hoặc script.json.
+- Không có thân hàm native được khôi phục cho class gameplay; chưa biết công thức sát thương, tỉ lệ rơi hay logic server.
+- Không có bản port H5 mới: tiếp tục tuân thủ yêu cầu không tạo gameplay hoặc asset giả.
+
+E. FILE VÀ KHẢ NĂNG KIỂM TRA LẠI
+- BAO_CAO_METADATA_XOR.txt / Stage3_Evidence.json: vùng XOR, vị trí token, ELF/API.
+- chuoi_NUL_vung_1.csv: 127,483 chuỗi NUL + offset, cho việc tra cứu tên.
+- bang_Xls_chuoi_lien_ke.csv/.json: các nhóm chuỗi gần Xls_* (chưa xác nhận field).
+- UnityFS_Catalog.json: object counts, TypeTree và hash thực.
+- MonoScript_ClassNames_Goc.csv: class/namespace/assembly theo MonoScript thật.
+- LienKet_TypeTree_ClassGame.csv: class liên kết qua PPtr<MonoScript> PathID.
+- Boss_va_Enemy_Serialized_Defaults.json: 8 prefab mẫu, mọi mẫu parse đủ bytes.
+- He_Thong_Gameplay_Tu_TypeTree.csv: mẫu tên trường gameplay.
+- phan_tich_stage3.py: quét metadata và libil2cpp.so; Python stdlib.
+- parse_unityfs.py, catalog_unity.py, read_serial_values.py: đọc UnityFS/SerializedFile.
+- parse_monoscripts_and_links.py, xuat_default_boss.py: đọc MonoScript và boss defaults từ XAPK.
+
+HẠN CHẾ KỸ THUẬT: Việc đọc UnityFS/TypeTree không tự khôi phục mã IL2CPP được LIAPP bảo vệ.

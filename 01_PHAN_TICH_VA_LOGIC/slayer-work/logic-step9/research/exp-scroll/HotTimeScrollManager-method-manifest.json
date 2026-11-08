@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6006087",
+    "name": "ApplyExp",
+    "declaring_type_index": "2234",
+    "declaring_type_full_name": "HotTimeScrollManager",
+    "native_va": "0x4d82bd0",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "5042",
+    "parameter_count": "1",
+    "flags": "134",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x93986c",
+    "end_va": "0x4d82d34",
+    "asm_file": "HotTimeScrollManager__ApplyExp_0x6006087.asm"
+  }
+]

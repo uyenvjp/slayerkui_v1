@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "ProductName": "THEMEDUNGEON_BOX_1",
+    "NeedDiamond": 0,
+    "Count": 3,
+    "PeriodLimitType": 1,
+    "RewardType": [
+      3002
+    ],
+    "RewardIndex": [
+      0
+    ],
+    "RewardAmount": [
+      1
+    ]
+  }
+]

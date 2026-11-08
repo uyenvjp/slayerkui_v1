@@ -1,0 +1,386 @@
+[
+  {
+    "Id": 1,
+    "QuestIndex": 8,
+    "Step": -1,
+    "NpcTypes": [
+      10
+    ],
+    "SpriteIndexes": [
+      0,
+      -1
+    ],
+    "NpcPosX": [
+      6.460000038146973
+    ],
+    "NpcPosY": [
+      7.96999979019165
+    ]
+  },
+  {
+    "Id": 2,
+    "QuestIndex": 8,
+    "Step": 0,
+    "NpcTypes": [
+      10
+    ],
+    "SpriteIndexes": [
+      0,
+      -1
+    ],
+    "NpcPosX": [
+      6.460000038146973
+    ],
+    "NpcPosY": [
+      7.96999979019165
+    ]
+  },
+  {
+    "Id": 3,
+    "QuestIndex": 8,
+    "Step": 1,
+    "NpcTypes": [
+      10
+    ],
+    "SpriteIndexes": [
+      0,
+      -1
+    ],
+    "NpcPosX": [
+      6.460000038146973
+    ],
+    "NpcPosY": [
+      7.96999979019165
+    ]
+  },
+  {
+    "Id": 4,
+    "QuestIndex": 8,
+    "Step": 2,
+    "NpcTypes": [
+      10
+    ],
+    "SpriteIndexes": [
+      1,
+      -1
+    ],
+    "NpcPosX": [
+      6.460000038146973
+    ],
+    "NpcPosY": [
+      7.96999979019165
+    ]
+  },
+  {
+    "Id": 5,
+    "QuestIndex": 8,
+    "Step": 3,
+    "NpcTypes": [
+      10
+    ],
+    "SpriteIndexes": [
+      1,
+      -1
+    ],
+    "NpcPosX": [
+      6.460000038146973
+    ],
+    "NpcPosY": [
+      7.96999979019165
+    ]
+  },
+  {
+    "Id": 6,
+    "QuestIndex": 9,
+    "Step": -1,
+    "NpcTypes": [
+      6,
+      7
+    ],
+    "SpriteIndexes": [
+      -1,
+      -1
+    ],
+    "NpcPosX": [
+      0.0,
+      0.0
+    ],
+    "NpcPosY": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 7,
+    "QuestIndex": 9,
+    "Step": 0,
+    "NpcTypes": [
+      6,
+      7
+    ],
+    "SpriteIndexes": [
+      -1,
+      -1
+    ],
+    "NpcPosX": [
+      0.0,
+      0.0
+    ],
+    "NpcPosY": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 8,
+    "QuestIndex": 9,
+    "Step": 1,
+    "NpcTypes": [
+      6,
+      7
+    ],
+    "SpriteIndexes": [
+      -1,
+      -1
+    ],
+    "NpcPosX": [
+      18.200000762939453,
+      0.0
+    ],
+    "NpcPosY": [
+      2.950000047683716,
+      0.0
+    ]
+  },
+  {
+    "Id": 9,
+    "QuestIndex": 9,
+    "Step": 2,
+    "NpcTypes": [
+      6,
+      7
+    ],
+    "SpriteIndexes": [
+      -1,
+      -1
+    ],
+    "NpcPosX": [
+      18.200000762939453,
+      0.0
+    ],
+    "NpcPosY": [
+      2.950000047683716,
+      0.0
+    ]
+  },
+  {
+    "Id": 10,
+    "QuestIndex": 9,
+    "Step": 3,
+    "NpcTypes": [
+      6,
+      7
+    ],
+    "SpriteIndexes": [
+      -1,
+      -1
+    ],
+    "NpcPosX": [
+      18.200000762939453,
+      -14.050000190734863
+    ],
+    "NpcPosY": [
+      2.950000047683716,
+      -23.0
+    ]
+  },
+  {
+    "Id": 11,
+    "QuestIndex": 9,
+    "Step": 4,
+    "NpcTypes": [
+      6,
+      7
+    ],
+    "SpriteIndexes": [
+      -1,
+      -1
+    ],
+    "NpcPosX": [
+      18.200000762939453,
+      -14.050000190734863
+    ],
+    "NpcPosY": [
+      2.950000047683716,
+      -23.0
+    ]
+  },
+  {
+    "Id": 12,
+    "QuestIndex": 9,
+    "Step": 5,
+    "NpcTypes": [
+      6,
+      7
+    ],
+    "SpriteIndexes": [
+      -1,
+      -1
+    ],
+    "NpcPosX": [
+      -7.599999904632568,
+      -6.199999809265137
+    ],
+    "NpcPosY": [
+      -3.8299999237060547,
+      -3.8299999237060547
+    ]
+  },
+  {
+    "Id": 13,
+    "QuestIndex": 10,
+    "Step": -1,
+    "NpcTypes": [
+      8,
+      9
+    ],
+    "SpriteIndexes": [
+      -1,
+      -1
+    ],
+    "NpcPosX": [
+      0.0,
+      0.0
+    ],
+    "NpcPosY": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 14,
+    "QuestIndex": 10,
+    "Step": 0,
+    "NpcTypes": [
+      8,
+      9
+    ],
+    "SpriteIndexes": [
+      -1,
+      -1
+    ],
+    "NpcPosX": [
+      11.25,
+      0.0
+    ],
+    "NpcPosY": [
+      -23.850000381469727,
+      0.0
+    ]
+  },
+  {
+    "Id": 15,
+    "QuestIndex": 10,
+    "Step": 1,
+    "NpcTypes": [
+      8,
+      9
+    ],
+    "SpriteIndexes": [
+      -1,
+      -1
+    ],
+    "NpcPosX": [
+      11.25,
+      16.200000762939453
+    ],
+    "NpcPosY": [
+      -23.850000381469727,
+      4.269999980926514
+    ]
+  },
+  {
+    "Id": 16,
+    "QuestIndex": 10,
+    "Step": 1,
+    "NpcTypes": [
+      8,
+      9
+    ],
+    "SpriteIndexes": [
+      -1,
+      -1
+    ],
+    "NpcPosX": [
+      11.25,
+      -12.699999809265137
+    ],
+    "NpcPosY": [
+      -23.850000381469727,
+      8.0
+    ]
+  },
+  {
+    "Id": 17,
+    "QuestIndex": 10,
+    "Step": 1,
+    "NpcTypes": [
+      8,
+      9
+    ],
+    "SpriteIndexes": [
+      -1,
+      -1
+    ],
+    "NpcPosX": [
+      11.25,
+      -12.640000343322754
+    ],
+    "NpcPosY": [
+      -23.850000381469727,
+      -21.6299991607666
+    ]
+  },
+  {
+    "Id": 18,
+    "QuestIndex": 10,
+    "Step": 2,
+    "NpcTypes": [
+      8,
+      9
+    ],
+    "SpriteIndexes": [
+      -1,
+      -1
+    ],
+    "NpcPosX": [
+      11.25,
+      0.0
+    ],
+    "NpcPosY": [
+      -23.850000381469727,
+      0.0
+    ]
+  },
+  {
+    "Id": 19,
+    "QuestIndex": 10,
+    "Step": 3,
+    "NpcTypes": [
+      8,
+      9
+    ],
+    "SpriteIndexes": [
+      -1,
+      -1
+    ],
+    "NpcPosX": [
+      11.25,
+      0.0
+    ],
+    "NpcPosY": [
+      -23.850000381469727,
+      0.0
+    ]
+  }
+]

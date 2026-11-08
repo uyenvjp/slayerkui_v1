@@ -1,0 +1,722 @@
+[
+  {
+    "Id": 0,
+    "Level": 1,
+    "StageNumber": 440,
+    "SoulAmount": "100",
+    "SoulAmountSerialized": "100",
+    "MaximumCount": "500000",
+    "MaximumCountSerialized": "500000"
+  },
+  {
+    "Id": 1,
+    "Level": 2,
+    "StageNumber": 460,
+    "SoulAmount": "300",
+    "SoulAmountSerialized": "300",
+    "MaximumCount": "1500000",
+    "MaximumCountSerialized": "1500000"
+  },
+  {
+    "Id": 2,
+    "Level": 3,
+    "StageNumber": 480,
+    "SoulAmount": "900",
+    "SoulAmountSerialized": "900",
+    "MaximumCount": "4500000",
+    "MaximumCountSerialized": "4500000"
+  },
+  {
+    "Id": 3,
+    "Level": 4,
+    "StageNumber": 500,
+    "SoulAmount": "2700",
+    "SoulAmountSerialized": "2700",
+    "MaximumCount": "13500000",
+    "MaximumCountSerialized": "13500000"
+  },
+  {
+    "Id": 4,
+    "Level": 5,
+    "StageNumber": 520,
+    "SoulAmount": "8100",
+    "SoulAmountSerialized": "8100",
+    "MaximumCount": "40500000",
+    "MaximumCountSerialized": "40500000"
+  },
+  {
+    "Id": 5,
+    "Level": 6,
+    "StageNumber": 540,
+    "SoulAmount": "24300",
+    "SoulAmountSerialized": "24300",
+    "MaximumCount": "121500000",
+    "MaximumCountSerialized": "121500000"
+  },
+  {
+    "Id": 6,
+    "Level": 7,
+    "StageNumber": 560,
+    "SoulAmount": "72900",
+    "SoulAmountSerialized": "72900",
+    "MaximumCount": "364500000",
+    "MaximumCountSerialized": "364500000"
+  },
+  {
+    "Id": 7,
+    "Level": 8,
+    "StageNumber": 580,
+    "SoulAmount": "218700",
+    "SoulAmountSerialized": "218700",
+    "MaximumCount": "1093500000",
+    "MaximumCountSerialized": "1093500000"
+  },
+  {
+    "Id": 8,
+    "Level": 9,
+    "StageNumber": 600,
+    "SoulAmount": "656100",
+    "SoulAmountSerialized": "656100",
+    "MaximumCount": "3280500000",
+    "MaximumCountSerialized": "3280500000"
+  },
+  {
+    "Id": 9,
+    "Level": 10,
+    "StageNumber": 620,
+    "SoulAmount": "1968300",
+    "SoulAmountSerialized": "1968300",
+    "MaximumCount": "9841500000",
+    "MaximumCountSerialized": "9841500000"
+  },
+  {
+    "Id": 10,
+    "Level": 11,
+    "StageNumber": 640,
+    "SoulAmount": "5904900",
+    "SoulAmountSerialized": "5904900",
+    "MaximumCount": "29524500000",
+    "MaximumCountSerialized": "29524500000"
+  },
+  {
+    "Id": 11,
+    "Level": 12,
+    "StageNumber": 660,
+    "SoulAmount": "17714700",
+    "SoulAmountSerialized": "17714700",
+    "MaximumCount": "88573500000",
+    "MaximumCountSerialized": "88573500000"
+  },
+  {
+    "Id": 12,
+    "Level": 13,
+    "StageNumber": 680,
+    "SoulAmount": "53144100",
+    "SoulAmountSerialized": "53144100",
+    "MaximumCount": "265720500000",
+    "MaximumCountSerialized": "265720500000"
+  },
+  {
+    "Id": 13,
+    "Level": 14,
+    "StageNumber": 700,
+    "SoulAmount": "159432300",
+    "SoulAmountSerialized": "159432300",
+    "MaximumCount": "797161500000",
+    "MaximumCountSerialized": "797161500000"
+  },
+  {
+    "Id": 14,
+    "Level": 15,
+    "StageNumber": 720,
+    "SoulAmount": "478296900",
+    "SoulAmountSerialized": "478296900",
+    "MaximumCount": "2391484500000",
+    "MaximumCountSerialized": "2391484500000"
+  },
+  {
+    "Id": 15,
+    "Level": 16,
+    "StageNumber": 740,
+    "SoulAmount": "1434890700",
+    "SoulAmountSerialized": "1434890700",
+    "MaximumCount": "7174453500000",
+    "MaximumCountSerialized": "7174453500000"
+  },
+  {
+    "Id": 16,
+    "Level": 17,
+    "StageNumber": 760,
+    "SoulAmount": "4304672100",
+    "SoulAmountSerialized": "4304672100",
+    "MaximumCount": "21523360500000",
+    "MaximumCountSerialized": "21523360500000"
+  },
+  {
+    "Id": 17,
+    "Level": 18,
+    "StageNumber": 780,
+    "SoulAmount": "12914016300",
+    "SoulAmountSerialized": "12914016300",
+    "MaximumCount": "64570081500000",
+    "MaximumCountSerialized": "64570081500000"
+  },
+  {
+    "Id": 18,
+    "Level": 19,
+    "StageNumber": 800,
+    "SoulAmount": "38742048900",
+    "SoulAmountSerialized": "38742048900",
+    "MaximumCount": "193710244500000",
+    "MaximumCountSerialized": "193710244500000"
+  },
+  {
+    "Id": 19,
+    "Level": 20,
+    "StageNumber": 820,
+    "SoulAmount": "116226146700",
+    "SoulAmountSerialized": "116226146700",
+    "MaximumCount": "581130733500000",
+    "MaximumCountSerialized": "581130733500000"
+  },
+  {
+    "Id": 20,
+    "Level": 21,
+    "StageNumber": 840,
+    "SoulAmount": "348678440100",
+    "SoulAmountSerialized": "348678440100",
+    "MaximumCount": "1743392200500000",
+    "MaximumCountSerialized": "1743392200500000"
+  },
+  {
+    "Id": 21,
+    "Level": 22,
+    "StageNumber": 860,
+    "SoulAmount": "1046035320300",
+    "SoulAmountSerialized": "1046035320300",
+    "MaximumCount": "5230176601500000",
+    "MaximumCountSerialized": "5230176601500000"
+  },
+  {
+    "Id": 22,
+    "Level": 23,
+    "StageNumber": 880,
+    "SoulAmount": "3138105960900",
+    "SoulAmountSerialized": "3138105960900",
+    "MaximumCount": "15690529804500000",
+    "MaximumCountSerialized": "15690529804500000"
+  },
+  {
+    "Id": 23,
+    "Level": 24,
+    "StageNumber": 900,
+    "SoulAmount": "9414317882700",
+    "SoulAmountSerialized": "9414317882700",
+    "MaximumCount": "47071589413500000",
+    "MaximumCountSerialized": "47071589413500000"
+  },
+  {
+    "Id": 24,
+    "Level": 25,
+    "StageNumber": 920,
+    "SoulAmount": "28242953648100",
+    "SoulAmountSerialized": "28242953648100",
+    "MaximumCount": "141214768240500000",
+    "MaximumCountSerialized": "141214768240500000"
+  },
+  {
+    "Id": 25,
+    "Level": 26,
+    "StageNumber": 940,
+    "SoulAmount": "84728860944300",
+    "SoulAmountSerialized": "84728860944300",
+    "MaximumCount": "423644304721500000",
+    "MaximumCountSerialized": "423644304721500000"
+  },
+  {
+    "Id": 26,
+    "Level": 27,
+    "StageNumber": 960,
+    "SoulAmount": "254186582832900",
+    "SoulAmountSerialized": "254186582832900",
+    "MaximumCount": "1270932914164500000",
+    "MaximumCountSerialized": "1270932914164500000"
+  },
+  {
+    "Id": 27,
+    "Level": 28,
+    "StageNumber": 980,
+    "SoulAmount": "762559748498700",
+    "SoulAmountSerialized": "762559748498700",
+    "MaximumCount": "3812798742493500000",
+    "MaximumCountSerialized": "3812798742493500000"
+  },
+  {
+    "Id": 28,
+    "Level": 29,
+    "StageNumber": 1000,
+    "SoulAmount": "2287679245496100",
+    "SoulAmountSerialized": "2287679245496100",
+    "MaximumCount": "11438396227480500000",
+    "MaximumCountSerialized": "11438396227480500000"
+  },
+  {
+    "Id": 29,
+    "Level": 30,
+    "StageNumber": 1020,
+    "SoulAmount": "6863037736488330",
+    "SoulAmountSerialized": "6863037736488330",
+    "MaximumCount": "34315188682441700000",
+    "MaximumCountSerialized": "34315188682441700000"
+  },
+  {
+    "Id": 30,
+    "Level": 31,
+    "StageNumber": 1040,
+    "SoulAmount": "20589113209465000",
+    "SoulAmountSerialized": "20589113209465000",
+    "MaximumCount": "102945566047325000000",
+    "MaximumCountSerialized": "102945566047325000000"
+  },
+  {
+    "Id": 31,
+    "Level": 32,
+    "StageNumber": 1060,
+    "SoulAmount": "61767339628395000",
+    "SoulAmountSerialized": "61767339628395000",
+    "MaximumCount": "308836698141975000000",
+    "MaximumCountSerialized": "308836698141975000000"
+  },
+  {
+    "Id": 32,
+    "Level": 33,
+    "StageNumber": 1080,
+    "SoulAmount": "185302018885185000",
+    "SoulAmountSerialized": "185302018885185000",
+    "MaximumCount": "926510094425925000000",
+    "MaximumCountSerialized": "926510094425925000000"
+  },
+  {
+    "Id": 33,
+    "Level": 34,
+    "StageNumber": 1100,
+    "SoulAmount": "555906056655557000",
+    "SoulAmountSerialized": "555906056655557000",
+    "MaximumCount": "2779530283277780000000",
+    "MaximumCountSerialized": "2779530283277780000000"
+  },
+  {
+    "Id": 34,
+    "Level": 35,
+    "StageNumber": 1120,
+    "SoulAmount": "1667718169966670000",
+    "SoulAmountSerialized": "1667718169966670000",
+    "MaximumCount": "8338590849833350000000",
+    "MaximumCountSerialized": "8338590849833350000000"
+  },
+  {
+    "Id": 35,
+    "Level": 36,
+    "StageNumber": 1140,
+    "SoulAmount": "5003154509900000000",
+    "SoulAmountSerialized": "5003154509900000000",
+    "MaximumCount": "25015772549500000000000",
+    "MaximumCountSerialized": "25015772549500000000000"
+  },
+  {
+    "Id": 36,
+    "Level": 37,
+    "StageNumber": 1160,
+    "SoulAmount": "15009463529700000000",
+    "SoulAmountSerialized": "15009463529700000000",
+    "MaximumCount": "75047317648500000000000",
+    "MaximumCountSerialized": "75047317648500000000000"
+  },
+  {
+    "Id": 37,
+    "Level": 38,
+    "StageNumber": 1180,
+    "SoulAmount": "45028390589100000000",
+    "SoulAmountSerialized": "45028390589100000000",
+    "MaximumCount": "225141952945500000000000",
+    "MaximumCountSerialized": "225141952945500000000000"
+  },
+  {
+    "Id": 38,
+    "Level": 39,
+    "StageNumber": 1200,
+    "SoulAmount": "135085171767300000000",
+    "SoulAmountSerialized": "135085171767300000000",
+    "MaximumCount": "675425858836500000000000",
+    "MaximumCountSerialized": "675425858836500000000000"
+  },
+  {
+    "Id": 39,
+    "Level": 40,
+    "StageNumber": 1220,
+    "SoulAmount": "405255515301900000000",
+    "SoulAmountSerialized": "405255515301900000000",
+    "MaximumCount": "2026277576509500000000000",
+    "MaximumCountSerialized": "2026277576509500000000000"
+  },
+  {
+    "Id": 40,
+    "Level": 41,
+    "StageNumber": 1240,
+    "SoulAmount": "1215766545905700000000",
+    "SoulAmountSerialized": "1215766545905700000000",
+    "MaximumCount": "6078832729528500000000000",
+    "MaximumCountSerialized": "6078832729528500000000000"
+  },
+  {
+    "Id": 41,
+    "Level": 42,
+    "StageNumber": 1260,
+    "SoulAmount": "3647299637717100000000",
+    "SoulAmountSerialized": "3647299637717100000000",
+    "MaximumCount": "18236498188585500000000000",
+    "MaximumCountSerialized": "18236498188585500000000000"
+  },
+  {
+    "Id": 42,
+    "Level": 43,
+    "StageNumber": 1280,
+    "SoulAmount": "10941898913151300000000",
+    "SoulAmountSerialized": "10941898913151300000000",
+    "MaximumCount": "54709494565756500000000000",
+    "MaximumCountSerialized": "54709494565756500000000000"
+  },
+  {
+    "Id": 43,
+    "Level": 44,
+    "StageNumber": 1300,
+    "SoulAmount": "32825696739453900000000",
+    "SoulAmountSerialized": "32825696739453900000000",
+    "MaximumCount": "164128483697269000000000000",
+    "MaximumCountSerialized": "164128483697269000000000000"
+  },
+  {
+    "Id": 44,
+    "Level": 45,
+    "StageNumber": 1320,
+    "SoulAmount": "98477090218361700000000",
+    "SoulAmountSerialized": "98477090218361700000000",
+    "MaximumCount": "492385451091809000000000000",
+    "MaximumCountSerialized": "492385451091809000000000000"
+  },
+  {
+    "Id": 45,
+    "Level": 46,
+    "StageNumber": 1340,
+    "SoulAmount": "295431270655085000000000",
+    "SoulAmountSerialized": "295431270655085000000000",
+    "MaximumCount": "1477156353275430000000000000",
+    "MaximumCountSerialized": "1477156353275430000000000000"
+  },
+  {
+    "Id": 46,
+    "Level": 47,
+    "StageNumber": 1360,
+    "SoulAmount": "886293811965257000000000",
+    "SoulAmountSerialized": "886293811965257000000000",
+    "MaximumCount": "4431469059826290000000000000",
+    "MaximumCountSerialized": "4431469059826290000000000000"
+  },
+  {
+    "Id": 47,
+    "Level": 48,
+    "StageNumber": 1380,
+    "SoulAmount": "2658881435895770000000000",
+    "SoulAmountSerialized": "2658881435895770000000000",
+    "MaximumCount": "13294407179478900000000000000",
+    "MaximumCountSerialized": "13294407179478900000000000000"
+  },
+  {
+    "Id": 48,
+    "Level": 49,
+    "StageNumber": 1400,
+    "SoulAmount": "7976644307687300000000000",
+    "SoulAmountSerialized": "7976644307687300000000000",
+    "MaximumCount": "39883221538436500000000000000",
+    "MaximumCountSerialized": "39883221538436500000000000000"
+  },
+  {
+    "Id": 49,
+    "Level": 50,
+    "StageNumber": 1420,
+    "SoulAmount": "23929932923061900000000000",
+    "SoulAmountSerialized": "23929932923061900000000000",
+    "MaximumCount": "119649664615309000000000000000",
+    "MaximumCountSerialized": "119649664615309000000000000000"
+  },
+  {
+    "Id": 50,
+    "Level": 51,
+    "StageNumber": 1440,
+    "SoulAmount": "71789798769185700000000000",
+    "SoulAmountSerialized": "71789798769185700000000000",
+    "MaximumCount": "358948993845928000000000000000",
+    "MaximumCountSerialized": "358948993845928000000000000000"
+  },
+  {
+    "Id": 51,
+    "Level": 52,
+    "StageNumber": 1460,
+    "SoulAmount": "215369396307557000000000000",
+    "SoulAmountSerialized": "215369396307557000000000000",
+    "MaximumCount": "1076846981537790000000000000000",
+    "MaximumCountSerialized": "1076846981537790000000000000000"
+  },
+  {
+    "Id": 52,
+    "Level": 53,
+    "StageNumber": 1480,
+    "SoulAmount": "646108188922670000000000000",
+    "SoulAmountSerialized": "646108188922670000000000000",
+    "MaximumCount": "3230540944613350000000000000000",
+    "MaximumCountSerialized": "3230540944613350000000000000000"
+  },
+  {
+    "Id": 53,
+    "Level": 54,
+    "StageNumber": 1500,
+    "SoulAmount": "1938324566768010000000000000",
+    "SoulAmountSerialized": "1938324566768010000000000000",
+    "MaximumCount": "9691622833840050000000000000000",
+    "MaximumCountSerialized": "9691622833840050000000000000000"
+  },
+  {
+    "Id": 54,
+    "Level": 55,
+    "StageNumber": 1520,
+    "SoulAmount": "5814973700304030000000000000",
+    "SoulAmountSerialized": "5814973700304030000000000000",
+    "MaximumCount": "29074868501520200000000000000000",
+    "MaximumCountSerialized": "29074868501520200000000000000000"
+  },
+  {
+    "Id": 55,
+    "Level": 56,
+    "StageNumber": 1540,
+    "SoulAmount": "17444921100912100000000000000",
+    "SoulAmountSerialized": "17444921100912100000000000000",
+    "MaximumCount": "87224605504560400000000000000000",
+    "MaximumCountSerialized": "87224605504560400000000000000000"
+  },
+  {
+    "Id": 56,
+    "Level": 57,
+    "StageNumber": 1560,
+    "SoulAmount": "52334763302736300000000000000",
+    "SoulAmountSerialized": "52334763302736300000000000000",
+    "MaximumCount": "261673816513681000000000000000000",
+    "MaximumCountSerialized": "261673816513681000000000000000000"
+  },
+  {
+    "Id": 57,
+    "Level": 58,
+    "StageNumber": 1580,
+    "SoulAmount": "157004289908209000000000000000",
+    "SoulAmountSerialized": "157004289908209000000000000000",
+    "MaximumCount": "785021449541044000000000000000000",
+    "MaximumCountSerialized": "785021449541044000000000000000000"
+  },
+  {
+    "Id": 58,
+    "Level": 59,
+    "StageNumber": 1600,
+    "SoulAmount": "471012869724626000000000000000",
+    "SoulAmountSerialized": "471012869724626000000000000000",
+    "MaximumCount": "2355064348623130000000000000000000",
+    "MaximumCountSerialized": "2355064348623130000000000000000000"
+  },
+  {
+    "Id": 59,
+    "Level": 60,
+    "StageNumber": 1620,
+    "SoulAmount": "1413038609173880000000000000000",
+    "SoulAmountSerialized": "1413038609173880000000000000000",
+    "MaximumCount": "7065193045869400000000000000000000",
+    "MaximumCountSerialized": "7065193045869400000000000000000000"
+  },
+  {
+    "Id": 60,
+    "Level": 61,
+    "StageNumber": 1640,
+    "SoulAmount": "4239115827521640000000000000000",
+    "SoulAmountSerialized": "4239115827521640000000000000000",
+    "MaximumCount": "21195579137608200000000000000000000",
+    "MaximumCountSerialized": "21195579137608200000000000000000000"
+  },
+  {
+    "Id": 61,
+    "Level": 62,
+    "StageNumber": 1660,
+    "SoulAmount": "12717347482564900000000000000000",
+    "SoulAmountSerialized": "12717347482564900000000000000000",
+    "MaximumCount": "63586737412824600000000000000000000",
+    "MaximumCountSerialized": "63586737412824600000000000000000000"
+  },
+  {
+    "Id": 62,
+    "Level": 63,
+    "StageNumber": 1680,
+    "SoulAmount": "38152042447694700000000000000000",
+    "SoulAmountSerialized": "38152042447694700000000000000000",
+    "MaximumCount": "190760212238474000000000000000000000",
+    "MaximumCountSerialized": "190760212238474000000000000000000000"
+  },
+  {
+    "Id": 63,
+    "Level": 64,
+    "StageNumber": 1700,
+    "SoulAmount": "114456127343084000000000000000000",
+    "SoulAmountSerialized": "114456127343084000000000000000000",
+    "MaximumCount": "572280636715421000000000000000000000",
+    "MaximumCountSerialized": "572280636715421000000000000000000000"
+  },
+  {
+    "Id": 64,
+    "Level": 65,
+    "StageNumber": 1720,
+    "SoulAmount": "343368382029253000000000000000000",
+    "SoulAmountSerialized": "343368382029253000000000000000000",
+    "MaximumCount": "1716841910146260000000000000000000000",
+    "MaximumCountSerialized": "1716841910146260000000000000000000000"
+  },
+  {
+    "Id": 65,
+    "Level": 66,
+    "StageNumber": 1740,
+    "SoulAmount": "1030105146087760000000000000000000",
+    "SoulAmountSerialized": "1030105146087760000000000000000000",
+    "MaximumCount": "5150525730438790000000000000000000000",
+    "MaximumCountSerialized": "5150525730438790000000000000000000000"
+  },
+  {
+    "Id": 66,
+    "Level": 67,
+    "StageNumber": 1760,
+    "SoulAmount": "3090315438263270000000000000000000",
+    "SoulAmountSerialized": "3090315438263270000000000000000000",
+    "MaximumCount": "15451577191316400000000000000000000000",
+    "MaximumCountSerialized": "15451577191316400000000000000000000000"
+  },
+  {
+    "Id": 67,
+    "Level": 68,
+    "StageNumber": 1780,
+    "SoulAmount": "9270946314789820000000000000000000",
+    "SoulAmountSerialized": "9270946314789820000000000000000000",
+    "MaximumCount": "46354731573949100000000000000000000000",
+    "MaximumCountSerialized": "46354731573949100000000000000000000000"
+  },
+  {
+    "Id": 68,
+    "Level": 69,
+    "StageNumber": 1800,
+    "SoulAmount": "27812838944369500000000000000000000",
+    "SoulAmountSerialized": "27812838944369500000000000000000000",
+    "MaximumCount": "139064194721847000000000000000000000000",
+    "MaximumCountSerialized": "139064194721847000000000000000000000000"
+  },
+  {
+    "Id": 69,
+    "Level": 70,
+    "StageNumber": 1820,
+    "SoulAmount": "83438516833108400000000000000000000",
+    "SoulAmountSerialized": "83438516833108400000000000000000000",
+    "MaximumCount": "417192584165542000000000000000000000000",
+    "MaximumCountSerialized": "417192584165542000000000000000000000000"
+  },
+  {
+    "Id": 70,
+    "Level": 71,
+    "StageNumber": 1840,
+    "SoulAmount": "250315550499325000000000000000000000",
+    "SoulAmountSerialized": "250315550499325000000000000000000000",
+    "MaximumCount": "1251577752496630000000000000000000000000",
+    "MaximumCountSerialized": "1251577752496630000000000000000000000000"
+  },
+  {
+    "Id": 71,
+    "Level": 72,
+    "StageNumber": 1860,
+    "SoulAmount": "750946651497975000000000000000000000",
+    "SoulAmountSerialized": "750946651497975000000000000000000000",
+    "MaximumCount": "3754733257489880000000000000000000000000",
+    "MaximumCountSerialized": "3754733257489880000000000000000000000000"
+  },
+  {
+    "Id": 72,
+    "Level": 73,
+    "StageNumber": 1880,
+    "SoulAmount": "2252839954493930000000000000000000000",
+    "SoulAmountSerialized": "2252839954493930000000000000000000000",
+    "MaximumCount": "11264199772469600000000000000000000000000",
+    "MaximumCountSerialized": "11264199772469600000000000000000000000000"
+  },
+  {
+    "Id": 73,
+    "Level": 74,
+    "StageNumber": 1900,
+    "SoulAmount": "6758519863481780000000000000000000000",
+    "SoulAmountSerialized": "6758519863481780000000000000000000000",
+    "MaximumCount": "33792599317408900000000000000000000000000",
+    "MaximumCountSerialized": "33792599317408900000000000000000000000000"
+  },
+  {
+    "Id": 74,
+    "Level": 75,
+    "StageNumber": 1920,
+    "SoulAmount": "20275559590445300000000000000000000000",
+    "SoulAmountSerialized": "20275559590445300000000000000000000000",
+    "MaximumCount": "101377797952227000000000000000000000000000",
+    "MaximumCountSerialized": "101377797952227000000000000000000000000000"
+  },
+  {
+    "Id": 75,
+    "Level": 76,
+    "StageNumber": 1940,
+    "SoulAmount": "60826678771336000000000000000000000000",
+    "SoulAmountSerialized": "60826678771336000000000000000000000000",
+    "MaximumCount": "304133393856680000000000000000000000000000",
+    "MaximumCountSerialized": "304133393856680000000000000000000000000000"
+  },
+  {
+    "Id": 76,
+    "Level": 77,
+    "StageNumber": 1960,
+    "SoulAmount": "182480036314008000000000000000000000000",
+    "SoulAmountSerialized": "182480036314008000000000000000000000000",
+    "MaximumCount": "912400181570040000000000000000000000000000",
+    "MaximumCountSerialized": "912400181570040000000000000000000000000000"
+  },
+  {
+    "Id": 77,
+    "Level": 78,
+    "StageNumber": 1980,
+    "SoulAmount": "547440108942024000000000000000000000000",
+    "SoulAmountSerialized": "547440108942024000000000000000000000000",
+    "MaximumCount": "2737200544710120000000000000000000000000000",
+    "MaximumCountSerialized": "2737200544710120000000000000000000000000000"
+  },
+  {
+    "Id": 78,
+    "Level": 79,
+    "StageNumber": 2000,
+    "SoulAmount": "1642320326826070000000000000000000000000",
+    "SoulAmountSerialized": "1642320326826070000000000000000000000000",
+    "MaximumCount": "8211601634130360000000000000000000000000000",
+    "MaximumCountSerialized": "8211601634130360000000000000000000000000000"
+  },
+  {
+    "Id": 79,
+    "Level": 80,
+    "StageNumber": 2020,
+    "SoulAmount": "4926960980478220000000000000000000000000",
+    "SoulAmountSerialized": "4926960980478220000000000000000000000000",
+    "MaximumCount": "24634804902391100000000000000000000000000000",
+    "MaximumCountSerialized": "24634804902391100000000000000000000000000000"
+  }
+]

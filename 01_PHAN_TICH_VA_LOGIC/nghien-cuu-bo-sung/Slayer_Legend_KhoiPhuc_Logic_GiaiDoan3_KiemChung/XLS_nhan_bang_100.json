@@ -1,0 +1,1111 @@
+[
+  {
+    "table_label": "Xls_Localize",
+    "table_label_offset_hex": "0x27734c",
+    "candidate_adjacent_fields": 53,
+    "examples": [
+      "sheets",
+      "Sheet",
+      "Param",
+      "get_IKOR",
+      "get_IENG",
+      "get_IJPN",
+      "get_ICHN",
+      "get_ITWN",
+      "get_IVNM",
+      "get_ITHA",
+      "get_IFRA",
+      "get_IDEU",
+      "get_IESP",
+      "get_IITA",
+      "get_IRUS",
+      "get_IPRT",
+      "get_ITUR",
+      "Key",
+      "KOR",
+      "ENG"
+    ]
+  },
+  {
+    "table_label": "Xls_Accessory",
+    "table_label_offset_hex": "0x27caa7",
+    "candidate_adjacent_fields": 9,
+    "examples": [
+      "SlotIndex",
+      "SubGrade",
+      "Name",
+      "Lock",
+      "InitValue",
+      "InitPrice",
+      "HavePower_MpCharge",
+      "HavePower_MpAmount",
+      "HavePower_Exp"
+    ]
+  },
+  {
+    "table_label": "Xls_AdventureInfo",
+    "table_label_offset_hex": "0x27cb1a",
+    "candidate_adjacent_fields": 16,
+    "examples": [
+      "AdventureIndex",
+      "SubIndex",
+      "SubName",
+      "CameraSetting",
+      "BossNumber",
+      "Boss",
+      "BossScale",
+      "Dia_Clear",
+      "Emerald_Clear",
+      "Map",
+      "Hp",
+      "Atk",
+      "AttackSpeed",
+      "Miss",
+      "Accuracy",
+      "BattleTime"
+    ]
+  },
+  {
+    "table_label": "Xls_AdventureWaveInfo",
+    "table_label_offset_hex": "0x27cbbc",
+    "candidate_adjacent_fields": 24,
+    "examples": [
+      "WaveNumber",
+      "MonsterCount",
+      "RepeatCount",
+      "DistanceIndex",
+      "m1",
+      "m2",
+      "m3",
+      "m4",
+      "m5",
+      "m6",
+      "m7",
+      "m8",
+      "m9",
+      "m10",
+      "S1",
+      "S2",
+      "S3",
+      "S4",
+      "S5",
+      "S6"
+    ]
+  },
+  {
+    "table_label": "Xls_Artifact",
+    "table_label_offset_hex": "0x27cc42",
+    "candidate_adjacent_fields": 10,
+    "examples": [
+      "Des",
+      "MaxLevel",
+      "value1",
+      "value10",
+      "value20",
+      "value30",
+      "value40",
+      "value50",
+      "value60",
+      "value70"
+    ]
+  },
+  {
+    "table_label": "Xls_AttendanceReward",
+    "table_label_offset_hex": "0x27cc9b",
+    "candidate_adjacent_fields": 1,
+    "examples": [
+      "RewardAmount"
+    ]
+  },
+  {
+    "table_label": "Xls_Aura",
+    "table_label_offset_hex": "0x27ccbd",
+    "candidate_adjacent_fields": 8,
+    "examples": [
+      "LevelLimit",
+      "AtkSpeed",
+      "HavePower0",
+      "HavePowerValue0",
+      "HavePower1",
+      "HavePowerValue1",
+      "HavePower2",
+      "HavePowerValue2"
+    ]
+  },
+  {
+    "table_label": "Xls_AwakeningAccessory",
+    "table_label_offset_hex": "0x27cd2b",
+    "candidate_adjacent_fields": 1,
+    "examples": [
+      "AwakeningNeedCount"
+    ]
+  },
+  {
+    "table_label": "Xls_AwakeningSlayerClass",
+    "table_label_offset_hex": "0x27cd55",
+    "candidate_adjacent_fields": 3,
+    "examples": [
+      "Cloak",
+      "Hat",
+      "Costume"
+    ]
+  },
+  {
+    "table_label": "Xls_AwakeningWeapon",
+    "table_label_offset_hex": "0x27cd80",
+    "candidate_adjacent_fields": 2,
+    "examples": [
+      "HavePower_CriticalValue",
+      "HavePower_GoldAmountValue"
+    ]
+  },
+  {
+    "table_label": "Xls_CampaignEpisode",
+    "table_label_offset_hex": "0x27cdc6",
+    "candidate_adjacent_fields": 4,
+    "examples": [
+      "EpisodeIndex",
+      "Title",
+      "StartScenario",
+      "EndScenario"
+    ]
+  },
+  {
+    "table_label": "Xls_CampaignInfo",
+    "table_label_offset_hex": "0x27ce07",
+    "candidate_adjacent_fields": 19,
+    "examples": [
+      "Difficulty",
+      "ScenarioIndex",
+      "Bgm",
+      "Intro",
+      "Outro",
+      "Battle",
+      "AttackDistance",
+      "BossHpFactor",
+      "BossAtkFactor",
+      "EnemyHp",
+      "EnemyAtk",
+      "WaveCount",
+      "SameWave",
+      "BattleType",
+      "BattlePattern",
+      "EnemyAttackType",
+      "SpecialAttack_Prob",
+      "SpecialAttack_Cooltime",
+      "TimeLimit"
+    ]
+  },
+  {
+    "table_label": "Xls_CampaignScenario",
+    "table_label_offset_hex": "0x27cef3",
+    "candidate_adjacent_fields": 22,
+    "examples": [
+      "ScenarioState",
+      "OrderIndex",
+      "ActionType",
+      "ActionTypeString",
+      "TypeIndex",
+      "TimeCost",
+      "Actors1",
+      "Actors2",
+      "Actors3",
+      "Actors4",
+      "Actors5",
+      "Positions1",
+      "Positions2",
+      "Positions3",
+      "Positions4",
+      "Positions5",
+      "Scales1",
+      "Scales2",
+      "Scales3",
+      "Scales4"
+    ]
+  },
+  {
+    "table_label": "Xls_CampaignWaveInfo",
+    "table_label_offset_hex": "0x27cfde",
+    "candidate_adjacent_fields": 1,
+    "examples": [
+      "BattleIndex"
+    ]
+  },
+  {
+    "table_label": "Xls_CaveInfo",
+    "table_label_offset_hex": "0x27cfff",
+    "candidate_adjacent_fields": 3,
+    "examples": [
+      "SlayerClassIndex",
+      "SlayerClassProb",
+      "MonsterIndex"
+    ]
+  },
+  {
+    "table_label": "Xls_ChrismasEvent",
+    "table_label_offset_hex": "0x27d03a",
+    "candidate_adjacent_fields": 1,
+    "examples": [
+      "Event_Mode"
+    ]
+  },
+  {
+    "table_label": "Xls_ContentsOpen",
+    "table_label_offset_hex": "0x27d057",
+    "candidate_adjacent_fields": 11,
+    "examples": [
+      "Country",
+      "PlayerClass",
+      "StageBest",
+      "Story",
+      "Training",
+      "Knowledge",
+      "SoulWeapon",
+      "BattleSetting",
+      "Skin",
+      "StageRanking",
+      "Chat"
+    ]
+  },
+  {
+    "table_label": "Xls_Country",
+    "table_label_offset_hex": "0x27d0cf",
+    "candidate_adjacent_fields": 2,
+    "examples": [
+      "CountryCode",
+      "Region"
+    ]
+  },
+  {
+    "table_label": "Xls_Dialogue",
+    "table_label_offset_hex": "0x27d0ee",
+    "candidate_adjacent_fields": 3,
+    "examples": [
+      "Who",
+      "Icon",
+      "Sentence"
+    ]
+  },
+  {
+    "table_label": "Xls_DialogueStory",
+    "table_label_offset_hex": "0x27d10d",
+    "candidate_adjacent_fields": 4,
+    "examples": [
+      "StoryType",
+      "last",
+      "LeftSelect",
+      "RightSelect"
+    ]
+  },
+  {
+    "table_label": "Xls_Equipment",
+    "table_label_offset_hex": "0x27d145",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_EquipmentGachaLevel",
+    "table_label_offset_hex": "0x27d153",
+    "candidate_adjacent_fields": 6,
+    "examples": [
+      "NeedGachaCount",
+      "Advanced",
+      "Rare",
+      "Epic",
+      "Legend",
+      "Mythic"
+    ]
+  },
+  {
+    "table_label": "Xls_EquipmentGachaReward",
+    "table_label_offset_hex": "0x27d19b",
+    "candidate_adjacent_fields": 2,
+    "examples": [
+      "GachaLevel",
+      "Count"
+    ]
+  },
+  {
+    "table_label": "Xls_EquipmentInfo",
+    "table_label_offset_hex": "0x27d1c5",
+    "candidate_adjacent_fields": 1,
+    "examples": [
+      "Price"
+    ]
+  },
+  {
+    "table_label": "Xls_EventGroup",
+    "table_label_offset_hex": "0x27d1dd",
+    "candidate_adjacent_fields": 5,
+    "examples": [
+      "Group",
+      "Type",
+      "TypeGroup",
+      "Desc",
+      "ResourcesData"
+    ]
+  },
+  {
+    "table_label": "Xls_EventList",
+    "table_label_offset_hex": "0x27d214",
+    "candidate_adjacent_fields": 4,
+    "examples": [
+      "StartTime",
+      "ValidTime",
+      "IconPositionX",
+      "IconPositionY"
+    ]
+  },
+  {
+    "table_label": "Xls_EventSchedule",
+    "table_label_offset_hex": "0x27d252",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_EventWay",
+    "table_label_offset_hex": "0x27d264",
+    "candidate_adjacent_fields": 8,
+    "examples": [
+      "RewardIndex",
+      "DisplayGoods",
+      "DisplayMonster",
+      "MoveIndex",
+      "Action",
+      "IsEnd",
+      "IsStart",
+      "Ticket"
+    ]
+  },
+  {
+    "table_label": "Xls_FightStatContent",
+    "table_label_offset_hex": "0x27d2bf",
+    "candidate_adjacent_fields": 3,
+    "examples": [
+      "SlotNumber",
+      "SlotLevel",
+      "UpgradePrice"
+    ]
+  },
+  {
+    "table_label": "Xls_FriendBattleInfo",
+    "table_label_offset_hex": "0x27d2f6",
+    "candidate_adjacent_fields": 2,
+    "examples": [
+      "CharacterType",
+      "AttackRange"
+    ]
+  },
+  {
+    "table_label": "Xls_FriendClass",
+    "table_label_offset_hex": "0x27d325",
+    "candidate_adjacent_fields": 2,
+    "examples": [
+      "SkinIndex",
+      "SkinName"
+    ]
+  },
+  {
+    "table_label": "Xls_FriendGradeFactor",
+    "table_label_offset_hex": "0x27d348",
+    "candidate_adjacent_fields": 1,
+    "examples": [
+      "Factor"
+    ]
+  },
+  {
+    "table_label": "Xls_FriendOptionValue",
+    "table_label_offset_hex": "0x27d365",
+    "candidate_adjacent_fields": 5,
+    "examples": [
+      "C",
+      "B",
+      "A",
+      "SS",
+      "SSS"
+    ]
+  },
+  {
+    "table_label": "Xls_FriendPassive",
+    "table_label_offset_hex": "0x27d388",
+    "candidate_adjacent_fields": 5,
+    "examples": [
+      "FriendIndex",
+      "LimitGrade",
+      "PassiveName",
+      "EmeraldPrice",
+      "StonePrice"
+    ]
+  },
+  {
+    "table_label": "Xls_FriendPassiveDmg",
+    "table_label_offset_hex": "0x27d3d5",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_Gem",
+    "table_label_offset_hex": "0x27d3ea",
+    "candidate_adjacent_fields": 3,
+    "examples": [
+      "GemType",
+      "translateName",
+      "translateDes"
+    ]
+  },
+  {
+    "table_label": "Xls_GemCombination",
+    "table_label_offset_hex": "0x27d415",
+    "candidate_adjacent_fields": 12,
+    "examples": [
+      "mineral1",
+      "mineral2",
+      "mineral3",
+      "mineral4",
+      "mineral5",
+      "mineral6",
+      "count1",
+      "count2",
+      "count3",
+      "count4",
+      "count5",
+      "count6"
+    ]
+  },
+  {
+    "table_label": "Xls_GemInfo",
+    "table_label_offset_hex": "0x27d488",
+    "candidate_adjacent_fields": 3,
+    "examples": [
+      "specialPower",
+      "specialValue",
+      "ActivePercent"
+    ]
+  },
+  {
+    "table_label": "Xls_Gift",
+    "table_label_offset_hex": "0x27d4bc",
+    "candidate_adjacent_fields": 3,
+    "examples": [
+      "RewardCount",
+      "RewardDes",
+      "SubDes"
+    ]
+  },
+  {
+    "table_label": "Xls_Goods",
+    "table_label_offset_hex": "0x27d4e2",
+    "candidate_adjacent_fields": 1,
+    "examples": [
+      "GetGroup"
+    ]
+  },
+  {
+    "table_label": "Xls_GoodsGet",
+    "table_label_offset_hex": "0x27d4f5",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_KnowledgeInfo",
+    "table_label_offset_hex": "0x27d502",
+    "candidate_adjacent_fields": 2,
+    "examples": [
+      "UpgradeType",
+      "MapColor"
+    ]
+  },
+  {
+    "table_label": "Xls_KnowledgeInfoSuperCritical",
+    "table_label_offset_hex": "0x27d529",
+    "candidate_adjacent_fields": 1,
+    "examples": [
+      "AddLevel"
+    ]
+  },
+  {
+    "table_label": "Xls_LanguageInfo",
+    "table_label_offset_hex": "0x27d551",
+    "candidate_adjacent_fields": 2,
+    "examples": [
+      "Korean",
+      "English"
+    ]
+  },
+  {
+    "table_label": "Xls_Localization",
+    "table_label_offset_hex": "0x27d571",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_Mask",
+    "table_label_offset_hex": "0x27d582",
+    "candidate_adjacent_fields": 5,
+    "examples": [
+      "SetIndex",
+      "Rank",
+      "CardCount",
+      "New",
+      "Hair"
+    ]
+  },
+  {
+    "table_label": "Xls_MineInfo",
+    "table_label_offset_hex": "0x27d5ac",
+    "candidate_adjacent_fields": 9,
+    "examples": [
+      "MainIndex",
+      "Cube",
+      "StoneProb",
+      "BoxGold",
+      "BoxExp",
+      "BoxCube",
+      "BoxStone",
+      "BoxEmerald",
+      "BoxDia"
+    ]
+  },
+  {
+    "table_label": "Xls_MineralItem",
+    "table_label_offset_hex": "0x27d604",
+    "candidate_adjacent_fields": 1,
+    "examples": [
+      "transName"
+    ]
+  },
+  {
+    "table_label": "Xls_MineWaveInfo",
+    "table_label_offset_hex": "0x27d61e",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_MiniQuest",
+    "table_label_offset_hex": "0x27d62f",
+    "candidate_adjacent_fields": 1,
+    "examples": [
+      "NeedCount"
+    ]
+  },
+  {
+    "table_label": "Xls_Monster",
+    "table_label_offset_hex": "0x27d647",
+    "candidate_adjacent_fields": 16,
+    "examples": [
+      "leaderPower",
+      "LeaderPowerDegree",
+      "MonsterPowerGage",
+      "MonsterPower",
+      "MonsterType",
+      "ShotType",
+      "leaderPower_1",
+      "LeaderPowerDegree_1",
+      "leaderPower_2",
+      "LeaderPowerDegree_2",
+      "leaderPower_3",
+      "LeaderPowerDegree_3",
+      "leaderPower_4",
+      "LeaderPowerDegree_4",
+      "leaderPower_5",
+      "LeaderPowerDegree_5"
+    ]
+  },
+  {
+    "table_label": "Xls_MonsterDistanceInfo",
+    "table_label_offset_hex": "0x27d74e",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_MonsterInfo",
+    "table_label_offset_hex": "0x27d766",
+    "candidate_adjacent_fields": 3,
+    "examples": [
+      "scaleSize",
+      "AbnormalState",
+      "Height"
+    ]
+  },
+  {
+    "table_label": "Xls_NoPatchString",
+    "table_label_offset_hex": "0x27d795",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_OptionValue",
+    "table_label_offset_hex": "0x27d7a7",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_PatchString",
+    "table_label_offset_hex": "0x27d7b7",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_PetStat",
+    "table_label_offset_hex": "0x27d7c7",
+    "candidate_adjacent_fields": 6,
+    "examples": [
+      "Level_1",
+      "Value_1",
+      "Price_1",
+      "Level_2",
+      "Value_2",
+      "Price_2"
+    ]
+  },
+  {
+    "table_label": "Xls_PlayerClass",
+    "table_label_offset_hex": "0x27d803",
+    "candidate_adjacent_fields": 5,
+    "examples": [
+      "ClassTitle",
+      "LimitLevel",
+      "ClassAtk",
+      "ClassHp",
+      "BattleName"
+    ]
+  },
+  {
+    "table_label": "Xls_PlayerClassBattleWaveInfo",
+    "table_label_offset_hex": "0x27d845",
+    "candidate_adjacent_fields": 1,
+    "examples": [
+      "ClassIndex"
+    ]
+  },
+  {
+    "table_label": "Xls_Reward",
+    "table_label_offset_hex": "0x27d86e",
+    "candidate_adjacent_fields": 1,
+    "examples": [
+      "RewardGroupIndex"
+    ]
+  },
+  {
+    "table_label": "Xls_RewardGroup",
+    "table_label_offset_hex": "0x27d88a",
+    "candidate_adjacent_fields": 2,
+    "examples": [
+      "RewardKey",
+      "Rate"
+    ]
+  },
+  {
+    "table_label": "Xls_RewardItem",
+    "table_label_offset_hex": "0x27d8a9",
+    "candidate_adjacent_fields": 2,
+    "examples": [
+      "GoodsIndex",
+      "GoodsCount"
+    ]
+  },
+  {
+    "table_label": "Xls_Shield",
+    "table_label_offset_hex": "0x27d8ce",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_Skill",
+    "table_label_offset_hex": "0x27d8d9",
+    "candidate_adjacent_fields": 16,
+    "examples": [
+      "SkillName",
+      "SkillBasicDes",
+      "SkillSpecificDes",
+      "skillOpenType",
+      "skillType",
+      "activeType",
+      "passiveType",
+      "MpCost",
+      "upgradeValue",
+      "ActiveNeedValue",
+      "Range",
+      "Duration",
+      "AnimationNumber",
+      "Have",
+      "OldSkill",
+      "MaxLevelType"
+    ]
+  },
+  {
+    "table_label": "Xls_SkillLevel",
+    "table_label_offset_hex": "0x27d999",
+    "candidate_adjacent_fields": 7,
+    "examples": [
+      "grade0",
+      "grade1",
+      "grade2",
+      "grade3",
+      "grade4",
+      "grade5",
+      "PriceFactor"
+    ]
+  },
+  {
+    "table_label": "Xls_SkillMakingData",
+    "table_label_offset_hex": "0x27d9de",
+    "candidate_adjacent_fields": 14,
+    "examples": [
+      "material0",
+      "materialIndex0",
+      "value0",
+      "material1",
+      "materialIndex1",
+      "material2",
+      "materialIndex2",
+      "value2",
+      "material3",
+      "materialIndex3",
+      "value3",
+      "material4",
+      "materialIndex4",
+      "value4"
+    ]
+  },
+  {
+    "table_label": "Xls_SkillStatContent",
+    "table_label_offset_hex": "0x27da8b",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_SkillTree",
+    "table_label_offset_hex": "0x27daa0",
+    "candidate_adjacent_fields": 4,
+    "examples": [
+      "Fire",
+      "Water",
+      "Wind",
+      "Earth"
+    ]
+  },
+  {
+    "table_label": "Xls_SkinBattle",
+    "table_label_offset_hex": "0x27dac4",
+    "candidate_adjacent_fields": 4,
+    "examples": [
+      "BattleTitle",
+      "LimitSkill0",
+      "LimitSkill1",
+      "LimitSkill2"
+    ]
+  },
+  {
+    "table_label": "Xls_SkinBattleWaveInfo",
+    "table_label_offset_hex": "0x27db03",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_Skin_Body",
+    "table_label_offset_hex": "0x27db1a",
+    "candidate_adjacent_fields": 8,
+    "examples": [
+      "GetType",
+      "QuestType",
+      "GetTypeIndex",
+      "NeedValue",
+      "OptionType",
+      "OptionValue",
+      "Gender",
+      "SameSprites"
+    ]
+  },
+  {
+    "table_label": "Xls_Skin_Cloak",
+    "table_label_offset_hex": "0x27db7b",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_Skin_Costume",
+    "table_label_offset_hex": "0x27db8a",
+    "candidate_adjacent_fields": 2,
+    "examples": [
+      "BodyBase",
+      "Sale"
+    ]
+  },
+  {
+    "table_label": "Xls_Skin_Face",
+    "table_label_offset_hex": "0x27dba9",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_Skin_Hair",
+    "table_label_offset_hex": "0x27dbb7",
+    "candidate_adjacent_fields": 2,
+    "examples": [
+      "HairBack",
+      "HairColor"
+    ]
+  },
+  {
+    "table_label": "Xls_Skin_HairBack",
+    "table_label_offset_hex": "0x27dbd8",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_Skin_HairColor",
+    "table_label_offset_hex": "0x27dbea",
+    "candidate_adjacent_fields": 1,
+    "examples": [
+      "ColorKey"
+    ]
+  },
+  {
+    "table_label": "Xls_Skin_Hat",
+    "table_label_offset_hex": "0x27dc06",
+    "candidate_adjacent_fields": 1,
+    "examples": [
+      "HairFront"
+    ]
+  },
+  {
+    "table_label": "Xls_SlayerClass",
+    "table_label_offset_hex": "0x27dc1d",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_SlayerClassGachaProb",
+    "table_label_offset_hex": "0x27dc2d",
+    "candidate_adjacent_fields": 1,
+    "examples": [
+      "prob"
+    ]
+  },
+  {
+    "table_label": "Xls_SlayerClassGachaReward",
+    "table_label_offset_hex": "0x27dc4b",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_SoulWeapon",
+    "table_label_offset_hex": "0x27dc66",
+    "candidate_adjacent_fields": 7,
+    "examples": [
+      "SoulType",
+      "SoulAmount",
+      "WeaponIndex",
+      "WeaponAmount",
+      "NeedStage",
+      "DisassemblyReward",
+      "WeaponSkinIndex"
+    ]
+  },
+  {
+    "table_label": "Xls_Sound",
+    "table_label_offset_hex": "0x27dcce",
+    "candidate_adjacent_fields": 6,
+    "examples": [
+      "DelayTime",
+      "LoadType",
+      "Volume",
+      "PoolCount",
+      "PoolType",
+      "Path"
+    ]
+  },
+  {
+    "table_label": "Xls_SpiritBase",
+    "table_label_offset_hex": "0x27dd0a",
+    "candidate_adjacent_fields": 17,
+    "examples": [
+      "SpeciesIndex",
+      "SpiritAbilityTypes0",
+      "AbilityValues0",
+      "SpiritAbilityTypes1",
+      "AbilityValues1",
+      "SpiritAbilityTypes2",
+      "AbilityValues2",
+      "SpiritAbilityTypes3",
+      "AbilityValues3",
+      "SkillDes",
+      "SkillType",
+      "SkillValues0",
+      "SkillValues1",
+      "SkillValues2",
+      "SkillValues3",
+      "SkillValues4",
+      "PartnerEffect"
+    ]
+  },
+  {
+    "table_label": "Xls_SpiritEquipSlotOpen",
+    "table_label_offset_hex": "0x27de14",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_SpiritForest",
+    "table_label_offset_hex": "0x27de2c",
+    "candidate_adjacent_fields": 1,
+    "examples": [
+      "ManaCrystal"
+    ]
+  },
+  {
+    "table_label": "Xls_SpiritGachaProb",
+    "table_label_offset_hex": "0x27de49",
+    "candidate_adjacent_fields": 1,
+    "examples": [
+      "Prob"
+    ]
+  },
+  {
+    "table_label": "Xls_SpiritInventory",
+    "table_label_offset_hex": "0x27de62",
+    "candidate_adjacent_fields": 1,
+    "examples": [
+      "InventoryCount"
+    ]
+  },
+  {
+    "table_label": "Xls_SpiritLevelLimit",
+    "table_label_offset_hex": "0x27de85",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_SpiritUpgrade",
+    "table_label_offset_hex": "0x27de9a",
+    "candidate_adjacent_fields": 11,
+    "examples": [
+      "UpgradeCube",
+      "GoldExpFactors0",
+      "GoldExpFactors1",
+      "GoldExpFactors2",
+      "GoldExpFactors3",
+      "GoldExpFactors4",
+      "AttackHpFactors0",
+      "AttackHpFactors1",
+      "AttackHpFactors2",
+      "AttackHpFactors3",
+      "AttackHpFactors4"
+    ]
+  },
+  {
+    "table_label": "Xls_Stage",
+    "table_label_offset_hex": "0x27df5d",
+    "candidate_adjacent_fields": 13,
+    "examples": [
+      "StageNumber",
+      "TranslateName",
+      "MapScale",
+      "MonsterScale",
+      "level_1",
+      "level_2",
+      "level_3",
+      "level_4",
+      "level_5",
+      "Hp_Factor",
+      "Gold_Factor",
+      "MpCost_Increase",
+      "Level_Factor"
+    ]
+  },
+  {
+    "table_label": "Xls_StageGoldFactor",
+    "table_label_offset_hex": "0x27dff2",
+    "candidate_adjacent_fields": 1,
+    "examples": [
+      "GoldFactor"
+    ]
+  },
+  {
+    "table_label": "Xls_StageInfoXlsx",
+    "table_label_offset_hex": "0x27e011",
+    "candidate_adjacent_fields": 19,
+    "examples": [
+      "StageName",
+      "MainNumber",
+      "SubNumber",
+      "BossName",
+      "BossCameraSetting",
+      "m0",
+      "BossHp",
+      "BossAtk",
+      "EquipmentProb",
+      "EquipmentIndex",
+      "Dice",
+      "GoldAuto",
+      "ExpAuto",
+      "CubeAuto",
+      "StoneAuto",
+      "ADsGold",
+      "DiceAuto",
+      "SoulAuto",
+      "DiamondAuto"
+    ]
+  },
+  {
+    "table_label": "Xls_StageSoulInfo",
+    "table_label_offset_hex": "0x27e0db",
+    "candidate_adjacent_fields": 2,
+    "examples": [
+      "StageMainNumber",
+      "SoulProb"
+    ]
+  },
+  {
+    "table_label": "Xls_TrainingGrade",
+    "table_label_offset_hex": "0x27e106",
+    "candidate_adjacent_fields": 4,
+    "examples": [
+      "StatPoint",
+      "OverPoint",
+      "NextGradeLevelLimit",
+      "TrainingMaxLevel"
+    ]
+  },
+  {
+    "table_label": "Xls_TutorialInfo",
+    "table_label_offset_hex": "0x27e151",
+    "candidate_adjacent_fields": 4,
+    "examples": [
+      "DesCount",
+      "FirstDes",
+      "SecondDes",
+      "ThirdDes"
+    ]
+  },
+  {
+    "table_label": "Xls_UserLevel",
+    "table_label_offset_hex": "0x27e187",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_WeaponInvenUpgradeStatContent",
+    "table_label_offset_hex": "0x27e195",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  },
+  {
+    "table_label": "Xls_WeaponSkin",
+    "table_label_offset_hex": "0x27e1b7",
+    "candidate_adjacent_fields": 4,
+    "examples": [
+      "EffectColor",
+      "RecourcePath",
+      "WeaponSkinType",
+      "WeaponSkinTypeIndex"
+    ]
+  },
+  {
+    "table_label": "Xls_WeaponUpgradeStat",
+    "table_label_offset_hex": "0x27e202",
+    "candidate_adjacent_fields": 0,
+    "examples": []
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "fresh_run_from_original_xapk": true,
+  "without_executing_apk": true,
+  "comparison": "Parsed JSON values, independent of object-key serialization order",
+  "files": [
+    {
+      "file": "method-map.json",
+      "contents_equal": true,
+      "canonical_sha256": "f38b3d5f5192c377fbc60fad33a85a1099d1cdc1f34daf9820b5f76b0672f1e6"
+    },
+    {
+      "file": "type-map.json",
+      "contents_equal": true,
+      "canonical_sha256": "9d74d02174d3d26561357e328789ab8d420291eca367badaf1252fa894b2fb25"
+    },
+    {
+      "file": "field-map.json",
+      "contents_equal": true,
+      "canonical_sha256": "208ef67877a0442317cff5036e632fd58d3a6c7c46d221abdbb0100a51d3fa22"
+    },
+    {
+      "file": "parameter-map.json",
+      "contents_equal": true,
+      "canonical_sha256": "6dbde3a7a68d69761be0a1b44540f3e454519e2e3284cdb0442a99b0aec7fa40"
+    },
+    {
+      "file": "native-type-map.json",
+      "contents_equal": true,
+      "canonical_sha256": "6aade4719ee8c5df7882ff0f1869c475fffe448a6eefbf22b3e4d4dec81bf9c5"
+    },
+    {
+      "file": "verification.json",
+      "contents_equal": true,
+      "canonical_sha256": "6790b458a2eaad44c63946c8ff700a2b39b2ef45a74cac028cecbf8d9bcea495"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "Id": 1,
+    "Content": "NEW_USER_GROWTH_MAIL_TITLE",
+    "ExpireHour": 6,
+    "OpenType": 2,
+    "OpenValue": 20,
+    "RewardType": [
+      1,
+      10
+    ],
+    "RewardIndex": [
+      0,
+      0
+    ],
+    "RewardAmount": [
+      5000,
+      2
+    ]
+  },
+  {
+    "Id": 2,
+    "Content": "NEW_USER_GROWTH_MAIL_TITLE",
+    "ExpireHour": 24,
+    "OpenType": 2,
+    "OpenValue": 40,
+    "RewardType": [
+      1,
+      10
+    ],
+    "RewardIndex": [
+      0,
+      0
+    ],
+    "RewardAmount": [
+      7500,
+      3
+    ]
+  },
+  {
+    "Id": 3,
+    "Content": "NEW_USER_GROWTH_MAIL_TITLE",
+    "ExpireHour": 24,
+    "OpenType": 2,
+    "OpenValue": 60,
+    "RewardType": [
+      1,
+      10
+    ],
+    "RewardIndex": [
+      0,
+      0
+    ],
+    "RewardAmount": [
+      10000,
+      5
+    ]
+  }
+]

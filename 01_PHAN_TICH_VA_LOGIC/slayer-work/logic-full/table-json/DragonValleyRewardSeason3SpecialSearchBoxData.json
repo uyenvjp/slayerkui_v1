@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 0,
+    "Grade": 1,
+    "CurrencyType": 6000,
+    "Amount": 2,
+    "CliffProb": [
+      0.0
+    ]
+  },
+  {
+    "Id": 1,
+    "Grade": 1,
+    "CurrencyType": 6201,
+    "Amount": 1,
+    "CliffProb": [
+      12.0
+    ]
+  },
+  {
+    "Id": 2,
+    "Grade": 1,
+    "CurrencyType": 6201,
+    "Amount": 2,
+    "CliffProb": [
+      12.0
+    ]
+  },
+  {
+    "Id": 3,
+    "Grade": 1,
+    "CurrencyType": 6202,
+    "Amount": 1,
+    "CliffProb": [
+      11.0
+    ]
+  },
+  {
+    "Id": 4,
+    "Grade": 1,
+    "CurrencyType": 6203,
+    "Amount": 1,
+    "CliffProb": [
+      8.0
+    ]
+  }
+]

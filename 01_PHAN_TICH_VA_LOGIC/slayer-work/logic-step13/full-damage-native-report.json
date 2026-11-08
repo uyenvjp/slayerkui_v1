@@ -1,0 +1,24 @@
+{
+  "cases": 162,
+  "instruction_steps": 168280,
+  "distinct_instructions": 3647,
+  "scope": "Stronger linked original normal/boss/special modifiers, element tables, full/high/low HP, orb/theme/beast/spirit math plus hit/HP/instant-kill/death/normal loot chain. No modifier-return constants. Warm EnemyNormal callbacks are an explicit profile, not every boss subclass. Secure/stat getters, spirit availability, multicast construction, RNG/Unity and downstream manager/skill callbacks remain declared fixtures; no full account/battle/backend parity.",
+  "linked_entry_visited": {
+    "normal": "0x50b8b60",
+    "boss": "0x50b8cbc",
+    "special": "0x50b8e74",
+    "fullHp": "0x50b9e10",
+    "normalSkill": "0x50ba054",
+    "bossSkill": "0x50ba690",
+    "highHp": "0x50ba1c8",
+    "lowHp": "0x50ba354",
+    "beast": "0x50ba804",
+    "orbNormal": "0x50bb34c",
+    "orbBoss": "0x50bb654",
+    "themeNormal": "0x50bb4d0",
+    "themeBoss": "0x50bb7d8",
+    "highCheck": "0x50bba54",
+    "lowCheck": "0x50bbb74",
+    "element": "0x5018334"
+  }
+}

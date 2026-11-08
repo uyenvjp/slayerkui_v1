@@ -1,0 +1,222 @@
+[
+  {
+    "Id": 1,
+    "Name": "SELECT_ITEM_NAME_001",
+    "Desc": "SELECT_ITEM_DESC_001",
+    "Icon": "Icon/Item_Icon/SelectItem_Skill 0",
+    "Random": false,
+    "CurrencyType": 102,
+    "GradeType": 0,
+    "Count": 1
+  },
+  {
+    "Id": 2,
+    "Name": "SELECT_ITEM_NAME_002",
+    "Desc": "SELECT_ITEM_DESC_002",
+    "Icon": "Icon/Item_Icon/SelectItem_Skill 1",
+    "Random": false,
+    "CurrencyType": 102,
+    "GradeType": 1,
+    "Count": 1
+  },
+  {
+    "Id": 3,
+    "Name": "SELECT_ITEM_NAME_003",
+    "Desc": "SELECT_ITEM_DESC_003",
+    "Icon": "Icon/Item_Icon/SelectItem_Skill 2",
+    "Random": false,
+    "CurrencyType": 102,
+    "GradeType": 2,
+    "Count": 1
+  },
+  {
+    "Id": 4,
+    "Name": "SELECT_ITEM_NAME_004",
+    "Desc": "SELECT_ITEM_DESC_004",
+    "Icon": "Icon/Item_Icon/SelectItem_Skill 3",
+    "Random": false,
+    "CurrencyType": 102,
+    "GradeType": 3,
+    "Count": 1
+  },
+  {
+    "Id": 5,
+    "Name": "SELECT_ITEM_NAME_005",
+    "Desc": "SELECT_ITEM_DESC_005",
+    "Icon": "Icon/Item_Icon/SelectItem_Skill 4",
+    "Random": false,
+    "CurrencyType": 102,
+    "GradeType": 4,
+    "Count": 1
+  },
+  {
+    "Id": 6,
+    "Name": "SELECT_ITEM_NAME_006",
+    "Desc": "SELECT_ITEM_DESC_006",
+    "Icon": "Icon/Item_Icon/SelectItem_Skill 5",
+    "Random": false,
+    "CurrencyType": 102,
+    "GradeType": 5,
+    "Count": 1
+  },
+  {
+    "Id": 7,
+    "Name": "SELECT_ITEM_NAME_007",
+    "Desc": "SELECT_ITEM_DESC_007",
+    "Icon": "Icon/Item_Icon/SelectItem_Spirit 0",
+    "Random": false,
+    "CurrencyType": 105,
+    "GradeType": 0,
+    "Count": 1
+  },
+  {
+    "Id": 8,
+    "Name": "SELECT_ITEM_NAME_008",
+    "Desc": "SELECT_ITEM_DESC_008",
+    "Icon": "Icon/Item_Icon/SelectItem_Spirit 1",
+    "Random": false,
+    "CurrencyType": 105,
+    "GradeType": 1,
+    "Count": 1
+  },
+  {
+    "Id": 9,
+    "Name": "SELECT_ITEM_NAME_009",
+    "Desc": "SELECT_ITEM_DESC_009",
+    "Icon": "Icon/Item_Icon/SelectItem_Spirit 2",
+    "Random": false,
+    "CurrencyType": 105,
+    "GradeType": 2,
+    "Count": 1
+  },
+  {
+    "Id": 10,
+    "Name": "SELECT_ITEM_NAME_010",
+    "Desc": "SELECT_ITEM_DESC_010",
+    "Icon": "Icon/Item_Icon/SelectItem_Spirit 3",
+    "Random": false,
+    "CurrencyType": 105,
+    "GradeType": 3,
+    "Count": 1
+  },
+  {
+    "Id": 11,
+    "Name": "SELECT_ITEM_NAME_011",
+    "Desc": "SELECT_ITEM_DESC_011",
+    "Icon": "Icon/Item_Icon/SelectItem_Spirit 4",
+    "Random": false,
+    "CurrencyType": 105,
+    "GradeType": 4,
+    "Count": 1
+  },
+  {
+    "Id": 12,
+    "Name": "SELECT_ITEM_NAME_012",
+    "Desc": "SELECT_ITEM_DESC_012",
+    "Icon": "Icon/Item_Icon/RandomItem_Skill 0",
+    "Random": true,
+    "CurrencyType": 102,
+    "GradeType": 0,
+    "Count": 1
+  },
+  {
+    "Id": 13,
+    "Name": "SELECT_ITEM_NAME_013",
+    "Desc": "SELECT_ITEM_DESC_013",
+    "Icon": "Icon/Item_Icon/RandomItem_Skill 1",
+    "Random": true,
+    "CurrencyType": 102,
+    "GradeType": 1,
+    "Count": 1
+  },
+  {
+    "Id": 14,
+    "Name": "SELECT_ITEM_NAME_014",
+    "Desc": "SELECT_ITEM_DESC_014",
+    "Icon": "Icon/Item_Icon/RandomItem_Skill 2",
+    "Random": true,
+    "CurrencyType": 102,
+    "GradeType": 2,
+    "Count": 1
+  },
+  {
+    "Id": 15,
+    "Name": "SELECT_ITEM_NAME_015",
+    "Desc": "SELECT_ITEM_DESC_015",
+    "Icon": "Icon/Item_Icon/RandomItem_Skill 3",
+    "Random": true,
+    "CurrencyType": 102,
+    "GradeType": 3,
+    "Count": 1
+  },
+  {
+    "Id": 16,
+    "Name": "SELECT_ITEM_NAME_016",
+    "Desc": "SELECT_ITEM_DESC_016",
+    "Icon": "Icon/Item_Icon/RandomItem_Skill 4",
+    "Random": true,
+    "CurrencyType": 102,
+    "GradeType": 4,
+    "Count": 1
+  },
+  {
+    "Id": 17,
+    "Name": "SELECT_ITEM_NAME_017",
+    "Desc": "SELECT_ITEM_DESC_017",
+    "Icon": "Icon/Item_Icon/RandomItem_Skill 5",
+    "Random": true,
+    "CurrencyType": 102,
+    "GradeType": 5,
+    "Count": 1
+  },
+  {
+    "Id": 18,
+    "Name": "SELECT_ITEM_NAME_018",
+    "Desc": "SELECT_ITEM_DESC_018",
+    "Icon": "Icon/Item_Icon/RandomItem_Spirit 0",
+    "Random": true,
+    "CurrencyType": 105,
+    "GradeType": 0,
+    "Count": 1
+  },
+  {
+    "Id": 19,
+    "Name": "SELECT_ITEM_NAME_019",
+    "Desc": "SELECT_ITEM_DESC_019",
+    "Icon": "Icon/Item_Icon/RandomItem_Spirit 1",
+    "Random": true,
+    "CurrencyType": 105,
+    "GradeType": 1,
+    "Count": 1
+  },
+  {
+    "Id": 20,
+    "Name": "SELECT_ITEM_NAME_020",
+    "Desc": "SELECT_ITEM_DESC_020",
+    "Icon": "Icon/Item_Icon/RandomItem_Spirit 2",
+    "Random": true,
+    "CurrencyType": 105,
+    "GradeType": 2,
+    "Count": 1
+  },
+  {
+    "Id": 21,
+    "Name": "SELECT_ITEM_NAME_021",
+    "Desc": "SELECT_ITEM_DESC_021",
+    "Icon": "Icon/Item_Icon/RandomItem_Spirit 3",
+    "Random": true,
+    "CurrencyType": 105,
+    "GradeType": 3,
+    "Count": 1
+  },
+  {
+    "Id": 22,
+    "Name": "SELECT_ITEM_NAME_022",
+    "Desc": "SELECT_ITEM_DESC_022",
+    "Icon": "Icon/Item_Icon/RandomItem_Spirit 4",
+    "Random": true,
+    "CurrencyType": 105,
+    "GradeType": 4,
+    "Count": 1
+  }
+]

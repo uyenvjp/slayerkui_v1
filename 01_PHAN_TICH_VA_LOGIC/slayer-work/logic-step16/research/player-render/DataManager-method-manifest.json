@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6005fea",
+    "name": "GetCostume",
+    "declaring_type_index": "2188",
+    "declaring_type_full_name": "DataManager",
+    "native_va": "0x4d780c8",
+    "return_type_index": "61586",
+    "return_type_name": "Costume",
+    "parameter_start": "4949",
+    "parameter_count": "1",
+    "flags": "134",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x9384cc",
+    "end_va": "0x4d781a0",
+    "asm_file": "DataManager__GetCostume_0x6005fea.asm"
+  }
+]

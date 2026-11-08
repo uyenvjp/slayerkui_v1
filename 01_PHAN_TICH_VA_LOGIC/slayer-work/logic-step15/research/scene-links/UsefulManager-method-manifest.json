@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6005c61",
+    "name": "LoadMainScene",
+    "declaring_type_index": "2097",
+    "declaring_type_full_name": "UsefulManager",
+    "native_va": "0x4d23514",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4376",
+    "parameter_count": "1",
+    "flags": "134",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x9313ac",
+    "end_va": "0x4d23600",
+    "asm_file": "UsefulManager__LoadMainScene_0x6005c61.asm"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6005c93",
+    "name": ".cctor",
+    "declaring_type_index": "2097",
+    "declaring_type_full_name": "UsefulManager",
+    "native_va": "0x4d26c3c",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "6289",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x9319ec",
+    "end_va": "0x4d29468",
+    "asm_file": "UsefulManager__.cctor_0x6005c93.asm"
+  }
+]

@@ -1,0 +1,64 @@
+header 00000000000000000000001600000000000000000040e54200000000039690f0000000000040e5800000000000000000
+uv 6000.3.10f1 platform 13 has tree False n types 393
+objects 175594 player display 4 external 358
+header 00000000000000000000001600000000000000000000008500000000000082f800000000000000c00000000000000000
+uv 6000.3.10f1 platform 13 has tree False n types 2
+header 0000000000000000000000160000000000000000000000b5000000000000876000000000000000f00000000000000000
+uv 6000.3.10f1 platform 13 has tree False n types 2
+header 000000000000000000000016000000000000000000000085000000000001037000000000000000c00000000000000000
+uv 6000.3.10f1 platform 13 has tree False n types 2
+header 00000000000000000000001600000000000000000000008500000000000103d800000000000000c00000000000000000
+uv 6000.3.10f1 platform 13 has tree False n types 2
+header 000000000000000000000016000000000000000000000085000000000001033800000000000000c00000000000000000
+uv 6000.3.10f1 platform 13 has tree False n types 2
+header 000000000000000000000016000000000000000000000085000000000000437c00000000000000c00000000000000000
+uv 6000.3.10f1 platform 13 has tree False n types 2
+header 000000000000000000000016000000000000000000000085000000000000433c00000000000000c00000000000000000
+uv 6000.3.10f1 platform 13 has tree False n types 2
+header 00000000000000000000001600000000000000000000008500000000000042f800000000000000c00000000000000000
+uv 6000.3.10f1 platform 13 has tree False n types 2
+header 00000000000000000000001600000000000000000000009d00000000000104c800000000000000d00000000000000000
+uv 6000.3.10f1 platform 13 has tree False n types 2
+header 000000000000000000000016000000000000000000000085000000000000436000000000000000c00000000000000000
+uv 6000.3.10f1 platform 13 has tree False n types 2
+header 0000000000000000000000160000000000000000000122980000000002a40c8800000000000122d00000000000000000
+uv 6000.3.10f1 platform 13 has tree False n types 61
+PLAYER 156453 PlayerInGameDisplay_Animation state 0 isHat False head {'renderer_pid': 65381, 'sprite_file_id': 150, 'sprite_pid': 4, 'sprite': 'skin_body_000_22', 'source_file': '4d8f28e9251f47847882049cbddc03f1', 'status': 'sprite'} weapon {'renderer_pid': 65310, 'sprite_file_id': 9, 'sprite_pid': 467, 'sprite': 'sword_00', 'source_file': 'sharedassets0.assets', 'status': 'sprite'}
+PLAYER 156454 PlayerInGameDisplay_Animation state 0 isHat False head {'renderer_pid': 65380, 'sprite_file_id': 150, 'sprite_pid': 4, 'sprite': 'skin_body_000_22', 'source_file': '4d8f28e9251f47847882049cbddc03f1', 'status': 'sprite'} weapon {'renderer_pid': 65309, 'sprite_file_id': 9, 'sprite_pid': 467, 'sprite': 'sword_00', 'source_file': 'sharedassets0.assets', 'status': 'sprite'}
+PLAYER 156455 PlayerInGameDisplay_Animation state 0 isHat False head {'renderer_pid': 65379, 'sprite_file_id': 150, 'sprite_pid': 4, 'sprite': 'skin_body_000_22', 'source_file': '4d8f28e9251f47847882049cbddc03f1', 'status': 'sprite'} weapon {'renderer_pid': 65311, 'sprite_file_id': 9, 'sprite_pid': 467, 'sprite': 'sword_00', 'source_file': 'sharedassets0.assets', 'status': 'sprite'}
+PLAYER 156456 PlayerInGameDisplay_Animation state 0 isHat False head {'renderer_pid': 65382, 'sprite_file_id': 150, 'sprite_pid': 4, 'sprite': 'skin_body_000_22', 'source_file': '4d8f28e9251f47847882049cbddc03f1', 'status': 'sprite'} weapon {'renderer_pid': 65312, 'sprite_file_id': 9, 'sprite_pid': 467, 'sprite': 'sword_00', 'source_file': 'sharedassets0.assets', 'status': 'sprite'}
+WRITTEN 4 players 64 sprite refs 48 named GO 12
+bundle typetrees 90
+header 00000000000000000000001600000000000000000040e54200000000039690f0000000000040e5800000000000000000
+uv 6000.3.10f1 platform 13 has tree False n types 393
+matched GO 30 textField match 29
+{'pathid': 1832, 'name': 'Stage_Spirit', 'components': []}
+{'pathid': 2243, 'name': 't_StageClearExp', 'components': [{'component_path_id': 136060, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 136059}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 2488, 'name': 't_stageName', 'components': [{'component_path_id': 136409, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 136408}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 2707, 'name': 't_stageNumber', 'components': [{'component_path_id': 136707, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 136705}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 4677, 'name': 't_Stagetitle', 'components': [{'component_path_id': 139618, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 139617}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 4900, 'name': 't_StageCount', 'components': [{'component_path_id': 139939, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 139938}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 5478, 'name': 't_StageClearGold', 'components': [{'component_path_id': 140782, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 140781}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 11937, 'name': 't_StageNumber', 'components': [{'component_path_id': 149727, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 152489}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 19875, 'name': 't_StageNumber', 'components': [{'component_path_id': 153691, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 151001}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 19876, 'name': 't_StageNumber', 'components': [{'component_path_id': 153690, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 151000}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 19877, 'name': 't_StageNumber', 'components': [{'component_path_id': 153688, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 151004}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 19878, 'name': 't_StageNumber', 'components': [{'component_path_id': 153689, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 151003}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 19879, 'name': 't_StageNumber', 'components': [{'component_path_id': 153687, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 151002}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 19880, 'name': 't_StageNumber', 'components': [{'component_path_id': 153694, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 151006}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 19881, 'name': 't_StageNumber', 'components': [{'component_path_id': 153693, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 151005}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 19882, 'name': 't_StageNumber', 'components': [{'component_path_id': 153692, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 151007}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 19883, 'name': 't_StageNumber', 'components': [{'component_path_id': 153699, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 151009}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 19884, 'name': 't_StageNumber', 'components': [{'component_path_id': 153700, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 151008}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 19885, 'name': 't_StageNumber', 'components': [{'component_path_id': 153697, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 151013}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 19886, 'name': 't_StageNumber', 'components': [{'component_path_id': 153698, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 151012}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 19887, 'name': 't_StageNumber', 'components': [{'component_path_id': 153695, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 151011}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 19888, 'name': 't_StageNumber', 'components': [{'component_path_id': 153696, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 151010}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 19889, 'name': 't_StageNumber', 'components': [{'component_path_id': 153704, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 151015}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 19890, 'name': 't_StageNumber', 'components': [{'component_path_id': 153705, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 151014}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 19891, 'name': 't_StageNumber', 'components': [{'component_path_id': 153703, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 151018}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 19892, 'name': 't_StageNumber', 'components': [{'component_path_id': 153701, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 151017}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 19893, 'name': 't_StageNumber', 'components': [{'component_path_id': 153702, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 151016}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 33596, 'name': 't_stage', 'components': [{'component_path_id': 164766, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 160720}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 33597, 'name': 't_stage', 'components': [{'component_path_id': 164765, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 160719}, 'key': '', 'prefix': '', 'suffix': ''}}]}
+{'pathid': 33598, 'name': 't_stage', 'components': [{'component_path_id': 164767, 'typehash': 'e8e2fbfbf1b4bd0656ad0940219c2c64', 'fields': {'text': {'m_FileID': 0, 'm_PathID': 160718}, 'key': '', 'prefix': '', 'suffix': ''}}]}

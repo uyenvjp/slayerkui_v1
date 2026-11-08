@@ -1,0 +1,5 @@
+{
+  "passed": 250,
+  "contracts": 4,
+  "scope": "Whole GetDmg orchestration and selected status/math bodies, with explicit monster-modifier/result/Unity/account dependencies."
+}

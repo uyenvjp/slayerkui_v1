@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6000883",
+    "name": "AcquireItems",
+    "declaring_type_index": "1112",
+    "declaring_type_full_name": "APIManager",
+    "native_va": "0x50c1b80",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "150",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x8897ec",
+    "end_va": "0x50c2564",
+    "asm_file": "APIManager__AcquireItems_0x6000883.asm"
+  }
+]

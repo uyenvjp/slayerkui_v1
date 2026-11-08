@@ -1,0 +1,27 @@
+[
+  {
+    "Id": 1,
+    "DemonLevel": 1,
+    "Point": 5
+  },
+  {
+    "Id": 2,
+    "DemonLevel": 2,
+    "Point": 15
+  },
+  {
+    "Id": 3,
+    "DemonLevel": 3,
+    "Point": 30
+  },
+  {
+    "Id": 4,
+    "DemonLevel": 4,
+    "Point": 100
+  },
+  {
+    "Id": 5,
+    "DemonLevel": 5,
+    "Point": 100
+  }
+]

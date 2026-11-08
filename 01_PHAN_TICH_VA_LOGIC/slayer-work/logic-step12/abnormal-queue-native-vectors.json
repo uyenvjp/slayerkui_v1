@@ -1,0 +1,9260 @@
+{
+  "vectors": [
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          0
+        ],
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          0
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              false
+            ]
+          },
+          {
+            "name": "StartCoroutine",
+            "args": []
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          0
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          0
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 1,
+        "active": false,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          256
+        ],
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 1,
+        "active": true,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          256
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              true
+            ]
+          },
+          {
+            "name": "StartCoroutine",
+            "args": []
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 1,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          256
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 1,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          256
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 2,
+        "active": false,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          0
+        ],
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 2,
+        "active": true,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          0
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              false
+            ]
+          },
+          {
+            "name": "StartCoroutine",
+            "args": []
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 2,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          0
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 2,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          0
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 3,
+        "active": false,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          256
+        ],
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 3,
+        "active": true,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          256
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              true
+            ]
+          },
+          {
+            "name": "StartCoroutine",
+            "args": []
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 3,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          256
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 3,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          256
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 1,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 1,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              false
+            ]
+          },
+          {
+            "name": "StartCoroutine",
+            "args": []
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 1,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 1,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 1,
+        "superCritical": 1,
+        "active": false,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          257
+        ],
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 1,
+        "superCritical": 1,
+        "active": true,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              true
+            ]
+          },
+          {
+            "name": "StartCoroutine",
+            "args": []
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 1,
+        "superCritical": 1,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 1,
+        "superCritical": 1,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 1,
+        "superCritical": 2,
+        "active": false,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 1,
+        "superCritical": 2,
+        "active": true,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              false
+            ]
+          },
+          {
+            "name": "StartCoroutine",
+            "args": []
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 1,
+        "superCritical": 2,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 1,
+        "superCritical": 2,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 1,
+        "superCritical": 3,
+        "active": false,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          257
+        ],
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 1,
+        "superCritical": 3,
+        "active": true,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              true
+            ]
+          },
+          {
+            "name": "StartCoroutine",
+            "args": []
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 1,
+        "superCritical": 3,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 1,
+        "superCritical": 3,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 2,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          0
+        ],
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 2,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          0
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              false
+            ]
+          },
+          {
+            "name": "StartCoroutine",
+            "args": []
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 2,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          0
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 2,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          0
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 2,
+        "superCritical": 1,
+        "active": false,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          256
+        ],
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 2,
+        "superCritical": 1,
+        "active": true,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          256
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              true
+            ]
+          },
+          {
+            "name": "StartCoroutine",
+            "args": []
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 2,
+        "superCritical": 1,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          256
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 2,
+        "superCritical": 1,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          256
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 2,
+        "superCritical": 2,
+        "active": false,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          0
+        ],
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 2,
+        "superCritical": 2,
+        "active": true,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          0
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              false
+            ]
+          },
+          {
+            "name": "StartCoroutine",
+            "args": []
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 2,
+        "superCritical": 2,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          0
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 2,
+        "superCritical": 2,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          0
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 2,
+        "superCritical": 3,
+        "active": false,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          256
+        ],
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 2,
+        "superCritical": 3,
+        "active": true,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          256
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              true
+            ]
+          },
+          {
+            "name": "StartCoroutine",
+            "args": []
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 2,
+        "superCritical": 3,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          256
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 2,
+        "superCritical": 3,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          256
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              false,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 3,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 3,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              false
+            ]
+          },
+          {
+            "name": "StartCoroutine",
+            "args": []
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 3,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 3,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 3,
+        "superCritical": 1,
+        "active": false,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          257
+        ],
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 3,
+        "superCritical": 1,
+        "active": true,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              true
+            ]
+          },
+          {
+            "name": "StartCoroutine",
+            "args": []
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 3,
+        "superCritical": 1,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 3,
+        "superCritical": 1,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 3,
+        "superCritical": 2,
+        "active": false,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 3,
+        "superCritical": 2,
+        "active": true,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              false
+            ]
+          },
+          {
+            "name": "StartCoroutine",
+            "args": []
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 3,
+        "superCritical": 2,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 3,
+        "superCritical": 2,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 3,
+        "superCritical": 3,
+        "active": false,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          257
+        ],
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 3,
+        "superCritical": 3,
+        "active": true,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              true
+            ]
+          },
+          {
+            "name": "StartCoroutine",
+            "args": []
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 3,
+        "superCritical": 3,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "schedule"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 3,
+        "superCritical": 3,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Enqueue",
+            "args": [
+              true,
+              true
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "47cccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "47cccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "47cccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "47cccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 0,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "69eeee3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "69eeee3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "69eeee3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "69eeee3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "69eeee3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "69eeee3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "69eeee3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "69eeee3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "69eeee3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "69eeee3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "69eeee3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "69eeee3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Dequeue",
+            "args": [
+              true,
+              false
+            ]
+          },
+          {
+            "name": "ExecuteAbnormalAddDamage",
+            "args": [
+              true,
+              false
+            ]
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Dequeue",
+            "args": [
+              true,
+              false
+            ]
+          },
+          {
+            "name": "ExecuteAbnormalAddDamage",
+            "args": [
+              true,
+              false
+            ]
+          }
+        ],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Dequeue",
+            "args": [
+              true,
+              false
+            ]
+          },
+          {
+            "name": "ExecuteAbnormalAddDamage",
+            "args": [
+              true,
+              false
+            ]
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Dequeue",
+            "args": [
+              true,
+              false
+            ]
+          },
+          {
+            "name": "ExecuteAbnormalAddDamage",
+            "args": [
+              true,
+              false
+            ]
+          }
+        ],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Dequeue",
+            "args": [
+              true,
+              false
+            ]
+          },
+          {
+            "name": "ExecuteAbnormalAddDamage",
+            "args": [
+              true,
+              false
+            ]
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "waitBits": "8988883c",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Dequeue",
+            "args": [
+              true,
+              false
+            ]
+          },
+          {
+            "name": "ExecuteAbnormalAddDamage",
+            "args": [
+              true,
+              false
+            ]
+          }
+        ],
+        "yielded": true
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": 1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": false,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [
+          {
+            "name": "Queue.Clear",
+            "args": []
+          }
+        ],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "00000000",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "47cccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "47cccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "47cccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "47cccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "47cccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "47cccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "47cccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "47cccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "47cccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "47cccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "47cccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.09999900149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "47cccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000000149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "cdcccc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "0.10000100149011612"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "53cdcc3d",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": false,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": false,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    },
+    {
+      "action": {
+        "type": "tick"
+      },
+      "fixture": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "critical": 0,
+        "superCritical": 0,
+        "active": true,
+        "dead": true,
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "wait": "nan"
+        },
+        "delta": "0.016666666666666666"
+      },
+      "expected": {
+        "queue": [
+          1,
+          256,
+          257
+        ],
+        "handlePresent": true,
+        "iterator": {
+          "state": -1,
+          "waitBits": "0000c07f",
+          "currentNull": true
+        },
+        "effects": [],
+        "yielded": false
+      }
+    }
+  ],
+  "sequences": [
+    {
+      "fixture": {
+        "queue": [],
+        "critical": 1,
+        "superCritical": 1,
+        "active": true,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.05000000074505806"
+      },
+      "frames": [
+        {
+          "action": {
+            "type": "schedule"
+          },
+          "expected": {
+            "queue": [
+              257
+            ],
+            "handlePresent": true,
+            "iterator": {
+              "state": 0,
+              "waitBits": "00000000",
+              "currentNull": true
+            },
+            "effects": [
+              {
+                "name": "Queue.Enqueue",
+                "args": [
+                  true,
+                  true
+                ]
+              },
+              {
+                "name": "StartCoroutine",
+                "args": []
+              }
+            ]
+          }
+        },
+        {
+          "action": {
+            "type": "schedule"
+          },
+          "expected": {
+            "queue": [
+              257,
+              257
+            ],
+            "handlePresent": true,
+            "iterator": {
+              "state": 0,
+              "waitBits": "00000000",
+              "currentNull": true
+            },
+            "effects": [
+              {
+                "name": "Queue.Enqueue",
+                "args": [
+                  true,
+                  true
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "action": {
+            "type": "tick"
+          },
+          "expected": {
+            "queue": [
+              257,
+              257
+            ],
+            "handlePresent": true,
+            "iterator": {
+              "state": 1,
+              "waitBits": "cdcc4c3d",
+              "currentNull": true
+            },
+            "effects": [],
+            "yielded": true
+          }
+        },
+        {
+          "action": {
+            "type": "tick"
+          },
+          "expected": {
+            "queue": [
+              257,
+              257
+            ],
+            "handlePresent": true,
+            "iterator": {
+              "state": 1,
+              "waitBits": "cdcccc3d",
+              "currentNull": true
+            },
+            "effects": [],
+            "yielded": true
+          }
+        },
+        {
+          "action": {
+            "type": "tick"
+          },
+          "expected": {
+            "queue": [
+              257
+            ],
+            "handlePresent": true,
+            "iterator": {
+              "state": 1,
+              "waitBits": "cdcc4c3d",
+              "currentNull": true
+            },
+            "effects": [
+              {
+                "name": "Queue.Dequeue",
+                "args": [
+                  true,
+                  true
+                ]
+              },
+              {
+                "name": "ExecuteAbnormalAddDamage",
+                "args": [
+                  true,
+                  true
+                ]
+              }
+            ],
+            "yielded": true
+          }
+        },
+        {
+          "action": {
+            "type": "tick"
+          },
+          "expected": {
+            "queue": [
+              257
+            ],
+            "handlePresent": true,
+            "iterator": {
+              "state": 1,
+              "waitBits": "cdcccc3d",
+              "currentNull": true
+            },
+            "effects": [],
+            "yielded": true
+          }
+        },
+        {
+          "action": {
+            "type": "tick"
+          },
+          "expected": {
+            "queue": [],
+            "handlePresent": false,
+            "iterator": {
+              "state": -1,
+              "waitBits": "cdcccc3d",
+              "currentNull": true
+            },
+            "effects": [
+              {
+                "name": "Queue.Dequeue",
+                "args": [
+                  true,
+                  true
+                ]
+              },
+              {
+                "name": "ExecuteAbnormalAddDamage",
+                "args": [
+                  true,
+                  true
+                ]
+              }
+            ],
+            "yielded": false
+          }
+        },
+        {
+          "action": {
+            "type": "tick"
+          },
+          "expected": {
+            "queue": [],
+            "handlePresent": false,
+            "iterator": {
+              "state": -1,
+              "waitBits": "cdcccc3d",
+              "currentNull": true
+            },
+            "effects": [],
+            "yielded": false
+          }
+        },
+        {
+          "action": {
+            "type": "tick"
+          },
+          "expected": {
+            "queue": [],
+            "handlePresent": false,
+            "iterator": {
+              "state": -1,
+              "waitBits": "cdcccc3d",
+              "currentNull": true
+            },
+            "effects": [],
+            "yielded": false
+          }
+        }
+      ]
+    },
+    {
+      "fixture": {
+        "queue": [],
+        "critical": 1,
+        "superCritical": 1,
+        "active": true,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.05000000074505806"
+      },
+      "frames": [
+        {
+          "action": {
+            "type": "schedule"
+          },
+          "expected": {
+            "queue": [
+              257
+            ],
+            "handlePresent": true,
+            "iterator": {
+              "state": 0,
+              "waitBits": "00000000",
+              "currentNull": true
+            },
+            "effects": [
+              {
+                "name": "Queue.Enqueue",
+                "args": [
+                  true,
+                  true
+                ]
+              },
+              {
+                "name": "StartCoroutine",
+                "args": []
+              }
+            ]
+          }
+        },
+        {
+          "action": {
+            "type": "schedule"
+          },
+          "expected": {
+            "queue": [
+              257,
+              257
+            ],
+            "handlePresent": true,
+            "iterator": {
+              "state": 0,
+              "waitBits": "00000000",
+              "currentNull": true
+            },
+            "effects": [
+              {
+                "name": "Queue.Enqueue",
+                "args": [
+                  true,
+                  true
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "action": {
+            "type": "tick"
+          },
+          "expected": {
+            "queue": [
+              257,
+              257
+            ],
+            "handlePresent": true,
+            "iterator": {
+              "state": 1,
+              "waitBits": "cdcc4c3d",
+              "currentNull": true
+            },
+            "effects": [],
+            "yielded": true
+          }
+        },
+        {
+          "action": {
+            "type": "tick"
+          },
+          "expected": {
+            "queue": [
+              257,
+              257
+            ],
+            "handlePresent": true,
+            "iterator": {
+              "state": 1,
+              "waitBits": "cdcccc3d",
+              "currentNull": true
+            },
+            "effects": [],
+            "yielded": true
+          }
+        },
+        {
+          "action": {
+            "type": "set",
+            "values": {
+              "dead": true
+            }
+          },
+          "expected": {
+            "queue": [
+              257,
+              257
+            ],
+            "handlePresent": true,
+            "iterator": {
+              "state": 1,
+              "waitBits": "cdcccc3d",
+              "currentNull": true
+            },
+            "effects": []
+          }
+        },
+        {
+          "action": {
+            "type": "tick"
+          },
+          "expected": {
+            "queue": [],
+            "handlePresent": false,
+            "iterator": {
+              "state": -1,
+              "waitBits": "cdcccc3d",
+              "currentNull": true
+            },
+            "effects": [
+              {
+                "name": "Queue.Clear",
+                "args": []
+              }
+            ],
+            "yielded": false
+          }
+        },
+        {
+          "action": {
+            "type": "tick"
+          },
+          "expected": {
+            "queue": [],
+            "handlePresent": false,
+            "iterator": {
+              "state": -1,
+              "waitBits": "cdcccc3d",
+              "currentNull": true
+            },
+            "effects": [],
+            "yielded": false
+          }
+        },
+        {
+          "action": {
+            "type": "tick"
+          },
+          "expected": {
+            "queue": [],
+            "handlePresent": false,
+            "iterator": {
+              "state": -1,
+              "waitBits": "cdcccc3d",
+              "currentNull": true
+            },
+            "effects": [],
+            "yielded": false
+          }
+        },
+        {
+          "action": {
+            "type": "tick"
+          },
+          "expected": {
+            "queue": [],
+            "handlePresent": false,
+            "iterator": {
+              "state": -1,
+              "waitBits": "cdcccc3d",
+              "currentNull": true
+            },
+            "effects": [],
+            "yielded": false
+          }
+        },
+        {
+          "action": {
+            "type": "tick"
+          },
+          "expected": {
+            "queue": [],
+            "handlePresent": false,
+            "iterator": {
+              "state": -1,
+              "waitBits": "cdcccc3d",
+              "currentNull": true
+            },
+            "effects": [],
+            "yielded": false
+          }
+        }
+      ]
+    },
+    {
+      "fixture": {
+        "queue": [],
+        "critical": 1,
+        "superCritical": 1,
+        "active": true,
+        "dead": false,
+        "handlePresent": false,
+        "iterator": {
+          "state": 0,
+          "wait": "0"
+        },
+        "delta": "0.05000000074505806"
+      },
+      "frames": [
+        {
+          "action": {
+            "type": "schedule"
+          },
+          "expected": {
+            "queue": [
+              257
+            ],
+            "handlePresent": true,
+            "iterator": {
+              "state": 0,
+              "waitBits": "00000000",
+              "currentNull": true
+            },
+            "effects": [
+              {
+                "name": "Queue.Enqueue",
+                "args": [
+                  true,
+                  true
+                ]
+              },
+              {
+                "name": "StartCoroutine",
+                "args": []
+              }
+            ]
+          }
+        },
+        {
+          "action": {
+            "type": "schedule"
+          },
+          "expected": {
+            "queue": [
+              257,
+              257
+            ],
+            "handlePresent": true,
+            "iterator": {
+              "state": 0,
+              "waitBits": "00000000",
+              "currentNull": true
+            },
+            "effects": [
+              {
+                "name": "Queue.Enqueue",
+                "args": [
+                  true,
+                  true
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "action": {
+            "type": "tick"
+          },
+          "expected": {
+            "queue": [
+              257,
+              257
+            ],
+            "handlePresent": true,
+            "iterator": {
+              "state": 1,
+              "waitBits": "cdcc4c3d",
+              "currentNull": true
+            },
+            "effects": [],
+            "yielded": true
+          }
+        },
+        {
+          "action": {
+            "type": "tick"
+          },
+          "expected": {
+            "queue": [
+              257,
+              257
+            ],
+            "handlePresent": true,
+            "iterator": {
+              "state": 1,
+              "waitBits": "cdcccc3d",
+              "currentNull": true
+            },
+            "effects": [],
+            "yielded": true
+          }
+        },
+        {
+          "action": {
+            "type": "set",
+            "values": {
+              "active": false
+            }
+          },
+          "expected": {
+            "queue": [
+              257,
+              257
+            ],
+            "handlePresent": true,
+            "iterator": {
+              "state": 1,
+              "waitBits": "cdcccc3d",
+              "currentNull": true
+            },
+            "effects": []
+          }
+        },
+        {
+          "action": {
+            "type": "tick"
+          },
+          "expected": {
+            "queue": [],
+            "handlePresent": false,
+            "iterator": {
+              "state": -1,
+              "waitBits": "cdcccc3d",
+              "currentNull": true
+            },
+            "effects": [
+              {
+                "name": "Queue.Clear",
+                "args": []
+              }
+            ],
+            "yielded": false
+          }
+        },
+        {
+          "action": {
+            "type": "tick"
+          },
+          "expected": {
+            "queue": [],
+            "handlePresent": false,
+            "iterator": {
+              "state": -1,
+              "waitBits": "cdcccc3d",
+              "currentNull": true
+            },
+            "effects": [],
+            "yielded": false
+          }
+        },
+        {
+          "action": {
+            "type": "tick"
+          },
+          "expected": {
+            "queue": [],
+            "handlePresent": false,
+            "iterator": {
+              "state": -1,
+              "waitBits": "cdcccc3d",
+              "currentNull": true
+            },
+            "effects": [],
+            "yielded": false
+          }
+        },
+        {
+          "action": {
+            "type": "tick"
+          },
+          "expected": {
+            "queue": [],
+            "handlePresent": false,
+            "iterator": {
+              "state": -1,
+              "waitBits": "cdcccc3d",
+              "currentNull": true
+            },
+            "effects": [],
+            "yielded": false
+          }
+        },
+        {
+          "action": {
+            "type": "tick"
+          },
+          "expected": {
+            "queue": [],
+            "handlePresent": false,
+            "iterator": {
+              "state": -1,
+              "waitBits": "cdcccc3d",
+              "currentNull": true
+            },
+            "effects": [],
+            "yielded": false
+          }
+        }
+      ]
+    }
+  ]
+}

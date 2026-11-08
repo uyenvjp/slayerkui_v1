@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "TypeIndex": 1,
+    "Chat": "WELCOMESLAYER"
+  },
+  {
+    "Id": 2,
+    "TypeIndex": 2,
+    "Chat": "THANKYOUSLAYER"
+  }
+]

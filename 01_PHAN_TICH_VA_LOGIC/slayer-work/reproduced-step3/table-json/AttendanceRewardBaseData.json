@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 0,
+    "RewardAmount": 1000
+  },
+  {
+    "Id": 1,
+    "RewardAmount": 1000
+  },
+  {
+    "Id": 2,
+    "RewardAmount": 1000
+  },
+  {
+    "Id": 3,
+    "RewardAmount": 1000
+  },
+  {
+    "Id": 4,
+    "RewardAmount": 10000
+  },
+  {
+    "Id": 5,
+    "RewardAmount": 1000
+  },
+  {
+    "Id": 6,
+    "RewardAmount": 1000
+  },
+  {
+    "Id": 7,
+    "RewardAmount": 1000
+  },
+  {
+    "Id": 8,
+    "RewardAmount": 1000
+  },
+  {
+    "Id": 9,
+    "RewardAmount": 5000
+  },
+  {
+    "Id": 10,
+    "RewardAmount": 1000
+  },
+  {
+    "Id": 11,
+    "RewardAmount": 1000
+  },
+  {
+    "Id": 12,
+    "RewardAmount": 1000
+  },
+  {
+    "Id": 13,
+    "RewardAmount": 1000
+  },
+  {
+    "Id": 14,
+    "RewardAmount": 5000
+  },
+  {
+    "Id": 15,
+    "RewardAmount": 1000
+  },
+  {
+    "Id": 16,
+    "RewardAmount": 1000
+  },
+  {
+    "Id": 17,
+    "RewardAmount": 1000
+  },
+  {
+    "Id": 18,
+    "RewardAmount": 1000
+  },
+  {
+    "Id": 19,
+    "RewardAmount": 15000
+  }
+]

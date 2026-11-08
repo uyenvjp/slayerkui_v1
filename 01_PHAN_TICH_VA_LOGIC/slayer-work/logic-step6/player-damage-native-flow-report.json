@@ -1,0 +1,8 @@
+{
+  "cases": 206,
+  "entries": 2,
+  "native_null_callback_contract_checks": 1,
+  "instruction_steps": 23200,
+  "distinct_instructions_visited": 1079,
+  "scope": "GetDmg, PenaltyDmg + player-miss + HP/shield accessor bodies. Decrypted values, arithmetic helpers, account getters, RNG draws, Unity and downstream lifecycle are explicitly modeled; not full gameplay/lifecycle equivalence."
+}

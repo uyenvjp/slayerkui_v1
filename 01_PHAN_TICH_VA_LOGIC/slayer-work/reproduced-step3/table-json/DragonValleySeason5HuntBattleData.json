@@ -1,0 +1,54 @@
+[
+  {
+    "Id": 1,
+    "DmgType": 1,
+    "MapIndex": 2000,
+    "BaseHp": "1000000000000000",
+    "BaseHpSerialized": "1000000000000000",
+    "BaseAtk": "200000000",
+    "BaseAtkSerialized": "200000000",
+    "HpFactor": 1.0299999713897705,
+    "AtkFactor": 1.0199999809265137,
+    "levelFactor": 0,
+    "partyBuffValue": 15.0
+  },
+  {
+    "Id": 2,
+    "DmgType": 2,
+    "MapIndex": 2001,
+    "BaseHp": "1000000000000000",
+    "BaseHpSerialized": "1000000000000000",
+    "BaseAtk": "200000000",
+    "BaseAtkSerialized": "200000000",
+    "HpFactor": 1.0299999713897705,
+    "AtkFactor": 1.0199999809265137,
+    "levelFactor": 0,
+    "partyBuffValue": 15.0
+  },
+  {
+    "Id": 3,
+    "DmgType": 3,
+    "MapIndex": 2002,
+    "BaseHp": "1000000000000000",
+    "BaseHpSerialized": "1000000000000000",
+    "BaseAtk": "200000000",
+    "BaseAtkSerialized": "200000000",
+    "HpFactor": 1.0299999713897705,
+    "AtkFactor": 1.0199999809265137,
+    "levelFactor": 0,
+    "partyBuffValue": 15.0
+  },
+  {
+    "Id": 4,
+    "DmgType": 4,
+    "MapIndex": 2003,
+    "BaseHp": "1000000000000000",
+    "BaseHpSerialized": "1000000000000000",
+    "BaseAtk": "200000000",
+    "BaseAtkSerialized": "200000000",
+    "HpFactor": 1.0299999713897705,
+    "AtkFactor": 1.0199999809265137,
+    "levelFactor": 0,
+    "partyBuffValue": 15.0
+  }
+]

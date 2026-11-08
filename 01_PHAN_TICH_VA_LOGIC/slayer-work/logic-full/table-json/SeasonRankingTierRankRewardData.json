@@ -1,0 +1,197 @@
+[
+  {
+    "Id": 1,
+    "Tier": 1,
+    "Rank": 1,
+    "Reward": [
+      27,
+      1
+    ],
+    "RewardAmount": [
+      500,
+      1000
+    ]
+  },
+  {
+    "Id": 2,
+    "Tier": 1,
+    "Rank": 2,
+    "Reward": [
+      27,
+      1
+    ],
+    "RewardAmount": [
+      250,
+      500
+    ]
+  },
+  {
+    "Id": 3,
+    "Tier": 1,
+    "Rank": 3,
+    "Reward": [
+      27,
+      1
+    ],
+    "RewardAmount": [
+      100,
+      250
+    ]
+  },
+  {
+    "Id": 4,
+    "Tier": 2,
+    "Rank": 1,
+    "Reward": [
+      27,
+      1
+    ],
+    "RewardAmount": [
+      1000,
+      2000
+    ]
+  },
+  {
+    "Id": 5,
+    "Tier": 2,
+    "Rank": 2,
+    "Reward": [
+      27,
+      1
+    ],
+    "RewardAmount": [
+      500,
+      1000
+    ]
+  },
+  {
+    "Id": 6,
+    "Tier": 2,
+    "Rank": 3,
+    "Reward": [
+      27,
+      1
+    ],
+    "RewardAmount": [
+      250,
+      500
+    ]
+  },
+  {
+    "Id": 7,
+    "Tier": 3,
+    "Rank": 1,
+    "Reward": [
+      27,
+      1
+    ],
+    "RewardAmount": [
+      1500,
+      3000
+    ]
+  },
+  {
+    "Id": 8,
+    "Tier": 3,
+    "Rank": 2,
+    "Reward": [
+      27,
+      1
+    ],
+    "RewardAmount": [
+      1000,
+      2000
+    ]
+  },
+  {
+    "Id": 9,
+    "Tier": 3,
+    "Rank": 3,
+    "Reward": [
+      27,
+      1
+    ],
+    "RewardAmount": [
+      500,
+      1000
+    ]
+  },
+  {
+    "Id": 10,
+    "Tier": 4,
+    "Rank": 1,
+    "Reward": [
+      27,
+      1
+    ],
+    "RewardAmount": [
+      2500,
+      5000
+    ]
+  },
+  {
+    "Id": 11,
+    "Tier": 4,
+    "Rank": 2,
+    "Reward": [
+      27,
+      1
+    ],
+    "RewardAmount": [
+      1500,
+      3000
+    ]
+  },
+  {
+    "Id": 12,
+    "Tier": 4,
+    "Rank": 3,
+    "Reward": [
+      27,
+      1
+    ],
+    "RewardAmount": [
+      1000,
+      2000
+    ]
+  },
+  {
+    "Id": 13,
+    "Tier": 5,
+    "Rank": 1,
+    "Reward": [
+      27,
+      1
+    ],
+    "RewardAmount": [
+      5000,
+      10000
+    ]
+  },
+  {
+    "Id": 14,
+    "Tier": 5,
+    "Rank": 2,
+    "Reward": [
+      27,
+      1
+    ],
+    "RewardAmount": [
+      2500,
+      5000
+    ]
+  },
+  {
+    "Id": 15,
+    "Tier": 5,
+    "Rank": 3,
+    "Reward": [
+      27,
+      1
+    ],
+    "RewardAmount": [
+      1500,
+      3000
+    ]
+  }
+]

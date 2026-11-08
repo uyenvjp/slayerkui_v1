@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Rank": 1,
+    "CurrencyTypes": [
+      6200,
+      42
+    ],
+    "Amounts": [
+      20000,
+      500
+    ]
+  },
+  {
+    "Id": 2,
+    "Rank": 2,
+    "CurrencyTypes": [
+      6200,
+      42
+    ],
+    "Amounts": [
+      10000,
+      300
+    ]
+  },
+  {
+    "Id": 3,
+    "Rank": 3,
+    "CurrencyTypes": [
+      6200,
+      42
+    ],
+    "Amounts": [
+      5000,
+      200
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "cases": 250,
+  "contract_cases": 4,
+  "instruction_steps": 105456,
+  "distinct_instructions": 1106,
+  "linked_entry_visited": {
+    "GetDmg": "0x50b7810",
+    "MissProbability": "0x4d22f6c",
+    "WinType": "0x5018538",
+    "AbnormalState_Cal": "0x50b84dc",
+    "BurnState_Cal": "0x50b887c",
+    "IceState_Cal": "0x50b8998",
+    "NormalMastery": "0x50b869c",
+    "BossMastery": "0x50b878c",
+    "IsBurning": "0x50bae64"
+  },
+  "scope": "Whole GetDmg body interpreted with original MissProbability, WinType, Abnormal/Burn/Ice and both mastery numeric bodies. Explicit initialized metadata/type hierarchy, dictionary/skill/secure/account getters, RNG, Unity/sound/replay/quest fixtures. Normal/Boss/SpecialBoss modifier return values and DmgResult/death lifecycle are declared fixture boundaries, not linked or claimed recovered by this corpus. No full battle/Unity/IFix/backend parity."
+}

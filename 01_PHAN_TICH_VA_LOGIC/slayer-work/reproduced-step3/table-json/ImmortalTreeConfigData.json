@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 0,
+    "Currency": 1,
+    "Currency_DailyCount": 10,
+    "Cost": 1,
+    "TimeReduceValue": 1,
+    "AD_DailyCount": 4,
+    "AD_TimeReduceValue": 30,
+    "AD_CoolTime": 5,
+    "Test": 0
+  }
+]

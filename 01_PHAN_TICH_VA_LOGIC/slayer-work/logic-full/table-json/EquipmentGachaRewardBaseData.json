@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 0,
+    "GachaLevel": 1,
+    "EquipmentIndex": 10,
+    "Count": 4
+  },
+  {
+    "Id": 1,
+    "GachaLevel": 2,
+    "EquipmentIndex": 14,
+    "Count": 4
+  },
+  {
+    "Id": 2,
+    "GachaLevel": 3,
+    "EquipmentIndex": 18,
+    "Count": 4
+  },
+  {
+    "Id": 3,
+    "GachaLevel": 4,
+    "EquipmentIndex": 20,
+    "Count": 2
+  },
+  {
+    "Id": 4,
+    "GachaLevel": 5,
+    "EquipmentIndex": 23,
+    "Count": 1
+  },
+  {
+    "Id": 5,
+    "GachaLevel": 6,
+    "EquipmentIndex": 23,
+    "Count": 2
+  },
+  {
+    "Id": 6,
+    "GachaLevel": 7,
+    "EquipmentIndex": 23,
+    "Count": 3
+  },
+  {
+    "Id": 7,
+    "GachaLevel": 8,
+    "EquipmentIndex": 23,
+    "Count": 3
+  },
+  {
+    "Id": 8,
+    "GachaLevel": 9,
+    "EquipmentIndex": 0,
+    "Count": 0
+  }
+]

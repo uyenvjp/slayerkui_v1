@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 0,
+    "PresentCount": 50
+  },
+  {
+    "Id": 1,
+    "PresentCount": 60
+  },
+  {
+    "Id": 2,
+    "PresentCount": 70
+  },
+  {
+    "Id": 3,
+    "PresentCount": 80
+  }
+]

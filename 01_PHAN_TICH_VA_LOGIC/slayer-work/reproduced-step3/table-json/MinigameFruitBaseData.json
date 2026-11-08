@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 0,
+    "TotalTime": 45.0,
+    "Life": 3,
+    "ScoreGold": 100,
+    "ScoreSilver": 80,
+    "ScoreBronze": 60,
+    "ScoreIron": 40,
+    "ScoreTree": 20
+  }
+]

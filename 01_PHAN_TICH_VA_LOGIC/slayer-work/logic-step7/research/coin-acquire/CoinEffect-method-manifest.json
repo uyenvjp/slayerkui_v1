@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x60085d1",
+    "name": "OnEnable",
+    "declaring_type_index": "3475",
+    "declaring_type_full_name": "CoinEffect",
+    "native_va": "0x50197e4",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "129",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x9841ac",
+    "end_va": "0x5019e0c",
+    "asm_file": "CoinEffect__OnEnable_0x60085d1.asm"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x60085d8",
+    "name": "PassCoin_FollowPlayer",
+    "declaring_type_index": "3475",
+    "declaring_type_full_name": "CoinEffect",
+    "native_va": "0x5019e0c",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "129",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x98428c",
+    "end_va": "0x5019e60",
+    "asm_file": "CoinEffect__PassCoin_FollowPlayer_0x60085d8.asm"
+  }
+]

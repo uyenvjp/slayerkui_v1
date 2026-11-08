@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "AdMaxPlayCount": 2,
+    "FreeMaxPlayCount": 2,
+    "DiamondMaxPlayCount": 26,
+    "ShopRefreshCurrencyTypes": 1,
+    "ShopFreeRefreshCount": 2,
+    "ShopPricePerRefresh": 300,
+    "ShopMaxPricePerRefresh": 3000
+  }
+]

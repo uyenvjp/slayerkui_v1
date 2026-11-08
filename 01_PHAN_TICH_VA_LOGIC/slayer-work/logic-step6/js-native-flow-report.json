@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "nativeFlowCases": 414,
+  "casesByKind": {
+    "attack": 207,
+    "hp": 207
+  },
+  "hpCommitCallbackOrderAndCurrentHpChecks": 207,
+  "scope": "Four complete method-body instruction paths under explicit getter/decrypted-field/object/init/callback models. Dependency implementations, Unity/Android and IFix remain outside this comparison."
+}

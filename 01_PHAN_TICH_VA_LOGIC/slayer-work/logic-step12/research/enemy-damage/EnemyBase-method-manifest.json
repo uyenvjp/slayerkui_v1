@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6008f28",
+    "name": "GetDmg",
+    "declaring_type_index": "3792",
+    "declaring_type_full_name": "EnemyBase",
+    "native_va": "0x50b7810",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "10370",
+    "parameter_count": "7",
+    "flags": "454",
+    "iflags": "0",
+    "slot": "56",
+    "metadata_record_offset": "0x996c8c",
+    "end_va": "0x50b84dc",
+    "asm_file": "EnemyBase__GetDmg_0x6008f28.asm"
+  }
+]

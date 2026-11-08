@@ -1,0 +1,314 @@
+[
+  {
+    "Id": 11,
+    "GemIndex": 1,
+    "RewardCurrencyTypes": [
+      6001,
+      6012
+    ],
+    "RewardCurrencyAmount": [
+      200,
+      100
+    ],
+    "Score": 500
+  },
+  {
+    "Id": 12,
+    "GemIndex": 1,
+    "RewardCurrencyTypes": [
+      6001,
+      6010
+    ],
+    "RewardCurrencyAmount": [
+      200,
+      20
+    ],
+    "Score": 500
+  },
+  {
+    "Id": 13,
+    "GemIndex": 1,
+    "RewardCurrencyTypes": [
+      6001,
+      6011
+    ],
+    "RewardCurrencyAmount": [
+      200,
+      40
+    ],
+    "Score": 500
+  },
+  {
+    "Id": 14,
+    "GemIndex": 1,
+    "RewardCurrencyTypes": [
+      6012,
+      6010
+    ],
+    "RewardCurrencyAmount": [
+      100,
+      20
+    ],
+    "Score": 500
+  },
+  {
+    "Id": 15,
+    "GemIndex": 1,
+    "RewardCurrencyTypes": [
+      6012,
+      6011
+    ],
+    "RewardCurrencyAmount": [
+      100,
+      40
+    ],
+    "Score": 500
+  },
+  {
+    "Id": 16,
+    "GemIndex": 1,
+    "RewardCurrencyTypes": [
+      6010,
+      6011
+    ],
+    "RewardCurrencyAmount": [
+      20,
+      40
+    ],
+    "Score": 500
+  },
+  {
+    "Id": 21,
+    "GemIndex": 2,
+    "RewardCurrencyTypes": [
+      6001,
+      6012
+    ],
+    "RewardCurrencyAmount": [
+      300,
+      150
+    ],
+    "Score": 1000
+  },
+  {
+    "Id": 22,
+    "GemIndex": 2,
+    "RewardCurrencyTypes": [
+      6001,
+      6010
+    ],
+    "RewardCurrencyAmount": [
+      300,
+      30
+    ],
+    "Score": 1000
+  },
+  {
+    "Id": 23,
+    "GemIndex": 2,
+    "RewardCurrencyTypes": [
+      6001,
+      6011
+    ],
+    "RewardCurrencyAmount": [
+      300,
+      60
+    ],
+    "Score": 1000
+  },
+  {
+    "Id": 24,
+    "GemIndex": 2,
+    "RewardCurrencyTypes": [
+      6012,
+      6010
+    ],
+    "RewardCurrencyAmount": [
+      150,
+      30
+    ],
+    "Score": 1000
+  },
+  {
+    "Id": 25,
+    "GemIndex": 2,
+    "RewardCurrencyTypes": [
+      6012,
+      6011
+    ],
+    "RewardCurrencyAmount": [
+      150,
+      60
+    ],
+    "Score": 1000
+  },
+  {
+    "Id": 26,
+    "GemIndex": 2,
+    "RewardCurrencyTypes": [
+      6010,
+      6011
+    ],
+    "RewardCurrencyAmount": [
+      30,
+      60
+    ],
+    "Score": 1000
+  },
+  {
+    "Id": 31,
+    "GemIndex": 3,
+    "RewardCurrencyTypes": [
+      6001,
+      6012
+    ],
+    "RewardCurrencyAmount": [
+      400,
+      200
+    ],
+    "Score": 1500
+  },
+  {
+    "Id": 32,
+    "GemIndex": 3,
+    "RewardCurrencyTypes": [
+      6001,
+      6010
+    ],
+    "RewardCurrencyAmount": [
+      400,
+      40
+    ],
+    "Score": 1500
+  },
+  {
+    "Id": 33,
+    "GemIndex": 3,
+    "RewardCurrencyTypes": [
+      6001,
+      6011
+    ],
+    "RewardCurrencyAmount": [
+      400,
+      80
+    ],
+    "Score": 1500
+  },
+  {
+    "Id": 34,
+    "GemIndex": 3,
+    "RewardCurrencyTypes": [
+      6012,
+      6010
+    ],
+    "RewardCurrencyAmount": [
+      200,
+      40
+    ],
+    "Score": 1500
+  },
+  {
+    "Id": 35,
+    "GemIndex": 3,
+    "RewardCurrencyTypes": [
+      6012,
+      6011
+    ],
+    "RewardCurrencyAmount": [
+      200,
+      80
+    ],
+    "Score": 1500
+  },
+  {
+    "Id": 36,
+    "GemIndex": 3,
+    "RewardCurrencyTypes": [
+      6010,
+      6011
+    ],
+    "RewardCurrencyAmount": [
+      40,
+      80
+    ],
+    "Score": 1500
+  },
+  {
+    "Id": 41,
+    "GemIndex": 4,
+    "RewardCurrencyTypes": [
+      6001,
+      6012
+    ],
+    "RewardCurrencyAmount": [
+      500,
+      250
+    ],
+    "Score": 2000
+  },
+  {
+    "Id": 42,
+    "GemIndex": 4,
+    "RewardCurrencyTypes": [
+      6001,
+      6010
+    ],
+    "RewardCurrencyAmount": [
+      500,
+      50
+    ],
+    "Score": 2000
+  },
+  {
+    "Id": 43,
+    "GemIndex": 4,
+    "RewardCurrencyTypes": [
+      6001,
+      6011
+    ],
+    "RewardCurrencyAmount": [
+      500,
+      100
+    ],
+    "Score": 2000
+  },
+  {
+    "Id": 44,
+    "GemIndex": 4,
+    "RewardCurrencyTypes": [
+      6012,
+      6010
+    ],
+    "RewardCurrencyAmount": [
+      250,
+      50
+    ],
+    "Score": 2000
+  },
+  {
+    "Id": 45,
+    "GemIndex": 4,
+    "RewardCurrencyTypes": [
+      6012,
+      6011
+    ],
+    "RewardCurrencyAmount": [
+      250,
+      100
+    ],
+    "Score": 2000
+  },
+  {
+    "Id": 46,
+    "GemIndex": 4,
+    "RewardCurrencyTypes": [
+      6010,
+      6011
+    ],
+    "RewardCurrencyAmount": [
+      50,
+      100
+    ],
+    "Score": 2000
+  }
+]

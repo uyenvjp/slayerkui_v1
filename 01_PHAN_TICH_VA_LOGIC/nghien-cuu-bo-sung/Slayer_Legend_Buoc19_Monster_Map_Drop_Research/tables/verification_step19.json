@@ -1,0 +1,215 @@
+{
+  "input_xapk": "Slayer+Legend+_+Idle+RPG_700.0.4_APKPure(1).xapk",
+  "xapk_sha256": "b8c19d5fdf4da70c8c45cddf3f7e6b8a850863fd55b09b087c6d06d7001d6098",
+  "monster_sprite_count": 15987,
+  "monster_texture_count": 1054,
+  "map_sprite_count": 1356,
+  "map_texture_count": 320,
+  "monster_info_count": 952,
+  "total_stage_rows": 3000,
+  "unique_stage_monster_ids": 575,
+  "complete_16_frame_ids_in_stage": 574,
+  "missing_used_monster_ids": [
+    {
+      "id": 102,
+      "present": 0,
+      "stages": [
+        57,
+        58,
+        59
+      ]
+    }
+  ],
+  "map_layer_series_count": 149,
+  "map_layer_sprite_count": 1179,
+  "all_monsters_with_16_frames": 871,
+  "sprite_class_duplicates": 137,
+  "checks": [
+    {
+      "check": "original_xapk_sha256",
+      "passed": true,
+      "observed": "b8c19d5fdf4da70c8c45cddf3f7e6b8a850863fd55b09b087c6d06d7001d6098",
+      "expected": "b8c19d5fdf4da70c8c45cddf3f7e6b8a850863fd55b09b087c6d06d7001d6098"
+    },
+    {
+      "check": "original_monster_sprite_class_count",
+      "passed": true,
+      "observed": 15987,
+      "expected": 15987
+    },
+    {
+      "check": "original_map_sprite_class_count",
+      "passed": true,
+      "observed": 1356,
+      "expected": 1356
+    },
+    {
+      "check": "original_stage_rows",
+      "passed": true,
+      "observed": 3000,
+      "expected": 3000
+    },
+    {
+      "check": "original_monster_table_rows",
+      "passed": true,
+      "observed": 952,
+      "expected": 952
+    },
+    {
+      "check": "unique_stage_used_monster_ids",
+      "passed": true,
+      "observed": 575,
+      "expected": 575
+    },
+    {
+      "check": "stage_used_monsters_with_16_frames",
+      "passed": true,
+      "observed": 574,
+      "expected": 574
+    },
+    {
+      "check": "stage_used_missing_id",
+      "passed": true,
+      "observed": [
+        102
+      ],
+      "expected": [
+        102
+      ]
+    },
+    {
+      "check": "map_layer_named_groups",
+      "passed": true,
+      "observed": 149,
+      "expected": 149
+    },
+    {
+      "check": "map_layer_sprite_total",
+      "passed": true,
+      "observed": 1179,
+      "expected": 1179
+    },
+    {
+      "check": "monster_1_has_all_frames",
+      "passed": true,
+      "observed": true,
+      "expected": true
+    },
+    {
+      "check": "monster_6_has_all_frames",
+      "passed": true,
+      "observed": true,
+      "expected": true
+    },
+    {
+      "check": "monster_28_has_all_frames",
+      "passed": true,
+      "observed": true,
+      "expected": true
+    },
+    {
+      "check": "monster_32_has_all_frames",
+      "passed": true,
+      "observed": true,
+      "expected": true
+    },
+    {
+      "check": "monster_53_has_all_frames",
+      "passed": true,
+      "observed": true,
+      "expected": true
+    },
+    {
+      "check": "libil2cpp_sha256",
+      "passed": true,
+      "observed": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+      "expected": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537"
+    },
+    {
+      "check": "bl_04e518fc",
+      "passed": true,
+      "observed": "0x4ecb900",
+      "expected": "0x4ecb900"
+    },
+    {
+      "check": "bl_050b4c54",
+      "passed": true,
+      "observed": "0x4cc9b4c",
+      "expected": "0x4cc9b4c"
+    },
+    {
+      "check": "bl_050b4cb0",
+      "passed": true,
+      "observed": "0x4cc9b4c",
+      "expected": "0x4cc9b4c"
+    },
+    {
+      "check": "bl_04cc9c60",
+      "passed": true,
+      "observed": "0x4cc9aa0",
+      "expected": "0x4cc9aa0"
+    },
+    {
+      "check": "bl_04ec09a8",
+      "passed": true,
+      "observed": "0x4cca6a4",
+      "expected": "0x4cca6a4"
+    },
+    {
+      "check": "bl_050f9510",
+      "passed": true,
+      "observed": "0x50f9804",
+      "expected": "0x50f9804"
+    },
+    {
+      "check": "bl_050f97dc",
+      "passed": true,
+      "observed": "0x4e466f8",
+      "expected": "0x4e466f8"
+    },
+    {
+      "check": "bl_050f9a50",
+      "passed": true,
+      "observed": "0x4e513b4",
+      "expected": "0x4e513b4"
+    },
+    {
+      "check": "bl_04e43924",
+      "passed": true,
+      "observed": "0x4e50c80",
+      "expected": "0x4e50c80"
+    },
+    {
+      "check": "bl_04e5143c",
+      "passed": true,
+      "observed": "0x99fb600",
+      "expected": "0x99fb600"
+    },
+    {
+      "check": "gold_moving_constant_04e51430",
+      "passed": true,
+      "observed": "0x52800b40",
+      "expected": "0x52800b40"
+    },
+    {
+      "check": "gold_moving_constant_04e51434",
+      "passed": true,
+      "observed": "0x52800de1",
+      "expected": "0x52800de1"
+    },
+    {
+      "check": "gold_moving_constant_04e51484",
+      "passed": true,
+      "observed": "0x52800c80",
+      "expected": "0x52800c80"
+    }
+  ],
+  "check_pass_count": 29,
+  "check_count": 29,
+  "notes": [
+    "Sprite name and PathID verified from original UnityFS, not extracted PNG.",
+    "Map ID to named layer mapping not verified.",
+    "Initial account Stage/appearance not verified.",
+    "Loot formula and IFix runtime patch not fully verified."
+  ]
+}

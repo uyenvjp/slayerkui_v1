@@ -1,0 +1,194 @@
+[
+  {
+    "Id": 500,
+    "EventType": 500,
+    "Active": false,
+    "SkillIndex": [
+      1001,
+      1002
+    ],
+    "SeasonSkillPassProductType": 0,
+    "ChangeCurrencyType": 0,
+    "ChangeNeedAmount": 0,
+    "FreeChangeCount": 0,
+    "DiceChangeCount": 0
+  },
+  {
+    "Id": 501,
+    "EventType": 501,
+    "Active": false,
+    "SkillIndex": [
+      1003,
+      1004
+    ],
+    "SeasonSkillPassProductType": 2002,
+    "ChangeCurrencyType": 4,
+    "ChangeNeedAmount": 1000,
+    "FreeChangeCount": 3,
+    "DiceChangeCount": 0
+  },
+  {
+    "Id": 502,
+    "EventType": 502,
+    "Active": false,
+    "SkillIndex": [
+      1005,
+      1006
+    ],
+    "SeasonSkillPassProductType": 2003,
+    "ChangeCurrencyType": 4,
+    "ChangeNeedAmount": 1000,
+    "FreeChangeCount": 3,
+    "DiceChangeCount": 5
+  },
+  {
+    "Id": 503,
+    "EventType": 503,
+    "Active": false,
+    "SkillIndex": [
+      1007,
+      1008
+    ],
+    "SeasonSkillPassProductType": 2004,
+    "ChangeCurrencyType": 4,
+    "ChangeNeedAmount": 1000,
+    "FreeChangeCount": 3,
+    "DiceChangeCount": 5
+  },
+  {
+    "Id": 504,
+    "EventType": 504,
+    "Active": false,
+    "SkillIndex": [
+      1009,
+      1010
+    ],
+    "SeasonSkillPassProductType": 2005,
+    "ChangeCurrencyType": 4,
+    "ChangeNeedAmount": 1000,
+    "FreeChangeCount": 3,
+    "DiceChangeCount": 5
+  },
+  {
+    "Id": 505,
+    "EventType": 505,
+    "Active": false,
+    "SkillIndex": [
+      1011,
+      1012
+    ],
+    "SeasonSkillPassProductType": 2006,
+    "ChangeCurrencyType": 4,
+    "ChangeNeedAmount": 1000,
+    "FreeChangeCount": 3,
+    "DiceChangeCount": 5
+  },
+  {
+    "Id": 506,
+    "EventType": 506,
+    "Active": false,
+    "SkillIndex": [
+      1002,
+      1007,
+      1012
+    ],
+    "SeasonSkillPassProductType": 2007,
+    "ChangeCurrencyType": 4,
+    "ChangeNeedAmount": 1000,
+    "FreeChangeCount": 1,
+    "DiceChangeCount": 2
+  },
+  {
+    "Id": 507,
+    "EventType": 507,
+    "Active": false,
+    "SkillIndex": [
+      1006,
+      1009,
+      1001
+    ],
+    "SeasonSkillPassProductType": 2008,
+    "ChangeCurrencyType": 4,
+    "ChangeNeedAmount": 1000,
+    "FreeChangeCount": 1,
+    "DiceChangeCount": 2
+  },
+  {
+    "Id": 508,
+    "EventType": 508,
+    "Active": false,
+    "SkillIndex": [
+      1005,
+      1003,
+      1011
+    ],
+    "SeasonSkillPassProductType": 2009,
+    "ChangeCurrencyType": 4,
+    "ChangeNeedAmount": 1000,
+    "FreeChangeCount": 1,
+    "DiceChangeCount": 2
+  },
+  {
+    "Id": 509,
+    "EventType": 509,
+    "Active": false,
+    "SkillIndex": [
+      1004,
+      1008,
+      1010
+    ],
+    "SeasonSkillPassProductType": 2010,
+    "ChangeCurrencyType": 4,
+    "ChangeNeedAmount": 1000,
+    "FreeChangeCount": 1,
+    "DiceChangeCount": 2
+  },
+  {
+    "Id": 510,
+    "EventType": 510,
+    "Active": false,
+    "SkillIndex": [
+      1002,
+      1014,
+      1013,
+      1009
+    ],
+    "SeasonSkillPassProductType": 2011,
+    "ChangeCurrencyType": 4,
+    "ChangeNeedAmount": 1000,
+    "FreeChangeCount": 1,
+    "DiceChangeCount": 2
+  },
+  {
+    "Id": 511,
+    "EventType": 511,
+    "Active": false,
+    "SkillIndex": [
+      1005,
+      1015,
+      1016,
+      1010
+    ],
+    "SeasonSkillPassProductType": 2012,
+    "ChangeCurrencyType": 4,
+    "ChangeNeedAmount": 1000,
+    "FreeChangeCount": 1,
+    "DiceChangeCount": 2
+  },
+  {
+    "Id": 512,
+    "EventType": 512,
+    "Active": true,
+    "SkillIndex": [
+      1017,
+      1012,
+      1003,
+      1018
+    ],
+    "SeasonSkillPassProductType": 2013,
+    "ChangeCurrencyType": 4,
+    "ChangeNeedAmount": 1000,
+    "FreeChangeCount": 1,
+    "DiceChangeCount": 2
+  }
+]

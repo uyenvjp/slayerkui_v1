@@ -1,0 +1,54 @@
+{
+  "package": "com.gear2.growslayer",
+  "version": "700.0.4",
+  "version_code": 705,
+  "native_sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+  "step9_bounded_native_model_cases": 2064,
+  "scoped_checks": [
+    {
+      "scope": "experience",
+      "passed": true,
+      "native_model_cases": 1232,
+      "native_report": "experience-native-report.json",
+      "javascript_report": "js-experience-report.json",
+      "limits": "Seven EXP/scroll/prediction entry bodies plus Exp_Cal and Probability bodies. Explicit decrypted wrappers, ExpAdd/spirit/event getters, original table lookups, initialized managers, RNG results, UI/log/Cave sinks. No full account, Unity/IFix/server or level-up application parity."
+    },
+    {
+      "scope": "level_flow",
+      "passed": true,
+      "native_model_cases": 832,
+      "native_report": "level-flow-native-report.json",
+      "javascript_report": "js-level_flow-report.json",
+      "limits": "Eight level application/display/callback/batch/stop/hold/debounce entry bodies with original callback body registered as the sole LevelUpAction listener and original get_UserMaxLevel. Wrapper/collections, content flags, level-event observers, initialized managers, UI/quest/audio/tutorial/unlock/Fill_Update/SyncExp/API/time-sync/wait sinks modeled. No complete subscribers/Unity/IFix/server/save parity."
+    }
+  ],
+  "connected_sequences": 7,
+  "sequence_actions": 32,
+  "extra_checks_excluded_from_case_total": {
+    "experience_input_contracts": 2,
+    "level_null_callback_contracts": 1
+  },
+  "baseline_user_max_level": 4000,
+  "original_exp_table_rows": 5001,
+  "all_client_logic_analyzed": false,
+  "all_game_logic_recovered": false,
+  "native_game_executed": false,
+  "game_services_called": false,
+  "live_ifix_loaded": false,
+  "h5_building_paused": true,
+  "deployed_this_step": false,
+  "new_or_substitute_assets_created": false,
+  "static_only_not_whole_body_validated": [
+    "StatManager Awake/OnEnable/OnDisable/Start/constructor lifecycle; callback method usage resolved from OnEnable",
+    "Fill_Update body read statically; remains sink",
+    "Other unlock/quest/tutorial/training and SyncExp/API downstreams remain explicit dependencies"
+  ],
+  "common_native_vm_changed_this_step": false,
+  "scope_notes": "Original selected native instruction bodies versus JavaScript translations under declared fixtures. Actual LevelUp_Callback/LevelDisplay are linked as the one registered listener for the level corpus; other subscribers and opaque UI/quest/time-sync/unlock/network sinks are not gameplay parity. Synthetic account fixtures are not offline defaults. Case counts are not completion percentages.",
+  "current_port_sha256": {
+    "recovered-experience.mjs": "5b7c7905041a4e2d35105e91e217364bbea1fa56234fa5684ebccaeee170916f",
+    "recovered-level-flow.mjs": "65dd7ff49410570f18882c68d20bbeb7ef20fb0789f5e62a24c233774ca082d6",
+    "verify-experience.mjs": "12e9fe979851cc309e619e1c60b3551946615635574c0fb4920b84c1e17be705",
+    "verify-level-flow.mjs": "8b55d82354f77d53af25a663b86eb23321b0b95d0ab731e7026a74eaf9199096"
+  }
+}

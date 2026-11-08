@@ -1,0 +1,8 @@
+[
+  {
+    "Id": 0,
+    "IntervalMinute": 720,
+    "ResetCurrency": 1,
+    "ResetCurrencyAmount": 100
+  }
+]

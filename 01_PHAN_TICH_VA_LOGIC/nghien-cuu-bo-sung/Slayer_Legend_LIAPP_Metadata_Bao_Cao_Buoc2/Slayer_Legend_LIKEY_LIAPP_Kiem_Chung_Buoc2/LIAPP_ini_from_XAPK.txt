@@ -1,0 +1,8 @@
+[INFORMATION]
+LIAgent=0
+Job-Id#=132100
+Version=v5.1.1.218 (0x4ecdc927) with Linux.
+BuildNo=5a62aa0f
+
+Contact=https://www.lockincomp.com/
+This application is protected by LIAPP(Lockin Company's mobile security solution).

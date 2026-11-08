@@ -1,0 +1,9 @@
+{
+  "cases": 910,
+  "snapshots": 182,
+  "entries": 5,
+  "contracts": 7,
+  "instruction_steps": 65372,
+  "distinct_instructions": 366,
+  "scope": "Five DatabaseManager EXP aggregation/setter/spirit-array/sync entry bodies and original UserExp string setters. Decrypted wrappers, initialized metadata, string conversion, generic non-null check and bounded decimal Parse dependency modeled. Finite numeric bits and intermediate cache writes compared; NaNs compared by class, not payload. No full account/Unity/IFix/backend/culture-complete parser parity."
+}

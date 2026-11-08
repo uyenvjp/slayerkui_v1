@@ -1,0 +1,51 @@
+SLAYER LEGEND 700.0.4 — BẰNG CHỨNG GIAI ĐOẠN 3
+Nguồn: file XAPK nguyên bản do người dùng cung cấp. Phân tích tĩnh, không chạy Android/không phá LIAPP.
+
+1. XUẤT CẤU TRÚC UNITYFS VÀ ĐẾM OBJECT
+Bundle                 Objects     MonoBehaviour(114)   Type kinds  TextAsset(49)
+contents                3,449            0                3             0
+hero                    5,356            0                3             0
+monster                27,353        1,043               90             0
+map                     1,827            0                4             0
+popup                 373,227       75,044              582             0
+skin                   17,273           14               15             0
+sound                     197            0                2             0
+emoticon                   19            0                4             0
+Tổng các bundle: 428,701 serialized objects.
+Đã đọc ObjectInfo và kiểm tra mọi byteStart + size nằm trong vùng data cho 8 bundle (0 record out-of-bounds).
+Số MonoBehaviour tính theo OBJECT CLASS, không phải số class C# hay hàm game.
+Class 49 (TextAsset) không xuất hiện trong 8 bundle kiểm tra; điều này KHÔNG loại trừ dữ liệu bảng ở nơi khác.
+
+2. DỮ LIỆU GAMEPLAY CÓ THỂ KHÔI PHỤC TỪ TYPE TREE
+monster MonoBehaviour type index 28, typeHash 7a0dadb0914a768bc4e3387266e66c16:
+  các field atkSpeed, miss, accuracy, dmgReduce, MonsterType, AttackRange, SpecialAttack_Cooltime, SpecialAttack_Prob.
+monster MonoBehaviour type index 20, typeHash 296cc624c2421c376a8521488e9fd63e:
+  nested Spirit/SpiritBase chứa SpeciesIndex, Grade, Level, AbilityValues, SkillType, SkillValues.
+popup (UI/prefab): các type riêng có TXT_StatValue, BTN_LevelUp, _rewards, BTN_GetReward,
+  _skillPattern, attackEffect, WorldBoss, DemonSkill... xem He_Thong_Gameplay_Tu_TypeTree.csv.
+
+3. KIỂM TRA GIÁ TRỊ OBJECT THỰC
+  Đã đọc 6 mẫu MonoBehaviour đủ đúng số byte khai báo.
+  Một mẫu quái: 440/440 byte, SpecialAttack_Cooltime=2.0.
+  Đây là giá trị đã serialize trong prefab, KHÔNG phải xác nhận cooldown khi game vận hành.
+
+4. KIỂM CHỨNG BỘ BẢO VỆ
+  libeufxww.so (tệp bản gốc tách ở giai đoạn 2) có ELF SONAME=libliapp.so.
+ 0x0000000000000001 (NEEDED)             Shared library: [liblog.so]
+ 0x0000000000000001 (NEEDED)             Shared library: [libdl.so]
+ 0x0000000000000001 (NEEDED)             Shared library: [libstdc++.so]
+ 0x0000000000000001 (NEEDED)             Shared library: [libm.so]
+ 0x0000000000000001 (NEEDED)             Shared library: [libc.so]
+ 0x000000000000000e (SONAME)             Library soname: [libliapp.so]
+  Việc tìm được TypeTree từ bundle không có nghĩa metadata LIKEY đã được giải mã.
+
+5. CHƯA PHỤC HỒI
+  Chưa có metadata IL2CPP hợp lệ, dump.cs, script.json, source C#, công thức combat, xác suất rơi hay server data.
+  Các dữ liệu type tree giúp dựng cấu trúc hoặc tham số mặc định, KHÔNG thay thế logic hàm native.
+
+6. FILE KÈM
+  UnityFS_Catalog.json: danh mục mọi bundle, object count và type-tree từ dữ liệu thực.
+  He_Thong_Gameplay_Tu_TypeTree.csv: các field chọn lọc kèm typeHash và index.
+  Monster_MonoBehaviour_GiaTri_KiemChung.json: mẫu giá trị + offset, chỉ giữ các mẫu parse đủ bytes.
+  parse_unityfs.py, catalog_unity.py, read_serial_values.py: script phân tích tĩnh tái lập.
+  xuat_bang_chung_gd3.py: xuất bảng tóm tắt và mẫu sau khi có UnityFS_Catalog.json.

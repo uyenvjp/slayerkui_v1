@@ -1,0 +1,5 @@
+{
+  "passed": 64,
+  "sequences": 3,
+  "scope": "Selected original queue construction bodies and cached EXP reference lifetime; no transport or response model."
+}

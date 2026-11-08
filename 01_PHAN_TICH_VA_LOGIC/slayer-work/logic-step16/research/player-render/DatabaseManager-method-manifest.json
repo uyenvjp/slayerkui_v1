@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6005e98",
+    "name": "get_UsingSkin",
+    "declaring_type_index": "2181",
+    "declaring_type_full_name": "DatabaseManager",
+    "native_va": "0x4d4a84c",
+    "return_type_index": "59073",
+    "return_type_name": "bool",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "2182",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x935a8c",
+    "end_va": "0x4d4a8ac",
+    "asm_file": "DatabaseManager__get_UsingSkin_0x6005e98.asm"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6005eba",
+    "name": "SlayerClass_SkinIndex",
+    "declaring_type_index": "2181",
+    "declaring_type_full_name": "DatabaseManager",
+    "native_va": "0x4d4c760",
+    "return_type_index": "70935",
+    "return_type_name": "int",
+    "parameter_start": "4724",
+    "parameter_count": "2",
+    "flags": "150",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x935ecc",
+    "end_va": "0x4d4c7ec",
+    "asm_file": "DatabaseManager__SlayerClass_SkinIndex_0x6005eba.asm"
+  }
+]

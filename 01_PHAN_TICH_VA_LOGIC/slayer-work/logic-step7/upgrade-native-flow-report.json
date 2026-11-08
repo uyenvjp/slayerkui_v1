@@ -1,0 +1,7 @@
+{
+  "cases": 3978,
+  "tableLevels": 1701,
+  "instructionSteps": 190738,
+  "distinctInstructions": 401,
+  "scope": "Six bounded equipment method bodies. Original level-table rows; decoded wrappers, List lookup, cube getter, ApplyEquipment/PointerUp (within gate), diagnostics and audio/API sinks explicitly modeled. No complete upgrade/account/server parity."
+}

@@ -1,0 +1,1007 @@
+[
+  {
+    "Id": 1,
+    "EtherGradeType": 4,
+    "IconType": 1,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 0,
+    "EtherBuffValue": 0,
+    "RewardCurrencyTypes": [
+      6000
+    ],
+    "Values": [
+      "50"
+    ]
+  },
+  {
+    "Id": 2,
+    "EtherGradeType": 4,
+    "IconType": 7,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 1,
+    "EtherBuffValue": 0,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 3,
+    "EtherGradeType": 4,
+    "IconType": 5,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 3,
+    "DragonValleyEtherBuffType": 35,
+    "EtherBuffValue": 300,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 4,
+    "EtherGradeType": 4,
+    "IconType": 6,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 0,
+    "EtherBuffValue": 0,
+    "RewardCurrencyTypes": [
+      6200
+    ],
+    "Values": [
+      "1000"
+    ]
+  },
+  {
+    "Id": 5,
+    "EtherGradeType": 4,
+    "IconType": 3,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 2,
+    "DragonValleyEtherBuffType": 3,
+    "EtherBuffValue": 0,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 6,
+    "EtherGradeType": 4,
+    "IconType": 5,
+    "Prob": 25,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 3,
+    "DragonValleyEtherBuffType": 4,
+    "EtherBuffValue": 500,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 7,
+    "EtherGradeType": 4,
+    "IconType": 5,
+    "Prob": 25,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 3,
+    "DragonValleyEtherBuffType": 5,
+    "EtherBuffValue": 500,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 8,
+    "EtherGradeType": 4,
+    "IconType": 5,
+    "Prob": 25,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 3,
+    "DragonValleyEtherBuffType": 6,
+    "EtherBuffValue": 500,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 9,
+    "EtherGradeType": 4,
+    "IconType": 5,
+    "Prob": 25,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 3,
+    "DragonValleyEtherBuffType": 7,
+    "EtherBuffValue": 500,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 10,
+    "EtherGradeType": 4,
+    "IconType": 5,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 3,
+    "DragonValleyEtherBuffType": 20,
+    "EtherBuffValue": 3,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 11,
+    "EtherGradeType": 4,
+    "IconType": 5,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 3,
+    "DragonValleyEtherBuffType": 21,
+    "EtherBuffValue": 3,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 12,
+    "EtherGradeType": 4,
+    "IconType": 9,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 2,
+    "DragonValleyEtherBuffType": 22,
+    "EtherBuffValue": 2,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 13,
+    "EtherGradeType": 4,
+    "IconType": 9,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 2,
+    "DragonValleyEtherBuffType": 36,
+    "EtherBuffValue": 500,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 14,
+    "EtherGradeType": 4,
+    "IconType": 9,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 2,
+    "DragonValleyEtherBuffType": 43,
+    "EtherBuffValue": 500,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 1001,
+    "EtherGradeType": 5,
+    "IconType": 1,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2
+    ],
+    "AppearType": 1,
+    "DragonValleyEtherBuffType": 8,
+    "EtherBuffValue": 50,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 1002,
+    "EtherGradeType": 5,
+    "IconType": 8,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 1,
+    "DragonValleyEtherBuffType": 9,
+    "EtherBuffValue": 10,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 1003,
+    "EtherGradeType": 5,
+    "IconType": 9,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 2,
+    "DragonValleyEtherBuffType": 10,
+    "EtherBuffValue": 10,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 1004,
+    "EtherGradeType": 5,
+    "IconType": 8,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 1,
+    "DragonValleyEtherBuffType": 11,
+    "EtherBuffValue": 50,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 1005,
+    "EtherGradeType": 5,
+    "IconType": 4,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 0,
+    "EtherBuffValue": 0,
+    "RewardCurrencyTypes": [
+      6209
+    ],
+    "Values": [
+      "10"
+    ]
+  },
+  {
+    "Id": 1006,
+    "EtherGradeType": 5,
+    "IconType": 4,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 0,
+    "EtherBuffValue": 0,
+    "RewardCurrencyTypes": [
+      6210
+    ],
+    "Values": [
+      "5"
+    ]
+  },
+  {
+    "Id": 1007,
+    "EtherGradeType": 5,
+    "IconType": 8,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 1,
+    "DragonValleyEtherBuffType": 12,
+    "EtherBuffValue": 100,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 1008,
+    "EtherGradeType": 5,
+    "IconType": 8,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 1,
+    "DragonValleyEtherBuffType": 13,
+    "EtherBuffValue": 100,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 1009,
+    "EtherGradeType": 5,
+    "IconType": 4,
+    "Prob": 80,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 0,
+    "EtherBuffValue": 0,
+    "RewardCurrencyTypes": [
+      6013
+    ],
+    "Values": [
+      "300,800"
+    ]
+  },
+  {
+    "Id": 1010,
+    "EtherGradeType": 5,
+    "IconType": 4,
+    "Prob": 80,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 0,
+    "EtherBuffValue": 0,
+    "RewardCurrencyTypes": [
+      6012
+    ],
+    "Values": [
+      "70,150"
+    ]
+  },
+  {
+    "Id": 1011,
+    "EtherGradeType": 5,
+    "IconType": 4,
+    "Prob": 80,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 0,
+    "EtherBuffValue": 0,
+    "RewardCurrencyTypes": [
+      6014
+    ],
+    "Values": [
+      "50,100"
+    ]
+  },
+  {
+    "Id": 1012,
+    "EtherGradeType": 5,
+    "IconType": 4,
+    "Prob": 80,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 0,
+    "EtherBuffValue": 0,
+    "RewardCurrencyTypes": [
+      6015
+    ],
+    "Values": [
+      "200,350"
+    ]
+  },
+  {
+    "Id": 1013,
+    "EtherGradeType": 5,
+    "IconType": 4,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 0,
+    "EtherBuffValue": 0,
+    "RewardCurrencyTypes": [
+      6005
+    ],
+    "Values": [
+      "2,5"
+    ]
+  },
+  {
+    "Id": 1014,
+    "EtherGradeType": 5,
+    "IconType": 7,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 2,
+    "EtherBuffValue": 0,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 1015,
+    "EtherGradeType": 5,
+    "IconType": 5,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 3,
+    "DragonValleyEtherBuffType": 23,
+    "EtherBuffValue": 1000,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 1016,
+    "EtherGradeType": 5,
+    "IconType": 6,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 0,
+    "EtherBuffValue": 0,
+    "RewardCurrencyTypes": [
+      6200
+    ],
+    "Values": [
+      "2000"
+    ]
+  },
+  {
+    "Id": 1017,
+    "EtherGradeType": 5,
+    "IconType": 9,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 2,
+    "DragonValleyEtherBuffType": 24,
+    "EtherBuffValue": 3000,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 1018,
+    "EtherGradeType": 5,
+    "IconType": 9,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 2,
+    "DragonValleyEtherBuffType": 25,
+    "EtherBuffValue": 1,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 1019,
+    "EtherGradeType": 5,
+    "IconType": 4,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 37,
+    "EtherBuffValue": 30,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 1020,
+    "EtherGradeType": 5,
+    "IconType": 5,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 3,
+    "DragonValleyEtherBuffType": 38,
+    "EtherBuffValue": 300,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 1021,
+    "EtherGradeType": 5,
+    "IconType": 5,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 3,
+    "DragonValleyEtherBuffType": 39,
+    "EtherBuffValue": 300,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 1022,
+    "EtherGradeType": 5,
+    "IconType": 5,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 3,
+    "DragonValleyEtherBuffType": 40,
+    "EtherBuffValue": 300,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 1023,
+    "EtherGradeType": 5,
+    "IconType": 9,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 2,
+    "DragonValleyEtherBuffType": 42,
+    "EtherBuffValue": 300,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 2001,
+    "EtherGradeType": 6,
+    "IconType": 1,
+    "Prob": 170,
+    "AppearIndexes": [
+      1,
+      2
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 14,
+    "EtherBuffValue": 20,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 2002,
+    "EtherGradeType": 6,
+    "IconType": 8,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 0,
+    "EtherBuffValue": 0,
+    "RewardCurrencyTypes": [
+      6208
+    ],
+    "Values": [
+      "1"
+    ]
+  },
+  {
+    "Id": 2003,
+    "EtherGradeType": 6,
+    "IconType": 8,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 15,
+    "EtherBuffValue": 3000,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 2004,
+    "EtherGradeType": 6,
+    "IconType": 8,
+    "Prob": 100,
+    "AppearIndexes": [
+      2,
+      3
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 26,
+    "EtherBuffValue": 1,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 2005,
+    "EtherGradeType": 6,
+    "IconType": 4,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 0,
+    "EtherBuffValue": 0,
+    "RewardCurrencyTypes": [
+      6013,
+      6012,
+      6014,
+      6015,
+      6005
+    ],
+    "Values": [
+      "300",
+      "100",
+      "50",
+      "200",
+      "2"
+    ]
+  },
+  {
+    "Id": 2006,
+    "EtherGradeType": 6,
+    "IconType": 5,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 3,
+    "DragonValleyEtherBuffType": 27,
+    "EtherBuffValue": 500,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 2007,
+    "EtherGradeType": 6,
+    "IconType": 2,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 28,
+    "EtherBuffValue": 10,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 2008,
+    "EtherGradeType": 6,
+    "IconType": 2,
+    "Prob": 170,
+    "AppearIndexes": [
+      1,
+      2
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 29,
+    "EtherBuffValue": 500,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 2009,
+    "EtherGradeType": 6,
+    "IconType": 3,
+    "Prob": 170,
+    "AppearIndexes": [
+      1,
+      2
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 30,
+    "EtherBuffValue": 500,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 2010,
+    "EtherGradeType": 6,
+    "IconType": 9,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 2,
+    "DragonValleyEtherBuffType": 31,
+    "EtherBuffValue": 50,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 2011,
+    "EtherGradeType": 6,
+    "IconType": 9,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 2,
+    "DragonValleyEtherBuffType": 32,
+    "EtherBuffValue": 1,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 2012,
+    "EtherGradeType": 6,
+    "IconType": 6,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 0,
+    "EtherBuffValue": 0,
+    "RewardCurrencyTypes": [
+      6200
+    ],
+    "Values": [
+      "5000"
+    ]
+  },
+  {
+    "Id": 2013,
+    "EtherGradeType": 6,
+    "IconType": 9,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 2,
+    "DragonValleyEtherBuffType": 16,
+    "EtherBuffValue": 100,
+    "RewardCurrencyTypes": [
+      6200
+    ],
+    "Values": [
+      "3000"
+    ]
+  },
+  {
+    "Id": 2014,
+    "EtherGradeType": 6,
+    "IconType": 9,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 2,
+    "DragonValleyEtherBuffType": 17,
+    "EtherBuffValue": 100,
+    "RewardCurrencyTypes": [
+      6200
+    ],
+    "Values": [
+      "3000"
+    ]
+  },
+  {
+    "Id": 2015,
+    "EtherGradeType": 6,
+    "IconType": 9,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 2,
+    "DragonValleyEtherBuffType": 18,
+    "EtherBuffValue": 100,
+    "RewardCurrencyTypes": [
+      6200
+    ],
+    "Values": [
+      "3000"
+    ]
+  },
+  {
+    "Id": 2016,
+    "EtherGradeType": 6,
+    "IconType": 9,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 2,
+    "DragonValleyEtherBuffType": 19,
+    "EtherBuffValue": 100,
+    "RewardCurrencyTypes": [
+      6200
+    ],
+    "Values": [
+      "3000"
+    ]
+  },
+  {
+    "Id": 2017,
+    "EtherGradeType": 6,
+    "IconType": 9,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 2,
+    "DragonValleyEtherBuffType": 33,
+    "EtherBuffValue": 500,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 2018,
+    "EtherGradeType": 6,
+    "IconType": 9,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 2,
+    "DragonValleyEtherBuffType": 34,
+    "EtherBuffValue": 10,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  },
+  {
+    "Id": 2019,
+    "EtherGradeType": 6,
+    "IconType": 9,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 0,
+    "EtherBuffValue": 0,
+    "RewardCurrencyTypes": [
+      6211
+    ],
+    "Values": [
+      "1"
+    ]
+  },
+  {
+    "Id": 2020,
+    "EtherGradeType": 6,
+    "IconType": 9,
+    "Prob": 100,
+    "AppearIndexes": [
+      1,
+      2,
+      3
+    ],
+    "AppearType": 2,
+    "DragonValleyEtherBuffType": 44,
+    "EtherBuffValue": 500,
+    "RewardCurrencyTypes": [
+      6200
+    ],
+    "Values": [
+      "2000"
+    ]
+  },
+  {
+    "Id": 2021,
+    "EtherGradeType": 6,
+    "IconType": 7,
+    "Prob": 170,
+    "AppearIndexes": [
+      1,
+      2
+    ],
+    "AppearType": 0,
+    "DragonValleyEtherBuffType": 41,
+    "EtherBuffValue": 1,
+    "RewardCurrencyTypes": [],
+    "Values": []
+  }
+]

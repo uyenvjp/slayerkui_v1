@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "Answer": true
+  },
+  {
+    "Id": 2,
+    "Answer": false
+  },
+  {
+    "Id": 3,
+    "Answer": false
+  },
+  {
+    "Id": 4,
+    "Answer": false
+  },
+  {
+    "Id": 5,
+    "Answer": true
+  },
+  {
+    "Id": 6,
+    "Answer": true
+  },
+  {
+    "Id": 7,
+    "Answer": false
+  },
+  {
+    "Id": 8,
+    "Answer": false
+  },
+  {
+    "Id": 9,
+    "Answer": true
+  },
+  {
+    "Id": 10,
+    "Answer": false
+  },
+  {
+    "Id": 11,
+    "Answer": true
+  },
+  {
+    "Id": 12,
+    "Answer": true
+  },
+  {
+    "Id": 13,
+    "Answer": false
+  },
+  {
+    "Id": 14,
+    "Answer": true
+  },
+  {
+    "Id": 15,
+    "Answer": false
+  },
+  {
+    "Id": 16,
+    "Answer": true
+  },
+  {
+    "Id": 17,
+    "Answer": false
+  },
+  {
+    "Id": 18,
+    "Answer": false
+  },
+  {
+    "Id": 19,
+    "Answer": false
+  },
+  {
+    "Id": 20,
+    "Answer": true
+  }
+]

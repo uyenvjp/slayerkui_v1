@@ -1,0 +1,158 @@
+{
+  "project": "Slayer Legend 700.0.4 - static metadata study phase 3",
+  "source_metadata": {
+    "name": "global-metadata.dat",
+    "bytes": 33085012,
+    "sha256": "0f0c21c82432adab3421ea6c82e2662b032a8fc2fc17f81defe166b2ce294c46",
+    "first_32_bytes_hex": "4c 49 4b 45 59 7f 00 00 df 02 53 df af 56 23 00 54 d6 f8 01 8e c5 2d 11 1d 3e 71 21 d6 2c 27 f3",
+    "starts_with_LIKEY": true
+  },
+  "source_libil2cpp": {
+    "name": "libil2cpp.so",
+    "bytes": 180105648,
+    "sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+    "elf64_little_endian_aarch64": true,
+    "native_il2cpp_exported_api_count": 241
+  },
+  "xor_hypothesis": {
+    "key_hex": "43 44 45 46 47 48 49 4a",
+    "key_phase_for_named_region": 0,
+    "decoded_file_sha256": "7cb188859da11aa686cba66937039e5fd14a59d87117526b5f16e3f79fb70818",
+    "NOTE": "XOR is not a full LIAPP metadata decryption!"
+  },
+  "observed_ascii_zone": {
+    "first_complete_visible_ALARM_TEXT_022_offset_hex": "0x2356af",
+    "first_contiguous_printable_or_nul_run_end_exclusive_hex": "0x5308b7",
+    "run_length_bytes": 3125768,
+    "null_separated_ascii_strings_in_run": 127483,
+    "xls_names_in_run": 100,
+    "distinct_xls_names": 100,
+    "NOTE": "This is an observed data zone, not a validated IL2CPP metadata table offset."
+  },
+  "metadata_magic_checks": {
+    "plain_magic_hits": [],
+    "xor_magic_hits_by_phase": {
+      "0": {
+        "matches_header_version39": 0,
+        "offsets": []
+      },
+      "1": {
+        "matches_header_version39": 0,
+        "offsets": []
+      },
+      "2": {
+        "matches_header_version39": 0,
+        "offsets": []
+      },
+      "3": {
+        "matches_header_version39": 0,
+        "offsets": []
+      },
+      "4": {
+        "matches_header_version39": 0,
+        "offsets": []
+      },
+      "5": {
+        "matches_header_version39": 0,
+        "offsets": []
+      },
+      "6": {
+        "matches_header_version39": 0,
+        "offsets": []
+      },
+      "7": {
+        "matches_header_version39": 0,
+        "offsets": []
+      }
+    },
+    "plausible_version_hits": [],
+    "decoded_magic_phase0_count": 0
+  },
+  "selected_string_locations": {
+    "Xls_Skill": {
+      "metadata_xor_first_hex": "0x27d8d9",
+      "metadata_xor_total": 25,
+      "libil2cpp_raw_first_hex": null,
+      "libil2cpp_raw_total": 0
+    },
+    "Xls_AdventureInfo": {
+      "metadata_xor_first_hex": "0x27cb1a",
+      "metadata_xor_total": 5,
+      "libil2cpp_raw_first_hex": null,
+      "libil2cpp_raw_total": 0
+    },
+    "Xls_AdventureWaveInfo": {
+      "metadata_xor_first_hex": "0x27cbbc",
+      "metadata_xor_total": 5,
+      "libil2cpp_raw_first_hex": null,
+      "libil2cpp_raw_total": 0
+    },
+    "Xls_WeaponSkin": {
+      "metadata_xor_first_hex": "0x27e1b7",
+      "metadata_xor_total": 5,
+      "libil2cpp_raw_first_hex": null,
+      "libil2cpp_raw_total": 0
+    },
+    "GameManager": {
+      "metadata_xor_first_hex": "0x295cb2",
+      "metadata_xor_total": 479,
+      "libil2cpp_raw_first_hex": null,
+      "libil2cpp_raw_total": 0
+    },
+    "GrowSlayer": {
+      "metadata_xor_first_hex": "0x306e19",
+      "metadata_xor_total": 6719,
+      "libil2cpp_raw_first_hex": "0x1f322f5",
+      "libil2cpp_raw_total": 2
+    },
+    "LIAPP_DETECTED_ANTI_DEBUGGER": {
+      "metadata_xor_first_hex": "0x27e285",
+      "metadata_xor_total": 1,
+      "libil2cpp_raw_first_hex": null,
+      "libil2cpp_raw_total": 0
+    },
+    "LIAPP_DETECTED_INTEGRITY": {
+      "metadata_xor_first_hex": "0x27e2a2",
+      "metadata_xor_total": 1,
+      "libil2cpp_raw_first_hex": null,
+      "libil2cpp_raw_total": 0
+    },
+    "SkillBasicDes": {
+      "metadata_xor_first_hex": "0x2796f0",
+      "metadata_xor_total": 11,
+      "libil2cpp_raw_first_hex": null,
+      "libil2cpp_raw_total": 0
+    },
+    "BossNumber": {
+      "metadata_xor_first_hex": "0x27cb5a",
+      "metadata_xor_total": 4,
+      "libil2cpp_raw_first_hex": null,
+      "libil2cpp_raw_total": 0
+    },
+    "Damage": {
+      "metadata_xor_first_hex": "0x2397cc",
+      "metadata_xor_total": 314,
+      "libil2cpp_raw_first_hex": null,
+      "libil2cpp_raw_total": 0
+    },
+    "Assembly-CSharp.dll": {
+      "metadata_xor_first_hex": null,
+      "metadata_xor_total": 0,
+      "libil2cpp_raw_first_hex": "0x1f3722f",
+      "libil2cpp_raw_total": 1
+    },
+    "global-metadata.dat": {
+      "metadata_xor_first_hex": null,
+      "metadata_xor_total": 0,
+      "libil2cpp_raw_first_hex": "0x1f2d62e",
+      "libil2cpp_raw_total": 1
+    }
+  },
+  "important_note": "Names adjacent to an Xls_* token are NOT confirmed to be its fields without IL2CPP field indices; no actual row values or formulas were recovered.",
+  "status": {
+    "protected_metadata_recovered": false,
+    "dump_cs_created": false,
+    "method_addresses_linked": false,
+    "gameplay_formulas_recovered": false
+  }
+}

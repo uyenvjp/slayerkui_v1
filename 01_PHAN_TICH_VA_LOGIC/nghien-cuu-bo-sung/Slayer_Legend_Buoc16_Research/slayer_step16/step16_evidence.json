@@ -1,0 +1,302 @@
+{
+  "origin": "Slayer Legend 700.0.4 user-supplied XAPK archive; static ELF/metadata checkpoint",
+  "elf_sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+  "checks_passed": 46,
+  "method_checks": 12,
+  "field_checks": 10,
+  "branch_checks": 8,
+  "instruction_checks": 14,
+  "order_checks": 2,
+  "checks": [
+    {
+      "kind": "method",
+      "name": "UserInfoLoad.Load",
+      "va": "0x5226e14"
+    },
+    {
+      "kind": "method",
+      "name": "UserInfoLoadEquipment.LoadEquipmentState",
+      "va": "0x522e574"
+    },
+    {
+      "kind": "method",
+      "name": "UserInfoLoadSkinData.LoadSkinData",
+      "va": "0x5239dc0"
+    },
+    {
+      "kind": "method",
+      "name": "SkinManager.Button_CharacterChange_Confirm",
+      "va": "0x5369550"
+    },
+    {
+      "kind": "method",
+      "name": "SkinManager.GetMyOriginalSkinData",
+      "va": "0x535ecc4"
+    },
+    {
+      "kind": "method",
+      "name": "SkinManager.Skin_Apply",
+      "va": "0x535e1ac"
+    },
+    {
+      "kind": "method",
+      "name": "SkinManager.Weapon_Apply",
+      "va": "0x535e654"
+    },
+    {
+      "kind": "method",
+      "name": "DatabaseManager.BuildUserAppearanceInfo",
+      "va": "0x4d4bc84"
+    },
+    {
+      "kind": "method",
+      "name": "DatabaseManager.get_Skin_BodyIndex",
+      "va": "0x4d4b038"
+    },
+    {
+      "kind": "method",
+      "name": "APIManager.ChangeSkinData",
+      "va": "0x50c943c"
+    },
+    {
+      "kind": "method",
+      "name": "GrowSlayer.ChangeSkinDataRequest..ctor",
+      "va": "0x896dbbc"
+    },
+    {
+      "kind": "method",
+      "name": "Network.Request.IsValidCode",
+      "va": "0x5428284"
+    },
+    {
+      "kind": "field",
+      "name": "GrowSlayer.UserInfo.equipmentState_",
+      "offset": "0xa0"
+    },
+    {
+      "kind": "field",
+      "name": "GrowSlayer.EquipmentState.usingCharacterIndex_",
+      "offset": "0x24"
+    },
+    {
+      "kind": "field",
+      "name": "DatabaseManager.CharacterNumber",
+      "offset": "0x568"
+    },
+    {
+      "kind": "field",
+      "name": "DatabaseManager.CharacterChangeCount",
+      "offset": "0x56c"
+    },
+    {
+      "kind": "field",
+      "name": "DatabaseManager.Skin_BodyIndex0",
+      "offset": "0x584"
+    },
+    {
+      "kind": "field",
+      "name": "DatabaseManager.Skin_BodyIndex1",
+      "offset": "0x5b0"
+    },
+    {
+      "kind": "field",
+      "name": "SkinManager.SelectedCharacterNumber",
+      "offset": "0x278"
+    },
+    {
+      "kind": "field",
+      "name": "GrowSlayer.SkinData.characterNumber_",
+      "offset": "0x18"
+    },
+    {
+      "kind": "field",
+      "name": "GrowSlayer.ChangeSkinDataRequest.selectedCharacterNumber_",
+      "offset": "0x18"
+    },
+    {
+      "kind": "field",
+      "name": "GrowSlayer.ChangeSkinDataResponse.usingCharacterIndex_",
+      "offset": "0x1c"
+    },
+    {
+      "kind": "BL",
+      "name": "load_equipment_state",
+      "at": "0x5227404",
+      "target": "0x522e574",
+      "opcode": "0x94001c5c"
+    },
+    {
+      "kind": "BL",
+      "name": "load_skin_data",
+      "at": "0x5227ac8",
+      "target": "0x5239dc0",
+      "opcode": "0x940048be"
+    },
+    {
+      "kind": "BL",
+      "name": "assemble_current_avatar",
+      "at": "0x535ed08",
+      "target": "0x4d4bc84",
+      "opcode": "0x97e7b3df"
+    },
+    {
+      "kind": "BL",
+      "name": "apply_skin_after_confirm",
+      "at": "0x5369668",
+      "target": "0x535e1ac",
+      "opcode": "0x97ffd2d1"
+    },
+    {
+      "kind": "BL",
+      "name": "apply_weapon_after_confirm",
+      "at": "0x5369674",
+      "target": "0x535e654",
+      "opcode": "0x97ffd3f8"
+    },
+    {
+      "kind": "B",
+      "name": "request_change_skin_data",
+      "at": "0x5369780",
+      "target": "0x50c943c",
+      "opcode": "0x17f57f2f"
+    },
+    {
+      "kind": "BL",
+      "name": "create_change_skin_request",
+      "at": "0x50c9540",
+      "target": "0x896dbbc",
+      "opcode": "0x94e2919f"
+    },
+    {
+      "kind": "BL",
+      "name": "handle_change_skin_response_code",
+      "at": "0x4814ad4",
+      "target": "0x5428284",
+      "opcode": "0x94304dec"
+    },
+    {
+      "kind": "instruction",
+      "name": "load_equipment_ptr",
+      "at": "0x522e5e8",
+      "opcode": "0xf9405288",
+      "disasm": "ldr x8,[x20,#0xa0]"
+    },
+    {
+      "kind": "instruction",
+      "name": "read_index_and_next_field",
+      "at": "0x522e69c",
+      "opcode": "0x29448109",
+      "disasm": "ldp w9,w0,[x8,#0x24]"
+    },
+    {
+      "kind": "instruction",
+      "name": "load_current_character_number",
+      "at": "0x522e6a8",
+      "opcode": "0xb9056a69",
+      "disasm": "str w9,[x19,#0x568]"
+    },
+    {
+      "kind": "instruction",
+      "name": "avatar_uses_character_number",
+      "at": "0x4d4bd90",
+      "opcode": "0xb9456a68",
+      "disasm": "ldr w8,[x19,#0x568]"
+    },
+    {
+      "kind": "instruction",
+      "name": "avatar_sets_skin_character_number",
+      "at": "0x4d4bd98",
+      "opcode": "0xb9001a88",
+      "disasm": "str w8,[x20,#0x18]"
+    },
+    {
+      "kind": "instruction",
+      "name": "body_getter_reads_active_character",
+      "at": "0x4d4b070",
+      "opcode": "0xb9456a68",
+      "disasm": "ldr w8,[x19,#0x568]"
+    },
+    {
+      "kind": "instruction",
+      "name": "body_getter_uses_skin_1_if_nonzero",
+      "at": "0x4d4b078",
+      "opcode": "0xb945b260",
+      "disasm": "ldr w0,[x19,#0x5b0]"
+    },
+    {
+      "kind": "instruction",
+      "name": "body_getter_uses_skin_0_if_zero",
+      "at": "0x4d4b080",
+      "opcode": "0xb9458660",
+      "disasm": "ldr w0,[x19,#0x584]"
+    },
+    {
+      "kind": "instruction",
+      "name": "confirm_reads_selected_index",
+      "at": "0x5369630",
+      "opcode": "0xb9427a6b",
+      "disasm": "ldr w11,[x19,#0x278]"
+    },
+    {
+      "kind": "instruction",
+      "name": "confirm_sets_selected_index",
+      "at": "0x536963c",
+      "opcode": "0xb905690b",
+      "disasm": "str w11,[x8,#0x568]"
+    },
+    {
+      "kind": "instruction",
+      "name": "confirm_increments_change_count",
+      "at": "0x5369640",
+      "opcode": "0xb9056d0a",
+      "disasm": "str w10,[x8,#0x56c]"
+    },
+    {
+      "kind": "instruction",
+      "name": "api_sets_request_index",
+      "at": "0x50c9554",
+      "opcode": "0xb9001af6",
+      "disasm": "str w22,[x23,#0x18]"
+    },
+    {
+      "kind": "instruction",
+      "name": "api_sets_is_event",
+      "at": "0x50c9558",
+      "opcode": "0x390072e8",
+      "disasm": "strb w8,[x23,#0x1c]"
+    },
+    {
+      "kind": "instruction",
+      "name": "api_id_86",
+      "at": "0x50c9608",
+      "opcode": "0x52800ac0",
+      "disasm": "mov w0,#0x56"
+    },
+    {
+      "kind": "order",
+      "name": "load_equipment_before_load_skin_data",
+      "calls": [
+        "0x5227404",
+        "0x5227ac8"
+      ]
+    },
+    {
+      "kind": "order",
+      "name": "local_character_switch_before_network_request",
+      "sites": [
+        "0x536963c",
+        "0x5369668",
+        "0x5369674",
+        "0x5369780"
+      ]
+    }
+  ],
+  "limitations": [
+    "static ARM64 only",
+    "IFix and other hooks may alter runtime behavior",
+    "server default starting character unknown",
+    "no live ChangeSkinDataResponse observed",
+    "no confirmation of backend rejecting or accepting changes",
+    "no gameplay H5 port created"
+  ]
+}

@@ -1,0 +1,2562 @@
+[
+  {
+    "Id": 1,
+    "Group": 1,
+    "CurrencyType": 6005,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "2,5",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      60
+    ]
+  },
+  {
+    "Id": 2,
+    "Group": 1,
+    "CurrencyType": 6005,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "2,5",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      60
+    ]
+  },
+  {
+    "Id": 3,
+    "Group": 1,
+    "CurrencyType": 6005,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "2,5",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      60
+    ]
+  },
+  {
+    "Id": 4,
+    "Group": 1,
+    "CurrencyType": 6005,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "2,5",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      70
+    ]
+  },
+  {
+    "Id": 11,
+    "Group": 1,
+    "CurrencyType": 6005,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "2,5",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 12,
+    "Group": 1,
+    "CurrencyType": 6005,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "2,5",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 13,
+    "Group": 1,
+    "CurrencyType": 6005,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "2,5",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 14,
+    "Group": 1,
+    "CurrencyType": 6005,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "2,5",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      25
+    ]
+  },
+  {
+    "Id": 21,
+    "Group": 1,
+    "CurrencyType": 6005,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "2,5",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      250
+    ]
+  },
+  {
+    "Id": 22,
+    "Group": 1,
+    "CurrencyType": 6005,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "2,5",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      250
+    ]
+  },
+  {
+    "Id": 23,
+    "Group": 1,
+    "CurrencyType": 6005,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "2,5",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      250
+    ]
+  },
+  {
+    "Id": 24,
+    "Group": 1,
+    "CurrencyType": 6005,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "2,5",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      300
+    ]
+  },
+  {
+    "Id": 31,
+    "Group": 1,
+    "CurrencyType": 6005,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "2,5",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 32,
+    "Group": 1,
+    "CurrencyType": 6005,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "2,5",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 33,
+    "Group": 1,
+    "CurrencyType": 6005,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "2,5",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      120
+    ]
+  },
+  {
+    "Id": 34,
+    "Group": 1,
+    "CurrencyType": 6005,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "2,5",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      150
+    ]
+  },
+  {
+    "Id": 101,
+    "Group": 2,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 1,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      60
+    ]
+  },
+  {
+    "Id": 102,
+    "Group": 2,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 1,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      60
+    ]
+  },
+  {
+    "Id": 103,
+    "Group": 2,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 1,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      60
+    ]
+  },
+  {
+    "Id": 104,
+    "Group": 2,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 1,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      70
+    ]
+  },
+  {
+    "Id": 111,
+    "Group": 2,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 1,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 112,
+    "Group": 2,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 1,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 113,
+    "Group": 2,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 1,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 114,
+    "Group": 2,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 1,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      25
+    ]
+  },
+  {
+    "Id": 121,
+    "Group": 2,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 1,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      250
+    ]
+  },
+  {
+    "Id": 122,
+    "Group": 2,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 1,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      250
+    ]
+  },
+  {
+    "Id": 123,
+    "Group": 2,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 1,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      250
+    ]
+  },
+  {
+    "Id": 124,
+    "Group": 2,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 1,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      300
+    ]
+  },
+  {
+    "Id": 131,
+    "Group": 2,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 1,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 132,
+    "Group": 2,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 1,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 133,
+    "Group": 2,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 1,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      120
+    ]
+  },
+  {
+    "Id": 134,
+    "Group": 2,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 1,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 5,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      150
+    ]
+  },
+  {
+    "Id": 201,
+    "Group": 3,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 2,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      60
+    ]
+  },
+  {
+    "Id": 202,
+    "Group": 3,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 2,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      60
+    ]
+  },
+  {
+    "Id": 203,
+    "Group": 3,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 2,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      60
+    ]
+  },
+  {
+    "Id": 204,
+    "Group": 3,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 2,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      70
+    ]
+  },
+  {
+    "Id": 211,
+    "Group": 3,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 2,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 212,
+    "Group": 3,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 2,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 213,
+    "Group": 3,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 2,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 214,
+    "Group": 3,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 2,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      25
+    ]
+  },
+  {
+    "Id": 221,
+    "Group": 3,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 2,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      250
+    ]
+  },
+  {
+    "Id": 222,
+    "Group": 3,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 2,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      250
+    ]
+  },
+  {
+    "Id": 223,
+    "Group": 3,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 2,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      250
+    ]
+  },
+  {
+    "Id": 224,
+    "Group": 3,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 2,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      300
+    ]
+  },
+  {
+    "Id": 231,
+    "Group": 3,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 2,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 232,
+    "Group": 3,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 2,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 233,
+    "Group": 3,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 2,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      120
+    ]
+  },
+  {
+    "Id": 234,
+    "Group": 3,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 2,
+    "Value": "2",
+    "DragonValleyExchangeBuffType": 2,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      150
+    ]
+  },
+  {
+    "Id": 301,
+    "Group": 4,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 3,
+    "Value": "1",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 302,
+    "Group": 4,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 3,
+    "Value": "1",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 303,
+    "Group": 4,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 3,
+    "Value": "1",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 304,
+    "Group": 4,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 3,
+    "Value": "1",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      30
+    ]
+  },
+  {
+    "Id": 311,
+    "Group": 4,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 3,
+    "Value": "1",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 312,
+    "Group": 4,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 3,
+    "Value": "1",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 313,
+    "Group": 4,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 3,
+    "Value": "1",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 314,
+    "Group": 4,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 3,
+    "Value": "1",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      15
+    ]
+  },
+  {
+    "Id": 321,
+    "Group": 4,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 3,
+    "Value": "1",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 322,
+    "Group": 4,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 3,
+    "Value": "1",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 323,
+    "Group": 4,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 3,
+    "Value": "1",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 324,
+    "Group": 4,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 3,
+    "Value": "1",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      150
+    ]
+  },
+  {
+    "Id": 331,
+    "Group": 4,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 3,
+    "Value": "1",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 332,
+    "Group": 4,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 3,
+    "Value": "1",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 333,
+    "Group": 4,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 3,
+    "Value": "1",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 334,
+    "Group": 4,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 3,
+    "Value": "1",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      60
+    ]
+  },
+  {
+    "Id": 401,
+    "Group": 5,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 4,
+    "Value": "300",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 402,
+    "Group": 5,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 4,
+    "Value": "300",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 403,
+    "Group": 5,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 4,
+    "Value": "300",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 404,
+    "Group": 5,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 4,
+    "Value": "300",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      30
+    ]
+  },
+  {
+    "Id": 411,
+    "Group": 5,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 4,
+    "Value": "300",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 412,
+    "Group": 5,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 4,
+    "Value": "300",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 413,
+    "Group": 5,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 4,
+    "Value": "300",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 414,
+    "Group": 5,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 4,
+    "Value": "300",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      15
+    ]
+  },
+  {
+    "Id": 421,
+    "Group": 5,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 4,
+    "Value": "300",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 422,
+    "Group": 5,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 4,
+    "Value": "300",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 423,
+    "Group": 5,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 4,
+    "Value": "300",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 424,
+    "Group": 5,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 4,
+    "Value": "300",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      150
+    ]
+  },
+  {
+    "Id": 431,
+    "Group": 5,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 4,
+    "Value": "300",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 432,
+    "Group": 5,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 4,
+    "Value": "300",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 433,
+    "Group": 5,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 4,
+    "Value": "300",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 434,
+    "Group": 5,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 4,
+    "Value": "300",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      60
+    ]
+  },
+  {
+    "Id": 501,
+    "Group": 6,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 5,
+    "Value": "30",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 502,
+    "Group": 6,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 5,
+    "Value": "30",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 503,
+    "Group": 6,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 5,
+    "Value": "30",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 504,
+    "Group": 6,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 5,
+    "Value": "30",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      30
+    ]
+  },
+  {
+    "Id": 511,
+    "Group": 6,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 5,
+    "Value": "30",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 512,
+    "Group": 6,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 5,
+    "Value": "30",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 513,
+    "Group": 6,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 5,
+    "Value": "30",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 514,
+    "Group": 6,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 5,
+    "Value": "30",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      15
+    ]
+  },
+  {
+    "Id": 521,
+    "Group": 6,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 5,
+    "Value": "30",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 522,
+    "Group": 6,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 5,
+    "Value": "30",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 523,
+    "Group": 6,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 5,
+    "Value": "30",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 524,
+    "Group": 6,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 5,
+    "Value": "30",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      150
+    ]
+  },
+  {
+    "Id": 531,
+    "Group": 6,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 5,
+    "Value": "30",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 532,
+    "Group": 6,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 5,
+    "Value": "30",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 533,
+    "Group": 6,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 5,
+    "Value": "30",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 534,
+    "Group": 6,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 5,
+    "Value": "30",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      60
+    ]
+  },
+  {
+    "Id": 601,
+    "Group": 7,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 6,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 602,
+    "Group": 7,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 6,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 603,
+    "Group": 7,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 6,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 604,
+    "Group": 7,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 6,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      30
+    ]
+  },
+  {
+    "Id": 611,
+    "Group": 7,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 6,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 612,
+    "Group": 7,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 6,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 613,
+    "Group": 7,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 6,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 614,
+    "Group": 7,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 6,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      15
+    ]
+  },
+  {
+    "Id": 621,
+    "Group": 7,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 6,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 622,
+    "Group": 7,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 6,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 623,
+    "Group": 7,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 6,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 624,
+    "Group": 7,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 6,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      150
+    ]
+  },
+  {
+    "Id": 631,
+    "Group": 7,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 6,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 632,
+    "Group": 7,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 6,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 633,
+    "Group": 7,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 6,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 634,
+    "Group": 7,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 6,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 1,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      60
+    ]
+  },
+  {
+    "Id": 701,
+    "Group": 8,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 7,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 3,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 702,
+    "Group": 8,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 7,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 3,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 703,
+    "Group": 8,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 7,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 3,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 704,
+    "Group": 8,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 7,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 3,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      30
+    ]
+  },
+  {
+    "Id": 711,
+    "Group": 8,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 7,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 3,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 712,
+    "Group": 8,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 7,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 3,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 713,
+    "Group": 8,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 7,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 3,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 714,
+    "Group": 8,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 7,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 3,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      15
+    ]
+  },
+  {
+    "Id": 721,
+    "Group": 8,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 7,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 3,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 722,
+    "Group": 8,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 7,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 3,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 723,
+    "Group": 8,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 7,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 3,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 724,
+    "Group": 8,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 7,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 3,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      150
+    ]
+  },
+  {
+    "Id": 731,
+    "Group": 8,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 7,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 3,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 732,
+    "Group": 8,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 7,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 3,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 733,
+    "Group": 8,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 7,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 3,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 734,
+    "Group": 8,
+    "CurrencyType": 0,
+    "DragonValleyTradeBuffType": 7,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 1,
+    "DragonValleyExchangeType": 2,
+    "ExchangeCount": 3,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      60
+    ]
+  },
+  {
+    "Id": 10001,
+    "Group": 100,
+    "CurrencyType": 6000,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "10",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      10
+    ]
+  },
+  {
+    "Id": 10011,
+    "Group": 100,
+    "CurrencyType": 6000,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "10",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      100
+    ]
+  },
+  {
+    "Id": 10021,
+    "Group": 100,
+    "CurrencyType": 6000,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "10",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      20
+    ]
+  },
+  {
+    "Id": 10031,
+    "Group": 100,
+    "CurrencyType": 6000,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "10",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      50
+    ]
+  },
+  {
+    "Id": 10101,
+    "Group": 101,
+    "CurrencyType": 6010,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "5",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      15
+    ]
+  },
+  {
+    "Id": 10111,
+    "Group": 101,
+    "CurrencyType": 6010,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "5",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      150
+    ]
+  },
+  {
+    "Id": 10121,
+    "Group": 101,
+    "CurrencyType": 6010,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "5",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      30
+    ]
+  },
+  {
+    "Id": 10131,
+    "Group": 101,
+    "CurrencyType": 6010,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "5",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      80
+    ]
+  },
+  {
+    "Id": 10201,
+    "Group": 102,
+    "CurrencyType": 6002,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      25
+    ]
+  },
+  {
+    "Id": 10202,
+    "Group": 102,
+    "CurrencyType": 6002,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      30
+    ]
+  },
+  {
+    "Id": 10211,
+    "Group": 102,
+    "CurrencyType": 6002,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      250
+    ]
+  },
+  {
+    "Id": 10212,
+    "Group": 102,
+    "CurrencyType": 6002,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      300
+    ]
+  },
+  {
+    "Id": 10221,
+    "Group": 102,
+    "CurrencyType": 6002,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      120
+    ]
+  },
+  {
+    "Id": 10222,
+    "Group": 102,
+    "CurrencyType": 6002,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "50",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      150
+    ]
+  },
+  {
+    "Id": 10301,
+    "Group": 103,
+    "CurrencyType": 6007,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "20",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      70
+    ]
+  },
+  {
+    "Id": 10302,
+    "Group": 103,
+    "CurrencyType": 6007,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "20",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      80
+    ]
+  },
+  {
+    "Id": 10311,
+    "Group": 103,
+    "CurrencyType": 6007,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "20",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      250
+    ]
+  },
+  {
+    "Id": 10312,
+    "Group": 103,
+    "CurrencyType": 6007,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "20",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      300
+    ]
+  },
+  {
+    "Id": 10321,
+    "Group": 103,
+    "CurrencyType": 6007,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "20",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      120
+    ]
+  },
+  {
+    "Id": 10322,
+    "Group": 103,
+    "CurrencyType": 6007,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "20",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      150
+    ]
+  },
+  {
+    "Id": 10401,
+    "Group": 104,
+    "CurrencyType": 6009,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      70
+    ]
+  },
+  {
+    "Id": 10402,
+    "Group": 104,
+    "CurrencyType": 6009,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      80
+    ]
+  },
+  {
+    "Id": 10411,
+    "Group": 104,
+    "CurrencyType": 6009,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      25
+    ]
+  },
+  {
+    "Id": 10412,
+    "Group": 104,
+    "CurrencyType": 6009,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      30
+    ]
+  },
+  {
+    "Id": 10421,
+    "Group": 104,
+    "CurrencyType": 6009,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      120
+    ]
+  },
+  {
+    "Id": 10422,
+    "Group": 104,
+    "CurrencyType": 6009,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "200",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6008
+    ],
+    "MaterialCounts": [
+      150
+    ]
+  },
+  {
+    "Id": 10501,
+    "Group": 105,
+    "CurrencyType": 6008,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "100",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      70
+    ]
+  },
+  {
+    "Id": 10502,
+    "Group": 105,
+    "CurrencyType": 6008,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "100",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6002
+    ],
+    "MaterialCounts": [
+      80
+    ]
+  },
+  {
+    "Id": 10511,
+    "Group": 105,
+    "CurrencyType": 6008,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "100",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      25
+    ]
+  },
+  {
+    "Id": 10512,
+    "Group": 105,
+    "CurrencyType": 6008,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "100",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6007
+    ],
+    "MaterialCounts": [
+      30
+    ]
+  },
+  {
+    "Id": 10521,
+    "Group": 105,
+    "CurrencyType": 6008,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "100",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      250
+    ]
+  },
+  {
+    "Id": 10522,
+    "Group": 105,
+    "CurrencyType": 6008,
+    "DragonValleyTradeBuffType": 0,
+    "Value": "100",
+    "DragonValleyExchangeBuffType": 0,
+    "DragonValleyExchangeType": 1,
+    "ExchangeCount": 10,
+    "MaterialCurrencyTypes": [
+      6009
+    ],
+    "MaterialCounts": [
+      300
+    ]
+  }
+]

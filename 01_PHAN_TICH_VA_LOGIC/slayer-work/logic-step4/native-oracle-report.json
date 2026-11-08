@@ -1,0 +1,25 @@
+{
+  "cases": 1800,
+  "blocks": {
+    "spiritNormal": 100,
+    "spiritBoss": 100,
+    "highHp": 100,
+    "beastBoss": 100,
+    "blackOrbNormal": 100,
+    "themeNormal": 100,
+    "lowHp": 100,
+    "abnormal": 100,
+    "freeze": 100,
+    "burn": 100,
+    "masteryNormal": 100,
+    "hpDecrease": 100,
+    "blackOrbBoss": 100,
+    "themeBoss": 100,
+    "masteryBoss": 100,
+    "miss": 100,
+    "highHpCheck": 100,
+    "lowHpCheck": 100
+  },
+  "source_native_sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+  "scope": "Bounded native arithmetic instructions interpreted in Python; not native execution, whole-method coverage, gameplay parity, or IFix validation."
+}

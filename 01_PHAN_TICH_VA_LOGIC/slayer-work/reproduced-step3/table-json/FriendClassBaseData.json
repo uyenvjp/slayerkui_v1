@@ -1,0 +1,1374 @@
+[
+  {
+    "Id": "0_1",
+    "FriendIndex": 0,
+    "Grade": 1,
+    "SkinIndex": 1,
+    "SkinName": "FRIEND_ARCHER_001"
+  },
+  {
+    "Id": "0_2",
+    "FriendIndex": 0,
+    "Grade": 2,
+    "SkinIndex": 2,
+    "SkinName": "FRIEND_ARCHER_002"
+  },
+  {
+    "Id": "0_3",
+    "FriendIndex": 0,
+    "Grade": 3,
+    "SkinIndex": 3,
+    "SkinName": "FRIEND_ARCHER_003"
+  },
+  {
+    "Id": "0_4",
+    "FriendIndex": 0,
+    "Grade": 4,
+    "SkinIndex": 4,
+    "SkinName": "FRIEND_ARCHER_004"
+  },
+  {
+    "Id": "0_5",
+    "FriendIndex": 0,
+    "Grade": 5,
+    "SkinIndex": 5,
+    "SkinName": "FRIEND_ARCHER_005"
+  },
+  {
+    "Id": "0_6",
+    "FriendIndex": 0,
+    "Grade": 6,
+    "SkinIndex": 6,
+    "SkinName": "FRIEND_ARCHER_006"
+  },
+  {
+    "Id": "0_7",
+    "FriendIndex": 0,
+    "Grade": 7,
+    "SkinIndex": 7,
+    "SkinName": "FRIEND_ARCHER_007"
+  },
+  {
+    "Id": "0_8",
+    "FriendIndex": 0,
+    "Grade": 8,
+    "SkinIndex": 8,
+    "SkinName": "FRIEND_ARCHER_008"
+  },
+  {
+    "Id": "0_9",
+    "FriendIndex": 0,
+    "Grade": 9,
+    "SkinIndex": 9,
+    "SkinName": "FRIEND_ARCHER_009"
+  },
+  {
+    "Id": "0_10",
+    "FriendIndex": 0,
+    "Grade": 10,
+    "SkinIndex": 10,
+    "SkinName": "FRIEND_ARCHER_010"
+  },
+  {
+    "Id": "0_11",
+    "FriendIndex": 0,
+    "Grade": 11,
+    "SkinIndex": 11,
+    "SkinName": "FRIEND_ARCHER_011"
+  },
+  {
+    "Id": "0_12",
+    "FriendIndex": 0,
+    "Grade": 12,
+    "SkinIndex": 12,
+    "SkinName": "FRIEND_ARCHER_012"
+  },
+  {
+    "Id": "0_13",
+    "FriendIndex": 0,
+    "Grade": 13,
+    "SkinIndex": 13,
+    "SkinName": "FRIEND_ARCHER_013"
+  },
+  {
+    "Id": "0_14",
+    "FriendIndex": 0,
+    "Grade": 14,
+    "SkinIndex": 14,
+    "SkinName": "FRIEND_ARCHER_014"
+  },
+  {
+    "Id": "0_15",
+    "FriendIndex": 0,
+    "Grade": 15,
+    "SkinIndex": 15,
+    "SkinName": "FRIEND_ARCHER_015"
+  },
+  {
+    "Id": "0_16",
+    "FriendIndex": 0,
+    "Grade": 16,
+    "SkinIndex": 16,
+    "SkinName": "FRIEND_ARCHER_016"
+  },
+  {
+    "Id": "0_17",
+    "FriendIndex": 0,
+    "Grade": 17,
+    "SkinIndex": 17,
+    "SkinName": "FRIEND_ARCHER_017"
+  },
+  {
+    "Id": "0_18",
+    "FriendIndex": 0,
+    "Grade": 18,
+    "SkinIndex": 18,
+    "SkinName": "FRIEND_ARCHER_018"
+  },
+  {
+    "Id": "0_19",
+    "FriendIndex": 0,
+    "Grade": 19,
+    "SkinIndex": 19,
+    "SkinName": "FRIEND_ARCHER_019"
+  },
+  {
+    "Id": "0_20",
+    "FriendIndex": 0,
+    "Grade": 20,
+    "SkinIndex": 20,
+    "SkinName": "FRIEND_ARCHER_020"
+  },
+  {
+    "Id": "0_21",
+    "FriendIndex": 0,
+    "Grade": 21,
+    "SkinIndex": 21,
+    "SkinName": "FRIEND_ARCHER_021"
+  },
+  {
+    "Id": "0_22",
+    "FriendIndex": 0,
+    "Grade": 22,
+    "SkinIndex": 22,
+    "SkinName": "FRIEND_ARCHER_022"
+  },
+  {
+    "Id": "0_23",
+    "FriendIndex": 0,
+    "Grade": 23,
+    "SkinIndex": 23,
+    "SkinName": "FRIEND_ARCHER_023"
+  },
+  {
+    "Id": "0_24",
+    "FriendIndex": 0,
+    "Grade": 24,
+    "SkinIndex": 24,
+    "SkinName": "FRIEND_ARCHER_024"
+  },
+  {
+    "Id": "0_25",
+    "FriendIndex": 0,
+    "Grade": 25,
+    "SkinIndex": 25,
+    "SkinName": "FRIEND_ARCHER_025"
+  },
+  {
+    "Id": "0_26",
+    "FriendIndex": 0,
+    "Grade": 26,
+    "SkinIndex": 26,
+    "SkinName": "FRIEND_ARCHER_026"
+  },
+  {
+    "Id": "0_27",
+    "FriendIndex": 0,
+    "Grade": 27,
+    "SkinIndex": 27,
+    "SkinName": "FRIEND_ARCHER_027"
+  },
+  {
+    "Id": "0_28",
+    "FriendIndex": 0,
+    "Grade": 28,
+    "SkinIndex": 28,
+    "SkinName": "FRIEND_ARCHER_028"
+  },
+  {
+    "Id": "0_29",
+    "FriendIndex": 0,
+    "Grade": 29,
+    "SkinIndex": 29,
+    "SkinName": "FRIEND_ARCHER_029"
+  },
+  {
+    "Id": "0_30",
+    "FriendIndex": 0,
+    "Grade": 30,
+    "SkinIndex": 30,
+    "SkinName": "FRIEND_ARCHER_030"
+  },
+  {
+    "Id": "0_31",
+    "FriendIndex": 0,
+    "Grade": 31,
+    "SkinIndex": 31,
+    "SkinName": "FRIEND_ARCHER_031"
+  },
+  {
+    "Id": "0_32",
+    "FriendIndex": 0,
+    "Grade": 32,
+    "SkinIndex": 32,
+    "SkinName": "FRIEND_ARCHER_032"
+  },
+  {
+    "Id": "0_33",
+    "FriendIndex": 0,
+    "Grade": 33,
+    "SkinIndex": 33,
+    "SkinName": "FRIEND_ARCHER_033"
+  },
+  {
+    "Id": "0_34",
+    "FriendIndex": 0,
+    "Grade": 34,
+    "SkinIndex": 34,
+    "SkinName": "FRIEND_ARCHER_034"
+  },
+  {
+    "Id": "0_35",
+    "FriendIndex": 0,
+    "Grade": 35,
+    "SkinIndex": 35,
+    "SkinName": "FRIEND_ARCHER_035"
+  },
+  {
+    "Id": "0_36",
+    "FriendIndex": 0,
+    "Grade": 36,
+    "SkinIndex": 36,
+    "SkinName": "FRIEND_ARCHER_036"
+  },
+  {
+    "Id": "0_37",
+    "FriendIndex": 0,
+    "Grade": 37,
+    "SkinIndex": 37,
+    "SkinName": "FRIEND_ARCHER_037"
+  },
+  {
+    "Id": "0_38",
+    "FriendIndex": 0,
+    "Grade": 38,
+    "SkinIndex": 38,
+    "SkinName": "FRIEND_ARCHER_038"
+  },
+  {
+    "Id": "0_39",
+    "FriendIndex": 0,
+    "Grade": 39,
+    "SkinIndex": 39,
+    "SkinName": "FRIEND_ARCHER_039"
+  },
+  {
+    "Id": "0_40",
+    "FriendIndex": 0,
+    "Grade": 40,
+    "SkinIndex": 40,
+    "SkinName": "FRIEND_ARCHER_040"
+  },
+  {
+    "Id": "0_41",
+    "FriendIndex": 0,
+    "Grade": 41,
+    "SkinIndex": 41,
+    "SkinName": "FRIEND_ARCHER_041"
+  },
+  {
+    "Id": "0_42",
+    "FriendIndex": 0,
+    "Grade": 42,
+    "SkinIndex": 42,
+    "SkinName": "FRIEND_ARCHER_042"
+  },
+  {
+    "Id": "0_43",
+    "FriendIndex": 0,
+    "Grade": 43,
+    "SkinIndex": 43,
+    "SkinName": "FRIEND_ARCHER_043"
+  },
+  {
+    "Id": "0_44",
+    "FriendIndex": 0,
+    "Grade": 44,
+    "SkinIndex": 44,
+    "SkinName": "FRIEND_ARCHER_044"
+  },
+  {
+    "Id": "0_45",
+    "FriendIndex": 0,
+    "Grade": 45,
+    "SkinIndex": 45,
+    "SkinName": "FRIEND_ARCHER_045"
+  },
+  {
+    "Id": "0_46",
+    "FriendIndex": 0,
+    "Grade": 46,
+    "SkinIndex": 46,
+    "SkinName": "FRIEND_ARCHER_046"
+  },
+  {
+    "Id": "0_47",
+    "FriendIndex": 0,
+    "Grade": 47,
+    "SkinIndex": 47,
+    "SkinName": "FRIEND_ARCHER_047"
+  },
+  {
+    "Id": "0_48",
+    "FriendIndex": 0,
+    "Grade": 48,
+    "SkinIndex": 48,
+    "SkinName": "FRIEND_ARCHER_048"
+  },
+  {
+    "Id": "0_49",
+    "FriendIndex": 0,
+    "Grade": 49,
+    "SkinIndex": 49,
+    "SkinName": "FRIEND_ARCHER_049"
+  },
+  {
+    "Id": "1_1",
+    "FriendIndex": 1,
+    "Grade": 1,
+    "SkinIndex": 1,
+    "SkinName": "FRIEND_WARRIOR_001"
+  },
+  {
+    "Id": "1_2",
+    "FriendIndex": 1,
+    "Grade": 2,
+    "SkinIndex": 2,
+    "SkinName": "FRIEND_WARRIOR_002"
+  },
+  {
+    "Id": "1_3",
+    "FriendIndex": 1,
+    "Grade": 3,
+    "SkinIndex": 3,
+    "SkinName": "FRIEND_WARRIOR_003"
+  },
+  {
+    "Id": "1_4",
+    "FriendIndex": 1,
+    "Grade": 4,
+    "SkinIndex": 4,
+    "SkinName": "FRIEND_WARRIOR_004"
+  },
+  {
+    "Id": "1_5",
+    "FriendIndex": 1,
+    "Grade": 5,
+    "SkinIndex": 5,
+    "SkinName": "FRIEND_WARRIOR_005"
+  },
+  {
+    "Id": "1_6",
+    "FriendIndex": 1,
+    "Grade": 6,
+    "SkinIndex": 6,
+    "SkinName": "FRIEND_WARRIOR_006"
+  },
+  {
+    "Id": "1_7",
+    "FriendIndex": 1,
+    "Grade": 7,
+    "SkinIndex": 7,
+    "SkinName": "FRIEND_WARRIOR_007"
+  },
+  {
+    "Id": "1_8",
+    "FriendIndex": 1,
+    "Grade": 8,
+    "SkinIndex": 8,
+    "SkinName": "FRIEND_WARRIOR_008"
+  },
+  {
+    "Id": "1_9",
+    "FriendIndex": 1,
+    "Grade": 9,
+    "SkinIndex": 9,
+    "SkinName": "FRIEND_WARRIOR_009"
+  },
+  {
+    "Id": "1_10",
+    "FriendIndex": 1,
+    "Grade": 10,
+    "SkinIndex": 10,
+    "SkinName": "FRIEND_WARRIOR_010"
+  },
+  {
+    "Id": "1_11",
+    "FriendIndex": 1,
+    "Grade": 11,
+    "SkinIndex": 11,
+    "SkinName": "FRIEND_WARRIOR_011"
+  },
+  {
+    "Id": "1_12",
+    "FriendIndex": 1,
+    "Grade": 12,
+    "SkinIndex": 12,
+    "SkinName": "FRIEND_WARRIOR_012"
+  },
+  {
+    "Id": "1_13",
+    "FriendIndex": 1,
+    "Grade": 13,
+    "SkinIndex": 13,
+    "SkinName": "FRIEND_WARRIOR_013"
+  },
+  {
+    "Id": "1_14",
+    "FriendIndex": 1,
+    "Grade": 14,
+    "SkinIndex": 14,
+    "SkinName": "FRIEND_WARRIOR_014"
+  },
+  {
+    "Id": "1_15",
+    "FriendIndex": 1,
+    "Grade": 15,
+    "SkinIndex": 15,
+    "SkinName": "FRIEND_WARRIOR_015"
+  },
+  {
+    "Id": "1_16",
+    "FriendIndex": 1,
+    "Grade": 16,
+    "SkinIndex": 16,
+    "SkinName": "FRIEND_WARRIOR_016"
+  },
+  {
+    "Id": "1_17",
+    "FriendIndex": 1,
+    "Grade": 17,
+    "SkinIndex": 17,
+    "SkinName": "FRIEND_WARRIOR_017"
+  },
+  {
+    "Id": "1_18",
+    "FriendIndex": 1,
+    "Grade": 18,
+    "SkinIndex": 18,
+    "SkinName": "FRIEND_WARRIOR_018"
+  },
+  {
+    "Id": "1_19",
+    "FriendIndex": 1,
+    "Grade": 19,
+    "SkinIndex": 19,
+    "SkinName": "FRIEND_WARRIOR_019"
+  },
+  {
+    "Id": "1_20",
+    "FriendIndex": 1,
+    "Grade": 20,
+    "SkinIndex": 20,
+    "SkinName": "FRIEND_WARRIOR_020"
+  },
+  {
+    "Id": "1_21",
+    "FriendIndex": 1,
+    "Grade": 21,
+    "SkinIndex": 21,
+    "SkinName": "FRIEND_WARRIOR_021"
+  },
+  {
+    "Id": "1_22",
+    "FriendIndex": 1,
+    "Grade": 22,
+    "SkinIndex": 22,
+    "SkinName": "FRIEND_WARRIOR_022"
+  },
+  {
+    "Id": "1_23",
+    "FriendIndex": 1,
+    "Grade": 23,
+    "SkinIndex": 23,
+    "SkinName": "FRIEND_WARRIOR_023"
+  },
+  {
+    "Id": "1_24",
+    "FriendIndex": 1,
+    "Grade": 24,
+    "SkinIndex": 24,
+    "SkinName": "FRIEND_WARRIOR_024"
+  },
+  {
+    "Id": "1_25",
+    "FriendIndex": 1,
+    "Grade": 25,
+    "SkinIndex": 25,
+    "SkinName": "FRIEND_WARRIOR_025"
+  },
+  {
+    "Id": "1_26",
+    "FriendIndex": 1,
+    "Grade": 26,
+    "SkinIndex": 26,
+    "SkinName": "FRIEND_WARRIOR_026"
+  },
+  {
+    "Id": "1_27",
+    "FriendIndex": 1,
+    "Grade": 27,
+    "SkinIndex": 27,
+    "SkinName": "FRIEND_WARRIOR_027"
+  },
+  {
+    "Id": "1_28",
+    "FriendIndex": 1,
+    "Grade": 28,
+    "SkinIndex": 28,
+    "SkinName": "FRIEND_WARRIOR_028"
+  },
+  {
+    "Id": "1_29",
+    "FriendIndex": 1,
+    "Grade": 29,
+    "SkinIndex": 29,
+    "SkinName": "FRIEND_WARRIOR_029"
+  },
+  {
+    "Id": "1_30",
+    "FriendIndex": 1,
+    "Grade": 30,
+    "SkinIndex": 30,
+    "SkinName": "FRIEND_WARRIOR_030"
+  },
+  {
+    "Id": "1_31",
+    "FriendIndex": 1,
+    "Grade": 31,
+    "SkinIndex": 31,
+    "SkinName": "FRIEND_WARRIOR_031"
+  },
+  {
+    "Id": "1_32",
+    "FriendIndex": 1,
+    "Grade": 32,
+    "SkinIndex": 32,
+    "SkinName": "FRIEND_WARRIOR_032"
+  },
+  {
+    "Id": "1_33",
+    "FriendIndex": 1,
+    "Grade": 33,
+    "SkinIndex": 33,
+    "SkinName": "FRIEND_WARRIOR_033"
+  },
+  {
+    "Id": "1_34",
+    "FriendIndex": 1,
+    "Grade": 34,
+    "SkinIndex": 34,
+    "SkinName": "FRIEND_WARRIOR_034"
+  },
+  {
+    "Id": "1_35",
+    "FriendIndex": 1,
+    "Grade": 35,
+    "SkinIndex": 35,
+    "SkinName": "FRIEND_WARRIOR_035"
+  },
+  {
+    "Id": "1_36",
+    "FriendIndex": 1,
+    "Grade": 36,
+    "SkinIndex": 36,
+    "SkinName": "FRIEND_WARRIOR_036"
+  },
+  {
+    "Id": "1_37",
+    "FriendIndex": 1,
+    "Grade": 37,
+    "SkinIndex": 37,
+    "SkinName": "FRIEND_WARRIOR_037"
+  },
+  {
+    "Id": "1_38",
+    "FriendIndex": 1,
+    "Grade": 38,
+    "SkinIndex": 38,
+    "SkinName": "FRIEND_WARRIOR_038"
+  },
+  {
+    "Id": "1_39",
+    "FriendIndex": 1,
+    "Grade": 39,
+    "SkinIndex": 39,
+    "SkinName": "FRIEND_WARRIOR_039"
+  },
+  {
+    "Id": "1_40",
+    "FriendIndex": 1,
+    "Grade": 40,
+    "SkinIndex": 40,
+    "SkinName": "FRIEND_WARRIOR_040"
+  },
+  {
+    "Id": "1_41",
+    "FriendIndex": 1,
+    "Grade": 41,
+    "SkinIndex": 41,
+    "SkinName": "FRIEND_WARRIOR_041"
+  },
+  {
+    "Id": "1_42",
+    "FriendIndex": 1,
+    "Grade": 42,
+    "SkinIndex": 42,
+    "SkinName": "FRIEND_WARRIOR_042"
+  },
+  {
+    "Id": "1_43",
+    "FriendIndex": 1,
+    "Grade": 43,
+    "SkinIndex": 43,
+    "SkinName": "FRIEND_WARRIOR_043"
+  },
+  {
+    "Id": "1_44",
+    "FriendIndex": 1,
+    "Grade": 44,
+    "SkinIndex": 44,
+    "SkinName": "FRIEND_WARRIOR_044"
+  },
+  {
+    "Id": "1_45",
+    "FriendIndex": 1,
+    "Grade": 45,
+    "SkinIndex": 45,
+    "SkinName": "FRIEND_WARRIOR_045"
+  },
+  {
+    "Id": "1_46",
+    "FriendIndex": 1,
+    "Grade": 46,
+    "SkinIndex": 46,
+    "SkinName": "FRIEND_WARRIOR_046"
+  },
+  {
+    "Id": "1_47",
+    "FriendIndex": 1,
+    "Grade": 47,
+    "SkinIndex": 47,
+    "SkinName": "FRIEND_WARRIOR_047"
+  },
+  {
+    "Id": "1_48",
+    "FriendIndex": 1,
+    "Grade": 48,
+    "SkinIndex": 48,
+    "SkinName": "FRIEND_WARRIOR_048"
+  },
+  {
+    "Id": "1_49",
+    "FriendIndex": 1,
+    "Grade": 49,
+    "SkinIndex": 49,
+    "SkinName": "FRIEND_WARRIOR_049"
+  },
+  {
+    "Id": "2_1",
+    "FriendIndex": 2,
+    "Grade": 1,
+    "SkinIndex": 1,
+    "SkinName": "FRIEND_NINJA_001"
+  },
+  {
+    "Id": "2_2",
+    "FriendIndex": 2,
+    "Grade": 2,
+    "SkinIndex": 2,
+    "SkinName": "FRIEND_NINJA_002"
+  },
+  {
+    "Id": "2_3",
+    "FriendIndex": 2,
+    "Grade": 3,
+    "SkinIndex": 3,
+    "SkinName": "FRIEND_NINJA_003"
+  },
+  {
+    "Id": "2_4",
+    "FriendIndex": 2,
+    "Grade": 4,
+    "SkinIndex": 4,
+    "SkinName": "FRIEND_NINJA_004"
+  },
+  {
+    "Id": "2_5",
+    "FriendIndex": 2,
+    "Grade": 5,
+    "SkinIndex": 5,
+    "SkinName": "FRIEND_NINJA_005"
+  },
+  {
+    "Id": "2_6",
+    "FriendIndex": 2,
+    "Grade": 6,
+    "SkinIndex": 6,
+    "SkinName": "FRIEND_NINJA_006"
+  },
+  {
+    "Id": "2_7",
+    "FriendIndex": 2,
+    "Grade": 7,
+    "SkinIndex": 7,
+    "SkinName": "FRIEND_NINJA_007"
+  },
+  {
+    "Id": "2_8",
+    "FriendIndex": 2,
+    "Grade": 8,
+    "SkinIndex": 8,
+    "SkinName": "FRIEND_NINJA_008"
+  },
+  {
+    "Id": "2_9",
+    "FriendIndex": 2,
+    "Grade": 9,
+    "SkinIndex": 9,
+    "SkinName": "FRIEND_NINJA_009"
+  },
+  {
+    "Id": "2_10",
+    "FriendIndex": 2,
+    "Grade": 10,
+    "SkinIndex": 10,
+    "SkinName": "FRIEND_NINJA_010"
+  },
+  {
+    "Id": "2_11",
+    "FriendIndex": 2,
+    "Grade": 11,
+    "SkinIndex": 11,
+    "SkinName": "FRIEND_NINJA_011"
+  },
+  {
+    "Id": "2_12",
+    "FriendIndex": 2,
+    "Grade": 12,
+    "SkinIndex": 12,
+    "SkinName": "FRIEND_NINJA_012"
+  },
+  {
+    "Id": "2_13",
+    "FriendIndex": 2,
+    "Grade": 13,
+    "SkinIndex": 13,
+    "SkinName": "FRIEND_NINJA_013"
+  },
+  {
+    "Id": "2_14",
+    "FriendIndex": 2,
+    "Grade": 14,
+    "SkinIndex": 14,
+    "SkinName": "FRIEND_NINJA_014"
+  },
+  {
+    "Id": "2_15",
+    "FriendIndex": 2,
+    "Grade": 15,
+    "SkinIndex": 15,
+    "SkinName": "FRIEND_NINJA_015"
+  },
+  {
+    "Id": "2_16",
+    "FriendIndex": 2,
+    "Grade": 16,
+    "SkinIndex": 16,
+    "SkinName": "FRIEND_NINJA_016"
+  },
+  {
+    "Id": "2_17",
+    "FriendIndex": 2,
+    "Grade": 17,
+    "SkinIndex": 17,
+    "SkinName": "FRIEND_NINJA_017"
+  },
+  {
+    "Id": "2_18",
+    "FriendIndex": 2,
+    "Grade": 18,
+    "SkinIndex": 18,
+    "SkinName": "FRIEND_NINJA_018"
+  },
+  {
+    "Id": "2_19",
+    "FriendIndex": 2,
+    "Grade": 19,
+    "SkinIndex": 19,
+    "SkinName": "FRIEND_NINJA_019"
+  },
+  {
+    "Id": "2_20",
+    "FriendIndex": 2,
+    "Grade": 20,
+    "SkinIndex": 20,
+    "SkinName": "FRIEND_NINJA_020"
+  },
+  {
+    "Id": "2_21",
+    "FriendIndex": 2,
+    "Grade": 21,
+    "SkinIndex": 21,
+    "SkinName": "FRIEND_NINJA_021"
+  },
+  {
+    "Id": "2_22",
+    "FriendIndex": 2,
+    "Grade": 22,
+    "SkinIndex": 22,
+    "SkinName": "FRIEND_NINJA_022"
+  },
+  {
+    "Id": "2_23",
+    "FriendIndex": 2,
+    "Grade": 23,
+    "SkinIndex": 23,
+    "SkinName": "FRIEND_NINJA_023"
+  },
+  {
+    "Id": "2_24",
+    "FriendIndex": 2,
+    "Grade": 24,
+    "SkinIndex": 24,
+    "SkinName": "FRIEND_NINJA_024"
+  },
+  {
+    "Id": "2_25",
+    "FriendIndex": 2,
+    "Grade": 25,
+    "SkinIndex": 25,
+    "SkinName": "FRIEND_NINJA_025"
+  },
+  {
+    "Id": "2_26",
+    "FriendIndex": 2,
+    "Grade": 26,
+    "SkinIndex": 26,
+    "SkinName": "FRIEND_NINJA_026"
+  },
+  {
+    "Id": "2_27",
+    "FriendIndex": 2,
+    "Grade": 27,
+    "SkinIndex": 27,
+    "SkinName": "FRIEND_NINJA_027"
+  },
+  {
+    "Id": "2_28",
+    "FriendIndex": 2,
+    "Grade": 28,
+    "SkinIndex": 28,
+    "SkinName": "FRIEND_NINJA_028"
+  },
+  {
+    "Id": "2_29",
+    "FriendIndex": 2,
+    "Grade": 29,
+    "SkinIndex": 29,
+    "SkinName": "FRIEND_NINJA_029"
+  },
+  {
+    "Id": "2_30",
+    "FriendIndex": 2,
+    "Grade": 30,
+    "SkinIndex": 30,
+    "SkinName": "FRIEND_NINJA_030"
+  },
+  {
+    "Id": "2_31",
+    "FriendIndex": 2,
+    "Grade": 31,
+    "SkinIndex": 31,
+    "SkinName": "FRIEND_NINJA_031"
+  },
+  {
+    "Id": "2_32",
+    "FriendIndex": 2,
+    "Grade": 32,
+    "SkinIndex": 32,
+    "SkinName": "FRIEND_NINJA_032"
+  },
+  {
+    "Id": "2_33",
+    "FriendIndex": 2,
+    "Grade": 33,
+    "SkinIndex": 33,
+    "SkinName": "FRIEND_NINJA_033"
+  },
+  {
+    "Id": "2_34",
+    "FriendIndex": 2,
+    "Grade": 34,
+    "SkinIndex": 34,
+    "SkinName": "FRIEND_NINJA_034"
+  },
+  {
+    "Id": "2_35",
+    "FriendIndex": 2,
+    "Grade": 35,
+    "SkinIndex": 35,
+    "SkinName": "FRIEND_NINJA_035"
+  },
+  {
+    "Id": "2_36",
+    "FriendIndex": 2,
+    "Grade": 36,
+    "SkinIndex": 36,
+    "SkinName": "FRIEND_NINJA_036"
+  },
+  {
+    "Id": "2_37",
+    "FriendIndex": 2,
+    "Grade": 37,
+    "SkinIndex": 37,
+    "SkinName": "FRIEND_NINJA_037"
+  },
+  {
+    "Id": "2_38",
+    "FriendIndex": 2,
+    "Grade": 38,
+    "SkinIndex": 38,
+    "SkinName": "FRIEND_NINJA_038"
+  },
+  {
+    "Id": "2_39",
+    "FriendIndex": 2,
+    "Grade": 39,
+    "SkinIndex": 39,
+    "SkinName": "FRIEND_NINJA_039"
+  },
+  {
+    "Id": "2_40",
+    "FriendIndex": 2,
+    "Grade": 40,
+    "SkinIndex": 40,
+    "SkinName": "FRIEND_NINJA_040"
+  },
+  {
+    "Id": "2_41",
+    "FriendIndex": 2,
+    "Grade": 41,
+    "SkinIndex": 41,
+    "SkinName": "FRIEND_NINJA_041"
+  },
+  {
+    "Id": "2_42",
+    "FriendIndex": 2,
+    "Grade": 42,
+    "SkinIndex": 42,
+    "SkinName": "FRIEND_NINJA_042"
+  },
+  {
+    "Id": "2_43",
+    "FriendIndex": 2,
+    "Grade": 43,
+    "SkinIndex": 43,
+    "SkinName": "FRIEND_NINJA_043"
+  },
+  {
+    "Id": "2_44",
+    "FriendIndex": 2,
+    "Grade": 44,
+    "SkinIndex": 44,
+    "SkinName": "FRIEND_NINJA_044"
+  },
+  {
+    "Id": "2_45",
+    "FriendIndex": 2,
+    "Grade": 45,
+    "SkinIndex": 45,
+    "SkinName": "FRIEND_NINJA_045"
+  },
+  {
+    "Id": "2_46",
+    "FriendIndex": 2,
+    "Grade": 46,
+    "SkinIndex": 46,
+    "SkinName": "FRIEND_NINJA_046"
+  },
+  {
+    "Id": "2_47",
+    "FriendIndex": 2,
+    "Grade": 47,
+    "SkinIndex": 47,
+    "SkinName": "FRIEND_NINJA_047"
+  },
+  {
+    "Id": "2_48",
+    "FriendIndex": 2,
+    "Grade": 48,
+    "SkinIndex": 48,
+    "SkinName": "FRIEND_NINJA_048"
+  },
+  {
+    "Id": "2_49",
+    "FriendIndex": 2,
+    "Grade": 49,
+    "SkinIndex": 49,
+    "SkinName": "FRIEND_NINJA_049"
+  },
+  {
+    "Id": "3_1",
+    "FriendIndex": 3,
+    "Grade": 1,
+    "SkinIndex": 1,
+    "SkinName": "FRIEND_MAGE_001"
+  },
+  {
+    "Id": "3_2",
+    "FriendIndex": 3,
+    "Grade": 2,
+    "SkinIndex": 2,
+    "SkinName": "FRIEND_MAGE_002"
+  },
+  {
+    "Id": "3_3",
+    "FriendIndex": 3,
+    "Grade": 3,
+    "SkinIndex": 3,
+    "SkinName": "FRIEND_MAGE_003"
+  },
+  {
+    "Id": "3_4",
+    "FriendIndex": 3,
+    "Grade": 4,
+    "SkinIndex": 4,
+    "SkinName": "FRIEND_MAGE_004"
+  },
+  {
+    "Id": "3_5",
+    "FriendIndex": 3,
+    "Grade": 5,
+    "SkinIndex": 5,
+    "SkinName": "FRIEND_MAGE_005"
+  },
+  {
+    "Id": "3_6",
+    "FriendIndex": 3,
+    "Grade": 6,
+    "SkinIndex": 6,
+    "SkinName": "FRIEND_MAGE_006"
+  },
+  {
+    "Id": "3_7",
+    "FriendIndex": 3,
+    "Grade": 7,
+    "SkinIndex": 7,
+    "SkinName": "FRIEND_MAGE_007"
+  },
+  {
+    "Id": "3_8",
+    "FriendIndex": 3,
+    "Grade": 8,
+    "SkinIndex": 8,
+    "SkinName": "FRIEND_MAGE_008"
+  },
+  {
+    "Id": "3_9",
+    "FriendIndex": 3,
+    "Grade": 9,
+    "SkinIndex": 9,
+    "SkinName": "FRIEND_MAGE_009"
+  },
+  {
+    "Id": "3_10",
+    "FriendIndex": 3,
+    "Grade": 10,
+    "SkinIndex": 10,
+    "SkinName": "FRIEND_MAGE_010"
+  },
+  {
+    "Id": "3_11",
+    "FriendIndex": 3,
+    "Grade": 11,
+    "SkinIndex": 11,
+    "SkinName": "FRIEND_MAGE_011"
+  },
+  {
+    "Id": "3_12",
+    "FriendIndex": 3,
+    "Grade": 12,
+    "SkinIndex": 12,
+    "SkinName": "FRIEND_MAGE_012"
+  },
+  {
+    "Id": "3_13",
+    "FriendIndex": 3,
+    "Grade": 13,
+    "SkinIndex": 13,
+    "SkinName": "FRIEND_MAGE_013"
+  },
+  {
+    "Id": "3_14",
+    "FriendIndex": 3,
+    "Grade": 14,
+    "SkinIndex": 14,
+    "SkinName": "FRIEND_MAGE_014"
+  },
+  {
+    "Id": "3_15",
+    "FriendIndex": 3,
+    "Grade": 15,
+    "SkinIndex": 15,
+    "SkinName": "FRIEND_MAGE_015"
+  },
+  {
+    "Id": "3_16",
+    "FriendIndex": 3,
+    "Grade": 16,
+    "SkinIndex": 16,
+    "SkinName": "FRIEND_MAGE_016"
+  },
+  {
+    "Id": "3_17",
+    "FriendIndex": 3,
+    "Grade": 17,
+    "SkinIndex": 17,
+    "SkinName": "FRIEND_MAGE_017"
+  },
+  {
+    "Id": "3_18",
+    "FriendIndex": 3,
+    "Grade": 18,
+    "SkinIndex": 18,
+    "SkinName": "FRIEND_MAGE_018"
+  },
+  {
+    "Id": "3_19",
+    "FriendIndex": 3,
+    "Grade": 19,
+    "SkinIndex": 19,
+    "SkinName": "FRIEND_MAGE_019"
+  },
+  {
+    "Id": "3_20",
+    "FriendIndex": 3,
+    "Grade": 20,
+    "SkinIndex": 20,
+    "SkinName": "FRIEND_MAGE_020"
+  },
+  {
+    "Id": "3_21",
+    "FriendIndex": 3,
+    "Grade": 21,
+    "SkinIndex": 21,
+    "SkinName": "FRIEND_MAGE_021"
+  },
+  {
+    "Id": "3_22",
+    "FriendIndex": 3,
+    "Grade": 22,
+    "SkinIndex": 22,
+    "SkinName": "FRIEND_MAGE_022"
+  },
+  {
+    "Id": "3_23",
+    "FriendIndex": 3,
+    "Grade": 23,
+    "SkinIndex": 23,
+    "SkinName": "FRIEND_MAGE_023"
+  },
+  {
+    "Id": "3_24",
+    "FriendIndex": 3,
+    "Grade": 24,
+    "SkinIndex": 24,
+    "SkinName": "FRIEND_MAGE_024"
+  },
+  {
+    "Id": "3_25",
+    "FriendIndex": 3,
+    "Grade": 25,
+    "SkinIndex": 25,
+    "SkinName": "FRIEND_MAGE_025"
+  },
+  {
+    "Id": "3_26",
+    "FriendIndex": 3,
+    "Grade": 26,
+    "SkinIndex": 26,
+    "SkinName": "FRIEND_MAGE_026"
+  },
+  {
+    "Id": "3_27",
+    "FriendIndex": 3,
+    "Grade": 27,
+    "SkinIndex": 27,
+    "SkinName": "FRIEND_MAGE_027"
+  },
+  {
+    "Id": "3_28",
+    "FriendIndex": 3,
+    "Grade": 28,
+    "SkinIndex": 28,
+    "SkinName": "FRIEND_MAGE_028"
+  },
+  {
+    "Id": "3_29",
+    "FriendIndex": 3,
+    "Grade": 29,
+    "SkinIndex": 29,
+    "SkinName": "FRIEND_MAGE_029"
+  },
+  {
+    "Id": "3_30",
+    "FriendIndex": 3,
+    "Grade": 30,
+    "SkinIndex": 30,
+    "SkinName": "FRIEND_MAGE_030"
+  },
+  {
+    "Id": "3_31",
+    "FriendIndex": 3,
+    "Grade": 31,
+    "SkinIndex": 31,
+    "SkinName": "FRIEND_MAGE_031"
+  },
+  {
+    "Id": "3_32",
+    "FriendIndex": 3,
+    "Grade": 32,
+    "SkinIndex": 32,
+    "SkinName": "FRIEND_MAGE_032"
+  },
+  {
+    "Id": "3_33",
+    "FriendIndex": 3,
+    "Grade": 33,
+    "SkinIndex": 33,
+    "SkinName": "FRIEND_MAGE_033"
+  },
+  {
+    "Id": "3_34",
+    "FriendIndex": 3,
+    "Grade": 34,
+    "SkinIndex": 34,
+    "SkinName": "FRIEND_MAGE_034"
+  },
+  {
+    "Id": "3_35",
+    "FriendIndex": 3,
+    "Grade": 35,
+    "SkinIndex": 35,
+    "SkinName": "FRIEND_MAGE_035"
+  },
+  {
+    "Id": "3_36",
+    "FriendIndex": 3,
+    "Grade": 36,
+    "SkinIndex": 36,
+    "SkinName": "FRIEND_MAGE_036"
+  },
+  {
+    "Id": "3_37",
+    "FriendIndex": 3,
+    "Grade": 37,
+    "SkinIndex": 37,
+    "SkinName": "FRIEND_MAGE_037"
+  },
+  {
+    "Id": "3_38",
+    "FriendIndex": 3,
+    "Grade": 38,
+    "SkinIndex": 38,
+    "SkinName": "FRIEND_MAGE_038"
+  },
+  {
+    "Id": "3_39",
+    "FriendIndex": 3,
+    "Grade": 39,
+    "SkinIndex": 39,
+    "SkinName": "FRIEND_MAGE_039"
+  },
+  {
+    "Id": "3_40",
+    "FriendIndex": 3,
+    "Grade": 40,
+    "SkinIndex": 40,
+    "SkinName": "FRIEND_MAGE_040"
+  },
+  {
+    "Id": "3_41",
+    "FriendIndex": 3,
+    "Grade": 41,
+    "SkinIndex": 41,
+    "SkinName": "FRIEND_MAGE_041"
+  },
+  {
+    "Id": "3_42",
+    "FriendIndex": 3,
+    "Grade": 42,
+    "SkinIndex": 42,
+    "SkinName": "FRIEND_MAGE_042"
+  },
+  {
+    "Id": "3_43",
+    "FriendIndex": 3,
+    "Grade": 43,
+    "SkinIndex": 43,
+    "SkinName": "FRIEND_MAGE_043"
+  },
+  {
+    "Id": "3_44",
+    "FriendIndex": 3,
+    "Grade": 44,
+    "SkinIndex": 44,
+    "SkinName": "FRIEND_MAGE_044"
+  },
+  {
+    "Id": "3_45",
+    "FriendIndex": 3,
+    "Grade": 45,
+    "SkinIndex": 45,
+    "SkinName": "FRIEND_MAGE_045"
+  },
+  {
+    "Id": "3_46",
+    "FriendIndex": 3,
+    "Grade": 46,
+    "SkinIndex": 46,
+    "SkinName": "FRIEND_MAGE_046"
+  },
+  {
+    "Id": "3_47",
+    "FriendIndex": 3,
+    "Grade": 47,
+    "SkinIndex": 47,
+    "SkinName": "FRIEND_MAGE_047"
+  },
+  {
+    "Id": "3_48",
+    "FriendIndex": 3,
+    "Grade": 48,
+    "SkinIndex": 48,
+    "SkinName": "FRIEND_MAGE_048"
+  },
+  {
+    "Id": "3_49",
+    "FriendIndex": 3,
+    "Grade": 49,
+    "SkinIndex": 49,
+    "SkinName": "FRIEND_MAGE_049"
+  }
+]

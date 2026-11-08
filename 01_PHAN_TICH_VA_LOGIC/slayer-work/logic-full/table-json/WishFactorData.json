@@ -1,0 +1,68 @@
+[
+  {
+    "Id": 1,
+    "Count": 0,
+    "SuccessProb": 1.0,
+    "Factor": 10
+  },
+  {
+    "Id": 2,
+    "Count": 1,
+    "SuccessProb": 1.5,
+    "Factor": 15
+  },
+  {
+    "Id": 3,
+    "Count": 2,
+    "SuccessProb": 1.7000000476837158,
+    "Factor": 30
+  },
+  {
+    "Id": 4,
+    "Count": 3,
+    "SuccessProb": 1.7999999523162842,
+    "Factor": 80
+  },
+  {
+    "Id": 5,
+    "Count": 4,
+    "SuccessProb": 1.899999976158142,
+    "Factor": 200
+  },
+  {
+    "Id": 6,
+    "Count": 5,
+    "SuccessProb": 2.0,
+    "Factor": 500
+  },
+  {
+    "Id": 7,
+    "Count": 6,
+    "SuccessProb": 2.0999999046325684,
+    "Factor": 1500
+  },
+  {
+    "Id": 8,
+    "Count": 7,
+    "SuccessProb": 2.200000047683716,
+    "Factor": 5000
+  },
+  {
+    "Id": 9,
+    "Count": 8,
+    "SuccessProb": 2.299999952316284,
+    "Factor": 10000
+  },
+  {
+    "Id": 10,
+    "Count": 9,
+    "SuccessProb": 2.4000000953674316,
+    "Factor": 10000
+  },
+  {
+    "Id": 11,
+    "Count": 10,
+    "SuccessProb": 2.5,
+    "Factor": 10000
+  }
+]

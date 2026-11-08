@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "FriendShipDiamond": 0
+  },
+  {
+    "Id": 2,
+    "FriendShipDiamond": 100
+  },
+  {
+    "Id": 3,
+    "FriendShipDiamond": 200
+  },
+  {
+    "Id": 4,
+    "FriendShipDiamond": 300
+  },
+  {
+    "Id": 5,
+    "FriendShipDiamond": 400
+  }
+]

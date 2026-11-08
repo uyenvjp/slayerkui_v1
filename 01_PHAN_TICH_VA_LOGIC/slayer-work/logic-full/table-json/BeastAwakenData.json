@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 0,
+    "Awaken": 0,
+    "NeedCount": 1,
+    "AtkAddFactor": 1.0,
+    "HuntBuffFactor": 1.0,
+    "BeastSkillFactor": 0.0
+  },
+  {
+    "Id": 1,
+    "Awaken": 1,
+    "NeedCount": 1,
+    "AtkAddFactor": 1.100000023841858,
+    "HuntBuffFactor": 1.2000000476837158,
+    "BeastSkillFactor": 1.0
+  },
+  {
+    "Id": 2,
+    "Awaken": 2,
+    "NeedCount": 1,
+    "AtkAddFactor": 1.2000000476837158,
+    "HuntBuffFactor": 1.399999976158142,
+    "BeastSkillFactor": 2.0
+  },
+  {
+    "Id": 3,
+    "Awaken": 3,
+    "NeedCount": 1,
+    "AtkAddFactor": 1.2999999523162842,
+    "HuntBuffFactor": 1.600000023841858,
+    "BeastSkillFactor": 3.0
+  },
+  {
+    "Id": 4,
+    "Awaken": 4,
+    "NeedCount": 1,
+    "AtkAddFactor": 1.399999976158142,
+    "HuntBuffFactor": 1.7999999523162842,
+    "BeastSkillFactor": 4.0
+  },
+  {
+    "Id": 5,
+    "Awaken": 5,
+    "NeedCount": 2,
+    "AtkAddFactor": 1.5,
+    "HuntBuffFactor": 2.0,
+    "BeastSkillFactor": 5.0
+  },
+  {
+    "Id": 6,
+    "Awaken": 6,
+    "NeedCount": 0,
+    "AtkAddFactor": 2.0,
+    "HuntBuffFactor": 3.0,
+    "BeastSkillFactor": 6.0
+  }
+]

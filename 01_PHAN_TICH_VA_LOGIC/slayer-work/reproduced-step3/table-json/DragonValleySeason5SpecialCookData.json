@@ -1,0 +1,1316 @@
+[
+  {
+    "Id": 1,
+    "DragonValleySpecialCookType": 1,
+    "DragonValleyCourseType": 1,
+    "GradeType": 1,
+    "Hidden": false,
+    "Score": 1000,
+    "BuffValue": 1.0,
+    "PerfectBuffValue": 2.0,
+    "MaterialCurrencyTypes": [
+      6016,
+      6015,
+      6005,
+      6008,
+      6008
+    ],
+    "AnimationTypes": [
+      1,
+      5
+    ],
+    "ColorKey": "FFD383"
+  },
+  {
+    "Id": 2,
+    "DragonValleySpecialCookType": 2,
+    "DragonValleyCourseType": 1,
+    "GradeType": 1,
+    "Hidden": false,
+    "Score": 1000,
+    "BuffValue": 1.0,
+    "PerfectBuffValue": 2.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6015,
+      6020,
+      6020
+    ],
+    "AnimationTypes": [
+      1,
+      2
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 3,
+    "DragonValleySpecialCookType": 3,
+    "DragonValleyCourseType": 1,
+    "GradeType": 3,
+    "Hidden": false,
+    "Score": 2000,
+    "BuffValue": 3.0,
+    "PerfectBuffValue": 4.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6019,
+      6019,
+      6027
+    ],
+    "AnimationTypes": [
+      3,
+      2
+    ],
+    "ColorKey": "FFEABB"
+  },
+  {
+    "Id": 4,
+    "DragonValleySpecialCookType": 4,
+    "DragonValleyCourseType": 1,
+    "GradeType": 2,
+    "Hidden": false,
+    "Score": 1500,
+    "BuffValue": 2.0,
+    "PerfectBuffValue": 3.0,
+    "MaterialCurrencyTypes": [
+      6015,
+      6005,
+      6005,
+      6027
+    ],
+    "AnimationTypes": [
+      5,
+      2
+    ],
+    "ColorKey": "FFD062"
+  },
+  {
+    "Id": 5,
+    "DragonValleySpecialCookType": 5,
+    "DragonValleyCourseType": 1,
+    "GradeType": 1,
+    "Hidden": false,
+    "Score": 1000,
+    "BuffValue": 1.0,
+    "PerfectBuffValue": 2.0,
+    "MaterialCurrencyTypes": [
+      6015,
+      6018,
+      6018
+    ],
+    "AnimationTypes": [
+      5
+    ],
+    "ColorKey": "FFD062"
+  },
+  {
+    "Id": 6,
+    "DragonValleySpecialCookType": 6,
+    "DragonValleyCourseType": 1,
+    "GradeType": 1,
+    "Hidden": true,
+    "Score": 1000,
+    "BuffValue": 1.0,
+    "PerfectBuffValue": 3.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6008,
+      6008,
+      6008
+    ],
+    "AnimationTypes": [
+      1,
+      2
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 7,
+    "DragonValleySpecialCookType": 7,
+    "DragonValleyCourseType": 1,
+    "GradeType": 1,
+    "Hidden": false,
+    "Score": 1000,
+    "BuffValue": 1.0,
+    "PerfectBuffValue": 2.0,
+    "MaterialCurrencyTypes": [
+      6003,
+      6017,
+      6017
+    ],
+    "AnimationTypes": [
+      1,
+      2
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 8,
+    "DragonValleySpecialCookType": 8,
+    "DragonValleyCourseType": 1,
+    "GradeType": 0,
+    "Hidden": false,
+    "Score": 500,
+    "BuffValue": 1.0,
+    "PerfectBuffValue": 2.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6013,
+      6005,
+      6005
+    ],
+    "AnimationTypes": [
+      5,
+      3
+    ],
+    "ColorKey": "FFD062"
+  },
+  {
+    "Id": 9,
+    "DragonValleySpecialCookType": 9,
+    "DragonValleyCourseType": 1,
+    "GradeType": 3,
+    "Hidden": false,
+    "Score": 2000,
+    "BuffValue": 3.0,
+    "PerfectBuffValue": 5.0,
+    "MaterialCurrencyTypes": [
+      6018,
+      6018,
+      6027,
+      6027
+    ],
+    "AnimationTypes": [
+      3
+    ],
+    "ColorKey": "FFDC73"
+  },
+  {
+    "Id": 10,
+    "DragonValleySpecialCookType": 10,
+    "DragonValleyCourseType": 1,
+    "GradeType": 6,
+    "Hidden": true,
+    "Score": 3000,
+    "BuffValue": 5.0,
+    "PerfectBuffValue": 7.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6015,
+      6028
+    ],
+    "AnimationTypes": [
+      5,
+      2
+    ],
+    "ColorKey": "FFF5DB"
+  },
+  {
+    "Id": 11,
+    "DragonValleySpecialCookType": 11,
+    "DragonValleyCourseType": 1,
+    "GradeType": 3,
+    "Hidden": false,
+    "Score": 2000,
+    "BuffValue": 3.0,
+    "PerfectBuffValue": 4.0,
+    "MaterialCurrencyTypes": [
+      6016,
+      6003,
+      6013,
+      6021,
+      6027
+    ],
+    "AnimationTypes": [
+      1,
+      3
+    ],
+    "ColorKey": "FFDF95"
+  },
+  {
+    "Id": 12,
+    "DragonValleySpecialCookType": 12,
+    "DragonValleyCourseType": 1,
+    "GradeType": 1,
+    "Hidden": false,
+    "Score": 1000,
+    "BuffValue": 1.0,
+    "PerfectBuffValue": 2.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6013,
+      6019,
+      6019
+    ],
+    "AnimationTypes": [
+      1,
+      2
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 13,
+    "DragonValleySpecialCookType": 13,
+    "DragonValleyCourseType": 1,
+    "GradeType": 3,
+    "Hidden": false,
+    "Score": 2000,
+    "BuffValue": 3.0,
+    "PerfectBuffValue": 4.0,
+    "MaterialCurrencyTypes": [
+      6016,
+      6016,
+      6020,
+      6027
+    ],
+    "AnimationTypes": [
+      1
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 14,
+    "DragonValleySpecialCookType": 14,
+    "DragonValleyCourseType": 1,
+    "GradeType": 3,
+    "Hidden": false,
+    "Score": 2000,
+    "BuffValue": 3.0,
+    "PerfectBuffValue": 4.0,
+    "MaterialCurrencyTypes": [
+      6016,
+      6016,
+      6023
+    ],
+    "AnimationTypes": [
+      1
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 15,
+    "DragonValleySpecialCookType": 15,
+    "DragonValleyCourseType": 1,
+    "GradeType": 4,
+    "Hidden": true,
+    "Score": 2500,
+    "BuffValue": 3.0,
+    "PerfectBuffValue": 4.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6020,
+      6024,
+      6027
+    ],
+    "AnimationTypes": [
+      3,
+      1
+    ],
+    "ColorKey": "FFEABB"
+  },
+  {
+    "Id": 16,
+    "DragonValleySpecialCookType": 16,
+    "DragonValleyCourseType": 1,
+    "GradeType": 2,
+    "Hidden": true,
+    "Score": 1500,
+    "BuffValue": 2.0,
+    "PerfectBuffValue": 4.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6013,
+      6027,
+      6027
+    ],
+    "AnimationTypes": [
+      1,
+      2
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 17,
+    "DragonValleySpecialCookType": 17,
+    "DragonValleyCourseType": 1,
+    "GradeType": 4,
+    "Hidden": false,
+    "Score": 2500,
+    "BuffValue": 3.0,
+    "PerfectBuffValue": 4.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6013,
+      6025,
+      6027
+    ],
+    "AnimationTypes": [
+      5,
+      3
+    ],
+    "ColorKey": "ACC433"
+  },
+  {
+    "Id": 18,
+    "DragonValleySpecialCookType": 18,
+    "DragonValleyCourseType": 1,
+    "GradeType": 3,
+    "Hidden": false,
+    "Score": 2000,
+    "BuffValue": 3.0,
+    "PerfectBuffValue": 4.0,
+    "MaterialCurrencyTypes": [
+      6003,
+      6018,
+      6018,
+      6027
+    ],
+    "AnimationTypes": [
+      1,
+      3
+    ],
+    "ColorKey": "FFDC73"
+  },
+  {
+    "Id": 19,
+    "DragonValleySpecialCookType": 19,
+    "DragonValleyCourseType": 1,
+    "GradeType": 6,
+    "Hidden": true,
+    "Score": 3000,
+    "BuffValue": 5.0,
+    "PerfectBuffValue": 6.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6027,
+      6028
+    ],
+    "AnimationTypes": [
+      3,
+      1
+    ],
+    "ColorKey": "FFEAAB"
+  },
+  {
+    "Id": 20,
+    "DragonValleySpecialCookType": 20,
+    "DragonValleyCourseType": 1,
+    "GradeType": 0,
+    "Hidden": true,
+    "Score": 500,
+    "BuffValue": 1.0,
+    "PerfectBuffValue": 2.0,
+    "MaterialCurrencyTypes": [
+      6016,
+      6003,
+      6013,
+      6015,
+      6005
+    ],
+    "AnimationTypes": [
+      1,
+      3
+    ],
+    "ColorKey": "FFEAAB"
+  },
+  {
+    "Id": 21,
+    "DragonValleySpecialCookType": 21,
+    "DragonValleyCourseType": 1,
+    "GradeType": 0,
+    "Hidden": true,
+    "Score": 500,
+    "BuffValue": 1.0,
+    "PerfectBuffValue": 2.0,
+    "MaterialCurrencyTypes": [
+      6016,
+      6016,
+      6016,
+      6016,
+      6016
+    ],
+    "AnimationTypes": [
+      1
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 22,
+    "DragonValleySpecialCookType": 22,
+    "DragonValleyCourseType": 2,
+    "GradeType": 4,
+    "Hidden": false,
+    "Score": 3500,
+    "BuffValue": 20.0,
+    "PerfectBuffValue": 25.0,
+    "MaterialCurrencyTypes": [
+      6016,
+      6003,
+      6005,
+      6017,
+      6023
+    ],
+    "AnimationTypes": [
+      1,
+      2
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 23,
+    "DragonValleySpecialCookType": 23,
+    "DragonValleyCourseType": 2,
+    "GradeType": 4,
+    "Hidden": false,
+    "Score": 3500,
+    "BuffValue": 20.0,
+    "PerfectBuffValue": 25.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6020,
+      6025,
+      6027
+    ],
+    "AnimationTypes": [
+      1,
+      2
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 24,
+    "DragonValleySpecialCookType": 24,
+    "DragonValleyCourseType": 2,
+    "GradeType": 4,
+    "Hidden": false,
+    "Score": 3500,
+    "BuffValue": 20.0,
+    "PerfectBuffValue": 25.0,
+    "MaterialCurrencyTypes": [
+      6016,
+      6003,
+      6022,
+      6023
+    ],
+    "AnimationTypes": [
+      1,
+      2
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 25,
+    "DragonValleySpecialCookType": 25,
+    "DragonValleyCourseType": 2,
+    "GradeType": 3,
+    "Hidden": false,
+    "Score": 3000,
+    "BuffValue": 20.0,
+    "PerfectBuffValue": 25.0,
+    "MaterialCurrencyTypes": [
+      6003,
+      6013,
+      6005,
+      6020,
+      6027
+    ],
+    "AnimationTypes": [
+      1,
+      3
+    ],
+    "ColorKey": "FFDC73"
+  },
+  {
+    "Id": 26,
+    "DragonValleySpecialCookType": 26,
+    "DragonValleyCourseType": 2,
+    "GradeType": 1,
+    "Hidden": false,
+    "Score": 2000,
+    "BuffValue": 10.0,
+    "PerfectBuffValue": 15.0,
+    "MaterialCurrencyTypes": [
+      6016,
+      6013,
+      6019
+    ],
+    "AnimationTypes": [
+      3,
+      1
+    ],
+    "ColorKey": "FFEAAB"
+  },
+  {
+    "Id": 27,
+    "DragonValleySpecialCookType": 27,
+    "DragonValleyCourseType": 2,
+    "GradeType": 3,
+    "Hidden": false,
+    "Score": 3000,
+    "BuffValue": 20.0,
+    "PerfectBuffValue": 25.0,
+    "MaterialCurrencyTypes": [
+      6003,
+      6005,
+      6020,
+      6027
+    ],
+    "AnimationTypes": [
+      1,
+      2,
+      3
+    ],
+    "ColorKey": "FFDC73"
+  },
+  {
+    "Id": 28,
+    "DragonValleySpecialCookType": 28,
+    "DragonValleyCourseType": 2,
+    "GradeType": 1,
+    "Hidden": false,
+    "Score": 2000,
+    "BuffValue": 10.0,
+    "PerfectBuffValue": 15.0,
+    "MaterialCurrencyTypes": [
+      6003,
+      6005,
+      6005,
+      6017
+    ],
+    "AnimationTypes": [
+      1,
+      2
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 29,
+    "DragonValleySpecialCookType": 29,
+    "DragonValleyCourseType": 2,
+    "GradeType": 6,
+    "Hidden": true,
+    "Score": 5000,
+    "BuffValue": 30.0,
+    "PerfectBuffValue": 50.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6027,
+      6027,
+      6030
+    ],
+    "AnimationTypes": [
+      1,
+      3
+    ],
+    "ColorKey": "FFEAAB"
+  },
+  {
+    "Id": 30,
+    "DragonValleySpecialCookType": 30,
+    "DragonValleyCourseType": 2,
+    "GradeType": 4,
+    "Hidden": true,
+    "Score": 3500,
+    "BuffValue": 20.0,
+    "PerfectBuffValue": 25.0,
+    "MaterialCurrencyTypes": [
+      6003,
+      6013,
+      6012,
+      6023
+    ],
+    "AnimationTypes": [
+      1,
+      5,
+      2
+    ],
+    "ColorKey": "FF6C4E"
+  },
+  {
+    "Id": 31,
+    "DragonValleySpecialCookType": 31,
+    "DragonValleyCourseType": 2,
+    "GradeType": 4,
+    "Hidden": false,
+    "Score": 3500,
+    "BuffValue": 20.0,
+    "PerfectBuffValue": 25.0,
+    "MaterialCurrencyTypes": [
+      6003,
+      6017,
+      6023
+    ],
+    "AnimationTypes": [
+      1,
+      2
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 32,
+    "DragonValleySpecialCookType": 32,
+    "DragonValleyCourseType": 2,
+    "GradeType": 0,
+    "Hidden": false,
+    "Score": 1500,
+    "BuffValue": 5.0,
+    "PerfectBuffValue": 10.0,
+    "MaterialCurrencyTypes": [
+      6003,
+      6013,
+      6005
+    ],
+    "AnimationTypes": [
+      1,
+      2
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 33,
+    "DragonValleySpecialCookType": 33,
+    "DragonValleyCourseType": 2,
+    "GradeType": 2,
+    "Hidden": true,
+    "Score": 2500,
+    "BuffValue": 10.0,
+    "PerfectBuffValue": 15.0,
+    "MaterialCurrencyTypes": [
+      6003,
+      6013,
+      6027
+    ],
+    "AnimationTypes": [
+      3,
+      1
+    ],
+    "ColorKey": "FFEAAB"
+  },
+  {
+    "Id": 34,
+    "DragonValleySpecialCookType": 34,
+    "DragonValleyCourseType": 2,
+    "GradeType": 6,
+    "Hidden": true,
+    "Score": 5000,
+    "BuffValue": 30.0,
+    "PerfectBuffValue": 40.0,
+    "MaterialCurrencyTypes": [
+      6003,
+      6015,
+      6017,
+      6029
+    ],
+    "AnimationTypes": [
+      1,
+      2
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 35,
+    "DragonValleySpecialCookType": 35,
+    "DragonValleyCourseType": 2,
+    "GradeType": 4,
+    "Hidden": false,
+    "Score": 3500,
+    "BuffValue": 20.0,
+    "PerfectBuffValue": 30.0,
+    "MaterialCurrencyTypes": [
+      6017,
+      6024,
+      6024
+    ],
+    "AnimationTypes": [
+      2,
+      1
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 36,
+    "DragonValleySpecialCookType": 36,
+    "DragonValleyCourseType": 2,
+    "GradeType": 4,
+    "Hidden": false,
+    "Score": 3500,
+    "BuffValue": 20.0,
+    "PerfectBuffValue": 25.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6005,
+      6025,
+      6027
+    ],
+    "AnimationTypes": [
+      1,
+      2
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 37,
+    "DragonValleySpecialCookType": 37,
+    "DragonValleyCourseType": 2,
+    "GradeType": 5,
+    "Hidden": false,
+    "Score": 4000,
+    "BuffValue": 25.0,
+    "PerfectBuffValue": 35.0,
+    "MaterialCurrencyTypes": [
+      6019,
+      6019,
+      6012,
+      6023
+    ],
+    "AnimationTypes": [
+      1,
+      5,
+      2
+    ],
+    "ColorKey": "FF6C4E"
+  },
+  {
+    "Id": 38,
+    "DragonValleySpecialCookType": 38,
+    "DragonValleyCourseType": 2,
+    "GradeType": 6,
+    "Hidden": true,
+    "Score": 5000,
+    "BuffValue": 30.0,
+    "PerfectBuffValue": 40.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6015,
+      6008,
+      6029
+    ],
+    "AnimationTypes": [
+      1,
+      5,
+      2
+    ],
+    "ColorKey": "FFEAAB"
+  },
+  {
+    "Id": 39,
+    "DragonValleySpecialCookType": 39,
+    "DragonValleyCourseType": 2,
+    "GradeType": 0,
+    "Hidden": false,
+    "Score": 1500,
+    "BuffValue": 5.0,
+    "PerfectBuffValue": 10.0,
+    "MaterialCurrencyTypes": [
+      6016,
+      6003,
+      6005
+    ],
+    "AnimationTypes": [
+      1,
+      2
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 40,
+    "DragonValleySpecialCookType": 40,
+    "DragonValleyCourseType": 2,
+    "GradeType": 4,
+    "Hidden": false,
+    "Score": 3500,
+    "BuffValue": 20.0,
+    "PerfectBuffValue": 25.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6013,
+      6008,
+      6024
+    ],
+    "AnimationTypes": [
+      1,
+      2
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 41,
+    "DragonValleySpecialCookType": 41,
+    "DragonValleyCourseType": 2,
+    "GradeType": 0,
+    "Hidden": true,
+    "Score": 1500,
+    "BuffValue": 5.0,
+    "PerfectBuffValue": 10.0,
+    "MaterialCurrencyTypes": [
+      6003,
+      6003,
+      6003,
+      6003,
+      6003
+    ],
+    "AnimationTypes": [
+      1,
+      2
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 42,
+    "DragonValleySpecialCookType": 42,
+    "DragonValleyCourseType": 2,
+    "GradeType": 3,
+    "Hidden": true,
+    "Score": 3000,
+    "BuffValue": 20.0,
+    "PerfectBuffValue": 30.0,
+    "MaterialCurrencyTypes": [
+      6003,
+      6013,
+      6005,
+      6023,
+      6023
+    ],
+    "AnimationTypes": [
+      1,
+      2
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 43,
+    "DragonValleySpecialCookType": 43,
+    "DragonValleyCourseType": 3,
+    "GradeType": 3,
+    "Hidden": false,
+    "Score": 2500,
+    "BuffValue": 30.0,
+    "PerfectBuffValue": 35.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6013,
+      6015,
+      6005,
+      6026
+    ],
+    "AnimationTypes": [
+      5,
+      3
+    ],
+    "ColorKey": "663A21"
+  },
+  {
+    "Id": 44,
+    "DragonValleySpecialCookType": 44,
+    "DragonValleyCourseType": 3,
+    "GradeType": 1,
+    "Hidden": false,
+    "Score": 1500,
+    "BuffValue": 10.0,
+    "PerfectBuffValue": 15.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6013,
+      6015,
+      6005,
+      6021
+    ],
+    "AnimationTypes": [
+      5,
+      3
+    ],
+    "ColorKey": "FFCECA"
+  },
+  {
+    "Id": 45,
+    "DragonValleySpecialCookType": 45,
+    "DragonValleyCourseType": 3,
+    "GradeType": 1,
+    "Hidden": false,
+    "Score": 1500,
+    "BuffValue": 10.0,
+    "PerfectBuffValue": 15.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6005,
+      6005,
+      6012
+    ],
+    "AnimationTypes": [
+      5,
+      3
+    ],
+    "ColorKey": "FFEAAB"
+  },
+  {
+    "Id": 46,
+    "DragonValleySpecialCookType": 46,
+    "DragonValleyCourseType": 3,
+    "GradeType": 5,
+    "Hidden": true,
+    "Score": 3500,
+    "BuffValue": 40.0,
+    "PerfectBuffValue": 50.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6022,
+      6021
+    ],
+    "AnimationTypes": [
+      1,
+      3
+    ],
+    "ColorKey": "FFEAAB"
+  },
+  {
+    "Id": 47,
+    "DragonValleySpecialCookType": 47,
+    "DragonValleyCourseType": 3,
+    "GradeType": 4,
+    "Hidden": false,
+    "Score": 3000,
+    "BuffValue": 30.0,
+    "PerfectBuffValue": 35.0,
+    "MaterialCurrencyTypes": [
+      6015,
+      6005,
+      6012,
+      6026
+    ],
+    "AnimationTypes": [
+      5
+    ],
+    "ColorKey": "663A21"
+  },
+  {
+    "Id": 48,
+    "DragonValleySpecialCookType": 48,
+    "DragonValleyCourseType": 3,
+    "GradeType": 1,
+    "Hidden": false,
+    "Score": 1500,
+    "BuffValue": 10.0,
+    "PerfectBuffValue": 20.0,
+    "MaterialCurrencyTypes": [
+      6015,
+      6015,
+      6005,
+      6012,
+      6012
+    ],
+    "AnimationTypes": [
+      5,
+      2
+    ],
+    "ColorKey": "FFDC73"
+  },
+  {
+    "Id": 49,
+    "DragonValleySpecialCookType": 49,
+    "DragonValleyCourseType": 3,
+    "GradeType": 3,
+    "Hidden": false,
+    "Score": 2500,
+    "BuffValue": 30.0,
+    "PerfectBuffValue": 35.0,
+    "MaterialCurrencyTypes": [
+      6015,
+      6015,
+      6026
+    ],
+    "AnimationTypes": [
+      4
+    ],
+    "ColorKey": "663A21"
+  },
+  {
+    "Id": 50,
+    "DragonValleySpecialCookType": 50,
+    "DragonValleyCourseType": 3,
+    "GradeType": 1,
+    "Hidden": false,
+    "Score": 1500,
+    "BuffValue": 10.0,
+    "PerfectBuffValue": 15.0,
+    "MaterialCurrencyTypes": [
+      6015,
+      6015,
+      6021
+    ],
+    "AnimationTypes": [
+      1,
+      5,
+      4
+    ],
+    "ColorKey": "FFCECA"
+  },
+  {
+    "Id": 51,
+    "DragonValleySpecialCookType": 51,
+    "DragonValleyCourseType": 3,
+    "GradeType": 1,
+    "Hidden": true,
+    "Score": 1500,
+    "BuffValue": 10.0,
+    "PerfectBuffValue": 20.0,
+    "MaterialCurrencyTypes": [
+      6018,
+      6018,
+      6018
+    ],
+    "AnimationTypes": [
+      2
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 52,
+    "DragonValleySpecialCookType": 52,
+    "DragonValleyCourseType": 3,
+    "GradeType": 2,
+    "Hidden": true,
+    "Score": 2000,
+    "BuffValue": 20.0,
+    "PerfectBuffValue": 25.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6013,
+      6015,
+      6005,
+      6027
+    ],
+    "AnimationTypes": [
+      5,
+      3
+    ],
+    "ColorKey": "FFDC73"
+  },
+  {
+    "Id": 53,
+    "DragonValleySpecialCookType": 53,
+    "DragonValleyCourseType": 3,
+    "GradeType": 1,
+    "Hidden": true,
+    "Score": 1500,
+    "BuffValue": 10.0,
+    "PerfectBuffValue": 20.0,
+    "MaterialCurrencyTypes": [
+      6017,
+      6017,
+      6017,
+      6017
+    ],
+    "AnimationTypes": [
+      2
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 54,
+    "DragonValleySpecialCookType": 54,
+    "DragonValleyCourseType": 3,
+    "GradeType": 4,
+    "Hidden": false,
+    "Score": 3000,
+    "BuffValue": 30.0,
+    "PerfectBuffValue": 35.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6015,
+      6005,
+      6012,
+      6026
+    ],
+    "AnimationTypes": [
+      5,
+      3
+    ],
+    "ColorKey": "FFEAAB"
+  },
+  {
+    "Id": 55,
+    "DragonValleySpecialCookType": 55,
+    "DragonValleyCourseType": 3,
+    "GradeType": 1,
+    "Hidden": false,
+    "Score": 1500,
+    "BuffValue": 10.0,
+    "PerfectBuffValue": 15.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6015,
+      6005,
+      6012
+    ],
+    "AnimationTypes": [
+      5,
+      2
+    ],
+    "ColorKey": "FFEAAB"
+  },
+  {
+    "Id": 56,
+    "DragonValleySpecialCookType": 56,
+    "DragonValleyCourseType": 3,
+    "GradeType": 1,
+    "Hidden": false,
+    "Score": 1500,
+    "BuffValue": 10.0,
+    "PerfectBuffValue": 25.0,
+    "MaterialCurrencyTypes": [
+      6021,
+      6021,
+      6021,
+      6012,
+      6012
+    ],
+    "AnimationTypes": [
+      2
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 57,
+    "DragonValleySpecialCookType": 57,
+    "DragonValleyCourseType": 3,
+    "GradeType": 0,
+    "Hidden": false,
+    "Score": 1000,
+    "BuffValue": 10.0,
+    "PerfectBuffValue": 15.0,
+    "MaterialCurrencyTypes": [
+      6015,
+      6015,
+      6015
+    ],
+    "AnimationTypes": [
+      5
+    ],
+    "ColorKey": "FFFFFF"
+  },
+  {
+    "Id": 58,
+    "DragonValleySpecialCookType": 58,
+    "DragonValleyCourseType": 3,
+    "GradeType": 6,
+    "Hidden": true,
+    "Score": 4000,
+    "BuffValue": 50.0,
+    "PerfectBuffValue": 70.0,
+    "MaterialCurrencyTypes": [
+      6015,
+      6015,
+      6015,
+      6030
+    ],
+    "AnimationTypes": [
+      5
+    ],
+    "ColorKey": "FFDC73"
+  },
+  {
+    "Id": 59,
+    "DragonValleySpecialCookType": 59,
+    "DragonValleyCourseType": 3,
+    "GradeType": 1,
+    "Hidden": true,
+    "Score": 1500,
+    "BuffValue": 10.0,
+    "PerfectBuffValue": 15.0,
+    "MaterialCurrencyTypes": [
+      6015,
+      6005,
+      6021,
+      6012
+    ],
+    "AnimationTypes": [
+      1,
+      5
+    ],
+    "ColorKey": "FFCECA"
+  },
+  {
+    "Id": 60,
+    "DragonValleySpecialCookType": 60,
+    "DragonValleyCourseType": 3,
+    "GradeType": 4,
+    "Hidden": true,
+    "Score": 3000,
+    "BuffValue": 30.0,
+    "PerfectBuffValue": 40.0,
+    "MaterialCurrencyTypes": [
+      6020,
+      6020,
+      6020,
+      6025
+    ],
+    "AnimationTypes": [
+      1,
+      4
+    ],
+    "ColorKey": "FFE7E7"
+  },
+  {
+    "Id": 61,
+    "DragonValleySpecialCookType": 61,
+    "DragonValleyCourseType": 3,
+    "GradeType": 1,
+    "Hidden": true,
+    "Score": 1500,
+    "BuffValue": 10.0,
+    "PerfectBuffValue": 15.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6013,
+      6015,
+      6012
+    ],
+    "AnimationTypes": [
+      5,
+      2
+    ],
+    "ColorKey": "FFEAAB"
+  },
+  {
+    "Id": 62,
+    "DragonValleySpecialCookType": 62,
+    "DragonValleyCourseType": 3,
+    "GradeType": 0,
+    "Hidden": true,
+    "Score": 1000,
+    "BuffValue": 10.0,
+    "PerfectBuffValue": 15.0,
+    "MaterialCurrencyTypes": [
+      6013,
+      6015,
+      6005
+    ],
+    "AnimationTypes": [
+      5,
+      3
+    ],
+    "ColorKey": "FFEAAB"
+  },
+  {
+    "Id": 63,
+    "DragonValleySpecialCookType": 63,
+    "DragonValleyCourseType": 3,
+    "GradeType": 1,
+    "Hidden": true,
+    "Score": 1500,
+    "BuffValue": 10.0,
+    "PerfectBuffValue": 20.0,
+    "MaterialCurrencyTypes": [
+      6012,
+      6012,
+      6012,
+      6012,
+      6012
+    ],
+    "AnimationTypes": [
+      5,
+      2
+    ],
+    "ColorKey": "DDFBFF"
+  }
+]

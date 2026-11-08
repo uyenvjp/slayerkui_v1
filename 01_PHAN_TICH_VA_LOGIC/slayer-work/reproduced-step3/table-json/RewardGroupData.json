@@ -1,0 +1,142 @@
+[
+  {
+    "Id": 1,
+    "Group": 10001,
+    "CurrencyTypes": "Diamond",
+    "Amount": 1,
+    "Rate": 100
+  },
+  {
+    "Id": 2,
+    "Group": 10002,
+    "CurrencyTypes": "Diamond",
+    "Amount": 100,
+    "Rate": 39
+  },
+  {
+    "Id": 3,
+    "Group": 10002,
+    "CurrencyTypes": "Diamond",
+    "Amount": 500,
+    "Rate": 35
+  },
+  {
+    "Id": 4,
+    "Group": 10002,
+    "CurrencyTypes": "Diamond",
+    "Amount": 1000,
+    "Rate": 25
+  },
+  {
+    "Id": 5,
+    "Group": 10002,
+    "CurrencyTypes": "Diamond",
+    "Amount": 2500,
+    "Rate": 5
+  },
+  {
+    "Id": 6,
+    "Group": 10002,
+    "CurrencyTypes": "Diamond",
+    "Amount": 5000,
+    "Rate": 1
+  },
+  {
+    "Id": 7,
+    "Group": 10003,
+    "CurrencyTypes": "Wing",
+    "Amount": 1,
+    "Rate": 55
+  },
+  {
+    "Id": 8,
+    "Group": 10003,
+    "CurrencyTypes": "Wing",
+    "Amount": 2,
+    "Rate": 40
+  },
+  {
+    "Id": 9,
+    "Group": 10003,
+    "CurrencyTypes": "Wing",
+    "Amount": 3,
+    "Rate": 5
+  },
+  {
+    "Id": 10,
+    "Group": 10004,
+    "CurrencyTypes": "Diamond",
+    "Amount": 500,
+    "Rate": 100
+  },
+  {
+    "Id": 11,
+    "Group": 10010,
+    "CurrencyTypes": "Emerald",
+    "Amount": 100,
+    "Rate": 100
+  },
+  {
+    "Id": 12,
+    "Group": 10005,
+    "CurrencyTypes": "Wing",
+    "Amount": 1,
+    "Rate": 100
+  },
+  {
+    "Id": 13,
+    "Group": 10006,
+    "CurrencyTypes": "Emerald",
+    "Amount": 20,
+    "Rate": 39
+  },
+  {
+    "Id": 14,
+    "Group": 10006,
+    "CurrencyTypes": "Emerald",
+    "Amount": 100,
+    "Rate": 35
+  },
+  {
+    "Id": 15,
+    "Group": 10006,
+    "CurrencyTypes": "Emerald",
+    "Amount": 250,
+    "Rate": 25
+  },
+  {
+    "Id": 16,
+    "Group": 10006,
+    "CurrencyTypes": "Emerald",
+    "Amount": 700,
+    "Rate": 5
+  },
+  {
+    "Id": 17,
+    "Group": 10006,
+    "CurrencyTypes": "Emerald",
+    "Amount": 1500,
+    "Rate": 1
+  },
+  {
+    "Id": 18,
+    "Group": 10007,
+    "CurrencyTypes": "TicketForest",
+    "Amount": 1,
+    "Rate": 1
+  },
+  {
+    "Id": 19,
+    "Group": 10008,
+    "CurrencyTypes": "TicketRankingBattle",
+    "Amount": 1,
+    "Rate": 1
+  },
+  {
+    "Id": 20,
+    "Group": 10009,
+    "CurrencyTypes": "Diamond",
+    "Amount": 3000,
+    "Rate": 1
+  }
+]

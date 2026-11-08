@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x600736a",
+    "name": "PlayerInit",
+    "declaring_type_index": "2909",
+    "declaring_type_full_name": "PlayerBase",
+    "native_va": "0x4ee65b0",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "134",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x95f4cc",
+    "end_va": "0x4ee6820",
+    "asm_file": "PlayerBase__PlayerInit_0x600736a.asm"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6007404",
+    "name": "SkinSetting",
+    "declaring_type_index": "2909",
+    "declaring_type_full_name": "PlayerBase",
+    "native_va": "0x4efed84",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "134",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x96080c",
+    "end_va": "0x4eff564",
+    "asm_file": "PlayerBase__SkinSetting_0x6007404.asm"
+  }
+]

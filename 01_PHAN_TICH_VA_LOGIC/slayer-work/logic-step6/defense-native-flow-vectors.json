@@ -1,0 +1,6470 @@
+[
+  {
+    "case": 0,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "00002041"
+  },
+  {
+    "case": 0,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 0,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 1,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": 0.375
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 1,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": 0.375
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 1,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": 0.375
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 2,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "babb3442"
+  },
+  {
+    "case": 2,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 2,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 3,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "1a0d974d"
+  },
+  {
+    "case": 3,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "000000cf"
+  },
+  {
+    "case": 3,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "54550542"
+  },
+  {
+    "case": 4,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 4,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "0000004f"
+  },
+  {
+    "case": 4,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 5,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "190d8f4d"
+  },
+  {
+    "case": 5,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "000000cf"
+  },
+  {
+    "case": 5,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 6,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "e1f5064f"
+  },
+  {
+    "case": 6,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "0000004f"
+  },
+  {
+    "case": 6,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 7,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 7,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "3e14f4ce"
+  },
+  {
+    "case": 7,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 8,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "e1f5054f"
+  },
+  {
+    "case": 8,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "e1f5054f"
+  },
+  {
+    "case": 8,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "54550542"
+  },
+  {
+    "case": 9,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 0.375
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "26bcbe4c"
+  },
+  {
+    "case": 9,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 0.375
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "0000804b"
+  },
+  {
+    "case": 9,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 0.375
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "0000c03e"
+  },
+  {
+    "case": 10,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 10,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "0000004f"
+  },
+  {
+    "case": 10,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 11,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "000000cf"
+  },
+  {
+    "case": 11,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "0000804b"
+  },
+  {
+    "case": 11,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 12,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "25bcde4c"
+  },
+  {
+    "case": 12,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "0000004f"
+  },
+  {
+    "case": 12,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 13,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 13,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "0000803f"
+  },
+  {
+    "case": 13,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 14,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "7c28e6ce"
+  },
+  {
+    "case": 14,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "0000b03f"
+  },
+  {
+    "case": 14,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 15,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "e1f5054f"
+  },
+  {
+    "case": 15,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "3e14f4ce"
+  },
+  {
+    "case": 15,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "cdccccbd"
+  },
+  {
+    "case": 16,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 16,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "000000cf"
+  },
+  {
+    "case": 16,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 17,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "54d50642"
+  },
+  {
+    "case": 17,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 17,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 18,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "ba3cdcce"
+  },
+  {
+    "case": 18,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "cdccccbd"
+  },
+  {
+    "case": 18,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "cdccccbd"
+  },
+  {
+    "case": 19,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 19,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 19,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 20,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "a3e1114f"
+  },
+  {
+    "case": 20,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "0000804b"
+  },
+  {
+    "case": 20,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "cdccccbd"
+  },
+  {
+    "case": 21,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "21bcbe4c"
+  },
+  {
+    "case": 21,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "cdccccbd"
+  },
+  {
+    "case": 21,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 22,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 22,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "0000804b"
+  },
+  {
+    "case": 22,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 23,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 33.33333,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 0.375
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "7c28e8ce"
+  },
+  {
+    "case": 23,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 33.33333,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 0.375
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "1100804b"
+  },
+  {
+    "case": 23,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 33.33333,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 0.375
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "0000c03e"
+  },
+  {
+    "case": 24,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "0000014f"
+  },
+  {
+    "case": 24,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "0000004f"
+  },
+  {
+    "case": 24,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "54550542"
+  },
+  {
+    "case": 25,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 33.33333,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 25,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 33.33333,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "000000cf"
+  },
+  {
+    "case": 25,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 33.33333,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 26,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "1a0d8f4d"
+  },
+  {
+    "case": 26,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "000000cf"
+  },
+  {
+    "case": 26,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 27,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "3700804b"
+  },
+  {
+    "case": 27,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "0000004f"
+  },
+  {
+    "case": 27,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 28,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 28,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "20bcde4c"
+  },
+  {
+    "case": 28,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 29,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "3e14f2ce"
+  },
+  {
+    "case": 29,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "cdccccbd"
+  },
+  {
+    "case": 29,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 30,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "ba3cdcce"
+  },
+  {
+    "case": 30,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "000000cf"
+  },
+  {
+    "case": 30,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "54550542"
+  },
+  {
+    "case": 31,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 31,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "0000804b"
+  },
+  {
+    "case": 31,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 32,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "c2eb0c4f"
+  },
+  {
+    "case": 32,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 32,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 33,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "5d1e6ecf"
+  },
+  {
+    "case": 33,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "0000004f"
+  },
+  {
+    "case": 33,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 34,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 34,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "6666663f"
+  },
+  {
+    "case": 34,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 35,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "ba3b0742"
+  },
+  {
+    "case": 35,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "0000804b"
+  },
+  {
+    "case": 35,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 36,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": 33.33333,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "26bcde4c"
+  },
+  {
+    "case": 36,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": 33.33333,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "54550542"
+  },
+  {
+    "case": 36,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": 33.33333,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "cdccccbd"
+  },
+  {
+    "case": 37,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 33.33333,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 37,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 33.33333,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "54550542"
+  },
+  {
+    "case": 37,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 33.33333,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 38,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 33.33333,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "22bc4e4d"
+  },
+  {
+    "case": 38,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 33.33333,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "1100804b"
+  },
+  {
+    "case": 38,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 33.33333,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 39,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "1600804b"
+  },
+  {
+    "case": 39,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "0000804b"
+  },
+  {
+    "case": 39,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "cdccccbd"
+  },
+  {
+    "case": 40,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0.375
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 40,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0.375
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "0000004f"
+  },
+  {
+    "case": 40,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0.375
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 41,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "21bcbe4d"
+  },
+  {
+    "case": 41,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "000000cf"
+  },
+  {
+    "case": 41,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "cdccccbd"
+  },
+  {
+    "case": 42,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0.375
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "c2eb0b4f"
+  },
+  {
+    "case": 42,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0.375
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "0000004f"
+  },
+  {
+    "case": 42,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0.375
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "0000c03e"
+  },
+  {
+    "case": 43,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 43,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 43,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 44,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "a3e1114f"
+  },
+  {
+    "case": 44,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "000000cf"
+  },
+  {
+    "case": 44,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 45,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "0000004f"
+  },
+  {
+    "case": 45,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "cdccccbd"
+  },
+  {
+    "case": 45,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 46,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 46,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "000000cf"
+  },
+  {
+    "case": 46,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 47,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "29bcbe4c"
+  },
+  {
+    "case": 47,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "0000004f"
+  },
+  {
+    "case": 47,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 48,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "1f0a7acf"
+  },
+  {
+    "case": 48,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 48,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 49,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 49,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "0000b03f"
+  },
+  {
+    "case": 49,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 1,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 50,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "1f0a7acf"
+  },
+  {
+    "case": 50,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "0000804b"
+  },
+  {
+    "case": 50,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "54550542"
+  },
+  {
+    "case": 51,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "24bcbe4c"
+  },
+  {
+    "case": 51,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "0000804b"
+  },
+  {
+    "case": 51,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "cdccccbd"
+  },
+  {
+    "case": 52,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 33.33333,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 52,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 33.33333,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "1100804b"
+  },
+  {
+    "case": 52,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": -2147483648,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 33.33333,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 53,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0.375
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "23bc4e4d"
+  },
+  {
+    "case": 53,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0.375
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "e1f5054f"
+  },
+  {
+    "case": 53,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0.375,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0.375
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "0000c03e"
+  },
+  {
+    "case": 54,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0.375
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "1600804b"
+  },
+  {
+    "case": 54,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0.375
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "0000004f"
+  },
+  {
+    "case": 54,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 33.33333,
+        "Artifact_Miss": 0,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 16777217,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0.375
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0.1
+      }
+    },
+    "expected": "0000c03e"
+  },
+  {
+    "case": 55,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 55,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "000000cf"
+  },
+  {
+    "case": 55,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": 33.33333,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 56,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "c2eb0b4f"
+  },
+  {
+    "case": 56,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "000000cf"
+  },
+  {
+    "case": 56,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 2147483647,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": -0.1,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0.1
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 57,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "e1f5054f"
+  },
+  {
+    "case": 57,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "0000004f"
+  },
+  {
+    "case": 57,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 58,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 58,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "e1f5054f"
+  },
+  {
+    "case": 58,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": -0.1,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 0.375,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 59,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "25bcbe4c"
+  },
+  {
+    "case": 59,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "0000004f"
+  },
+  {
+    "case": 59,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": 0,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "54550542"
+  },
+  {
+    "case": 60,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "180d0f4e"
+  },
+  {
+    "case": 60,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "0000804b"
+  },
+  {
+    "case": 60,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 100000000.0,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": 100000000.0,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 61,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 61,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 61,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 0,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 100000000.0,
+        "PlayerOption_Resistance": 0,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 62,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "3e14f2ce"
+  },
+  {
+    "case": 62,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "0000004f"
+  },
+  {
+    "case": 62,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": -0.1,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": 0.375,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 0.375,
+        "FriendOption_Resistance": -0.1,
+        "PlayerOption_Resistance": 2147483647,
+        "FriendPassive_EnemyAtkReduce": 0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 63,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "1b0d8f4d"
+  },
+  {
+    "case": 63,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "0000804b"
+  },
+  {
+    "case": 63,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 33.33333,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 33.33333,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": 1,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 100000000.0
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 100000000.0
+      }
+    },
+    "expected": "20bcbe4c"
+  },
+  {
+    "case": 64,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "00004841"
+  },
+  {
+    "case": 64,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "0000804b"
+  },
+  {
+    "case": 64,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 0,
+        "Artifact_Miss": 0.375,
+        "PlayerOption_Miss": 16777217,
+        "FriendOption_Miss": -0.1,
+        "FriendPassive_Miss": 100000000.0,
+        "SkinOption_Miss": 2147483647,
+        "SoulGemStat_Dodge": -0.1,
+        "FriendOption_Resistance": 0.375,
+        "PlayerOption_Resistance": 16777217,
+        "FriendPassive_EnemyAtkReduce": 33.33333
+      },
+      "player": {},
+      "presetStat": {
+        "Miss": 12.5
+      },
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 100000000.0
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 0
+      }
+    },
+    "expected": "00000000"
+  },
+  {
+    "case": 65,
+    "method": "playerMiss",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "7c28e8ce"
+  },
+  {
+    "case": 65,
+    "method": "playerResistance",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "000000cf"
+  },
+  {
+    "case": 65,
+    "method": "playerDamageReduce",
+    "fixture": {
+      "db": {
+        "Stat_Miss": 100000000.0,
+        "Artifact_Miss": 100000000.0,
+        "PlayerOption_Miss": 1,
+        "FriendOption_Miss": 0,
+        "FriendPassive_Miss": 33.33333,
+        "SkinOption_Miss": -2147483648,
+        "SoulGemStat_Dodge": 0,
+        "FriendOption_Resistance": 0,
+        "PlayerOption_Resistance": -2147483648,
+        "FriendPassive_EnemyAtkReduce": -0.1
+      },
+      "player": {},
+      "presetStat": null,
+      "dragon": {
+        "Ether": null,
+        "SpecialCook": {
+          "DragonValleySpecialCookMaterialBuff_Dodge": 33.33333
+        }
+      },
+      "demon": null,
+      "playerHpUpdatePresent": false,
+      "skillGrinding": {
+        "SkillGrindingPassiveStat_Dodge": 33.33333
+      }
+    },
+    "expected": "cdccccbd"
+  }
+]

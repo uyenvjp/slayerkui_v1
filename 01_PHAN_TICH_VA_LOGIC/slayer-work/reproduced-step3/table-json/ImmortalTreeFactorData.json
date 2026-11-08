@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 0,
+    "stageIndex": 4,
+    "Factor": 2
+  },
+  {
+    "Id": 1,
+    "stageIndex": 9,
+    "Factor": 2
+  },
+  {
+    "Id": 2,
+    "stageIndex": 14,
+    "Factor": 3
+  },
+  {
+    "Id": 3,
+    "stageIndex": 19,
+    "Factor": 5
+  }
+]

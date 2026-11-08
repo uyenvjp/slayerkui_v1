@@ -1,0 +1,128 @@
+[
+  {
+    "Id": 1,
+    "AttackSkillType": 1,
+    "Level1": 150,
+    "Level2": 450,
+    "Level3": 1350,
+    "Level4": 1350,
+    "Level5": 1350
+  },
+  {
+    "Id": 2,
+    "AttackSkillType": 2,
+    "Level1": 150,
+    "Level2": 450,
+    "Level3": 1350,
+    "Level4": 1350,
+    "Level5": 1350
+  },
+  {
+    "Id": 3,
+    "AttackSkillType": 3,
+    "Level1": 300,
+    "Level2": 900,
+    "Level3": 2700,
+    "Level4": 2700,
+    "Level5": 2700
+  },
+  {
+    "Id": 4,
+    "AttackSkillType": 4,
+    "Level1": 150,
+    "Level2": 450,
+    "Level3": 1350,
+    "Level4": 1350,
+    "Level5": 1350
+  },
+  {
+    "Id": 5,
+    "AttackSkillType": 5,
+    "Level1": 300,
+    "Level2": 900,
+    "Level3": 2700,
+    "Level4": 2700,
+    "Level5": 2700
+  },
+  {
+    "Id": 6,
+    "AttackSkillType": 6,
+    "Level1": 300,
+    "Level2": 900,
+    "Level3": 2700,
+    "Level4": 2700,
+    "Level5": 2700
+  },
+  {
+    "Id": 7,
+    "AttackSkillType": 7,
+    "Level1": 150,
+    "Level2": 450,
+    "Level3": 1350,
+    "Level4": 1350,
+    "Level5": 1350
+  },
+  {
+    "Id": 8,
+    "AttackSkillType": 8,
+    "Level1": 300,
+    "Level2": 900,
+    "Level3": 2700,
+    "Level4": 2700,
+    "Level5": 2700
+  },
+  {
+    "Id": 9,
+    "AttackSkillType": 9,
+    "Level1": 300,
+    "Level2": 900,
+    "Level3": 2700,
+    "Level4": 2700,
+    "Level5": 2700
+  },
+  {
+    "Id": 10,
+    "AttackSkillType": 10,
+    "Level1": 300,
+    "Level2": 900,
+    "Level3": 2700,
+    "Level4": 2700,
+    "Level5": 2700
+  },
+  {
+    "Id": 11,
+    "AttackSkillType": 11,
+    "Level1": 300,
+    "Level2": 900,
+    "Level3": 2700,
+    "Level4": 2700,
+    "Level5": 2700
+  },
+  {
+    "Id": 12,
+    "AttackSkillType": 12,
+    "Level1": 300,
+    "Level2": 900,
+    "Level3": 2700,
+    "Level4": 2700,
+    "Level5": 2700
+  },
+  {
+    "Id": 13,
+    "AttackSkillType": 13,
+    "Level1": 300,
+    "Level2": 900,
+    "Level3": 2700,
+    "Level4": 2700,
+    "Level5": 2700
+  },
+  {
+    "Id": 14,
+    "AttackSkillType": 14,
+    "Level1": 300,
+    "Level2": 900,
+    "Level3": 2700,
+    "Level4": 2700,
+    "Level5": 2700
+  }
+]

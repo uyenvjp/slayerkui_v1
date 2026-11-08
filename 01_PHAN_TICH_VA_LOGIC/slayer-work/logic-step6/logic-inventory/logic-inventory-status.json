@@ -1,0 +1,12 @@
+{
+  "assembly_csharp_method_records": 65440,
+  "assembly_csharp_classes": 6871,
+  "mapped_native_ranges_with_outgoing_edges": 59671,
+  "distinct_static_edges": 399416,
+  "unknown_direct_targets": 3686,
+  "indirect_call_sites": 12803,
+  "indirect_tail_sites": 2427,
+  "all_gameplay_semantically_analyzed": false,
+  "all_gameplay_translated": false,
+  "scope": "Static direct-call inventory in mapped native ranges; not semantic recovery. Generic/shared addresses may have multiple owners; indirect/delegate/Unity callback edges remain unresolved."
+}

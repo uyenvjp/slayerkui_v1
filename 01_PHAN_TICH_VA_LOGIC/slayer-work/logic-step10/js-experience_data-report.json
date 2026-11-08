@@ -1,0 +1,5 @@
+{
+  "passed": 910,
+  "contracts": 7,
+  "scope": "EXP aggregation precision/order, double array sum, cached object identity and sync partial failure under modeled dependencies."
+}

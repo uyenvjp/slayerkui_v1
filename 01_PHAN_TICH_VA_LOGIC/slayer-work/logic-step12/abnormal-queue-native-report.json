@@ -1,0 +1,10 @@
+{
+  "cases": 244,
+  "connected_sequences": 3,
+  "sequence_actions": 29,
+  "instruction_steps": 10668,
+  "distinct_instructions": 177,
+  "wait_threshold": 0.10000000149011612,
+  "wait_threshold_bits": "cdcccc3d",
+  "scope": "Original ScheduleAbnormalAddDamage, iterator factory/constructor and ProcessDelayedAbnormalDamage.MoveNext. Critical/superCritical getters, queue/Unity active/StartCoroutine/GameDeltaTime and ExecuteAbnormalAddDamage sink explicit. Tick calls are a fixture scheduler; no claim of full executor/battle/Unity timing or GetDmg-to-scheduler end-to-end parity."
+}

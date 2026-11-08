@@ -1,0 +1,230 @@
+[
+  {
+    "Id": 0,
+    "WaveIndex": 1,
+    "RewardCurrency": 1,
+    "RewardAmount": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "RewardProb": [
+      94.0,
+      94.0,
+      94.0,
+      94.0,
+      94.0
+    ]
+  },
+  {
+    "Id": 1,
+    "WaveIndex": 1,
+    "RewardCurrency": 7,
+    "RewardAmount": [
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "RewardProb": [
+      5.0,
+      5.0,
+      5.0,
+      5.0,
+      5.0
+    ]
+  },
+  {
+    "Id": 2,
+    "WaveIndex": 1,
+    "RewardCurrency": 3,
+    "RewardAmount": [
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "RewardProb": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 3,
+    "WaveIndex": 2,
+    "RewardCurrency": 1,
+    "RewardAmount": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "RewardProb": [
+      82.0,
+      82.0,
+      82.0,
+      82.0,
+      82.0
+    ]
+  },
+  {
+    "Id": 4,
+    "WaveIndex": 2,
+    "RewardCurrency": 7,
+    "RewardAmount": [
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "RewardProb": [
+      15.0,
+      15.0,
+      15.0,
+      15.0,
+      15.0
+    ]
+  },
+  {
+    "Id": 5,
+    "WaveIndex": 2,
+    "RewardCurrency": 3,
+    "RewardAmount": [
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "RewardProb": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "Id": 6,
+    "WaveIndex": 3,
+    "RewardCurrency": 1,
+    "RewardAmount": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "RewardProb": [
+      75.0,
+      75.0,
+      75.0,
+      75.0,
+      75.0
+    ]
+  },
+  {
+    "Id": 7,
+    "WaveIndex": 3,
+    "RewardCurrency": 7,
+    "RewardAmount": [
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "RewardProb": [
+      20.0,
+      20.0,
+      20.0,
+      20.0,
+      20.0
+    ]
+  },
+  {
+    "Id": 8,
+    "WaveIndex": 3,
+    "RewardCurrency": 3,
+    "RewardAmount": [
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "RewardProb": [
+      5.0,
+      5.0,
+      5.0,
+      5.0,
+      5.0
+    ]
+  },
+  {
+    "Id": 9,
+    "WaveIndex": 4,
+    "RewardCurrency": 1,
+    "RewardAmount": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "RewardProb": [
+      68.0,
+      68.0,
+      68.0,
+      68.0,
+      68.0
+    ]
+  },
+  {
+    "Id": 10,
+    "WaveIndex": 4,
+    "RewardCurrency": 7,
+    "RewardAmount": [
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "RewardProb": [
+      25.0,
+      25.0,
+      25.0,
+      25.0,
+      25.0
+    ]
+  },
+  {
+    "Id": 11,
+    "WaveIndex": 4,
+    "RewardCurrency": 3,
+    "RewardAmount": [
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "RewardProb": [
+      7.0,
+      7.0,
+      7.0,
+      7.0,
+      7.0
+    ]
+  }
+]

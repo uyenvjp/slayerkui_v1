@@ -1,0 +1,233 @@
+[
+  {
+    "Id": 1,
+    "NeedCurrencyType": 1,
+    "Cost": 0,
+    "CurrencyType": 7002,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 10,
+    "PeriodLimitType": 6,
+    "BuyCount": 1,
+    "MaxSetCount": 1
+  },
+  {
+    "Id": 101,
+    "NeedCurrencyType": 1,
+    "Cost": 0,
+    "CurrencyType": 7003,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 5,
+    "PeriodLimitType": 1,
+    "BuyCount": 1,
+    "MaxSetCount": 1
+  },
+  {
+    "Id": 102,
+    "NeedCurrencyType": 1,
+    "Cost": 5000,
+    "CurrencyType": 7002,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 3,
+    "PeriodLimitType": 1,
+    "BuyCount": 1,
+    "MaxSetCount": 1
+  },
+  {
+    "Id": 201,
+    "NeedCurrencyType": 1,
+    "Cost": 8000,
+    "CurrencyType": 7002,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 5,
+    "PeriodLimitType": 2,
+    "BuyCount": 5,
+    "MaxSetCount": 5
+  },
+  {
+    "Id": 202,
+    "NeedCurrencyType": 1,
+    "Cost": 1000,
+    "CurrencyType": 7003,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 5,
+    "PeriodLimitType": 2,
+    "BuyCount": 10,
+    "MaxSetCount": 10
+  },
+  {
+    "Id": 203,
+    "NeedCurrencyType": 1,
+    "Cost": 2500,
+    "CurrencyType": 7004,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 1,
+    "PeriodLimitType": 2,
+    "BuyCount": 5,
+    "MaxSetCount": 5
+  },
+  {
+    "Id": 204,
+    "NeedCurrencyType": 1,
+    "Cost": 10000,
+    "CurrencyType": 7011,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 1,
+    "PeriodLimitType": 2,
+    "BuyCount": 2,
+    "MaxSetCount": 2
+  },
+  {
+    "Id": 205,
+    "NeedCurrencyType": 1,
+    "Cost": 10000,
+    "CurrencyType": 7012,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 1,
+    "PeriodLimitType": 2,
+    "BuyCount": 2,
+    "MaxSetCount": 2
+  },
+  {
+    "Id": 206,
+    "NeedCurrencyType": 1,
+    "Cost": 10000,
+    "CurrencyType": 7013,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 1,
+    "PeriodLimitType": 2,
+    "BuyCount": 2,
+    "MaxSetCount": 2
+  },
+  {
+    "Id": 207,
+    "NeedCurrencyType": 1,
+    "Cost": 10000,
+    "CurrencyType": 7014,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 1,
+    "PeriodLimitType": 2,
+    "BuyCount": 2,
+    "MaxSetCount": 2
+  },
+  {
+    "Id": 208,
+    "NeedCurrencyType": 1,
+    "Cost": 15000,
+    "CurrencyType": 7015,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 1,
+    "PeriodLimitType": 2,
+    "BuyCount": 2,
+    "MaxSetCount": 2
+  },
+  {
+    "Id": 301,
+    "NeedCurrencyType": 1,
+    "Cost": 15000,
+    "CurrencyType": 7002,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 10,
+    "PeriodLimitType": 3,
+    "BuyCount": 10,
+    "MaxSetCount": 5
+  },
+  {
+    "Id": 302,
+    "NeedCurrencyType": 1,
+    "Cost": 2000,
+    "CurrencyType": 7003,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 12,
+    "PeriodLimitType": 3,
+    "BuyCount": 20,
+    "MaxSetCount": 20
+  },
+  {
+    "Id": 303,
+    "NeedCurrencyType": 1,
+    "Cost": 10000,
+    "CurrencyType": 7004,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 5,
+    "PeriodLimitType": 3,
+    "BuyCount": 5,
+    "MaxSetCount": 5
+  },
+  {
+    "Id": 304,
+    "NeedCurrencyType": 7001,
+    "Cost": 1000,
+    "CurrencyType": 7000,
+    "CurrencyIndex": 4,
+    "CurrencyAmount": 1,
+    "PeriodLimitType": 3,
+    "BuyCount": 2,
+    "MaxSetCount": 1
+  },
+  {
+    "Id": 305,
+    "NeedCurrencyType": 7001,
+    "Cost": 1000,
+    "CurrencyType": 7000,
+    "CurrencyIndex": 14,
+    "CurrencyAmount": 1,
+    "PeriodLimitType": 3,
+    "BuyCount": 2,
+    "MaxSetCount": 1
+  },
+  {
+    "Id": 306,
+    "NeedCurrencyType": 7001,
+    "Cost": 1000,
+    "CurrencyType": 7000,
+    "CurrencyIndex": 104,
+    "CurrencyAmount": 1,
+    "PeriodLimitType": 3,
+    "BuyCount": 2,
+    "MaxSetCount": 1
+  },
+  {
+    "Id": 307,
+    "NeedCurrencyType": 7001,
+    "Cost": 1000,
+    "CurrencyType": 7000,
+    "CurrencyIndex": 204,
+    "CurrencyAmount": 1,
+    "PeriodLimitType": 3,
+    "BuyCount": 2,
+    "MaxSetCount": 1
+  },
+  {
+    "Id": 308,
+    "NeedCurrencyType": 7001,
+    "Cost": 2000,
+    "CurrencyType": 7000,
+    "CurrencyIndex": 305,
+    "CurrencyAmount": 1,
+    "PeriodLimitType": 3,
+    "BuyCount": 2,
+    "MaxSetCount": 1
+  },
+  {
+    "Id": 401,
+    "NeedCurrencyType": 1,
+    "Cost": 3000,
+    "CurrencyType": 7002,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 1,
+    "PeriodLimitType": 5,
+    "BuyCount": 0,
+    "MaxSetCount": 30
+  },
+  {
+    "Id": 402,
+    "NeedCurrencyType": 1,
+    "Cost": 2000,
+    "CurrencyType": 7003,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 5,
+    "PeriodLimitType": 5,
+    "BuyCount": 0,
+    "MaxSetCount": 30
+  }
+]

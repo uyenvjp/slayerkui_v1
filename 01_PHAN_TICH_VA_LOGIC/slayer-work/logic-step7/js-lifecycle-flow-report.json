@@ -1,0 +1,5 @@
+{
+  "passed": 212,
+  "continuedPhases": 3,
+  "scope": "Two coroutine bodies plus native setter contract; downstream lifecycle calls explicitly modeled."
+}

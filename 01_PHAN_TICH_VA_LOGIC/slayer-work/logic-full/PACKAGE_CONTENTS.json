@@ -1,0 +1,4512 @@
+[
+  {
+    "path": "DOC_TRUOC.md",
+    "bytes": 7169,
+    "sha256": "be162036ff5fff7dab113a56d5f702c2f5c21a93789b584c3e26722bf3ee2c31"
+  },
+  {
+    "path": "STEP3_STATUS.json",
+    "bytes": 856,
+    "sha256": "76907a4a7d66c4ba80a9c65e14fea77019b7382a65b72fac57ed7169a9385f3a"
+  },
+  {
+    "path": "global-metadata.decoded.dat",
+    "bytes": 33085012,
+    "sha256": "670133f0efe52104a72c582a79139b33f238c5dc43c2999cdbb8ce7c0aad3e20"
+  },
+  {
+    "path": "metadata-decode-verification.json",
+    "bytes": 6829,
+    "sha256": "fe5b9cd90ce75c21a611f6fe8ab952cb5d1ba5450d3ee2cb68622d07c980b414"
+  },
+  {
+    "path": "table-decode-verification.json",
+    "bytes": 103823,
+    "sha256": "a6a3f9fb73c579ce6728ed64b1e1a6efe0b05131f1f6cb96d2052d48b7632041"
+  },
+  {
+    "path": "table-parse-verification.json",
+    "bytes": 80834,
+    "sha256": "5a8f7b3c45a56cc6e3a0c5e0d47aa808d4338ef0d01ee7a467e79789d6e8c250"
+  },
+  {
+    "path": "table-schemas.json",
+    "bytes": 797193,
+    "sha256": "1693f8330fc7155345fb24b50994004aa299568b468162bcbffd9a66722b66c5"
+  },
+  {
+    "path": "table-enums.json",
+    "bytes": 66468,
+    "sha256": "479e68ae694ca49bc63946a10033a142a0b35cf23c3805f3c002be5190021dbb"
+  },
+  {
+    "path": "all-method-map.csv",
+    "bytes": 38491371,
+    "sha256": "57e0afdced60d128e28fa4cc6bf2c2d84e311e468e397fcb9f72a942b5860716"
+  },
+  {
+    "path": "all-module-map.json",
+    "bytes": 29066,
+    "sha256": "11eb656e1221d326aa51bc2ad81a96098de24fab15d62b8bd4bf9f46b0c430c1"
+  },
+  {
+    "path": "type-map.csv",
+    "bytes": 6992654,
+    "sha256": "ab0befded689a6c2dcd775222dd4d631cff46388c7306bbd07b0fae5b332ae20"
+  },
+  {
+    "path": "field-map.csv",
+    "bytes": 24740396,
+    "sha256": "947f4ccd7941bc67852705685b9b3934669f7e1ddbc49b7ad8ca5b33aa3d941a"
+  },
+  {
+    "path": "parameter-map.csv",
+    "bytes": 10309152,
+    "sha256": "5ab8087a38624fc6753e8caca0d15bf1a4e2bea67ab0b65f57b18672641d8949"
+  },
+  {
+    "path": "native-type-map.csv",
+    "bytes": 7598894,
+    "sha256": "b57beb93d680c71352b26584bba032e7061ceffa119625f57cc319a38025e977"
+  },
+  {
+    "path": "recovered-rules.json",
+    "bytes": 2084,
+    "sha256": "989f7c2aab491d97b96be680871ed9e92d5bf055ee6a962402988da4ccbe6190"
+  },
+  {
+    "path": "step3-reproduction-verification.json",
+    "bytes": 66406,
+    "sha256": "b0e9c3c5d77e293656435ec6b572d6ed1534b252f7f109fad04e7aa8641fd39b"
+  },
+  {
+    "path": "ifix-loading-methods.json",
+    "bytes": 32361,
+    "sha256": "551d40fa2d373b98e4af53ec97c534eba5f21afc9d2bf149e078751713b43ce0"
+  },
+  {
+    "path": "tools/recover_full_data.py",
+    "bytes": 2514,
+    "sha256": "71990168a02d98a44507a8c180727a72f2f6bdae6b5494c35b214198bcd3cf9a"
+  },
+  {
+    "path": "tools/decode_metadata.py",
+    "bytes": 4371,
+    "sha256": "a333da5c2aa3a62fa59d2d259469c7e36317b793207f5c3ffa249788fd78177a"
+  },
+  {
+    "path": "tools/likey_cipher.py",
+    "bytes": 2499,
+    "sha256": "602924d805c93bf24483410ff2cd223ebd21a7c817ed8e96cd42bb14874b4193"
+  },
+  {
+    "path": "tools/read_apk_manifest.py",
+    "bytes": 1289,
+    "sha256": "f4b556a7e6c2fadf77a66d6d700485f7dca3883ecfb71d399ab9663962d81bdc"
+  },
+  {
+    "path": "tools/decode_game_tables.py",
+    "bytes": 2878,
+    "sha256": "cd28d7320c9b7a51deaef27ddee973f37054edb7b33424fcafba89e7492914f6"
+  },
+  {
+    "path": "tools/read_unity_textasset.py",
+    "bytes": 1629,
+    "sha256": "d31ca25b4c9765cf012b2800256ba61024697e31328a49c31d3a034cd9209f8d"
+  },
+  {
+    "path": "tools/recover_methods.py",
+    "bytes": 2072,
+    "sha256": "627498a763b87fc3d33cd592bbf96f69e8a5b26a85ef238ff63c36254bd70bd4"
+  },
+  {
+    "path": "tools/recover_types.py",
+    "bytes": 2443,
+    "sha256": "b0c729976554e4208bb470257d9b2616e6b890e1428d072b4678c5b7d0b5192b"
+  },
+  {
+    "path": "tools/recover_fields.py",
+    "bytes": 2501,
+    "sha256": "db0fdfebb08e6cae1f612a5b613fcd06ba5443f764fd934b5edc3d010d07e5fa"
+  },
+  {
+    "path": "tools/finish_recovery.py",
+    "bytes": 5572,
+    "sha256": "ed87f4f965ece63953a84936a30db0776e025e336824a987a60e11e7e981f59f"
+  },
+  {
+    "path": "tools/elf_reader.py",
+    "bytes": 1717,
+    "sha256": "5406df2c17c304925e19b8f658954fca1d88de5d1a4f47310ff91c46b96119eb"
+  },
+  {
+    "path": "tools/map_all_modules.py",
+    "bytes": 2735,
+    "sha256": "64f4a6681f1344417874fcf9d64be52e14ef294d06451c21007eacb763cd344b"
+  },
+  {
+    "path": "tools/export_table_schema.py",
+    "bytes": 3500,
+    "sha256": "91a671c3abb095fe4a08c0487b97f4bcf78b29d91660422fd768165ce8e60d5d"
+  },
+  {
+    "path": "tools/read_memorypack_tables.py",
+    "bytes": 4812,
+    "sha256": "88ece6d69c801bb68ff0f4a4050570e80c249bcc9ba0d97f6e47de9ff811ff6e"
+  },
+  {
+    "path": "tools/export_used_enums.py",
+    "bytes": 1484,
+    "sha256": "8410a8811d2b62fa56c98899e5eec3ca3435f5cfc5bdb7ffe61c4348a6baefe3"
+  },
+  {
+    "path": "tools/native_analysis.py",
+    "bytes": 3993,
+    "sha256": "05241cb1abe0dbaf99caa254532faeaf34fa45db9a0a4d2300d4f5cb37a8cdc4"
+  },
+  {
+    "path": "tools/game-data-inventory.json",
+    "bytes": 254000,
+    "sha256": "b824619699be3d0bb97ee6b907036c4182e30c84c86a5bb3eab56eb0e35ba7cf"
+  },
+  {
+    "path": "proof/liapp_183f4.asm",
+    "bytes": 9726,
+    "sha256": "d06adf035446efcd756ee4487b31c3e1f776ce3529071d25151fa237214251a8"
+  },
+  {
+    "path": "proof/crypto_GetKeyBase64.asm",
+    "bytes": 4034,
+    "sha256": "da7e8343e2d60727f808e75ffcb96602fa4ae569d257c1053a7d39bf52bf508b"
+  },
+  {
+    "path": "proof/crypto_GetIVBase64.asm",
+    "bytes": 2752,
+    "sha256": "7f9f3d99417a62beb4b532390b2d9e96162715507ba2cf392ec8ed2ba8d43648"
+  },
+  {
+    "path": "proof/crypto_GetAesKey.asm",
+    "bytes": 1281,
+    "sha256": "dea9fe9a443fcab8ac1af2d329b2200294b9e4e86daae9ed1808aa5a9f4d6a12"
+  },
+  {
+    "path": "proof/crypto_GetAesIV.asm",
+    "bytes": 1280,
+    "sha256": "eb63c943ba78776ded7f29dfa45635467fa885ac43e2777b696d6bfd3e2c6d7e"
+  },
+  {
+    "path": "proof/crypto_LoadEncryptedByte.asm",
+    "bytes": 15448,
+    "sha256": "25657d65c6c6294984ecb946437664ff35a30dde1ffdf8efc4172a46aa8452d9"
+  },
+  {
+    "path": "table-json/ABTestAssignData.json",
+    "bytes": 1149,
+    "sha256": "f8cd0a4296006bb105ad50bbacd061affc3aff15275419e0cad1cc00d0b512c7"
+  },
+  {
+    "path": "table-json/ABTestMiniQuestData.json",
+    "bytes": 385,
+    "sha256": "bcabb01427b9e89568602c4b440d97fbc6004b045530f1ad1714233fd91aa2fd"
+  },
+  {
+    "path": "table-json/AccessoryBaseData.json",
+    "bytes": 6388,
+    "sha256": "8315f9e20147ea3da25d88100a0b408f286195de203affaeb4e17cc40aac68ea"
+  },
+  {
+    "path": "table-json/AdventureInfoBaseData.json",
+    "bytes": 50642,
+    "sha256": "3c7ab1c7f9369d876fb08e7605b59f26268e2b1413cf469b87593f6b2a28c7b3"
+  },
+  {
+    "path": "table-json/AdventureWaveInfoBaseData.json",
+    "bytes": 181764,
+    "sha256": "056c2677bce894086ca49f78dccde17dc5f8993609cea3e4522b31b5daf007d4"
+  },
+  {
+    "path": "table-json/ArtifactBaseData.json",
+    "bytes": 4668,
+    "sha256": "4d55ebdb1a8cb8e9f8c184f92c6f3c8d892777dd64451a7f18722c0d9d1ffc34"
+  },
+  {
+    "path": "table-json/ArtifactConfigData.json",
+    "bytes": 417,
+    "sha256": "02188a4e3db31d54907c5c9cad0823b42800db2a84019059aee31f05e589c136"
+  },
+  {
+    "path": "table-json/ArtifactMasteryData.json",
+    "bytes": 7112,
+    "sha256": "57398105de25f7986248cfd037e0bf66b460c794ea887d5bfe84a7c57fb291c0"
+  },
+  {
+    "path": "table-json/AttendanceRewardBaseData.json",
+    "bytes": 954,
+    "sha256": "a70e8d874c6f83a97fa37fb520d11082d3501d099a49fd7be00cdea39c61db0d"
+  },
+  {
+    "path": "table-json/AwakeningAccessoryBaseData.json",
+    "bytes": 6488,
+    "sha256": "482a7c380323415741d6744a6f26f894bae74d3f8c1e566005a5e5e603afe27f"
+  },
+  {
+    "path": "table-json/AwakeningSlayerClassBaseData.json",
+    "bytes": 1888,
+    "sha256": "bcc1bdada35a3e44be764c92090e499e07d91105b32675f49f4777a9604d4c85"
+  },
+  {
+    "path": "table-json/AwakeningWeaponBaseData.json",
+    "bytes": 5596,
+    "sha256": "50369deea01eb4bc828dd250e32edbbfab38535a1874466aec14c354684a6412"
+  },
+  {
+    "path": "table-json/BeastAppearanceData.json",
+    "bytes": 9017,
+    "sha256": "e54567a8a1b40dd95c025440f59363396abb743c51532cde9c5d5464383f635a"
+  },
+  {
+    "path": "table-json/BeastAwakenData.json",
+    "bytes": 1091,
+    "sha256": "b505c317d2399d31ea8258e90e52e77586c5186619c260399da9852bdeb6e0fa"
+  },
+  {
+    "path": "table-json/BeastBeastData.json",
+    "bytes": 10556,
+    "sha256": "15187590aa8b8ffad62f295e786ed2d20cd8ed0dea224a1f2071bd4a97f0becd"
+  },
+  {
+    "path": "table-json/BeastConfigData.json",
+    "bytes": 498,
+    "sha256": "e2a4def6c76d1639efa6aa7baf631835bffde2468b8cecfa23534dcf61108c0b"
+  },
+  {
+    "path": "table-json/BeastLevelData.json",
+    "bytes": 11040,
+    "sha256": "63a99563c984787542cf2ee23f25397b9434e445ca89cacf72e59bbeb316acd5"
+  },
+  {
+    "path": "table-json/BeastScoutData.json",
+    "bytes": 6283,
+    "sha256": "ec747a337db4310fc925c1582d8e21074baab72a35278546769cb2db7f130d5f"
+  },
+  {
+    "path": "table-json/BeastShopData.json",
+    "bytes": 4443,
+    "sha256": "897506aadeee1a962409f742f14f26d463013f39f3b7d46daf55a024d8e25f30"
+  },
+  {
+    "path": "table-json/BeastSummonData.json",
+    "bytes": 19239,
+    "sha256": "3005035178d080804d1e00b868c085dfcf0ae275f7257a29c702a6c955f1dace"
+  },
+  {
+    "path": "table-json/BlackOrbAwakenData.json",
+    "bytes": 1065,
+    "sha256": "26d8460648c758013dd28a1b801b2e91aba79cfeb51cc4d65705efb4bbd3d098"
+  },
+  {
+    "path": "table-json/BlackOrbBaseData.json",
+    "bytes": 4342,
+    "sha256": "29cda3bcefa996bf5bb3006bd7c546384062fb92e792c52d1fbd34a766fd5ea9"
+  },
+  {
+    "path": "table-json/BlackOrbConfigData.json",
+    "bytes": 418,
+    "sha256": "078db04ad176dfaf2ff9c022637662a84f82f46f16acf6f5b59f3c2fb139b70a"
+  },
+  {
+    "path": "table-json/BlackOrbGachaData.json",
+    "bytes": 45097,
+    "sha256": "7c12993f7eab29ff6cae5e1b20569e97cb61fadbc332a553d9352753622b586b"
+  },
+  {
+    "path": "table-json/BlackOrbGradeData.json",
+    "bytes": 655,
+    "sha256": "d5e0f43c833c5aba9b984f902bdaea341aa0a75e9e39dba593907e0242bfb5dc"
+  },
+  {
+    "path": "table-json/BlackOrbHaveValueData.json",
+    "bytes": 238,
+    "sha256": "ed629df20e9fd41700b9ad72c9b46b92672d900a9b0dc27351af5b453d10f540"
+  },
+  {
+    "path": "table-json/BlackOrbLevelData.json",
+    "bytes": 8157,
+    "sha256": "299f0fa6eb726e62801957942458d801f247aa1fc8da5407a34e8cf2a33e1fc7"
+  },
+  {
+    "path": "table-json/BlackOrbMainAbilityAddValueData.json",
+    "bytes": 64,
+    "sha256": "04f3061944079f857bb8cca738f577ba0f14b61104e5178d7d059069d3a2ade5"
+  },
+  {
+    "path": "table-json/BlackOrbOptionData.json",
+    "bytes": 1109,
+    "sha256": "1b39b61eb6012586b2611c00978380e947ccfbfa328bcd368bc5f9af87266da4"
+  },
+  {
+    "path": "table-json/BlackOrbResonateData.json",
+    "bytes": 13989,
+    "sha256": "611360451977c41ea0fe4114438f2abd393f7a6ee6dc1e1e00b36d4ff2b5f5ef"
+  },
+  {
+    "path": "table-json/BlackOrbStageBlackManaInfoData.json",
+    "bytes": 21457,
+    "sha256": "cb3cb8c4832d7b49e8fa3ac6cfafff72f9dc9c79c7b1ecc7f46683b9950e7416"
+  },
+  {
+    "path": "table-json/CampaignEpisodeBaseData.json",
+    "bytes": 809,
+    "sha256": "8c21ea872e876cd10fc638121d7f4e9188a3e046bd8a2d3894e9e7e2b3276434"
+  },
+  {
+    "path": "table-json/CampaignEpisodeSubData.json",
+    "bytes": 1573,
+    "sha256": "9b0f4e5c0e0a5900b7ce241e84b4329920efbe136a7759dd065beb6f39061bba"
+  },
+  {
+    "path": "table-json/CampaignInfoBaseData.json",
+    "bytes": 136339,
+    "sha256": "c3ba8b4013b1d46e30013c6f8f077251c51b8305683a10446c8f9723095d01fd"
+  },
+  {
+    "path": "table-json/CampaignInfoSubData.json",
+    "bytes": 29083,
+    "sha256": "dd9411fe72e9186069ef162d86cad6a3fe2d3b1e5529137da83fd37c5bc4d591"
+  },
+  {
+    "path": "table-json/CampaignScenarioBaseData.json",
+    "bytes": 371896,
+    "sha256": "54204024549958caf9cbebca413d2620e4851ecf1816f4277e2f1b00d45343f6"
+  },
+  {
+    "path": "table-json/CampaignScenarioSubData.json",
+    "bytes": 352356,
+    "sha256": "5dd36318733476171cd556bfc4746c210b5963cba10bdd0660c330728a9c9dc2"
+  },
+  {
+    "path": "table-json/CampaignWaveInfoBaseData.json",
+    "bytes": 16008,
+    "sha256": "74a79ad03d423356e7bd7bd3686bf675e7e9d43f594afca1ab28e17aef5fd241"
+  },
+  {
+    "path": "table-json/CaveInfoBaseData.json",
+    "bytes": 950954,
+    "sha256": "d775d87e6e1f8444344632ccfb5ecb21f82bfc6cda41cb093c9ae6a232d090c2"
+  },
+  {
+    "path": "table-json/ConstantAchievementData.json",
+    "bytes": 245,
+    "sha256": "991e317cae9bd559ec324a846a87a1205b7e9f1a2d085157ec02568fc5ed5075"
+  },
+  {
+    "path": "table-json/ConstantConfigData.json",
+    "bytes": 245,
+    "sha256": "991e317cae9bd559ec324a846a87a1205b7e9f1a2d085157ec02568fc5ed5075"
+  },
+  {
+    "path": "table-json/ContentsOpenBaseData.json",
+    "bytes": 2864,
+    "sha256": "d981e1d74339154b3d6d66395f800e90d7bfd1661050c65d082089fca341134e"
+  },
+  {
+    "path": "table-json/ContentsOpenChannelBaseData.json",
+    "bytes": 14362,
+    "sha256": "6d97175aa27f4d9040db5b1610d8275385ef6cf776346a6ac3c5041e28aa2873"
+  },
+  {
+    "path": "table-json/ContentsOpenConditionData.json",
+    "bytes": 2166,
+    "sha256": "52a77947306390683f7533b9519c7e560f20a90679c156ec170024e79355566b"
+  },
+  {
+    "path": "table-json/CouponBaseData.json",
+    "bytes": 532,
+    "sha256": "825bd331668e9c275e3e52b3040c843e8f6594bbf4f6f4e92a70872e89314706"
+  },
+  {
+    "path": "table-json/CouponChatData.json",
+    "bytes": 143,
+    "sha256": "df311c59578b8aec9feaac23e05e809b7b4d544caaa0cbfcc5cea9a1e930b2f6"
+  },
+  {
+    "path": "table-json/CurrencyBaseData.json",
+    "bytes": 66075,
+    "sha256": "63094ad55e4961eaf761dc183304db4a95a252f7edf6172cc660f7eaa16f7c47"
+  },
+  {
+    "path": "table-json/DemonAltarData.json",
+    "bytes": 3946,
+    "sha256": "9d9053e8180de687605d2ed6305d794c8c590c5711e1541b65590fe059aef9c5"
+  },
+  {
+    "path": "table-json/DemonBaseData.json",
+    "bytes": 1082,
+    "sha256": "4baa8b413dfdea1bacb8b9ce65f83e8dac923e192d19c8f8855765810cfd0078"
+  },
+  {
+    "path": "table-json/DemonColorData.json",
+    "bytes": 847,
+    "sha256": "3395abda6ea939e3d6b41e2b8a558bd1e29a53afee7d2e8a5c3ac12fb36720ee"
+  },
+  {
+    "path": "table-json/DemonConfigData.json",
+    "bytes": 985,
+    "sha256": "31f6506b6332a546a8eda3a839da6b8f9534b06a9f31be5d4c1cdfabdee33a13"
+  },
+  {
+    "path": "table-json/DemonImmortalData.json",
+    "bytes": 68778,
+    "sha256": "d235f41c0a6c842a52014ca53a34cc6750e2b427356a37452d9555eda095edcd"
+  },
+  {
+    "path": "table-json/DemonImmortalRerollData.json",
+    "bytes": 888,
+    "sha256": "e44db8a5495a0dbf6183d2228eff43ca7bea3a6bc9b7aa897ef13b6c84bc07e7"
+  },
+  {
+    "path": "table-json/DemonImmortalSkillData.json",
+    "bytes": 1003,
+    "sha256": "af4f2563e0d6453b0cc8b5e5e569301244aa87cf7be78b8c970d8a97c41c92de"
+  },
+  {
+    "path": "table-json/DemonLevelData.json",
+    "bytes": 3763,
+    "sha256": "e26232cf342e8f1f16dce8a30e86e0d0f9c4908c5fbaa81975f5dada5f38f852"
+  },
+  {
+    "path": "table-json/DemonMasteryData.json",
+    "bytes": 41910,
+    "sha256": "7acbaeca1bafacb83711e456bed8af260e69aaffa968f566ec9b0003e1541c0e"
+  },
+  {
+    "path": "table-json/DemonSanctuaryData.json",
+    "bytes": 1948,
+    "sha256": "443e633879ad6ca1ccd881cdb681df2459b60e4debd707e0740f053da69bf583"
+  },
+  {
+    "path": "table-json/DemonSecretGateData.json",
+    "bytes": 465,
+    "sha256": "8fb860f8cae606bb7da40967996d9b9765d1907bdd2dadddc1bedfb26c7a3981"
+  },
+  {
+    "path": "table-json/DemonSkillData.json",
+    "bytes": 6922,
+    "sha256": "db193ed24e7c844c6af5522beacbe34af8456a1b1476c4451acc3bcba18e9ffa"
+  },
+  {
+    "path": "table-json/DialogueBaseData.json",
+    "bytes": 781506,
+    "sha256": "a594471a69b18773888b7e625281678b66f382e3fa28faf3e34357a687585ee3"
+  },
+  {
+    "path": "table-json/DialogueStoryBaseData.json",
+    "bytes": 161342,
+    "sha256": "b25cf1d8568c09c2ccc83e7f9fbf5ce9df0c1641fe4ba4f28ebbff52bcf58152"
+  },
+  {
+    "path": "table-json/DragonEmblemBattleInfoData.json",
+    "bytes": 22129,
+    "sha256": "45b6584a73f78f64deac0c5155ddb5ec81271ba0ffaf40f145dc1d6e9a3d3b8c"
+  },
+  {
+    "path": "table-json/DragonEmblemConfigData.json",
+    "bytes": 43,
+    "sha256": "74e773f030fe448fcfbf3e0ff9432f328d90eaa546982b117fb3f9f45a92306b"
+  },
+  {
+    "path": "table-json/DragonEmblemProbInfoData.json",
+    "bytes": 226,
+    "sha256": "f6f9114075a8a729d103dfe8552122962f9aab5fffe1db8e96252845c1733d3d"
+  },
+  {
+    "path": "table-json/DragonEmblemRandomPercentageInfoData.json",
+    "bytes": 480,
+    "sha256": "fb719aef01c6bc07f2ac58820318e0eb40115490498f40f98f8336e5eda3e06a"
+  },
+  {
+    "path": "table-json/DragonEmblemUpgradeInfoData.json",
+    "bytes": 19141,
+    "sha256": "e7f5e46b0d8893aed219d4441c738af641bb2247945dc10483560af6e60e68f4"
+  },
+  {
+    "path": "table-json/DragonValleyConfigData.json",
+    "bytes": 479,
+    "sha256": "b6f9b5a2f43e6964e45b0d5da3ad9a623457fd370669bdb39af0a386268887a4"
+  },
+  {
+    "path": "table-json/DragonValleyCookData.json",
+    "bytes": 2032,
+    "sha256": "d24d9e3bcc58de08dfd72fb88be8c1b3515742ff074c1ee62c2f180363689a56"
+  },
+  {
+    "path": "table-json/DragonValleyHallOfFameData.json",
+    "bytes": 137,
+    "sha256": "34b09dce09b9b6a5fbf9670c05ddd953623d809b82dd9623ea1c08b6c1db07c2"
+  },
+  {
+    "path": "table-json/DragonValleyHuntBattleData.json",
+    "bytes": 1314,
+    "sha256": "bb6ebf8f929acf9d40ee63fa9970bc573fdafb3ab5c8178ad8c1a6ecb5bb1a49"
+  },
+  {
+    "path": "table-json/DragonValleyRewardRankRewardData.json",
+    "bytes": 1180,
+    "sha256": "c88fc517b4d9c491a394310a09065b21423ba870cf8a3e0a144501ce96e3a4b6"
+  },
+  {
+    "path": "table-json/DragonValleyRewardSearchBoxData.json",
+    "bytes": 16312,
+    "sha256": "a151d279c4381c3dac62a9d070d9e5ec885b9b3cb196d645b8ae42cdd4a0178a"
+  },
+  {
+    "path": "table-json/DragonValleyRewardSearchCompleteRewardData.json",
+    "bytes": 403,
+    "sha256": "75890c5975286bd7d83fd5113b22cf16a179e50db5d1257a0ab5aedceb5ddde6"
+  },
+  {
+    "path": "table-json/DragonValleyRewardSeason3RankRewardData.json",
+    "bytes": 1180,
+    "sha256": "c88fc517b4d9c491a394310a09065b21423ba870cf8a3e0a144501ce96e3a4b6"
+  },
+  {
+    "path": "table-json/DragonValleyRewardSeason3SearchBoxData.json",
+    "bytes": 16312,
+    "sha256": "a27597e933524ed84949c0bd96bfd2161826098a31626b7e675165bb06aa7670"
+  },
+  {
+    "path": "table-json/DragonValleyRewardSeason3SearchCompleteRewardData.json",
+    "bytes": 403,
+    "sha256": "75890c5975286bd7d83fd5113b22cf16a179e50db5d1257a0ab5aedceb5ddde6"
+  },
+  {
+    "path": "table-json/DragonValleyRewardSeason3SpecialSearchBoxData.json",
+    "bytes": 585,
+    "sha256": "9725423775e0ef893ee4d7f921fc639a217e6aaf870089af7ee2d62e521fd685"
+  },
+  {
+    "path": "table-json/DragonValleyRewardSeason3TierRewardData.json",
+    "bytes": 2289,
+    "sha256": "f73d7c6729ee2e79069df3fdc3e218c51b20605a07e253af7e6e845146ef8149"
+  },
+  {
+    "path": "table-json/DragonValleyRewardSeason4RankRewardData.json",
+    "bytes": 1180,
+    "sha256": "c88fc517b4d9c491a394310a09065b21423ba870cf8a3e0a144501ce96e3a4b6"
+  },
+  {
+    "path": "table-json/DragonValleyRewardSeason4SearchBoxData.json",
+    "bytes": 16312,
+    "sha256": "34904cd0ad8b90ade4789c24f8b3c9933adc4d5474595a25ff1eeabe8254a20f"
+  },
+  {
+    "path": "table-json/DragonValleyRewardSeason4SearchCompleteRewardData.json",
+    "bytes": 403,
+    "sha256": "75890c5975286bd7d83fd5113b22cf16a179e50db5d1257a0ab5aedceb5ddde6"
+  },
+  {
+    "path": "table-json/DragonValleyRewardSeason4SearchDispatchBoxData.json",
+    "bytes": 5702,
+    "sha256": "2b4713d7daccd4f720364fc2e0135fc28d3cf7e93be7872bc6c7edb824dab76d"
+  },
+  {
+    "path": "table-json/DragonValleyRewardSeason4SpecialSearchBoxData.json",
+    "bytes": 351,
+    "sha256": "6671f1ede4c5c71c41e6a5ebd08f97ed20b52b8ae12d7e3b400b61ba440a5d51"
+  },
+  {
+    "path": "table-json/DragonValleyRewardSeason4TierRewardData.json",
+    "bytes": 2289,
+    "sha256": "424f76cfc1f3cd383c08b758478c2932276a08153d005d23eae4233fc14336ac"
+  },
+  {
+    "path": "table-json/DragonValleyRewardSeason5RankRewardData.json",
+    "bytes": 1180,
+    "sha256": "c88fc517b4d9c491a394310a09065b21423ba870cf8a3e0a144501ce96e3a4b6"
+  },
+  {
+    "path": "table-json/DragonValleyRewardSeason5SearchBoxData.json",
+    "bytes": 16312,
+    "sha256": "0aac49516965a78181c5b54ad7b1c7b2914b5e27d56e3dfc79dc2f96ab10da62"
+  },
+  {
+    "path": "table-json/DragonValleyRewardSeason5SearchCompleteRewardData.json",
+    "bytes": 403,
+    "sha256": "75890c5975286bd7d83fd5113b22cf16a179e50db5d1257a0ab5aedceb5ddde6"
+  },
+  {
+    "path": "table-json/DragonValleyRewardSeason5SpecialSearchBoxData.json",
+    "bytes": 840,
+    "sha256": "a2dcb2a138eddfe30ca885964988f3bad409bfc9f19126a18dcf99fd89174447"
+  },
+  {
+    "path": "table-json/DragonValleyRewardSeason5TierRewardData.json",
+    "bytes": 2289,
+    "sha256": "1c4467fdd0f9182b1baead333e92ca4e6a0256350a4c84bac6bd5514974100ae"
+  },
+  {
+    "path": "table-json/DragonValleyRewardSpecialSearchBoxData.json",
+    "bytes": 511,
+    "sha256": "7ca5f1b51f7d8a6f74d3411bda65f8623ec4cf3a4bfa4b3c78ffe609b2730fdb"
+  },
+  {
+    "path": "table-json/DragonValleyRewardTierRewardData.json",
+    "bytes": 2289,
+    "sha256": "8473df412956109670b9a889405fb4e0de0874de694d402b8d995419a9c1bdbd"
+  },
+  {
+    "path": "table-json/DragonValleySearchBattleData.json",
+    "bytes": 5937,
+    "sha256": "87a34a917c2d9aa17b4035a4a287eb543e005c162075ba99c6c2d718c04030a8"
+  },
+  {
+    "path": "table-json/DragonValleySearchData.json",
+    "bytes": 3717,
+    "sha256": "1ca54cde8e11fd4e3be8800964efd3d8be6cc1a6665ed4a23c559f62eeb95d7b"
+  },
+  {
+    "path": "table-json/DragonValleySearchFactorData.json",
+    "bytes": 12566,
+    "sha256": "6faee87fa9969d09f89ff3de227f6e93a95087727ef40ec4ae084bcb7366a3e3"
+  },
+  {
+    "path": "table-json/DragonValleySearchProbData.json",
+    "bytes": 657,
+    "sha256": "9041aaa8268d6352ffc66f098c594bd96d6c402489c78170c024a1570b0c4db4"
+  },
+  {
+    "path": "table-json/DragonValleySearchWaveData.json",
+    "bytes": 7596,
+    "sha256": "70fa26b37fca551d20381fde30bbdb9268b8aa8510c52a9f06b0973623b3eb45"
+  },
+  {
+    "path": "table-json/DragonValleySeason3ArchaeologyData.json",
+    "bytes": 1386,
+    "sha256": "5e6c297222f07e19f806106391e27e50a98763fc8d922e3e4159976e4610537c"
+  },
+  {
+    "path": "table-json/DragonValleySeason3ArchaeologyGemData.json",
+    "bytes": 4223,
+    "sha256": "c57e119cf1831753332b35452664026b9fa2427bd638feceea2ec34a6e69abb1"
+  },
+  {
+    "path": "table-json/DragonValleySeason3ArchaeologyIdentifyData.json",
+    "bytes": 3217,
+    "sha256": "b77f157f189c55f6806289899aa3a54822846e79f0801e66aa77eb8d57b11279"
+  },
+  {
+    "path": "table-json/DragonValleySeason3ArchaeologyTradeData.json",
+    "bytes": 16180,
+    "sha256": "f5dd711a05ef01af3127ee998879bb0f1cf03ff463bcf0aad9b6a9aadf8e191c"
+  },
+  {
+    "path": "table-json/DragonValleySeason3ConfigData.json",
+    "bytes": 470,
+    "sha256": "347c7da34e3d59c6699d8e20d08c60d10cf74e38309e76e0c2df19b1c21f404b"
+  },
+  {
+    "path": "table-json/DragonValleySeason3CookData.json",
+    "bytes": 2233,
+    "sha256": "bed17b0087005aee60a5b83a716df3e100462b3f9220c48c1b25e7f7c284db11"
+  },
+  {
+    "path": "table-json/DragonValleySeason3HallOfFameData.json",
+    "bytes": 209,
+    "sha256": "cfcfaecd0adec9ddcb7cdf3a51792ad9522b1ea5b88fa1917da3278e739ac3d2"
+  },
+  {
+    "path": "table-json/DragonValleySeason3HuntBattleData.json",
+    "bytes": 1314,
+    "sha256": "d01b2e16394fe1007f830b5f2f9e238cd153d524af33187d0207c81ba97cf085"
+  },
+  {
+    "path": "table-json/DragonValleySeason3SearchBattleData.json",
+    "bytes": 5937,
+    "sha256": "6589e8d3868767b3b5e2d5d842809da1edb65ee763958e6e17910c40c9ca94d5"
+  },
+  {
+    "path": "table-json/DragonValleySeason3SearchData.json",
+    "bytes": 4233,
+    "sha256": "8cb8f855a2b1d22a2c6757b41df58c67a21448134c434326980f2860c9362cb7"
+  },
+  {
+    "path": "table-json/DragonValleySeason3SearchFactorData.json",
+    "bytes": 12566,
+    "sha256": "619fb601d6c96e54192f086f7c0f09da7a532a179a99251242936691b1f76af0"
+  },
+  {
+    "path": "table-json/DragonValleySeason3SearchProbData.json",
+    "bytes": 658,
+    "sha256": "d522be8d8a3ecf820fc491cb30a4b3d7f4231913cd02386dce4375410b5e3009"
+  },
+  {
+    "path": "table-json/DragonValleySeason3SearchWaveData.json",
+    "bytes": 7596,
+    "sha256": "a9a302433ef267d4c11139fe8f0e8b1325e8127790dd31c3a534745a8eab1667"
+  },
+  {
+    "path": "table-json/DragonValleySeason3TierData.json",
+    "bytes": 923,
+    "sha256": "9e34aedf07915749919bce7e780a46d0ba5421d89f28fe41252329ca2e20f65a"
+  },
+  {
+    "path": "table-json/DragonValleySeason3TradeData.json",
+    "bytes": 49008,
+    "sha256": "b69a0a431ab25d0f384a9a6d48ee63d66060b451c3306b0a09d8f7b0c59a093c"
+  },
+  {
+    "path": "table-json/DragonValleySeason4ConfigData.json",
+    "bytes": 587,
+    "sha256": "02a3738f0248adf539f785a353019885a425d4ab0845849d9bb0d5fac1714c2f"
+  },
+  {
+    "path": "table-json/DragonValleySeason4CookData.json",
+    "bytes": 2292,
+    "sha256": "93ecc6786148670ffdb402a5f6eefbc102dd9a60e077922b336971af77a7118e"
+  },
+  {
+    "path": "table-json/DragonValleySeason4EtherCardData.json",
+    "bytes": 16505,
+    "sha256": "c5984cd391b9fe4cfb6659a0c4e694fd146995a0efbb5a93ba576e6c74d67137"
+  },
+  {
+    "path": "table-json/DragonValleySeason4EtherGradePoolData.json",
+    "bytes": 783,
+    "sha256": "809d1e07699cbb20323d3bbbf1daeb34c3440af079e8cffe2959d56317bd774a"
+  },
+  {
+    "path": "table-json/DragonValleySeason4EtherobotData.json",
+    "bytes": 3194,
+    "sha256": "6f9ad37d020067f8fe7e3aaf6ce48e02b18dad079e8de0c0aa58fc2aa0a50d62"
+  },
+  {
+    "path": "table-json/DragonValleySeason4EtherobotStatData.json",
+    "bytes": 970,
+    "sha256": "409336bee6eb5f23ab0bb8e41e3f2248e23b2d1a75f3c7084a184e63a42fa0e9"
+  },
+  {
+    "path": "table-json/DragonValleySeason4HallOfFameData.json",
+    "bytes": 349,
+    "sha256": "7a65d4bb0106ead4032c0aa25832023be2c2c87228e5156f1fae888abe52deb1"
+  },
+  {
+    "path": "table-json/DragonValleySeason4HuntBattleData.json",
+    "bytes": 1314,
+    "sha256": "d01b2e16394fe1007f830b5f2f9e238cd153d524af33187d0207c81ba97cf085"
+  },
+  {
+    "path": "table-json/DragonValleySeason4ScientistConfigData.json",
+    "bytes": 158,
+    "sha256": "ea9103b063719c99ac0f7e2a765b3b61a93938931e38b7bd860d73decbaf4f6e"
+  },
+  {
+    "path": "table-json/DragonValleySeason4SearchBattleData.json",
+    "bytes": 5937,
+    "sha256": "6589e8d3868767b3b5e2d5d842809da1edb65ee763958e6e17910c40c9ca94d5"
+  },
+  {
+    "path": "table-json/DragonValleySeason4SearchData.json",
+    "bytes": 4233,
+    "sha256": "8cb8f855a2b1d22a2c6757b41df58c67a21448134c434326980f2860c9362cb7"
+  },
+  {
+    "path": "table-json/DragonValleySeason4SearchFactorData.json",
+    "bytes": 13065,
+    "sha256": "e72c6218faca9bdc2c4650e6cc5dbfb82135f905e62e840b974c7dc9577fb307"
+  },
+  {
+    "path": "table-json/DragonValleySeason4SearchProbData.json",
+    "bytes": 657,
+    "sha256": "9041aaa8268d6352ffc66f098c594bd96d6c402489c78170c024a1570b0c4db4"
+  },
+  {
+    "path": "table-json/DragonValleySeason4SearchWaveData.json",
+    "bytes": 7716,
+    "sha256": "2ff536b96d02105d01fd3962a4758868cec535ff682e5c3d4db522114f0a2911"
+  },
+  {
+    "path": "table-json/DragonValleySeason4TierData.json",
+    "bytes": 923,
+    "sha256": "9e34aedf07915749919bce7e780a46d0ba5421d89f28fe41252329ca2e20f65a"
+  },
+  {
+    "path": "table-json/DragonValleySeason5ConfigData.json",
+    "bytes": 446,
+    "sha256": "957355efcea0f48c1760af5ce47e687ae2ec5bae11185715a102c3003580d5ac"
+  },
+  {
+    "path": "table-json/DragonValleySeason5CookConfigData.json",
+    "bytes": 121,
+    "sha256": "554fe3b8c17b1d599e8314fdfe2d6b2e67c82a4d906258a967e828be02da0937"
+  },
+  {
+    "path": "table-json/DragonValleySeason5CookData.json",
+    "bytes": 2299,
+    "sha256": "7bd6655cdae4636941a6e306a57809f87d6df29f304c27393cd4d5a205051d45"
+  },
+  {
+    "path": "table-json/DragonValleySeason5CookMaterialData.json",
+    "bytes": 4038,
+    "sha256": "47730770cded7d126e79d14383f8e81387cb1bc4785fa9888a67eb9cb771d7c9"
+  },
+  {
+    "path": "table-json/DragonValleySeason5EtherCardData.json",
+    "bytes": 22304,
+    "sha256": "dae667630b34e79c7e043c4778a8d9318a2d33d0cabd21f15c945ad72eb3e59c"
+  },
+  {
+    "path": "table-json/DragonValleySeason5EtherGradePoolData.json",
+    "bytes": 783,
+    "sha256": "809d1e07699cbb20323d3bbbf1daeb34c3440af079e8cffe2959d56317bd774a"
+  },
+  {
+    "path": "table-json/DragonValleySeason5HallOfFameData.json",
+    "bytes": 349,
+    "sha256": "7a65d4bb0106ead4032c0aa25832023be2c2c87228e5156f1fae888abe52deb1"
+  },
+  {
+    "path": "table-json/DragonValleySeason5HuntBattleData.json",
+    "bytes": 1314,
+    "sha256": "d01b2e16394fe1007f830b5f2f9e238cd153d524af33187d0207c81ba97cf085"
+  },
+  {
+    "path": "table-json/DragonValleySeason5SearchBattleData.json",
+    "bytes": 5937,
+    "sha256": "6589e8d3868767b3b5e2d5d842809da1edb65ee763958e6e17910c40c9ca94d5"
+  },
+  {
+    "path": "table-json/DragonValleySeason5SearchData.json",
+    "bytes": 4233,
+    "sha256": "8cb8f855a2b1d22a2c6757b41df58c67a21448134c434326980f2860c9362cb7"
+  },
+  {
+    "path": "table-json/DragonValleySeason5SearchFactorData.json",
+    "bytes": 13565,
+    "sha256": "b28fa34d8180c0f02caf2757724b04356f827c3af70e830eef78bd602e0511ee"
+  },
+  {
+    "path": "table-json/DragonValleySeason5SearchProbData.json",
+    "bytes": 657,
+    "sha256": "9041aaa8268d6352ffc66f098c594bd96d6c402489c78170c024a1570b0c4db4"
+  },
+  {
+    "path": "table-json/DragonValleySeason5SearchWaveData.json",
+    "bytes": 7666,
+    "sha256": "9ff051243a31390919fcaa10ebc7820cf886e2edbf9382eec9ebc7c785069001"
+  },
+  {
+    "path": "table-json/DragonValleySeason5SpecialCookData.json",
+    "bytes": 22883,
+    "sha256": "489941cd4c8cb439edafa5c625706c36c8c93f2dc2ed923b5292d2eaa4bbc9ba"
+  },
+  {
+    "path": "table-json/DragonValleySeason5TierData.json",
+    "bytes": 923,
+    "sha256": "9e34aedf07915749919bce7e780a46d0ba5421d89f28fe41252329ca2e20f65a"
+  },
+  {
+    "path": "table-json/DragonValleySeason5TradeData.json",
+    "bytes": 8090,
+    "sha256": "9407672996446a611838520eab5765c7ac584e5e16e7c59465e6b921ac459bb1"
+  },
+  {
+    "path": "table-json/DragonValleyTierData.json",
+    "bytes": 923,
+    "sha256": "9e34aedf07915749919bce7e780a46d0ba5421d89f28fe41252329ca2e20f65a"
+  },
+  {
+    "path": "table-json/DragonValleyTradeData.json",
+    "bytes": 49008,
+    "sha256": "b69a0a431ab25d0f384a9a6d48ee63d66060b451c3306b0a09d8f7b0c59a093c"
+  },
+  {
+    "path": "table-json/EmoticonBaseData.json",
+    "bytes": 962,
+    "sha256": "dbd3c02656b56d46bc4dc4ac39a9aa6bab1f99e8d3b2deb091af5e5a5d0da69d"
+  },
+  {
+    "path": "table-json/EmoticonPurchaseData.json",
+    "bytes": 217,
+    "sha256": "ed1b4e300439185be1e3b5d476dd3f9b944cdf52081e31e7a54db84fb8e9178d"
+  },
+  {
+    "path": "table-json/EquipmentBaseData.json",
+    "bytes": 5436,
+    "sha256": "0ef17190c101a0f8cd17a9e850f8115d5e410bf55e7c4314d7347d81ead1547e"
+  },
+  {
+    "path": "table-json/EquipmentGachaLevelBaseData.json",
+    "bytes": 2480,
+    "sha256": "bc02f610f28c015dbbbb4d8ce311eaaa533a4e0a97d427b07db41471a8f7ab35"
+  },
+  {
+    "path": "table-json/EquipmentGachaRewardBaseData.json",
+    "bytes": 757,
+    "sha256": "a314a86996022ef0ac2f51c2c600608baf6f441959f27c08961df959012bc6d0"
+  },
+  {
+    "path": "table-json/EquipmentInfoBaseData.json",
+    "bytes": 148418,
+    "sha256": "231b9f9cd9f701a9c7ba1419041c3ba1e3af00d3b32b4680248095be4b1063dd"
+  },
+  {
+    "path": "table-json/EquipmentRefineBaseData.json",
+    "bytes": 695,
+    "sha256": "8f31860875e5c495e6f8a18c70528326df8248cc8b28abd27f6ff04155d7d190"
+  },
+  {
+    "path": "table-json/EquipmentRefineConfigData.json",
+    "bytes": 53,
+    "sha256": "001ffa7c8190eb8519409f99679e0a60ef48aeafffd814fa1909bd37883bb7fe"
+  },
+  {
+    "path": "table-json/EventAttendanceBaseData.json",
+    "bytes": 5879,
+    "sha256": "d1fd155b24a7263b1f8bfa0ef7c270b59a833dfb3f7db43c1a7bc99af30d9d12"
+  },
+  {
+    "path": "table-json/EventBaseData.json",
+    "bytes": 11419,
+    "sha256": "ff2e37e8df0c77b1a622a6d4dbac17efabfa902c02463ca22f93a6bc9e878e6a"
+  },
+  {
+    "path": "table-json/EventBinGoBaseData.json",
+    "bytes": 3789,
+    "sha256": "4d2cf2528e8e3acd25932b568f792b5b9d3ff4f64caec9a231298c6653184d1e"
+  },
+  {
+    "path": "table-json/EventBinGoConfigData.json",
+    "bytes": 227,
+    "sha256": "18a80157c88a1c91b0bfba327e805ee156a8b7fc67d732509f325a2a2c4ed8c5"
+  },
+  {
+    "path": "table-json/EventBinGoLineRewardData.json",
+    "bytes": 1265,
+    "sha256": "861869101e8bc246daa8ce0719d83a2070a398a5dc36270253ae5e09c0f5582a"
+  },
+  {
+    "path": "table-json/EventBinGoTotalRewardData.json",
+    "bytes": 414,
+    "sha256": "19cf09dc1bd3b12a8bef30053e1e12eba17eb3dcdd08097cf6a90f44d471429a"
+  },
+  {
+    "path": "table-json/EventBluemarbleBaseData.json",
+    "bytes": 4307,
+    "sha256": "dc1aa944b1a1cd43ccd18cc9dd06d4f4778ef53f92c12f03b78535c6721e57a2"
+  },
+  {
+    "path": "table-json/EventBluemarbleConfigData.json",
+    "bytes": 67,
+    "sha256": "536398e36e2ed340eaa98eb34b74b582ddf51cdf172ced026424ae7ac0237b48"
+  },
+  {
+    "path": "table-json/EventBuffData.json",
+    "bytes": 8210,
+    "sha256": "eb07dd26297db835b2513cb252930db5b75666045443798814e013798c03a4c9"
+  },
+  {
+    "path": "table-json/EventBuffWeaponSkinData.json",
+    "bytes": 5238,
+    "sha256": "0e7d588100fd55a95719d8a33bda1fe1130a7993b0b9f0b1e5b1ed7d9de6693e"
+  },
+  {
+    "path": "table-json/EventDailyMissionData.json",
+    "bytes": 40638,
+    "sha256": "647b71c05f21e46aab51862660257a855ba91082f9efcd06b0869ce8d9458778"
+  },
+  {
+    "path": "table-json/EventFindBaseData.json",
+    "bytes": 1792,
+    "sha256": "2d57f22248d15e208dc3f093d13e3d5e6c61bd4a09903e17fee760232cb703d6"
+  },
+  {
+    "path": "table-json/EventFindConfigData.json",
+    "bytes": 169,
+    "sha256": "2664e274e535b978a447a04cf1dad401bbb446cdbcfac46581bedae4d650d166"
+  },
+  {
+    "path": "table-json/EventFindRewardData.json",
+    "bytes": 2053,
+    "sha256": "e9c191dec448b9251ea0fc8c21502be6484ca443c59319813b793e885b4e5b1a"
+  },
+  {
+    "path": "table-json/EventMinigameConfigData.json",
+    "bytes": 67,
+    "sha256": "4a3740811d7e1a225c89187c920b1d7807e607908664544bcd5755997c6b1811"
+  },
+  {
+    "path": "table-json/EventMinigameRewardData.json",
+    "bytes": 2044,
+    "sha256": "64cb56c100d20aa2195f6a0fc1d84169fdac9214056c92bd5229de2a151e3382"
+  },
+  {
+    "path": "table-json/EventPassRewardData.json",
+    "bytes": 158992,
+    "sha256": "70e8adba41f94fe10eeef86b691127ad01acab4db1decdd992f2464253502c72"
+  },
+  {
+    "path": "table-json/EventRPSGameConfigData.json",
+    "bytes": 160,
+    "sha256": "2934678c77f0dc193688d064453bae9f082ca19a310257043d137e739cb89fef"
+  },
+  {
+    "path": "table-json/EventRewardBaseData.json",
+    "bytes": 1948,
+    "sha256": "07fcdbff4a8abc1737670157af3c7e2a35b1d2efbb8def7827778e983fce53c2"
+  },
+  {
+    "path": "table-json/EventSecretCodeBaseData.json",
+    "bytes": 1889,
+    "sha256": "4b0fdbc2ac0f20533e6c76f7c583920d956910baadb5cd42b49093ce77cf7726"
+  },
+  {
+    "path": "table-json/EventSecretCodeConfigData.json",
+    "bytes": 67,
+    "sha256": "d3c377cef62a68bfda54d0521b502e1b786fe6dc8bb4eed3288165c2fc864b2b"
+  },
+  {
+    "path": "table-json/EventShopData.json",
+    "bytes": 319618,
+    "sha256": "4e9cb53535b613a5c5327b740f07f8b0a43a72201e181eecaf94d8b4affe0807"
+  },
+  {
+    "path": "table-json/EventShopGiftBaseData.json",
+    "bytes": 70,
+    "sha256": "47c8268173c6f9614d0a9e43d197d0995386dbc4aea13c500ea07a19ad913189"
+  },
+  {
+    "path": "table-json/EventShopGiftRewardData.json",
+    "bytes": 1026,
+    "sha256": "27dccb2a10ac3df6833800f373b9f3a1112da80b98b4bc06625defa8dbd51bde"
+  },
+  {
+    "path": "table-json/EventSkinShopData.json",
+    "bytes": 74440,
+    "sha256": "24569abdc7ac558183faffd356dcf15268f37424e62bf54de1b4fa33fa66d8a7"
+  },
+  {
+    "path": "table-json/EventSpecialPackageRewardData.json",
+    "bytes": 4673,
+    "sha256": "e5d27d2f93610480e3cdb31cfd0ad90c18853f96cacc4f8331f8b6ffaaa14c5e"
+  },
+  {
+    "path": "table-json/EventStepUpPackageRewardData.json",
+    "bytes": 40299,
+    "sha256": "a7cc0e81f2c4c18b0ec09481516ea5eb557fb6ac8b347baecc02dbd097e4605f"
+  },
+  {
+    "path": "table-json/FountainAwakenBaseData.json",
+    "bytes": 3162,
+    "sha256": "814ff0e9a29c5551dabbfefb5757303ca4a1170f7a046b24b86558c8a6940426"
+  },
+  {
+    "path": "table-json/FountainAwakenConfigData.json",
+    "bytes": 356,
+    "sha256": "27fc26dcb3a0273871ad8bcf75f0db074c6af83c2fcec7ce67161c76de05045a"
+  },
+  {
+    "path": "table-json/FriendBattleInfoBaseData.json",
+    "bytes": 99655,
+    "sha256": "123718660521ffc1028eed32162167552206a261ca48096588b698551e21ef93"
+  },
+  {
+    "path": "table-json/FriendClassBaseData.json",
+    "bytes": 23904,
+    "sha256": "5e89027c6f970f21332195be5c863a9ff5f54435940edde550e04502d9423f03"
+  },
+  {
+    "path": "table-json/FriendGradeFactorBaseData.json",
+    "bytes": 2949,
+    "sha256": "b04caee8777492b0dee6fdbee459912b86f1e4c27174b3ed8a2cba2a3711ab69"
+  },
+  {
+    "path": "table-json/FriendOptionValueBaseData.json",
+    "bytes": 1086,
+    "sha256": "dc9f71ba813b41030ad0445a3085a211c298fa2eceba75d5f6e7ab4c82ef410c"
+  },
+  {
+    "path": "table-json/FriendPassiveBaseData.json",
+    "bytes": 10630,
+    "sha256": "40fb27c14134b1e36df9d243f51f8ac1b45f4d309740f092263acd396848701e"
+  },
+  {
+    "path": "table-json/FriendPassiveDmgBaseData.json",
+    "bytes": 64306,
+    "sha256": "edbd02f922d04ffc7aba4b5b7890dd8181eeb1f1b2b054f74890d89597264f95"
+  },
+  {
+    "path": "table-json/GuildAssistData.json",
+    "bytes": 3731,
+    "sha256": "9e870e9632533593e64ad028450a49ad9896ddda99c01bc9643492bfcecb4053"
+  },
+  {
+    "path": "table-json/GuildBeastAbilityData.json",
+    "bytes": 3756,
+    "sha256": "09640b11a69a46c8623a10c207d07506a61df7a3e269c5c5d8058d24a5872804"
+  },
+  {
+    "path": "table-json/GuildBeastFriendshipData.json",
+    "bytes": 255,
+    "sha256": "704ce0211093420bbe8af86d06d27f9cae485001aafe80acfdea7632a49d5a9f"
+  },
+  {
+    "path": "table-json/GuildConfigData.json",
+    "bytes": 504,
+    "sha256": "3d531437dd583fb5ba9a1b890c463a100dd551e82588e7c814acc43f24455572"
+  },
+  {
+    "path": "table-json/GuildLevelData.json",
+    "bytes": 2665,
+    "sha256": "39a41ca21c3bad169da5f955bcfdb95624fe3edea872ec23386d038b1101a800"
+  },
+  {
+    "path": "table-json/GuildMemberCountData.json",
+    "bytes": 2559,
+    "sha256": "ddd798ebd4800dfa0722be59507ff0825b89cd39f2a42756eb18ce968cab6694"
+  },
+  {
+    "path": "table-json/GuildMiniGameMissionData.json",
+    "bytes": 3419,
+    "sha256": "805689548fd53dc076dced5a75c4a57ea60215bb902a76bf3110857fa4882b7f"
+  },
+  {
+    "path": "table-json/GuildMiniGameQuizConfigData.json",
+    "bytes": 205,
+    "sha256": "617d1e07091092c8f68d9b29079e6ef178c752311830054a8a67d9ea5950eda8"
+  },
+  {
+    "path": "table-json/GuildMiniGameQuizData.json",
+    "bytes": 844,
+    "sha256": "d41f5bf94319fe705452ec426ff89cd814b68ad2d01f9e37af29267d18819542"
+  },
+  {
+    "path": "table-json/GuildMiniGameSwordSparringConfigData.json",
+    "bytes": 154,
+    "sha256": "29425e6bcba788bb50df9ee7bcf0453249773e121d0afd50639aa5e3a9a75df8"
+  },
+  {
+    "path": "table-json/GuildMiniGameSwordSparringData.json",
+    "bytes": 6494,
+    "sha256": "4a5cc733d4891393b15f3ac6ece1aa01ba6db2670662c27bc08d45797d2e07e2"
+  },
+  {
+    "path": "table-json/GuildQuestBaseData.json",
+    "bytes": 875,
+    "sha256": "d9e99631d13e814d9f04bf7a08e0a84180587b3cbae9652258895aeb51efef37"
+  },
+  {
+    "path": "table-json/GuildQuestBattleInfoData.json",
+    "bytes": 6725,
+    "sha256": "eba7bbe4cd336bd98b627218628348d6adb7b0875fc57053bb4a7d5650a18754"
+  },
+  {
+    "path": "table-json/GuildQuestBattleMonsterBaseData.json",
+    "bytes": 2188,
+    "sha256": "d9bb33128bcf6d735b7f20c0f037b057b8cd104d700c77cc01b573716bd20073"
+  },
+  {
+    "path": "table-json/GuildQuestBattleWaveInfoData.json",
+    "bytes": 2683,
+    "sha256": "e2b5ebeb62d85389bfcbe10bd8100b909d77218f0c9ddc259ff7b25ff0ee6426"
+  },
+  {
+    "path": "table-json/GuildQuestDmgTypeInfoData.json",
+    "bytes": 4826,
+    "sha256": "16542bbc5e6369b8d048812f7be6aa924442533935f142de4b5fdd4791fa0efb"
+  },
+  {
+    "path": "table-json/GuildQuestFieldEffectData.json",
+    "bytes": 30372,
+    "sha256": "1ee35305440ddf07a1c4039106ddd0e2066216a95dacbc9e8506c2933e9a29db"
+  },
+  {
+    "path": "table-json/GuildQuestGuildRewardData.json",
+    "bytes": 3146,
+    "sha256": "b81643b155fbff2f47d2245dd31025dbe0d7229c7beafff1eab31b426b37275c"
+  },
+  {
+    "path": "table-json/GuildQuestPersonalRewardData.json",
+    "bytes": 27738,
+    "sha256": "bbdbe6b424125832a5a3a72523419f19d298d5118c453a51c4c4743c8e319c98"
+  },
+  {
+    "path": "table-json/GuildShopCycleData.json",
+    "bytes": 3504,
+    "sha256": "6847c747c80967a6d8c8b932edcd9b77086085f276c2b16b2a86808c38b1b653"
+  },
+  {
+    "path": "table-json/GuildShopData.json",
+    "bytes": 6585,
+    "sha256": "c59c5c42a00fbb6b7c0d94a7985fe9d980b1f227178ac8e5f552e9d52f42e475"
+  },
+  {
+    "path": "table-json/GuildShopUnlockData.json",
+    "bytes": 1784,
+    "sha256": "75dd9f853d1cc184c6892d0ba181607aad1022fb1e744dae33428e7261a37699"
+  },
+  {
+    "path": "table-json/ImmortalTreeConfigData.json",
+    "bytes": 205,
+    "sha256": "f7d2e00264523e71ae07a2d5482adffa2b8a6a7ebc9797085e9f42745212437c"
+  },
+  {
+    "path": "table-json/ImmortalTreeFactorData.json",
+    "bytes": 240,
+    "sha256": "d152ee47fc49dab526887145bb96beee286eb68b62b88ebcf414104955ad2ddf"
+  },
+  {
+    "path": "table-json/ImmortalTreeGetCurrencyInfoData.json",
+    "bytes": 3136,
+    "sha256": "42d8ea6b37289c96dbebe3708424463dd8d463fe0a414f1c4e2d4009b7271d97"
+  },
+  {
+    "path": "table-json/ImmortalTreeMainNodeData.json",
+    "bytes": 1577,
+    "sha256": "15e30c4ac2d1b5976ad3b8c776450544b649d46d806e0ad330f601d906f4ed34"
+  },
+  {
+    "path": "table-json/ImmortalTreeSubNodeData.json",
+    "bytes": 44536,
+    "sha256": "30d4e51497785ab7645e7192f7b749d359be6d7b21ff7fb6e50fcf450c3314b5"
+  },
+  {
+    "path": "table-json/ImmortalTreeUpgradeData.json",
+    "bytes": 9687,
+    "sha256": "ec843c3363f9b44b777245224972020f3533a0fac6992ce8d23ede22c5fa282f"
+  },
+  {
+    "path": "table-json/InvitationInfoBaseData.json",
+    "bytes": 317,
+    "sha256": "0e186176aa02874810e28624afb03361f78ef034b32ad6eecc62ba09ae9da417"
+  },
+  {
+    "path": "table-json/InvitationInfoCheerupRewardData.json",
+    "bytes": 533,
+    "sha256": "c885b975695e911400ef042817c7642939ff5ce36bef960fb212e982e2633ff0"
+  },
+  {
+    "path": "table-json/InvitationInfoInviteRewardData.json",
+    "bytes": 502,
+    "sha256": "6bb92bf7e856f31b2b20219e6773ee2d4d82d4d8da7559998d5205c4b09952fc"
+  },
+  {
+    "path": "table-json/ItemInfomationBaseData.json",
+    "bytes": 18793,
+    "sha256": "746ef49de2be43efb1dbb2ab5d78d204c4bbea1a347a17216d5a011023c379fb"
+  },
+  {
+    "path": "table-json/KnowledgeInfoBaseData.json",
+    "bytes": 314904,
+    "sha256": "5b125f461a6152bb20029a88591d0b850ed63be734fdb44c6ce50970621e929e"
+  },
+  {
+    "path": "table-json/KnowledgeInfoSuperCriticalBaseData.json",
+    "bytes": 3973,
+    "sha256": "15d7b0c5b9f70da4250e2034ac0aeaa0daf9c1cb85e702036d3a65f055ad2ad8"
+  },
+  {
+    "path": "table-json/MineInfoBaseData.json",
+    "bytes": 1413133,
+    "sha256": "25d0dbbafd55855a8db93e031d2e24c4d60e9fc7c68668e5b5f0ea24c32ad0bd"
+  },
+  {
+    "path": "table-json/MineWaveInfoBaseData.json",
+    "bytes": 1106264,
+    "sha256": "7412bd01cc4a56780cde40fd2ad62dadcb8bf98407cb92ecdb5bf8a519b5e47d"
+  },
+  {
+    "path": "table-json/MiniQuestBaseData.json",
+    "bytes": 18749,
+    "sha256": "c27b47d3ec0d27711299943b697f6ad5a9fa61fc75cc39af6cbb9fab56ac0e5f"
+  },
+  {
+    "path": "table-json/MinigameBalloonBaseData.json",
+    "bytes": 1095,
+    "sha256": "607ba397cb7b1ad6622d0023b64feae943500e178f3da5d3c7adee2e0223c998"
+  },
+  {
+    "path": "table-json/MinigameBalloonConfigData.json",
+    "bytes": 68,
+    "sha256": "b22c5cd9e1f70e29b6c1c11b95e226b7ab35a86247c63aecac93943cceb7c026"
+  },
+  {
+    "path": "table-json/MinigameCardMatchingBaseData.json",
+    "bytes": 448,
+    "sha256": "9fd3a183b4ad7271391ea3de41bbdf87285f17f7af280abe633262c08e90d6eb"
+  },
+  {
+    "path": "table-json/MinigameCardMatchingConfigData.json",
+    "bytes": 67,
+    "sha256": "4a3740811d7e1a225c89187c920b1d7807e607908664544bcd5755997c6b1811"
+  },
+  {
+    "path": "table-json/MinigameCardMatchingRewardData.json",
+    "bytes": 2044,
+    "sha256": "64cb56c100d20aa2195f6a0fc1d84169fdac9214056c92bd5229de2a151e3382"
+  },
+  {
+    "path": "table-json/MinigameDefenseConfigData.json",
+    "bytes": 90,
+    "sha256": "da5d6726d830926c3033d529b09130a4a5729b00194f6edcb33964b341ccc7b4"
+  },
+  {
+    "path": "table-json/MinigameDefenseDifficultyData.json",
+    "bytes": 130,
+    "sha256": "3fe79c92441aecf78f1d2da0fca412eaea65da3c46fde96f7b6f185616bd60b1"
+  },
+  {
+    "path": "table-json/MinigameDefenseRewardData.json",
+    "bytes": 2405,
+    "sha256": "38bd941073246ebbfe69397b128b0cc83c634452bf9ebda92d8f97ec3c1736bc"
+  },
+  {
+    "path": "table-json/MinigameFishingBaseData.json",
+    "bytes": 152,
+    "sha256": "3dbded2d74bfef2eb360e9164ec37296a6adb86c63fd870c8466ad9b0ece026f"
+  },
+  {
+    "path": "table-json/MinigameFishingConfigData.json",
+    "bytes": 67,
+    "sha256": "3633746210887bcf4244d33e28569fab5d323246d8d21d2d64a5682d9be726f2"
+  },
+  {
+    "path": "table-json/MinigameFishingDifficultyData.json",
+    "bytes": 1065,
+    "sha256": "bd7cbef96cf90fea80dda86566430a01a8ff6f085ce3b3af4444259af2b4969c"
+  },
+  {
+    "path": "table-json/MinigameFishingRewardData.json",
+    "bytes": 1223,
+    "sha256": "b5ffb7805d9ce525a4e6c8a53ebb5d2f7192a0e25932dc5816ba8cc4423fcccf"
+  },
+  {
+    "path": "table-json/MinigameFlappyBirdBaseData.json",
+    "bytes": 2048,
+    "sha256": "b4718b9c2329c9223d3e40edce9cf826f84d1eb320f20e9caf87d6c4aa95f25f"
+  },
+  {
+    "path": "table-json/MinigameFlappyBirdConfigData.json",
+    "bytes": 90,
+    "sha256": "80299574667ea5cf15c3263a0af37aefd5a3bc946667a2341fba9bb2de5327c4"
+  },
+  {
+    "path": "table-json/MinigameFlappyBirdPresentCountData.json",
+    "bytes": 182,
+    "sha256": "641aa918d33e1458611667b17575242097df0b8c698ef0861e85ad9581eca054"
+  },
+  {
+    "path": "table-json/MinigameFlappyBirdRewardData.json",
+    "bytes": 2405,
+    "sha256": "b7ad78a9ebc3454ec5a00cf47be2f8a25ce434140dbbb3cc0eb38b8bffbc4419"
+  },
+  {
+    "path": "table-json/MinigameFruitBaseData.json",
+    "bytes": 171,
+    "sha256": "58c0bc445b6ca2bff285615daa51f4fdfe66215af8d6f937428c9220c5c79abd"
+  },
+  {
+    "path": "table-json/MinigameFruitFruitData.json",
+    "bytes": 854,
+    "sha256": "9fd9cd3983a00377711f3bca45de44ccc50c57508e65dff206d558a6248add32"
+  },
+  {
+    "path": "table-json/MinigameFruitRewardData.json",
+    "bytes": 2044,
+    "sha256": "64cb56c100d20aa2195f6a0fc1d84169fdac9214056c92bd5229de2a151e3382"
+  },
+  {
+    "path": "table-json/MinigameFruitWaveData.json",
+    "bytes": 1114,
+    "sha256": "c18b1b3e01a7e611e1626bfd471daa3238c61149912815046feb2320cd38d4ab"
+  },
+  {
+    "path": "table-json/MinigameMoleBaseData.json",
+    "bytes": 216,
+    "sha256": "60ebaefdcbcf8974f63daaac03078682ec3c457079aa6559f13a25b595e6c1e8"
+  },
+  {
+    "path": "table-json/MinigameMoleMoleData.json",
+    "bytes": 689,
+    "sha256": "297df73e1b44e652fa8941c8c537aaefa7a64f7a4ff2c3c15faf484e5fe20101"
+  },
+  {
+    "path": "table-json/MinigameMoleRewardData.json",
+    "bytes": 2044,
+    "sha256": "64cb56c100d20aa2195f6a0fc1d84169fdac9214056c92bd5229de2a151e3382"
+  },
+  {
+    "path": "table-json/MinigameMoleWaveData.json",
+    "bytes": 4435,
+    "sha256": "b9a1d3945fe460e7952ba87a7cd40fd5bead3df31b653056896600ade700ec7b"
+  },
+  {
+    "path": "table-json/MinigameRaceBaseData.json",
+    "bytes": 92,
+    "sha256": "c611d07d65f832081e951baf2161ff10eceb928a3a72966dfb88899b446af3ad"
+  },
+  {
+    "path": "table-json/MinigameRaceRaceData.json",
+    "bytes": 26360,
+    "sha256": "f28932a64c1cc910b153d0fd55716e8cd90df50dcafdefcbe257e6f08fe97ebd"
+  },
+  {
+    "path": "table-json/MinigameRaceRewardData.json",
+    "bytes": 2853,
+    "sha256": "b6c3b9d82a41bc5d63c3d4a5547c53ebf0a1835a8e0cabd1628b965ddfc3b768"
+  },
+  {
+    "path": "table-json/MinigameRetryTypeConfigData.json",
+    "bytes": 266,
+    "sha256": "6abba06ccd9a1b24d17f65220ab4d87331b3de5423a10bd49ba9e8ffe742228f"
+  },
+  {
+    "path": "table-json/MinigameRetryTypeRewardAmountData.json",
+    "bytes": 1314,
+    "sha256": "5f578ff12e5d61e0044dff458f37b55eadd3e06dd5c87aa3ba9bb25a8a169e8d"
+  },
+  {
+    "path": "table-json/MinigameRetryTypeRewardData.json",
+    "bytes": 7865,
+    "sha256": "143612a57bae640ca41583b6ba9283e29bae7b124f4c234fd2c56241ca189d75"
+  },
+  {
+    "path": "table-json/MinigameRhythmBaseData.json",
+    "bytes": 2432,
+    "sha256": "3c3ef30ebe56ac728bcb005b4b8072ddf7a6cb6fd00fde557da6027c27646de6"
+  },
+  {
+    "path": "table-json/MinigameRhythmBaseMRData.json",
+    "bytes": 1838,
+    "sha256": "075bc3c592e69868db43e41bc07f44206316de8ac4d4f46c73f84fbcc76f5879"
+  },
+  {
+    "path": "table-json/MinigameRhythmConfigData.json",
+    "bytes": 67,
+    "sha256": "ffc43c150d5322a74b36226533880a8a5f10c424313fe7b699a4795577533d79"
+  },
+  {
+    "path": "table-json/MinigameRhythmRewardAmountData.json",
+    "bytes": 323,
+    "sha256": "0acbc1e29908e5b38385ee541d2c4f382788969820a7e835ad96d7794587afca"
+  },
+  {
+    "path": "table-json/MinigameRhythmRewardData.json",
+    "bytes": 1796,
+    "sha256": "e1ba0129b59dad3fb3ae1db30fe7bf475ee8128fc58a432cc8ea9bb949e4182d"
+  },
+  {
+    "path": "table-json/MinigameShootingConfigData.json",
+    "bytes": 280,
+    "sha256": "a71bbe784ad3eb8e6ecb4b8a5bd04b3ba5761bd155848f3b13b9355b77ce4bf6"
+  },
+  {
+    "path": "table-json/MinigameShootingDefaultScoreData.json",
+    "bytes": 2699,
+    "sha256": "c5a39baa789063ab04a61aefef92d8f0f732a5fc1d4a983cc06518672ee98f5d"
+  },
+  {
+    "path": "table-json/MinigameShootingEnemyInfoData.json",
+    "bytes": 530,
+    "sha256": "68d54cf1c8dfb1040f25726212146c83215bfaa4fd26473f8af9465e7cf4c1e2"
+  },
+  {
+    "path": "table-json/MinigameShootingEnemyTypeData.json",
+    "bytes": 4766,
+    "sha256": "aaa4af45ac51684405d8e478b1d0e7988b6366d7b323514f802d041a8d3e0b6e"
+  },
+  {
+    "path": "table-json/MinigameShootingLevelUpData.json",
+    "bytes": 520,
+    "sha256": "21282f33d4cbd9511a6ab1c948a90467eaa85bef213de7b92d17dff5deb17bc3"
+  },
+  {
+    "path": "table-json/MinigameShootingWaveInfoData.json",
+    "bytes": 1009,
+    "sha256": "313956e73617ad2d1866807259eed9aca3c31d54f5ce32289bce85e70cea68f4"
+  },
+  {
+    "path": "table-json/MinigameStackingBaseData.json",
+    "bytes": 1673,
+    "sha256": "d28c3db5026e385ea2e2a2df412b92466ae1713149b791b5e8c3c4e6e40845c0"
+  },
+  {
+    "path": "table-json/MinigameStackingConfigData.json",
+    "bytes": 67,
+    "sha256": "36a72317d9d64137b9a2098d33d49ab382b96d82b8351190e683963e80ad442a"
+  },
+  {
+    "path": "table-json/MinigameStackingCustomerAppearanceData.json",
+    "bytes": 1140,
+    "sha256": "ccb1be0f1ac56d5e08a2ab844e299aa49e59348882738745f6256da5c95e8d7a"
+  },
+  {
+    "path": "table-json/MinigameStackingRewardData.json",
+    "bytes": 2041,
+    "sha256": "6f6b856c699a261250868d8d11f07c7824544e1790a20ccf0b4c52dbb75ae0c0"
+  },
+  {
+    "path": "table-json/MonsterDistanceInfoBaseData.json",
+    "bytes": 3802,
+    "sha256": "539aa111876cb76a44e117705693889a9809c5186f5d104f8600a29f79e68fa5"
+  },
+  {
+    "path": "table-json/MonsterInfoBaseData.json",
+    "bytes": 209669,
+    "sha256": "43dbd977dd13831b6f1020f82d8ecc1ea18936d73914929aca77eb5c97046435"
+  },
+  {
+    "path": "table-json/NewUserAttendanceBaseData.json",
+    "bytes": 9133,
+    "sha256": "17f76c9cb2e904d473b41dd99b10e2388c6ba8886482b274aa1e43a383e3ff8a"
+  },
+  {
+    "path": "table-json/NewUserAttendanceHighSlayerBaseData.json",
+    "bytes": 5263,
+    "sha256": "81b2d075ee8582d397aa31cbf7891763b1b5efe84a37ab2846e6959a0a19d843"
+  },
+  {
+    "path": "table-json/NewUserAttendanceHighSlayerScoreData.json",
+    "bytes": 994,
+    "sha256": "4aa1da3715d051ae0bc6cf9890bf7c7618587e74e18b14f32b227254c2270844"
+  },
+  {
+    "path": "table-json/NewUserAttendanceMiddleSlayerBaseData.json",
+    "bytes": 4578,
+    "sha256": "30574954e0668fe75d0b6812df0a068701894642ca0afa73c73c1ddb0a7bfd8b"
+  },
+  {
+    "path": "table-json/NewUserAttendanceMiddleSlayerScoreData.json",
+    "bytes": 994,
+    "sha256": "97ae13a8a426a3b60e886c07dc6c03377d2e5475b9b0cb372dedb19bf6ce45c0"
+  },
+  {
+    "path": "table-json/NewUserAttendanceScoreData.json",
+    "bytes": 996,
+    "sha256": "40cf853d3d5fe2df0d94e893830748f85fb617de60c757050f4181374ccb8479"
+  },
+  {
+    "path": "table-json/NewUserGrowthMailData.json",
+    "bytes": 803,
+    "sha256": "86fea9cfddc22ca8a726f5836f64293b2bc23d6e70fb25fc62a73b24551a9c5d"
+  },
+  {
+    "path": "table-json/NewUserWelcomInfoBaseData.json",
+    "bytes": 8706,
+    "sha256": "1d27f95f8954f0209319f07a8db6c9045b938f70ecb87da3d662ba5dc08d35b6"
+  },
+  {
+    "path": "table-json/NewUserWelcomInfoConfigData.json",
+    "bytes": 87,
+    "sha256": "aa15ba8ad10dad1d005421d7da7c926b450de3074154585555789d1a656fdc71"
+  },
+  {
+    "path": "table-json/NewUserWelcomInfoRewardData.json",
+    "bytes": 282,
+    "sha256": "fe416a37e936cb0aa4017e279d713e3ddf964bfc3afd19d30f5e421af5ddd29d"
+  },
+  {
+    "path": "table-json/OptionValueBaseData.json",
+    "bytes": 1270,
+    "sha256": "3bec7f764bd02792d37cd873e07927286d7e9447371657189abfe5bb4c8d183f"
+  },
+  {
+    "path": "table-json/PastProductBaseData.json",
+    "bytes": 6203,
+    "sha256": "9546b08e7ace317386508daefc4942e18e6e6e85975e6750e1c33c5fdfe910b1"
+  },
+  {
+    "path": "table-json/PlayerClassBaseData.json",
+    "bytes": 19991,
+    "sha256": "103cb81cb0fb2e0d0766f58fcbcb966b73a946cf4be7ccefe413ff5c8b880141"
+  },
+  {
+    "path": "table-json/PlayerClassBattleWaveInfoData.json",
+    "bytes": 17083,
+    "sha256": "c84eb2cb159b53bd0268a86f75426cd37ef58748603f41d7121a08f36c4735da"
+  },
+  {
+    "path": "table-json/PlazaConfigData.json",
+    "bytes": 107,
+    "sha256": "abc1db1efd1a2c8cdd42f51f746ec4dcb2214b75dba6ceee9dacfdfefda1fc20"
+  },
+  {
+    "path": "table-json/PlazaFountainConfigData.json",
+    "bytes": 100,
+    "sha256": "6a018ed5201e1542e318b4459d9ce6bed823a5bc53deff72d01de069407fe6c0"
+  },
+  {
+    "path": "table-json/PlazaFountainPrizeData.json",
+    "bytes": 11027,
+    "sha256": "ede75f8272b1579b8f8a694491129336ef958f3031c01263ec70b343978bcc8d"
+  },
+  {
+    "path": "table-json/PlazaFountainRewardData.json",
+    "bytes": 1769,
+    "sha256": "2ff22ffb8bc663beffc4dda7825afad0a23075ec420cd9d96691af29b735ea17"
+  },
+  {
+    "path": "table-json/PlazaMegaphoneConfigData.json",
+    "bytes": 128,
+    "sha256": "d5cefb0507aec65d31aab1b0e38c487ed7b20d4ca194030eb0039cc385cb0e25"
+  },
+  {
+    "path": "table-json/PlazaQuestData.json",
+    "bytes": 2012,
+    "sha256": "f5c34f8f1fdb32ad385ef476db8edb48755b4c27a7ee11f57faf8bf1ae3c5a82"
+  },
+  {
+    "path": "table-json/PlazaQuestDetailData.json",
+    "bytes": 23713,
+    "sha256": "44d76f6cd3915219f9fdcddd3f94c9496a958035ae52538726eec9e83b013f12"
+  },
+  {
+    "path": "table-json/PlazaQuestNpcData.json",
+    "bytes": 4921,
+    "sha256": "10d28a626868a4fecb896f28d50d3fdf0225e8a33e554fae41eb10d115e0f42e"
+  },
+  {
+    "path": "table-json/PlazaTarotCardData.json",
+    "bytes": 4794,
+    "sha256": "31ca9cf78e9fb11fc520acf0ec2dfa5f0b5d4881d34d25e4885958a508ec0a88"
+  },
+  {
+    "path": "table-json/PresetBattlePlayerPresetData.json",
+    "bytes": 2207,
+    "sha256": "ef1c0a6397e6e65f36d83b0a5ba15ddeefff98042d9c616312f410225076d14e"
+  },
+  {
+    "path": "table-json/ProductBaseData.json",
+    "bytes": 93989,
+    "sha256": "58e80906baa363ca3c775e51333bd82f19a11004e9d51e8da37f0b569b9b8597"
+  },
+  {
+    "path": "table-json/ProductRewardData.json",
+    "bytes": 32148,
+    "sha256": "0aa8832aa431a28db654398067c2e848820b5496d1f5424894cd92ef3e41bad3"
+  },
+  {
+    "path": "table-json/PromotionPassQuizData.json",
+    "bytes": 3658,
+    "sha256": "0d33e1e616039d01ddb413dfffacc8798b2b6ef7d44ac54067ee099f093dd077"
+  },
+  {
+    "path": "table-json/PromotionPassRewardData.json",
+    "bytes": 2302,
+    "sha256": "f1b4f67ea122ac4820916e08e18d1252e9c004eabd614c57267d18b8d30ffc0a"
+  },
+  {
+    "path": "table-json/QuestAchievementData.json",
+    "bytes": 469,
+    "sha256": "7db2275b509679014d1955fe13f021b8a667176eab5d53850d71120be9215e6e"
+  },
+  {
+    "path": "table-json/QuestDailyData.json",
+    "bytes": 458,
+    "sha256": "311a2ea495c1c342799e2a3717927be4cb52550e2b339bc9c4f250fbde7b8841"
+  },
+  {
+    "path": "table-json/QuestRepeatData.json",
+    "bytes": 776,
+    "sha256": "339bfa2b85c153469a91007a29d10bfa4d1b469a671f3525ef5032c0092ceafb"
+  },
+  {
+    "path": "table-json/RandomRewardBoxBaseData.json",
+    "bytes": 69,
+    "sha256": "0d247e29411ab9fcaf174945936f006b49cbe878aa3c74a3de7ae5479e4ddfd0"
+  },
+  {
+    "path": "table-json/RandomRewardBoxBoxData.json",
+    "bytes": 3559,
+    "sha256": "46837aa19c63c9405b60410071142af9aaceab911ffb1a48cdfe5daaf0678334"
+  },
+  {
+    "path": "table-json/RandomRewardBoxGroupData.json",
+    "bytes": 48436,
+    "sha256": "6625536477f5f290afe8adbce4ff3ec90d30a77f647f422e002c75ec7fd036b6"
+  },
+  {
+    "path": "table-json/RankingBattleModeBaseData.json",
+    "bytes": 3480,
+    "sha256": "a8cccba630834af14378f8a82fd8728b1d2884bae7d1e4325884bdead4d1c2ae"
+  },
+  {
+    "path": "table-json/RankingBattleModeBattleInfoData.json",
+    "bytes": 410,
+    "sha256": "068f9fd3b7f66ba602fe4b9422a3a20430d0068cddb7767f73bf87b947f6aeec"
+  },
+  {
+    "path": "table-json/RankingBattleModeBossAppearanceInfoData.json",
+    "bytes": 49260,
+    "sha256": "d801638019cbfe35a5145e758cd0a2ee4012d275a4c303a8ae3826ce9a0475d9"
+  },
+  {
+    "path": "table-json/RewardBaseData.json",
+    "bytes": 892,
+    "sha256": "6bf5b7e2898ece3025ec81de2483d8fc08636b40f17c63fd93bc50a9ee4b4b1c"
+  },
+  {
+    "path": "table-json/RewardGroupData.json",
+    "bytes": 2164,
+    "sha256": "64bf642a72f1001688fce329b6bae77da5620cd2e403a76b3716248524f9d826"
+  },
+  {
+    "path": "table-json/SeasonBuffBaseData.json",
+    "bytes": 494,
+    "sha256": "477f0c3d8dbde3d3b2d78cf5c90988ce7612e8b3304fea3117a8d2225169834c"
+  },
+  {
+    "path": "table-json/SeasonRankingBattleData.json",
+    "bytes": 45532,
+    "sha256": "ac6bf0f97ba7e0e3cf52c37c70948c8382a1febd0b27c7a44f6a05bd2f7192e9"
+  },
+  {
+    "path": "table-json/SeasonRankingBattleRewardData.json",
+    "bytes": 12139,
+    "sha256": "8240e0253ed06d61647ccf2df71ecef608762b146b383965066ca6597a10f1ed"
+  },
+  {
+    "path": "table-json/SeasonRankingPlayConfigData.json",
+    "bytes": 240,
+    "sha256": "08a2db6ddf7f447868ebca3cc8562eb5d8dad12efdb7449d696edc57f59d40ff"
+  },
+  {
+    "path": "table-json/SeasonRankingPlayPriceData.json",
+    "bytes": 1778,
+    "sha256": "795666c58c822ba7c0db4c5d79a5ac9620419405a0064caacee17349ec09970b"
+  },
+  {
+    "path": "table-json/SeasonRankingSeasonProductData.json",
+    "bytes": 339,
+    "sha256": "fbe39749e993cccc6eece138ee4649a97a2d6acf98f8eb3e037e428da782c42a"
+  },
+  {
+    "path": "table-json/SeasonRankingShopData.json",
+    "bytes": 18963,
+    "sha256": "34266bbbea07e221ba4e7b2f53bfec45241cec0c3105ac92bb9d9f789e3d6482"
+  },
+  {
+    "path": "table-json/SeasonRankingTierData.json",
+    "bytes": 667,
+    "sha256": "9bcf16b4e2702d25fa6c1b3f5ca0bdc1f82578fb3555b1485c26cc70a32c0e71"
+  },
+  {
+    "path": "table-json/SeasonRankingTierRankRewardData.json",
+    "bytes": 2160,
+    "sha256": "334dd23ea9c6055784ea8355ddeeaad93a03f76508ade5c7d215b6f19805212d"
+  },
+  {
+    "path": "table-json/SeasonSkillBaseData.json",
+    "bytes": 3586,
+    "sha256": "b0b0b3a180bbceb3a96dae3807efe39fb25a45f8eb470e6775a74ef3ef8ed454"
+  },
+  {
+    "path": "table-json/SeasonSkillBingoData.json",
+    "bytes": 299,
+    "sha256": "8bb1af0b1d51b451ae3ea4d424441b7089d4b1c282547d9b5107efff92182dea"
+  },
+  {
+    "path": "table-json/SeasonSkillBingoRewardData.json",
+    "bytes": 14464,
+    "sha256": "80e8c4ddcb699a7983a29ee75c073f44532cdbacfcf40633a05de4235e3fe1f9"
+  },
+  {
+    "path": "table-json/SeasonSkillPackageData.json",
+    "bytes": 477,
+    "sha256": "3374e30b7908b55dee34ab534bfcd6f9f2a2bf90182661d9cca7adc8f2a7cba6"
+  },
+  {
+    "path": "table-json/SeasonSkillPassRewardData.json",
+    "bytes": 2942,
+    "sha256": "e04587aed3bf4bfded8a3d96af279bb4c92427aaa3543926f083d1d85f0f3bb4"
+  },
+  {
+    "path": "table-json/SeasonSkillQuestData.json",
+    "bytes": 6668,
+    "sha256": "998e0eafce0d54542274cc37744cd743c0e7a98cee53d030f5e0ed6b7ebdb020"
+  },
+  {
+    "path": "table-json/SelectItemBaseData.json",
+    "bytes": 4942,
+    "sha256": "c864f752542385df87d93fa30d04ee0f8d0817b4705e58fc54953bfc30ecb88a"
+  },
+  {
+    "path": "table-json/ServerRegionChannelBaseData.json",
+    "bytes": 48162,
+    "sha256": "ac656ee9c8110bb413e1dc9993c9eb2dc4d12d341fc118a62fb07dbdf4e0bc6e"
+  },
+  {
+    "path": "table-json/SkillBaseData.json",
+    "bytes": 53433,
+    "sha256": "2f13472e685f682d4dcfb5f830943ebb7a343a37cc5facf4b76d8153d72813e9"
+  },
+  {
+    "path": "table-json/SkillGrindingConfigData.json",
+    "bytes": 182,
+    "sha256": "fa2560b0badb8ec7a9d6036f32a04d420ddcba53549bb0a433d224d03f514215"
+  },
+  {
+    "path": "table-json/SkillGrindingGradeData.json",
+    "bytes": 902,
+    "sha256": "ff3f69dd0c2d4e07de4a64c52c8c1fe0da5e6e439947df99f4a01565b4dce0d5"
+  },
+  {
+    "path": "table-json/SkillGrindingOptionSlotOpenData.json",
+    "bytes": 348,
+    "sha256": "2b8a3e31a9210e7c0b8bcc8dc9b74872dd9a1b2f70423c99cd806af38c325118"
+  },
+  {
+    "path": "table-json/SkillGrindingOptionsData.json",
+    "bytes": 1121,
+    "sha256": "00bee5596025fcb29db0a7f5165d02040b90f72975c01d4bced6545e7897da0d"
+  },
+  {
+    "path": "table-json/SkillGrindingPassiveOptionsData.json",
+    "bytes": 2242,
+    "sha256": "cc64b7cb1817253f9cc09b27f5b9ebea6bb6d09648f5ad9b08b357d49dc5e2ef"
+  },
+  {
+    "path": "table-json/SkillGrindingRewardData.json",
+    "bytes": 91040,
+    "sha256": "53fc427585a8fe463d02461e37641a804b0843d0340e47d94f1f0ccd44ef1429"
+  },
+  {
+    "path": "table-json/SkillGrindingSlotOpenData.json",
+    "bytes": 343,
+    "sha256": "43b52cd1b9a6f770c2e6ba96558def5de7c25029269741a9c6c2a8d83733c314"
+  },
+  {
+    "path": "table-json/SkillLevelBaseData.json",
+    "bytes": 39169,
+    "sha256": "abde909a50c6d69dd0f4745c78d10d73d2ef20018f28bbaf5f5bdf72310ddea7"
+  },
+  {
+    "path": "table-json/SkillMakingDataBaseData.json",
+    "bytes": 10700,
+    "sha256": "b07179b011b84f00ed511eb9aad61352cab689b8fce24531a883dd2b0760666f"
+  },
+  {
+    "path": "table-json/SkillMasteryAttackSkillFactorData.json",
+    "bytes": 2042,
+    "sha256": "cebca5e1ec97b0651a08e4854b3de1cb0a0ba2f8e41039589963e4d6a822746a"
+  },
+  {
+    "path": "table-json/SkillMasteryCollectionData.json",
+    "bytes": 18761,
+    "sha256": "ca6423f061c06817136de04f3c111e152677f7185b183390f23fbeb92d35da65"
+  },
+  {
+    "path": "table-json/SkillMasteryDemonCollectionFactorData.json",
+    "bytes": 298,
+    "sha256": "6fe9bf41b8d1f89cc23991f99514f4f893f3fb056bf62e265090f5fdc4d7847c"
+  },
+  {
+    "path": "table-json/SkillMasteryNodeData.json",
+    "bytes": 80059,
+    "sha256": "48b0e671c08707764677836177b371238efc52e3ffa38c9d0dc5c5df0c816864"
+  },
+  {
+    "path": "table-json/SkillMasterySkillEnforceBattleData.json",
+    "bytes": 14016,
+    "sha256": "24630f66123e05b56fa9c23808e74b0411a0497e8ca7009c9eebeb63a5b5caab"
+  },
+  {
+    "path": "table-json/SkillMasterySkillEnforceBattleWaveInfoData.json",
+    "bytes": 13078,
+    "sha256": "4346c8c8a3b25f9c8f36cc36125f4a0e58edd3625931098c6b51f8599e1c0ca5"
+  },
+  {
+    "path": "table-json/SkillStoneBaseData.json",
+    "bytes": 7975,
+    "sha256": "c7b7c1ed227e10482d7322071776cccc4ab0e8601484af824ed23be97c7d9425"
+  },
+  {
+    "path": "table-json/SkillTreeBaseData.json",
+    "bytes": 2560,
+    "sha256": "316f76fbff11b2d76ecd75c3a871192fcf01b6299a1a43d3c56ddd3cc9ed4103"
+  },
+  {
+    "path": "table-json/SkinBattleBaseData.json",
+    "bytes": 42997,
+    "sha256": "d46a22bd3da5672f110897d2de4264c16fa390d19dd194f7c3273af79ba186b6"
+  },
+  {
+    "path": "table-json/SkinBattleWaveInfoData.json",
+    "bytes": 21209,
+    "sha256": "01186f473ced7faf09d1f25afb6d9cc77998066dbe77517a58cc7cf060ac9c46"
+  },
+  {
+    "path": "table-json/SkinBeastData.json",
+    "bytes": 5053,
+    "sha256": "70f9e782db712cb38c7ed3ff7b23efa15695d949fb9d3992e1558de3ea482ab6"
+  },
+  {
+    "path": "table-json/SkinBodyData.json",
+    "bytes": 6305,
+    "sha256": "ae3a8244495218617a5737b7904d26b7d491832593116a211d4588a16bd16a16"
+  },
+  {
+    "path": "table-json/SkinCloakData.json",
+    "bytes": 7497,
+    "sha256": "1e5c18a4cf23a392aef140da4b2496376f864fbe8f1e90285b977280c12c4c5e"
+  },
+  {
+    "path": "table-json/SkinCostumeData.json",
+    "bytes": 92948,
+    "sha256": "dd444cb328af469f4a7025cbfe39884e7d0fdd2ee37e77e139d3d929f6c6994f"
+  },
+  {
+    "path": "table-json/SkinEarringData.json",
+    "bytes": 401,
+    "sha256": "4edaadd14122e7031e30373e32dfbe82eca962a074f9246714927681e489b4fd"
+  },
+  {
+    "path": "table-json/SkinFaceData.json",
+    "bytes": 25692,
+    "sha256": "0c19d56a05d30e05af2fe29e9c4b0ed949bb1b3f4bf9ed3da88e5efeca24741a"
+  },
+  {
+    "path": "table-json/SkinFaceDecoData.json",
+    "bytes": 40793,
+    "sha256": "c88753b43f8b0495de606bba4dddfd5ce72fb234b21c94f884177738e9b77d1d"
+  },
+  {
+    "path": "table-json/SkinFriendData.json",
+    "bytes": 9579,
+    "sha256": "d2a8830267fc673fdeafcafb3289b5ca2a7ab0c66fc64ceb6cc5c9f061ee0b52"
+  },
+  {
+    "path": "table-json/SkinHairBackData.json",
+    "bytes": 2625,
+    "sha256": "2dbdc1da382e1dd8242e4fbb7d8da7b95ae8964a4476f8f22f9a66fce04183e4"
+  },
+  {
+    "path": "table-json/SkinHairColorData.json",
+    "bytes": 14919,
+    "sha256": "21f4dba353dadee2ceca94b34f52789409790f4df09ddc39a86decebcefd3cf7"
+  },
+  {
+    "path": "table-json/SkinHairData.json",
+    "bytes": 36530,
+    "sha256": "4b767ff110fcac300352bb6c9f657c9802c96f7460068250c978d28eb1b3b2b6"
+  },
+  {
+    "path": "table-json/SkinHatData.json",
+    "bytes": 81870,
+    "sha256": "699e381b23f4e3a582face9bf99d399d977d6a91be7ad866a27a581375372424"
+  },
+  {
+    "path": "table-json/SkinLensData.json",
+    "bytes": 6454,
+    "sha256": "429b6c51099676c13dec1648b5b88925647309a23ccdf86ceff8e1397f8d5035"
+  },
+  {
+    "path": "table-json/SkinMapData.json",
+    "bytes": 350,
+    "sha256": "4d022071e9dae7619f609c54787d7cec493d84006894d22a574e63ba001138e9"
+  },
+  {
+    "path": "table-json/SkinWeaponData.json",
+    "bytes": 144710,
+    "sha256": "b04f7cf2360a013197f58a879042aa120f14211c968b9f12b1bf0f3922b29dd2"
+  },
+  {
+    "path": "table-json/SlayerClassBaseData.json",
+    "bytes": 3353,
+    "sha256": "714fb55ace35bc2134ec8438cd529a3ba61bfc36ca94a9445f1cfcc550f05ac2"
+  },
+  {
+    "path": "table-json/SlayerClassGachaProbData.json",
+    "bytes": 991,
+    "sha256": "29571797e2bc98b6bc2408b6f5d816957b6259a97b7f122a5ee625c01033ea71"
+  },
+  {
+    "path": "table-json/SlayerClassGachaRewardData.json",
+    "bytes": 776,
+    "sha256": "92bf75c041e1bc4d12cd860c3b9a13720ce9fbed52dc8a9e5e1d2677cac78897"
+  },
+  {
+    "path": "table-json/SoulWeaponBaseData.json",
+    "bytes": 32397,
+    "sha256": "98ca6876839095b7a0549c9572b1c2da64ace4f55a119328ba18dbb3dcb45abb"
+  },
+  {
+    "path": "table-json/SoulWeaponImprintData.json",
+    "bytes": 28950,
+    "sha256": "caf6ffbbe600dc1942b0a9a0ecbfec879a169da5e9601b10074249cf93771eb1"
+  },
+  {
+    "path": "table-json/SoulWeaponSoulGemConfigData.json",
+    "bytes": 189,
+    "sha256": "c4b14ba86f722508f946df873a1acc16649e2d0ff0e7d0b41788c309c6a8b753"
+  },
+  {
+    "path": "table-json/SoulWeaponSoulGemInfoData.json",
+    "bytes": 1272,
+    "sha256": "6cdecbe56710a21b9d7adaf99bb7d8e27b5cba24490e23caddc7894f6fee2f32"
+  },
+  {
+    "path": "table-json/SoulWeaponSoulGemLevelData.json",
+    "bytes": 78146,
+    "sha256": "5c911a2d42c2b1508fc5113e8b31384147318314f10aba8e1196e66ee290d84b"
+  },
+  {
+    "path": "table-json/SpiritAwakeningData.json",
+    "bytes": 2827,
+    "sha256": "7b78b7ad85831890e2ff0c89eabbce52d3aa860b93249eef06e5837f8fed493c"
+  },
+  {
+    "path": "table-json/SpiritBaseData.json",
+    "bytes": 9096,
+    "sha256": "b0f352c4ff8c75fd08009747bebc22b8a649d990aa4788c6b717c02caa6fa7e7"
+  },
+  {
+    "path": "table-json/SpiritEquipSlotUnlockData.json",
+    "bytes": 172,
+    "sha256": "ba27ff65760bc81cebc0b664feb871cb32c9a19b4599ceb33baeabfb82c32a9c"
+  },
+  {
+    "path": "table-json/SpiritForestData.json",
+    "bytes": 71210,
+    "sha256": "05a502cb6a8cf9570c06e872d84f76b30911fdf2cf3c09b8dbc54cf8cd895132"
+  },
+  {
+    "path": "table-json/SpiritGachaProbData.json",
+    "bytes": 344,
+    "sha256": "a260e4c3c3ee079c25fe21ac1d221612e5f10baf4404491dea6eb662de735825"
+  },
+  {
+    "path": "table-json/SpiritInventoryData.json",
+    "bytes": 3462,
+    "sha256": "f437b5a3b36d7f18594a5c26ca6f6037fcce2b496ca8c1c03a2b230a362a26dc"
+  },
+  {
+    "path": "table-json/SpiritLevelLimitData.json",
+    "bytes": 1897,
+    "sha256": "8fe568727a91da3d94d8aff99ace7baddc2203961963cb9f6a9a98de641497f2"
+  },
+  {
+    "path": "table-json/SpiritLevelSyncSlotUnlockData.json",
+    "bytes": 347,
+    "sha256": "b0a13feeb327f264a79e4fbc1b9e41cede3b807030b83fb482c962812c2b5538"
+  },
+  {
+    "path": "table-json/SpiritSpiritInventoryData.json",
+    "bytes": 3462,
+    "sha256": "581cf8d612cf780e5748c039b7fe1374d0b733a83eee5816ab814d7545ec3fdb"
+  },
+  {
+    "path": "table-json/SpiritUpgradeData.json",
+    "bytes": 589578,
+    "sha256": "afd4c27fc7c479d4ec19d7a43d398de733a24f15728dfc492d0990562fe9eb3f"
+  },
+  {
+    "path": "table-json/StageGoldFactorBaseData.json",
+    "bytes": 14784,
+    "sha256": "c4110796f097b60ca274dbb7368fb7a06af5a836f06a6114e3d6f8c1f4010557"
+  },
+  {
+    "path": "table-json/StageInfoBase1000Data.json",
+    "bytes": 1467366,
+    "sha256": "3386a5d8f210b97bc961d27b0f422e5d6d6c0411f2a7f5e2f8c41bbb9ef1745e"
+  },
+  {
+    "path": "table-json/StageInfoBase2000Data.json",
+    "bytes": 1615965,
+    "sha256": "56553fafb3584a94b510f82671c57f6327aaf44f889dbf42cf95638a992e6618"
+  },
+  {
+    "path": "table-json/StageInfoBaseData.json",
+    "bytes": 1272753,
+    "sha256": "557c5c32946197b086a1be88669748c534c57f3aded4897d763e4f883ce4fa44"
+  },
+  {
+    "path": "table-json/StageSoulInfoBaseData.json",
+    "bytes": 18312,
+    "sha256": "a2548e535d0aafffdbb9da5d587b764f714f3c810ffb042ec9190b34b9de43b9"
+  },
+  {
+    "path": "table-json/StarConfigData.json",
+    "bytes": 214,
+    "sha256": "cfbd23e33ac732855e78fc385f52ba6aac828a8675ed47be86157b15dfca5e95"
+  },
+  {
+    "path": "table-json/StarConstellationData.json",
+    "bytes": 2072,
+    "sha256": "9975bf16f64d5120db2da84448b51566436a709cef608a119a3bd2f28b6a4571"
+  },
+  {
+    "path": "table-json/StarNebulaData.json",
+    "bytes": 4543,
+    "sha256": "aa30a326ad323602f9fe24c863cdcb5ec2fea7a2c55d3d9cbf85d102c07b2f79"
+  },
+  {
+    "path": "table-json/StarNebulaLevelData.json",
+    "bytes": 2187,
+    "sha256": "f5de4837566b5c56b95ac75e31af7df41ffc08fabef060c101acebedb60a873c"
+  },
+  {
+    "path": "table-json/StarNodeData.json",
+    "bytes": 25515,
+    "sha256": "02c7c9d7e3f763d2f3abdf337c4e031406ea6cd522ae18a87f2e8f6642a710cd"
+  },
+  {
+    "path": "table-json/StoreBaseData.json",
+    "bytes": 2922,
+    "sha256": "f63b0c36a29e4513dc1c772339650710bbc7b93a603ab2853a5a33af93b5801e"
+  },
+  {
+    "path": "table-json/ThemeDungeonEventBaseData.json",
+    "bytes": 616,
+    "sha256": "7e2adb03de60da909ca2d2e58069cdbe8d207e9c4eb6061b30fec65bbdb6d355"
+  },
+  {
+    "path": "table-json/ThemeDungeonEventBattleAData.json",
+    "bytes": 480,
+    "sha256": "241724bd4893575a94854dda3d34c2befd68b47fd6df31b2a4a5f4093a86eeba"
+  },
+  {
+    "path": "table-json/ThemeDungeonEventBattleBData.json",
+    "bytes": 616,
+    "sha256": "dc67d792870ce06c8b0bd55671de150c66b9f5865dc7b8e71ced810a4e855e65"
+  },
+  {
+    "path": "table-json/ThemeDungeonEventPackageData.json",
+    "bytes": 239,
+    "sha256": "0d7d1bcd7425c8a58d97457d900eb1015c1ce647925551f70080a02ac19a092c"
+  },
+  {
+    "path": "table-json/ThemeDungeonEventPassData.json",
+    "bytes": 6534,
+    "sha256": "36fbc7d25f257b29c7cf201e337e604fe7d7967e297023fefb198a663e91bae5"
+  },
+  {
+    "path": "table-json/ThemeDungeonEventShopData.json",
+    "bytes": 5312,
+    "sha256": "92584108ab070e63b9d939285676a602211a9e6bb3e6da0fc025159b3beb9339"
+  },
+  {
+    "path": "table-json/ThemeDungeonEventStatData.json",
+    "bytes": 620,
+    "sha256": "5c7ebbe55c626918f15fca109ce2858a190222de191f7e979fa18770c9189874"
+  },
+  {
+    "path": "table-json/ThemeDungeonEventStatLevelData.json",
+    "bytes": 384,
+    "sha256": "53ebb9f2ff186fe937d2c51ae660173706ae3a70ad14d1b8d5e77397097b86da"
+  },
+  {
+    "path": "table-json/ThemeDungeonEventWaveData.json",
+    "bytes": 562,
+    "sha256": "8c4f2a9cac37f9c79053ba9d65a8b6c216278ea84e8d4c5c404f939074eb7f7b"
+  },
+  {
+    "path": "table-json/TimeAttackBattleData.json",
+    "bytes": 16871,
+    "sha256": "0275c4bf47d2d3405670164127f117b7935d93cf3b555e7c7d07a74612668434"
+  },
+  {
+    "path": "table-json/TimeAttackBattleWaveInfoData.json",
+    "bytes": 7069,
+    "sha256": "4a228651e189c6b0cc1aca9272053d5bccfb2657c79dc6a0f684c6c732ffd9c2"
+  },
+  {
+    "path": "table-json/TimeAttackConfigData.json",
+    "bytes": 106,
+    "sha256": "9c11ca7907374bcc29f53b7720ae48fbfa6bfc553a5d933261c2257c2dfc3bf8"
+  },
+  {
+    "path": "table-json/TimeAttackMissionData.json",
+    "bytes": 4362,
+    "sha256": "35b2cb8799eb6b3be4041b060f1ad42a53d45000569433401f6f4dfdfa9dc82f"
+  },
+  {
+    "path": "table-json/TimeAttackPlayerClassFactorData.json",
+    "bytes": 5468,
+    "sha256": "40eda2f7aac62fb8b0db6d01bfef8b9e53ba2c1dc031809dda6ec7b85fcfb0ac"
+  },
+  {
+    "path": "table-json/TrainingGradeAdditionalData.json",
+    "bytes": 9154,
+    "sha256": "6be942469d9d549e9d7f762bdf2954adb8716fe07c8e19d93be0a8c026c626ab"
+  },
+  {
+    "path": "table-json/TrainingGradeBaseData.json",
+    "bytes": 9420,
+    "sha256": "bc9602ab769dab39dca001acadbb6f040ce652079c1ecc8998fb9892e1b0b8c9"
+  },
+  {
+    "path": "table-json/UpdateMaxValueBaseData.json",
+    "bytes": 622,
+    "sha256": "579010048e9dfce79e392a86d615ca95a055cb06122dad4b3103da4d9b5f9ca0"
+  },
+  {
+    "path": "table-json/UserLevelBaseData.json",
+    "bytes": 595463,
+    "sha256": "243378d328cc455873bf619b2f672139129ef54f398595b0090eaeab669659d2"
+  },
+  {
+    "path": "table-json/WeatherEffectBaseData.json",
+    "bytes": 11469,
+    "sha256": "c9ec9a14aaecac948731f564c13eb2c66b527d761f8998a9e8f159b9ce396a28"
+  },
+  {
+    "path": "table-json/WelcomeBaseData.json",
+    "bytes": 2452,
+    "sha256": "18057bbee83d00f1f04dcb1a6e5e3bc7f43d340716651eccfba532614c57f175"
+  },
+  {
+    "path": "table-json/WishFactorData.json",
+    "bytes": 991,
+    "sha256": "8483c76d5fc2409e27db3a8b2a81809f7083ebc547b201b895eb0e2c4378092e"
+  },
+  {
+    "path": "table-json/WishLevelData.json",
+    "bytes": 47731,
+    "sha256": "2cea877fb66f69cb5a3f0567b662a786f2033a9694f097f1f83d33af27d4b34d"
+  },
+  {
+    "path": "table-json/WorldBossBaseData.json",
+    "bytes": 137,
+    "sha256": "9587894ae7cfc2b6901e941ae894d7c180d5f1b62d6b68695e10614512b6c92d"
+  },
+  {
+    "path": "table-json/WorldBossBattleQuestData.json",
+    "bytes": 5065,
+    "sha256": "ecf7f10394ab5104acb7f0633e84217ea81830ef20d117fdbd6d163f87291ecc"
+  },
+  {
+    "path": "table-json/WorldBossBattleRewardData.json",
+    "bytes": 15374,
+    "sha256": "0437d5251ddfeee05f3472b3f9a15bed8248d046d6a94e33a4643fd39d859967"
+  },
+  {
+    "path": "table-json/WorldBossConfigData.json",
+    "bytes": 256,
+    "sha256": "20f3fcb39d07c387c50cad9456d984afbb3ff546a4b4292baa981291ad121346"
+  },
+  {
+    "path": "table-json/WorldBossCountryFlagData.json",
+    "bytes": 44,
+    "sha256": "db4063b2bdd90c68caef8eaf102e3f5084fc35e394e7861d2a1acb26953652da"
+  },
+  {
+    "path": "table-json/WorldBossMainBattleInfoData.json",
+    "bytes": 1295,
+    "sha256": "6929d3dcf2b93c1b04c1c34667d16d175851a1bef023bbfcbff22eb8f2417cd4"
+  },
+  {
+    "path": "table-json/WorldBossSubBattleBaseData.json",
+    "bytes": 13198,
+    "sha256": "7de5941b63426daae63f89ee18cfce633940c94b09447f14d4306343c21cad84"
+  },
+  {
+    "path": "table-json/WorldBossSubBattleInfoData.json",
+    "bytes": 4484,
+    "sha256": "251f9906b1406214d40a96d8a6367e48decfb292186ab70040826b11682ee015"
+  },
+  {
+    "path": "table-json/WorldBossSubBattlePenaltyData.json",
+    "bytes": 1122,
+    "sha256": "931bb074ac8b020b282bf97c617501816b1ce49c94e36429c839b13891d1b0a5"
+  },
+  {
+    "path": "table-json/WorldBossSubBattleWaveInfoData.json",
+    "bytes": 6071,
+    "sha256": "c61c690ef0726b641b15c1809ddb483d44516ce18760ed1e58822a91b1fed9cd"
+  },
+  {
+    "path": "game-tables/ABTestAssignData.bin",
+    "bytes": 441,
+    "sha256": "4b93d538558e5483244c3c33e6543af4298e30dbd56e75f9d057ec0badcbbba2"
+  },
+  {
+    "path": "game-tables/ABTestMiniQuestData.bin",
+    "bytes": 106,
+    "sha256": "275bce12097e15d42c0832d3158b1b4cfe7e9425b28b64b686c8b26d80f7bb4a"
+  },
+  {
+    "path": "game-tables/AccessoryBaseData.bin",
+    "bytes": 1554,
+    "sha256": "28f7418862362357b272028d6b5211466d835d1b72f6fd80c779d94481c8341f"
+  },
+  {
+    "path": "game-tables/AdventureInfoBaseData.bin",
+    "bytes": 63412,
+    "sha256": "468dab93aa2e565344aee32fa74ad9fefe10695ea5b647bfd9b259c4c4c82c01"
+  },
+  {
+    "path": "game-tables/AdventureWaveInfoBaseData.bin",
+    "bytes": 45454,
+    "sha256": "6825233cc8ff1a616ddbb8037933c382fe4087db2930a1c88a73d22e6e7ee5f7"
+  },
+  {
+    "path": "game-tables/ArtifactBaseData.bin",
+    "bytes": 1469,
+    "sha256": "877a79ded0d380beb6f694ad6fab444224d1a2a3f265f8130ebd221a3acde817"
+  },
+  {
+    "path": "game-tables/ArtifactConfigData.bin",
+    "bytes": 65,
+    "sha256": "4236feab83fac71e86a649bfd38e0bb2d78f4da7abb0de78c72dcc292be93105"
+  },
+  {
+    "path": "game-tables/ArtifactMasteryData.bin",
+    "bytes": 1424,
+    "sha256": "c4606b428502a0bde5705e8a2f4e7fd1d176008cc8fd316811641e2fbf1c2928"
+  },
+  {
+    "path": "game-tables/AttendanceRewardBaseData.bin",
+    "bytes": 184,
+    "sha256": "bdadc91966cb94b52d94e802bf4c13f4fa1a32b27c795cf64d740c0733c9de7f"
+  },
+  {
+    "path": "game-tables/AwakeningAccessoryBaseData.bin",
+    "bytes": 1114,
+    "sha256": "ddfc8df88caf53f1f87e5d6fb7d4fda74cf43e6a53418e35ae118902c1ef7d13"
+  },
+  {
+    "path": "game-tables/AwakeningSlayerClassBaseData.bin",
+    "bytes": 454,
+    "sha256": "0c217982b40892b56e82993869ad22c3cab374e931471726be6753d6651cf96f"
+  },
+  {
+    "path": "game-tables/AwakeningWeaponBaseData.bin",
+    "bytes": 994,
+    "sha256": "8c5ad0c93b05a6af8a8a34cfe8ed4c700e137c372185fe514983007e951c3897"
+  },
+  {
+    "path": "game-tables/BeastAppearanceData.bin",
+    "bytes": 1516,
+    "sha256": "71bcfcbd4c3371791f00574b2ceb0f4898466a59d2c2fd195f275f537f748e36"
+  },
+  {
+    "path": "game-tables/BeastAwakenData.bin",
+    "bytes": 179,
+    "sha256": "b3e1c22ec54d93ffd20787d8d8ac87d01df14d67da833f0674ba0c8cb256ece1"
+  },
+  {
+    "path": "game-tables/BeastBeastData.bin",
+    "bytes": 2125,
+    "sha256": "01429ac9091c30fa1cbbad5237d12370a6478ffce7d0f9d58d486f4e7899c1e3"
+  },
+  {
+    "path": "game-tables/BeastConfigData.bin",
+    "bytes": 89,
+    "sha256": "9b3e8525b84b16ac12912621724ef4734aef16992d70f0752f7dbe908ed514ff"
+  },
+  {
+    "path": "game-tables/BeastLevelData.bin",
+    "bytes": 2034,
+    "sha256": "9d971b449e9b7c2711766ea83195d6dee6d18da7a89f6bad94f65c22939c565c"
+  },
+  {
+    "path": "game-tables/BeastScoutData.bin",
+    "bytes": 1557,
+    "sha256": "30b1ffc906b3eb5a244d30686a96bb08c32c042923a8c8c3f305dd3a98b009d5"
+  },
+  {
+    "path": "game-tables/BeastShopData.bin",
+    "bytes": 949,
+    "sha256": "a188ba0ac082ddfe736fa1b266b13cf8fb020901123e1abcf65f79f331fe0214"
+  },
+  {
+    "path": "game-tables/BeastSummonData.bin",
+    "bytes": 5738,
+    "sha256": "d4451101ef339e9ab88013d925649ad3b50557891c00297b7e5642009e303fb3"
+  },
+  {
+    "path": "game-tables/BlackOrbAwakenData.bin",
+    "bytes": 235,
+    "sha256": "c8a5f3b43a39a5abbc5c41e39649767c80d31501fea8553836adbb2e21358be1"
+  },
+  {
+    "path": "game-tables/BlackOrbBaseData.bin",
+    "bytes": 2020,
+    "sha256": "e3afda79e79c11a75e9abd7aafae16c8161f546bccbf50d6d70983d0188d0552"
+  },
+  {
+    "path": "game-tables/BlackOrbConfigData.bin",
+    "bytes": 65,
+    "sha256": "96046f049811fca81c168f114758b668aaa8b892f55d80c0003279c5a567a0ef"
+  },
+  {
+    "path": "game-tables/BlackOrbGachaData.bin",
+    "bytes": 50818,
+    "sha256": "f754e08299a21d32fbd76f9555259655e1a80f0134d3bb8e5cde8c4f5de84766"
+  },
+  {
+    "path": "game-tables/BlackOrbGradeData.bin",
+    "bytes": 123,
+    "sha256": "baad555dafdce44200b365b1b46aa66f122e3f36d01e8a787124a91dbc3f6970"
+  },
+  {
+    "path": "game-tables/BlackOrbHaveValueData.bin",
+    "bytes": 56,
+    "sha256": "d6b913c0c157ceb844b9d4354b3e26d57d3ca9157f84f51f3d9548b8450d9840"
+  },
+  {
+    "path": "game-tables/BlackOrbLevelData.bin",
+    "bytes": 1364,
+    "sha256": "87d6ecb9ab009fa65c6049ccb8c466623709bd24dc3984d18f79fde8d50c1c83"
+  },
+  {
+    "path": "game-tables/BlackOrbMainAbilityAddValueData.bin",
+    "bytes": 17,
+    "sha256": "4cfd2bf7360c87c4f9a8d65e9a41aef6d3f510122d9402a2035e37622074aebc"
+  },
+  {
+    "path": "game-tables/BlackOrbOptionData.bin",
+    "bytes": 329,
+    "sha256": "d0ca6894c33fc930a0898d21624fffc145ae9b9f7533ac82348f97425d2a49cf"
+  },
+  {
+    "path": "game-tables/BlackOrbResonateData.bin",
+    "bytes": 2902,
+    "sha256": "d214f8f09ea99665b5ff23760e7ddd3ca2e1d9671874c1029a878798e2ad49fe"
+  },
+  {
+    "path": "game-tables/BlackOrbStageBlackManaInfoData.bin",
+    "bytes": 45865,
+    "sha256": "1a19727b16220b4ffe826f21d478262a7d29d688333731a5098f0e8845194eac"
+  },
+  {
+    "path": "game-tables/CampaignEpisodeBaseData.bin",
+    "bytes": 310,
+    "sha256": "7febc56425eafff1e4f037368ffcbe48833d80f17fa2cbf5a266112ffdbdf606"
+  },
+  {
+    "path": "game-tables/CampaignEpisodeSubData.bin",
+    "bytes": 524,
+    "sha256": "ebfead804287f35a1224d01f5c709c8bb59aefc086d178878a9c83db072ce25c"
+  },
+  {
+    "path": "game-tables/CampaignInfoBaseData.bin",
+    "bytes": 106045,
+    "sha256": "d1c895313cf2bfd0f8f60359b42243177ae0e1160102e1dcfe934d07376891c1"
+  },
+  {
+    "path": "game-tables/CampaignInfoSubData.bin",
+    "bytes": 22770,
+    "sha256": "47825fe95109bc231d50d61541617978575219afad21aa38eba38693fbed03b9"
+  },
+  {
+    "path": "game-tables/CampaignScenarioBaseData.bin",
+    "bytes": 111491,
+    "sha256": "9dc5ef4c5e53ca80718522185582f32c31d30ea589063cdc53dd76b3644b8878"
+  },
+  {
+    "path": "game-tables/CampaignScenarioSubData.bin",
+    "bytes": 101559,
+    "sha256": "8e9d0e1a7959382f99137f7e75b4c353907fc9efebfab07451dbbc0727f4c889"
+  },
+  {
+    "path": "game-tables/CampaignWaveInfoBaseData.bin",
+    "bytes": 4063,
+    "sha256": "0ae38b9e6ec05d354c5a0da0a1eeb442ad57aff1a875420e9eeabd7b6d3c46bd"
+  },
+  {
+    "path": "game-tables/CaveInfoBaseData.bin",
+    "bytes": 1234998,
+    "sha256": "d51e0312ac0f62753329bee3a628ada83fd33c415a4c91d2821f607083522902"
+  },
+  {
+    "path": "game-tables/ConstantAchievementData.bin",
+    "bytes": 189,
+    "sha256": "ffa78d400308720c025f512a1375f47ba750ff5358bc6660414f1e7ac4aac21a"
+  },
+  {
+    "path": "game-tables/ConstantConfigData.bin",
+    "bytes": 189,
+    "sha256": "ffa78d400308720c025f512a1375f47ba750ff5358bc6660414f1e7ac4aac21a"
+  },
+  {
+    "path": "game-tables/ContentsOpenBaseData.bin",
+    "bytes": 238,
+    "sha256": "75e0eb658fd360471b07275a844c19b192de150ae504b1e36cd8c1ab3c66c03f"
+  },
+  {
+    "path": "game-tables/ContentsOpenChannelBaseData.bin",
+    "bytes": 1864,
+    "sha256": "e8ffa93ba75b1b5267982b58841b9d596bae76885183e220f0a09c857d0fa771"
+  },
+  {
+    "path": "game-tables/ContentsOpenConditionData.bin",
+    "bytes": 446,
+    "sha256": "1452e3097f09d748cfed14335702c68d353f11579b44dc24b6480df1a51eefc3"
+  },
+  {
+    "path": "game-tables/CouponBaseData.bin",
+    "bytes": 214,
+    "sha256": "234bb334581968766fffd64543af73cb62474c8bc63f46821bb632b309acada6"
+  },
+  {
+    "path": "game-tables/CouponChatData.bin",
+    "bytes": 65,
+    "sha256": "45a9fb2c3452177979596f99beac7ef9ee182c2e105ed74d713ab64e3cf01cc2"
+  },
+  {
+    "path": "game-tables/CurrencyBaseData.bin",
+    "bytes": 41051,
+    "sha256": "d53ac021374ca9aff4ccd7e223f7f16524763c9338bb0d4ef58a81aa9b79524f"
+  },
+  {
+    "path": "game-tables/DemonAltarData.bin",
+    "bytes": 781,
+    "sha256": "056f5fc563d37b247dc192b5a0bc45840339f695f3ca26eb708f83702f3830ad"
+  },
+  {
+    "path": "game-tables/DemonBaseData.bin",
+    "bytes": 208,
+    "sha256": "d685c4afaef05c2c335aa3c18bf1dc1b2a444aefced50270716af2c822c13c8f"
+  },
+  {
+    "path": "game-tables/DemonColorData.bin",
+    "bytes": 329,
+    "sha256": "8e85a90e34f63d274cefd9685f1fe3e902ab25c8edaa8118202b0cd364d3f1f7"
+  },
+  {
+    "path": "game-tables/DemonConfigData.bin",
+    "bytes": 121,
+    "sha256": "b0773a14dd331d0be69b206016fbdacdee81bd9139d356879c3d705d5bdd711a"
+  },
+  {
+    "path": "game-tables/DemonImmortalData.bin",
+    "bytes": 14908,
+    "sha256": "ffd437c50881bb67eddfeadaede951e1454fdff7f27c8a5350e6bb23e113e093"
+  },
+  {
+    "path": "game-tables/DemonImmortalRerollData.bin",
+    "bytes": 174,
+    "sha256": "62caebeba5dab9b2be17cf4575903ce5d767500d1ae55ea8ea0fddaa7dd832ed"
+  },
+  {
+    "path": "game-tables/DemonImmortalSkillData.bin",
+    "bytes": 256,
+    "sha256": "7889ef9a4d24be3cbcf6567062ac4bd60f1769751a00ce4d2f079d482c69faa9"
+  },
+  {
+    "path": "game-tables/DemonLevelData.bin",
+    "bytes": 592,
+    "sha256": "0e7859379553318543f483e5ed8baa574665393a7f076c5e9799c1991156caee"
+  },
+  {
+    "path": "game-tables/DemonMasteryData.bin",
+    "bytes": 8245,
+    "sha256": "321c4fa30cb8941aee4e1823d8a5e4861841f7fa7fcb1dc09e8d943a13eb37e4"
+  },
+  {
+    "path": "game-tables/DemonSanctuaryData.bin",
+    "bytes": 304,
+    "sha256": "52dae275ef76ed62e10ea0f9f9cfb120aa37f6f0247267eac454afb9569a8c0f"
+  },
+  {
+    "path": "game-tables/DemonSecretGateData.bin",
+    "bytes": 82,
+    "sha256": "71cf033304b7008c6a23d22feacd08b7b28d68e593755e4e68b6a57d6409b2bd"
+  },
+  {
+    "path": "game-tables/DemonSkillData.bin",
+    "bytes": 1600,
+    "sha256": "7063c060342746b70a4285c869101ffe9827592a19e8667dd5580d0c193a636e"
+  },
+  {
+    "path": "game-tables/DialogueBaseData.bin",
+    "bytes": 302995,
+    "sha256": "bd7063d05437b0198a72741aa68589be65db6cb45dd6b5fbc866ad6dc7ef54ff"
+  },
+  {
+    "path": "game-tables/DialogueStoryBaseData.bin",
+    "bytes": 49281,
+    "sha256": "cea287d89eaa8623a7676f0ba7b32f756193aed865b3184b5cc60bd38737cb1a"
+  },
+  {
+    "path": "game-tables/DragonEmblemBattleInfoData.bin",
+    "bytes": 45112,
+    "sha256": "2a70393761af84a291c986d5775f5f96faa753b0cb7f46f05b88eb632ac01183"
+  },
+  {
+    "path": "game-tables/DragonEmblemConfigData.bin",
+    "bytes": 13,
+    "sha256": "c26032445281a123523ed22784c32398e0ea2b4e61fe258a4282f42feb42b25b"
+  },
+  {
+    "path": "game-tables/DragonEmblemProbInfoData.bin",
+    "bytes": 73,
+    "sha256": "259a05333f9db2d8b5702559f3199da19934db83d7473c9d510dd5f11498001d"
+  },
+  {
+    "path": "game-tables/DragonEmblemRandomPercentageInfoData.bin",
+    "bytes": 103,
+    "sha256": "93f3eeb1d604494bef9fc0c756a2622f410fc763e92e14882fccda8fc8850e3a"
+  },
+  {
+    "path": "game-tables/DragonEmblemUpgradeInfoData.bin",
+    "bytes": 3448,
+    "sha256": "fa9fead2a5b57792fc8d431ac07261d0325ecf6fc0bc4d9d89cebe74400ea04a"
+  },
+  {
+    "path": "game-tables/DragonValleyConfigData.bin",
+    "bytes": 85,
+    "sha256": "091a5d9eacb092507c7c0d6ac3e00267aee1871900368ce0e3ee27b41ee3e832"
+  },
+  {
+    "path": "game-tables/DragonValleyCookData.bin",
+    "bytes": 469,
+    "sha256": "83b3075803851590224b099a51bc2aa30a349fc1255ddf5f00723d03edd0430e"
+  },
+  {
+    "path": "game-tables/DragonValleyHallOfFameData.bin",
+    "bytes": 42,
+    "sha256": "7b31ee89c901016061c2c017bb1eb08d81fb6c9ed4afacc2aa6ddda3ffe723fd"
+  },
+  {
+    "path": "game-tables/DragonValleyHuntBattleData.bin",
+    "bytes": 2312,
+    "sha256": "a445d971e57d58a40c1383aa620444664c94c2343c713298809dca56f07eaa41"
+  },
+  {
+    "path": "game-tables/DragonValleyRewardRankRewardData.bin",
+    "bytes": 322,
+    "sha256": "1eb3bfcbcc62f350d518fb7cc7e317744455227ca1803e94aa42b6e59a041f20"
+  },
+  {
+    "path": "game-tables/DragonValleyRewardSearchBoxData.bin",
+    "bytes": 3874,
+    "sha256": "c78a6cecae6be760520240f84789ca54572de0a880ba603ab899015c9aa13738"
+  },
+  {
+    "path": "game-tables/DragonValleyRewardSearchCompleteRewardData.bin",
+    "bytes": 103,
+    "sha256": "7a7ca1c2ecf89613789bc7bc067a7e9a3713895dc584fe31479ddf80e90775c2"
+  },
+  {
+    "path": "game-tables/DragonValleyRewardSeason3RankRewardData.bin",
+    "bytes": 322,
+    "sha256": "1eb3bfcbcc62f350d518fb7cc7e317744455227ca1803e94aa42b6e59a041f20"
+  },
+  {
+    "path": "game-tables/DragonValleyRewardSeason3SearchBoxData.bin",
+    "bytes": 3874,
+    "sha256": "6b405ccaddca310e9c1fda56a4dfdddc137fd200057cff980820d0a5f82b7e10"
+  },
+  {
+    "path": "game-tables/DragonValleyRewardSeason3SearchCompleteRewardData.bin",
+    "bytes": 103,
+    "sha256": "7a7ca1c2ecf89613789bc7bc067a7e9a3713895dc584fe31479ddf80e90775c2"
+  },
+  {
+    "path": "game-tables/DragonValleyRewardSeason3SpecialSearchBoxData.bin",
+    "bytes": 129,
+    "sha256": "68b8d9b658f571c9affdaa15338909c74395e2e18ddf30be7139ee0ce9814a19"
+  },
+  {
+    "path": "game-tables/DragonValleyRewardSeason3TierRewardData.bin",
+    "bytes": 614,
+    "sha256": "1b69e5e9f0862f1f3b38ef314a79bf78e694d03fbf0ae987d9fc917270a6eb61"
+  },
+  {
+    "path": "game-tables/DragonValleyRewardSeason4RankRewardData.bin",
+    "bytes": 322,
+    "sha256": "1eb3bfcbcc62f350d518fb7cc7e317744455227ca1803e94aa42b6e59a041f20"
+  },
+  {
+    "path": "game-tables/DragonValleyRewardSeason4SearchBoxData.bin",
+    "bytes": 3874,
+    "sha256": "b948771457182803c8d7a516cab3d2a45f290999467915e129da2d573f62da08"
+  },
+  {
+    "path": "game-tables/DragonValleyRewardSeason4SearchCompleteRewardData.bin",
+    "bytes": 103,
+    "sha256": "7a7ca1c2ecf89613789bc7bc067a7e9a3713895dc584fe31479ddf80e90775c2"
+  },
+  {
+    "path": "game-tables/DragonValleyRewardSeason4SearchDispatchBoxData.bin",
+    "bytes": 1704,
+    "sha256": "7f51f142cc518eb50765bdc30c34fa78a6771eb022ea3093b1a8d889d1dce27f"
+  },
+  {
+    "path": "game-tables/DragonValleyRewardSeason4SpecialSearchBoxData.bin",
+    "bytes": 79,
+    "sha256": "dcfcc4dabfbef89c4d3559a57a0513a96471efd4b64fda9cb32d11c3c432437e"
+  },
+  {
+    "path": "game-tables/DragonValleyRewardSeason4TierRewardData.bin",
+    "bytes": 614,
+    "sha256": "506d23e1161cd3e217a9025f9286771f56e87924df3ffd92eedba7c34755d402"
+  },
+  {
+    "path": "game-tables/DragonValleyRewardSeason5RankRewardData.bin",
+    "bytes": 322,
+    "sha256": "1eb3bfcbcc62f350d518fb7cc7e317744455227ca1803e94aa42b6e59a041f20"
+  },
+  {
+    "path": "game-tables/DragonValleyRewardSeason5SearchBoxData.bin",
+    "bytes": 3874,
+    "sha256": "0c53b97ee380d3e98cd2766f2e7509d12265088a821d5b4cd3c97c1672eb145d"
+  },
+  {
+    "path": "game-tables/DragonValleyRewardSeason5SearchCompleteRewardData.bin",
+    "bytes": 103,
+    "sha256": "7a7ca1c2ecf89613789bc7bc067a7e9a3713895dc584fe31479ddf80e90775c2"
+  },
+  {
+    "path": "game-tables/DragonValleyRewardSeason5SpecialSearchBoxData.bin",
+    "bytes": 178,
+    "sha256": "d98fb0416dda67bc5504f72ca3da42133e0a72c741bdc6abc8e72e4d4816b6ca"
+  },
+  {
+    "path": "game-tables/DragonValleyRewardSeason5TierRewardData.bin",
+    "bytes": 614,
+    "sha256": "efbf5d06af856698749e2ed8891f4c521bfa6b57cfe09aba7dd6cb8c88779d76"
+  },
+  {
+    "path": "game-tables/DragonValleyRewardSpecialSearchBoxData.bin",
+    "bytes": 120,
+    "sha256": "9e8b1b7093febe6672a0a973875793ac8aa737d0c9732a33fead8aebfff25a0b"
+  },
+  {
+    "path": "game-tables/DragonValleyRewardTierRewardData.bin",
+    "bytes": 614,
+    "sha256": "10e57f3329249eca01734a8ed2af06761c818b101d48f99f7678e22aae63ec7f"
+  },
+  {
+    "path": "game-tables/DragonValleySearchBattleData.bin",
+    "bytes": 1156,
+    "sha256": "847c24086c205ca6cdc55a60f2f955412aeb447f944a74c3cf4d0b89e51ff435"
+  },
+  {
+    "path": "game-tables/DragonValleySearchData.bin",
+    "bytes": 660,
+    "sha256": "65881cd20c586a7d2f9589c8140dd59e9b28e8b0fe227fa558abfff74b4c8ea9"
+  },
+  {
+    "path": "game-tables/DragonValleySearchFactorData.bin",
+    "bytes": 3829,
+    "sha256": "b4c62f1be3281033140a3fb39f9633d556a3583a23faedb22591e504e143e6ac"
+  },
+  {
+    "path": "game-tables/DragonValleySearchProbData.bin",
+    "bytes": 134,
+    "sha256": "dd0a20ba822a0ad521b6c8e4caddf78072412158d9dc439e023082303d3bcb54"
+  },
+  {
+    "path": "game-tables/DragonValleySearchWaveData.bin",
+    "bytes": 1812,
+    "sha256": "e86c309d643c12a33f8d11fab43f8f7131c451df1f8d9d8e86c8f97143ea333b"
+  },
+  {
+    "path": "game-tables/DragonValleySeason3ArchaeologyData.bin",
+    "bytes": 200,
+    "sha256": "cfd5d634539545f7b0be7f6cc1d07a8390d2cd91347c6f656ace03548c5c6470"
+  },
+  {
+    "path": "game-tables/DragonValleySeason3ArchaeologyGemData.bin",
+    "bytes": 892,
+    "sha256": "56f1c9fc643e98dbce55be37e6b829d091a7a349c8ee7a0cdcbbc075dca32606"
+  },
+  {
+    "path": "game-tables/DragonValleySeason3ArchaeologyIdentifyData.bin",
+    "bytes": 613,
+    "sha256": "7b80c71f8ce36e89bc38f00124dddf52da117e67a94fa0f4a9925cf13d843eba"
+  },
+  {
+    "path": "game-tables/DragonValleySeason3ArchaeologyTradeData.bin",
+    "bytes": 2852,
+    "sha256": "7e1cacf95865eb1ca8dc9810e12def737a8d18c2aeb7a745535261f0f5bafe05"
+  },
+  {
+    "path": "game-tables/DragonValleySeason3ConfigData.bin",
+    "bytes": 77,
+    "sha256": "5acb9613b0d844a203bc949e0311faa2585ec08e13bc940cde38d60009cdeb0e"
+  },
+  {
+    "path": "game-tables/DragonValleySeason3CookData.bin",
+    "bytes": 470,
+    "sha256": "bc82deb7bb85cc7a9239d2af57dda8c83a2e76b3f7f8e20fda1a68ba14bbf381"
+  },
+  {
+    "path": "game-tables/DragonValleySeason3HallOfFameData.bin",
+    "bytes": 63,
+    "sha256": "62fdb6193ce35be2dc30e37e0b0da9a98b7ebef8c22ffb57e4cc50e37c9c4c85"
+  },
+  {
+    "path": "game-tables/DragonValleySeason3HuntBattleData.bin",
+    "bytes": 2312,
+    "sha256": "b9f53ddcfdc8660871c73bc360b02293e7bd7affdfa3b56500591c7d3f79fda8"
+  },
+  {
+    "path": "game-tables/DragonValleySeason3SearchBattleData.bin",
+    "bytes": 1156,
+    "sha256": "22c70efc4205601acc6a686ec09662f2cda7a3c84d85f2209fca8d75eab3a4a7"
+  },
+  {
+    "path": "game-tables/DragonValleySeason3SearchData.bin",
+    "bytes": 660,
+    "sha256": "47987aca7e91cbc6487b746f9d8f44b18ee5336d4eec2c112897ba81dab00e15"
+  },
+  {
+    "path": "game-tables/DragonValleySeason3SearchFactorData.bin",
+    "bytes": 3829,
+    "sha256": "65e08f3af3900e8fa57c9477a6bf5db7295fb0804d5fbbee93f3c41226426906"
+  },
+  {
+    "path": "game-tables/DragonValleySeason3SearchProbData.bin",
+    "bytes": 134,
+    "sha256": "0f5e1da94697e10cbd0ee586a774c2bd9660c7001ea309d0a2c6a24430acf28c"
+  },
+  {
+    "path": "game-tables/DragonValleySeason3SearchWaveData.bin",
+    "bytes": 1812,
+    "sha256": "b77b061105638713800a7d517623a4732e796bdb906b2207828d52a69b31bf58"
+  },
+  {
+    "path": "game-tables/DragonValleySeason3TierData.bin",
+    "bytes": 214,
+    "sha256": "257df80aa31c8ff3d294ed664769d6cba7ea9ff521c30210a857878761e7aad7"
+  },
+  {
+    "path": "game-tables/DragonValleySeason3TradeData.bin",
+    "bytes": 8812,
+    "sha256": "dc300b0238ce2f4a8a72f21f916ff23c21c6d74fabf740d05983e4151f05e0cb"
+  },
+  {
+    "path": "game-tables/DragonValleySeason4ConfigData.bin",
+    "bytes": 89,
+    "sha256": "87d0660cbce2e791eb98a671b8c5bb8ca71e6deae7c11ed4e7a14ace7d2a6baa"
+  },
+  {
+    "path": "game-tables/DragonValleySeason4CookData.bin",
+    "bytes": 505,
+    "sha256": "67b3a39027150f46271ec1fcbc7afae837faadd060d2d64fc18172fbc33c0ba0"
+  },
+  {
+    "path": "game-tables/DragonValleySeason4EtherCardData.bin",
+    "bytes": 3406,
+    "sha256": "3df33d2e89b01529f0e1cfe052175397d6fb155298eb10cd148869905d736050"
+  },
+  {
+    "path": "game-tables/DragonValleySeason4EtherGradePoolData.bin",
+    "bytes": 214,
+    "sha256": "e0358ce62d30631ad00f297013009195a25430adf29fa8f96991eacefddeff2c"
+  },
+  {
+    "path": "game-tables/DragonValleySeason4EtherobotData.bin",
+    "bytes": 584,
+    "sha256": "25fff4e57d44e11c811c410691022797870c3b151c1f3145c9f4cd35144e7666"
+  },
+  {
+    "path": "game-tables/DragonValleySeason4EtherobotStatData.bin",
+    "bytes": 191,
+    "sha256": "70f6d67b0e3d9c8e2c1bc3bce82ef8e777be48a832a5fe12db295bd69277abd0"
+  },
+  {
+    "path": "game-tables/DragonValleySeason4HallOfFameData.bin",
+    "bytes": 100,
+    "sha256": "ca41a53921dc4fea760d131bdf9de6286cfdc896dfc3d3979bc488806d3c2980"
+  },
+  {
+    "path": "game-tables/DragonValleySeason4HuntBattleData.bin",
+    "bytes": 2312,
+    "sha256": "b9f53ddcfdc8660871c73bc360b02293e7bd7affdfa3b56500591c7d3f79fda8"
+  },
+  {
+    "path": "game-tables/DragonValleySeason4ScientistConfigData.bin",
+    "bytes": 29,
+    "sha256": "e899f3a6ad42f1207fcb83ca3cb1dbe82216601b328f8be296ff67e561bdd0b5"
+  },
+  {
+    "path": "game-tables/DragonValleySeason4SearchBattleData.bin",
+    "bytes": 1156,
+    "sha256": "22c70efc4205601acc6a686ec09662f2cda7a3c84d85f2209fca8d75eab3a4a7"
+  },
+  {
+    "path": "game-tables/DragonValleySeason4SearchData.bin",
+    "bytes": 660,
+    "sha256": "47987aca7e91cbc6487b746f9d8f44b18ee5336d4eec2c112897ba81dab00e15"
+  },
+  {
+    "path": "game-tables/DragonValleySeason4SearchFactorData.bin",
+    "bytes": 3982,
+    "sha256": "b0e4208b9e35a189dc105dad25f26a3c3bb1178a20ea95595806e4e95baf2631"
+  },
+  {
+    "path": "game-tables/DragonValleySeason4SearchProbData.bin",
+    "bytes": 134,
+    "sha256": "dd0a20ba822a0ad521b6c8e4caddf78072412158d9dc439e023082303d3bcb54"
+  },
+  {
+    "path": "game-tables/DragonValleySeason4SearchWaveData.bin",
+    "bytes": 1812,
+    "sha256": "53388ebef01ee39ec439c2a2d19b5d8d27fc5bfc33194aa1adcc5a9238f265f6"
+  },
+  {
+    "path": "game-tables/DragonValleySeason4TierData.bin",
+    "bytes": 214,
+    "sha256": "257df80aa31c8ff3d294ed664769d6cba7ea9ff521c30210a857878761e7aad7"
+  },
+  {
+    "path": "game-tables/DragonValleySeason5ConfigData.bin",
+    "bytes": 73,
+    "sha256": "ccfaa9734e639493a0a592864827f63a628f04737aa44eca73997642e823dfe6"
+  },
+  {
+    "path": "game-tables/DragonValleySeason5CookConfigData.bin",
+    "bytes": 21,
+    "sha256": "8dc4526ec86df22f65c39b72b39654998db39cd150bbb1fc46ab1aa84de39d60"
+  },
+  {
+    "path": "game-tables/DragonValleySeason5CookData.bin",
+    "bytes": 513,
+    "sha256": "d67f14b713a9555e8ec87f4fd72a5c369625060406cf157a42c75360e94959e0"
+  },
+  {
+    "path": "game-tables/DragonValleySeason5CookMaterialData.bin",
+    "bytes": 613,
+    "sha256": "01034d5de588d5091d4791dc465ad6c2594ddc9f7d6b6089d003ee3e14d84ff3"
+  },
+  {
+    "path": "game-tables/DragonValleySeason5EtherCardData.bin",
+    "bytes": 4635,
+    "sha256": "c7f11494cf97e727587bc9d29c725b11278cb97be67612a1d93755b1a6f12848"
+  },
+  {
+    "path": "game-tables/DragonValleySeason5EtherGradePoolData.bin",
+    "bytes": 214,
+    "sha256": "e0358ce62d30631ad00f297013009195a25430adf29fa8f96991eacefddeff2c"
+  },
+  {
+    "path": "game-tables/DragonValleySeason5HallOfFameData.bin",
+    "bytes": 100,
+    "sha256": "ca41a53921dc4fea760d131bdf9de6286cfdc896dfc3d3979bc488806d3c2980"
+  },
+  {
+    "path": "game-tables/DragonValleySeason5HuntBattleData.bin",
+    "bytes": 2312,
+    "sha256": "b9f53ddcfdc8660871c73bc360b02293e7bd7affdfa3b56500591c7d3f79fda8"
+  },
+  {
+    "path": "game-tables/DragonValleySeason5SearchBattleData.bin",
+    "bytes": 1156,
+    "sha256": "22c70efc4205601acc6a686ec09662f2cda7a3c84d85f2209fca8d75eab3a4a7"
+  },
+  {
+    "path": "game-tables/DragonValleySeason5SearchData.bin",
+    "bytes": 660,
+    "sha256": "47987aca7e91cbc6487b746f9d8f44b18ee5336d4eec2c112897ba81dab00e15"
+  },
+  {
+    "path": "game-tables/DragonValleySeason5SearchFactorData.bin",
+    "bytes": 4135,
+    "sha256": "a7541a6a3fd74393cf513aba75e1a55e0748d3d183f746c00cd0fd881b2c0e52"
+  },
+  {
+    "path": "game-tables/DragonValleySeason5SearchProbData.bin",
+    "bytes": 134,
+    "sha256": "dd0a20ba822a0ad521b6c8e4caddf78072412158d9dc439e023082303d3bcb54"
+  },
+  {
+    "path": "game-tables/DragonValleySeason5SearchWaveData.bin",
+    "bytes": 1812,
+    "sha256": "7a27e59d48a763b7b57e6426e8c39b5acb31b8d7a1d557cd53d54800c45403ef"
+  },
+  {
+    "path": "game-tables/DragonValleySeason5SpecialCookData.bin",
+    "bytes": 4756,
+    "sha256": "d3fa06d84a73ce3f6dfbf42170a878957bde32e53a22c8079f2be91709d87836"
+  },
+  {
+    "path": "game-tables/DragonValleySeason5TierData.bin",
+    "bytes": 214,
+    "sha256": "257df80aa31c8ff3d294ed664769d6cba7ea9ff521c30210a857878761e7aad7"
+  },
+  {
+    "path": "game-tables/DragonValleySeason5TradeData.bin",
+    "bytes": 1316,
+    "sha256": "f86eb85d505c33437a89786932d742589922b68469e4cb6a786e028fb023b92b"
+  },
+  {
+    "path": "game-tables/DragonValleyTierData.bin",
+    "bytes": 214,
+    "sha256": "257df80aa31c8ff3d294ed664769d6cba7ea9ff521c30210a857878761e7aad7"
+  },
+  {
+    "path": "game-tables/DragonValleyTradeData.bin",
+    "bytes": 8812,
+    "sha256": "dc300b0238ce2f4a8a72f21f916ff23c21c6d74fabf740d05983e4151f05e0cb"
+  },
+  {
+    "path": "game-tables/EmoticonBaseData.bin",
+    "bytes": 164,
+    "sha256": "815ac86c7435b520917252d8634d4770283397f51f9909df4b779f029c6f9fb6"
+  },
+  {
+    "path": "game-tables/EmoticonPurchaseData.bin",
+    "bytes": 57,
+    "sha256": "9a6e5013cba837459c0ba7aefbc7edfb766086e36e28331e85cc20f1bdcfe7b1"
+  },
+  {
+    "path": "game-tables/EquipmentBaseData.bin",
+    "bytes": 954,
+    "sha256": "b0a66cb5de43228ac4614cba40fffb5cec5108d01d78c8aa62a0cc53e60a7a8e"
+  },
+  {
+    "path": "game-tables/EquipmentGachaLevelBaseData.bin",
+    "bytes": 374,
+    "sha256": "49659fc242c219c4084a4f25c794dbffe2fd6061fc12d950d403013a51146c05"
+  },
+  {
+    "path": "game-tables/EquipmentGachaRewardBaseData.bin",
+    "bytes": 157,
+    "sha256": "403d856f0149db1d3db7345078d700f755401ff055951e5f039f229fa70dcde5"
+  },
+  {
+    "path": "game-tables/EquipmentInfoBaseData.bin",
+    "bytes": 42529,
+    "sha256": "9d2109a56515601ea6bb2d65d9cf7c508f776f0aa2782dcdd1b153cc0ffa0100"
+  },
+  {
+    "path": "game-tables/EquipmentRefineBaseData.bin",
+    "bytes": 187,
+    "sha256": "9ff5eb963a5c609acc8c0de06af5b2d375f3a05a353fa7a947285b59c0dde7cb"
+  },
+  {
+    "path": "game-tables/EquipmentRefineConfigData.bin",
+    "bytes": 17,
+    "sha256": "739c211bb76a9dd1578c1e0b5299ca86462978f3c7c7c44007669b4121f36062"
+  },
+  {
+    "path": "game-tables/EventAttendanceBaseData.bin",
+    "bytes": 1004,
+    "sha256": "07bdff7462a05fc5deb953eab6ebb423f1392b553f1e0ce40d6d53e08f6f6743"
+  },
+  {
+    "path": "game-tables/EventBaseData.bin",
+    "bytes": 3111,
+    "sha256": "d64470b4bbdb7855082fd85f7a4ee697ac4c53e9c01b9e2a382eaf8fb9a4d356"
+  },
+  {
+    "path": "game-tables/EventBinGoBaseData.bin",
+    "bytes": 729,
+    "sha256": "f6a2339f3f44cb04ed23f3a6b83a49c11b78cd277fb38faa6292ca73c10eb3ea"
+  },
+  {
+    "path": "game-tables/EventBinGoConfigData.bin",
+    "bytes": 41,
+    "sha256": "4bf88d31818cd96c7544d4e3bfbbd23891ebe9f24fdbe7f6508932386a78d38b"
+  },
+  {
+    "path": "game-tables/EventBinGoLineRewardData.bin",
+    "bytes": 256,
+    "sha256": "d8a64adc56c45b2f3bc73c13d44a4a6f759fd027291392116d54c9f18e28db27"
+  },
+  {
+    "path": "game-tables/EventBinGoTotalRewardData.bin",
+    "bytes": 89,
+    "sha256": "9431d884da03592e235384c2dcbe7da356e5076faf5840151a40712b9fa8032c"
+  },
+  {
+    "path": "game-tables/EventBluemarbleBaseData.bin",
+    "bytes": 924,
+    "sha256": "aae929ed6f6ecdd0280d070e67ed697d6c100e7f0c67722215777e02b87c02c2"
+  },
+  {
+    "path": "game-tables/EventBluemarbleConfigData.bin",
+    "bytes": 17,
+    "sha256": "1d798446906d673fc1b5eb48111c5a3f1f7dd34c4285673d36f93a2f618426d2"
+  },
+  {
+    "path": "game-tables/EventBuffData.bin",
+    "bytes": 1534,
+    "sha256": "c6d47fb1bf6e4fe17959ce37fe5bd8c524325a53771816e68b392595809ef66d"
+  },
+  {
+    "path": "game-tables/EventBuffWeaponSkinData.bin",
+    "bytes": 1251,
+    "sha256": "f8c6e20544a4bd74ac344ef71bacd27d58bf2a8e80696636e972a02c39a4677f"
+  },
+  {
+    "path": "game-tables/EventDailyMissionData.bin",
+    "bytes": 12591,
+    "sha256": "fd49782c0fa5242b92bd78afcc13de8fe9b3cb0d8104be9997b61e5edbffda55"
+  },
+  {
+    "path": "game-tables/EventFindBaseData.bin",
+    "bytes": 472,
+    "sha256": "dd025f246a0b07312e21c537b0c36bf07d02954bc51b1eab6ad5c0726881e564"
+  },
+  {
+    "path": "game-tables/EventFindConfigData.bin",
+    "bytes": 33,
+    "sha256": "1a9fce6edfd2e027d4e678daab33cff747b02105c1a8ed49485a65fb23102de2"
+  },
+  {
+    "path": "game-tables/EventFindRewardData.bin",
+    "bytes": 412,
+    "sha256": "2c9bc6344a80c952f977842dd13c3f2145b020c99b8fba39416558cbb5aa3b04"
+  },
+  {
+    "path": "game-tables/EventMinigameConfigData.bin",
+    "bytes": 17,
+    "sha256": "66e5df54d6acdfca19b9926620c2e5fc38c56a9670022eaf0e988bdd6430231e"
+  },
+  {
+    "path": "game-tables/EventMinigameRewardData.bin",
+    "bytes": 424,
+    "sha256": "e64b98da31f3e81f8e3621c6966c97c2fa474a58e114edee0988b29311a8d903"
+  },
+  {
+    "path": "game-tables/EventPassRewardData.bin",
+    "bytes": 26244,
+    "sha256": "6b352a0ad9c8c5ecec35e03a0dfa34f5bc4a1cdbdda2ea5e8e4a67e7298536e8"
+  },
+  {
+    "path": "game-tables/EventRPSGameConfigData.bin",
+    "bytes": 33,
+    "sha256": "020e41ce1f679cb92938980266998f5a98deea50c900fa2e5c85cbc119052f76"
+  },
+  {
+    "path": "game-tables/EventRewardBaseData.bin",
+    "bytes": 403,
+    "sha256": "e0af1924c39abaca2aa87e80e0f91b727b7cfd5329d90563da42133b2442df72"
+  },
+  {
+    "path": "game-tables/EventSecretCodeBaseData.bin",
+    "bytes": 412,
+    "sha256": "3ba52cc597351453d7eb2a2861927c0d3377c0ea7d0947a5cf697a41259bd6bd"
+  },
+  {
+    "path": "game-tables/EventSecretCodeConfigData.bin",
+    "bytes": 17,
+    "sha256": "f76c7c98393842fb6507773f77ec15984b6fc97829fc1bc49fdd16428b98a6b4"
+  },
+  {
+    "path": "game-tables/EventShopData.bin",
+    "bytes": 90133,
+    "sha256": "2fe4811938feec824968611d73f02e8e41a75480ef8c5158995a219f972c3f4c"
+  },
+  {
+    "path": "game-tables/EventShopGiftBaseData.bin",
+    "bytes": 17,
+    "sha256": "38b2435c2e90f017bcff5c414cf60614bf6050aab213bd170f1042aa19b674e4"
+  },
+  {
+    "path": "game-tables/EventShopGiftRewardData.bin",
+    "bytes": 208,
+    "sha256": "67621d6e9637beb07febc17a37fbf7c175dd71610255d3ebb22732bb7cfb9f52"
+  },
+  {
+    "path": "game-tables/EventSkinShopData.bin",
+    "bytes": 13451,
+    "sha256": "c198d9efadfc6cf4ceb535109705928d944ed4d2ffa9a65091bef771e82c512e"
+  },
+  {
+    "path": "game-tables/EventSpecialPackageRewardData.bin",
+    "bytes": 1064,
+    "sha256": "8f2a531d85802341e4a387c0463f5bc3d570faba1c9e54e69d48b7a8e0c34317"
+  },
+  {
+    "path": "game-tables/EventStepUpPackageRewardData.bin",
+    "bytes": 7080,
+    "sha256": "bee3c3b722ff7f8adb3cc663eb09cd778649d23993e296b0bbdf6442f5bbeacd"
+  },
+  {
+    "path": "game-tables/FountainAwakenBaseData.bin",
+    "bytes": 537,
+    "sha256": "8cf1ae76a33ecea01e05bf7e8c14c17680e38228aca4aa4b8a3c563cc7ca0079"
+  },
+  {
+    "path": "game-tables/FountainAwakenConfigData.bin",
+    "bytes": 45,
+    "sha256": "ebdf1d7df366987c83a71a806f6110e3ca60c9a24e3cc23069e417d3ccac5a33"
+  },
+  {
+    "path": "game-tables/FriendBattleInfoBaseData.bin",
+    "bytes": 123142,
+    "sha256": "4eee3cd4c45e4e92ba382443500b989f22a76e6042278c290cb59ffd55a8e33c"
+  },
+  {
+    "path": "game-tables/FriendClassBaseData.bin",
+    "bytes": 9670,
+    "sha256": "9cd82801aa0d8dcb8c0190e648f7effeb8d61f1ec433d466ad0529072e225726"
+  },
+  {
+    "path": "game-tables/FriendGradeFactorBaseData.bin",
+    "bytes": 654,
+    "sha256": "2239abfadddf340910bead7c8166e27b56493af20fc6f96f7bbbdde24ef05266"
+  },
+  {
+    "path": "game-tables/FriendOptionValueBaseData.bin",
+    "bytes": 323,
+    "sha256": "6183f2929578ff7e0a0c198f6e6c546b59b43edf6b4f6b715ae0e18e2e66c237"
+  },
+  {
+    "path": "game-tables/FriendPassiveBaseData.bin",
+    "bytes": 3928,
+    "sha256": "adeb8a164521b2d5e2948e5dd4bf08093fc8e88836c9197fa8eff27de486cde9"
+  },
+  {
+    "path": "game-tables/FriendPassiveDmgBaseData.bin",
+    "bytes": 13513,
+    "sha256": "4a215788643f6e500fd9c197229c7978c3f216dd178d45f3e709bd832945d3c5"
+  },
+  {
+    "path": "game-tables/GuildAssistData.bin",
+    "bytes": 1114,
+    "sha256": "35d4e09297a35fc82f41b3e77849304f74129e0ec1991ce8e1f6b966c35af099"
+  },
+  {
+    "path": "game-tables/GuildBeastAbilityData.bin",
+    "bytes": 634,
+    "sha256": "b441fb9527d08508fb3e7a6d4a1ee5dd1a98c742f37afd66b6bb99dfed8a941c"
+  },
+  {
+    "path": "game-tables/GuildBeastFriendshipData.bin",
+    "bytes": 69,
+    "sha256": "e7524a6ba161deae1768df896478cb83aed577259c401b5df42d2fe1d350473a"
+  },
+  {
+    "path": "game-tables/GuildConfigData.bin",
+    "bytes": 73,
+    "sha256": "3bb00f90d46d05564435369fafdfdeba3c162e1f62576105ebf54cc06ccc8e51"
+  },
+  {
+    "path": "game-tables/GuildLevelData.bin",
+    "bytes": 804,
+    "sha256": "80654a12a4fb7a1c3014471f9f5f8738a51de4dfbc9d245d37c903307af2ab7f"
+  },
+  {
+    "path": "game-tables/GuildMemberCountData.bin",
+    "bytes": 514,
+    "sha256": "879a620047b8997aad65fff41bd647058efa993433dc0a8790525973de0ebb6e"
+  },
+  {
+    "path": "game-tables/GuildMiniGameMissionData.bin",
+    "bytes": 596,
+    "sha256": "7183a21e93e8b8e222945b4db75c369fc64457c4dc8d19b1b015ff95edc69084"
+  },
+  {
+    "path": "game-tables/GuildMiniGameQuizConfigData.bin",
+    "bytes": 33,
+    "sha256": "b8e7adce15c38282f94616a9cda5a14b39ecc7e06a6cb2637a987b33f07d0391"
+  },
+  {
+    "path": "game-tables/GuildMiniGameQuizData.bin",
+    "bytes": 124,
+    "sha256": "c3c1a60556dcc3486a4f9f517de2ef174d6f4d58e02deba20272d6a3226f66d2"
+  },
+  {
+    "path": "game-tables/GuildMiniGameSwordSparringConfigData.bin",
+    "bytes": 29,
+    "sha256": "e012cf0654d06f4251e373bf12670a2f0d095d997a699f952b9e5456f9f9ea80"
+  },
+  {
+    "path": "game-tables/GuildMiniGameSwordSparringData.bin",
+    "bytes": 994,
+    "sha256": "e7e5ea0bb3a09b47f815253856e92f2c9dcdc09b701a4252bc4437e7c9aaee48"
+  },
+  {
+    "path": "game-tables/GuildQuestBaseData.bin",
+    "bytes": 130,
+    "sha256": "83375cea7264ed0dbe04f66511d1811583e133584b724cf8568fbd130b4d7541"
+  },
+  {
+    "path": "game-tables/GuildQuestBattleInfoData.bin",
+    "bytes": 1009,
+    "sha256": "197bae825a6d24971ff6f6242de2c821d2a1ed7fb0bf28d7dcaaa0b59f05e7e3"
+  },
+  {
+    "path": "game-tables/GuildQuestBattleMonsterBaseData.bin",
+    "bytes": 412,
+    "sha256": "9d22ddf0fa533a6c1e0fd48944a597de77e57ca52227781cbcd7e9c9a495c38b"
+  },
+  {
+    "path": "game-tables/GuildQuestBattleWaveInfoData.bin",
+    "bytes": 694,
+    "sha256": "2ee0c584773a2f8318ddb73f744617f84f7bae183520dc6cf852cc33fb70b7fd"
+  },
+  {
+    "path": "game-tables/GuildQuestDmgTypeInfoData.bin",
+    "bytes": 1024,
+    "sha256": "8139a7870ea816b7cb2a4279e118303c7c860bc479a99c846a7e1257c58a9b6b"
+  },
+  {
+    "path": "game-tables/GuildQuestFieldEffectData.bin",
+    "bytes": 5647,
+    "sha256": "bfcb7c6b92e74146e950c0ed30f0a2e27d9b1bed364bd839ffbd294c9b20343b"
+  },
+  {
+    "path": "game-tables/GuildQuestGuildRewardData.bin",
+    "bytes": 444,
+    "sha256": "0b6d65ff63f26821ea1a541ce325f58dd2001f05e017e6f64d355a7adf60c1c4"
+  },
+  {
+    "path": "game-tables/GuildQuestPersonalRewardData.bin",
+    "bytes": 6484,
+    "sha256": "3622643c3a5b611335de14b4e523e02b5a2d8b5f5bef1d3c03fb37c89f941f4e"
+  },
+  {
+    "path": "game-tables/GuildShopCycleData.bin",
+    "bytes": 760,
+    "sha256": "8e65ee2beb800f8742e6db2c515ec232846edbf4b5ece0cf8aab3c2dcac8da29"
+  },
+  {
+    "path": "game-tables/GuildShopData.bin",
+    "bytes": 1292,
+    "sha256": "fc977bbc98ceb5e42cdeda2622ed79e9b75f010c8187108115a6626123eae886"
+  },
+  {
+    "path": "game-tables/GuildShopUnlockData.bin",
+    "bytes": 394,
+    "sha256": "04bb9ef3b56ccb1596f6fa061a3a673652f6b870a91d7ae36e59c450ecfc46c4"
+  },
+  {
+    "path": "game-tables/ImmortalTreeConfigData.bin",
+    "bytes": 41,
+    "sha256": "42681310ab0e289ab82a5666e9f8526068bc6c8d476adede32ee8a136167d67a"
+  },
+  {
+    "path": "game-tables/ImmortalTreeFactorData.bin",
+    "bytes": 56,
+    "sha256": "807827edec31d5659efd215006c6584eb85b44b0402bb6b77f8b6fddd2cd82fe"
+  },
+  {
+    "path": "game-tables/ImmortalTreeGetCurrencyInfoData.bin",
+    "bytes": 849,
+    "sha256": "3ec26c928478e4f9ec02496f1e533bfd597fca72938fe70f269ea4dcc8567fd1"
+  },
+  {
+    "path": "game-tables/ImmortalTreeMainNodeData.bin",
+    "bytes": 424,
+    "sha256": "c052bef4a2ca24cd24bbaa2f8af06145f1afdb3bd812f6b9b9beed4bec0fe14c"
+  },
+  {
+    "path": "game-tables/ImmortalTreeSubNodeData.bin",
+    "bytes": 9559,
+    "sha256": "4c28b81832a7aca785c4dd23c16a6efd510eeac12cecd59580c5d55a2c021253"
+  },
+  {
+    "path": "game-tables/ImmortalTreeUpgradeData.bin",
+    "bytes": 2238,
+    "sha256": "d85c0a26e3990d42e89ace31541e0d1a05842bd51a561bc71a754117cc4fc8e9"
+  },
+  {
+    "path": "game-tables/InvitationInfoBaseData.bin",
+    "bytes": 77,
+    "sha256": "e0273c6987abed6725b650a86a508e865db8d2a5ea1809d857b354dad2d68e75"
+  },
+  {
+    "path": "game-tables/InvitationInfoCheerupRewardData.bin",
+    "bytes": 109,
+    "sha256": "7a808cd49e1b3ecfcf208f195ac4d38abffe4a2b3ac3acb107d2c599b5b1621f"
+  },
+  {
+    "path": "game-tables/InvitationInfoInviteRewardData.bin",
+    "bytes": 115,
+    "sha256": "7f83d6d94a9ce6f923febaf6685f30ab8287cd6d89cad035030bc6fb4cf17cc0"
+  },
+  {
+    "path": "game-tables/ItemInfomationBaseData.bin",
+    "bytes": 13013,
+    "sha256": "ac3104cc57a98071b5c11048065dc73be4fa20995d055235e4ffe57d18991c4b"
+  },
+  {
+    "path": "game-tables/KnowledgeInfoBaseData.bin",
+    "bytes": 254377,
+    "sha256": "0849623e9c2d37a1a07b1abbb81d25ffb27b05ca6677d6e7eb01d4fc78815e5b"
+  },
+  {
+    "path": "game-tables/KnowledgeInfoSuperCriticalBaseData.bin",
+    "bytes": 823,
+    "sha256": "4304e01b5642364a79d20677d1dd8389da74793dace17310a99f557137468a87"
+  },
+  {
+    "path": "game-tables/MineInfoBaseData.bin",
+    "bytes": 1324837,
+    "sha256": "cec5830cd8e3941e99ee4cf9e739ba360f4480d2b11aec736d74ac8982772d55"
+  },
+  {
+    "path": "game-tables/MineWaveInfoBaseData.bin",
+    "bytes": 214734,
+    "sha256": "bc40bec5f6e9a0c8d624392819b475e3d652f9fbfb296e801eac8490cf6b74f4"
+  },
+  {
+    "path": "game-tables/MiniQuestBaseData.bin",
+    "bytes": 4624,
+    "sha256": "a9bb72f98926229a5439a9017f27a56b1075a10f5f830a4932a3792b0659796e"
+  },
+  {
+    "path": "game-tables/MinigameBalloonBaseData.bin",
+    "bytes": 235,
+    "sha256": "c2befdac7e366dfbc66b355616d943e15274f4916de8cce8d3a8aac9bb455c85"
+  },
+  {
+    "path": "game-tables/MinigameBalloonConfigData.bin",
+    "bytes": 17,
+    "sha256": "36e1608407430917c09f0bc7c1bcaaa28b044bc4482ea6ec1c82c7450ba13966"
+  },
+  {
+    "path": "game-tables/MinigameCardMatchingBaseData.bin",
+    "bytes": 88,
+    "sha256": "3df66685c8bbc63ade2fae9cb74e5f98b39709a561e04fe27acfc53c0e0954a1"
+  },
+  {
+    "path": "game-tables/MinigameCardMatchingConfigData.bin",
+    "bytes": 17,
+    "sha256": "66e5df54d6acdfca19b9926620c2e5fc38c56a9670022eaf0e988bdd6430231e"
+  },
+  {
+    "path": "game-tables/MinigameCardMatchingRewardData.bin",
+    "bytes": 424,
+    "sha256": "e64b98da31f3e81f8e3621c6966c97c2fa474a58e114edee0988b29311a8d903"
+  },
+  {
+    "path": "game-tables/MinigameDefenseConfigData.bin",
+    "bytes": 21,
+    "sha256": "2a5a854c0479ebaa3699377e4ca933c61134452f3e1d6039a8c15c46885715e6"
+  },
+  {
+    "path": "game-tables/MinigameDefenseDifficultyData.bin",
+    "bytes": 25,
+    "sha256": "c8853799da4db26303744ec043752f5b719385d45d59e62de9561859775c1ee1"
+  },
+  {
+    "path": "game-tables/MinigameDefenseRewardData.bin",
+    "bytes": 480,
+    "sha256": "69181d9ec1f5fa200663b58b92c2ca69bab2682edb29b717773490107755be26"
+  },
+  {
+    "path": "game-tables/MinigameFishingBaseData.bin",
+    "bytes": 40,
+    "sha256": "aa6de1ad4375554dadaab65f4c38064a99a6c270461f289ded02e2c6879a7da7"
+  },
+  {
+    "path": "game-tables/MinigameFishingConfigData.bin",
+    "bytes": 17,
+    "sha256": "33fdab5dd65d19e89814fc9af3f79d603daef83aaea22b5cbe01f5c46a91c396"
+  },
+  {
+    "path": "game-tables/MinigameFishingDifficultyData.bin",
+    "bytes": 174,
+    "sha256": "a4a643fd51107447068bf83b5ebfc47d4d049830a49732d5b4244e333a5baa9b"
+  },
+  {
+    "path": "game-tables/MinigameFishingRewardData.bin",
+    "bytes": 256,
+    "sha256": "79666b63d3866f9ff7a62cfff8138846c030eade94a509d548b5904b7e6419fb"
+  },
+  {
+    "path": "game-tables/MinigameFlappyBirdBaseData.bin",
+    "bytes": 361,
+    "sha256": "10d5971dd70f53a4d49ef0a6b6fb07bf3f55aa35369f68b8cff9adffc87b6710"
+  },
+  {
+    "path": "game-tables/MinigameFlappyBirdConfigData.bin",
+    "bytes": 21,
+    "sha256": "22a8854efe50e387789df351a1df5cfaa5f1ac317d48eafcb547de6f7c3809c6"
+  },
+  {
+    "path": "game-tables/MinigameFlappyBirdPresentCountData.bin",
+    "bytes": 40,
+    "sha256": "13677b310db788066bf30997df2bc12296b83daf156593c942600365ec38dafa"
+  },
+  {
+    "path": "game-tables/MinigameFlappyBirdRewardData.bin",
+    "bytes": 480,
+    "sha256": "47c6976bf2c60676c6860a4706a537a4f3741d69c735423dbead9681118eba38"
+  },
+  {
+    "path": "game-tables/MinigameFruitBaseData.bin",
+    "bytes": 37,
+    "sha256": "3fbbe6e595ee58d8db6b45e6d525de7487e7fa1547dd364f2a8331fd8363a4b0"
+  },
+  {
+    "path": "game-tables/MinigameFruitFruitData.bin",
+    "bytes": 204,
+    "sha256": "cd431047e611778ce744dd0354c3366c36bcf8ed85d2a481b4225b0797513313"
+  },
+  {
+    "path": "game-tables/MinigameFruitRewardData.bin",
+    "bytes": 424,
+    "sha256": "e64b98da31f3e81f8e3621c6966c97c2fa474a58e114edee0988b29311a8d903"
+  },
+  {
+    "path": "game-tables/MinigameFruitWaveData.bin",
+    "bytes": 264,
+    "sha256": "684349dfbc01a0cbcaaab3b754f9f381a03cf3bb464d3682d3ea0b424484196f"
+  },
+  {
+    "path": "game-tables/MinigameMoleBaseData.bin",
+    "bytes": 45,
+    "sha256": "da8dcb1e75e7834bf2290149e2af76ad1b4447ac9313ce11d5e26e0874becb50"
+  },
+  {
+    "path": "game-tables/MinigameMoleMoleData.bin",
+    "bytes": 172,
+    "sha256": "198686cdd92776c009ed1355ebe10e20e90486e9ec83e9210987fa00ea8a0ad1"
+  },
+  {
+    "path": "game-tables/MinigameMoleRewardData.bin",
+    "bytes": 424,
+    "sha256": "e64b98da31f3e81f8e3621c6966c97c2fa474a58e114edee0988b29311a8d903"
+  },
+  {
+    "path": "game-tables/MinigameMoleWaveData.bin",
+    "bytes": 706,
+    "sha256": "84143ed6678411db34c33d686a72b020894af41e094cbe8d1b7e4974e6db4a0c"
+  },
+  {
+    "path": "game-tables/MinigameRaceBaseData.bin",
+    "bytes": 21,
+    "sha256": "d63b401f7d668346fd008139a2d2cabad0a88d3bdf923fc105acc17bf921f7cb"
+  },
+  {
+    "path": "game-tables/MinigameRaceRaceData.bin",
+    "bytes": 7079,
+    "sha256": "04011d69ea40c1222467a42f62ecbe2ab890528dc962f4dead1ddd3de98a1cb9"
+  },
+  {
+    "path": "game-tables/MinigameRaceRewardData.bin",
+    "bytes": 592,
+    "sha256": "7fc52584afc8109c18a0af569248129303abc6c6139b040c1cf1f86e56c8b3f7"
+  },
+  {
+    "path": "game-tables/MinigameRetryTypeConfigData.bin",
+    "bytes": 55,
+    "sha256": "38074fe3230c11ff798278aedb2095a8f6adc8f0c75cd6e729b4474e8ec6952a"
+  },
+  {
+    "path": "game-tables/MinigameRetryTypeRewardAmountData.bin",
+    "bytes": 259,
+    "sha256": "c1d803f61a6998e7451444d8fecde3ec8ef2c92898aada0a347df65134b3540a"
+  },
+  {
+    "path": "game-tables/MinigameRetryTypeRewardData.bin",
+    "bytes": 1579,
+    "sha256": "16e6c0afb1c3299d45b97b641e112631270d15fe244b6eb0efee728d7c984ab4"
+  },
+  {
+    "path": "game-tables/MinigameRhythmBaseData.bin",
+    "bytes": 954,
+    "sha256": "ea1bf385174fd0c30919dd52b782445b09e1bd74d031d1638f91e5a9ad78b1cc"
+  },
+  {
+    "path": "game-tables/MinigameRhythmBaseMRData.bin",
+    "bytes": 706,
+    "sha256": "699c1296a798617b95217337511c813a3987c1310585e3b7509cb3e8bc2e3f47"
+  },
+  {
+    "path": "game-tables/MinigameRhythmConfigData.bin",
+    "bytes": 17,
+    "sha256": "b359f60b6c96a6511cfd01f13f08424180c43dfa2ef24c08fa524336cb8d83ba"
+  },
+  {
+    "path": "game-tables/MinigameRhythmRewardAmountData.bin",
+    "bytes": 69,
+    "sha256": "873a7c77c7a4c0c7e2bb818187b78e4955f913e0f83c4426d6ddd552e158d22b"
+  },
+  {
+    "path": "game-tables/MinigameRhythmRewardData.bin",
+    "bytes": 361,
+    "sha256": "1b47c322ae046d4b0405ffb383326fbf660bc234b51ca78417318c0160b6b224"
+  },
+  {
+    "path": "game-tables/MinigameShootingConfigData.bin",
+    "bytes": 109,
+    "sha256": "27a1fdf5f9fa02990f823fb644bd27d2f5bffec67409d69cbc462a6419c045a2"
+  },
+  {
+    "path": "game-tables/MinigameShootingDefaultScoreData.bin",
+    "bytes": 736,
+    "sha256": "32af0c1321d19e0e90f3dd45ff4d45cf1527773d44bc88fc8c963a948d333ed6"
+  },
+  {
+    "path": "game-tables/MinigameShootingEnemyInfoData.bin",
+    "bytes": 109,
+    "sha256": "3b7f1f8ce4ac846f3642fe4dff6e46bc119715e00bcd4f4eb7d46bff72a2be3e"
+  },
+  {
+    "path": "game-tables/MinigameShootingEnemyTypeData.bin",
+    "bytes": 1412,
+    "sha256": "41443b67326f8c2414dff2d4efc3bce82ae75e899fd90e9b7f7eb2531b93100a"
+  },
+  {
+    "path": "game-tables/MinigameShootingLevelUpData.bin",
+    "bytes": 134,
+    "sha256": "1c99566a54cbca1cb1182918f03b3c664c8a5aab907fcf2ea5d5f3f09e9510e5"
+  },
+  {
+    "path": "game-tables/MinigameShootingWaveInfoData.bin",
+    "bytes": 229,
+    "sha256": "f492604f4c92eb66281872d54ac86b21c64331a5b85fc9b93f493604241c001b"
+  },
+  {
+    "path": "game-tables/MinigameStackingBaseData.bin",
+    "bytes": 1033,
+    "sha256": "b56c6b3f3844060df6aff71f441ca5f010152b7c17b9cdf1f539fc88d6f5ae40"
+  },
+  {
+    "path": "game-tables/MinigameStackingConfigData.bin",
+    "bytes": 17,
+    "sha256": "ed8a9dfd729267d04ff586282825362fe2413dbe81351bed91df3c0684503e5e"
+  },
+  {
+    "path": "game-tables/MinigameStackingCustomerAppearanceData.bin",
+    "bytes": 382,
+    "sha256": "76d1ec7f2b90692f0663329a6aee4802be394faf527e21debebecc3e567ba05f"
+  },
+  {
+    "path": "game-tables/MinigameStackingRewardData.bin",
+    "bytes": 424,
+    "sha256": "7674296d35397dab5ca94b50cfc0601d5de147d340d243b9c7674a08d856cbde"
+  },
+  {
+    "path": "game-tables/MonsterDistanceInfoBaseData.bin",
+    "bytes": 994,
+    "sha256": "ceab9ba16854ca32c0757b1e1af4f68ae89046c38a8b23ff90b04084f6ce78d7"
+  },
+  {
+    "path": "game-tables/MonsterInfoBaseData.bin",
+    "bytes": 69008,
+    "sha256": "a63fd02b3949ea01f00ae0f0fb56b63875824769860a3bfc2b47e26580c4ebce"
+  },
+  {
+    "path": "game-tables/NewUserAttendanceBaseData.bin",
+    "bytes": 1854,
+    "sha256": "7c65857b203cbf44e7493017274d585b1c3e9bcc3dff048aacd6153247c5385f"
+  },
+  {
+    "path": "game-tables/NewUserAttendanceHighSlayerBaseData.bin",
+    "bytes": 954,
+    "sha256": "3089d478a3881014872e387c2980f498202015e4552fa6238b7982438cd1a508"
+  },
+  {
+    "path": "game-tables/NewUserAttendanceHighSlayerScoreData.bin",
+    "bytes": 169,
+    "sha256": "68dc4e9442ced818948b2efde3b0854ca3c9aad03bcefb1cc821cd05732bac41"
+  },
+  {
+    "path": "game-tables/NewUserAttendanceMiddleSlayerBaseData.bin",
+    "bytes": 929,
+    "sha256": "66d02a97387c5d87328e5f63732e3246fa24c036f81cc67c25e55f7478d2185c"
+  },
+  {
+    "path": "game-tables/NewUserAttendanceMiddleSlayerScoreData.bin",
+    "bytes": 169,
+    "sha256": "11b679f21b3e88e8aeb45e9e568fa5f2eda7236ef07bdfad4b98152dac75b0f5"
+  },
+  {
+    "path": "game-tables/NewUserAttendanceScoreData.bin",
+    "bytes": 169,
+    "sha256": "72686defe12ea7f0b433132b4f7f103f4adc326cf46b387b204027325cdff1af"
+  },
+  {
+    "path": "game-tables/NewUserGrowthMailData.bin",
+    "bytes": 265,
+    "sha256": "102b19d85ec1b2ed4da6a3deab7709130cb698b60601b426678d4f7d185004db"
+  },
+  {
+    "path": "game-tables/NewUserWelcomInfoBaseData.bin",
+    "bytes": 3211,
+    "sha256": "e30bc17f94794ecd1391f035b7f906832a889d577c98caf640fa053a67536a31"
+  },
+  {
+    "path": "game-tables/NewUserWelcomInfoConfigData.bin",
+    "bytes": 21,
+    "sha256": "4e3f4dea6210db9fb2759f7a9a6a37ad35a6ece163e18a374fad2471dd486494"
+  },
+  {
+    "path": "game-tables/NewUserWelcomInfoRewardData.bin",
+    "bytes": 108,
+    "sha256": "757cb1a62d06c979cc54aa555f7729d84ed673ea4437cd99a6f9e0ebed08aad1"
+  },
+  {
+    "path": "game-tables/OptionValueBaseData.bin",
+    "bytes": 367,
+    "sha256": "9c8a1555f2fdca704ff31ee15a01013db2c2d9cd6dbf3426180811d25ffcff41"
+  },
+  {
+    "path": "game-tables/PastProductBaseData.bin",
+    "bytes": 4196,
+    "sha256": "1e481098c8c815d8d1da49419193969fa1154f05ecbb5ee817ba11e987898f1d"
+  },
+  {
+    "path": "game-tables/PlayerClassBaseData.bin",
+    "bytes": 18192,
+    "sha256": "d5931300b18e22c34b5da10e875826fd11f7d0ff867b46a2208061e8d0236990"
+  },
+  {
+    "path": "game-tables/PlayerClassBattleWaveInfoData.bin",
+    "bytes": 3784,
+    "sha256": "320b4fc262d58d3e466c601b23324dc219a47d3bdc06ee59a5a529e685f76b98"
+  },
+  {
+    "path": "game-tables/PlazaConfigData.bin",
+    "bytes": 25,
+    "sha256": "48971150b0a2e8dc4ea05ec9d8a4a9ce084baf5d78e2551752bc178fbbe176cd"
+  },
+  {
+    "path": "game-tables/PlazaFountainConfigData.bin",
+    "bytes": 21,
+    "sha256": "973e30008c965016d5df6fec72cba892a0e6e99708b123b10be5d768e3cfa39d"
+  },
+  {
+    "path": "game-tables/PlazaFountainPrizeData.bin",
+    "bytes": 2629,
+    "sha256": "fc7eaf36c0d9c252486d14f4c3ed185b8b7f4642288599fbcf6baecc2f8de317"
+  },
+  {
+    "path": "game-tables/PlazaFountainRewardData.bin",
+    "bytes": 361,
+    "sha256": "6efcdd76897720c377db40127a8a4feecc7b8f11214dcc5df314243fd64a7c85"
+  },
+  {
+    "path": "game-tables/PlazaMegaphoneConfigData.bin",
+    "bytes": 25,
+    "sha256": "d9a716a492d1b2b14b02ae90d2fceeca7f9dae73f73f0693416906edfc1aee9a"
+  },
+  {
+    "path": "game-tables/PlazaQuestData.bin",
+    "bytes": 340,
+    "sha256": "7e6e1bbfb1b182fc5cbdbd5ceeae10f8d2cbe68b817081fdb78c0a6569d5c523"
+  },
+  {
+    "path": "game-tables/PlazaQuestDetailData.bin",
+    "bytes": 5094,
+    "sha256": "04ba1c219dd3ba30d80886e24b70daebd446843c87e9914081bfc157e98badd9"
+  },
+  {
+    "path": "game-tables/PlazaQuestNpcData.bin",
+    "bytes": 1103,
+    "sha256": "5c0be7d8792f10489de86b3a1e40617787b9400a3e15785f9dacab7c495466f0"
+  },
+  {
+    "path": "game-tables/PlazaTarotCardData.bin",
+    "bytes": 730,
+    "sha256": "b7e010ec06145c789ad06b67c7933db892d02c1869716723fd74a33600798d1f"
+  },
+  {
+    "path": "game-tables/PresetBattlePlayerPresetData.bin",
+    "bytes": 2824,
+    "sha256": "f29979e5ee2f01ff02c844cf733cdd2f2f7fb37e67a883fdc0472d667ceadd7d"
+  },
+  {
+    "path": "game-tables/ProductBaseData.bin",
+    "bytes": 29343,
+    "sha256": "ba76db468033f7402753dce95dfb5f568f0bcb49651b14c2c1a5b11d6686d28e"
+  },
+  {
+    "path": "game-tables/ProductRewardData.bin",
+    "bytes": 8086,
+    "sha256": "a3f0a163962a52cdad32daeab2628436cb6789b42bc391300fcf92df8c5fdd07"
+  },
+  {
+    "path": "game-tables/PromotionPassQuizData.bin",
+    "bytes": 1357,
+    "sha256": "7bfddfba5063aa663901f0b6652bfef036f006078e174d71ad637201d0789b37"
+  },
+  {
+    "path": "game-tables/PromotionPassRewardData.bin",
+    "bytes": 373,
+    "sha256": "8c3d36a1e47ee614a2f798c1e0d56e8a1a04f7d9dd14748de45608b559f20c05"
+  },
+  {
+    "path": "game-tables/QuestAchievementData.bin",
+    "bytes": 82,
+    "sha256": "191cad74313ace27bbef2bde3366e5336b0c7c1662bd49c332395bedfc14c65c"
+  },
+  {
+    "path": "game-tables/QuestDailyData.bin",
+    "bytes": 82,
+    "sha256": "5790aca2f6e0140a18a8037e6a6b2a0c9299a7d4286c2b955096a97430fef9d9"
+  },
+  {
+    "path": "game-tables/QuestRepeatData.bin",
+    "bytes": 134,
+    "sha256": "48f7765e67aa240604f1a26375c373f2b67d2eb4746acde523faedcc1394fb3a"
+  },
+  {
+    "path": "game-tables/RandomRewardBoxBaseData.bin",
+    "bytes": 17,
+    "sha256": "29b9c499e242a02676345a0b9d45a46adae7f2d56ca28eb3aa5e6a6b35e702f5"
+  },
+  {
+    "path": "game-tables/RandomRewardBoxBoxData.bin",
+    "bytes": 1908,
+    "sha256": "e193dd26f2f1010101f8fda28dfb6649b7551e75d4a242bbe87e5fd91bdb75cb"
+  },
+  {
+    "path": "game-tables/RandomRewardBoxGroupData.bin",
+    "bytes": 9313,
+    "sha256": "fa21549f4f868615913ca423e3ab8e5cf676267b7b053b3b95a9248aae17d329"
+  },
+  {
+    "path": "game-tables/RankingBattleModeBaseData.bin",
+    "bytes": 6616,
+    "sha256": "9d95d1616ef78f88e4c2a66b3da28d9b7f70e20ea0135b3cd4ba78b66ea7fab4"
+  },
+  {
+    "path": "game-tables/RankingBattleModeBattleInfoData.bin",
+    "bytes": 862,
+    "sha256": "687d34f9e1cbbf5b03cee06418008501d2ea76645f8d13f6f01980a1ace28e6c"
+  },
+  {
+    "path": "game-tables/RankingBattleModeBossAppearanceInfoData.bin",
+    "bytes": 24127,
+    "sha256": "104f34aa94b6788ff5efc0c27c020e7e3350fc3dc179c39ebdf5d58b41f1749c"
+  },
+  {
+    "path": "game-tables/RewardBaseData.bin",
+    "bytes": 174,
+    "sha256": "8da1ca54b586067e8ee75d0446993a843d981e5da74c57de08413fa48c33a9b9"
+  },
+  {
+    "path": "game-tables/RewardGroupData.bin",
+    "bytes": 649,
+    "sha256": "3b02389c2b35eb8f8f9585f7057e5406ce4b7c7c086bfbc3496786d1e536baa8"
+  },
+  {
+    "path": "game-tables/SeasonBuffBaseData.bin",
+    "bytes": 104,
+    "sha256": "d147936c5e070359cea4e7bd7e8c23c1ce6054fd6ee16ca5fc63161108847b42"
+  },
+  {
+    "path": "game-tables/SeasonRankingBattleData.bin",
+    "bytes": 93532,
+    "sha256": "52eb3117bfdd3651ae4a111e7d8529763ba161f6d310ec49c9ccdc690a42de3a"
+  },
+  {
+    "path": "game-tables/SeasonRankingBattleRewardData.bin",
+    "bytes": 7728,
+    "sha256": "cf5ae89ce10d77db6c5c371e9c5ef4fb8e18e41f17e37b77cbbc2106451969d5"
+  },
+  {
+    "path": "game-tables/SeasonRankingPlayConfigData.bin",
+    "bytes": 37,
+    "sha256": "faa84aa0d8810509a10b7d4476374d383b3d4adee664580751f0c8e3ea0d8ae4"
+  },
+  {
+    "path": "game-tables/SeasonRankingPlayPriceData.bin",
+    "bytes": 342,
+    "sha256": "84174cdc6e61eb4e954132b2997b90c51ca42a8e4dbb0161294173e9f5574adc"
+  },
+  {
+    "path": "game-tables/SeasonRankingSeasonProductData.bin",
+    "bytes": 106,
+    "sha256": "b68d1617f8d31dc2b4529703a481d5173c3cb3936932d876581a8cbdc70c836b"
+  },
+  {
+    "path": "game-tables/SeasonRankingShopData.bin",
+    "bytes": 5219,
+    "sha256": "3d727d21e31461589981f55af309274ce465a12250ba8bc40b0685b75169447c"
+  },
+  {
+    "path": "game-tables/SeasonRankingTierData.bin",
+    "bytes": 234,
+    "sha256": "ce14b2123f97bd1bbd9de76a54eaf961471a9502672538d3a2ccc59db081087c"
+  },
+  {
+    "path": "game-tables/SeasonRankingTierRankRewardData.bin",
+    "bytes": 559,
+    "sha256": "2954b3614d2e32fd2019160a90175f73b094c62c72ea715e1f96188b9320a5c3"
+  },
+  {
+    "path": "game-tables/SeasonSkillBaseData.bin",
+    "bytes": 590,
+    "sha256": "4e1c9a627166dacf725a281b4a8c7e3dbaf2adfabb3094994d5f90a8678bd531"
+  },
+  {
+    "path": "game-tables/SeasonSkillBingoData.bin",
+    "bytes": 45,
+    "sha256": "9f1ed506ecd5a9e456dbb9e85b697f67e33ae58b0145d6f75a7de5a8b8e1f76c"
+  },
+  {
+    "path": "game-tables/SeasonSkillBingoRewardData.bin",
+    "bytes": 2504,
+    "sha256": "43c62df89847a5d1bb1662a188b464d0b673ef4c5e950460479704b02111bac7"
+  },
+  {
+    "path": "game-tables/SeasonSkillPackageData.bin",
+    "bytes": 136,
+    "sha256": "4f39df72513ac4d6e2690e6a699fbb53f9ec2eadd7e0fe429e154c434a2c374c"
+  },
+  {
+    "path": "game-tables/SeasonSkillPassRewardData.bin",
+    "bytes": 496,
+    "sha256": "57484a9e90ba7b71e0b6b26ef1767fc697c5bcd6bf31862de63c80c1388cc9d3"
+  },
+  {
+    "path": "game-tables/SeasonSkillQuestData.bin",
+    "bytes": 1124,
+    "sha256": "44cc9b7d73232685d55f27e4072a6414eb803498bfbf382d0327b66ad5a8075b"
+  },
+  {
+    "path": "game-tables/SelectItemBaseData.bin",
+    "bytes": 2544,
+    "sha256": "01913a37616028d9232525b194f127c93c6577abb99f0bf84c1b86bb73f53a80"
+  },
+  {
+    "path": "game-tables/ServerRegionChannelBaseData.bin",
+    "bytes": 16599,
+    "sha256": "975f56710e32d15f43b6f2a88e4c9698c2db46a99a5d9314329d19e2edb875b2"
+  },
+  {
+    "path": "game-tables/SkillBaseData.bin",
+    "bytes": 14986,
+    "sha256": "e4e601d81a8d5bcd28cab6be222e0b2a5a1d2435b73b86cefea1abae93a9e876"
+  },
+  {
+    "path": "game-tables/SkillGrindingConfigData.bin",
+    "bytes": 45,
+    "sha256": "06585369e9d23c189f637018ed8ed172164146251f452ec733d4b528620f8108"
+  },
+  {
+    "path": "game-tables/SkillGrindingGradeData.bin",
+    "bytes": 154,
+    "sha256": "bde76ccb48d50c292027dba426a066fd24f9e2836f8504616e2feecac2519ebc"
+  },
+  {
+    "path": "game-tables/SkillGrindingOptionSlotOpenData.bin",
+    "bytes": 69,
+    "sha256": "df06082a263d746ff7370493330241dbc63f4935e87e59fe8c964d94f44950cd"
+  },
+  {
+    "path": "game-tables/SkillGrindingOptionsData.bin",
+    "bytes": 270,
+    "sha256": "fef1434bde9ea251b1230fdd96064c88b0c172c9a106d912db22db8539a048dd"
+  },
+  {
+    "path": "game-tables/SkillGrindingPassiveOptionsData.bin",
+    "bytes": 429,
+    "sha256": "9378dbdb6957ca0cd74ccac70ee81cc2ce5209a201b5bbadb9ee583564a686be"
+  },
+  {
+    "path": "game-tables/SkillGrindingRewardData.bin",
+    "bytes": 15591,
+    "sha256": "d40bc49e63cf8b4496118ec847ac01124c47ecbb21d446ebdfb0217224740c50"
+  },
+  {
+    "path": "game-tables/SkillGrindingSlotOpenData.bin",
+    "bytes": 69,
+    "sha256": "7c6910fbb36bcd03b243c5129325f1bfc56b8c2fcc7015203bde7c7bdff8d5c5"
+  },
+  {
+    "path": "game-tables/SkillLevelBaseData.bin",
+    "bytes": 10295,
+    "sha256": "1a7dee8f21db9c857003f6558dae021ea85ea625ee9eb47a8ca17f73cc3b7c39"
+  },
+  {
+    "path": "game-tables/SkillMakingDataBaseData.bin",
+    "bytes": 3546,
+    "sha256": "2d051d4e61c4c50bbf3c278310a6a2bff7c1096ab418cb59a5a246280b7e5c50"
+  },
+  {
+    "path": "game-tables/SkillMasteryAttackSkillFactorData.bin",
+    "bytes": 410,
+    "sha256": "08d0b64771367c59b1c1e1c123ba57adbe6f0450a705c51edb1c29bd30e2932a"
+  },
+  {
+    "path": "game-tables/SkillMasteryCollectionData.bin",
+    "bytes": 7530,
+    "sha256": "a3b820241e553bc90f544b5ce8890e30dd2bc59b64b791c01550c2edbcc31409"
+  },
+  {
+    "path": "game-tables/SkillMasteryDemonCollectionFactorData.bin",
+    "bytes": 69,
+    "sha256": "da645231a310233514cb683384114f65ee22c3567b3463d7785ad7fd4bc2d521"
+  },
+  {
+    "path": "game-tables/SkillMasteryNodeData.bin",
+    "bytes": 18274,
+    "sha256": "1f4f5de764ec8ab7675206907340b400c6fe682704a87c76a423480e6d9a6822"
+  },
+  {
+    "path": "game-tables/SkillMasterySkillEnforceBattleData.bin",
+    "bytes": 11569,
+    "sha256": "d8c7304bca7c047f5c593816b26c32123acd91a4d95ad61bba1aaa5092a90ae4"
+  },
+  {
+    "path": "game-tables/SkillMasterySkillEnforceBattleWaveInfoData.bin",
+    "bytes": 3304,
+    "sha256": "52c7f39ae3d164b63992c07d4fd2d238825573ff6d24ef63e708d35fed5b4405"
+  },
+  {
+    "path": "game-tables/SkillStoneBaseData.bin",
+    "bytes": 2356,
+    "sha256": "6bae3c790288cdc79d7f27cb65ee78d3565a5191a872fa88d331ffbc6dd2fc1d"
+  },
+  {
+    "path": "game-tables/SkillTreeBaseData.bin",
+    "bytes": 629,
+    "sha256": "f6586e8fcb6dd04028b415ce1755472fa7947d4e78f9ef05030a01d86c77f277"
+  },
+  {
+    "path": "game-tables/SkinBattleBaseData.bin",
+    "bytes": 33377,
+    "sha256": "1bc3eca247048a2d261c4dc3acfc7c6942400a3ece26b6161526e758c64faf6a"
+  },
+  {
+    "path": "game-tables/SkinBattleWaveInfoData.bin",
+    "bytes": 5880,
+    "sha256": "f48d24d2c0e4a0cc150e2e280ccc012c5fb81a0971fcc23f3cbc2e374c938128"
+  },
+  {
+    "path": "game-tables/SkinBeastData.bin",
+    "bytes": 1688,
+    "sha256": "ace775a21bf7cada7f1d61c871e8ef0ab7dbeee01b79541927f82d7e56d5cdca"
+  },
+  {
+    "path": "game-tables/SkinBodyData.bin",
+    "bytes": 1554,
+    "sha256": "a51dc47a5c42f636460b350a459cf0b62680790ba154f2b9493489f0f3f02e16"
+  },
+  {
+    "path": "game-tables/SkinCloakData.bin",
+    "bytes": 1967,
+    "sha256": "d594024ccf9a13a3804331825e3444b9b69b452109759de75aea275263a82a8d"
+  },
+  {
+    "path": "game-tables/SkinCostumeData.bin",
+    "bytes": 17340,
+    "sha256": "293601dc6691cd6feea3d36c7aafedd2839f99e13127046838fc7b72e04d0c0a"
+  },
+  {
+    "path": "game-tables/SkinEarringData.bin",
+    "bytes": 88,
+    "sha256": "7f06f383410d670fda6c80bf10aa98f37567e5f5bc719a4f57fa2fd09da31b5c"
+  },
+  {
+    "path": "game-tables/SkinFaceData.bin",
+    "bytes": 6736,
+    "sha256": "9baa33304a72ff12f6175ac6c8cfd4d710353622144a336fda3decd030c0e046"
+  },
+  {
+    "path": "game-tables/SkinFaceDecoData.bin",
+    "bytes": 8589,
+    "sha256": "ce0c4219b2a374a007034e4d0112fe94c620d0492108e1d32fcbb9216e8c169e"
+  },
+  {
+    "path": "game-tables/SkinFriendData.bin",
+    "bytes": 2253,
+    "sha256": "402713bac7215d205fe25f01bd999e0d78c993849fa463d4fda67b8b44876180"
+  },
+  {
+    "path": "game-tables/SkinHairBackData.bin",
+    "bytes": 1461,
+    "sha256": "2b9caa68ff64011b8ff1796aeb62950b02c84bcfd7f37ad5c8f094e6459d07d3"
+  },
+  {
+    "path": "game-tables/SkinHairColorData.bin",
+    "bytes": 4230,
+    "sha256": "9ce771fa803d712ff35b088aa73814b49e4a66a087b07fdfe63dd3b2b9e0e73b"
+  },
+  {
+    "path": "game-tables/SkinHairData.bin",
+    "bytes": 8724,
+    "sha256": "8cde3e008734ffd4719af5f519f3a22de7bdb50ccba0e5260bb93fd3cc601dfb"
+  },
+  {
+    "path": "game-tables/SkinHatData.bin",
+    "bytes": 14892,
+    "sha256": "07db7a4270f9b75ec575f9d60cfdb39c1e70386d5d0184e33e45df3595119483"
+  },
+  {
+    "path": "game-tables/SkinLensData.bin",
+    "bytes": 2382,
+    "sha256": "7638cafaaf2f51e30b54104449fcb6d4c9ce84066467db02e523d8492465a4c1"
+  },
+  {
+    "path": "game-tables/SkinMapData.bin",
+    "bytes": 190,
+    "sha256": "e3b15f542f1429ce9dd176ca191d55e3f86f3703c85b801883eacb5c108d7f3b"
+  },
+  {
+    "path": "game-tables/SkinWeaponData.bin",
+    "bytes": 34597,
+    "sha256": "16c91339fa27b88cd4795d8fe6d8665fca2bb83b260aef3b705ec0a79f6c3db6"
+  },
+  {
+    "path": "game-tables/SlayerClassBaseData.bin",
+    "bytes": 628,
+    "sha256": "8f48a8323fe5ffd41b8a6a74f8a2072b8c1b172663b4024ffd1f37c9acaf2e3d"
+  },
+  {
+    "path": "game-tables/SlayerClassGachaProbData.bin",
+    "bytes": 175,
+    "sha256": "e56e63f0715a972df026539e59b94e805efc07d9b5770142566355ae44a9df75"
+  },
+  {
+    "path": "game-tables/SlayerClassGachaRewardData.bin",
+    "bytes": 157,
+    "sha256": "bdb6bf3cad36c242bd1e78dd34e8c35a911968d9c9f6e1ef65a1684cf85e2556"
+  },
+  {
+    "path": "game-tables/SoulWeaponBaseData.bin",
+    "bytes": 56368,
+    "sha256": "35d91eadd74a545485dfd8a6851ccf26e38dbd850612718af0c6674d1c6317af"
+  },
+  {
+    "path": "game-tables/SoulWeaponImprintData.bin",
+    "bytes": 33672,
+    "sha256": "4ed2df2a303b9e302900f3bb7f61b8deb72af9c5bb28a202d02993a7aff8e56b"
+  },
+  {
+    "path": "game-tables/SoulWeaponSoulGemConfigData.bin",
+    "bytes": 37,
+    "sha256": "013998fbd2ea25d40966b3e36d4dc6f0fd56b6d9ed99892079bb4e7f99d07b83"
+  },
+  {
+    "path": "game-tables/SoulWeaponSoulGemInfoData.bin",
+    "bytes": 452,
+    "sha256": "160ee855f3142720b9731f66a12a792f202aa3f7ba10eca93e4aa45d19e33e35"
+  },
+  {
+    "path": "game-tables/SoulWeaponSoulGemLevelData.bin",
+    "bytes": 117697,
+    "sha256": "97f590b1d181c2dbfa16f63cdc39f622800b0ca63169bad51b5ee2542f2abbad"
+  },
+  {
+    "path": "game-tables/SpiritAwakeningData.bin",
+    "bytes": 555,
+    "sha256": "37c4745964a4564aef3f564a0f9eeb8713165fbc9a6cdc47ef9b2b220a005d99"
+  },
+  {
+    "path": "game-tables/SpiritBaseData.bin",
+    "bytes": 3619,
+    "sha256": "785a6907783677cef6bb0ddd0b8e34f87b534a36e712af614ce535c78c2e4df8"
+  },
+  {
+    "path": "game-tables/SpiritEquipSlotUnlockData.bin",
+    "bytes": 43,
+    "sha256": "35923af34e9c8bfc49257f1f36eee21d60b8c09c305597f84180bedb36aacbba"
+  },
+  {
+    "path": "game-tables/SpiritForestData.bin",
+    "bytes": 119628,
+    "sha256": "5e63cbea576bfeaa0eeda9ea7392a0fe470aa8e709a7ae0da12e5e6e7cbe78f9"
+  },
+  {
+    "path": "game-tables/SpiritGachaProbData.bin",
+    "bytes": 69,
+    "sha256": "de0125649834383cd700e8a07b3431a82e29d5a09c03047de76d90d76cdb999c"
+  },
+  {
+    "path": "game-tables/SpiritInventoryData.bin",
+    "bytes": 701,
+    "sha256": "c224b710b41e6aff310d395092fab22b056142b1d9eae53d13c5ca03ea8ae440"
+  },
+  {
+    "path": "game-tables/SpiritLevelLimitData.bin",
+    "bytes": 395,
+    "sha256": "bbb242b996f4be960e9b9f6557c024ca445e12cbc0bf028ea5d5fe45a1fc86ec"
+  },
+  {
+    "path": "game-tables/SpiritLevelSyncSlotUnlockData.bin",
+    "bytes": 82,
+    "sha256": "0143cea4a7da7da1a332fcbcb36aee977b0336f2b46d3a979abeca890a6cdee3"
+  },
+  {
+    "path": "game-tables/SpiritSpiritInventoryData.bin",
+    "bytes": 2231,
+    "sha256": "ef2476da0170579da9bab6fb10737b9c08b0d8e93d0893edc569064d8a9f4b79"
+  },
+  {
+    "path": "game-tables/SpiritUpgradeData.bin",
+    "bytes": 281105,
+    "sha256": "5c9fb94c1b8a9a9899735b66dad2ecbb123ec50c4247291e2e2c0d2af06365d8"
+  },
+  {
+    "path": "game-tables/StageGoldFactorBaseData.bin",
+    "bytes": 2500,
+    "sha256": "9a1e4245fb0d98af33f87086843607b0f9a435e205444908aa1514b7fdb24040"
+  },
+  {
+    "path": "game-tables/StageInfoBase1000Data.bin",
+    "bytes": 2145295,
+    "sha256": "bab4d50d220e2da48306f43b90870b9ac1e922bd546b1285ca5916a996c661de"
+  },
+  {
+    "path": "game-tables/StageInfoBase2000Data.bin",
+    "bytes": 2192952,
+    "sha256": "ef77cd2c0586e2fbad7a9698244140e7d926cd3dd651d61a1666334ef6710043"
+  },
+  {
+    "path": "game-tables/StageInfoBaseData.bin",
+    "bytes": 2092213,
+    "sha256": "621a4200be75b179d0d648a7e245808771a034dbbf36619946bf0579baeeb04b"
+  },
+  {
+    "path": "game-tables/StageSoulInfoBaseData.bin",
+    "bytes": 3754,
+    "sha256": "d04bd80f1f7794cf94cffb82e4d7f5f58ed685e2dc8da327f8c1004375a64d25"
+  },
+  {
+    "path": "game-tables/StarConfigData.bin",
+    "bytes": 41,
+    "sha256": "50eb5748371bd47f6bb933540eea8dbc59fb0725805e8e060eb4f04add70e438"
+  },
+  {
+    "path": "game-tables/StarConstellationData.bin",
+    "bytes": 496,
+    "sha256": "ff04a9770d2fb66e71cec94f220427ce7f4050566bd38b65af679206e265aed6"
+  },
+  {
+    "path": "game-tables/StarNebulaData.bin",
+    "bytes": 1120,
+    "sha256": "4c3a72c8bc8552ea1924aca0ea2e842e044ece9691bf463592c8516872926a5d"
+  },
+  {
+    "path": "game-tables/StarNebulaLevelData.bin",
+    "bytes": 400,
+    "sha256": "d2c35d8d15815556ece06ba686e8bbbece18d0890ee680cbb165ed98bc3530dc"
+  },
+  {
+    "path": "game-tables/StarNodeData.bin",
+    "bytes": 4888,
+    "sha256": "f199ca470874d4e3d7ebb765d3560461a4c7c81506d0d90dcf33ed1cd95be896"
+  },
+  {
+    "path": "game-tables/StoreBaseData.bin",
+    "bytes": 790,
+    "sha256": "d043bd079d6c8c26020d0884f2a5ca13f66b39f189d76fc4ea53da642becf713"
+  },
+  {
+    "path": "game-tables/ThemeDungeonEventBaseData.bin",
+    "bytes": 94,
+    "sha256": "fa019d8a79cae4a801344ca71a4a5c329fa5d64e1b38c5dc6db5f4812898aee7"
+  },
+  {
+    "path": "game-tables/ThemeDungeonEventBattleAData.bin",
+    "bytes": 88,
+    "sha256": "af581b07262eced43a8627ad2d9475a4c355a041b33d53d7d488fe7b5d77db06"
+  },
+  {
+    "path": "game-tables/ThemeDungeonEventBattleBData.bin",
+    "bytes": 637,
+    "sha256": "3769bb911ed3c7a8d55576b3fc37432c620ab953e9a624bb9796610d5e31e8ba"
+  },
+  {
+    "path": "game-tables/ThemeDungeonEventPackageData.bin",
+    "bytes": 71,
+    "sha256": "f82d0e42fa059da39b281924c1d40fb6dcc9594c064862d701540b59968ac3b1"
+  },
+  {
+    "path": "game-tables/ThemeDungeonEventPassData.bin",
+    "bytes": 904,
+    "sha256": "fd1766d6858f971f68b99ef8dfc93658aeb3001e5435be6f462af8b1def60215"
+  },
+  {
+    "path": "game-tables/ThemeDungeonEventShopData.bin",
+    "bytes": 966,
+    "sha256": "a665a819a9d2da98d5c7e0a480ae3127c93d41caedbc599eadf5c65da6feae33"
+  },
+  {
+    "path": "game-tables/ThemeDungeonEventStatData.bin",
+    "bytes": 123,
+    "sha256": "dda9608c8054fdcc00cb0a6144a7d321836dde919ab1c395cc01210bfec0f073"
+  },
+  {
+    "path": "game-tables/ThemeDungeonEventStatLevelData.bin",
+    "bytes": 94,
+    "sha256": "63af9f41b62c16629deac3c764bf0f367225a913f6779f71d3105419e2519cc8"
+  },
+  {
+    "path": "game-tables/ThemeDungeonEventWaveData.bin",
+    "bytes": 117,
+    "sha256": "e9abf4c02ff9697337162a76eee830fbaa2062d20302d267bfd5fdad294f5b53"
+  },
+  {
+    "path": "game-tables/TimeAttackBattleData.bin",
+    "bytes": 2914,
+    "sha256": "2e097ac718fa17f0885e2bc90a9dacce3e1b597a6d4877526636c81a21e0214a"
+  },
+  {
+    "path": "game-tables/TimeAttackBattleWaveInfoData.bin",
+    "bytes": 1818,
+    "sha256": "d517a1b16ef6c0034394b3d8a1367e9c21b1adf6a5f0d88d17922e3803350fe4"
+  },
+  {
+    "path": "game-tables/TimeAttackConfigData.bin",
+    "bytes": 21,
+    "sha256": "cd90ec3926b5a7e343786cda20f70364a5a5ea489bc66d9f8d7c8740c5f6f96c"
+  },
+  {
+    "path": "game-tables/TimeAttackMissionData.bin",
+    "bytes": 754,
+    "sha256": "8f9b4b85e5fd329f8539436749cec76a67213f6e4fd35da107f443cafeb6672c"
+  },
+  {
+    "path": "game-tables/TimeAttackPlayerClassFactorData.bin",
+    "bytes": 1084,
+    "sha256": "618628c92833cf053aa53a07e6a115a47fcab38291faa6d481c5eaf9d38a94f7"
+  },
+  {
+    "path": "game-tables/TrainingGradeAdditionalData.bin",
+    "bytes": 20742,
+    "sha256": "46280532cf63fa0250045b6bba7c6bd418fcfe47f726166e6f1c2d0a79769819"
+  },
+  {
+    "path": "game-tables/TrainingGradeBaseData.bin",
+    "bytes": 11369,
+    "sha256": "e25fe33beb0cb659ce93ffc99ce8fd660a1886481db533caeb5b46130830b72d"
+  },
+  {
+    "path": "game-tables/UpdateMaxValueBaseData.bin",
+    "bytes": 121,
+    "sha256": "8c24874b947dd08d0a289690efc5bde6690bed22fd7a10ac3fd50655257c8fec"
+  },
+  {
+    "path": "game-tables/UserLevelBaseData.bin",
+    "bytes": 1431616,
+    "sha256": "e36dcf4727dd9cb8556608c99bb0e28a56d96dda5494fe079de3d148353819b6"
+  },
+  {
+    "path": "game-tables/WeatherEffectBaseData.bin",
+    "bytes": 1504,
+    "sha256": "5c04366759c3e9a504a0386c0a6e31969247307d5cba1deaef9620efe152d243"
+  },
+  {
+    "path": "game-tables/WelcomeBaseData.bin",
+    "bytes": 595,
+    "sha256": "a1cc820212b38baf3b4a744e8e44e37b1a58ddcb685d443c391db7f3b55d698c"
+  },
+  {
+    "path": "game-tables/WishFactorData.bin",
+    "bytes": 191,
+    "sha256": "f59060a71c52747086ddd70363b5ec4ec9650d8574cf3366608b7540793023c7"
+  },
+  {
+    "path": "game-tables/WishLevelData.bin",
+    "bytes": 49929,
+    "sha256": "be82d489fd08f76f712fdcf4a03fc8e26f839c30a1e5e2f300accf425aff829b"
+  },
+  {
+    "path": "game-tables/WorldBossBaseData.bin",
+    "bytes": 24,
+    "sha256": "f30a55f79db153c8771e2769370df0c3a3f860a1d6aad647e46d661a4edc52f6"
+  },
+  {
+    "path": "game-tables/WorldBossBattleQuestData.bin",
+    "bytes": 1524,
+    "sha256": "9d1690d910febe2c65691324ac87a298d0990af9453a7ff99b25f40cffa58441"
+  },
+  {
+    "path": "game-tables/WorldBossBattleRewardData.bin",
+    "bytes": 2664,
+    "sha256": "68c11caf2871c12ca18b3523d5533456d8e61fad064df032ae36714b34a09e01"
+  },
+  {
+    "path": "game-tables/WorldBossConfigData.bin",
+    "bytes": 61,
+    "sha256": "2089b82ecc19106a709eb4eae331df984fd5efe57b544659a0b008875b2d1dee"
+  },
+  {
+    "path": "game-tables/WorldBossCountryFlagData.bin",
+    "bytes": 19,
+    "sha256": "c4bb9adb81c700727ff94cc028303efb53016d5eb47256a467c4b4c7bbaf2efd"
+  },
+  {
+    "path": "game-tables/WorldBossMainBattleInfoData.bin",
+    "bytes": 1268,
+    "sha256": "81a3737a800cb8ddb352ef6a1b75bffe68f3a317c46975020641bd67d06cec22"
+  },
+  {
+    "path": "game-tables/WorldBossSubBattleBaseData.bin",
+    "bytes": 3106,
+    "sha256": "1bea39dd73c0129401011e8ee50ff771e40f73f583404ce585e29c4e68bf6d6a"
+  },
+  {
+    "path": "game-tables/WorldBossSubBattleInfoData.bin",
+    "bytes": 4554,
+    "sha256": "f796eeccec1aa5c720fc514791cc8956fb15d233424d2f775871f0b7ac943c77"
+  },
+  {
+    "path": "game-tables/WorldBossSubBattlePenaltyData.bin",
+    "bytes": 214,
+    "sha256": "d204fab805fb6b74c9493f109b3d161376b0f5c3bf2464babc9f4df024ae0761"
+  },
+  {
+    "path": "game-tables/WorldBossSubBattleWaveInfoData.bin",
+    "bytes": 1115,
+    "sha256": "acc83d4b4887f739b9639607bf960b8f30e56df30c0a973a3ba484eea8fd70f6"
+  },
+  {
+    "path": "core-logic/AccessorySlotManager__AccessoryValue.asm",
+    "bytes": 2640,
+    "sha256": "e2e0d122962204f72bd991cdad92dedf8ffa635a135f3671210db8614e9cc1fd"
+  },
+  {
+    "path": "core-logic/AccessorySlotManager__HpValue_Cal.asm",
+    "bytes": 4669,
+    "sha256": "0682c989dcc2c34379b63de1d9ddede5544d5e16725c0bfd7b5862d69ba90bfb"
+  },
+  {
+    "path": "core-logic/Character__DefeatType.asm",
+    "bytes": 1034,
+    "sha256": "b6f23b00fa50d28594391822a09943cfe2802a7db176db9a2f2d04ca340931d5"
+  },
+  {
+    "path": "core-logic/Character__DmgType_Cal.asm",
+    "bytes": 3396,
+    "sha256": "eacb2e60c1aa37acc8ef344d3ae87775169c2733c1c1f05f72f144de11286e6b"
+  },
+  {
+    "path": "core-logic/Character__WinType.asm",
+    "bytes": 1034,
+    "sha256": "fb16b77eef66c347c92f905d313fc7a66a036ce9c0919dc275ba4e2c68408c7a"
+  },
+  {
+    "path": "core-logic/DatabaseManager__Exp_Cal.asm",
+    "bytes": 2782,
+    "sha256": "0730f8188724e5d30fc648068bfca0e0eea1f3451a3cee06e2da3c91d8cba2a5"
+  },
+  {
+    "path": "core-logic/DatabaseManager__Gold_Cal.asm",
+    "bytes": 2481,
+    "sha256": "1df9de12d2d80cd2863aa48b69d1a7bf49aed61f33c2d3249d16de784e8134c4"
+  },
+  {
+    "path": "core-logic/EquipmentSlotManager__AtkValue_Cal.asm",
+    "bytes": 4657,
+    "sha256": "bfcb76ff39dd0e3950bac19a8d66bf82a9413a484389c68e5e8751bf7a156e0f"
+  },
+  {
+    "path": "core-logic/EquipmentSlotManager__EquipmentValue.asm",
+    "bytes": 2632,
+    "sha256": "98ae3cece928b7e7c4dc88ca92a6f563aade22c31d8f31a15daad0f5cc9ab211"
+  },
+  {
+    "path": "core-logic/EquipmentSlotManager__HavePowerCritical_Cal.asm",
+    "bytes": 4684,
+    "sha256": "2797cd599f2d070842a2b17cc2236d9731a390e79483be5bdbc54bcf83c737c7"
+  },
+  {
+    "path": "core-logic/EquipmentSlotManager__HavePowerGoldAmount_Cal.asm",
+    "bytes": 4684,
+    "sha256": "43ab449877c2bc913f6833e9a933c207bd2e76df0c8847257df63b0f92cbd9fe"
+  },
+  {
+    "path": "core-logic/Equipment___ctor.asm",
+    "bytes": 2495,
+    "sha256": "f825d0c3f7c3b1ea26126de4085e0293a790306f8bbacdd33e3fd0a57d524e3d"
+  },
+  {
+    "path": "core-logic/IFixRuntimePatcher__GetIFixPatchFileName.asm",
+    "bytes": 1604,
+    "sha256": "94c26b5e076b07d6fa1379841887d35cd866cba1084f3fad9625e7eb763613a7"
+  },
+  {
+    "path": "core-logic/IFixRuntimePatcher__StartPatch_d__5__MoveNext.asm",
+    "bytes": 27212,
+    "sha256": "d6d3cbebc039bf61bf03aa9f21e30dace4c76d1d689e843cd8a2e193ba3352a7"
+  },
+  {
+    "path": "core-logic/PlayerBase__Atk_Cal.asm",
+    "bytes": 60697,
+    "sha256": "ab2cc7abc558c8681944388736e0a7f6c9e36fe1aa74af8a272f1ac8c767454d"
+  },
+  {
+    "path": "core-logic/PlayerBase__Hp_Cal.asm",
+    "bytes": 52575,
+    "sha256": "1de42ae783a654edb49e79570240917b63e321c070fab0eb07d74324bcea1252"
+  }
+]

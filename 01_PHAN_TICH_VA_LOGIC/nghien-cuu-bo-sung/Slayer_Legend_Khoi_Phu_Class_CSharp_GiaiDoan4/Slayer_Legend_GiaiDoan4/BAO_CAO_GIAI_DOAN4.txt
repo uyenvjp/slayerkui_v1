@@ -1,0 +1,55 @@
+SLAYER LEGEND 700.0.4 — BAO CAO PHAN TICH THUC TE, GIAI DOAN 4
+Nguon duy nhat: Slayer+Legend+_+Idle+RPG_700.0.4_APKPure(1).xapk do nguoi dung cung cap.
+Phuong phap: mo UnityFS tu XAPK, doc Serialized TypeTree, MonoScript va doi tuong MonoBehaviour.
+Khong nap/chay APK, khong giai ma LIAPP, khong tu tao asset, khong viet gameplay gia.
+
+1. KET QUA DA XAC MINH TREN FILE GOC
+  Bundle monster: 27,353 serialized objects, 64 MonoScript, 1,043 MonoBehaviour, 62 MonoBehaviour types.
+  Bundle popup  : 373,227 serialized objects, 545 MonoScript, 75,044 MonoBehaviour, 544 MonoBehaviour types.
+  Bundle skin   : 17,273 serialized objects, 2 MonoScript, 14 MonoBehaviour, 2 MonoBehaviour types.
+  Tong cong    : 611 MonoScript objects, 76,101 MonoBehaviour objects, 608 type+field layouts.
+  76,101/76,101 MonoBehaviour's m_Script PPtr linked to MonoScript in the same bundle.
+  76,101/76,101 scripts matched the TypeTree 16-byte type hash with MonoScript.m_PropertiesHash.
+  ZERO hash mismatches. ZERO MonoScript object parsing failures.
+  570 ten class duy nhat (bao gom third-party/Unity components).
+  514 ten class duy nhat thuoc Assembly-CSharp tu ba bundle nay.
+  Mot class co the xuat hien o nhieu bundle; 608 type != 608 class duy nhat.
+
+2. CAC TEN CLASS C# THUC TE (vi du, giu dung chinh ta trong game)
+  monster: WorldInfinentBoss, WorldRagnabloodBoss, WorldDemonBoss, WorldDarkBoss,
+    WorldBlackBoss, WorldBlueBoss, WorldEtherBoss, NightLordPhase1, NightLordPhase2,
+    EnemyNormalInfinent, EtheroboBase, SwordEffect, PlayerInGameDisplay.
+  popup: PopupSoulWeaponImprint, PopupWorldBossQuest, PopupWorldBossBattleStart,
+    PopupGuildQuest, PopupSkillMakeConfirm, DragonValleyMaterialSlot,
+    DemonAwakenSlot, SkillMotionEffect, CharacterDisplay, SkinDisplaySlot.
+  Giu nguyen cac loi go ten goc (vi du WorldInfinentBoss), khong tu sua thanh ten moi.
+
+3. DU LIEU MAC DINH DA DOC DU 100% BYTES (CHUA PHAI LOGIC KHI GAME CHAY)
+  Giai ma thanh cong 10/10 Monster MonoBehaviour co truong SpecialAttack_Cooltime.
+  Gia tri duoc luu trong cac component prefab: 9 component co Cooltime=2.0,
+  1 component WorldEtherBoss co Cooltime float32 xap xi 1.20000005.
+  Tat ca 10 sample co atkSpeed=0, SpecialAttack_Prob=0 trong file serialize.
+  KHONG suy ra game thuc su tan cong voi toc do/cooldown nay: runtime co the gan lai du lieu.
+
+4. HAN CHE PHAI DUOC GIU RO
+  - Moi khop duoc TEN C# CLASS va FIELD, chua co than ham, cong thuc combat hay AI.
+  - Chua khoi phuc duoc global-metadata.dat LIKEY thanh file IL2CPP hop le.
+  - Chua co dump.cs, script.json hoac method address native.
+  - UI component names khong chung minh co chuc nang da kich hoat server-side.
+  - Khong duoc lay gia tri default = 0 roi gan do la cong thuc goc.
+
+5. FILE TRONG GOI
+  MonoScript_Ten_Class_Goc.csv: tung script goc, AssemblyName, Namespace, PropertiesHash, path_id.
+  MonoBehaviour_Class_Field_Linkage.csv: bundle, TypeTree index/hash, ten class, so objects,
+    ket qua m_Script pointer + 16-byte PropertiesHash, cac truong serialize goc.
+  Monster_Defaults_Verified.json: 10 prefab/component parsed du byte, co path ID.
+  MonoScript_Linkage_Summary.json: summary de may doc.
+  khop_monoscript_typetree.py: script tao lai ket qua tu XAPK.
+  parse_unityfs.py, catalog_unity.py, read_serial_values.py: phu tro de doc UnityFS.
+  SHA256_TAP_TIN.txt: checksum cac file giao nop.
+
+  LENH CHAY LAI (Python 3):
+    python khop_monoscript_typetree.py "Slayer+Legend+_+Idle+RPG_700.0.4_APKPure(1).xapk" "output"
+
+  Day la lay lai C# TYPE NAMES va PUBLIC SERIALIZED FIELDS tu asset cua game.
+  NO KHONG PHAI DECOMPILE CODE IL2CPP; phai tiep tuc phan tich binary + metadata de lay method bodies.

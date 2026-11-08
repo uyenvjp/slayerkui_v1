@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x60085af",
+    "name": "WinType",
+    "declaring_type_index": "3468",
+    "declaring_type_full_name": "Character",
+    "native_va": "0x5018538",
+    "return_type_index": "63421",
+    "return_type_name": "GrowSlayer.DmgType",
+    "parameter_start": "9212",
+    "parameter_count": "1",
+    "flags": "132",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x983d6c",
+    "end_va": "0x50185b0",
+    "asm_file": "Character__WinType_0x60085af.asm"
+  }
+]

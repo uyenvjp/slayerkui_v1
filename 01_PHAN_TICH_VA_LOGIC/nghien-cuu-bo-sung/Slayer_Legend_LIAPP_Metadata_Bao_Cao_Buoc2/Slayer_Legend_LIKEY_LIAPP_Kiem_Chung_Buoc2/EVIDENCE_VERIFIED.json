@@ -1,0 +1,677 @@
+{
+  "description": "Static evidence only; no recovered IL2CPP metadata header, class/method table, or game formula",
+  "xapk": "Slayer+Legend+_+Idle+RPG_700.0.4_APKPure(1).xapk",
+  "metadata_file": "global-metadata.dat",
+  "metadata_bytes": 33085012,
+  "metadata_sha256": "0f0c21c82432adab3421ea6c82e2662b032a8fc2fc17f81defe166b2ce294c46",
+  "metadata_apk_embedded_bytes": 33085012,
+  "metadata_apk_embedded_sha256": "0f0c21c82432adab3421ea6c82e2662b032a8fc2fc17f81defe166b2ce294c46",
+  "metadata_matches_embedded_file": true,
+  "raw_first_48_bytes_hex": "4c 49 4b 45 59 7f 00 00 df 02 53 df af 56 23 00 54 d6 f8 01 8e c5 2d 11 1d 3e 71 21 d6 2c 27 f3 1c 4a 12 dd fe ba c1 f3 a9 cf 02 dd 03 4b 10 f6",
+  "raw_startswith_LIKEY": true,
+  "raw_magic_positions": [],
+  "xor_key_hex": "43 44 45 46 47 48 49 4a",
+  "xor_first_16_bytes_hex": "0f 0d 0e 03 1e 37 49 4a 9c 46 16 99 e8 1e 6a 4a",
+  "xor_magic_positions": [],
+  "xor_contains_strings": {
+    "Assembly-CSharp": {
+      "count": 77,
+      "example_offsets": [
+        {
+          "decimal": 7527350,
+          "hex": "0x72dbb6"
+        },
+        {
+          "decimal": 7527379,
+          "hex": "0x72dbd3"
+        },
+        {
+          "decimal": 30736940,
+          "hex": "0x1d5022c"
+        },
+        {
+          "decimal": 30754390,
+          "hex": "0x1d54656"
+        },
+        {
+          "decimal": 30926791,
+          "hex": "0x1d7e7c7"
+        },
+        {
+          "decimal": 31072546,
+          "hex": "0x1da2122"
+        },
+        {
+          "decimal": 31072620,
+          "hex": "0x1da216c"
+        },
+        {
+          "decimal": 31376654,
+          "hex": "0x1dec50e"
+        },
+        {
+          "decimal": 31456486,
+          "hex": "0x1dffce6"
+        },
+        {
+          "decimal": 31490212,
+          "hex": "0x1e080a4"
+        },
+        {
+          "decimal": 31490241,
+          "hex": "0x1e080c1"
+        },
+        {
+          "decimal": 31524459,
+          "hex": "0x1e1066b"
+        },
+        {
+          "decimal": 31525201,
+          "hex": "0x1e10951"
+        },
+        {
+          "decimal": 31550644,
+          "hex": "0x1e16cb4"
+        },
+        {
+          "decimal": 31550728,
+          "hex": "0x1e16d08"
+        },
+        {
+          "decimal": 31570263,
+          "hex": "0x1e1b957"
+        },
+        {
+          "decimal": 31570347,
+          "hex": "0x1e1b9ab"
+        },
+        {
+          "decimal": 31634746,
+          "hex": "0x1e2b53a"
+        },
+        {
+          "decimal": 31634830,
+          "hex": "0x1e2b58e"
+        },
+        {
+          "decimal": 31646306,
+          "hex": "0x1e2e262"
+        }
+      ]
+    },
+    "GrowSlayer": {
+      "count": 6719,
+      "example_offsets": [
+        {
+          "decimal": 3173913,
+          "hex": "0x306e19"
+        },
+        {
+          "decimal": 3244915,
+          "hex": "0x318373"
+        },
+        {
+          "decimal": 3245489,
+          "hex": "0x3185b1"
+        },
+        {
+          "decimal": 3246648,
+          "hex": "0x318a38"
+        },
+        {
+          "decimal": 3467627,
+          "hex": "0x34e96b"
+        },
+        {
+          "decimal": 3467688,
+          "hex": "0x34e9a8"
+        },
+        {
+          "decimal": 3470871,
+          "hex": "0x34f617"
+        },
+        {
+          "decimal": 3475758,
+          "hex": "0x35092e"
+        },
+        {
+          "decimal": 3475818,
+          "hex": "0x35096a"
+        },
+        {
+          "decimal": 3484546,
+          "hex": "0x352b82"
+        },
+        {
+          "decimal": 3484734,
+          "hex": "0x352c3e"
+        },
+        {
+          "decimal": 3484793,
+          "hex": "0x352c79"
+        },
+        {
+          "decimal": 3487317,
+          "hex": "0x353655"
+        },
+        {
+          "decimal": 3487443,
+          "hex": "0x3536d3"
+        },
+        {
+          "decimal": 3487507,
+          "hex": "0x353713"
+        },
+        {
+          "decimal": 3487591,
+          "hex": "0x353767"
+        },
+        {
+          "decimal": 3487781,
+          "hex": "0x353825"
+        },
+        {
+          "decimal": 3495374,
+          "hex": "0x3555ce"
+        },
+        {
+          "decimal": 3496311,
+          "hex": "0x355977"
+        },
+        {
+          "decimal": 3496381,
+          "hex": "0x3559bd"
+        }
+      ]
+    },
+    "GameManager": {
+      "count": 479,
+      "example_offsets": [
+        {
+          "decimal": 2710706,
+          "hex": "0x295cb2"
+        },
+        {
+          "decimal": 2748624,
+          "hex": "0x29f0d0"
+        },
+        {
+          "decimal": 2764758,
+          "hex": "0x2a2fd6"
+        },
+        {
+          "decimal": 3032734,
+          "hex": "0x2e469e"
+        },
+        {
+          "decimal": 3033131,
+          "hex": "0x2e482b"
+        },
+        {
+          "decimal": 3474811,
+          "hex": "0x35057b"
+        },
+        {
+          "decimal": 3489907,
+          "hex": "0x354073"
+        },
+        {
+          "decimal": 3500530,
+          "hex": "0x3569f2"
+        },
+        {
+          "decimal": 3537124,
+          "hex": "0x35f8e4"
+        },
+        {
+          "decimal": 3547940,
+          "hex": "0x362324"
+        },
+        {
+          "decimal": 3547968,
+          "hex": "0x362340"
+        },
+        {
+          "decimal": 3547995,
+          "hex": "0x36235b"
+        },
+        {
+          "decimal": 3568394,
+          "hex": "0x36730a"
+        },
+        {
+          "decimal": 3571633,
+          "hex": "0x367fb1"
+        },
+        {
+          "decimal": 3576087,
+          "hex": "0x369117"
+        },
+        {
+          "decimal": 3579046,
+          "hex": "0x369ca6"
+        },
+        {
+          "decimal": 3579066,
+          "hex": "0x369cba"
+        },
+        {
+          "decimal": 3579104,
+          "hex": "0x369ce0"
+        },
+        {
+          "decimal": 3579123,
+          "hex": "0x369cf3"
+        },
+        {
+          "decimal": 3579757,
+          "hex": "0x369f6d"
+        }
+      ]
+    },
+    "Xls_Skill": {
+      "count": 25,
+      "example_offsets": [
+        {
+          "decimal": 2611417,
+          "hex": "0x27d8d9"
+        },
+        {
+          "decimal": 2611609,
+          "hex": "0x27d999"
+        },
+        {
+          "decimal": 2611678,
+          "hex": "0x27d9de"
+        },
+        {
+          "decimal": 2611851,
+          "hex": "0x27da8b"
+        },
+        {
+          "decimal": 2611872,
+          "hex": "0x27daa0"
+        },
+        {
+          "decimal": 17971350,
+          "hex": "0x1123896"
+        },
+        {
+          "decimal": 17971398,
+          "hex": "0x11238c6"
+        },
+        {
+          "decimal": 17971451,
+          "hex": "0x11238fb"
+        },
+        {
+          "decimal": 17971509,
+          "hex": "0x1123935"
+        },
+        {
+          "decimal": 17971568,
+          "hex": "0x1123970"
+        },
+        {
+          "decimal": 18125140,
+          "hex": "0x1149154"
+        },
+        {
+          "decimal": 18125154,
+          "hex": "0x1149162"
+        },
+        {
+          "decimal": 18125174,
+          "hex": "0x1149176"
+        },
+        {
+          "decimal": 18125195,
+          "hex": "0x114918b"
+        },
+        {
+          "decimal": 18125214,
+          "hex": "0x114919e"
+        },
+        {
+          "decimal": 18125239,
+          "hex": "0x11491b7"
+        },
+        {
+          "decimal": 18125265,
+          "hex": "0x11491d1"
+        },
+        {
+          "decimal": 18125289,
+          "hex": "0x11491e9"
+        },
+        {
+          "decimal": 18125319,
+          "hex": "0x1149207"
+        },
+        {
+          "decimal": 18125350,
+          "hex": "0x1149226"
+        }
+      ]
+    },
+    "Xls_AdventureInfo": {
+      "count": 5,
+      "example_offsets": [
+        {
+          "decimal": 2607898,
+          "hex": "0x27cb1a"
+        },
+        {
+          "decimal": 17967993,
+          "hex": "0x1122b79"
+        },
+        {
+          "decimal": 18120606,
+          "hex": "0x1147f9e"
+        },
+        {
+          "decimal": 18120628,
+          "hex": "0x1147fb4"
+        },
+        {
+          "decimal": 18120656,
+          "hex": "0x1147fd0"
+        }
+      ]
+    },
+    "Xls_WeaponSkin": {
+      "count": 5,
+      "example_offsets": [
+        {
+          "decimal": 2613687,
+          "hex": "0x27e1b7"
+        },
+        {
+          "decimal": 17973299,
+          "hex": "0x1124033"
+        },
+        {
+          "decimal": 18127872,
+          "hex": "0x1149c00"
+        },
+        {
+          "decimal": 18127891,
+          "hex": "0x1149c13"
+        },
+        {
+          "decimal": 18127916,
+          "hex": "0x1149c2c"
+        }
+      ]
+    },
+    "SkillName": {
+      "count": 38,
+      "example_offsets": [
+        {
+          "decimal": 2594519,
+          "hex": "0x2796d7"
+        },
+        {
+          "decimal": 2595793,
+          "hex": "0x279bd1"
+        },
+        {
+          "decimal": 2611427,
+          "hex": "0x27d8e3"
+        },
+        {
+          "decimal": 2822669,
+          "hex": "0x2b120d"
+        },
+        {
+          "decimal": 2822706,
+          "hex": "0x2b1232"
+        },
+        {
+          "decimal": 2822722,
+          "hex": "0x2b1242"
+        },
+        {
+          "decimal": 2826287,
+          "hex": "0x2b202f"
+        },
+        {
+          "decimal": 2827828,
+          "hex": "0x2b2634"
+        },
+        {
+          "decimal": 2953577,
+          "hex": "0x2d1169"
+        },
+        {
+          "decimal": 2953958,
+          "hex": "0x2d12e6"
+        },
+        {
+          "decimal": 2965511,
+          "hex": "0x2d4007"
+        },
+        {
+          "decimal": 3001183,
+          "hex": "0x2dcb5f"
+        },
+        {
+          "decimal": 3007658,
+          "hex": "0x2de4aa"
+        },
+        {
+          "decimal": 3008729,
+          "hex": "0x2de8d9"
+        },
+        {
+          "decimal": 3009216,
+          "hex": "0x2deac0"
+        },
+        {
+          "decimal": 3014306,
+          "hex": "0x2dfea2"
+        },
+        {
+          "decimal": 3027828,
+          "hex": "0x2e3374"
+        },
+        {
+          "decimal": 3086481,
+          "hex": "0x2f1891"
+        },
+        {
+          "decimal": 3358643,
+          "hex": "0x333fb3"
+        },
+        {
+          "decimal": 3358930,
+          "hex": "0x3340d2"
+        }
+      ]
+    },
+    "UnityEngine": {
+      "count": 6300,
+      "example_offsets": [
+        {
+          "decimal": 3174445,
+          "hex": "0x30702d"
+        },
+        {
+          "decimal": 3174833,
+          "hex": "0x3071b1"
+        },
+        {
+          "decimal": 3527164,
+          "hex": "0x35d1fc"
+        },
+        {
+          "decimal": 3527232,
+          "hex": "0x35d240"
+        },
+        {
+          "decimal": 3527294,
+          "hex": "0x35d27e"
+        },
+        {
+          "decimal": 3527357,
+          "hex": "0x35d2bd"
+        },
+        {
+          "decimal": 3527424,
+          "hex": "0x35d300"
+        },
+        {
+          "decimal": 3527492,
+          "hex": "0x35d344"
+        },
+        {
+          "decimal": 3527560,
+          "hex": "0x35d388"
+        },
+        {
+          "decimal": 3527629,
+          "hex": "0x35d3cd"
+        },
+        {
+          "decimal": 3527709,
+          "hex": "0x35d41d"
+        },
+        {
+          "decimal": 3527787,
+          "hex": "0x35d46b"
+        },
+        {
+          "decimal": 3527862,
+          "hex": "0x35d4b6"
+        },
+        {
+          "decimal": 3527942,
+          "hex": "0x35d506"
+        },
+        {
+          "decimal": 4529077,
+          "hex": "0x451bb5"
+        },
+        {
+          "decimal": 4529179,
+          "hex": "0x451c1b"
+        },
+        {
+          "decimal": 4530437,
+          "hex": "0x452105"
+        },
+        {
+          "decimal": 4530492,
+          "hex": "0x45213c"
+        },
+        {
+          "decimal": 4530554,
+          "hex": "0x45217a"
+        },
+        {
+          "decimal": 4530612,
+          "hex": "0x4521b4"
+        }
+      ]
+    },
+    "MetadataRegistration": {
+      "count": 0,
+      "example_offsets": []
+    }
+  },
+  "apk_evidence": [
+    {
+      "apk": "com.gear2.growslayer.apk",
+      "apk_bytes": 97485582,
+      "entry_count": 5183,
+      "selected_paths": [
+        {
+          "path": "assets/.eufxww.dex",
+          "bytes": 41647
+        },
+        {
+          "path": "assets/LIAPP.ini",
+          "bytes": 220
+        }
+      ],
+      "dex_ini_markers": [
+        {
+          "file": "assets/.eufxww.dex",
+          "marker": "com/liapp",
+          "offset_dec": 222,
+          "offset_hex": "0xde"
+        },
+        {
+          "file": "assets/.eufxww.dex",
+          "marker": "LIKEY",
+          "offset_dec": 918,
+          "offset_hex": "0x396"
+        },
+        {
+          "file": "assets/LIAPP.ini",
+          "marker": "lockincomp",
+          "offset_dec": 121,
+          "offset_hex": "0x79"
+        },
+        {
+          "file": "classes.dex",
+          "marker": "com/liapp",
+          "offset_dec": 2424242,
+          "offset_hex": "0x24fdb2"
+        },
+        {
+          "file": "classes2.dex",
+          "marker": "com/liapp",
+          "offset_dec": 2276953,
+          "offset_hex": "0x22be59"
+        },
+        {
+          "file": "classes3.dex",
+          "marker": "com/liapp",
+          "offset_dec": 2460710,
+          "offset_hex": "0x258c26"
+        },
+        {
+          "file": "classes4.dex",
+          "marker": "com/liapp",
+          "offset_dec": 190474,
+          "offset_hex": "0x2e80a"
+        },
+        {
+          "file": "classes5.dex",
+          "marker": "com/liapp",
+          "offset_dec": 2876847,
+          "offset_hex": "0x2be5af"
+        },
+        {
+          "file": "classes5.dex",
+          "marker": "lockincomp",
+          "offset_dec": 2877401,
+          "offset_hex": "0x2be7d9"
+        },
+        {
+          "file": "classes6.dex",
+          "marker": "com/liapp",
+          "offset_dec": 613978,
+          "offset_hex": "0x95e5a"
+        }
+      ]
+    },
+    {
+      "apk": "config.arm64_v8a.apk",
+      "apk_bytes": 217778676,
+      "entry_count": 32,
+      "selected_paths": [
+        {
+          "path": "lib/arm64-v8a/libeufxww.so",
+          "bytes": 673836
+        }
+      ],
+      "dex_ini_markers": []
+    }
+  ],
+  "liapp_ini_content": "[INFORMATION]\nLIAgent=0\nJob-Id#=132100\nVersion=v5.1.1.218 (0x4ecdc927) with Linux.\nBuildNo=5a62aa0f\n\nContact=https://www.lockincomp.com/\nThis application is protected by LIAPP(Lockin Company's mobile security solution).\n",
+  "xor_decode_complete": false,
+  "dump_cs_recovered": false,
+  "native_method_mappings_recovered": false
+}

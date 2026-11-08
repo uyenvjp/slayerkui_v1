@@ -1,0 +1,5 @@
+{
+  "passed": 1359,
+  "contracts": 3,
+  "scope": "Nine equipment scalar/renew method bodies, ordered writes and numeric widths under explicit dependencies."
+}

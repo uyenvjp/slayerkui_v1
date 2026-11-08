@@ -1,0 +1,7 @@
+{
+  "cases": 162,
+  "continuedFrames": 122,
+  "instructionSteps": 12943,
+  "distinctInstructions": 94,
+  "scope": "One EnemyBase attack iterator body with explicit virtual getters, state setter, transform and GameDeltaTime fixtures; no animation events/whole Unity loop."
+}

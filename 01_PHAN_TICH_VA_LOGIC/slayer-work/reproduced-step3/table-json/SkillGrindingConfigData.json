@@ -1,0 +1,15 @@
+[
+  {
+    "Id": 1,
+    "ActiveSkillLevelCondition": 10,
+    "DailyLimitCount": 1,
+    "OptionProb": [
+      23.0,
+      25.0,
+      30.0,
+      15.0,
+      5.0,
+      2.0
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "cases": 144,
+  "instructionSteps": 15192,
+  "distinctInstructions": 224,
+  "scope": "Two DropObject.AddCurrency bodies. Preallocated List paths, constructors/string conversion/enum mapping/GainCurrency/AcquireItems explicitly modeled; no server callback or full account parity."
+}

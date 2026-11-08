@@ -1,0 +1,5 @@
+{
+  "source": "../logic-step7/tools/generate_reward_vectors.py",
+  "source_sha256": "600c498fa4680079e404888f8d700ddc7a72bbad32a69b2c0e26a22670c334d8",
+  "adaptation": "Reuse reward setup/hooks on the existing enemy; preserve separate hit/reward fixtures; base fallback VM.hook; no changes to recovered reward arithmetic."
+}

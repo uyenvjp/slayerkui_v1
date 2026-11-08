@@ -1,0 +1,245 @@
+[
+  {
+    "Id": 0,
+    "AppearTime": 1.0,
+    "Count": 1,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.0,
+    "GoldenChance": 0,
+    "FriendChance": false
+  },
+  {
+    "Id": 1,
+    "AppearTime": 4.0,
+    "Count": 1,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.0,
+    "GoldenChance": 0,
+    "FriendChance": false
+  },
+  {
+    "Id": 2,
+    "AppearTime": 7.0,
+    "Count": 1,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.0,
+    "GoldenChance": 0,
+    "FriendChance": false
+  },
+  {
+    "Id": 3,
+    "AppearTime": 10.0,
+    "Count": 2,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.0,
+    "GoldenChance": 10,
+    "FriendChance": true
+  },
+  {
+    "Id": 4,
+    "AppearTime": 13.0,
+    "Count": 2,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.0,
+    "GoldenChance": 10,
+    "FriendChance": true
+  },
+  {
+    "Id": 5,
+    "AppearTime": 16.0,
+    "Count": 2,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.0,
+    "GoldenChance": 10,
+    "FriendChance": true
+  },
+  {
+    "Id": 6,
+    "AppearTime": 19.0,
+    "Count": 1,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.0,
+    "GoldenChance": 0,
+    "FriendChance": true
+  },
+  {
+    "Id": 7,
+    "AppearTime": 20.0,
+    "Count": 1,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.75,
+    "GoldenChance": 0,
+    "FriendChance": true
+  },
+  {
+    "Id": 8,
+    "AppearTime": 22.0,
+    "Count": 1,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.75,
+    "GoldenChance": 0,
+    "FriendChance": true
+  },
+  {
+    "Id": 9,
+    "AppearTime": 23.0,
+    "Count": 1,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.75,
+    "GoldenChance": 0,
+    "FriendChance": true
+  },
+  {
+    "Id": 10,
+    "AppearTime": 25.0,
+    "Count": 3,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.75,
+    "GoldenChance": 0,
+    "FriendChance": true
+  },
+  {
+    "Id": 11,
+    "AppearTime": 27.0,
+    "Count": 3,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.75,
+    "GoldenChance": 0,
+    "FriendChance": true
+  },
+  {
+    "Id": 12,
+    "AppearTime": 29.0,
+    "Count": 5,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.75,
+    "GoldenChance": 0,
+    "FriendChance": true
+  },
+  {
+    "Id": 13,
+    "AppearTime": 30.0,
+    "Count": 1,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.75,
+    "GoldenChance": 0,
+    "FriendChance": true
+  },
+  {
+    "Id": 14,
+    "AppearTime": 31.0,
+    "Count": 2,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.75,
+    "GoldenChance": 0,
+    "FriendChance": true
+  },
+  {
+    "Id": 15,
+    "AppearTime": 33.0,
+    "Count": 3,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.75,
+    "GoldenChance": 0,
+    "FriendChance": true
+  },
+  {
+    "Id": 16,
+    "AppearTime": 35.0,
+    "Count": 2,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.75,
+    "GoldenChance": 0,
+    "FriendChance": true
+  },
+  {
+    "Id": 17,
+    "AppearTime": 36.0,
+    "Count": 2,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.75,
+    "GoldenChance": 0,
+    "FriendChance": true
+  },
+  {
+    "Id": 18,
+    "AppearTime": 37.0,
+    "Count": 3,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.75,
+    "GoldenChance": 0,
+    "FriendChance": true
+  },
+  {
+    "Id": 19,
+    "AppearTime": 39.0,
+    "Count": 2,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.5,
+    "GoldenChance": 0,
+    "FriendChance": true
+  },
+  {
+    "Id": 20,
+    "AppearTime": 40.0,
+    "Count": 1,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.5,
+    "GoldenChance": 0,
+    "FriendChance": true
+  },
+  {
+    "Id": 21,
+    "AppearTime": 41.0,
+    "Count": 3,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.5,
+    "GoldenChance": 0,
+    "FriendChance": true
+  },
+  {
+    "Id": 22,
+    "AppearTime": 43.0,
+    "Count": 1,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.5,
+    "GoldenChance": 0,
+    "FriendChance": true
+  },
+  {
+    "Id": 23,
+    "AppearTime": 44.0,
+    "Count": 3,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.5,
+    "GoldenChance": 0,
+    "FriendChance": true
+  },
+  {
+    "Id": 24,
+    "AppearTime": 45.0,
+    "Count": 1,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.5,
+    "GoldenChance": 0,
+    "FriendChance": true
+  },
+  {
+    "Id": 25,
+    "AppearTime": 47.0,
+    "Count": 3,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.5,
+    "GoldenChance": 0,
+    "FriendChance": true
+  },
+  {
+    "Id": 26,
+    "AppearTime": 48.0,
+    "Count": 2,
+    "HoldingTime": 2.0,
+    "HoldingTimeRange": 0.5,
+    "GoldenChance": 0,
+    "FriendChance": true
+  }
+]

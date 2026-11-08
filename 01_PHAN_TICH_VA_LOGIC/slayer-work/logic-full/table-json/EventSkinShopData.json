@@ -1,0 +1,4748 @@
+[
+  {
+    "Id": 1,
+    "EventType": 10,
+    "CurrencyType": 64,
+    "CurrencyIndex": 26
+  },
+  {
+    "Id": 2,
+    "EventType": 10,
+    "CurrencyType": 64,
+    "CurrencyIndex": 27
+  },
+  {
+    "Id": 3,
+    "EventType": 10,
+    "CurrencyType": 64,
+    "CurrencyIndex": 28
+  },
+  {
+    "Id": 4,
+    "EventType": 10,
+    "CurrencyType": 64,
+    "CurrencyIndex": 29
+  },
+  {
+    "Id": 5,
+    "EventType": 10,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1021
+  },
+  {
+    "Id": 6,
+    "EventType": 10,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1022
+  },
+  {
+    "Id": 7,
+    "EventType": 10,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1023
+  },
+  {
+    "Id": 8,
+    "EventType": 10,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1024
+  },
+  {
+    "Id": 9,
+    "EventType": 11,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1031
+  },
+  {
+    "Id": 10,
+    "EventType": 11,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1032
+  },
+  {
+    "Id": 11,
+    "EventType": 11,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1033
+  },
+  {
+    "Id": 12,
+    "EventType": 11,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1034
+  },
+  {
+    "Id": 13,
+    "EventType": 11,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1035
+  },
+  {
+    "Id": 14,
+    "EventType": 11,
+    "CurrencyType": 64,
+    "CurrencyIndex": 30
+  },
+  {
+    "Id": 15,
+    "EventType": 11,
+    "CurrencyType": 64,
+    "CurrencyIndex": 31
+  },
+  {
+    "Id": 16,
+    "EventType": 12,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1037
+  },
+  {
+    "Id": 17,
+    "EventType": 12,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1038
+  },
+  {
+    "Id": 18,
+    "EventType": 12,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1039
+  },
+  {
+    "Id": 19,
+    "EventType": 12,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1040
+  },
+  {
+    "Id": 20,
+    "EventType": 12,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1041
+  },
+  {
+    "Id": 21,
+    "EventType": 12,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1042
+  },
+  {
+    "Id": 22,
+    "EventType": 12,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1043
+  },
+  {
+    "Id": 23,
+    "EventType": 12,
+    "CurrencyType": 60,
+    "CurrencyIndex": 6
+  },
+  {
+    "Id": 24,
+    "EventType": 13,
+    "CurrencyType": 61,
+    "CurrencyIndex": 151
+  },
+  {
+    "Id": 25,
+    "EventType": 13,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1025
+  },
+  {
+    "Id": 26,
+    "EventType": 13,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1026
+  },
+  {
+    "Id": 27,
+    "EventType": 13,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1027
+  },
+  {
+    "Id": 28,
+    "EventType": 13,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1028
+  },
+  {
+    "Id": 29,
+    "EventType": 13,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1045
+  },
+  {
+    "Id": 30,
+    "EventType": 13,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1046
+  },
+  {
+    "Id": 31,
+    "EventType": 13,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1047
+  },
+  {
+    "Id": 32,
+    "EventType": 13,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1048
+  },
+  {
+    "Id": 34,
+    "EventType": 14,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1050
+  },
+  {
+    "Id": 35,
+    "EventType": 14,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1051
+  },
+  {
+    "Id": 36,
+    "EventType": 14,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1052
+  },
+  {
+    "Id": 37,
+    "EventType": 14,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1053
+  },
+  {
+    "Id": 38,
+    "EventType": 14,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1054
+  },
+  {
+    "Id": 39,
+    "EventType": 14,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1055
+  },
+  {
+    "Id": 40,
+    "EventType": 14,
+    "CurrencyType": 60,
+    "CurrencyIndex": 9
+  },
+  {
+    "Id": 41,
+    "EventType": 14,
+    "CurrencyType": 60,
+    "CurrencyIndex": 10
+  },
+  {
+    "Id": 42,
+    "EventType": 15,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1009
+  },
+  {
+    "Id": 43,
+    "EventType": 15,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1010
+  },
+  {
+    "Id": 44,
+    "EventType": 15,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1011
+  },
+  {
+    "Id": 45,
+    "EventType": 15,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1012
+  },
+  {
+    "Id": 46,
+    "EventType": 15,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1057
+  },
+  {
+    "Id": 47,
+    "EventType": 15,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1058
+  },
+  {
+    "Id": 48,
+    "EventType": 15,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1059
+  },
+  {
+    "Id": 49,
+    "EventType": 15,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1060
+  },
+  {
+    "Id": 50,
+    "EventType": 15,
+    "CurrencyType": 60,
+    "CurrencyIndex": 12
+  },
+  {
+    "Id": 51,
+    "EventType": 15,
+    "CurrencyType": 60,
+    "CurrencyIndex": 13
+  },
+  {
+    "Id": 52,
+    "EventType": 15,
+    "CurrencyType": 60,
+    "CurrencyIndex": 14
+  },
+  {
+    "Id": 53,
+    "EventType": 15,
+    "CurrencyType": 64,
+    "CurrencyIndex": 35
+  },
+  {
+    "Id": 54,
+    "EventType": 16,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1062
+  },
+  {
+    "Id": 55,
+    "EventType": 16,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1063
+  },
+  {
+    "Id": 56,
+    "EventType": 16,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1064
+  },
+  {
+    "Id": 57,
+    "EventType": 16,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1065
+  },
+  {
+    "Id": 58,
+    "EventType": 16,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1066
+  },
+  {
+    "Id": 59,
+    "EventType": 16,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1067
+  },
+  {
+    "Id": 60,
+    "EventType": 16,
+    "CurrencyType": 60,
+    "CurrencyIndex": 16
+  },
+  {
+    "Id": 61,
+    "EventType": 17,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1013
+  },
+  {
+    "Id": 62,
+    "EventType": 17,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1014
+  },
+  {
+    "Id": 63,
+    "EventType": 17,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1015
+  },
+  {
+    "Id": 64,
+    "EventType": 17,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1016
+  },
+  {
+    "Id": 65,
+    "EventType": 17,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1069
+  },
+  {
+    "Id": 66,
+    "EventType": 17,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1070
+  },
+  {
+    "Id": 67,
+    "EventType": 17,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1071
+  },
+  {
+    "Id": 68,
+    "EventType": 17,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1072
+  },
+  {
+    "Id": 69,
+    "EventType": 17,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1073
+  },
+  {
+    "Id": 70,
+    "EventType": 17,
+    "CurrencyType": 60,
+    "CurrencyIndex": 18
+  },
+  {
+    "Id": 71,
+    "EventType": 17,
+    "CurrencyType": 64,
+    "CurrencyIndex": 38
+  },
+  {
+    "Id": 72,
+    "EventType": 18,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1017
+  },
+  {
+    "Id": 73,
+    "EventType": 18,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1018
+  },
+  {
+    "Id": 74,
+    "EventType": 18,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1019
+  },
+  {
+    "Id": 75,
+    "EventType": 18,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1020
+  },
+  {
+    "Id": 76,
+    "EventType": 18,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1075
+  },
+  {
+    "Id": 77,
+    "EventType": 18,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1076
+  },
+  {
+    "Id": 78,
+    "EventType": 18,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1077
+  },
+  {
+    "Id": 79,
+    "EventType": 18,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1078
+  },
+  {
+    "Id": 80,
+    "EventType": 18,
+    "CurrencyType": 60,
+    "CurrencyIndex": 20
+  },
+  {
+    "Id": 81,
+    "EventType": 18,
+    "CurrencyType": 60,
+    "CurrencyIndex": 21
+  },
+  {
+    "Id": 82,
+    "EventType": 18,
+    "CurrencyType": 64,
+    "CurrencyIndex": 40
+  },
+  {
+    "Id": 83,
+    "EventType": 19,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1080
+  },
+  {
+    "Id": 84,
+    "EventType": 19,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1081
+  },
+  {
+    "Id": 85,
+    "EventType": 19,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1082
+  },
+  {
+    "Id": 86,
+    "EventType": 19,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1083
+  },
+  {
+    "Id": 87,
+    "EventType": 19,
+    "CurrencyType": 60,
+    "CurrencyIndex": 23
+  },
+  {
+    "Id": 88,
+    "EventType": 19,
+    "CurrencyType": 60,
+    "CurrencyIndex": 24
+  },
+  {
+    "Id": 89,
+    "EventType": 19,
+    "CurrencyType": 64,
+    "CurrencyIndex": 42
+  },
+  {
+    "Id": 90,
+    "EventType": 20,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1085
+  },
+  {
+    "Id": 91,
+    "EventType": 20,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1086
+  },
+  {
+    "Id": 92,
+    "EventType": 20,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1087
+  },
+  {
+    "Id": 93,
+    "EventType": 20,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1088
+  },
+  {
+    "Id": 94,
+    "EventType": 20,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1005
+  },
+  {
+    "Id": 95,
+    "EventType": 20,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1006
+  },
+  {
+    "Id": 96,
+    "EventType": 20,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1007
+  },
+  {
+    "Id": 97,
+    "EventType": 20,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1008
+  },
+  {
+    "Id": 98,
+    "EventType": 20,
+    "CurrencyType": 61,
+    "CurrencyIndex": 154
+  },
+  {
+    "Id": 99,
+    "EventType": 20,
+    "CurrencyType": 61,
+    "CurrencyIndex": 155
+  },
+  {
+    "Id": 100,
+    "EventType": 20,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1029
+  },
+  {
+    "Id": 101,
+    "EventType": 20,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1001
+  },
+  {
+    "Id": 102,
+    "EventType": 20,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1002
+  },
+  {
+    "Id": 103,
+    "EventType": 20,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1003
+  },
+  {
+    "Id": 104,
+    "EventType": 20,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1004
+  },
+  {
+    "Id": 105,
+    "EventType": 21,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1090
+  },
+  {
+    "Id": 106,
+    "EventType": 21,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1091
+  },
+  {
+    "Id": 107,
+    "EventType": 21,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1092
+  },
+  {
+    "Id": 108,
+    "EventType": 21,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1093
+  },
+  {
+    "Id": 109,
+    "EventType": 21,
+    "CurrencyType": 60,
+    "CurrencyIndex": 30
+  },
+  {
+    "Id": 110,
+    "EventType": 21,
+    "CurrencyType": 60,
+    "CurrencyIndex": 31
+  },
+  {
+    "Id": 111,
+    "EventType": 21,
+    "CurrencyType": 64,
+    "CurrencyIndex": 45
+  },
+  {
+    "Id": 112,
+    "EventType": 22,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1095
+  },
+  {
+    "Id": 113,
+    "EventType": 22,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1096
+  },
+  {
+    "Id": 114,
+    "EventType": 22,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1097
+  },
+  {
+    "Id": 115,
+    "EventType": 22,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1098
+  },
+  {
+    "Id": 116,
+    "EventType": 22,
+    "CurrencyType": 60,
+    "CurrencyIndex": 36
+  },
+  {
+    "Id": 117,
+    "EventType": 22,
+    "CurrencyType": 60,
+    "CurrencyIndex": 34
+  },
+  {
+    "Id": 118,
+    "EventType": 22,
+    "CurrencyType": 60,
+    "CurrencyIndex": 35
+  },
+  {
+    "Id": 119,
+    "EventType": 22,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1021
+  },
+  {
+    "Id": 120,
+    "EventType": 22,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1022
+  },
+  {
+    "Id": 121,
+    "EventType": 22,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1023
+  },
+  {
+    "Id": 122,
+    "EventType": 22,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1024
+  },
+  {
+    "Id": 123,
+    "EventType": 22,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1030
+  },
+  {
+    "Id": 124,
+    "EventType": 22,
+    "CurrencyType": 64,
+    "CurrencyIndex": 26
+  },
+  {
+    "Id": 125,
+    "EventType": 22,
+    "CurrencyType": 64,
+    "CurrencyIndex": 27
+  },
+  {
+    "Id": 126,
+    "EventType": 22,
+    "CurrencyType": 64,
+    "CurrencyIndex": 28
+  },
+  {
+    "Id": 127,
+    "EventType": 22,
+    "CurrencyType": 64,
+    "CurrencyIndex": 29
+  },
+  {
+    "Id": 128,
+    "EventType": 22,
+    "CurrencyType": 60,
+    "CurrencyIndex": 3
+  },
+  {
+    "Id": 129,
+    "EventType": 22,
+    "CurrencyType": 61,
+    "CurrencyIndex": 157
+  },
+  {
+    "Id": 130,
+    "EventType": 22,
+    "CurrencyType": 60,
+    "CurrencyIndex": 2
+  },
+  {
+    "Id": 131,
+    "EventType": 23,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1100
+  },
+  {
+    "Id": 132,
+    "EventType": 23,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1101
+  },
+  {
+    "Id": 133,
+    "EventType": 23,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1102
+  },
+  {
+    "Id": 134,
+    "EventType": 23,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1103
+  },
+  {
+    "Id": 135,
+    "EventType": 23,
+    "CurrencyType": 60,
+    "CurrencyIndex": 37
+  },
+  {
+    "Id": 136,
+    "EventType": 23,
+    "CurrencyType": 60,
+    "CurrencyIndex": 38
+  },
+  {
+    "Id": 137,
+    "EventType": 23,
+    "CurrencyType": 60,
+    "CurrencyIndex": 39
+  },
+  {
+    "Id": 138,
+    "EventType": 23,
+    "CurrencyType": 64,
+    "CurrencyIndex": 48
+  },
+  {
+    "Id": 139,
+    "EventType": 23,
+    "CurrencyType": 64,
+    "CurrencyIndex": 49
+  },
+  {
+    "Id": 140,
+    "EventType": 24,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1106
+  },
+  {
+    "Id": 141,
+    "EventType": 24,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1107
+  },
+  {
+    "Id": 142,
+    "EventType": 24,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1108
+  },
+  {
+    "Id": 143,
+    "EventType": 24,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1109
+  },
+  {
+    "Id": 144,
+    "EventType": 24,
+    "CurrencyType": 60,
+    "CurrencyIndex": 41
+  },
+  {
+    "Id": 145,
+    "EventType": 24,
+    "CurrencyType": 60,
+    "CurrencyIndex": 42
+  },
+  {
+    "Id": 146,
+    "EventType": 24,
+    "CurrencyType": 64,
+    "CurrencyIndex": 51
+  },
+  {
+    "Id": 147,
+    "EventType": 24,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1033
+  },
+  {
+    "Id": 148,
+    "EventType": 24,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1034
+  },
+  {
+    "Id": 149,
+    "EventType": 24,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1035
+  },
+  {
+    "Id": 150,
+    "EventType": 24,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1037
+  },
+  {
+    "Id": 151,
+    "EventType": 24,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1038
+  },
+  {
+    "Id": 152,
+    "EventType": 24,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1036
+  },
+  {
+    "Id": 153,
+    "EventType": 24,
+    "CurrencyType": 60,
+    "CurrencyIndex": 5
+  },
+  {
+    "Id": 154,
+    "EventType": 24,
+    "CurrencyType": 61,
+    "CurrencyIndex": 158
+  },
+  {
+    "Id": 155,
+    "EventType": 24,
+    "CurrencyType": 60,
+    "CurrencyIndex": 4
+  },
+  {
+    "Id": 156,
+    "EventType": 25,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1112
+  },
+  {
+    "Id": 157,
+    "EventType": 25,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1113
+  },
+  {
+    "Id": 158,
+    "EventType": 25,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1114
+  },
+  {
+    "Id": 159,
+    "EventType": 25,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1115
+  },
+  {
+    "Id": 160,
+    "EventType": 25,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1045
+  },
+  {
+    "Id": 161,
+    "EventType": 25,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1046
+  },
+  {
+    "Id": 162,
+    "EventType": 25,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1047
+  },
+  {
+    "Id": 163,
+    "EventType": 25,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1048
+  },
+  {
+    "Id": 164,
+    "EventType": 25,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1049
+  },
+  {
+    "Id": 165,
+    "EventType": 25,
+    "CurrencyType": 64,
+    "CurrencyIndex": 33
+  },
+  {
+    "Id": 166,
+    "EventType": 25,
+    "CurrencyType": 60,
+    "CurrencyIndex": 8
+  },
+  {
+    "Id": 167,
+    "EventType": 25,
+    "CurrencyType": 61,
+    "CurrencyIndex": 162
+  },
+  {
+    "Id": 168,
+    "EventType": 25,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1025
+  },
+  {
+    "Id": 169,
+    "EventType": 25,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1026
+  },
+  {
+    "Id": 170,
+    "EventType": 25,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1027
+  },
+  {
+    "Id": 171,
+    "EventType": 25,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1028
+  },
+  {
+    "Id": 172,
+    "EventType": 25,
+    "CurrencyType": 61,
+    "CurrencyIndex": 151
+  },
+  {
+    "Id": 173,
+    "EventType": 26,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1119
+  },
+  {
+    "Id": 174,
+    "EventType": 26,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1120
+  },
+  {
+    "Id": 175,
+    "EventType": 26,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1121
+  },
+  {
+    "Id": 176,
+    "EventType": 26,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1122
+  },
+  {
+    "Id": 177,
+    "EventType": 26,
+    "CurrencyType": 60,
+    "CurrencyIndex": 46
+  },
+  {
+    "Id": 178,
+    "EventType": 26,
+    "CurrencyType": 60,
+    "CurrencyIndex": 47
+  },
+  {
+    "Id": 179,
+    "EventType": 26,
+    "CurrencyType": 64,
+    "CurrencyIndex": 54
+  },
+  {
+    "Id": 180,
+    "EventType": 26,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1050
+  },
+  {
+    "Id": 181,
+    "EventType": 26,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1051
+  },
+  {
+    "Id": 182,
+    "EventType": 26,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1052
+  },
+  {
+    "Id": 183,
+    "EventType": 26,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1053
+  },
+  {
+    "Id": 184,
+    "EventType": 26,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1054
+  },
+  {
+    "Id": 185,
+    "EventType": 26,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1055
+  },
+  {
+    "Id": 186,
+    "EventType": 26,
+    "CurrencyType": 60,
+    "CurrencyIndex": 9
+  },
+  {
+    "Id": 187,
+    "EventType": 26,
+    "CurrencyType": 60,
+    "CurrencyIndex": 10
+  },
+  {
+    "Id": 188,
+    "EventType": 26,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1056
+  },
+  {
+    "Id": 189,
+    "EventType": 26,
+    "CurrencyType": 64,
+    "CurrencyIndex": 34
+  },
+  {
+    "Id": 190,
+    "EventType": 26,
+    "CurrencyType": 61,
+    "CurrencyIndex": 163
+  },
+  {
+    "Id": 191,
+    "EventType": 26,
+    "CurrencyType": 60,
+    "CurrencyIndex": 11
+  },
+  {
+    "Id": 192,
+    "EventType": 28,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1126
+  },
+  {
+    "Id": 193,
+    "EventType": 28,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1127
+  },
+  {
+    "Id": 194,
+    "EventType": 28,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1128
+  },
+  {
+    "Id": 195,
+    "EventType": 28,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1129
+  },
+  {
+    "Id": 196,
+    "EventType": 28,
+    "CurrencyType": 60,
+    "CurrencyIndex": 51
+  },
+  {
+    "Id": 197,
+    "EventType": 28,
+    "CurrencyType": 60,
+    "CurrencyIndex": 52
+  },
+  {
+    "Id": 198,
+    "EventType": 28,
+    "CurrencyType": 64,
+    "CurrencyIndex": 56
+  },
+  {
+    "Id": 199,
+    "EventType": 28,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1057
+  },
+  {
+    "Id": 200,
+    "EventType": 28,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1058
+  },
+  {
+    "Id": 201,
+    "EventType": 28,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1059
+  },
+  {
+    "Id": 202,
+    "EventType": 28,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1060
+  },
+  {
+    "Id": 203,
+    "EventType": 28,
+    "CurrencyType": 60,
+    "CurrencyIndex": 12
+  },
+  {
+    "Id": 204,
+    "EventType": 28,
+    "CurrencyType": 60,
+    "CurrencyIndex": 13
+  },
+  {
+    "Id": 205,
+    "EventType": 28,
+    "CurrencyType": 60,
+    "CurrencyIndex": 14
+  },
+  {
+    "Id": 206,
+    "EventType": 28,
+    "CurrencyType": 64,
+    "CurrencyIndex": 35
+  },
+  {
+    "Id": 207,
+    "EventType": 28,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1061
+  },
+  {
+    "Id": 208,
+    "EventType": 28,
+    "CurrencyType": 64,
+    "CurrencyIndex": 36
+  },
+  {
+    "Id": 209,
+    "EventType": 28,
+    "CurrencyType": 61,
+    "CurrencyIndex": 164
+  },
+  {
+    "Id": 210,
+    "EventType": 28,
+    "CurrencyType": 60,
+    "CurrencyIndex": 15
+  },
+  {
+    "Id": 211,
+    "EventType": 28,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1009
+  },
+  {
+    "Id": 212,
+    "EventType": 28,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1010
+  },
+  {
+    "Id": 213,
+    "EventType": 28,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1011
+  },
+  {
+    "Id": 214,
+    "EventType": 28,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1012
+  },
+  {
+    "Id": 215,
+    "EventType": 29,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1132
+  },
+  {
+    "Id": 216,
+    "EventType": 29,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1133
+  },
+  {
+    "Id": 217,
+    "EventType": 29,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1134
+  },
+  {
+    "Id": 218,
+    "EventType": 29,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1135
+  },
+  {
+    "Id": 219,
+    "EventType": 29,
+    "CurrencyType": 60,
+    "CurrencyIndex": 56
+  },
+  {
+    "Id": 220,
+    "EventType": 29,
+    "CurrencyType": 60,
+    "CurrencyIndex": 57
+  },
+  {
+    "Id": 221,
+    "EventType": 29,
+    "CurrencyType": 64,
+    "CurrencyIndex": 58
+  },
+  {
+    "Id": 222,
+    "EventType": 29,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1062
+  },
+  {
+    "Id": 223,
+    "EventType": 29,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1063
+  },
+  {
+    "Id": 224,
+    "EventType": 29,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1064
+  },
+  {
+    "Id": 225,
+    "EventType": 29,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1065
+  },
+  {
+    "Id": 226,
+    "EventType": 29,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1066
+  },
+  {
+    "Id": 227,
+    "EventType": 29,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1067
+  },
+  {
+    "Id": 228,
+    "EventType": 29,
+    "CurrencyType": 60,
+    "CurrencyIndex": 16
+  },
+  {
+    "Id": 229,
+    "EventType": 29,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1068
+  },
+  {
+    "Id": 230,
+    "EventType": 29,
+    "CurrencyType": 64,
+    "CurrencyIndex": 37
+  },
+  {
+    "Id": 231,
+    "EventType": 29,
+    "CurrencyType": 61,
+    "CurrencyIndex": 166
+  },
+  {
+    "Id": 232,
+    "EventType": 29,
+    "CurrencyType": 60,
+    "CurrencyIndex": 17
+  },
+  {
+    "Id": 233,
+    "EventType": 30,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1138
+  },
+  {
+    "Id": 234,
+    "EventType": 30,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1139
+  },
+  {
+    "Id": 235,
+    "EventType": 30,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1140
+  },
+  {
+    "Id": 236,
+    "EventType": 30,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1141
+  },
+  {
+    "Id": 237,
+    "EventType": 30,
+    "CurrencyType": 60,
+    "CurrencyIndex": 60
+  },
+  {
+    "Id": 238,
+    "EventType": 30,
+    "CurrencyType": 60,
+    "CurrencyIndex": 61
+  },
+  {
+    "Id": 239,
+    "EventType": 30,
+    "CurrencyType": 64,
+    "CurrencyIndex": 60
+  },
+  {
+    "Id": 240,
+    "EventType": 30,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1069
+  },
+  {
+    "Id": 241,
+    "EventType": 30,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1070
+  },
+  {
+    "Id": 242,
+    "EventType": 30,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1071
+  },
+  {
+    "Id": 243,
+    "EventType": 30,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1072
+  },
+  {
+    "Id": 244,
+    "EventType": 30,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1073
+  },
+  {
+    "Id": 245,
+    "EventType": 30,
+    "CurrencyType": 60,
+    "CurrencyIndex": 18
+  },
+  {
+    "Id": 246,
+    "EventType": 30,
+    "CurrencyType": 64,
+    "CurrencyIndex": 38
+  },
+  {
+    "Id": 247,
+    "EventType": 30,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1074
+  },
+  {
+    "Id": 248,
+    "EventType": 30,
+    "CurrencyType": 64,
+    "CurrencyIndex": 39
+  },
+  {
+    "Id": 249,
+    "EventType": 30,
+    "CurrencyType": 61,
+    "CurrencyIndex": 167
+  },
+  {
+    "Id": 250,
+    "EventType": 30,
+    "CurrencyType": 60,
+    "CurrencyIndex": 19
+  },
+  {
+    "Id": 251,
+    "EventType": 31,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1143
+  },
+  {
+    "Id": 252,
+    "EventType": 31,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1144
+  },
+  {
+    "Id": 253,
+    "EventType": 31,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1145
+  },
+  {
+    "Id": 254,
+    "EventType": 31,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1146
+  },
+  {
+    "Id": 255,
+    "EventType": 31,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1147
+  },
+  {
+    "Id": 256,
+    "EventType": 31,
+    "CurrencyType": 60,
+    "CurrencyIndex": 64
+  },
+  {
+    "Id": 257,
+    "EventType": 31,
+    "CurrencyType": 64,
+    "CurrencyIndex": 62
+  },
+  {
+    "Id": 258,
+    "EventType": 31,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1075
+  },
+  {
+    "Id": 259,
+    "EventType": 31,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1076
+  },
+  {
+    "Id": 260,
+    "EventType": 31,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1077
+  },
+  {
+    "Id": 261,
+    "EventType": 31,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1078
+  },
+  {
+    "Id": 262,
+    "EventType": 31,
+    "CurrencyType": 60,
+    "CurrencyIndex": 20
+  },
+  {
+    "Id": 263,
+    "EventType": 31,
+    "CurrencyType": 60,
+    "CurrencyIndex": 21
+  },
+  {
+    "Id": 264,
+    "EventType": 31,
+    "CurrencyType": 64,
+    "CurrencyIndex": 40
+  },
+  {
+    "Id": 265,
+    "EventType": 31,
+    "CurrencyType": 60,
+    "CurrencyIndex": 22
+  },
+  {
+    "Id": 266,
+    "EventType": 31,
+    "CurrencyType": 64,
+    "CurrencyIndex": 41
+  },
+  {
+    "Id": 267,
+    "EventType": 31,
+    "CurrencyType": 61,
+    "CurrencyIndex": 168
+  },
+  {
+    "Id": 268,
+    "EventType": 31,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1079
+  },
+  {
+    "Id": 269,
+    "EventType": 31,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1017
+  },
+  {
+    "Id": 270,
+    "EventType": 31,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1018
+  },
+  {
+    "Id": 271,
+    "EventType": 31,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1019
+  },
+  {
+    "Id": 272,
+    "EventType": 31,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1020
+  },
+  {
+    "Id": 273,
+    "EventType": 32,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1150
+  },
+  {
+    "Id": 274,
+    "EventType": 32,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1151
+  },
+  {
+    "Id": 275,
+    "EventType": 32,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1152
+  },
+  {
+    "Id": 276,
+    "EventType": 32,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1153
+  },
+  {
+    "Id": 277,
+    "EventType": 32,
+    "CurrencyType": 60,
+    "CurrencyIndex": 68
+  },
+  {
+    "Id": 278,
+    "EventType": 32,
+    "CurrencyType": 60,
+    "CurrencyIndex": 69
+  },
+  {
+    "Id": 279,
+    "EventType": 32,
+    "CurrencyType": 60,
+    "CurrencyIndex": 70
+  },
+  {
+    "Id": 280,
+    "EventType": 32,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1039
+  },
+  {
+    "Id": 281,
+    "EventType": 32,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1041
+  },
+  {
+    "Id": 282,
+    "EventType": 32,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1042
+  },
+  {
+    "Id": 283,
+    "EventType": 32,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1044
+  },
+  {
+    "Id": 284,
+    "EventType": 32,
+    "CurrencyType": 60,
+    "CurrencyIndex": 6
+  },
+  {
+    "Id": 285,
+    "EventType": 32,
+    "CurrencyType": 64,
+    "CurrencyIndex": 32
+  },
+  {
+    "Id": 286,
+    "EventType": 32,
+    "CurrencyType": 61,
+    "CurrencyIndex": 161
+  },
+  {
+    "Id": 287,
+    "EventType": 32,
+    "CurrencyType": 60,
+    "CurrencyIndex": 7
+  },
+  {
+    "Id": 288,
+    "EventType": 33,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1156
+  },
+  {
+    "Id": 289,
+    "EventType": 33,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1157
+  },
+  {
+    "Id": 290,
+    "EventType": 33,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1158
+  },
+  {
+    "Id": 291,
+    "EventType": 33,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1159
+  },
+  {
+    "Id": 295,
+    "EventType": 33,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1085
+  },
+  {
+    "Id": 296,
+    "EventType": 33,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1086
+  },
+  {
+    "Id": 297,
+    "EventType": 33,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1087
+  },
+  {
+    "Id": 298,
+    "EventType": 33,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1088
+  },
+  {
+    "Id": 299,
+    "EventType": 33,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1089
+  },
+  {
+    "Id": 300,
+    "EventType": 33,
+    "CurrencyType": 64,
+    "CurrencyIndex": 44
+  },
+  {
+    "Id": 301,
+    "EventType": 33,
+    "CurrencyType": 61,
+    "CurrencyIndex": 171
+  },
+  {
+    "Id": 302,
+    "EventType": 33,
+    "CurrencyType": 60,
+    "CurrencyIndex": 28
+  },
+  {
+    "Id": 303,
+    "EventType": 33,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1005
+  },
+  {
+    "Id": 304,
+    "EventType": 33,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1006
+  },
+  {
+    "Id": 305,
+    "EventType": 33,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1007
+  },
+  {
+    "Id": 306,
+    "EventType": 33,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1008
+  },
+  {
+    "Id": 307,
+    "EventType": 33,
+    "CurrencyType": 61,
+    "CurrencyIndex": 154
+  },
+  {
+    "Id": 308,
+    "EventType": 33,
+    "CurrencyType": 61,
+    "CurrencyIndex": 155
+  },
+  {
+    "Id": 309,
+    "EventType": 33,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1029
+  },
+  {
+    "Id": 310,
+    "EventType": 34,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1165
+  },
+  {
+    "Id": 311,
+    "EventType": 34,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1166
+  },
+  {
+    "Id": 312,
+    "EventType": 34,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1167
+  },
+  {
+    "Id": 313,
+    "EventType": 34,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1168
+  },
+  {
+    "Id": 314,
+    "EventType": 34,
+    "CurrencyType": 60,
+    "CurrencyIndex": 77
+  },
+  {
+    "Id": 315,
+    "EventType": 34,
+    "CurrencyType": 60,
+    "CurrencyIndex": 78
+  },
+  {
+    "Id": 316,
+    "EventType": 34,
+    "CurrencyType": 64,
+    "CurrencyIndex": 67
+  },
+  {
+    "Id": 317,
+    "EventType": 34,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1090
+  },
+  {
+    "Id": 318,
+    "EventType": 34,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1091
+  },
+  {
+    "Id": 319,
+    "EventType": 34,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1092
+  },
+  {
+    "Id": 320,
+    "EventType": 34,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1093
+  },
+  {
+    "Id": 321,
+    "EventType": 34,
+    "CurrencyType": 60,
+    "CurrencyIndex": 30
+  },
+  {
+    "Id": 322,
+    "EventType": 34,
+    "CurrencyType": 60,
+    "CurrencyIndex": 31
+  },
+  {
+    "Id": 323,
+    "EventType": 34,
+    "CurrencyType": 64,
+    "CurrencyIndex": 45
+  },
+  {
+    "Id": 324,
+    "EventType": 34,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1094
+  },
+  {
+    "Id": 325,
+    "EventType": 34,
+    "CurrencyType": 64,
+    "CurrencyIndex": 46
+  },
+  {
+    "Id": 326,
+    "EventType": 34,
+    "CurrencyType": 61,
+    "CurrencyIndex": 172
+  },
+  {
+    "Id": 327,
+    "EventType": 34,
+    "CurrencyType": 60,
+    "CurrencyIndex": 32
+  },
+  {
+    "Id": 328,
+    "EventType": 35,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1171
+  },
+  {
+    "Id": 329,
+    "EventType": 35,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1172
+  },
+  {
+    "Id": 330,
+    "EventType": 35,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1173
+  },
+  {
+    "Id": 331,
+    "EventType": 35,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1174
+  },
+  {
+    "Id": 332,
+    "EventType": 35,
+    "CurrencyType": 60,
+    "CurrencyIndex": 82
+  },
+  {
+    "Id": 333,
+    "EventType": 35,
+    "CurrencyType": 60,
+    "CurrencyIndex": 83
+  },
+  {
+    "Id": 334,
+    "EventType": 35,
+    "CurrencyType": 60,
+    "CurrencyIndex": 84
+  },
+  {
+    "Id": 335,
+    "EventType": 35,
+    "CurrencyType": 60,
+    "CurrencyIndex": 85
+  },
+  {
+    "Id": 336,
+    "EventType": 35,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1095
+  },
+  {
+    "Id": 337,
+    "EventType": 35,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1096
+  },
+  {
+    "Id": 338,
+    "EventType": 35,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1097
+  },
+  {
+    "Id": 339,
+    "EventType": 35,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1098
+  },
+  {
+    "Id": 340,
+    "EventType": 35,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1099
+  },
+  {
+    "Id": 341,
+    "EventType": 35,
+    "CurrencyType": 60,
+    "CurrencyIndex": 36
+  },
+  {
+    "Id": 342,
+    "EventType": 35,
+    "CurrencyType": 60,
+    "CurrencyIndex": 34
+  },
+  {
+    "Id": 343,
+    "EventType": 35,
+    "CurrencyType": 60,
+    "CurrencyIndex": 35
+  },
+  {
+    "Id": 344,
+    "EventType": 35,
+    "CurrencyType": 64,
+    "CurrencyIndex": 47
+  },
+  {
+    "Id": 345,
+    "EventType": 35,
+    "CurrencyType": 61,
+    "CurrencyIndex": 173
+  },
+  {
+    "Id": 346,
+    "EventType": 35,
+    "CurrencyType": 60,
+    "CurrencyIndex": 33
+  },
+  {
+    "Id": 347,
+    "EventType": 35,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1021
+  },
+  {
+    "Id": 348,
+    "EventType": 35,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1022
+  },
+  {
+    "Id": 349,
+    "EventType": 35,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1023
+  },
+  {
+    "Id": 350,
+    "EventType": 35,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1024
+  },
+  {
+    "Id": 351,
+    "EventType": 35,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1030
+  },
+  {
+    "Id": 352,
+    "EventType": 35,
+    "CurrencyType": 64,
+    "CurrencyIndex": 26
+  },
+  {
+    "Id": 353,
+    "EventType": 35,
+    "CurrencyType": 64,
+    "CurrencyIndex": 27
+  },
+  {
+    "Id": 354,
+    "EventType": 35,
+    "CurrencyType": 64,
+    "CurrencyIndex": 28
+  },
+  {
+    "Id": 355,
+    "EventType": 35,
+    "CurrencyType": 64,
+    "CurrencyIndex": 29
+  },
+  {
+    "Id": 356,
+    "EventType": 35,
+    "CurrencyType": 60,
+    "CurrencyIndex": 3
+  },
+  {
+    "Id": 357,
+    "EventType": 35,
+    "CurrencyType": 61,
+    "CurrencyIndex": 157
+  },
+  {
+    "Id": 358,
+    "EventType": 35,
+    "CurrencyType": 60,
+    "CurrencyIndex": 2
+  },
+  {
+    "Id": 359,
+    "EventType": 36,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1176
+  },
+  {
+    "Id": 360,
+    "EventType": 36,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1177
+  },
+  {
+    "Id": 361,
+    "EventType": 36,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1178
+  },
+  {
+    "Id": 362,
+    "EventType": 36,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1179
+  },
+  {
+    "Id": 363,
+    "EventType": 36,
+    "CurrencyType": 70,
+    "CurrencyIndex": 1
+  },
+  {
+    "Id": 364,
+    "EventType": 36,
+    "CurrencyType": 70,
+    "CurrencyIndex": 1001
+  },
+  {
+    "Id": 365,
+    "EventType": 36,
+    "CurrencyType": 70,
+    "CurrencyIndex": 2001
+  },
+  {
+    "Id": 366,
+    "EventType": 36,
+    "CurrencyType": 70,
+    "CurrencyIndex": 3001
+  },
+  {
+    "Id": 367,
+    "EventType": 36,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1100
+  },
+  {
+    "Id": 368,
+    "EventType": 36,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1101
+  },
+  {
+    "Id": 369,
+    "EventType": 36,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1102
+  },
+  {
+    "Id": 370,
+    "EventType": 36,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1103
+  },
+  {
+    "Id": 371,
+    "EventType": 36,
+    "CurrencyType": 60,
+    "CurrencyIndex": 37
+  },
+  {
+    "Id": 372,
+    "EventType": 36,
+    "CurrencyType": 60,
+    "CurrencyIndex": 38
+  },
+  {
+    "Id": 373,
+    "EventType": 36,
+    "CurrencyType": 60,
+    "CurrencyIndex": 39
+  },
+  {
+    "Id": 374,
+    "EventType": 36,
+    "CurrencyType": 64,
+    "CurrencyIndex": 48
+  },
+  {
+    "Id": 375,
+    "EventType": 36,
+    "CurrencyType": 64,
+    "CurrencyIndex": 49
+  },
+  {
+    "Id": 376,
+    "EventType": 36,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1104
+  },
+  {
+    "Id": 377,
+    "EventType": 36,
+    "CurrencyType": 64,
+    "CurrencyIndex": 50
+  },
+  {
+    "Id": 378,
+    "EventType": 36,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1105
+  },
+  {
+    "Id": 379,
+    "EventType": 36,
+    "CurrencyType": 61,
+    "CurrencyIndex": 175
+  },
+  {
+    "Id": 380,
+    "EventType": 36,
+    "CurrencyType": 60,
+    "CurrencyIndex": 40
+  },
+  {
+    "Id": 381,
+    "EventType": 37,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1182
+  },
+  {
+    "Id": 382,
+    "EventType": 37,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1183
+  },
+  {
+    "Id": 383,
+    "EventType": 37,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1184
+  },
+  {
+    "Id": 384,
+    "EventType": 37,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1185
+  },
+  {
+    "Id": 385,
+    "EventType": 37,
+    "CurrencyType": 60,
+    "CurrencyIndex": 89
+  },
+  {
+    "Id": 386,
+    "EventType": 37,
+    "CurrencyType": 60,
+    "CurrencyIndex": 90
+  },
+  {
+    "Id": 387,
+    "EventType": 37,
+    "CurrencyType": 70,
+    "CurrencyIndex": 2
+  },
+  {
+    "Id": 388,
+    "EventType": 37,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1106
+  },
+  {
+    "Id": 389,
+    "EventType": 37,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1107
+  },
+  {
+    "Id": 390,
+    "EventType": 37,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1108
+  },
+  {
+    "Id": 391,
+    "EventType": 37,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1109
+  },
+  {
+    "Id": 392,
+    "EventType": 37,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1110
+  },
+  {
+    "Id": 393,
+    "EventType": 37,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1111
+  },
+  {
+    "Id": 394,
+    "EventType": 37,
+    "CurrencyType": 60,
+    "CurrencyIndex": 41
+  },
+  {
+    "Id": 395,
+    "EventType": 37,
+    "CurrencyType": 60,
+    "CurrencyIndex": 42
+  },
+  {
+    "Id": 396,
+    "EventType": 37,
+    "CurrencyType": 64,
+    "CurrencyIndex": 51
+  },
+  {
+    "Id": 397,
+    "EventType": 37,
+    "CurrencyType": 64,
+    "CurrencyIndex": 52
+  },
+  {
+    "Id": 398,
+    "EventType": 37,
+    "CurrencyType": 61,
+    "CurrencyIndex": 176
+  },
+  {
+    "Id": 399,
+    "EventType": 37,
+    "CurrencyType": 60,
+    "CurrencyIndex": 43
+  },
+  {
+    "Id": 400,
+    "EventType": 37,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1033
+  },
+  {
+    "Id": 401,
+    "EventType": 37,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1034
+  },
+  {
+    "Id": 402,
+    "EventType": 37,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1035
+  },
+  {
+    "Id": 403,
+    "EventType": 37,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1037
+  },
+  {
+    "Id": 404,
+    "EventType": 37,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1038
+  },
+  {
+    "Id": 405,
+    "EventType": 37,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1036
+  },
+  {
+    "Id": 406,
+    "EventType": 37,
+    "CurrencyType": 60,
+    "CurrencyIndex": 5
+  },
+  {
+    "Id": 407,
+    "EventType": 37,
+    "CurrencyType": 61,
+    "CurrencyIndex": 158
+  },
+  {
+    "Id": 408,
+    "EventType": 37,
+    "CurrencyType": 60,
+    "CurrencyIndex": 4
+  },
+  {
+    "Id": 409,
+    "EventType": 38,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1188
+  },
+  {
+    "Id": 410,
+    "EventType": 38,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1189
+  },
+  {
+    "Id": 411,
+    "EventType": 38,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1190
+  },
+  {
+    "Id": 412,
+    "EventType": 38,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1191
+  },
+  {
+    "Id": 413,
+    "EventType": 38,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1192
+  },
+  {
+    "Id": 414,
+    "EventType": 38,
+    "CurrencyType": 60,
+    "CurrencyIndex": 92
+  },
+  {
+    "Id": 415,
+    "EventType": 38,
+    "CurrencyType": 64,
+    "CurrencyIndex": 73
+  },
+  {
+    "Id": 416,
+    "EventType": 38,
+    "CurrencyType": 70,
+    "CurrencyIndex": 3
+  },
+  {
+    "Id": 417,
+    "EventType": 38,
+    "CurrencyType": 70,
+    "CurrencyIndex": 1002
+  },
+  {
+    "Id": 418,
+    "EventType": 38,
+    "CurrencyType": 70,
+    "CurrencyIndex": 2002
+  },
+  {
+    "Id": 419,
+    "EventType": 38,
+    "CurrencyType": 70,
+    "CurrencyIndex": 3002
+  },
+  {
+    "Id": 420,
+    "EventType": 38,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1025
+  },
+  {
+    "Id": 421,
+    "EventType": 38,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1026
+  },
+  {
+    "Id": 422,
+    "EventType": 38,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1027
+  },
+  {
+    "Id": 423,
+    "EventType": 38,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1028
+  },
+  {
+    "Id": 424,
+    "EventType": 38,
+    "CurrencyType": 61,
+    "CurrencyIndex": 151
+  },
+  {
+    "Id": 425,
+    "EventType": 38,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1045
+  },
+  {
+    "Id": 426,
+    "EventType": 38,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1046
+  },
+  {
+    "Id": 427,
+    "EventType": 38,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1047
+  },
+  {
+    "Id": 428,
+    "EventType": 38,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1048
+  },
+  {
+    "Id": 429,
+    "EventType": 38,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1049
+  },
+  {
+    "Id": 430,
+    "EventType": 38,
+    "CurrencyType": 64,
+    "CurrencyIndex": 33
+  },
+  {
+    "Id": 431,
+    "EventType": 38,
+    "CurrencyType": 60,
+    "CurrencyIndex": 8
+  },
+  {
+    "Id": 432,
+    "EventType": 38,
+    "CurrencyType": 61,
+    "CurrencyIndex": 162
+  },
+  {
+    "Id": 433,
+    "EventType": 38,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1112
+  },
+  {
+    "Id": 434,
+    "EventType": 38,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1113
+  },
+  {
+    "Id": 435,
+    "EventType": 38,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1114
+  },
+  {
+    "Id": 436,
+    "EventType": 38,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1115
+  },
+  {
+    "Id": 437,
+    "EventType": 38,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1116
+  },
+  {
+    "Id": 438,
+    "EventType": 38,
+    "CurrencyType": 64,
+    "CurrencyIndex": 54
+  },
+  {
+    "Id": 439,
+    "EventType": 38,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1117
+  },
+  {
+    "Id": 440,
+    "EventType": 38,
+    "CurrencyType": 60,
+    "CurrencyIndex": 44
+  },
+  {
+    "Id": 441,
+    "EventType": 38,
+    "CurrencyType": 61,
+    "CurrencyIndex": 177
+  },
+  {
+    "Id": 442,
+    "EventType": 39,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1195
+  },
+  {
+    "Id": 443,
+    "EventType": 39,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1196
+  },
+  {
+    "Id": 444,
+    "EventType": 39,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1197
+  },
+  {
+    "Id": 445,
+    "EventType": 39,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1198
+  },
+  {
+    "Id": 447,
+    "EventType": 39,
+    "CurrencyType": 60,
+    "CurrencyIndex": 94
+  },
+  {
+    "Id": 448,
+    "EventType": 39,
+    "CurrencyType": 60,
+    "CurrencyIndex": 95
+  },
+  {
+    "Id": 449,
+    "EventType": 39,
+    "CurrencyType": 64,
+    "CurrencyIndex": 75
+  },
+  {
+    "Id": 450,
+    "EventType": 39,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1119
+  },
+  {
+    "Id": 451,
+    "EventType": 39,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1120
+  },
+  {
+    "Id": 452,
+    "EventType": 39,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1121
+  },
+  {
+    "Id": 453,
+    "EventType": 39,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1122
+  },
+  {
+    "Id": 454,
+    "EventType": 39,
+    "CurrencyType": 60,
+    "CurrencyIndex": 46
+  },
+  {
+    "Id": 455,
+    "EventType": 39,
+    "CurrencyType": 60,
+    "CurrencyIndex": 47
+  },
+  {
+    "Id": 456,
+    "EventType": 39,
+    "CurrencyType": 64,
+    "CurrencyIndex": 54
+  },
+  {
+    "Id": 457,
+    "EventType": 39,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1050
+  },
+  {
+    "Id": 458,
+    "EventType": 39,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1051
+  },
+  {
+    "Id": 459,
+    "EventType": 39,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1052
+  },
+  {
+    "Id": 460,
+    "EventType": 39,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1053
+  },
+  {
+    "Id": 461,
+    "EventType": 39,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1054
+  },
+  {
+    "Id": 462,
+    "EventType": 39,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1055
+  },
+  {
+    "Id": 463,
+    "EventType": 39,
+    "CurrencyType": 60,
+    "CurrencyIndex": 9
+  },
+  {
+    "Id": 464,
+    "EventType": 39,
+    "CurrencyType": 60,
+    "CurrencyIndex": 10
+  },
+  {
+    "Id": 465,
+    "EventType": 39,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1123
+  },
+  {
+    "Id": 466,
+    "EventType": 39,
+    "CurrencyType": 64,
+    "CurrencyIndex": 55
+  },
+  {
+    "Id": 467,
+    "EventType": 39,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1124
+  },
+  {
+    "Id": 468,
+    "EventType": 39,
+    "CurrencyType": 61,
+    "CurrencyIndex": 179
+  },
+  {
+    "Id": 469,
+    "EventType": 39,
+    "CurrencyType": 60,
+    "CurrencyIndex": 48
+  },
+  {
+    "Id": 470,
+    "EventType": 39,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1056
+  },
+  {
+    "Id": 471,
+    "EventType": 39,
+    "CurrencyType": 64,
+    "CurrencyIndex": 34
+  },
+  {
+    "Id": 472,
+    "EventType": 39,
+    "CurrencyType": 61,
+    "CurrencyIndex": 163
+  },
+  {
+    "Id": 473,
+    "EventType": 39,
+    "CurrencyType": 60,
+    "CurrencyIndex": 11
+  },
+  {
+    "Id": 474,
+    "EventType": 40,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1203
+  },
+  {
+    "Id": 475,
+    "EventType": 40,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1204
+  },
+  {
+    "Id": 476,
+    "EventType": 40,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1205
+  },
+  {
+    "Id": 477,
+    "EventType": 40,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1206
+  },
+  {
+    "Id": 478,
+    "EventType": 40,
+    "CurrencyType": 70,
+    "CurrencyIndex": 4
+  },
+  {
+    "Id": 479,
+    "EventType": 40,
+    "CurrencyType": 70,
+    "CurrencyIndex": 1003
+  },
+  {
+    "Id": 480,
+    "EventType": 40,
+    "CurrencyType": 70,
+    "CurrencyIndex": 2003
+  },
+  {
+    "Id": 481,
+    "EventType": 40,
+    "CurrencyType": 70,
+    "CurrencyIndex": 3003
+  },
+  {
+    "Id": 482,
+    "EventType": 40,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1009
+  },
+  {
+    "Id": 483,
+    "EventType": 40,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1010
+  },
+  {
+    "Id": 484,
+    "EventType": 40,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1011
+  },
+  {
+    "Id": 485,
+    "EventType": 40,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1012
+  },
+  {
+    "Id": 486,
+    "EventType": 40,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1126
+  },
+  {
+    "Id": 487,
+    "EventType": 40,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1127
+  },
+  {
+    "Id": 488,
+    "EventType": 40,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1128
+  },
+  {
+    "Id": 489,
+    "EventType": 40,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1129
+  },
+  {
+    "Id": 490,
+    "EventType": 40,
+    "CurrencyType": 60,
+    "CurrencyIndex": 51
+  },
+  {
+    "Id": 491,
+    "EventType": 40,
+    "CurrencyType": 60,
+    "CurrencyIndex": 52
+  },
+  {
+    "Id": 492,
+    "EventType": 40,
+    "CurrencyType": 64,
+    "CurrencyIndex": 56
+  },
+  {
+    "Id": 493,
+    "EventType": 40,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1057
+  },
+  {
+    "Id": 494,
+    "EventType": 40,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1058
+  },
+  {
+    "Id": 495,
+    "EventType": 40,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1059
+  },
+  {
+    "Id": 496,
+    "EventType": 40,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1060
+  },
+  {
+    "Id": 497,
+    "EventType": 40,
+    "CurrencyType": 60,
+    "CurrencyIndex": 12
+  },
+  {
+    "Id": 498,
+    "EventType": 40,
+    "CurrencyType": 60,
+    "CurrencyIndex": 13
+  },
+  {
+    "Id": 499,
+    "EventType": 40,
+    "CurrencyType": 60,
+    "CurrencyIndex": 14
+  },
+  {
+    "Id": 500,
+    "EventType": 40,
+    "CurrencyType": 64,
+    "CurrencyIndex": 35
+  },
+  {
+    "Id": 501,
+    "EventType": 40,
+    "CurrencyType": 64,
+    "CurrencyIndex": 56
+  },
+  {
+    "Id": 502,
+    "EventType": 40,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1061
+  },
+  {
+    "Id": 503,
+    "EventType": 40,
+    "CurrencyType": 64,
+    "CurrencyIndex": 36
+  },
+  {
+    "Id": 504,
+    "EventType": 40,
+    "CurrencyType": 61,
+    "CurrencyIndex": 164
+  },
+  {
+    "Id": 505,
+    "EventType": 40,
+    "CurrencyType": 60,
+    "CurrencyIndex": 15
+  },
+  {
+    "Id": 506,
+    "EventType": 40,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1130
+  },
+  {
+    "Id": 507,
+    "EventType": 40,
+    "CurrencyType": 64,
+    "CurrencyIndex": 57
+  },
+  {
+    "Id": 508,
+    "EventType": 40,
+    "CurrencyType": 61,
+    "CurrencyIndex": 182
+  },
+  {
+    "Id": 509,
+    "EventType": 40,
+    "CurrencyType": 60,
+    "CurrencyIndex": 53
+  },
+  {
+    "Id": 510,
+    "EventType": 40,
+    "CurrencyType": 60,
+    "CurrencyIndex": 54
+  },
+  {
+    "Id": 511,
+    "EventType": 41,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1208
+  },
+  {
+    "Id": 512,
+    "EventType": 41,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1209
+  },
+  {
+    "Id": 513,
+    "EventType": 41,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1210
+  },
+  {
+    "Id": 514,
+    "EventType": 41,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1211
+  },
+  {
+    "Id": 515,
+    "EventType": 41,
+    "CurrencyType": 60,
+    "CurrencyIndex": 103
+  },
+  {
+    "Id": 516,
+    "EventType": 41,
+    "CurrencyType": 64,
+    "CurrencyIndex": 78
+  },
+  {
+    "Id": 517,
+    "EventType": 41,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1132
+  },
+  {
+    "Id": 518,
+    "EventType": 41,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1133
+  },
+  {
+    "Id": 519,
+    "EventType": 41,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1134
+  },
+  {
+    "Id": 520,
+    "EventType": 41,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1135
+  },
+  {
+    "Id": 521,
+    "EventType": 41,
+    "CurrencyType": 60,
+    "CurrencyIndex": 56
+  },
+  {
+    "Id": 522,
+    "EventType": 41,
+    "CurrencyType": 60,
+    "CurrencyIndex": 57
+  },
+  {
+    "Id": 523,
+    "EventType": 41,
+    "CurrencyType": 64,
+    "CurrencyIndex": 58
+  },
+  {
+    "Id": 524,
+    "EventType": 41,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1062
+  },
+  {
+    "Id": 525,
+    "EventType": 41,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1063
+  },
+  {
+    "Id": 526,
+    "EventType": 41,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1064
+  },
+  {
+    "Id": 527,
+    "EventType": 41,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1065
+  },
+  {
+    "Id": 528,
+    "EventType": 41,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1066
+  },
+  {
+    "Id": 529,
+    "EventType": 41,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1067
+  },
+  {
+    "Id": 530,
+    "EventType": 41,
+    "CurrencyType": 60,
+    "CurrencyIndex": 16
+  },
+  {
+    "Id": 531,
+    "EventType": 41,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1068
+  },
+  {
+    "Id": 532,
+    "EventType": 41,
+    "CurrencyType": 64,
+    "CurrencyIndex": 37
+  },
+  {
+    "Id": 533,
+    "EventType": 41,
+    "CurrencyType": 61,
+    "CurrencyIndex": 166
+  },
+  {
+    "Id": 534,
+    "EventType": 41,
+    "CurrencyType": 60,
+    "CurrencyIndex": 17
+  },
+  {
+    "Id": 535,
+    "EventType": 41,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1136
+  },
+  {
+    "Id": 536,
+    "EventType": 41,
+    "CurrencyType": 64,
+    "CurrencyIndex": 59
+  },
+  {
+    "Id": 537,
+    "EventType": 41,
+    "CurrencyType": 61,
+    "CurrencyIndex": 184
+  },
+  {
+    "Id": 538,
+    "EventType": 41,
+    "CurrencyType": 60,
+    "CurrencyIndex": 58
+  },
+  {
+    "Id": 539,
+    "EventType": 42,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1214
+  },
+  {
+    "Id": 540,
+    "EventType": 42,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1215
+  },
+  {
+    "Id": 541,
+    "EventType": 42,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1216
+  },
+  {
+    "Id": 542,
+    "EventType": 42,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1217
+  },
+  {
+    "Id": 543,
+    "EventType": 42,
+    "CurrencyType": 60,
+    "CurrencyIndex": 107
+  },
+  {
+    "Id": 544,
+    "EventType": 42,
+    "CurrencyType": 60,
+    "CurrencyIndex": 108
+  },
+  {
+    "Id": 545,
+    "EventType": 42,
+    "CurrencyType": 64,
+    "CurrencyIndex": 80
+  },
+  {
+    "Id": 546,
+    "EventType": 42,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1138
+  },
+  {
+    "Id": 547,
+    "EventType": 42,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1139
+  },
+  {
+    "Id": 548,
+    "EventType": 42,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1140
+  },
+  {
+    "Id": 549,
+    "EventType": 42,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1141
+  },
+  {
+    "Id": 550,
+    "EventType": 42,
+    "CurrencyType": 60,
+    "CurrencyIndex": 60
+  },
+  {
+    "Id": 551,
+    "EventType": 42,
+    "CurrencyType": 60,
+    "CurrencyIndex": 61
+  },
+  {
+    "Id": 552,
+    "EventType": 42,
+    "CurrencyType": 64,
+    "CurrencyIndex": 60
+  },
+  {
+    "Id": 553,
+    "EventType": 42,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1069
+  },
+  {
+    "Id": 554,
+    "EventType": 42,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1070
+  },
+  {
+    "Id": 555,
+    "EventType": 42,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1071
+  },
+  {
+    "Id": 556,
+    "EventType": 42,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1072
+  },
+  {
+    "Id": 557,
+    "EventType": 42,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1073
+  },
+  {
+    "Id": 558,
+    "EventType": 42,
+    "CurrencyType": 60,
+    "CurrencyIndex": 18
+  },
+  {
+    "Id": 559,
+    "EventType": 42,
+    "CurrencyType": 64,
+    "CurrencyIndex": 38
+  },
+  {
+    "Id": 560,
+    "EventType": 42,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1074
+  },
+  {
+    "Id": 561,
+    "EventType": 42,
+    "CurrencyType": 64,
+    "CurrencyIndex": 39
+  },
+  {
+    "Id": 562,
+    "EventType": 42,
+    "CurrencyType": 61,
+    "CurrencyIndex": 167
+  },
+  {
+    "Id": 563,
+    "EventType": 42,
+    "CurrencyType": 60,
+    "CurrencyIndex": 19
+  },
+  {
+    "Id": 564,
+    "EventType": 42,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1142
+  },
+  {
+    "Id": 565,
+    "EventType": 42,
+    "CurrencyType": 64,
+    "CurrencyIndex": 61
+  },
+  {
+    "Id": 566,
+    "EventType": 42,
+    "CurrencyType": 61,
+    "CurrencyIndex": 187
+  },
+  {
+    "Id": 567,
+    "EventType": 42,
+    "CurrencyType": 60,
+    "CurrencyIndex": 62
+  },
+  {
+    "Id": 568,
+    "EventType": 42,
+    "CurrencyType": 60,
+    "CurrencyIndex": 63
+  },
+  {
+    "Id": 569,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1222
+  },
+  {
+    "Id": 570,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1223
+  },
+  {
+    "Id": 571,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1224
+  },
+  {
+    "Id": 572,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1225
+  },
+  {
+    "Id": 573,
+    "EventType": 43,
+    "CurrencyType": 60,
+    "CurrencyIndex": 114
+  },
+  {
+    "Id": 574,
+    "EventType": 43,
+    "CurrencyType": 60,
+    "CurrencyIndex": 115
+  },
+  {
+    "Id": 575,
+    "EventType": 43,
+    "CurrencyType": 64,
+    "CurrencyIndex": 84
+  },
+  {
+    "Id": 576,
+    "EventType": 43,
+    "CurrencyType": 70,
+    "CurrencyIndex": 1005
+  },
+  {
+    "Id": 577,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1143
+  },
+  {
+    "Id": 578,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1144
+  },
+  {
+    "Id": 579,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1145
+  },
+  {
+    "Id": 580,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1146
+  },
+  {
+    "Id": 581,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1147
+  },
+  {
+    "Id": 582,
+    "EventType": 43,
+    "CurrencyType": 60,
+    "CurrencyIndex": 64
+  },
+  {
+    "Id": 583,
+    "EventType": 43,
+    "CurrencyType": 64,
+    "CurrencyIndex": 62
+  },
+  {
+    "Id": 584,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1075
+  },
+  {
+    "Id": 585,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1076
+  },
+  {
+    "Id": 586,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1077
+  },
+  {
+    "Id": 587,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1078
+  },
+  {
+    "Id": 588,
+    "EventType": 43,
+    "CurrencyType": 60,
+    "CurrencyIndex": 20
+  },
+  {
+    "Id": 589,
+    "EventType": 43,
+    "CurrencyType": 60,
+    "CurrencyIndex": 21
+  },
+  {
+    "Id": 590,
+    "EventType": 43,
+    "CurrencyType": 64,
+    "CurrencyIndex": 40
+  },
+  {
+    "Id": 591,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1017
+  },
+  {
+    "Id": 592,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1018
+  },
+  {
+    "Id": 593,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1019
+  },
+  {
+    "Id": 594,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1020
+  },
+  {
+    "Id": 595,
+    "EventType": 43,
+    "CurrencyType": 60,
+    "CurrencyIndex": 22
+  },
+  {
+    "Id": 596,
+    "EventType": 43,
+    "CurrencyType": 64,
+    "CurrencyIndex": 41
+  },
+  {
+    "Id": 597,
+    "EventType": 43,
+    "CurrencyType": 61,
+    "CurrencyIndex": 168
+  },
+  {
+    "Id": 598,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1079
+  },
+  {
+    "Id": 599,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1148
+  },
+  {
+    "Id": 600,
+    "EventType": 43,
+    "CurrencyType": 64,
+    "CurrencyIndex": 63
+  },
+  {
+    "Id": 601,
+    "EventType": 43,
+    "CurrencyType": 60,
+    "CurrencyIndex": 65
+  },
+  {
+    "Id": 602,
+    "EventType": 43,
+    "CurrencyType": 61,
+    "CurrencyIndex": 188
+  },
+  {
+    "Id": 603,
+    "EventType": 43,
+    "CurrencyType": 60,
+    "CurrencyIndex": 66
+  },
+  {
+    "Id": 604,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1080
+  },
+  {
+    "Id": 605,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1081
+  },
+  {
+    "Id": 606,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1082
+  },
+  {
+    "Id": 607,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1083
+  },
+  {
+    "Id": 608,
+    "EventType": 43,
+    "CurrencyType": 60,
+    "CurrencyIndex": 23
+  },
+  {
+    "Id": 609,
+    "EventType": 43,
+    "CurrencyType": 60,
+    "CurrencyIndex": 24
+  },
+  {
+    "Id": 610,
+    "EventType": 43,
+    "CurrencyType": 64,
+    "CurrencyIndex": 42
+  },
+  {
+    "Id": 611,
+    "EventType": 43,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1084
+  },
+  {
+    "Id": 612,
+    "EventType": 43,
+    "CurrencyType": 64,
+    "CurrencyIndex": 43
+  },
+  {
+    "Id": 613,
+    "EventType": 43,
+    "CurrencyType": 60,
+    "CurrencyIndex": 25
+  },
+  {
+    "Id": 614,
+    "EventType": 43,
+    "CurrencyType": 61,
+    "CurrencyIndex": 169
+  },
+  {
+    "Id": 615,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1228
+  },
+  {
+    "Id": 616,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1229
+  },
+  {
+    "Id": 617,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1230
+  },
+  {
+    "Id": 618,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1231
+  },
+  {
+    "Id": 619,
+    "EventType": 44,
+    "CurrencyType": 60,
+    "CurrencyIndex": 119
+  },
+  {
+    "Id": 620,
+    "EventType": 44,
+    "CurrencyType": 60,
+    "CurrencyIndex": 120
+  },
+  {
+    "Id": 621,
+    "EventType": 44,
+    "CurrencyType": 64,
+    "CurrencyIndex": 86
+  },
+  {
+    "Id": 622,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1156
+  },
+  {
+    "Id": 623,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1157
+  },
+  {
+    "Id": 624,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1158
+  },
+  {
+    "Id": 625,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1159
+  },
+  {
+    "Id": 626,
+    "EventType": 44,
+    "CurrencyType": 64,
+    "CurrencyIndex": 65
+  },
+  {
+    "Id": 627,
+    "EventType": 44,
+    "CurrencyType": 60,
+    "CurrencyIndex": 72
+  },
+  {
+    "Id": 628,
+    "EventType": 44,
+    "CurrencyType": 61,
+    "CurrencyIndex": 191
+  },
+  {
+    "Id": 629,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1160
+  },
+  {
+    "Id": 630,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1085
+  },
+  {
+    "Id": 631,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1086
+  },
+  {
+    "Id": 632,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1087
+  },
+  {
+    "Id": 633,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1088
+  },
+  {
+    "Id": 634,
+    "EventType": 44,
+    "CurrencyType": 64,
+    "CurrencyIndex": 44
+  },
+  {
+    "Id": 635,
+    "EventType": 44,
+    "CurrencyType": 60,
+    "CurrencyIndex": 28
+  },
+  {
+    "Id": 636,
+    "EventType": 44,
+    "CurrencyType": 61,
+    "CurrencyIndex": 171
+  },
+  {
+    "Id": 637,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1089
+  },
+  {
+    "Id": 638,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1005
+  },
+  {
+    "Id": 639,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1006
+  },
+  {
+    "Id": 640,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1007
+  },
+  {
+    "Id": 641,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1008
+  },
+  {
+    "Id": 642,
+    "EventType": 44,
+    "CurrencyType": 61,
+    "CurrencyIndex": 154
+  },
+  {
+    "Id": 643,
+    "EventType": 44,
+    "CurrencyType": 61,
+    "CurrencyIndex": 155
+  },
+  {
+    "Id": 644,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1029
+  },
+  {
+    "Id": 645,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1001
+  },
+  {
+    "Id": 646,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1002
+  },
+  {
+    "Id": 647,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1003
+  },
+  {
+    "Id": 648,
+    "EventType": 44,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1004
+  },
+  {
+    "Id": 649,
+    "EventType": 44,
+    "CurrencyType": 60,
+    "CurrencyIndex": 54
+  },
+  {
+    "Id": 650,
+    "EventType": 44,
+    "CurrencyType": 60,
+    "CurrencyIndex": 73
+  },
+  {
+    "Id": 651,
+    "EventType": 44,
+    "CurrencyType": 64,
+    "CurrencyIndex": 66
+  },
+  {
+    "Id": 652,
+    "EventType": 45,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1239
+  },
+  {
+    "Id": 653,
+    "EventType": 45,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1240
+  },
+  {
+    "Id": 654,
+    "EventType": 45,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1241
+  },
+  {
+    "Id": 655,
+    "EventType": 45,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1242
+  },
+  {
+    "Id": 656,
+    "EventType": 45,
+    "CurrencyType": 60,
+    "CurrencyIndex": 130
+  },
+  {
+    "Id": 657,
+    "EventType": 45,
+    "CurrencyType": 60,
+    "CurrencyIndex": 131
+  },
+  {
+    "Id": 658,
+    "EventType": 45,
+    "CurrencyType": 64,
+    "CurrencyIndex": 90
+  },
+  {
+    "Id": 659,
+    "EventType": 45,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1171
+  },
+  {
+    "Id": 660,
+    "EventType": 45,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1172
+  },
+  {
+    "Id": 661,
+    "EventType": 45,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1173
+  },
+  {
+    "Id": 662,
+    "EventType": 45,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1174
+  },
+  {
+    "Id": 663,
+    "EventType": 45,
+    "CurrencyType": 60,
+    "CurrencyIndex": 82
+  },
+  {
+    "Id": 664,
+    "EventType": 45,
+    "CurrencyType": 60,
+    "CurrencyIndex": 83
+  },
+  {
+    "Id": 665,
+    "EventType": 45,
+    "CurrencyType": 60,
+    "CurrencyIndex": 84
+  },
+  {
+    "Id": 666,
+    "EventType": 45,
+    "CurrencyType": 60,
+    "CurrencyIndex": 85
+  },
+  {
+    "Id": 667,
+    "EventType": 45,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1095
+  },
+  {
+    "Id": 668,
+    "EventType": 45,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1096
+  },
+  {
+    "Id": 669,
+    "EventType": 45,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1097
+  },
+  {
+    "Id": 670,
+    "EventType": 45,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1098
+  },
+  {
+    "Id": 671,
+    "EventType": 45,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1099
+  },
+  {
+    "Id": 672,
+    "EventType": 45,
+    "CurrencyType": 60,
+    "CurrencyIndex": 36
+  },
+  {
+    "Id": 673,
+    "EventType": 45,
+    "CurrencyType": 60,
+    "CurrencyIndex": 34
+  },
+  {
+    "Id": 674,
+    "EventType": 45,
+    "CurrencyType": 60,
+    "CurrencyIndex": 35
+  },
+  {
+    "Id": 675,
+    "EventType": 45,
+    "CurrencyType": 64,
+    "CurrencyIndex": 47
+  },
+  {
+    "Id": 676,
+    "EventType": 45,
+    "CurrencyType": 61,
+    "CurrencyIndex": 173
+  },
+  {
+    "Id": 677,
+    "EventType": 45,
+    "CurrencyType": 60,
+    "CurrencyIndex": 33
+  },
+  {
+    "Id": 678,
+    "EventType": 45,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1021
+  },
+  {
+    "Id": 679,
+    "EventType": 45,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1022
+  },
+  {
+    "Id": 680,
+    "EventType": 45,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1023
+  },
+  {
+    "Id": 681,
+    "EventType": 45,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1024
+  },
+  {
+    "Id": 682,
+    "EventType": 45,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1030
+  },
+  {
+    "Id": 683,
+    "EventType": 45,
+    "CurrencyType": 64,
+    "CurrencyIndex": 26
+  },
+  {
+    "Id": 684,
+    "EventType": 45,
+    "CurrencyType": 64,
+    "CurrencyIndex": 27
+  },
+  {
+    "Id": 685,
+    "EventType": 45,
+    "CurrencyType": 64,
+    "CurrencyIndex": 28
+  },
+  {
+    "Id": 686,
+    "EventType": 45,
+    "CurrencyType": 64,
+    "CurrencyIndex": 29
+  },
+  {
+    "Id": 687,
+    "EventType": 45,
+    "CurrencyType": 60,
+    "CurrencyIndex": 3
+  },
+  {
+    "Id": 688,
+    "EventType": 45,
+    "CurrencyType": 61,
+    "CurrencyIndex": 157
+  },
+  {
+    "Id": 689,
+    "EventType": 45,
+    "CurrencyType": 60,
+    "CurrencyIndex": 2
+  },
+  {
+    "Id": 690,
+    "EventType": 46,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1245
+  },
+  {
+    "Id": 691,
+    "EventType": 46,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1246
+  },
+  {
+    "Id": 692,
+    "EventType": 46,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1247
+  },
+  {
+    "Id": 693,
+    "EventType": 46,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1248
+  },
+  {
+    "Id": 694,
+    "EventType": 46,
+    "CurrencyType": 60,
+    "CurrencyIndex": 135
+  },
+  {
+    "Id": 695,
+    "EventType": 46,
+    "CurrencyType": 60,
+    "CurrencyIndex": 136
+  },
+  {
+    "Id": 696,
+    "EventType": 46,
+    "CurrencyType": 64,
+    "CurrencyIndex": 92
+  },
+  {
+    "Id": 697,
+    "EventType": 46,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1100
+  },
+  {
+    "Id": 698,
+    "EventType": 46,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1101
+  },
+  {
+    "Id": 699,
+    "EventType": 46,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1102
+  },
+  {
+    "Id": 700,
+    "EventType": 46,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1103
+  },
+  {
+    "Id": 701,
+    "EventType": 46,
+    "CurrencyType": 60,
+    "CurrencyIndex": 37
+  },
+  {
+    "Id": 702,
+    "EventType": 46,
+    "CurrencyType": 60,
+    "CurrencyIndex": 38
+  },
+  {
+    "Id": 703,
+    "EventType": 46,
+    "CurrencyType": 60,
+    "CurrencyIndex": 39
+  },
+  {
+    "Id": 704,
+    "EventType": 46,
+    "CurrencyType": 64,
+    "CurrencyIndex": 48
+  },
+  {
+    "Id": 705,
+    "EventType": 46,
+    "CurrencyType": 64,
+    "CurrencyIndex": 49
+  },
+  {
+    "Id": 706,
+    "EventType": 46,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1104
+  },
+  {
+    "Id": 707,
+    "EventType": 46,
+    "CurrencyType": 64,
+    "CurrencyIndex": 50
+  },
+  {
+    "Id": 708,
+    "EventType": 46,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1105
+  },
+  {
+    "Id": 709,
+    "EventType": 46,
+    "CurrencyType": 61,
+    "CurrencyIndex": 175
+  },
+  {
+    "Id": 710,
+    "EventType": 46,
+    "CurrencyType": 60,
+    "CurrencyIndex": 40
+  },
+  {
+    "Id": 711,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1253
+  },
+  {
+    "Id": 712,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1254
+  },
+  {
+    "Id": 713,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1255
+  },
+  {
+    "Id": 714,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1256
+  },
+  {
+    "Id": 715,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1257
+  },
+  {
+    "Id": 716,
+    "EventType": 47,
+    "CurrencyType": 60,
+    "CurrencyIndex": 142
+  },
+  {
+    "Id": 717,
+    "EventType": 47,
+    "CurrencyType": 64,
+    "CurrencyIndex": 96
+  },
+  {
+    "Id": 718,
+    "EventType": 47,
+    "CurrencyType": 64,
+    "CurrencyIndex": 97
+  },
+  {
+    "Id": 719,
+    "EventType": 47,
+    "CurrencyType": 70,
+    "CurrencyIndex": 2007
+  },
+  {
+    "Id": 720,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1182
+  },
+  {
+    "Id": 721,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1183
+  },
+  {
+    "Id": 722,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1184
+  },
+  {
+    "Id": 723,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1185
+  },
+  {
+    "Id": 724,
+    "EventType": 47,
+    "CurrencyType": 60,
+    "CurrencyIndex": 89
+  },
+  {
+    "Id": 725,
+    "EventType": 47,
+    "CurrencyType": 60,
+    "CurrencyIndex": 90
+  },
+  {
+    "Id": 726,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1106
+  },
+  {
+    "Id": 727,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1107
+  },
+  {
+    "Id": 728,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1108
+  },
+  {
+    "Id": 729,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1109
+  },
+  {
+    "Id": 730,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1110
+  },
+  {
+    "Id": 731,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1111
+  },
+  {
+    "Id": 732,
+    "EventType": 47,
+    "CurrencyType": 60,
+    "CurrencyIndex": 41
+  },
+  {
+    "Id": 733,
+    "EventType": 47,
+    "CurrencyType": 60,
+    "CurrencyIndex": 42
+  },
+  {
+    "Id": 734,
+    "EventType": 47,
+    "CurrencyType": 64,
+    "CurrencyIndex": 51
+  },
+  {
+    "Id": 735,
+    "EventType": 47,
+    "CurrencyType": 64,
+    "CurrencyIndex": 52
+  },
+  {
+    "Id": 736,
+    "EventType": 47,
+    "CurrencyType": 61,
+    "CurrencyIndex": 176
+  },
+  {
+    "Id": 737,
+    "EventType": 47,
+    "CurrencyType": 60,
+    "CurrencyIndex": 43
+  },
+  {
+    "Id": 738,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1033
+  },
+  {
+    "Id": 739,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1034
+  },
+  {
+    "Id": 740,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1035
+  },
+  {
+    "Id": 741,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1037
+  },
+  {
+    "Id": 742,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1038
+  },
+  {
+    "Id": 743,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1036
+  },
+  {
+    "Id": 744,
+    "EventType": 47,
+    "CurrencyType": 60,
+    "CurrencyIndex": 5
+  },
+  {
+    "Id": 745,
+    "EventType": 47,
+    "CurrencyType": 61,
+    "CurrencyIndex": 158
+  },
+  {
+    "Id": 746,
+    "EventType": 47,
+    "CurrencyType": 60,
+    "CurrencyIndex": 4
+  },
+  {
+    "Id": 747,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1186
+  },
+  {
+    "Id": 748,
+    "EventType": 47,
+    "CurrencyType": 64,
+    "CurrencyIndex": 72
+  },
+  {
+    "Id": 749,
+    "EventType": 47,
+    "CurrencyType": 61,
+    "CurrencyIndex": 203
+  },
+  {
+    "Id": 750,
+    "EventType": 47,
+    "CurrencyType": 60,
+    "CurrencyIndex": 91
+  },
+  {
+    "Id": 751,
+    "EventType": 47,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1187
+  },
+  {
+    "Id": 752,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1259
+  },
+  {
+    "Id": 753,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1260
+  },
+  {
+    "Id": 754,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1261
+  },
+  {
+    "Id": 755,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1262
+  },
+  {
+    "Id": 756,
+    "EventType": 48,
+    "CurrencyType": 60,
+    "CurrencyIndex": 145
+  },
+  {
+    "Id": 757,
+    "EventType": 48,
+    "CurrencyType": 60,
+    "CurrencyIndex": 146
+  },
+  {
+    "Id": 758,
+    "EventType": 48,
+    "CurrencyType": 64,
+    "CurrencyIndex": 99
+  },
+  {
+    "Id": 759,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1025
+  },
+  {
+    "Id": 760,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1026
+  },
+  {
+    "Id": 761,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1027
+  },
+  {
+    "Id": 762,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1028
+  },
+  {
+    "Id": 763,
+    "EventType": 48,
+    "CurrencyType": 61,
+    "CurrencyIndex": 151
+  },
+  {
+    "Id": 764,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1045
+  },
+  {
+    "Id": 765,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1046
+  },
+  {
+    "Id": 766,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1047
+  },
+  {
+    "Id": 767,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1048
+  },
+  {
+    "Id": 768,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1049
+  },
+  {
+    "Id": 769,
+    "EventType": 48,
+    "CurrencyType": 64,
+    "CurrencyIndex": 33
+  },
+  {
+    "Id": 770,
+    "EventType": 48,
+    "CurrencyType": 60,
+    "CurrencyIndex": 8
+  },
+  {
+    "Id": 771,
+    "EventType": 48,
+    "CurrencyType": 61,
+    "CurrencyIndex": 162
+  },
+  {
+    "Id": 772,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1112
+  },
+  {
+    "Id": 773,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1113
+  },
+  {
+    "Id": 774,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1114
+  },
+  {
+    "Id": 775,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1115
+  },
+  {
+    "Id": 776,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1116
+  },
+  {
+    "Id": 777,
+    "EventType": 48,
+    "CurrencyType": 64,
+    "CurrencyIndex": 54
+  },
+  {
+    "Id": 778,
+    "EventType": 48,
+    "CurrencyType": 60,
+    "CurrencyIndex": 44
+  },
+  {
+    "Id": 779,
+    "EventType": 48,
+    "CurrencyType": 61,
+    "CurrencyIndex": 177
+  },
+  {
+    "Id": 780,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1117
+  },
+  {
+    "Id": 781,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1188
+  },
+  {
+    "Id": 782,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1189
+  },
+  {
+    "Id": 783,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1190
+  },
+  {
+    "Id": 784,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1191
+  },
+  {
+    "Id": 785,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1192
+  },
+  {
+    "Id": 786,
+    "EventType": 48,
+    "CurrencyType": 60,
+    "CurrencyIndex": 92
+  },
+  {
+    "Id": 787,
+    "EventType": 48,
+    "CurrencyType": 64,
+    "CurrencyIndex": 73
+  },
+  {
+    "Id": 788,
+    "EventType": 48,
+    "CurrencyType": 70,
+    "CurrencyIndex": 3
+  },
+  {
+    "Id": 789,
+    "EventType": 48,
+    "CurrencyType": 70,
+    "CurrencyIndex": 1002
+  },
+  {
+    "Id": 790,
+    "EventType": 48,
+    "CurrencyType": 70,
+    "CurrencyIndex": 2002
+  },
+  {
+    "Id": 791,
+    "EventType": 48,
+    "CurrencyType": 70,
+    "CurrencyIndex": 3002
+  },
+  {
+    "Id": 792,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1193
+  },
+  {
+    "Id": 793,
+    "EventType": 48,
+    "CurrencyType": 64,
+    "CurrencyIndex": 74
+  },
+  {
+    "Id": 794,
+    "EventType": 48,
+    "CurrencyType": 60,
+    "CurrencyIndex": 93
+  },
+  {
+    "Id": 795,
+    "EventType": 48,
+    "CurrencyType": 61,
+    "CurrencyIndex": 204
+  },
+  {
+    "Id": 796,
+    "EventType": 48,
+    "CurrencyType": 63,
+    "CurrencyIndex": 1194
+  }
+]

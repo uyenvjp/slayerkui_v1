@@ -1,0 +1,1276 @@
+[
+  {
+    "name": "Assembly-CSharp.dll",
+    "type_start": 0,
+    "type_count": 7281,
+    "methods": 65440,
+    "method_pointer_table": "0xa53a370"
+  },
+  {
+    "name": "GrowSlayer.ProtoGenScripts.dll",
+    "type_start": 7281,
+    "type_count": 2816,
+    "methods": 38031,
+    "method_pointer_table": "0xa617e98"
+  },
+  {
+    "name": "BestHTTP.dll",
+    "type_start": 10097,
+    "type_count": 2328,
+    "methods": 18718,
+    "method_pointer_table": "0xa5bfec0"
+  },
+  {
+    "name": "mscorlib.dll",
+    "type_start": 12425,
+    "type_count": 1813,
+    "methods": 14031,
+    "method_pointer_table": "0xaaedfe8"
+  },
+  {
+    "name": "UnityEngine.UIElementsModule.dll",
+    "type_start": 14238,
+    "type_count": 1660,
+    "methods": 11813,
+    "method_pointer_table": "0xababa10"
+  },
+  {
+    "name": "GrowSlayer.DataTableClient.dll",
+    "type_start": 15898,
+    "type_count": 1279,
+    "methods": 9801,
+    "method_pointer_table": "0xa604c50"
+  },
+  {
+    "name": "Unity.RenderPipelines.Core.Runtime.dll",
+    "type_start": 17177,
+    "type_count": 770,
+    "methods": 5395,
+    "method_pointer_table": "0xab6b470"
+  },
+  {
+    "name": "System.Xml.dll",
+    "type_start": 17947,
+    "type_count": 669,
+    "methods": 6665,
+    "method_pointer_table": "0xab30228"
+  },
+  {
+    "name": "System.dll",
+    "type_start": 18616,
+    "type_count": 950,
+    "methods": 6530,
+    "method_pointer_table": "0xab3de00"
+  },
+  {
+    "name": "gpm_common.dll",
+    "type_start": 19566,
+    "type_count": 1023,
+    "methods": 5930,
+    "method_pointer_table": "0xa5f83b0"
+  },
+  {
+    "name": "UnityEngine.CoreModule.dll",
+    "type_start": 20589,
+    "type_count": 1006,
+    "methods": 6225,
+    "method_pointer_table": "0xab8fc28"
+  },
+  {
+    "name": "Unity.RenderPipelines.Universal.Runtime.dll",
+    "type_start": 21595,
+    "type_count": 579,
+    "methods": 3126,
+    "method_pointer_table": "0xab7c368"
+  },
+  {
+    "name": "UniTask.Linq.dll",
+    "type_start": 22174,
+    "type_count": 561,
+    "methods": 2407,
+    "method_pointer_table": "0xab4b930"
+  },
+  {
+    "name": "System.Data.dll",
+    "type_start": 22735,
+    "type_count": 241,
+    "methods": 3458,
+    "method_pointer_table": "0xab1df30"
+  },
+  {
+    "name": "UniTask.dll",
+    "type_start": 22976,
+    "type_count": 578,
+    "methods": 3273,
+    "method_pointer_table": "0xab50ee8"
+  },
+  {
+    "name": "Unity.Cinemachine.dll",
+    "type_start": 23554,
+    "type_count": 411,
+    "methods": 2175,
+    "method_pointer_table": "0xab59bc8"
+  },
+  {
+    "name": "Unity.TextMeshPro.dll",
+    "type_start": 23965,
+    "type_count": 197,
+    "methods": 1823,
+    "method_pointer_table": "0xab87000"
+  },
+  {
+    "name": "System.Core.dll",
+    "type_start": 24162,
+    "type_count": 664,
+    "methods": 3469,
+    "method_pointer_table": "0xab171d8"
+  },
+  {
+    "name": "System.Text.Json.dll",
+    "type_start": 24826,
+    "type_count": 347,
+    "methods": 2356,
+    "method_pointer_table": "0xab29d88"
+  },
+  {
+    "name": "Newtonsoft.Json.dll",
+    "type_start": 25173,
+    "type_count": 308,
+    "methods": 2407,
+    "method_pointer_table": "0xab0d6a0"
+  },
+  {
+    "name": "Google.Protobuf.dll",
+    "type_start": 25481,
+    "type_count": 261,
+    "methods": 2444,
+    "method_pointer_table": "0xa5f1750"
+  },
+  {
+    "name": "UnityEngine.TextCoreTextEngineModule.dll",
+    "type_start": 25742,
+    "type_count": 117,
+    "methods": 848,
+    "method_pointer_table": "0xaba97c8"
+  },
+  {
+    "name": "UnityEngine.UI.dll",
+    "type_start": 25859,
+    "type_count": 209,
+    "methods": 1966,
+    "method_pointer_table": "0xabc79c0"
+  },
+  {
+    "name": "Unity.Purchasing.Stores.dll",
+    "type_start": 26068,
+    "type_count": 282,
+    "methods": 1212,
+    "method_pointer_table": "0xab653e0"
+  },
+  {
+    "name": "Melanchall.DryWetMidi.dll",
+    "type_start": 26350,
+    "type_count": 407,
+    "methods": 2025,
+    "method_pointer_table": "0xaae7350"
+  },
+  {
+    "name": "Unity.RenderPipelines.Universal.2D.Runtime.dll",
+    "type_start": 26757,
+    "type_count": 186,
+    "methods": 994,
+    "method_pointer_table": "0xab79fd8"
+  },
+  {
+    "name": "Unity.RenderPipelines.GPUDriven.Runtime.dll",
+    "type_start": 26943,
+    "type_count": 226,
+    "methods": 816,
+    "method_pointer_table": "0xab77318"
+  },
+  {
+    "name": "Unity.Purchasing.dll",
+    "type_start": 27169,
+    "type_count": 399,
+    "methods": 1201,
+    "method_pointer_table": "0xab68ca0"
+  },
+  {
+    "name": "DOTween.dll",
+    "type_start": 27568,
+    "type_count": 191,
+    "methods": 1097,
+    "method_pointer_table": "0xa5e6f08"
+  },
+  {
+    "name": "StompyRobot.SRDebugger.dll",
+    "type_start": 27759,
+    "type_count": 164,
+    "methods": 1007,
+    "method_pointer_table": "0xab123a8"
+  },
+  {
+    "name": "Unity.ResourceManager.dll",
+    "type_start": 27923,
+    "type_count": 146,
+    "methods": 938,
+    "method_pointer_table": "0xab833f8"
+  },
+  {
+    "name": "Facebook.Unity.dll",
+    "type_start": 28069,
+    "type_count": 193,
+    "methods": 1406,
+    "method_pointer_table": "0xa5e9480"
+  },
+  {
+    "name": "Unity.Postprocessing.Runtime.dll",
+    "type_start": 28262,
+    "type_count": 136,
+    "methods": 536,
+    "method_pointer_table": "0xab62700"
+  },
+  {
+    "name": "Grpc.Net.Client.dll",
+    "type_start": 28398,
+    "type_count": 117,
+    "methods": 647,
+    "method_pointer_table": "0xa6629c0"
+  },
+  {
+    "name": "GameDevWare.Serialization.dll",
+    "type_start": 28515,
+    "type_count": 99,
+    "methods": 882,
+    "method_pointer_table": "0xa5ee318"
+  },
+  {
+    "name": "Unity.Timeline.dll",
+    "type_start": 28614,
+    "type_count": 133,
+    "methods": 917,
+    "method_pointer_table": "0xab8b468"
+  },
+  {
+    "name": "MemoryPack.Core.dll",
+    "type_start": 28747,
+    "type_count": 152,
+    "methods": 604,
+    "method_pointer_table": "0xaaeb558"
+  },
+  {
+    "name": "UnityEngine.IMGUIModule.dll",
+    "type_start": 28899,
+    "type_count": 53,
+    "methods": 769,
+    "method_pointer_table": "0xaba0e60"
+  },
+  {
+    "name": "Mono.Security.dll",
+    "type_start": 28952,
+    "type_count": 85,
+    "methods": 515,
+    "method_pointer_table": "0xaaecfd0"
+  },
+  {
+    "name": "UnityEngine.PropertiesModule.dll",
+    "type_start": 29037,
+    "type_count": 165,
+    "methods": 839,
+    "method_pointer_table": "0xaba6940"
+  },
+  {
+    "name": "System.Collections.Immutable.dll",
+    "type_start": 29202,
+    "type_count": 103,
+    "methods": 923,
+    "method_pointer_table": "0xab153e8"
+  },
+  {
+    "name": "UnityEngine.AndroidJNIModule.dll",
+    "type_start": 29305,
+    "type_count": 50,
+    "methods": 620,
+    "method_pointer_table": "0xab8d498"
+  },
+  {
+    "name": "GoogleMobileAds.Android.dll",
+    "type_start": 29355,
+    "type_count": 42,
+    "methods": 671,
+    "method_pointer_table": "0xa5f63b0"
+  },
+  {
+    "name": "UnityEngine.dll",
+    "type_start": 29397,
+    "type_count": 1,
+    "methods": 0,
+    "method_pointer_table": "0x0"
+  },
+  {
+    "name": "UnityEngine.Physics2DModule.dll",
+    "type_start": 29398,
+    "type_count": 115,
+    "methods": 591,
+    "method_pointer_table": "0xaba42b8"
+  },
+  {
+    "name": "Unity.2D.Animation.Runtime.dll",
+    "type_start": 29513,
+    "type_count": 97,
+    "methods": 490,
+    "method_pointer_table": "0xab57530"
+  },
+  {
+    "name": "StompyRobot.SRF.dll",
+    "type_start": 29610,
+    "type_count": 95,
+    "methods": 519,
+    "method_pointer_table": "0xab143b0"
+  },
+  {
+    "name": "AdjustSdk.Scripts.dll",
+    "type_start": 29705,
+    "type_count": 75,
+    "methods": 620,
+    "method_pointer_table": "0xa5371c0"
+  },
+  {
+    "name": "Unity.Purchasing.PaymentProviderService.dll",
+    "type_start": 29780,
+    "type_count": 122,
+    "methods": 392,
+    "method_pointer_table": "0xab63f98"
+  },
+  {
+    "name": "Unity.Collections.dll",
+    "type_start": 29902,
+    "type_count": 148,
+    "methods": 542,
+    "method_pointer_table": "0xab5eaa0"
+  },
+  {
+    "name": "System.Net.Http.dll",
+    "type_start": 30050,
+    "type_count": 83,
+    "methods": 536,
+    "method_pointer_table": "0xab277c0"
+  },
+  {
+    "name": "Coffee.SoftMaskForUGUI.dll",
+    "type_start": 30133,
+    "type_count": 68,
+    "methods": 443,
+    "method_pointer_table": "0xa5e5230"
+  },
+  {
+    "name": "ZLinq.dll",
+    "type_start": 30201,
+    "type_count": 84,
+    "methods": 424,
+    "method_pointer_table": "0xabcd110"
+  },
+  {
+    "name": "Cysharp.Net.Http.YetAnotherHttpHandler.dll",
+    "type_start": 30285,
+    "type_count": 74,
+    "methods": 329,
+    "method_pointer_table": "0xa5e6420"
+  },
+  {
+    "name": "IFix.Core.dll",
+    "type_start": 30359,
+    "type_count": 35,
+    "methods": 150,
+    "method_pointer_table": "0xa664578"
+  },
+  {
+    "name": "Unity.Addressables.dll",
+    "type_start": 30394,
+    "type_count": 51,
+    "methods": 261,
+    "method_pointer_table": "0xab58de8"
+  },
+  {
+    "name": "Assembly-CSharp-firstpass.dll",
+    "type_start": 30445,
+    "type_count": 43,
+    "methods": 448,
+    "method_pointer_table": "0xa538c00"
+  },
+  {
+    "name": "Firebase.App.dll",
+    "type_start": 30488,
+    "type_count": 44,
+    "methods": 336,
+    "method_pointer_table": "0xa5ec198"
+  },
+  {
+    "name": "System.Numerics.dll",
+    "type_start": 30532,
+    "type_count": 24,
+    "methods": 255,
+    "method_pointer_table": "0xab28990"
+  },
+  {
+    "name": "UnityEngine.AnimationModule.dll",
+    "type_start": 30556,
+    "type_count": 49,
+    "methods": 284,
+    "method_pointer_table": "0xab8e818"
+  },
+  {
+    "name": "System.IO.Pipelines.dll",
+    "type_start": 30605,
+    "type_count": 56,
+    "methods": 320,
+    "method_pointer_table": "0xab26a90"
+  },
+  {
+    "name": "System.Drawing.dll",
+    "type_start": 30661,
+    "type_count": 11,
+    "methods": 67,
+    "method_pointer_table": "0xab26370"
+  },
+  {
+    "name": "Unity.Splines.dll",
+    "type_start": 30672,
+    "type_count": 43,
+    "methods": 278,
+    "method_pointer_table": "0xab86410"
+  },
+  {
+    "name": "Google.Play.AssetDelivery.dll",
+    "type_start": 30715,
+    "type_count": 59,
+    "methods": 280,
+    "method_pointer_table": "0xa5f0798"
+  },
+  {
+    "name": "UnityEngine.UnityWebRequestModule.dll",
+    "type_start": 30774,
+    "type_count": 20,
+    "methods": 201,
+    "method_pointer_table": "0xabcbf28"
+  },
+  {
+    "name": "GUIAnimatorFREE.dll",
+    "type_start": 30794,
+    "type_count": 29,
+    "methods": 185,
+    "method_pointer_table": "0xa663fb0"
+  },
+  {
+    "name": "System.Diagnostics.DiagnosticSource.dll",
+    "type_start": 30823,
+    "type_count": 47,
+    "methods": 226,
+    "method_pointer_table": "0xab25a60"
+  },
+  {
+    "name": "Unity.2D.IK.Runtime.dll",
+    "type_start": 30870,
+    "type_count": 53,
+    "methods": 269,
+    "method_pointer_table": "0xab58560"
+  },
+  {
+    "name": "Unity.Mathematics.dll",
+    "type_start": 30923,
+    "type_count": 36,
+    "methods": 433,
+    "method_pointer_table": "0xab60138"
+  },
+  {
+    "name": "Unity.Purchasing.LiveContentAdapterService.dll",
+    "type_start": 30959,
+    "type_count": 68,
+    "methods": 183,
+    "method_pointer_table": "0xab63900"
+  },
+  {
+    "name": "UnityEngine.InputForUIModule.dll",
+    "type_start": 31027,
+    "type_count": 48,
+    "methods": 239,
+    "method_pointer_table": "0xaba2938"
+  },
+  {
+    "name": "Unity.Purchasing.WebshopService.dll",
+    "type_start": 31075,
+    "type_count": 72,
+    "methods": 167,
+    "method_pointer_table": "0xab68638"
+  },
+  {
+    "name": "Firebase.Auth.dll",
+    "type_start": 31147,
+    "type_count": 46,
+    "methods": 267,
+    "method_pointer_table": "0xa5ecc18"
+  },
+  {
+    "name": "UnityEngine.HierarchyCoreModule.dll",
+    "type_start": 31193,
+    "type_count": 47,
+    "methods": 296,
+    "method_pointer_table": "0xaba00a0"
+  },
+  {
+    "name": "UnityEngine.PhysicsModule.dll",
+    "type_start": 31240,
+    "type_count": 25,
+    "methods": 194,
+    "method_pointer_table": "0xaba60f0"
+  },
+  {
+    "name": "System.Text.Encodings.Web.dll",
+    "type_start": 31265,
+    "type_count": 40,
+    "methods": 132,
+    "method_pointer_table": "0xab297d8"
+  },
+  {
+    "name": "System.Xml.Linq.dll",
+    "type_start": 31305,
+    "type_count": 38,
+    "methods": 228,
+    "method_pointer_table": "0xab2fa28"
+  },
+  {
+    "name": "UnityEngine.AudioModule.dll",
+    "type_start": 31343,
+    "type_count": 43,
+    "methods": 156,
+    "method_pointer_table": "0xab8f558"
+  },
+  {
+    "name": "Unity.Services.Core.Internal.dll",
+    "type_start": 31386,
+    "type_count": 71,
+    "methods": 181,
+    "method_pointer_table": "0xab85820"
+  },
+  {
+    "name": "UnityEngine.TextCoreFontEngineModule.dll",
+    "type_start": 31457,
+    "type_count": 25,
+    "methods": 191,
+    "method_pointer_table": "0xaba8bb0"
+  },
+  {
+    "name": "Google.Play.AssetDelivery.Samples.AssetDeliveryDemo.dll",
+    "type_start": 31482,
+    "type_count": 32,
+    "methods": 169,
+    "method_pointer_table": "0xa5f01e8"
+  },
+  {
+    "name": "UnityEngine.UIModule.dll",
+    "type_start": 31514,
+    "type_count": 11,
+    "methods": 181,
+    "method_pointer_table": "0xabc7418"
+  },
+  {
+    "name": "Unity.Notifications.Android.dll",
+    "type_start": 31525,
+    "type_count": 20,
+    "methods": 164,
+    "method_pointer_table": "0xab619f0"
+  },
+  {
+    "name": "UnityEngine.XRModule.dll",
+    "type_start": 31545,
+    "type_count": 32,
+    "methods": 115,
+    "method_pointer_table": "0xabcca08"
+  },
+  {
+    "name": "ZString.dll",
+    "type_start": 31577,
+    "type_count": 16,
+    "methods": 85,
+    "method_pointer_table": "0xabcde50"
+  },
+  {
+    "name": "gpm_webview.dll",
+    "type_start": 31593,
+    "type_count": 46,
+    "methods": 181,
+    "method_pointer_table": "0xa6046a8"
+  },
+  {
+    "name": "UnityEngine.ParticleSystemModule.dll",
+    "type_start": 31639,
+    "type_count": 27,
+    "methods": 124,
+    "method_pointer_table": "0xaba3c08"
+  },
+  {
+    "name": "AllIn1SpriteShaderAssembly.dll",
+    "type_start": 31666,
+    "type_count": 25,
+    "methods": 104,
+    "method_pointer_table": "0xa538520"
+  },
+  {
+    "name": "Unity.Burst.dll",
+    "type_start": 31691,
+    "type_count": 39,
+    "methods": 127,
+    "method_pointer_table": "0xab596c0"
+  },
+  {
+    "name": "Unity.Purchasing.Security.dll",
+    "type_start": 31730,
+    "type_count": 22,
+    "methods": 148,
+    "method_pointer_table": "0xab64f40"
+  },
+  {
+    "name": "Grpc.Core.Api.dll",
+    "type_start": 31752,
+    "type_count": 64,
+    "methods": 180,
+    "method_pointer_table": "0xa662310"
+  },
+  {
+    "name": "Coffee.UIParticle.dll",
+    "type_start": 31816,
+    "type_count": 24,
+    "methods": 117,
+    "method_pointer_table": "0xa5e6078"
+  },
+  {
+    "name": "Firebase.Crashlytics.dll",
+    "type_start": 31840,
+    "type_count": 27,
+    "methods": 151,
+    "method_pointer_table": "0xa5ed470"
+  },
+  {
+    "name": "Microsoft.Extensions.Logging.Abstractions.dll",
+    "type_start": 31867,
+    "type_count": 40,
+    "methods": 155,
+    "method_pointer_table": "0xaaec968"
+  },
+  {
+    "name": "Firebase.Messaging.dll",
+    "type_start": 31907,
+    "type_count": 23,
+    "methods": 186,
+    "method_pointer_table": "0xa5ed928"
+  },
+  {
+    "name": "UnityEngine.InputLegacyModule.dll",
+    "type_start": 31930,
+    "type_count": 13,
+    "methods": 94,
+    "method_pointer_table": "0xaba3770"
+  },
+  {
+    "name": "Firebase.Platform.dll",
+    "type_start": 31943,
+    "type_count": 39,
+    "methods": 132,
+    "method_pointer_table": "0xa5edef8"
+  },
+  {
+    "name": "UnityEngine.TerrainModule.dll",
+    "type_start": 31982,
+    "type_count": 17,
+    "methods": 45,
+    "method_pointer_table": "0xaba8a38"
+  },
+  {
+    "name": "UnityEngine.TilemapModule.dll",
+    "type_start": 31999,
+    "type_count": 15,
+    "methods": 59,
+    "method_pointer_table": "0xabab7d8"
+  },
+  {
+    "name": "UnityEngine.UnityAnalyticsCommonModule.dll",
+    "type_start": 32014,
+    "type_count": 35,
+    "methods": 65,
+    "method_pointer_table": "0xabcbbb0"
+  },
+  {
+    "name": "UnityEngine.AssetBundleModule.dll",
+    "type_start": 32049,
+    "type_count": 9,
+    "methods": 56,
+    "method_pointer_table": "0xab8f398"
+  },
+  {
+    "name": "UnityEngine.DirectorModule.dll",
+    "type_start": 32058,
+    "type_count": 9,
+    "methods": 58,
+    "method_pointer_table": "0xab9fea8"
+  },
+  {
+    "name": "UnityEngine.VFXModule.dll",
+    "type_start": 32067,
+    "type_count": 16,
+    "methods": 42,
+    "method_pointer_table": "0xabcc570"
+  },
+  {
+    "name": "UnityEngine.SharedInternalsModule.dll",
+    "type_start": 32083,
+    "type_count": 29,
+    "methods": 66,
+    "method_pointer_table": "0xaba86e8"
+  },
+  {
+    "name": "Unity.Purchasing.Utilities.dll",
+    "type_start": 32112,
+    "type_count": 26,
+    "methods": 99,
+    "method_pointer_table": "0xab68320"
+  },
+  {
+    "name": "UnityEngine.SubsystemsModule.dll",
+    "type_start": 32138,
+    "type_count": 16,
+    "methods": 38,
+    "method_pointer_table": "0xaba8908"
+  },
+  {
+    "name": "Google.Play.Common.dll",
+    "type_start": 32154,
+    "type_count": 18,
+    "methods": 63,
+    "method_pointer_table": "0xa5f1058"
+  },
+  {
+    "name": "UnityEngine.UnityWebRequestAssetBundleModule.dll",
+    "type_start": 32172,
+    "type_count": 4,
+    "methods": 25,
+    "method_pointer_table": "0xabcbe60"
+  },
+  {
+    "name": "GETween.dll",
+    "type_start": 32176,
+    "type_count": 4,
+    "methods": 64,
+    "method_pointer_table": "0xa5effe8"
+  },
+  {
+    "name": "UnityEngine.UnityAnalyticsModule.dll",
+    "type_start": 32180,
+    "type_count": 11,
+    "methods": 12,
+    "method_pointer_table": "0xabcbdb8"
+  },
+  {
+    "name": "AppleAuth.dll",
+    "type_start": 32191,
+    "type_count": 34,
+    "methods": 112,
+    "method_pointer_table": "0xa538860"
+  },
+  {
+    "name": "UnityEngine.AdaptivePerformanceModule.dll",
+    "type_start": 32225,
+    "type_count": 2,
+    "methods": 12,
+    "method_pointer_table": "0xab8d3f8"
+  },
+  {
+    "name": "UnityEngine.JSONSerializeModule.dll",
+    "type_start": 32227,
+    "type_count": 2,
+    "methods": 8,
+    "method_pointer_table": "0xaba3bc0"
+  },
+  {
+    "name": "UnityEngine.VRModule.dll",
+    "type_start": 32229,
+    "type_count": 4,
+    "methods": 13,
+    "method_pointer_table": "0xabcc9a0"
+  },
+  {
+    "name": "Firebase.Analytics.dll",
+    "type_start": 32233,
+    "type_count": 10,
+    "methods": 37,
+    "method_pointer_table": "0xa5ec070"
+  },
+  {
+    "name": "UnityEngine.AIModule.dll",
+    "type_start": 32243,
+    "type_count": 4,
+    "methods": 8,
+    "method_pointer_table": "0xab8d458"
+  },
+  {
+    "name": "UnityEngine.ImageConversionModule.dll",
+    "type_start": 32247,
+    "type_count": 2,
+    "methods": 9,
+    "method_pointer_table": "0xaba0e18"
+  },
+  {
+    "name": "UnityEngine.InputModule.dll",
+    "type_start": 32249,
+    "type_count": 5,
+    "methods": 8,
+    "method_pointer_table": "0xaba3b80"
+  },
+  {
+    "name": "GoogleMobileAds.Ump.Android.dll",
+    "type_start": 32254,
+    "type_count": 11,
+    "methods": 38,
+    "method_pointer_table": "0xa5f7f18"
+  },
+  {
+    "name": "Unity.Services.Core.Registration.dll",
+    "type_start": 32265,
+    "type_count": 7,
+    "methods": 49,
+    "method_pointer_table": "0xab85f78"
+  },
+  {
+    "name": "UnityEngine.TextRenderingModule.dll",
+    "type_start": 32272,
+    "type_count": 15,
+    "methods": 62,
+    "method_pointer_table": "0xabab5b8"
+  },
+  {
+    "name": "UnityEngine.SpriteMaskModule.dll",
+    "type_start": 32287,
+    "type_count": 3,
+    "methods": 2,
+    "method_pointer_table": "0xaba88f8"
+  },
+  {
+    "name": "GoogleMobileAds.Common.dll",
+    "type_start": 32290,
+    "type_count": 41,
+    "methods": 73,
+    "method_pointer_table": "0xa5f78a8"
+  },
+  {
+    "name": "UnityEngine.GridModule.dll",
+    "type_start": 32331,
+    "type_count": 2,
+    "methods": 1,
+    "method_pointer_table": "0xaba0098"
+  },
+  {
+    "name": "UnityEngine.RenderAs2DModule.dll",
+    "type_start": 32333,
+    "type_count": 2,
+    "methods": 2,
+    "method_pointer_table": "0xaba86d8"
+  },
+  {
+    "name": "UnityEngine.SpriteShapeModule.dll",
+    "type_start": 32335,
+    "type_count": 2,
+    "methods": 0,
+    "method_pointer_table": "0x0"
+  },
+  {
+    "name": "UnityEngine.VideoModule.dll",
+    "type_start": 32337,
+    "type_count": 16,
+    "methods": 86,
+    "method_pointer_table": "0xabcc6d0"
+  },
+  {
+    "name": "Google.Play.Core.dll",
+    "type_start": 32353,
+    "type_count": 23,
+    "methods": 54,
+    "method_pointer_table": "0xa5f1250"
+  },
+  {
+    "name": "GoogleMobileAds.dll",
+    "type_start": 32376,
+    "type_count": 17,
+    "methods": 71,
+    "method_pointer_table": "0xa5f8178"
+  },
+  {
+    "name": "GoogleMobileAds.Core.dll",
+    "type_start": 32393,
+    "type_count": 29,
+    "methods": 49,
+    "method_pointer_table": "0xa5f7af0"
+  },
+  {
+    "name": "gpm_communicator.dll",
+    "type_start": 32422,
+    "type_count": 20,
+    "methods": 53,
+    "method_pointer_table": "0xa604500"
+  },
+  {
+    "name": "UniTask.Addressables.dll",
+    "type_start": 32442,
+    "type_count": 12,
+    "methods": 42,
+    "method_pointer_table": "0xab4b2d0"
+  },
+  {
+    "name": "System.IO.Compression.dll",
+    "type_start": 32454,
+    "type_count": 10,
+    "methods": 31,
+    "method_pointer_table": "0xab268b8"
+  },
+  {
+    "name": "Unity.Services.Core.Configuration.dll",
+    "type_start": 32464,
+    "type_count": 13,
+    "methods": 28,
+    "method_pointer_table": "0xab85628"
+  },
+  {
+    "name": "Unity.Services.Core.dll",
+    "type_start": 32477,
+    "type_count": 13,
+    "methods": 38,
+    "method_pointer_table": "0xab862c0"
+  },
+  {
+    "name": "Unity.Services.Core.Scheduler.dll",
+    "type_start": 32490,
+    "type_count": 9,
+    "methods": 29,
+    "method_pointer_table": "0xab86180"
+  },
+  {
+    "name": "NativeGallery.Runtime.dll",
+    "type_start": 32499,
+    "type_count": 15,
+    "methods": 32,
+    "method_pointer_table": "0xab0d4a0"
+  },
+  {
+    "name": "Facebook.Unity.Settings.dll",
+    "type_start": 32514,
+    "type_count": 6,
+    "methods": 53,
+    "method_pointer_table": "0xa5e92d8"
+  },
+  {
+    "name": "GoogleMobileAds.Ump.dll",
+    "type_start": 32520,
+    "type_count": 19,
+    "methods": 38,
+    "method_pointer_table": "0xa5f8048"
+  },
+  {
+    "name": "Unity.UnifiedRayTracing.Runtime.dll",
+    "type_start": 32539,
+    "type_count": 4,
+    "methods": 7,
+    "method_pointer_table": "0xab8d3b0"
+  },
+  {
+    "name": "Google.Play.AssetDelivery.Samples.TextureTargetingDemo.dll",
+    "type_start": 32543,
+    "type_count": 9,
+    "methods": 13,
+    "method_pointer_table": "0xa5f0730"
+  },
+  {
+    "name": "Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+    "type_start": 32552,
+    "type_count": 18,
+    "methods": 0,
+    "method_pointer_table": "0x0"
+  },
+  {
+    "name": "Unity.Services.Core.Device.dll",
+    "type_start": 32570,
+    "type_count": 8,
+    "methods": 27,
+    "method_pointer_table": "0xab85728"
+  },
+  {
+    "name": "Nementic.SelectionUtility.Runtime.dll",
+    "type_start": 32578,
+    "type_count": 11,
+    "methods": 22,
+    "method_pointer_table": "0xab0d5a0"
+  },
+  {
+    "name": "System.Runtime.CompilerServices.Unsafe.dll",
+    "type_start": 32589,
+    "type_count": 6,
+    "methods": 20,
+    "method_pointer_table": "0xab296c8"
+  },
+  {
+    "name": "GoogleMobileAds.Mediation.AppLovin.Android.dll",
+    "type_start": 32595,
+    "type_count": 7,
+    "methods": 8,
+    "method_pointer_table": "0xa5f7c78"
+  },
+  {
+    "name": "GoogleMobileAds.Mediation.Mintegral.Android.dll",
+    "type_start": 32602,
+    "type_count": 7,
+    "methods": 9,
+    "method_pointer_table": "0xa5f7d48"
+  },
+  {
+    "name": "Grpc.Net.Common.dll",
+    "type_start": 32609,
+    "type_count": 7,
+    "methods": 11,
+    "method_pointer_table": "0xa663f58"
+  },
+  {
+    "name": "System.Configuration.dll",
+    "type_start": 32616,
+    "type_count": 15,
+    "methods": 35,
+    "method_pointer_table": "0xab170c0"
+  },
+  {
+    "name": "System.Runtime.Serialization.dll",
+    "type_start": 32631,
+    "type_count": 5,
+    "methods": 14,
+    "method_pointer_table": "0xab29768"
+  },
+  {
+    "name": "Unity.2D.Common.Runtime.dll",
+    "type_start": 32636,
+    "type_count": 3,
+    "methods": 4,
+    "method_pointer_table": "0xab58530"
+  },
+  {
+    "name": "Unity.MemoryProfiler.dll",
+    "type_start": 32639,
+    "type_count": 9,
+    "methods": 9,
+    "method_pointer_table": "0xab619a8"
+  },
+  {
+    "name": "Unity.Purchasing.SecurityCore.dll",
+    "type_start": 32648,
+    "type_count": 4,
+    "methods": 29,
+    "method_pointer_table": "0xab64e58"
+  },
+  {
+    "name": "GoogleMobileAds.Mediation.AppLovin.Api.dll",
+    "type_start": 32652,
+    "type_count": 8,
+    "methods": 11,
+    "method_pointer_table": "0xa5f7cb8"
+  },
+  {
+    "name": "GoogleMobileAds.Mediation.AppLovin.Common.dll",
+    "type_start": 32660,
+    "type_count": 8,
+    "methods": 7,
+    "method_pointer_table": "0xa5f7d10"
+  },
+  {
+    "name": "GoogleMobileAds.Mediation.Mintegral.Common.dll",
+    "type_start": 32668,
+    "type_count": 9,
+    "methods": 10,
+    "method_pointer_table": "0xa5f7dc0"
+  },
+  {
+    "name": "GoogleMobileAds.Mediation.Pangle.Android.dll",
+    "type_start": 32677,
+    "type_count": 7,
+    "methods": 7,
+    "method_pointer_table": "0xa5f7e30"
+  },
+  {
+    "name": "GoogleMobileAds.Mediation.Pangle.dll",
+    "type_start": 32684,
+    "type_count": 8,
+    "methods": 11,
+    "method_pointer_table": "0xa5f7ec0"
+  },
+  {
+    "name": "Nementic.SelectionUtility.Samples.dll",
+    "type_start": 32692,
+    "type_count": 8,
+    "methods": 10,
+    "method_pointer_table": "0xab0d650"
+  },
+  {
+    "name": "GoogleMobileAds.Mediation.Mintegral.Api.dll",
+    "type_start": 32700,
+    "type_count": 7,
+    "methods": 6,
+    "method_pointer_table": "0xa5f7d90"
+  },
+  {
+    "name": "GoogleMobileAds.Mediation.Mintegral.Mediation.dll",
+    "type_start": 32707,
+    "type_count": 7,
+    "methods": 4,
+    "method_pointer_table": "0xa5f7e10"
+  },
+  {
+    "name": "GoogleMobileAds.Mediation.Pangle.Common.dll",
+    "type_start": 32714,
+    "type_count": 8,
+    "methods": 7,
+    "method_pointer_table": "0xa5f7e68"
+  },
+  {
+    "name": "GoogleMobileAds.Mediation.Pangle.Mediation.dll",
+    "type_start": 32722,
+    "type_count": 7,
+    "methods": 4,
+    "method_pointer_table": "0xa5f7ea0"
+  },
+  {
+    "name": "Unity.InternalAPIEngineBridge.001.dll",
+    "type_start": 32729,
+    "type_count": 3,
+    "methods": 8,
+    "method_pointer_table": "0xab600f0"
+  },
+  {
+    "name": "Firebase.TaskExtension.dll",
+    "type_start": 32732,
+    "type_count": 4,
+    "methods": 5,
+    "method_pointer_table": "0xabf7be0"
+  },
+  {
+    "name": "Unity.Purchasing.AppleMacosStub.dll",
+    "type_start": 32736,
+    "type_count": 2,
+    "methods": 18,
+    "method_pointer_table": "0xab637e0"
+  },
+  {
+    "name": "Unity.Purchasing.AppleStub.dll",
+    "type_start": 32738,
+    "type_count": 2,
+    "methods": 18,
+    "method_pointer_table": "0xab63870"
+  },
+  {
+    "name": "Unity.Services.Core.Telemetry.dll",
+    "type_start": 32740,
+    "type_count": 5,
+    "methods": 10,
+    "method_pointer_table": "0xab86268"
+  },
+  {
+    "name": "UnityEngine.MultiplayerModule.dll",
+    "type_start": 32745,
+    "type_count": 3,
+    "methods": 1,
+    "method_pointer_table": "0xaba3c00"
+  },
+  {
+    "name": "UnityEngine.UnityConsentModule.dll",
+    "type_start": 32748,
+    "type_count": 4,
+    "methods": 5,
+    "method_pointer_table": "0xabcbe18"
+  },
+  {
+    "name": "UniTask.DOTween.dll",
+    "type_start": 32752,
+    "type_count": 3,
+    "methods": 2,
+    "method_pointer_table": "0xab4b420"
+  },
+  {
+    "name": "UniTask.TextMeshPro.dll",
+    "type_start": 32755,
+    "type_count": 3,
+    "methods": 2,
+    "method_pointer_table": "0xab50468"
+  },
+  {
+    "name": "Unity.RenderPipelines.Core.Runtime.Shared.dll",
+    "type_start": 32758,
+    "type_count": 2,
+    "methods": 1,
+    "method_pointer_table": "0xab6b468"
+  },
+  {
+    "name": "Unity.Services.Core.Environments.dll",
+    "type_start": 32760,
+    "type_count": 2,
+    "methods": 1,
+    "method_pointer_table": "0xab85818"
+  },
+  {
+    "name": "Unity.Services.Core.Environments.Internal.dll",
+    "type_start": 32762,
+    "type_count": 2,
+    "methods": 3,
+    "method_pointer_table": "0xab85800"
+  },
+  {
+    "name": "UnityEngine.IdentifiersModule.dll",
+    "type_start": 32764,
+    "type_count": 2,
+    "methods": 3,
+    "method_pointer_table": "0xaba0e00"
+  },
+  {
+    "name": "Facebook.Unity.Android.dll",
+    "type_start": 32766,
+    "type_count": 2,
+    "methods": 3,
+    "method_pointer_table": "0xa5e92c0"
+  },
+  {
+    "name": "Unity.InternalAPIEngineBridge.004.dll",
+    "type_start": 32768,
+    "type_count": 2,
+    "methods": 1,
+    "method_pointer_table": "0xab60130"
+  },
+  {
+    "name": "Unity.Services.Core.Threading.dll",
+    "type_start": 32770,
+    "type_count": 2,
+    "methods": 1,
+    "method_pointer_table": "0xab862b8"
+  },
+  {
+    "name": "Coffee.SoftMaskForUGUI.R.dll",
+    "type_start": 32772,
+    "type_count": 2,
+    "methods": 0,
+    "method_pointer_table": "0x0"
+  },
+  {
+    "name": "Unity.Burst.Unsafe.dll",
+    "type_start": 32774,
+    "type_count": 3,
+    "methods": 2,
+    "method_pointer_table": "0xab596b0"
+  },
+  {
+    "name": "__Generated",
+    "type_start": 32777,
+    "type_count": 5,
+    "methods": 3,
+    "method_pointer_table": "0xabce1e8"
+  }
+]

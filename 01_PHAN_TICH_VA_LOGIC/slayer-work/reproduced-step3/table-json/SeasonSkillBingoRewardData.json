@@ -1,0 +1,802 @@
+[
+  {
+    "Id": 0,
+    "SlotIndex": 0,
+    "PlayCount": 0,
+    "BingoRewardType": 5,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 3000
+  },
+  {
+    "Id": 1,
+    "SlotIndex": 1,
+    "PlayCount": 0,
+    "BingoRewardType": 150,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 10
+  },
+  {
+    "Id": 2,
+    "SlotIndex": 2,
+    "PlayCount": 0,
+    "BingoRewardType": 1,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 500
+  },
+  {
+    "Id": 3,
+    "SlotIndex": 3,
+    "PlayCount": 0,
+    "BingoRewardType": 150,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 10
+  },
+  {
+    "Id": 4,
+    "SlotIndex": 4,
+    "PlayCount": 0,
+    "BingoRewardType": 11,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 3000
+  },
+  {
+    "Id": 5,
+    "SlotIndex": 5,
+    "PlayCount": 0,
+    "BingoRewardType": 19,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 6,
+    "SlotIndex": 6,
+    "PlayCount": 0,
+    "BingoRewardType": 7,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 100
+  },
+  {
+    "Id": 7,
+    "SlotIndex": 7,
+    "PlayCount": 0,
+    "BingoRewardType": 10,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 8,
+    "SlotIndex": 8,
+    "PlayCount": 0,
+    "BingoRewardType": 7,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 100
+  },
+  {
+    "Id": 9,
+    "SlotIndex": 9,
+    "PlayCount": 0,
+    "BingoRewardType": 18,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 10,
+    "SlotIndex": 10,
+    "PlayCount": 0,
+    "BingoRewardType": 1,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 500
+  },
+  {
+    "Id": 11,
+    "SlotIndex": 11,
+    "PlayCount": 0,
+    "BingoRewardType": 10,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 12,
+    "SlotIndex": 12,
+    "PlayCount": 0,
+    "BingoRewardType": 1,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 2000
+  },
+  {
+    "Id": 13,
+    "SlotIndex": 13,
+    "PlayCount": 0,
+    "BingoRewardType": 10,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 14,
+    "SlotIndex": 14,
+    "PlayCount": 0,
+    "BingoRewardType": 1,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 500
+  },
+  {
+    "Id": 15,
+    "SlotIndex": 15,
+    "PlayCount": 0,
+    "BingoRewardType": 18,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 16,
+    "SlotIndex": 16,
+    "PlayCount": 0,
+    "BingoRewardType": 7,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 100
+  },
+  {
+    "Id": 17,
+    "SlotIndex": 17,
+    "PlayCount": 0,
+    "BingoRewardType": 10,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 18,
+    "SlotIndex": 18,
+    "PlayCount": 0,
+    "BingoRewardType": 7,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 100
+  },
+  {
+    "Id": 19,
+    "SlotIndex": 19,
+    "PlayCount": 0,
+    "BingoRewardType": 19,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 20,
+    "SlotIndex": 20,
+    "PlayCount": 0,
+    "BingoRewardType": 12,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 3000
+  },
+  {
+    "Id": 21,
+    "SlotIndex": 21,
+    "PlayCount": 0,
+    "BingoRewardType": 150,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 10
+  },
+  {
+    "Id": 22,
+    "SlotIndex": 22,
+    "PlayCount": 0,
+    "BingoRewardType": 1,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 500
+  },
+  {
+    "Id": 23,
+    "SlotIndex": 23,
+    "PlayCount": 0,
+    "BingoRewardType": 150,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 10
+  },
+  {
+    "Id": 24,
+    "SlotIndex": 24,
+    "PlayCount": 0,
+    "BingoRewardType": 3,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 3000
+  },
+  {
+    "Id": 25,
+    "SlotIndex": 0,
+    "PlayCount": 1,
+    "BingoRewardType": 1,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 500
+  },
+  {
+    "Id": 26,
+    "SlotIndex": 1,
+    "PlayCount": 1,
+    "BingoRewardType": 10,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 27,
+    "SlotIndex": 2,
+    "PlayCount": 1,
+    "BingoRewardType": 19,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 28,
+    "SlotIndex": 3,
+    "PlayCount": 1,
+    "BingoRewardType": 10,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 29,
+    "SlotIndex": 4,
+    "PlayCount": 1,
+    "BingoRewardType": 1,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 500
+  },
+  {
+    "Id": 30,
+    "SlotIndex": 5,
+    "PlayCount": 1,
+    "BingoRewardType": 5,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 3000
+  },
+  {
+    "Id": 31,
+    "SlotIndex": 6,
+    "PlayCount": 1,
+    "BingoRewardType": 150,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 10
+  },
+  {
+    "Id": 32,
+    "SlotIndex": 7,
+    "PlayCount": 1,
+    "BingoRewardType": 7,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 100
+  },
+  {
+    "Id": 33,
+    "SlotIndex": 8,
+    "PlayCount": 1,
+    "BingoRewardType": 150,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 10
+  },
+  {
+    "Id": 34,
+    "SlotIndex": 9,
+    "PlayCount": 1,
+    "BingoRewardType": 11,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 3000
+  },
+  {
+    "Id": 35,
+    "SlotIndex": 10,
+    "PlayCount": 1,
+    "BingoRewardType": 18,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 36,
+    "SlotIndex": 11,
+    "PlayCount": 1,
+    "BingoRewardType": 7,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 100
+  },
+  {
+    "Id": 37,
+    "SlotIndex": 12,
+    "PlayCount": 1,
+    "BingoRewardType": 1,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 2000
+  },
+  {
+    "Id": 38,
+    "SlotIndex": 13,
+    "PlayCount": 1,
+    "BingoRewardType": 7,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 100
+  },
+  {
+    "Id": 39,
+    "SlotIndex": 14,
+    "PlayCount": 1,
+    "BingoRewardType": 18,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 40,
+    "SlotIndex": 15,
+    "PlayCount": 1,
+    "BingoRewardType": 12,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 3000
+  },
+  {
+    "Id": 41,
+    "SlotIndex": 16,
+    "PlayCount": 1,
+    "BingoRewardType": 150,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 10
+  },
+  {
+    "Id": 42,
+    "SlotIndex": 17,
+    "PlayCount": 1,
+    "BingoRewardType": 7,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 100
+  },
+  {
+    "Id": 43,
+    "SlotIndex": 18,
+    "PlayCount": 1,
+    "BingoRewardType": 150,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 10
+  },
+  {
+    "Id": 44,
+    "SlotIndex": 19,
+    "PlayCount": 1,
+    "BingoRewardType": 3,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 3000
+  },
+  {
+    "Id": 45,
+    "SlotIndex": 20,
+    "PlayCount": 1,
+    "BingoRewardType": 1,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 500
+  },
+  {
+    "Id": 46,
+    "SlotIndex": 21,
+    "PlayCount": 1,
+    "BingoRewardType": 10,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 47,
+    "SlotIndex": 22,
+    "PlayCount": 1,
+    "BingoRewardType": 19,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 48,
+    "SlotIndex": 23,
+    "PlayCount": 1,
+    "BingoRewardType": 10,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 49,
+    "SlotIndex": 24,
+    "PlayCount": 1,
+    "BingoRewardType": 1,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 500
+  },
+  {
+    "Id": 50,
+    "SlotIndex": 0,
+    "PlayCount": 2,
+    "BingoRewardType": 19,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 51,
+    "SlotIndex": 1,
+    "PlayCount": 2,
+    "BingoRewardType": 5,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 3000
+  },
+  {
+    "Id": 52,
+    "SlotIndex": 2,
+    "PlayCount": 2,
+    "BingoRewardType": 150,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 10
+  },
+  {
+    "Id": 53,
+    "SlotIndex": 3,
+    "PlayCount": 2,
+    "BingoRewardType": 11,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 3000
+  },
+  {
+    "Id": 54,
+    "SlotIndex": 4,
+    "PlayCount": 2,
+    "BingoRewardType": 18,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 55,
+    "SlotIndex": 5,
+    "PlayCount": 2,
+    "BingoRewardType": 10,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 56,
+    "SlotIndex": 6,
+    "PlayCount": 2,
+    "BingoRewardType": 1,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 500
+  },
+  {
+    "Id": 57,
+    "SlotIndex": 7,
+    "PlayCount": 2,
+    "BingoRewardType": 7,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 100
+  },
+  {
+    "Id": 58,
+    "SlotIndex": 8,
+    "PlayCount": 2,
+    "BingoRewardType": 1,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 500
+  },
+  {
+    "Id": 59,
+    "SlotIndex": 9,
+    "PlayCount": 2,
+    "BingoRewardType": 10,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 60,
+    "SlotIndex": 10,
+    "PlayCount": 2,
+    "BingoRewardType": 150,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 10
+  },
+  {
+    "Id": 61,
+    "SlotIndex": 11,
+    "PlayCount": 2,
+    "BingoRewardType": 7,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 100
+  },
+  {
+    "Id": 62,
+    "SlotIndex": 12,
+    "PlayCount": 2,
+    "BingoRewardType": 1,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 2000
+  },
+  {
+    "Id": 63,
+    "SlotIndex": 13,
+    "PlayCount": 2,
+    "BingoRewardType": 7,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 100
+  },
+  {
+    "Id": 64,
+    "SlotIndex": 14,
+    "PlayCount": 2,
+    "BingoRewardType": 150,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 10
+  },
+  {
+    "Id": 65,
+    "SlotIndex": 15,
+    "PlayCount": 2,
+    "BingoRewardType": 10,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 66,
+    "SlotIndex": 16,
+    "PlayCount": 2,
+    "BingoRewardType": 1,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 500
+  },
+  {
+    "Id": 67,
+    "SlotIndex": 17,
+    "PlayCount": 2,
+    "BingoRewardType": 7,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 100
+  },
+  {
+    "Id": 68,
+    "SlotIndex": 18,
+    "PlayCount": 2,
+    "BingoRewardType": 1,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 500
+  },
+  {
+    "Id": 69,
+    "SlotIndex": 19,
+    "PlayCount": 2,
+    "BingoRewardType": 10,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 70,
+    "SlotIndex": 20,
+    "PlayCount": 2,
+    "BingoRewardType": 18,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 71,
+    "SlotIndex": 21,
+    "PlayCount": 2,
+    "BingoRewardType": 12,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 3000
+  },
+  {
+    "Id": 72,
+    "SlotIndex": 22,
+    "PlayCount": 2,
+    "BingoRewardType": 150,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 10
+  },
+  {
+    "Id": 73,
+    "SlotIndex": 23,
+    "PlayCount": 2,
+    "BingoRewardType": 3,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 3000
+  },
+  {
+    "Id": 74,
+    "SlotIndex": 24,
+    "PlayCount": 2,
+    "BingoRewardType": 19,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 75,
+    "SlotIndex": 0,
+    "PlayCount": 3,
+    "BingoRewardType": 150,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 10
+  },
+  {
+    "Id": 76,
+    "SlotIndex": 1,
+    "PlayCount": 3,
+    "BingoRewardType": 1,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 500
+  },
+  {
+    "Id": 77,
+    "SlotIndex": 2,
+    "PlayCount": 3,
+    "BingoRewardType": 1,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 500
+  },
+  {
+    "Id": 78,
+    "SlotIndex": 3,
+    "PlayCount": 3,
+    "BingoRewardType": 1,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 500
+  },
+  {
+    "Id": 79,
+    "SlotIndex": 4,
+    "PlayCount": 3,
+    "BingoRewardType": 150,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 10
+  },
+  {
+    "Id": 80,
+    "SlotIndex": 5,
+    "PlayCount": 3,
+    "BingoRewardType": 10,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 81,
+    "SlotIndex": 6,
+    "PlayCount": 3,
+    "BingoRewardType": 19,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 82,
+    "SlotIndex": 7,
+    "PlayCount": 3,
+    "BingoRewardType": 1,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 500
+  },
+  {
+    "Id": 83,
+    "SlotIndex": 8,
+    "PlayCount": 3,
+    "BingoRewardType": 18,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 84,
+    "SlotIndex": 9,
+    "PlayCount": 3,
+    "BingoRewardType": 5,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 3000
+  },
+  {
+    "Id": 85,
+    "SlotIndex": 10,
+    "PlayCount": 3,
+    "BingoRewardType": 10,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 86,
+    "SlotIndex": 11,
+    "PlayCount": 3,
+    "BingoRewardType": 10,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 87,
+    "SlotIndex": 12,
+    "PlayCount": 3,
+    "BingoRewardType": 1,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 2000
+  },
+  {
+    "Id": 88,
+    "SlotIndex": 13,
+    "PlayCount": 3,
+    "BingoRewardType": 11,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 3000
+  },
+  {
+    "Id": 89,
+    "SlotIndex": 14,
+    "PlayCount": 3,
+    "BingoRewardType": 12,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 3000
+  },
+  {
+    "Id": 90,
+    "SlotIndex": 15,
+    "PlayCount": 3,
+    "BingoRewardType": 10,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 91,
+    "SlotIndex": 16,
+    "PlayCount": 3,
+    "BingoRewardType": 18,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 92,
+    "SlotIndex": 17,
+    "PlayCount": 3,
+    "BingoRewardType": 7,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 100
+  },
+  {
+    "Id": 93,
+    "SlotIndex": 18,
+    "PlayCount": 3,
+    "BingoRewardType": 19,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 1
+  },
+  {
+    "Id": 94,
+    "SlotIndex": 19,
+    "PlayCount": 3,
+    "BingoRewardType": 3,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 3000
+  },
+  {
+    "Id": 95,
+    "SlotIndex": 20,
+    "PlayCount": 3,
+    "BingoRewardType": 150,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 10
+  },
+  {
+    "Id": 96,
+    "SlotIndex": 21,
+    "PlayCount": 3,
+    "BingoRewardType": 7,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 100
+  },
+  {
+    "Id": 97,
+    "SlotIndex": 22,
+    "PlayCount": 3,
+    "BingoRewardType": 7,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 100
+  },
+  {
+    "Id": 98,
+    "SlotIndex": 23,
+    "PlayCount": 3,
+    "BingoRewardType": 7,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 100
+  },
+  {
+    "Id": 99,
+    "SlotIndex": 24,
+    "PlayCount": 3,
+    "BingoRewardType": 150,
+    "BingoRewardIndex": 0,
+    "BingoRewardCount": 10
+  }
+]

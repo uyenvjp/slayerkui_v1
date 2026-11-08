@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6006e85",
+    "name": ".ctor",
+    "declaring_type_index": "2705",
+    "declaring_type_full_name": "GameManager+<Stage_RestartIE>d__177",
+    "native_va": "0x4e86ee8",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "6566",
+    "parameter_count": "1",
+    "flags": "6278",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x95582c",
+    "end_va": "0x4e86f10",
+    "asm_file": "GameManager__Stage_RestartIE_d__177__.ctor_0x6006e85.asm"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6006e87",
+    "name": "MoveNext",
+    "declaring_type_index": "2705",
+    "declaring_type_full_name": "GameManager+<Stage_RestartIE>d__177",
+    "native_va": "0x4e86f14",
+    "return_type_index": "59073",
+    "return_type_name": "bool",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "481",
+    "iflags": "0",
+    "slot": "6",
+    "metadata_record_offset": "0x95586c",
+    "end_va": "0x4e86f88",
+    "asm_file": "GameManager__Stage_RestartIE_d__177__MoveNext_0x6006e87.asm"
+  }
+]

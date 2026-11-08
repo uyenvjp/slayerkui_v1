@@ -1,0 +1,1493 @@
+[
+  {
+    "Id": 1,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_001",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 200,
+    "Type": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "TypeIndex": [
+      1,
+      12,
+      23,
+      34,
+      0
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_002",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 20,
+    "Type": [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      16,
+      43,
+      44,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_003",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 200,
+    "Type": [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      1,
+      2,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_004",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 200,
+    "Type": [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      12,
+      13,
+      14,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 5,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_005",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 20,
+    "Type": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      32,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_006",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 200,
+    "Type": [
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      4,
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 7,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_007",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 20,
+    "Type": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "TypeIndex": [
+      20,
+      21,
+      30,
+      19,
+      33
+    ]
+  },
+  {
+    "Id": 8,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_008",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 200,
+    "Type": [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      23,
+      24,
+      25,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 9,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_009",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 200,
+    "Type": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      15,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 10,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_010",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 200,
+    "Type": [
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      28,
+      29,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 11,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_011",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 200,
+    "Type": [
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      26,
+      27,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 12,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_012",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 20,
+    "Type": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      22,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 13,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_013",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 200,
+    "Type": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "TypeIndex": [
+      34,
+      35,
+      36,
+      7,
+      0
+    ]
+  },
+  {
+    "Id": 14,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_014",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 200,
+    "Type": [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      37,
+      38,
+      18,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 15,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_015",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 20,
+    "Type": [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      10,
+      11,
+      33,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 16,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_016",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 10,
+    "Type": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      17,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 17,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_017",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 200,
+    "Type": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "TypeIndex": [
+      7,
+      18,
+      29,
+      39,
+      0
+    ]
+  },
+  {
+    "Id": 18,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_018",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 20,
+    "Type": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "TypeIndex": [
+      11,
+      19,
+      33,
+      40,
+      0
+    ]
+  },
+  {
+    "Id": 19,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_019",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 20,
+    "Type": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "TypeIndex": [
+      9,
+      21,
+      30,
+      42,
+      40
+    ]
+  },
+  {
+    "Id": 20,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_020",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 200,
+    "Type": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      39,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 21,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_021",
+    "Point": 100,
+    "NeedValue": 1,
+    "MaxLevel": 5,
+    "Type": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      45,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 22,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_022",
+    "Point": 100,
+    "NeedValue": 1,
+    "MaxLevel": 5,
+    "Type": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      46,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 23,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_023",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 100,
+    "Type": [
+      4,
+      4,
+      4,
+      4,
+      0
+    ],
+    "TypeIndex": [
+      0,
+      1,
+      2,
+      3,
+      0
+    ]
+  },
+  {
+    "Id": 24,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_024",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 100,
+    "Type": [
+      5,
+      5,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      0,
+      9,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 25,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_025",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 100,
+    "Type": [
+      5,
+      5,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      18,
+      19,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 26,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_026",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 100,
+    "Type": [
+      5,
+      5,
+      5,
+      5,
+      0
+    ],
+    "TypeIndex": [
+      1,
+      7,
+      8,
+      20,
+      0
+    ]
+  },
+  {
+    "Id": 27,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_027",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 100,
+    "Type": [
+      5,
+      5,
+      5,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      6,
+      12,
+      13,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 28,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_028",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 100,
+    "Type": [
+      5,
+      5,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      14,
+      16,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 29,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_029",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 100,
+    "Type": [
+      5,
+      5,
+      5,
+      5,
+      0
+    ],
+    "TypeIndex": [
+      4,
+      10,
+      16,
+      22,
+      0
+    ]
+  },
+  {
+    "Id": 30,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_030",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 100,
+    "Type": [
+      5,
+      5,
+      5,
+      5,
+      0
+    ],
+    "TypeIndex": [
+      3,
+      9,
+      15,
+      21,
+      0
+    ]
+  },
+  {
+    "Id": 31,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_031",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 100,
+    "Type": [
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "TypeIndex": [
+      2,
+      3,
+      4,
+      21,
+      22
+    ]
+  },
+  {
+    "Id": 32,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_032",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 1000,
+    "Type": [
+      5,
+      5,
+      5,
+      5,
+      0
+    ],
+    "TypeIndex": [
+      5,
+      11,
+      17,
+      23,
+      0
+    ]
+  },
+  {
+    "Id": 33,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_033",
+    "Point": 50,
+    "NeedValue": 1,
+    "MaxLevel": 18,
+    "Type": [
+      2,
+      2,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      1,
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 34,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_034",
+    "Point": 50,
+    "NeedValue": 1,
+    "MaxLevel": 18,
+    "Type": [
+      2,
+      2,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      6,
+      10,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 35,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_035",
+    "Point": 80,
+    "NeedValue": 1,
+    "MaxLevel": 18,
+    "Type": [
+      2,
+      2,
+      2,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      3,
+      7,
+      11,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 36,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_036",
+    "Point": 20,
+    "NeedValue": 1,
+    "MaxLevel": 18,
+    "Type": [
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      11,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 37,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_037",
+    "Point": 50,
+    "NeedValue": 1,
+    "MaxLevel": 18,
+    "Type": [
+      2,
+      2,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      4,
+      12,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 38,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_038",
+    "Point": 20,
+    "NeedValue": 1,
+    "MaxLevel": 18,
+    "Type": [
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      8,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 39,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_039",
+    "Point": 20,
+    "NeedValue": 1,
+    "MaxLevel": 18,
+    "Type": [
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      12,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 40,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_040",
+    "Point": 20,
+    "NeedValue": 1,
+    "MaxLevel": 18,
+    "Type": [
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      5,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 41,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_041",
+    "Point": 20,
+    "NeedValue": 1,
+    "MaxLevel": 18,
+    "Type": [
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      9,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 42,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_042",
+    "Point": 20,
+    "NeedValue": 1,
+    "MaxLevel": 18,
+    "Type": [
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      2,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 43,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_043",
+    "Point": 20,
+    "NeedValue": 1,
+    "MaxLevel": 4,
+    "Type": [
+      3,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      9,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 44,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_044",
+    "Point": 50,
+    "NeedValue": 1,
+    "MaxLevel": 4,
+    "Type": [
+      3,
+      3,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      6,
+      10,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 45,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_045",
+    "Point": 20,
+    "NeedValue": 1,
+    "MaxLevel": 4,
+    "Type": [
+      3,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      2,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 46,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_046",
+    "Point": 80,
+    "NeedValue": 1,
+    "MaxLevel": 4,
+    "Type": [
+      3,
+      3,
+      3,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      1,
+      4,
+      12,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 47,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_047",
+    "Point": 20,
+    "NeedValue": 1,
+    "MaxLevel": 4,
+    "Type": [
+      3,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      12,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 48,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_048",
+    "Point": 50,
+    "NeedValue": 1,
+    "MaxLevel": 4,
+    "Type": [
+      3,
+      3,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      3,
+      11,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 49,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_049",
+    "Point": 20,
+    "NeedValue": 1,
+    "MaxLevel": 4,
+    "Type": [
+      3,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      7,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 50,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_050",
+    "Point": 50,
+    "NeedValue": 1,
+    "MaxLevel": 4,
+    "Type": [
+      3,
+      3,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      8,
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 51,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_051",
+    "Point": 20,
+    "NeedValue": 1,
+    "MaxLevel": 4,
+    "Type": [
+      3,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      5,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 52,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_052",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 200,
+    "Type": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      6,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 53,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_053",
+    "Point": 0,
+    "NeedValue": 1,
+    "MaxLevel": 4,
+    "Type": [
+      6,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      201,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 54,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_054",
+    "Point": 0,
+    "NeedValue": 1,
+    "MaxLevel": 4,
+    "Type": [
+      6,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      102,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 55,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_055",
+    "Point": 0,
+    "NeedValue": 1,
+    "MaxLevel": 4,
+    "Type": [
+      6,
+      6,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      203,
+      300,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 56,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_056",
+    "Point": 0,
+    "NeedValue": 1,
+    "MaxLevel": 4,
+    "Type": [
+      6,
+      6,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      200,
+      303,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 57,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_057",
+    "Point": 0,
+    "NeedValue": 1,
+    "MaxLevel": 4,
+    "Type": [
+      6,
+      6,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      202,
+      100,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 58,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_058",
+    "Point": 0,
+    "NeedValue": 1,
+    "MaxLevel": 4,
+    "Type": [
+      6,
+      6,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      301,
+      302,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 59,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_059",
+    "Point": 0,
+    "NeedValue": 1,
+    "MaxLevel": 4,
+    "Type": [
+      6,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      103,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 60,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_060",
+    "Point": 0,
+    "NeedValue": 1,
+    "MaxLevel": 4,
+    "Type": [
+      6,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      101,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 61,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_061",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 200,
+    "Type": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "TypeIndex": [
+      6,
+      18,
+      25,
+      27,
+      29
+    ]
+  },
+  {
+    "Id": 62,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_062",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 200,
+    "Type": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "TypeIndex": [
+      3,
+      15,
+      36,
+      38,
+      39
+    ]
+  },
+  {
+    "Id": 63,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_063",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 200,
+    "Type": [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      7,
+      14,
+      27,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 64,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_064",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 200,
+    "Type": [
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      5,
+      39,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 65,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_065",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 200,
+    "Type": [
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      35,
+      37,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 66,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_066",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 100,
+    "Type": [
+      5,
+      5,
+      5,
+      5,
+      0
+    ],
+    "TypeIndex": [
+      24,
+      27,
+      26,
+      25,
+      0
+    ]
+  },
+  {
+    "Id": 67,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_067",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 100,
+    "Type": [
+      5,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      31,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 68,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_068",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 100,
+    "Type": [
+      5,
+      5,
+      5,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      28,
+      29,
+      30,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 69,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_069",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 100,
+    "Type": [
+      5,
+      5,
+      5,
+      5,
+      0
+    ],
+    "TypeIndex": [
+      34,
+      35,
+      32,
+      33,
+      0
+    ]
+  },
+  {
+    "Id": 70,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_070",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 200,
+    "Type": [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      4,
+      13,
+      26,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 71,
+    "Name": "SKILL_MASTERY_COLLECTION_NAME_071",
+    "Point": 5,
+    "NeedValue": 1,
+    "MaxLevel": 200,
+    "Type": [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "TypeIndex": [
+      2,
+      15,
+      24,
+      0,
+      0
+    ]
+  }
+]

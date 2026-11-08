@@ -1,0 +1,6 @@
+{
+  "sequences": 96,
+  "actions": 310,
+  "contracts": 5,
+  "scope": "RequestLoop normal/immediate/pending/empty branches under explicit scheduler, transport, collections and UI fixtures."
+}

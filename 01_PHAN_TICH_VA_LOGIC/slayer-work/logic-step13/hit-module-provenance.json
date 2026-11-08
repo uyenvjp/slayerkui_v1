@@ -1,0 +1,5 @@
+{
+  "source": "../logic-step12/port/recovered-enemy-hit.mjs",
+  "source_sha256": "ffb39719bc57bf7e8d30a5fc5b8dcc37f76218c3facd6e04eca918e5f194fe47",
+  "changes": "Keep previous hit/status orchestration; replace resultDead fixture with linked result/HP/death/normal-drop module; persist state across steps."
+}

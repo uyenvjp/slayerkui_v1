@@ -1,0 +1,1712 @@
+[
+  {
+    "Id": 1,
+    "BattleType": 3,
+    "BuffType": 1,
+    "BuffIndex": 0,
+    "BuffValue": 2000.0,
+    "DebuffType": 101,
+    "DebuffIndex": 28,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2,
+    "BattleType": 3,
+    "BuffType": 1,
+    "BuffIndex": 0,
+    "BuffValue": 2000.0,
+    "DebuffType": 101,
+    "DebuffIndex": 29,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 3,
+    "BattleType": 3,
+    "BuffType": 1,
+    "BuffIndex": 0,
+    "BuffValue": 2000.0,
+    "DebuffType": 102,
+    "DebuffIndex": 3,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 4,
+    "BattleType": 3,
+    "BuffType": 1,
+    "BuffIndex": 0,
+    "BuffValue": 2000.0,
+    "DebuffType": 103,
+    "DebuffIndex": 2,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 5,
+    "BattleType": 3,
+    "BuffType": 1,
+    "BuffIndex": 0,
+    "BuffValue": 2000.0,
+    "DebuffType": 108,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 6,
+    "BattleType": 3,
+    "BuffType": 1,
+    "BuffIndex": 0,
+    "BuffValue": 2000.0,
+    "DebuffType": 107,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 7,
+    "BattleType": 3,
+    "BuffType": 1,
+    "BuffIndex": 0,
+    "BuffValue": 2000.0,
+    "DebuffType": 110,
+    "DebuffIndex": 0,
+    "DebuffValue": 8.0
+  },
+  {
+    "Id": 8,
+    "BattleType": 3,
+    "BuffType": 1,
+    "BuffIndex": 1,
+    "BuffValue": 1500.0,
+    "DebuffType": 101,
+    "DebuffIndex": 28,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 9,
+    "BattleType": 3,
+    "BuffType": 1,
+    "BuffIndex": 1,
+    "BuffValue": 1500.0,
+    "DebuffType": 101,
+    "DebuffIndex": 29,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 10,
+    "BattleType": 3,
+    "BuffType": 1,
+    "BuffIndex": 1,
+    "BuffValue": 1500.0,
+    "DebuffType": 102,
+    "DebuffIndex": 3,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 11,
+    "BattleType": 3,
+    "BuffType": 1,
+    "BuffIndex": 1,
+    "BuffValue": 1500.0,
+    "DebuffType": 103,
+    "DebuffIndex": 2,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 12,
+    "BattleType": 3,
+    "BuffType": 1,
+    "BuffIndex": 1,
+    "BuffValue": 1500.0,
+    "DebuffType": 108,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 13,
+    "BattleType": 3,
+    "BuffType": 1,
+    "BuffIndex": 1,
+    "BuffValue": 1500.0,
+    "DebuffType": 107,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 14,
+    "BattleType": 3,
+    "BuffType": 1,
+    "BuffIndex": 1,
+    "BuffValue": 1500.0,
+    "DebuffType": 110,
+    "DebuffIndex": 0,
+    "DebuffValue": 8.0
+  },
+  {
+    "Id": 15,
+    "BattleType": 3,
+    "BuffType": 1,
+    "BuffIndex": 2,
+    "BuffValue": 1000.0,
+    "DebuffType": 101,
+    "DebuffIndex": 28,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 16,
+    "BattleType": 3,
+    "BuffType": 1,
+    "BuffIndex": 2,
+    "BuffValue": 1000.0,
+    "DebuffType": 101,
+    "DebuffIndex": 29,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 17,
+    "BattleType": 3,
+    "BuffType": 1,
+    "BuffIndex": 2,
+    "BuffValue": 1000.0,
+    "DebuffType": 102,
+    "DebuffIndex": 3,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 18,
+    "BattleType": 3,
+    "BuffType": 1,
+    "BuffIndex": 2,
+    "BuffValue": 1000.0,
+    "DebuffType": 103,
+    "DebuffIndex": 2,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 19,
+    "BattleType": 3,
+    "BuffType": 1,
+    "BuffIndex": 2,
+    "BuffValue": 1000.0,
+    "DebuffType": 108,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 20,
+    "BattleType": 3,
+    "BuffType": 1,
+    "BuffIndex": 2,
+    "BuffValue": 1000.0,
+    "DebuffType": 107,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 21,
+    "BattleType": 3,
+    "BuffType": 1,
+    "BuffIndex": 2,
+    "BuffValue": 1000.0,
+    "DebuffType": 110,
+    "DebuffIndex": 0,
+    "DebuffValue": 8.0
+  },
+  {
+    "Id": 22,
+    "BattleType": 3,
+    "BuffType": 2,
+    "BuffIndex": 0,
+    "BuffValue": 1000.0,
+    "DebuffType": 101,
+    "DebuffIndex": 28,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 23,
+    "BattleType": 3,
+    "BuffType": 2,
+    "BuffIndex": 0,
+    "BuffValue": 1000.0,
+    "DebuffType": 101,
+    "DebuffIndex": 29,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 24,
+    "BattleType": 3,
+    "BuffType": 2,
+    "BuffIndex": 0,
+    "BuffValue": 1000.0,
+    "DebuffType": 102,
+    "DebuffIndex": 3,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 25,
+    "BattleType": 3,
+    "BuffType": 2,
+    "BuffIndex": 0,
+    "BuffValue": 1000.0,
+    "DebuffType": 103,
+    "DebuffIndex": 2,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 26,
+    "BattleType": 3,
+    "BuffType": 2,
+    "BuffIndex": 0,
+    "BuffValue": 1000.0,
+    "DebuffType": 107,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 27,
+    "BattleType": 3,
+    "BuffType": 2,
+    "BuffIndex": 0,
+    "BuffValue": 1000.0,
+    "DebuffType": 110,
+    "DebuffIndex": 0,
+    "DebuffValue": 8.0
+  },
+  {
+    "Id": 28,
+    "BattleType": 3,
+    "BuffType": 5,
+    "BuffIndex": 0,
+    "BuffValue": 100.0,
+    "DebuffType": 101,
+    "DebuffIndex": 28,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 29,
+    "BattleType": 3,
+    "BuffType": 5,
+    "BuffIndex": 0,
+    "BuffValue": 100.0,
+    "DebuffType": 101,
+    "DebuffIndex": 29,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 30,
+    "BattleType": 3,
+    "BuffType": 5,
+    "BuffIndex": 0,
+    "BuffValue": 100.0,
+    "DebuffType": 103,
+    "DebuffIndex": 2,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 31,
+    "BattleType": 3,
+    "BuffType": 6,
+    "BuffIndex": 0,
+    "BuffValue": 100.0,
+    "DebuffType": 101,
+    "DebuffIndex": 28,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 32,
+    "BattleType": 3,
+    "BuffType": 6,
+    "BuffIndex": 0,
+    "BuffValue": 100.0,
+    "DebuffType": 101,
+    "DebuffIndex": 29,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 33,
+    "BattleType": 3,
+    "BuffType": 6,
+    "BuffIndex": 0,
+    "BuffValue": 150.0,
+    "DebuffType": 105,
+    "DebuffIndex": 0,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 34,
+    "BattleType": 3,
+    "BuffType": 6,
+    "BuffIndex": 0,
+    "BuffValue": 150.0,
+    "DebuffType": 105,
+    "DebuffIndex": 0,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 35,
+    "BattleType": 3,
+    "BuffType": 6,
+    "BuffIndex": 0,
+    "BuffValue": 100.0,
+    "DebuffType": 108,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 36,
+    "BattleType": 3,
+    "BuffType": 7,
+    "BuffIndex": 17,
+    "BuffValue": 100.0,
+    "DebuffType": 101,
+    "DebuffIndex": 28,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 37,
+    "BattleType": 3,
+    "BuffType": 7,
+    "BuffIndex": 17,
+    "BuffValue": 100.0,
+    "DebuffType": 101,
+    "DebuffIndex": 29,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 38,
+    "BattleType": 3,
+    "BuffType": 7,
+    "BuffIndex": 17,
+    "BuffValue": 100.0,
+    "DebuffType": 108,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 39,
+    "BattleType": 3,
+    "BuffType": 7,
+    "BuffIndex": 31,
+    "BuffValue": 400.0,
+    "DebuffType": 101,
+    "DebuffIndex": 28,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 40,
+    "BattleType": 3,
+    "BuffType": 7,
+    "BuffIndex": 31,
+    "BuffValue": 400.0,
+    "DebuffType": 101,
+    "DebuffIndex": 29,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 41,
+    "BattleType": 3,
+    "BuffType": 7,
+    "BuffIndex": 31,
+    "BuffValue": 400.0,
+    "DebuffType": 108,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 42,
+    "BattleType": 3,
+    "BuffType": 7,
+    "BuffIndex": 41,
+    "BuffValue": 900.0,
+    "DebuffType": 101,
+    "DebuffIndex": 28,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 43,
+    "BattleType": 3,
+    "BuffType": 7,
+    "BuffIndex": 41,
+    "BuffValue": 900.0,
+    "DebuffType": 101,
+    "DebuffIndex": 29,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 44,
+    "BattleType": 3,
+    "BuffType": 7,
+    "BuffIndex": 41,
+    "BuffValue": 900.0,
+    "DebuffType": 108,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 1001,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 0,
+    "BuffValue": 2000.0,
+    "DebuffType": 102,
+    "DebuffIndex": 4,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1002,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 0,
+    "BuffValue": 2000.0,
+    "DebuffType": 103,
+    "DebuffIndex": 3,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1003,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 0,
+    "BuffValue": 2000.0,
+    "DebuffType": 109,
+    "DebuffIndex": 0,
+    "DebuffValue": 30.0
+  },
+  {
+    "Id": 1004,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 0,
+    "BuffValue": 2000.0,
+    "DebuffType": 110,
+    "DebuffIndex": 0,
+    "DebuffValue": 8.0
+  },
+  {
+    "Id": 1005,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 1,
+    "BuffValue": 1500.0,
+    "DebuffType": 102,
+    "DebuffIndex": 4,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1006,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 1,
+    "BuffValue": 1500.0,
+    "DebuffType": 103,
+    "DebuffIndex": 3,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1007,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 1,
+    "BuffValue": 1500.0,
+    "DebuffType": 109,
+    "DebuffIndex": 0,
+    "DebuffValue": 30.0
+  },
+  {
+    "Id": 1008,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 1,
+    "BuffValue": 1500.0,
+    "DebuffType": 110,
+    "DebuffIndex": 0,
+    "DebuffValue": 8.0
+  },
+  {
+    "Id": 1009,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 2,
+    "BuffValue": 1000.0,
+    "DebuffType": 102,
+    "DebuffIndex": 4,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1010,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 2,
+    "BuffValue": 1000.0,
+    "DebuffType": 103,
+    "DebuffIndex": 3,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1011,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 2,
+    "BuffValue": 1000.0,
+    "DebuffType": 109,
+    "DebuffIndex": 0,
+    "DebuffValue": 30.0
+  },
+  {
+    "Id": 1012,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 2,
+    "BuffValue": 1000.0,
+    "DebuffType": 110,
+    "DebuffIndex": 0,
+    "DebuffValue": 8.0
+  },
+  {
+    "Id": 1013,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 3,
+    "BuffValue": 1000.0,
+    "DebuffType": 102,
+    "DebuffIndex": 4,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1014,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 3,
+    "BuffValue": 1000.0,
+    "DebuffType": 103,
+    "DebuffIndex": 3,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1015,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 3,
+    "BuffValue": 1000.0,
+    "DebuffType": 109,
+    "DebuffIndex": 0,
+    "DebuffValue": 30.0
+  },
+  {
+    "Id": 1016,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 3,
+    "BuffValue": 1000.0,
+    "DebuffType": 110,
+    "DebuffIndex": 0,
+    "DebuffValue": 8.0
+  },
+  {
+    "Id": 1017,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 4,
+    "BuffValue": 700.0,
+    "DebuffType": 103,
+    "DebuffIndex": 3,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1018,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 4,
+    "BuffValue": 700.0,
+    "DebuffType": 109,
+    "DebuffIndex": 0,
+    "DebuffValue": 30.0
+  },
+  {
+    "Id": 1019,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 4,
+    "BuffValue": 700.0,
+    "DebuffType": 110,
+    "DebuffIndex": 0,
+    "DebuffValue": 8.0
+  },
+  {
+    "Id": 1020,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 5,
+    "BuffValue": 500.0,
+    "DebuffType": 102,
+    "DebuffIndex": 4,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1021,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 5,
+    "BuffValue": 500.0,
+    "DebuffType": 103,
+    "DebuffIndex": 3,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1022,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 5,
+    "BuffValue": 500.0,
+    "DebuffType": 109,
+    "DebuffIndex": 0,
+    "DebuffValue": 30.0
+  },
+  {
+    "Id": 1023,
+    "BattleType": 1,
+    "BuffType": 1,
+    "BuffIndex": 5,
+    "BuffValue": 500.0,
+    "DebuffType": 110,
+    "DebuffIndex": 0,
+    "DebuffValue": 8.0
+  },
+  {
+    "Id": 1024,
+    "BattleType": 1,
+    "BuffType": 2,
+    "BuffIndex": 0,
+    "BuffValue": 1000.0,
+    "DebuffType": 102,
+    "DebuffIndex": 4,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1025,
+    "BattleType": 1,
+    "BuffType": 2,
+    "BuffIndex": 0,
+    "BuffValue": 1000.0,
+    "DebuffType": 103,
+    "DebuffIndex": 3,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1026,
+    "BattleType": 1,
+    "BuffType": 2,
+    "BuffIndex": 0,
+    "BuffValue": 1000.0,
+    "DebuffType": 110,
+    "DebuffIndex": 0,
+    "DebuffValue": 8.0
+  },
+  {
+    "Id": 1027,
+    "BattleType": 1,
+    "BuffType": 4,
+    "BuffIndex": 0,
+    "BuffValue": 100.0,
+    "DebuffType": 108,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 1028,
+    "BattleType": 1,
+    "BuffType": 4,
+    "BuffIndex": 0,
+    "BuffValue": 100.0,
+    "DebuffType": 103,
+    "DebuffIndex": 2,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1029,
+    "BattleType": 1,
+    "BuffType": 4,
+    "BuffIndex": 0,
+    "BuffValue": 100.0,
+    "DebuffType": 107,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 1030,
+    "BattleType": 1,
+    "BuffType": 4,
+    "BuffIndex": 0,
+    "BuffValue": 100.0,
+    "DebuffType": 109,
+    "DebuffIndex": 0,
+    "DebuffValue": 30.0
+  },
+  {
+    "Id": 1031,
+    "BattleType": 1,
+    "BuffType": 4,
+    "BuffIndex": 0,
+    "BuffValue": 100.0,
+    "DebuffType": 110,
+    "DebuffIndex": 0,
+    "DebuffValue": 8.0
+  },
+  {
+    "Id": 1032,
+    "BattleType": 1,
+    "BuffType": 5,
+    "BuffIndex": 0,
+    "BuffValue": 100.0,
+    "DebuffType": 102,
+    "DebuffIndex": 4,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1033,
+    "BattleType": 1,
+    "BuffType": 5,
+    "BuffIndex": 0,
+    "BuffValue": 100.0,
+    "DebuffType": 103,
+    "DebuffIndex": 3,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1034,
+    "BattleType": 1,
+    "BuffType": 5,
+    "BuffIndex": 0,
+    "BuffValue": 100.0,
+    "DebuffType": 108,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 1035,
+    "BattleType": 1,
+    "BuffType": 5,
+    "BuffIndex": 0,
+    "BuffValue": 100.0,
+    "DebuffType": 110,
+    "DebuffIndex": 0,
+    "DebuffValue": 8.0
+  },
+  {
+    "Id": 1036,
+    "BattleType": 1,
+    "BuffType": 6,
+    "BuffIndex": 0,
+    "BuffValue": 150.0,
+    "DebuffType": 105,
+    "DebuffIndex": 0,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1037,
+    "BattleType": 1,
+    "BuffType": 6,
+    "BuffIndex": 0,
+    "BuffValue": 150.0,
+    "DebuffType": 105,
+    "DebuffIndex": 0,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1038,
+    "BattleType": 1,
+    "BuffType": 7,
+    "BuffIndex": 17,
+    "BuffValue": 100.0,
+    "DebuffType": 103,
+    "DebuffIndex": 3,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1039,
+    "BattleType": 1,
+    "BuffType": 7,
+    "BuffIndex": 17,
+    "BuffValue": 100.0,
+    "DebuffType": 107,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 1040,
+    "BattleType": 1,
+    "BuffType": 7,
+    "BuffIndex": 17,
+    "BuffValue": 100.0,
+    "DebuffType": 109,
+    "DebuffIndex": 0,
+    "DebuffValue": 30.0
+  },
+  {
+    "Id": 1041,
+    "BattleType": 1,
+    "BuffType": 7,
+    "BuffIndex": 17,
+    "BuffValue": 100.0,
+    "DebuffType": 110,
+    "DebuffIndex": 0,
+    "DebuffValue": 8.0
+  },
+  {
+    "Id": 1042,
+    "BattleType": 1,
+    "BuffType": 7,
+    "BuffIndex": 41,
+    "BuffValue": 900.0,
+    "DebuffType": 102,
+    "DebuffIndex": 4,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1043,
+    "BattleType": 1,
+    "BuffType": 7,
+    "BuffIndex": 41,
+    "BuffValue": 900.0,
+    "DebuffType": 103,
+    "DebuffIndex": 3,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1044,
+    "BattleType": 1,
+    "BuffType": 7,
+    "BuffIndex": 41,
+    "BuffValue": 900.0,
+    "DebuffType": 107,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 1045,
+    "BattleType": 1,
+    "BuffType": 7,
+    "BuffIndex": 41,
+    "BuffValue": 900.0,
+    "DebuffType": 109,
+    "DebuffIndex": 0,
+    "DebuffValue": 30.0
+  },
+  {
+    "Id": 1046,
+    "BattleType": 1,
+    "BuffType": 7,
+    "BuffIndex": 41,
+    "BuffValue": 900.0,
+    "DebuffType": 110,
+    "DebuffIndex": 0,
+    "DebuffValue": 8.0
+  },
+  {
+    "Id": 1047,
+    "BattleType": 1,
+    "BuffType": 7,
+    "BuffIndex": 5,
+    "BuffValue": 900.0,
+    "DebuffType": 103,
+    "DebuffIndex": 3,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 1048,
+    "BattleType": 1,
+    "BuffType": 7,
+    "BuffIndex": 5,
+    "BuffValue": 900.0,
+    "DebuffType": 107,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 1049,
+    "BattleType": 1,
+    "BuffType": 7,
+    "BuffIndex": 5,
+    "BuffValue": 900.0,
+    "DebuffType": 109,
+    "DebuffIndex": 0,
+    "DebuffValue": 30.0
+  },
+  {
+    "Id": 1050,
+    "BattleType": 1,
+    "BuffType": 7,
+    "BuffIndex": 5,
+    "BuffValue": 900.0,
+    "DebuffType": 110,
+    "DebuffIndex": 0,
+    "DebuffValue": 8.0
+  },
+  {
+    "Id": 2001,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 0,
+    "BuffValue": 2000.0,
+    "DebuffType": 101,
+    "DebuffIndex": 40,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2002,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 0,
+    "BuffValue": 2000.0,
+    "DebuffType": 101,
+    "DebuffIndex": 45,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2003,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 0,
+    "BuffValue": 2000.0,
+    "DebuffType": 103,
+    "DebuffIndex": 1,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2004,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 0,
+    "BuffValue": 2000.0,
+    "DebuffType": 103,
+    "DebuffIndex": 4,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2005,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 0,
+    "BuffValue": 2000.0,
+    "DebuffType": 102,
+    "DebuffIndex": 5,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2006,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 0,
+    "BuffValue": 2000.0,
+    "DebuffType": 106,
+    "DebuffIndex": 0,
+    "DebuffValue": 40.0
+  },
+  {
+    "Id": 2007,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 0,
+    "BuffValue": 2000.0,
+    "DebuffType": 107,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 2008,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 0,
+    "BuffValue": 2000.0,
+    "DebuffType": 104,
+    "DebuffIndex": 0,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2009,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 1,
+    "BuffValue": 1500.0,
+    "DebuffType": 101,
+    "DebuffIndex": 40,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2010,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 1,
+    "BuffValue": 1500.0,
+    "DebuffType": 101,
+    "DebuffIndex": 45,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2011,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 1,
+    "BuffValue": 1500.0,
+    "DebuffType": 103,
+    "DebuffIndex": 1,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2012,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 1,
+    "BuffValue": 1500.0,
+    "DebuffType": 103,
+    "DebuffIndex": 4,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2013,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 1,
+    "BuffValue": 1500.0,
+    "DebuffType": 102,
+    "DebuffIndex": 5,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2014,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 1,
+    "BuffValue": 1500.0,
+    "DebuffType": 106,
+    "DebuffIndex": 0,
+    "DebuffValue": 40.0
+  },
+  {
+    "Id": 2015,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 1,
+    "BuffValue": 1500.0,
+    "DebuffType": 107,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 2016,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 1,
+    "BuffValue": 1500.0,
+    "DebuffType": 104,
+    "DebuffIndex": 0,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2017,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 2,
+    "BuffValue": 1000.0,
+    "DebuffType": 101,
+    "DebuffIndex": 40,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2018,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 2,
+    "BuffValue": 1000.0,
+    "DebuffType": 101,
+    "DebuffIndex": 45,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2019,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 2,
+    "BuffValue": 1000.0,
+    "DebuffType": 103,
+    "DebuffIndex": 1,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2020,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 2,
+    "BuffValue": 1000.0,
+    "DebuffType": 103,
+    "DebuffIndex": 4,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2021,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 2,
+    "BuffValue": 1000.0,
+    "DebuffType": 102,
+    "DebuffIndex": 5,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2022,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 2,
+    "BuffValue": 1000.0,
+    "DebuffType": 106,
+    "DebuffIndex": 0,
+    "DebuffValue": 40.0
+  },
+  {
+    "Id": 2023,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 2,
+    "BuffValue": 1000.0,
+    "DebuffType": 107,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 2024,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 3,
+    "BuffValue": 1000.0,
+    "DebuffType": 101,
+    "DebuffIndex": 40,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2025,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 3,
+    "BuffValue": 1000.0,
+    "DebuffType": 101,
+    "DebuffIndex": 45,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2026,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 3,
+    "BuffValue": 1000.0,
+    "DebuffType": 103,
+    "DebuffIndex": 1,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2027,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 3,
+    "BuffValue": 1000.0,
+    "DebuffType": 103,
+    "DebuffIndex": 4,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2028,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 3,
+    "BuffValue": 1000.0,
+    "DebuffType": 102,
+    "DebuffIndex": 5,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2029,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 3,
+    "BuffValue": 1000.0,
+    "DebuffType": 106,
+    "DebuffIndex": 0,
+    "DebuffValue": 40.0
+  },
+  {
+    "Id": 2030,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 3,
+    "BuffValue": 1000.0,
+    "DebuffType": 107,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 2031,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 3,
+    "BuffValue": 1000.0,
+    "DebuffType": 104,
+    "DebuffIndex": 0,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2032,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 4,
+    "BuffValue": 700.0,
+    "DebuffType": 101,
+    "DebuffIndex": 40,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2033,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 4,
+    "BuffValue": 700.0,
+    "DebuffType": 101,
+    "DebuffIndex": 45,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2034,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 4,
+    "BuffValue": 700.0,
+    "DebuffType": 103,
+    "DebuffIndex": 1,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2035,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 4,
+    "BuffValue": 700.0,
+    "DebuffType": 103,
+    "DebuffIndex": 4,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2036,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 4,
+    "BuffValue": 700.0,
+    "DebuffType": 102,
+    "DebuffIndex": 5,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2037,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 4,
+    "BuffValue": 700.0,
+    "DebuffType": 106,
+    "DebuffIndex": 0,
+    "DebuffValue": 40.0
+  },
+  {
+    "Id": 2038,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 4,
+    "BuffValue": 700.0,
+    "DebuffType": 107,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 2039,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 4,
+    "BuffValue": 700.0,
+    "DebuffType": 104,
+    "DebuffIndex": 0,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2040,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 5,
+    "BuffValue": 500.0,
+    "DebuffType": 101,
+    "DebuffIndex": 40,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2041,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 5,
+    "BuffValue": 500.0,
+    "DebuffType": 101,
+    "DebuffIndex": 45,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2042,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 5,
+    "BuffValue": 500.0,
+    "DebuffType": 103,
+    "DebuffIndex": 1,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2043,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 5,
+    "BuffValue": 500.0,
+    "DebuffType": 103,
+    "DebuffIndex": 4,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2044,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 5,
+    "BuffValue": 500.0,
+    "DebuffType": 106,
+    "DebuffIndex": 0,
+    "DebuffValue": 40.0
+  },
+  {
+    "Id": 2045,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 5,
+    "BuffValue": 500.0,
+    "DebuffType": 107,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 2046,
+    "BattleType": 2,
+    "BuffType": 1,
+    "BuffIndex": 5,
+    "BuffValue": 500.0,
+    "DebuffType": 104,
+    "DebuffIndex": 0,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2047,
+    "BattleType": 2,
+    "BuffType": 3,
+    "BuffIndex": 0,
+    "BuffValue": 1000.0,
+    "DebuffType": 101,
+    "DebuffIndex": 40,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2048,
+    "BattleType": 2,
+    "BuffType": 3,
+    "BuffIndex": 0,
+    "BuffValue": 1000.0,
+    "DebuffType": 101,
+    "DebuffIndex": 45,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2049,
+    "BattleType": 2,
+    "BuffType": 3,
+    "BuffIndex": 0,
+    "BuffValue": 1000.0,
+    "DebuffType": 103,
+    "DebuffIndex": 1,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2050,
+    "BattleType": 2,
+    "BuffType": 3,
+    "BuffIndex": 0,
+    "BuffValue": 1000.0,
+    "DebuffType": 103,
+    "DebuffIndex": 4,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2051,
+    "BattleType": 2,
+    "BuffType": 3,
+    "BuffIndex": 0,
+    "BuffValue": 1000.0,
+    "DebuffType": 102,
+    "DebuffIndex": 5,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2052,
+    "BattleType": 2,
+    "BuffType": 3,
+    "BuffIndex": 0,
+    "BuffValue": 1000.0,
+    "DebuffType": 106,
+    "DebuffIndex": 0,
+    "DebuffValue": 40.0
+  },
+  {
+    "Id": 2053,
+    "BattleType": 2,
+    "BuffType": 3,
+    "BuffIndex": 0,
+    "BuffValue": 1000.0,
+    "DebuffType": 104,
+    "DebuffIndex": 0,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2054,
+    "BattleType": 2,
+    "BuffType": 5,
+    "BuffIndex": 0,
+    "BuffValue": 100.0,
+    "DebuffType": 101,
+    "DebuffIndex": 40,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2055,
+    "BattleType": 2,
+    "BuffType": 5,
+    "BuffIndex": 0,
+    "BuffValue": 100.0,
+    "DebuffType": 101,
+    "DebuffIndex": 45,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2056,
+    "BattleType": 2,
+    "BuffType": 5,
+    "BuffIndex": 0,
+    "BuffValue": 100.0,
+    "DebuffType": 103,
+    "DebuffIndex": 1,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2057,
+    "BattleType": 2,
+    "BuffType": 5,
+    "BuffIndex": 0,
+    "BuffValue": 100.0,
+    "DebuffType": 103,
+    "DebuffIndex": 4,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2058,
+    "BattleType": 2,
+    "BuffType": 5,
+    "BuffIndex": 0,
+    "BuffValue": 100.0,
+    "DebuffType": 106,
+    "DebuffIndex": 0,
+    "DebuffValue": 40.0
+  },
+  {
+    "Id": 2059,
+    "BattleType": 2,
+    "BuffType": 5,
+    "BuffIndex": 0,
+    "BuffValue": 100.0,
+    "DebuffType": 104,
+    "DebuffIndex": 0,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2060,
+    "BattleType": 2,
+    "BuffType": 7,
+    "BuffIndex": 17,
+    "BuffValue": 100.0,
+    "DebuffType": 101,
+    "DebuffIndex": 40,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2061,
+    "BattleType": 2,
+    "BuffType": 7,
+    "BuffIndex": 17,
+    "BuffValue": 100.0,
+    "DebuffType": 101,
+    "DebuffIndex": 45,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2062,
+    "BattleType": 2,
+    "BuffType": 7,
+    "BuffIndex": 17,
+    "BuffValue": 100.0,
+    "DebuffType": 103,
+    "DebuffIndex": 1,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2063,
+    "BattleType": 2,
+    "BuffType": 7,
+    "BuffIndex": 17,
+    "BuffValue": 100.0,
+    "DebuffType": 103,
+    "DebuffIndex": 4,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2064,
+    "BattleType": 2,
+    "BuffType": 7,
+    "BuffIndex": 17,
+    "BuffValue": 100.0,
+    "DebuffType": 104,
+    "DebuffIndex": 0,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2065,
+    "BattleType": 2,
+    "BuffType": 7,
+    "BuffIndex": 31,
+    "BuffValue": 400.0,
+    "DebuffType": 101,
+    "DebuffIndex": 40,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2066,
+    "BattleType": 2,
+    "BuffType": 7,
+    "BuffIndex": 31,
+    "BuffValue": 400.0,
+    "DebuffType": 101,
+    "DebuffIndex": 45,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2067,
+    "BattleType": 2,
+    "BuffType": 7,
+    "BuffIndex": 31,
+    "BuffValue": 400.0,
+    "DebuffType": 103,
+    "DebuffIndex": 1,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2068,
+    "BattleType": 2,
+    "BuffType": 7,
+    "BuffIndex": 31,
+    "BuffValue": 400.0,
+    "DebuffType": 103,
+    "DebuffIndex": 4,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2069,
+    "BattleType": 2,
+    "BuffType": 7,
+    "BuffIndex": 31,
+    "BuffValue": 400.0,
+    "DebuffType": 107,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0
+  },
+  {
+    "Id": 2070,
+    "BattleType": 2,
+    "BuffType": 7,
+    "BuffIndex": 41,
+    "BuffValue": 900.0,
+    "DebuffType": 101,
+    "DebuffIndex": 40,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2071,
+    "BattleType": 2,
+    "BuffType": 7,
+    "BuffIndex": 41,
+    "BuffValue": 900.0,
+    "DebuffType": 101,
+    "DebuffIndex": 45,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2072,
+    "BattleType": 2,
+    "BuffType": 7,
+    "BuffIndex": 41,
+    "BuffValue": 900.0,
+    "DebuffType": 103,
+    "DebuffIndex": 1,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2073,
+    "BattleType": 2,
+    "BuffType": 7,
+    "BuffIndex": 41,
+    "BuffValue": 900.0,
+    "DebuffType": 104,
+    "DebuffIndex": 0,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2074,
+    "BattleType": 2,
+    "BuffType": 7,
+    "BuffIndex": 5,
+    "BuffValue": 900.0,
+    "DebuffType": 101,
+    "DebuffIndex": 40,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2075,
+    "BattleType": 2,
+    "BuffType": 7,
+    "BuffIndex": 5,
+    "BuffValue": 900.0,
+    "DebuffType": 101,
+    "DebuffIndex": 45,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2076,
+    "BattleType": 2,
+    "BuffType": 7,
+    "BuffIndex": 5,
+    "BuffValue": 900.0,
+    "DebuffType": 103,
+    "DebuffIndex": 4,
+    "DebuffValue": 0.0
+  },
+  {
+    "Id": 2077,
+    "BattleType": 2,
+    "BuffType": 7,
+    "BuffIndex": 5,
+    "BuffValue": 900.0,
+    "DebuffType": 104,
+    "DebuffIndex": 0,
+    "DebuffValue": 0.0
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "Id": 0,
+    "PlayerPerParty": 5,
+    "FireCurrencies": [
+      6006,
+      6000
+    ],
+    "FireAmounts": [
+      10,
+      10
+    ],
+    "FireTimes": [
+      10,
+      120
+    ],
+    "FireScoreFactor": 10,
+    "SearchPointFactor": 50.0,
+    "HuntPointFactor": 2.731800079345703,
+    "GoldFactor": 0.10000000149011612,
+    "CookPoint": 1000,
+    "WyvernTracePoint": 10000,
+    "WyvernInitialPoint": 3000,
+    "NeedGuildMember": 8,
+    "SearchSettlementTime": 600
+  }
+]

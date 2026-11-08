@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6008a88",
+    "name": "OnTriggerEnter2D",
+    "declaring_type_index": "3680",
+    "declaring_type_full_name": "DropObject",
+    "native_va": "0x506f7d4",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "9963",
+    "parameter_count": "1",
+    "flags": "452",
+    "iflags": "0",
+    "slot": "5",
+    "metadata_record_offset": "0x98d88c",
+    "end_va": "0x50701d8",
+    "asm_file": "DropObject__OnTriggerEnter2D_0x6008a88.asm"
+  }
+]

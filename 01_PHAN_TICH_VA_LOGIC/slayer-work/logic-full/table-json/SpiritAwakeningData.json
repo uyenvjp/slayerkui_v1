@@ -1,0 +1,154 @@
+[
+  {
+    "Id": 1,
+    "Grade": 4,
+    "AwakenCount": 0,
+    "SpiritAwakeningType": 0,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0
+  },
+  {
+    "Id": 2,
+    "Grade": 4,
+    "AwakenCount": 1,
+    "SpiritAwakeningType": 1,
+    "AwakeningNeedCount": 2,
+    "LightShardNeedCount": 0
+  },
+  {
+    "Id": 3,
+    "Grade": 4,
+    "AwakenCount": 2,
+    "SpiritAwakeningType": 0,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0
+  },
+  {
+    "Id": 4,
+    "Grade": 4,
+    "AwakenCount": 3,
+    "SpiritAwakeningType": 1,
+    "AwakeningNeedCount": 2,
+    "LightShardNeedCount": 0
+  },
+  {
+    "Id": 5,
+    "Grade": 4,
+    "AwakenCount": 4,
+    "SpiritAwakeningType": 0,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0
+  },
+  {
+    "Id": 6,
+    "Grade": 4,
+    "AwakenCount": 5,
+    "SpiritAwakeningType": 1,
+    "AwakeningNeedCount": 3,
+    "LightShardNeedCount": 0
+  },
+  {
+    "Id": 7,
+    "Grade": 5,
+    "AwakenCount": 0,
+    "SpiritAwakeningType": 0,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0
+  },
+  {
+    "Id": 8,
+    "Grade": 5,
+    "AwakenCount": 1,
+    "SpiritAwakeningType": 1,
+    "AwakeningNeedCount": 2,
+    "LightShardNeedCount": 0
+  },
+  {
+    "Id": 9,
+    "Grade": 5,
+    "AwakenCount": 2,
+    "SpiritAwakeningType": 0,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0
+  },
+  {
+    "Id": 10,
+    "Grade": 5,
+    "AwakenCount": 3,
+    "SpiritAwakeningType": 1,
+    "AwakeningNeedCount": 2,
+    "LightShardNeedCount": 0
+  },
+  {
+    "Id": 11,
+    "Grade": 5,
+    "AwakenCount": 4,
+    "SpiritAwakeningType": 0,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0
+  },
+  {
+    "Id": 12,
+    "Grade": 5,
+    "AwakenCount": 5,
+    "SpiritAwakeningType": 1,
+    "AwakeningNeedCount": 3,
+    "LightShardNeedCount": 0
+  },
+  {
+    "Id": 13,
+    "Grade": 6,
+    "AwakenCount": 0,
+    "SpiritAwakeningType": 0,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0
+  },
+  {
+    "Id": 14,
+    "Grade": 6,
+    "AwakenCount": 1,
+    "SpiritAwakeningType": 1,
+    "AwakeningNeedCount": 2,
+    "LightShardNeedCount": 0
+  },
+  {
+    "Id": 15,
+    "Grade": 6,
+    "AwakenCount": 2,
+    "SpiritAwakeningType": 0,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0
+  },
+  {
+    "Id": 16,
+    "Grade": 6,
+    "AwakenCount": 3,
+    "SpiritAwakeningType": 1,
+    "AwakeningNeedCount": 2,
+    "LightShardNeedCount": 0
+  },
+  {
+    "Id": 17,
+    "Grade": 6,
+    "AwakenCount": 4,
+    "SpiritAwakeningType": 0,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0
+  },
+  {
+    "Id": 18,
+    "Grade": 6,
+    "AwakenCount": 5,
+    "SpiritAwakeningType": 0,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 1000
+  },
+  {
+    "Id": 19,
+    "Grade": 7,
+    "AwakenCount": 0,
+    "SpiritAwakeningType": 0,
+    "AwakeningNeedCount": 1,
+    "LightShardNeedCount": 0
+  }
+]

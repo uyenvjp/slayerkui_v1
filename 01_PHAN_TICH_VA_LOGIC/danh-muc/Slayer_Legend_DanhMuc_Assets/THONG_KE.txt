@@ -1,0 +1,9 @@
+quai_vat: 19,140
+hero_nhan_vat_skin: 18,406
+item_vat_pham: 5,877
+ui_giao_dien: 2,308
+map: 1,865
+vu_khi_trang_bi: 1,208
+hieu_ung_ky_nang: 470
+Tổng: 49274
+Đây là tên và định danh tài nguyên (chưa phải ảnh PNG). Phân loại theo quy tắc tên/bundle, có thể sai với tên viết tắt.

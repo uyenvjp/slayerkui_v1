@@ -1,0 +1,471 @@
+[
+  {
+    "Id": 0,
+    "Name": "NEWUSER_WELCOME_HASHTAG_1",
+    "RegionLock": false,
+    "LockType": 0,
+    "LockedValue": 0
+  },
+  {
+    "Id": 1,
+    "Name": "NEWUSER_WELCOME_HASHTAG_2",
+    "RegionLock": false,
+    "LockType": 0,
+    "LockedValue": 0
+  },
+  {
+    "Id": 2,
+    "Name": "NEWUSER_WELCOME_HASHTAG_3",
+    "RegionLock": false,
+    "LockType": 0,
+    "LockedValue": 0
+  },
+  {
+    "Id": 3,
+    "Name": "NEWUSER_WELCOME_HASHTAG_4",
+    "RegionLock": false,
+    "LockType": 0,
+    "LockedValue": 0
+  },
+  {
+    "Id": 4,
+    "Name": "NEWUSER_WELCOME_HASHTAG_5",
+    "RegionLock": false,
+    "LockType": 0,
+    "LockedValue": 0
+  },
+  {
+    "Id": 5,
+    "Name": "NEWUSER_WELCOME_HASHTAG_6",
+    "RegionLock": false,
+    "LockType": 0,
+    "LockedValue": 0
+  },
+  {
+    "Id": 6,
+    "Name": "NEWUSER_WELCOME_HASHTAG_7",
+    "RegionLock": true,
+    "LockType": 1,
+    "LockedValue": 1
+  },
+  {
+    "Id": 7,
+    "Name": "NEWUSER_WELCOME_HASHTAG_8",
+    "RegionLock": true,
+    "LockType": 1,
+    "LockedValue": 2
+  },
+  {
+    "Id": 8,
+    "Name": "NEWUSER_WELCOME_HASHTAG_9",
+    "RegionLock": true,
+    "LockType": 1,
+    "LockedValue": 3
+  },
+  {
+    "Id": 9,
+    "Name": "NEWUSER_WELCOME_HASHTAG_10",
+    "RegionLock": true,
+    "LockType": 2,
+    "LockedValue": 10
+  },
+  {
+    "Id": 10,
+    "Name": "NEWUSER_WELCOME_HASHTAG_11",
+    "RegionLock": false,
+    "LockType": 2,
+    "LockedValue": 50
+  },
+  {
+    "Id": 11,
+    "Name": "NEWUSER_WELCOME_HASHTAG_12",
+    "RegionLock": true,
+    "LockType": 2,
+    "LockedValue": 100
+  },
+  {
+    "Id": 12,
+    "Name": "NEWUSER_WELCOME_HASHTAG_13",
+    "RegionLock": true,
+    "LockType": 2,
+    "LockedValue": 500
+  },
+  {
+    "Id": 13,
+    "Name": "NEWUSER_WELCOME_HASHTAG_14",
+    "RegionLock": true,
+    "LockType": 2,
+    "LockedValue": 1000
+  },
+  {
+    "Id": 14,
+    "Name": "NEWUSER_WELCOME_HASHTAG_15",
+    "RegionLock": false,
+    "LockType": 3,
+    "LockedValue": 5
+  },
+  {
+    "Id": 15,
+    "Name": "NEWUSER_WELCOME_HASHTAG_16",
+    "RegionLock": true,
+    "LockType": 3,
+    "LockedValue": 10
+  },
+  {
+    "Id": 16,
+    "Name": "NEWUSER_WELCOME_HASHTAG_17",
+    "RegionLock": true,
+    "LockType": 4,
+    "LockedValue": 0
+  },
+  {
+    "Id": 17,
+    "Name": "NEWUSER_WELCOME_HASHTAG_18",
+    "RegionLock": true,
+    "LockType": 4,
+    "LockedValue": 1
+  },
+  {
+    "Id": 18,
+    "Name": "NEWUSER_WELCOME_HASHTAG_19",
+    "RegionLock": true,
+    "LockType": 4,
+    "LockedValue": 2
+  },
+  {
+    "Id": 19,
+    "Name": "NEWUSER_WELCOME_HASHTAG_20",
+    "RegionLock": true,
+    "LockType": 4,
+    "LockedValue": 3
+  },
+  {
+    "Id": 20,
+    "Name": "NEWUSER_WELCOME_HASHTAG_21",
+    "RegionLock": false,
+    "LockType": 4,
+    "LockedValue": 4
+  },
+  {
+    "Id": 21,
+    "Name": "NEWUSER_WELCOME_HASHTAG_22",
+    "RegionLock": true,
+    "LockType": 4,
+    "LockedValue": 5
+  },
+  {
+    "Id": 22,
+    "Name": "NEWUSER_WELCOME_HASHTAG_23",
+    "RegionLock": true,
+    "LockType": 5,
+    "LockedValue": 2
+  },
+  {
+    "Id": 23,
+    "Name": "NEWUSER_WELCOME_HASHTAG_24",
+    "RegionLock": true,
+    "LockType": 5,
+    "LockedValue": 3
+  },
+  {
+    "Id": 24,
+    "Name": "NEWUSER_WELCOME_HASHTAG_25",
+    "RegionLock": true,
+    "LockType": 5,
+    "LockedValue": 4
+  },
+  {
+    "Id": 25,
+    "Name": "NEWUSER_WELCOME_HASHTAG_26",
+    "RegionLock": true,
+    "LockType": 5,
+    "LockedValue": 5
+  },
+  {
+    "Id": 26,
+    "Name": "NEWUSER_WELCOME_HASHTAG_27",
+    "RegionLock": true,
+    "LockType": 6,
+    "LockedValue": 17
+  },
+  {
+    "Id": 27,
+    "Name": "NEWUSER_WELCOME_HASHTAG_28",
+    "RegionLock": true,
+    "LockType": 6,
+    "LockedValue": 4
+  },
+  {
+    "Id": 28,
+    "Name": "NEWUSER_WELCOME_HASHTAG_29",
+    "RegionLock": true,
+    "LockType": 6,
+    "LockedValue": 13
+  },
+  {
+    "Id": 29,
+    "Name": "NEWUSER_WELCOME_HASHTAG_30",
+    "RegionLock": true,
+    "LockType": 6,
+    "LockedValue": 28
+  },
+  {
+    "Id": 30,
+    "Name": "NEWUSER_WELCOME_HASHTAG_31",
+    "RegionLock": true,
+    "LockType": 6,
+    "LockedValue": 3
+  },
+  {
+    "Id": 31,
+    "Name": "NEWUSER_WELCOME_HASHTAG_32",
+    "RegionLock": true,
+    "LockType": 6,
+    "LockedValue": 9
+  },
+  {
+    "Id": 32,
+    "Name": "NEWUSER_WELCOME_HASHTAG_33",
+    "RegionLock": true,
+    "LockType": 6,
+    "LockedValue": 21
+  },
+  {
+    "Id": 33,
+    "Name": "NEWUSER_WELCOME_HASHTAG_34",
+    "RegionLock": true,
+    "LockType": 6,
+    "LockedValue": 15
+  },
+  {
+    "Id": 34,
+    "Name": "NEWUSER_WELCOME_HASHTAG_35",
+    "RegionLock": false,
+    "LockType": 7,
+    "LockedValue": 23
+  },
+  {
+    "Id": 35,
+    "Name": "NEWUSER_WELCOME_HASHTAG_36",
+    "RegionLock": true,
+    "LockType": 7,
+    "LockedValue": 24
+  },
+  {
+    "Id": 36,
+    "Name": "NEWUSER_WELCOME_HASHTAG_37",
+    "RegionLock": true,
+    "LockType": 8,
+    "LockedValue": 23
+  },
+  {
+    "Id": 37,
+    "Name": "NEWUSER_WELCOME_HASHTAG_38",
+    "RegionLock": true,
+    "LockType": 8,
+    "LockedValue": 24
+  },
+  {
+    "Id": 38,
+    "Name": "NEWUSER_WELCOME_HASHTAG_39",
+    "RegionLock": true,
+    "LockType": 9,
+    "LockedValue": 30
+  },
+  {
+    "Id": 39,
+    "Name": "NEWUSER_WELCOME_HASHTAG_40",
+    "RegionLock": true,
+    "LockType": 9,
+    "LockedValue": 70
+  },
+  {
+    "Id": 40,
+    "Name": "NEWUSER_WELCOME_HASHTAG_41",
+    "RegionLock": false,
+    "LockType": 9,
+    "LockedValue": 150
+  },
+  {
+    "Id": 41,
+    "Name": "NEWUSER_WELCOME_HASHTAG_42",
+    "RegionLock": true,
+    "LockType": 9,
+    "LockedValue": 200
+  },
+  {
+    "Id": 42,
+    "Name": "NEWUSER_WELCOME_HASHTAG_43",
+    "RegionLock": true,
+    "LockType": 9,
+    "LockedValue": 300
+  },
+  {
+    "Id": 43,
+    "Name": "NEWUSER_WELCOME_HASHTAG_44",
+    "RegionLock": true,
+    "LockType": 10,
+    "LockedValue": 20
+  },
+  {
+    "Id": 44,
+    "Name": "NEWUSER_WELCOME_HASHTAG_45",
+    "RegionLock": true,
+    "LockType": 10,
+    "LockedValue": 60
+  },
+  {
+    "Id": 45,
+    "Name": "NEWUSER_WELCOME_HASHTAG_46",
+    "RegionLock": true,
+    "LockType": 10,
+    "LockedValue": 100
+  },
+  {
+    "Id": 46,
+    "Name": "NEWUSER_WELCOME_HASHTAG_47",
+    "RegionLock": true,
+    "LockType": 11,
+    "LockedValue": 5
+  },
+  {
+    "Id": 47,
+    "Name": "NEWUSER_WELCOME_HASHTAG_48",
+    "RegionLock": true,
+    "LockType": 11,
+    "LockedValue": 10
+  },
+  {
+    "Id": 48,
+    "Name": "NEWUSER_WELCOME_HASHTAG_49",
+    "RegionLock": true,
+    "LockType": 11,
+    "LockedValue": 15
+  },
+  {
+    "Id": 49,
+    "Name": "NEWUSER_WELCOME_HASHTAG_50",
+    "RegionLock": true,
+    "LockType": 11,
+    "LockedValue": 20
+  },
+  {
+    "Id": 50,
+    "Name": "NEWUSER_WELCOME_HASHTAG_51",
+    "RegionLock": true,
+    "LockType": 12,
+    "LockedValue": 3
+  },
+  {
+    "Id": 51,
+    "Name": "NEWUSER_WELCOME_HASHTAG_52",
+    "RegionLock": false,
+    "LockType": 12,
+    "LockedValue": 5
+  },
+  {
+    "Id": 52,
+    "Name": "NEWUSER_WELCOME_HASHTAG_53",
+    "RegionLock": true,
+    "LockType": 12,
+    "LockedValue": 7
+  },
+  {
+    "Id": 53,
+    "Name": "NEWUSER_WELCOME_HASHTAG_54",
+    "RegionLock": true,
+    "LockType": 12,
+    "LockedValue": 10
+  },
+  {
+    "Id": 54,
+    "Name": "NEWUSER_WELCOME_HASHTAG_55",
+    "RegionLock": true,
+    "LockType": 13,
+    "LockedValue": 2
+  },
+  {
+    "Id": 55,
+    "Name": "NEWUSER_WELCOME_HASHTAG_56",
+    "RegionLock": true,
+    "LockType": 13,
+    "LockedValue": 3
+  },
+  {
+    "Id": 56,
+    "Name": "NEWUSER_WELCOME_HASHTAG_57",
+    "RegionLock": true,
+    "LockType": 13,
+    "LockedValue": 4
+  },
+  {
+    "Id": 57,
+    "Name": "NEWUSER_WELCOME_HASHTAG_58",
+    "RegionLock": true,
+    "LockType": 13,
+    "LockedValue": 5
+  },
+  {
+    "Id": 58,
+    "Name": "NEWUSER_WELCOME_HASHTAG_59",
+    "RegionLock": true,
+    "LockType": 14,
+    "LockedValue": 200
+  },
+  {
+    "Id": 59,
+    "Name": "NEWUSER_WELCOME_HASHTAG_60",
+    "RegionLock": false,
+    "LockType": 14,
+    "LockedValue": 500
+  },
+  {
+    "Id": 60,
+    "Name": "NEWUSER_WELCOME_HASHTAG_61",
+    "RegionLock": false,
+    "LockType": 15,
+    "LockedValue": 3
+  },
+  {
+    "Id": 61,
+    "Name": "NEWUSER_WELCOME_HASHTAG_62",
+    "RegionLock": true,
+    "LockType": 16,
+    "LockedValue": 0
+  },
+  {
+    "Id": 62,
+    "Name": "NEWUSER_WELCOME_HASHTAG_63",
+    "RegionLock": false,
+    "LockType": 17,
+    "LockedValue": 50
+  },
+  {
+    "Id": 63,
+    "Name": "NEWUSER_WELCOME_HASHTAG_64",
+    "RegionLock": false,
+    "LockType": 18,
+    "LockedValue": 0
+  },
+  {
+    "Id": 64,
+    "Name": "NEWUSER_WELCOME_HASHTAG_65",
+    "RegionLock": true,
+    "LockType": 19,
+    "LockedValue": 3
+  },
+  {
+    "Id": 65,
+    "Name": "NEWUSER_WELCOME_HASHTAG_66",
+    "RegionLock": true,
+    "LockType": 20,
+    "LockedValue": 1
+  },
+  {
+    "Id": 66,
+    "Name": "NEWUSER_WELCOME_HASHTAG_67",
+    "RegionLock": true,
+    "LockType": 20,
+    "LockedValue": 3
+  }
+]

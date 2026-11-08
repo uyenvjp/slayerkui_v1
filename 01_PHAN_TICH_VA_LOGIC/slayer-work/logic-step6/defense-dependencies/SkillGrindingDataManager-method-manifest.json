@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x600ae6a",
+    "name": "get_CurrentDmgReduce",
+    "declaring_type_index": "4810",
+    "declaring_type_full_name": "SkillGrindingDataManager",
+    "native_va": "0x53136c4",
+    "return_type_index": "81250",
+    "return_type_name": "float",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "2182",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x9d54cc",
+    "end_va": "0x5313728",
+    "asm_file": "SkillGrindingDataManager__get_CurrentDmgReduce_0x600ae6a.asm"
+  }
+]

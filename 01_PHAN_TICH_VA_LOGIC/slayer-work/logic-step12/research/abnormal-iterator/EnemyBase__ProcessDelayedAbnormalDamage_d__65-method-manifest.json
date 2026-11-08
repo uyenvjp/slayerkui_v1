@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6008f90",
+    "name": "MoveNext",
+    "declaring_type_index": "3787",
+    "declaring_type_full_name": "EnemyBase+<ProcessDelayedAbnormalDamage>d__65",
+    "native_va": "0x50beb38",
+    "return_type_index": "59073",
+    "return_type_name": "bool",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "481",
+    "iflags": "0",
+    "slot": "6",
+    "metadata_record_offset": "0x99798c",
+    "end_va": "0x50becdc",
+    "asm_file": "EnemyBase__ProcessDelayedAbnormalDamage_d__65__MoveNext_0x6008f90.asm"
+  }
+]

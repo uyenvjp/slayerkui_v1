@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 0,
+    "Grade": 0,
+    "GradeFactor": 1.0,
+    "OptionSlotCount": 0
+  },
+  {
+    "Id": 1,
+    "Grade": 1,
+    "GradeFactor": 1.2000000476837158,
+    "OptionSlotCount": 1
+  },
+  {
+    "Id": 2,
+    "Grade": 2,
+    "GradeFactor": 1.5,
+    "OptionSlotCount": 2
+  },
+  {
+    "Id": 3,
+    "Grade": 3,
+    "GradeFactor": 1.7999999523162842,
+    "OptionSlotCount": 3
+  },
+  {
+    "Id": 4,
+    "Grade": 4,
+    "GradeFactor": 2.299999952316284,
+    "OptionSlotCount": 4
+  },
+  {
+    "Id": 5,
+    "Grade": 5,
+    "GradeFactor": 3.0,
+    "OptionSlotCount": 4
+  },
+  {
+    "Id": 6,
+    "Grade": 6,
+    "GradeFactor": 0.0,
+    "OptionSlotCount": 0
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "package": "com.gear2.growslayer",
+  "version": "700.0.4",
+  "version_code": 705,
+  "native_sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+  "stage_spawn": {
+    "passed": 188,
+    "contracts": 26,
+    "native_report": "stage-spawn-native-report.json",
+    "javascript_report": "js-stage-spawn-report.json",
+    "scope": "Original mode0 death continuation, Start_MakeEnemy_Stage, MakeEnemy_Stage, StageMonsterIndex, get_enemyHp, MakeEnemy_RewardBox, StageBar_Update and Character setters. Explicit input values, pool, RNG results, Unity, image/theme setup, List.Remove/AddWithResize, and coroutine dependencies."
+  },
+  "stage_cycle": {
+    "sequences": 16,
+    "actions": 96,
+    "contract_sequences": 3,
+    "contract_actions": 18,
+    "native_report": "stage-cycle-native-report.json",
+    "javascript_report": "js-stage-cycle-report.json",
+    "scope": "Lethal hit on warm EnemyNormal -> mode0 reward box spawn -> direct EnemyBox.DeadEvent on that object -> ItemDrop -> restart factory/ctor/MoveNext -> Stage_Reset -> explicit SceneChange callback -> Stage_Restart and wave spawn. Timing and callback delivery are externally stepped. Reward effects do not credit the account."
+  },
+  "all_client_logic_analyzed": false,
+  "all_game_logic_recovered": false,
+  "native_game_executed": false,
+  "game_services_called": false,
+  "h5_building_paused": true,
+  "deployed_this_step": false,
+  "new_or_substitute_assets_created": false,
+  "limits": [
+    "Mode 0 only. Actor activation/OnEnable, pooling, Unity transforms/scheduler and RNG internals are modeled dependencies.",
+    "RewardBox death subscriber entered directly on the newly spawned box. Box hit-to-death and multicast registration are separate.",
+    "Restart iterator and selected SceneChange callback are stepped explicitly. SceneChange scheduling and restartDelay construction are outside the tested scope.",
+    "Theme application, image loading, StageFill rendering, player initialization callbacks, and logging are modeled dependencies.",
+    "Gold/EXP drop requests and StageClear telemetry do not establish account credit or progression updates."
+  ],
+  "common_native_vm_changes": [
+    "FMUL .2s by scalar lane 0, MOV .16b, unsigned UMULL, UXTW shifted ADD.",
+    "Previous corpora kept in place. Verification here uses the two new scoped corpora."
+  ],
+  "current_port_sha256": {
+    "recovered-stage-spawn.mjs": "dee5cc1f674c2978c4c39d8ec66b0d8b8bf70b56bcf4493887ade5d7cf7a16d4",
+    "verify-stage-cycle.mjs": "e83b0695d6a9c791656dbe625942080f03ff83873e6eeff06d224eab94985c48",
+    "verify-stage-spawn.mjs": "efc5d8d67e5a675ad714ab647f42774d7d2a2feaae68bb05dadebaab2aa12ce0"
+  }
+}

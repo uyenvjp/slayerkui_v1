@@ -1,0 +1,121 @@
+[
+  {
+    "Id": 1,
+    "CurrencyType": 7,
+    "CurrencyIndex": 0,
+    "Amount": 100,
+    "Rate": 100
+  },
+  {
+    "Id": 2,
+    "CurrencyType": 10,
+    "CurrencyIndex": 0,
+    "Amount": 1,
+    "Rate": 10
+  },
+  {
+    "Id": 3,
+    "CurrencyType": 3,
+    "CurrencyIndex": 0,
+    "Amount": 500,
+    "Rate": 40
+  },
+  {
+    "Id": 4,
+    "CurrencyType": 5,
+    "CurrencyIndex": 0,
+    "Amount": 500,
+    "Rate": 40
+  },
+  {
+    "Id": 5,
+    "CurrencyType": 11,
+    "CurrencyIndex": 0,
+    "Amount": 500,
+    "Rate": 40
+  },
+  {
+    "Id": 6,
+    "CurrencyType": 12,
+    "CurrencyIndex": 0,
+    "Amount": 500,
+    "Rate": 40
+  },
+  {
+    "Id": 7,
+    "CurrencyType": 4,
+    "CurrencyIndex": 0,
+    "Amount": 500,
+    "Rate": 100
+  },
+  {
+    "Id": 8,
+    "CurrencyType": 7,
+    "CurrencyIndex": 0,
+    "Amount": 200,
+    "Rate": 50
+  },
+  {
+    "Id": 9,
+    "CurrencyType": 3,
+    "CurrencyIndex": 0,
+    "Amount": 1000,
+    "Rate": 20
+  },
+  {
+    "Id": 10,
+    "CurrencyType": 5,
+    "CurrencyIndex": 0,
+    "Amount": 1000,
+    "Rate": 20
+  },
+  {
+    "Id": 11,
+    "CurrencyType": 11,
+    "CurrencyIndex": 0,
+    "Amount": 1000,
+    "Rate": 20
+  },
+  {
+    "Id": 12,
+    "CurrencyType": 12,
+    "CurrencyIndex": 0,
+    "Amount": 1000,
+    "Rate": 20
+  },
+  {
+    "Id": 13,
+    "CurrencyType": 4,
+    "CurrencyIndex": 0,
+    "Amount": 1000,
+    "Rate": 20
+  },
+  {
+    "Id": 14,
+    "CurrencyType": 18,
+    "CurrencyIndex": 0,
+    "Amount": 1,
+    "Rate": 1
+  },
+  {
+    "Id": 15,
+    "CurrencyType": 19,
+    "CurrencyIndex": 0,
+    "Amount": 1,
+    "Rate": 1
+  },
+  {
+    "Id": 16,
+    "CurrencyType": 152,
+    "CurrencyIndex": 0,
+    "Amount": 10,
+    "Rate": 10
+  },
+  {
+    "Id": 17,
+    "CurrencyType": 153,
+    "CurrencyIndex": 0,
+    "Amount": 10,
+    "Rate": 10
+  }
+]

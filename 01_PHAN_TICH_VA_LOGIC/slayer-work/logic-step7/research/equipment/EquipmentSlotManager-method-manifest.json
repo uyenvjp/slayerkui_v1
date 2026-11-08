@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6006fd2",
+    "name": "EquipmentValue",
+    "declaring_type_index": "2777",
+    "declaring_type_full_name": "EquipmentSlotManager",
+    "native_va": "0x4e9af74",
+    "return_type_index": "70978",
+    "return_type_name": "long",
+    "parameter_start": "6657",
+    "parameter_count": "2",
+    "flags": "134",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x9581cc",
+    "end_va": "0x4e9b0a8",
+    "asm_file": "EquipmentSlotManager__EquipmentValue_0x6006fd2.asm"
+  }
+]

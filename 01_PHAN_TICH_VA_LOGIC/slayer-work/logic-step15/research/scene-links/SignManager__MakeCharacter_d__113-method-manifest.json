@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x600aaab",
+    "name": "MoveNext",
+    "declaring_type_index": "4699",
+    "declaring_type_full_name": "SignManager+<MakeCharacter>d__113",
+    "native_va": "0x52a8d48",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "481",
+    "iflags": "0",
+    "slot": "4",
+    "metadata_record_offset": "0x9cdcec",
+    "end_va": "0x52a97e8",
+    "asm_file": "SignManager__MakeCharacter_d__113__MoveNext_0x600aaab.asm"
+  }
+]

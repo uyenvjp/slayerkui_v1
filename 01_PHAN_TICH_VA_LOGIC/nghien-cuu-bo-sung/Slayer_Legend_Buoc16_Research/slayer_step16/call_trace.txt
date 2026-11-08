@@ -1,0 +1,75 @@
+
+### UserInfoLoadEquipment.LoadEquipmentState 0x522e574 0x522e6f4 length 0x180
+  0x522e5fc => 0x46dbfdc | Liapp.SecureVariable.LiappSecureInt.op_Implicit
+  0x522e638 => 0x46dbfdc | Liapp.SecureVariable.LiappSecureInt.op_Implicit
+  0x522e670 => 0x46dbfdc | Liapp.SecureVariable.LiappSecureInt.op_Implicit
+ WRITE? 522e6a8:      	str	w9, [x19, #0x568]
+  0x522e6ac => 0x46dbfdc | Liapp.SecureVariable.LiappSecureInt.op_Implicit
+  0x522e6dc => 0x5226dd0 | UserInfoLoad.DebugLoad
+
+### APIManager.ChangeSkinData 0x50c943c 0x50c9620 length 0x1e4
+  0x50c9510 => 0x4814860 | APIManager+<>c__DisplayClass91_0..ctor
+  0x50c9540 => 0x896dbbc | GrowSlayer.ChangeSkinDataRequest..ctor
+  0x50c9598 => 0x4d462a0 | DatabaseManager.UseCurrency
+  0x50c9618 => 0x50c1a44 | APIManager.AddRequest
+
+### SkinManager.Button_CharacterChange_Confirm 0x5369550 0x5369794 length 0x244
+  0x53695fc => 0x9a03bd4 | UnityEngine.GameObject.SetActive
+  0x5369610 => 0x4d475ec | DatabaseManager.DiaCheck
+ WRITE? 536963c:      	str	w11, [x8, #0x568]
+  0x536964c => 0x491567c | STR.get_CHAR_CHANGE_COMPLETE
+  0x5369668 => 0x535e1ac | SkinManager.Skin_Apply
+  0x5369674 => 0x535e654 | SkinManager.Weapon_Apply
+  0x5369688 => 0x9a03bd4 | UnityEngine.GameObject.SetActive
+  0x5369690 => 0x472e9c0 | Gear2Framework.UI.PopupManager.get_Instance
+  0x53696e0 => 0x472e9c0 | Gear2Framework.UI.PopupManager.get_Instance
+  0x53696fc => 0x47a4050 | Gear2.GrowSlayer.Logging.KinesisLog.get_Instance
+  0x5369718 => 0x47aa89c | Gear2.GrowSlayer.Logging.KinesisLog.GenderChange
+  0x5369780 => 0x50c943c | APIManager.ChangeSkinData
+
+### SkinManager.CharacterDisplay_Setting 0x535eb2c 0x535ecc4 length 0x198
+  0x535ebb0 => 0x4d4b3c8 | DatabaseManager.get_Skin_HairColor
+  0x535ebcc => 0x4d4af68 | DatabaseManager.get_HairBleach
+  0x535ec60 => 0x5348364 | CharacterDisplay.DisplaySetting
+  0x535ec78 => 0x535ecc4 | SkinManager.GetMyOriginalSkinData
+  0x535ec94 => 0x5349880 | CharacterDisplay.DisplaySetting_PlayerInagmeSkinData
+  0x535ec9c => 0x535ed20 | SkinManager.get_CharacterDisplay_Try
+  0x535ecbc => 0x5349880 | CharacterDisplay.DisplaySetting_PlayerInagmeSkinData
+
+### SkinManager.GetMyOriginalSkinData 0x535ecc4 0x535ed20 length 0x5c
+  0x535ed08 => 0x4d4bc84 | DatabaseManager.BuildUserAppearanceInfo
+  0x535ed18 => 0x535ed70 | SkinManager.GetUserSkinData
+
+### DatabaseManager.BuildUserAppearanceInfo 0x4d4bc84 0x4d4c304 length 0x680
+  0x4d4bd88 => 0x8bbebfc | GrowSlayer.SkinData..ctor
+  0x4d4bd9c => 0x4d4a84c | DatabaseManager.get_UsingSkin
+  0x4d4bdac => 0x4d4af68 | DatabaseManager.get_HairBleach
+  0x4d4bdbc => 0x4d4a804 | DatabaseManager.get_UsingSkin_Weapon
+  0x4d4bdec => 0x8bc0764 | GrowSlayer.Skin..ctor
+  0x4d4bdfc => 0x4d4b038 | DatabaseManager.get_Skin_BodyIndex
+  0x4d4be34 => 0x8bc0764 | GrowSlayer.Skin..ctor
+  0x4d4be48 => 0x4d4b168 | DatabaseManager.get_Skin_FaceIndex
+  0x4d4be78 => 0x8bc0764 | GrowSlayer.Skin..ctor
+  0x4d4be8c => 0x4d4b304 | DatabaseManager.get_Skin_HairIndex
+  0x4d4bebc => 0x8bc0764 | GrowSlayer.Skin..ctor
+  0x4d4bed0 => 0x4d4b3c8 | DatabaseManager.get_Skin_HairColor
+  0x4d4bf00 => 0x8bc0764 | GrowSlayer.Skin..ctor
+  0x4d4bf14 => 0x4d4b564 | DatabaseManager.get_Skin_HatIndex
+  0x4d4bf44 => 0x8bc0764 | GrowSlayer.Skin..ctor
+  0x4d4bf58 => 0x4d4ab28 | DatabaseManager.get_Skin_CostumeIndex
+  0x4d4bf88 => 0x8bc0764 | GrowSlayer.Skin..ctor
+  0x4d4bf9c => 0x4d4acac | DatabaseManager.get_Skin_FaceDecoIndex
+  0x4d4bfcc => 0x8bc0764 | GrowSlayer.Skin..ctor
+  0x4d4bfe0 => 0x4d4ad04 | DatabaseManager.get_Skin_EarringIndex
+  0x4d4c010 => 0x8bc0764 | GrowSlayer.Skin..ctor
+  0x4d4c024 => 0x4d4ad5c | DatabaseManager.get_Skin_BeastIndex
+  0x4d4c054 => 0x8bc0764 | GrowSlayer.Skin..ctor
+  0x4d4c068 => 0x4d4adb4 | DatabaseManager.get_Skin_Lens
+  0x4d4c0d8 => 0x8a8f45c | GrowSlayer.EquipmentState..ctor
+  0x4d4c0f8 => 0x46e2dcc | Liapp.SecureVariable.LiappSecureInt.op_Implicit
+  0x4d4c120 => 0x46e2dcc | Liapp.SecureVariable.LiappSecureInt.op_Implicit
+  0x4d4c1d8 => 0x46e2dcc | Liapp.SecureVariable.LiappSecureInt.op_Implicit
+  0x4d4c23c => 0x46e2dcc | Liapp.SecureVariable.LiappSecureInt.op_Implicit
+  0x4d4c25c => 0x4d4c304 | DatabaseManager.get_IsEventBuffAppearanceOn
+  0x4d4c298 => 0x4d4c36c | DatabaseManager.get_EventType
+  0x4d4c2c4 => 0x46e2dcc | Liapp.SecureVariable.LiappSecureInt.op_Implicit

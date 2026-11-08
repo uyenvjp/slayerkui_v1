@@ -1,0 +1,84 @@
+[
+  {
+    "start_go": 3317,
+    "hierarchy": [
+      {
+        "transform_pathid": 5616,
+        "go": 3317,
+        "name": "PlayerInGameDisplay_Animation",
+        "parent_transform": 5985,
+        "bytes_read": 128,
+        "object_size": 128
+      },
+      {
+        "transform_pathid": 5985,
+        "go": 4228,
+        "name": "PlayerInGameDisplay",
+        "parent_transform": 5627,
+        "bytes_read": 104,
+        "object_size": 104
+      },
+      {
+        "transform_pathid": 5627,
+        "go": 4752,
+        "name": "PlayerNpc",
+        "parent_transform": 5337,
+        "bytes_read": 80,
+        "object_size": 80
+      },
+      {
+        "transform_pathid": 5337,
+        "go": 2955,
+        "name": "Pos",
+        "parent_transform": 5799,
+        "bytes_read": 392,
+        "object_size": 392
+      },
+      {
+        "transform_pathid": 5799,
+        "go": 3832,
+        "name": "CampaignTimeLineManager",
+        "parent_transform": 0,
+        "bytes_read": 80,
+        "object_size": 80
+      }
+    ]
+  },
+  {
+    "start_go": 3757,
+    "hierarchy": [
+      {
+        "transform_pathid": 5396,
+        "go": 3757,
+        "name": "PlayerInGameDisplay_Animation",
+        "parent_transform": 6063,
+        "bytes_read": 128,
+        "object_size": 128
+      },
+      {
+        "transform_pathid": 6063,
+        "go": 3634,
+        "name": "PlayerInGameDisplay",
+        "parent_transform": 6057,
+        "bytes_read": 104,
+        "object_size": 104
+      },
+      {
+        "transform_pathid": 6057,
+        "go": 4694,
+        "name": "PlayerPos",
+        "parent_transform": 7311,
+        "bytes_read": 80,
+        "object_size": 80
+      },
+      {
+        "transform_pathid": 7311,
+        "go": 4796,
+        "name": "BeastSkillGolem",
+        "parent_transform": 0,
+        "bytes_read": 128,
+        "object_size": 128
+      }
+    ]
+  }
+]

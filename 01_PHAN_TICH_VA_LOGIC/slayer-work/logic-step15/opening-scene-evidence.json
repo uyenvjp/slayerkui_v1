@@ -1,0 +1,949 @@
+{
+  "apk": "com.gear2.growslayer.apk",
+  "scene_files": [
+    {
+      "file": "level0",
+      "build_index": 0,
+      "scene_path": "Assets/A_CALGON/SignIn.unity",
+      "unity": "6000.3.10f1",
+      "object_count": 3188,
+      "sha256": "6bf0e96cd0c396380b2008d0a1049029d8129c62f3c714056f0ce53d17a79241",
+      "external_files": [
+        "globalgamemanagers.assets",
+        "sharedassets0.assets",
+        "Library/unity default resources"
+      ],
+      "class_counts": {
+        "1": 674,
+        "4": 42,
+        "20": 1,
+        "81": 1,
+        "95": 57,
+        "104": 1,
+        "157": 1,
+        "196": 1,
+        "198": 15,
+        "199": 15,
+        "222": 603,
+        "223": 5,
+        "224": 632,
+        "225": 2,
+        "114": 1138
+      }
+    },
+    {
+      "file": "level1",
+      "build_index": 1,
+      "scene_path": "Assets/A_CALGON/GearMain_RPG.unity",
+      "unity": "6000.3.10f1",
+      "object_count": 175594,
+      "sha256": "02da65efd79868824434e2f87e3e799fe392c3917c6e29151d0d7d887f9a46cb",
+      "external_files": [
+        "globalgamemanagers.assets",
+        "a36b7719ff0465b42ab1407d67672c5f",
+        "279657edc397ece4b8029c727adf6ddc",
+        "7aad8c583ef292e48b06af0d1f2fab97",
+        "677cca399782dea41aedc1d292ecb67d",
+        "74087f6d03f233e4a8a142fa01f9e5cf",
+        "sharedassets1.assets",
+        "474404de0acf5c44397b2c0805bcd424",
+        "sharedassets0.assets",
+        "eba8f41d8573c2343a580dfc3dd9171c",
+        "1c5649a729ee0144e973335b6b4bf301",
+        "9bf26a0c3c52b424392078696ade21f0",
+        "67debe02211d9fb44968c217c3491756",
+        "745b78d186a27d14fa6981e87b4d49bb",
+        "def39fba5f6dddb4783a26f71c0bab3b",
+        "06f1292239fe0bb45b5fd41f1617089b",
+        "6348be96142579b4ea1de38d9b51d257",
+        "c190a9a7751bfa04ab815a6cca31ab0a",
+        "319f4d8df964d424c9181898085f471b",
+        "5e6157037375b60458d821fa501b63eb",
+        "e7bf4645c0992f546b5ee0b72bc33f84",
+        "25730408e3d14314a9dd7c84041862cb",
+        "f6b05fc0b6fe2d84e8915b2a87791caa",
+        "1e2162249dc00674484cb73c6d3af192",
+        "e9946a7887f867b4daed0d48eab7f6c9",
+        "aa07f2ec64238df4a87dcc63c3fcd459",
+        "b2fa9dbca1a464448ad634821c111844",
+        "d8a2a508cc63217469cf999f25d326c5",
+        "c58bafb8d07e8a1449fc7cf78d5d06c2",
+        "dca44acab7ba2ed43bd6aec307ba296b",
+        "53673ec8b9e021a48abf6ba1f0d41b2b",
+        "8e176a74ec1a9c949b7f4e8768ce28ad",
+        "dd505c55d5f511c4aa455988cf390235",
+        "7e7e6bb6550d19a40bd429c9d5e5e45e",
+        "951d563aca5afbb4b8d36991855cfeb6",
+        "0dbc7e9e0f654f24088786ab784bf0dd",
+        "e0f644c0648d3e643a6272f363ef4a4e",
+        "1f0c264040b00a643ac09091863eeaa8",
+        "443709326dd53be468f58631b3327799",
+        "4daac24946e5880499b17b7085360689",
+        "02b7e57ff6773b745adf430df2d577fb",
+        "43a363c39d138e4479595495a61cd072",
+        "5c0b02524feb1af479ea4ff6f608ecf5",
+        "cee4187f4415f0041a42324e5ee17e25",
+        "9866cea148f703843859aaca807c3c39",
+        "50cfe954484fb9345980f61613027bf1",
+        "a106a6e8da3e4db449a200e8f2e1b306",
+        "a3a0a6ec52092d541bbb75a1dd1eacea",
+        "cac84a99025c28e4b9496a0189d66efa",
+        "8adb83f92ee3690469c463f7851fdb03",
+        "55915c2f5b8a9c04596e5d19aa7e35bd",
+        "8b81d66fc29c3524488774cc14b67db5",
+        "54154aa8c5a88fa458b2d9c8cd4227a4",
+        "1f11475f30b2f1e4a84cb7a4c6195af8",
+        "b0e82576e4c5b494ab21a3abcbfd3132",
+        "d7d7e980fda9da847afb57a1a4012efe",
+        "52270cddfea5cb04d860c681439aee8b",
+        "f0d46a27f93ca91438e0a1fba939af9e",
+        "ceb9a65fe01f07648a0fd99d33a7d1be",
+        "0c56f38fc8119024db10900d04ae9241",
+        "debbbda474b0c9140afc8a6c6629797a",
+        "cf02bc22d7a9f4e408f2843cbe230d84",
+        "0f2b85107cb1ba944b7069579cf70dac",
+        "0c98dece514c62a46acb2991002cbf4d",
+        "2f32f47e16141e440b77ad5c3b283798",
+        "84d898e01c1f6e9409bea6321042a9cf",
+        "376d82c17df93e441a66d42860484091",
+        "b990a1f9f84606c4ca006c841df59428",
+        "3616a315b00e3cb4c8185973e93da0e2",
+        "fb7d1b8ab2071764bae52b350f629790",
+        "41132454d6ced5d4a8b5fd30dedfbd6f",
+        "8c8ec7f6096f3654989f118bd767030d",
+        "Library/unity default resources",
+        "e7fe11975de57684b9f8d7d9ccfdaae6",
+        "35090fbfb69acca42b7f957c77119349",
+        "e886185bff410b84fa34b22a2dc8fbb7",
+        "cdd7228b39c07dc48a7a8667d55dcb30",
+        "cca0053a37ddf9341a5dc74e7ca06bf9",
+        "3d1b9296c556c425382c2bd79ca5249d",
+        "0c3aa83657a3e4c22b4821d74fd5a4ad",
+        "1bafc7aca6a15ce4a92553883cdf5612",
+        "db09fc779bfb943a19fac36ece2de8dd",
+        "38e56bf2eab142445b49494feef54492",
+        "85455188b71fea741bd0b80cbe893384",
+        "e987fcffca0b542e78b63cbd66434e09",
+        "a058931dd3543234e94c05ced3fd8de6",
+        "719f8d52fe2e6b444b41c2f7a8fe587b",
+        "56ed3bd466b1b7046ae966a755330809",
+        "150aee38b5d848b42b75593618992bb7",
+        "b18036fb1921bf44aa1e636f1bf63a2a",
+        "7b6eb087ac199453095820f174994f6f",
+        "35b072e7a7dfe0f429bf5123cfc9a433",
+        "c7055afe68c604397887751f7278811c",
+        "b29e688b444288148ad46d4aae66cffc",
+        "31fb1039be526b1458d0533f38b7380f",
+        "f5d8584f152248a44be634dae285a37b",
+        "dc1a05fba9a6af241a25a35b4caf5e27",
+        "776677ab3818fb249adaca05f4e04545",
+        "91780cb4026f6e143a5cc29298bbaf56",
+        "b300d02085f1c924d95ed8850e49d9a5",
+        "ee04f7050e5ab49a9a8debaa96d29b0e",
+        "c1254d407233159489f0bfdd68ac2975",
+        "8eaab463d5b193d4bac66bcfcecb6745",
+        "0000000000000000f000000000000000",
+        "2519f176f474b0846b4192206a49b9c3",
+        "3d0bdb19affdc5741b6d457ee719ed02",
+        "502639bf9c7bb6c47869c6afe1a98f4b",
+        "fe8511f93a008754ab121c179e401ecf",
+        "896f702726e004bfab382c81abe9f929",
+        "a75456a9e3f0b6d4f81c84a943e9d91f",
+        "6bf0ed7914ba1a94bb8d5d3095423635",
+        "9ed3b439e394f5949806f3bbbde49892",
+        "c78b5dacb6e1a8343bb1dfe2c4161830",
+        "a976a44ca501e564bb2adee42f573b4d",
+        "8d784517dc53a6f48a9ae9297190962d",
+        "39b21a6ce6e89624d82f3baf47f6a83b",
+        "7dce0ceb2f8c02a45b374a0de357ba05",
+        "0b946fe370fd441f6a2a7e0250bb09f6",
+        "d0eac454121b83d47add4b6203289ff5",
+        "351d2e8a3eea8ab4fb1ad099404cee16",
+        "a1546aea0994f614cbc383c869b7ae2c",
+        "6f47c4356ba2d8b459315983c0da0422",
+        "6b0dc2a493f8bb1409454486570f3118",
+        "caa3428a6cc5d6f4087832d1a156b261",
+        "1ca4917bd3c03c349be94a146094906a",
+        "f88239865da4c79468e051ceb78c0317",
+        "35f5e6dc715494f44b17248eee5426bd",
+        "fcb97c6faf083ca4f978210036f3832b",
+        "ad3856a5d557c48458fae215c904d4ed",
+        "4b3a49aa01a9b68498ec6bcefde03fce",
+        "a75985570fd7c4afd929444a9f50f82d",
+        "82dbd8e3418cba140afc86fa4b355d35",
+        "128516913a7f29b4a8d3193a94475a34",
+        "1827c6f1d27f4f843b3f093269f914d3",
+        "ca337444b6f886e45bc9d467e8704977",
+        "9de00a7755526de4b80efbcc842be0b9",
+        "886ed706d2715bf46afd84bf1e20058d",
+        "f73630bd726e0dc4586eb7a4a974aff5",
+        "7743bddc696f6724982cd43065e242fc",
+        "2dc83412c9a5a964a8756aac9cedcda1",
+        "63a53a272b60c504c98095e4479c7742",
+        "239d2558b69dbce4fa9a06bf1f54d60e",
+        "c5c356b9e8c49ab43ad1fa01e9de4ffa",
+        "6b566f7bbd05f4748ba6bc13d856f3f9",
+        "4cb69c1459b34924b9a2786f51bda66b",
+        "5b27abe48ad94354ba1e35af2f39ed6b",
+        "60d24500776fa47439b220bb95264c34",
+        "b8ffb8bed9976a94397967fa22a6d5c5",
+        "c60690f436434c54fad26585e2492db8",
+        "4d8f28e9251f47847882049cbddc03f1",
+        "56e0f1c661cb9d54abe5d6efaeb0cc1b",
+        "d547fa27a5be8b440bbfd4b88660921d",
+        "04b9cd287b6bbad48a7ec51a95cb7114",
+        "ca77f29eaba934f43a78880ff220d84a",
+        "990710baf49f1504aa8297e51fac83af",
+        "b0ea5073171552c40a5b6c8f1dbfb942",
+        "9cc08a9e895bb024c9502cda77f821db",
+        "250e7ed04f6c10b4a94689c48758d04f",
+        "d4822389ccf9e90469870936de0cb47c",
+        "5c81e3cfad4d104419791c566af9b6c9",
+        "9cf0d9542c6d9b247afe83606b00c0d9",
+        "21fe322a8f984ec48866a37040dd92f3",
+        "572cb62c954778e47a0c408ae136f726",
+        "ff2ae91d7966e394fb78d58ee1895ae1",
+        "268a3bc88bfd2ec4c86800b6260c872a",
+        "8c000b814a78fac439abae10c73c0ffe",
+        "e322a54798d9dc945bcaf12be77db067",
+        "3324908d4129ceb49b784e697938b674",
+        "dc43cbff0e8dd604cbb4f5962a5503ed",
+        "aa9c08ec8a209814193c2535497100bd",
+        "f47f411743464fc42883166ea50922aa",
+        "8f7260ae490a6f64e97398d880b66e55",
+        "0078d36768ca79a40875cd64ea645092",
+        "b2c0d7901c8841a49a9df158b2f1c206",
+        "7e67e931b13bdc94c8d44d0cbd8eefa3",
+        "cba29077057148f4ab862a108bc639ba",
+        "966ae79e2dacd874aa437899866db92f",
+        "686a49eaa4b8a0a47a7abd22f49d6862",
+        "1f6efe7e7526d17459a343bd35e7e343",
+        "9f916ad21392c004fa91ea05d160d5f8",
+        "54b8502585d246249bd1f7540a8bf2b9",
+        "a9e5f9fbfb9d4c94682d4a2e3a89b6cb",
+        "4dfa628bade5ee847ac8af528925abab",
+        "e6a3ea17339dec145adfaa690a16b881",
+        "ba4babf8269591849a8e5b373232182d",
+        "7254061beb9e4b7408a41457f770248b",
+        "17c7b6f1890c5f845a3a19c0c098467b",
+        "873ddba299a4f7246ae8190d90fcbe12",
+        "c2bc11bb049257245813bcb2cfd2ce40",
+        "f28a764faae97c240b744db4fc8f19f3",
+        "49189de530949c44aa5de6b18e43c53f",
+        "eeb1e15db15a0754caaa81acf11ef320",
+        "b00860b0293f1874cbd0b5484cf14a3e",
+        "2e2dec1c5ac675243a0fe3059cb17218",
+        "f22089721fc234941af0659229d9fb50",
+        "e17fd6a46f1fdd745ab310cd3c2f544b",
+        "5e211f369feb93540b378424a68c21cd",
+        "969c1d597fb2fc247b7b5168fa625c05",
+        "c56d1dda3bf17d143b0b7f77426f6f80",
+        "948f0f408a0532d43a6847e8878d05df",
+        "3158d81aa90be6f41a5c4bf91da01f22",
+        "29dff8feee30868448fe4059da0142af",
+        "22da162d025efed4dabfb3497f26392f",
+        "f548fce35fa456a46a9d1283d1cdafa0",
+        "15b511cb47813614f880900d52d85f31",
+        "4d3ac09193be8884aab81e05f82f65b5",
+        "1d1b10ac0092c2f4ba0476b172ff33fb",
+        "2c0eddf94673d7040af118e97606f7cb",
+        "0ef32cf6d24620d44bf3c2b0a006b1ad",
+        "d95d043e8e65a9f478ee3bb5b51f3955",
+        "35b475075f8019d4093f3bd8a81d796e",
+        "68588d7d2b4283a46b5bc27789abf54e",
+        "49d428cd49ffb6240b8aad8455a75c64",
+        "194b0893c02cb584f872a1c3485de846",
+        "3ecf43996a9b6f0418255465ac371b77",
+        "324e8c04cb073da4dafc2302de2d96e1",
+        "b15da41ae0b494840ac850016b01a3e6",
+        "55c16dca8a01c3d42b3c0a692ec5b602",
+        "fa2d002c7c741bd41838b240115139c2",
+        "324dc95e92c7cca4ba10e5f8ed5b7584",
+        "7408328777bfb674dba2217839ea14d2",
+        "68905d2fbf4444e4fb322325193782c3",
+        "f76cd73fa9db2b74fb76d881d96af6f2",
+        "59f450afae2f67940a249ba7b400b055",
+        "032b220119cd7e6448c7f96cd599ba4f",
+        "cb8ee55fd85f0ea4da086f12a55c4447",
+        "a5c2f1c9b9343be439f0b1aa4e79ec36",
+        "fa13a0bcb79bcd54fb55cd8b71ad3a91",
+        "57bb59eac92a0ee4386496936f744acd",
+        "af7b1ee27c235174abcb231103ff3195",
+        "a09a116c399f0964cb291ceae0bb4f90",
+        "72d1df0893788d74b83d2173f789f970",
+        "8df7cea239b29c945ae5841aeba5596e",
+        "729b6df244105b743b7bf6ef839d393d",
+        "de32b3b994ddf3f42869b4e99838cb38",
+        "d21459b7087a8bd49a3344ba087a5ca0",
+        "91e15b40200ee204d81cd74631886035",
+        "565c242de2539c344a7386eaffd6465c",
+        "5b89ac43fe87a7c489915669c9854d84",
+        "5ca1d31c07660574dbebf6186b6aa365",
+        "56f9ad5ddb0d8744f81615f3178be12f",
+        "13c56a15625813948b2afdcb77a49778",
+        "eafab984e9063d442bbdfad49fd13a21",
+        "5c25eb2ffcc46a94ea658796c874ed1c",
+        "7dd453b9693d1ed41b3eedb8944a81c9",
+        "f871f1c05b726f54aa8625d9e3785708",
+        "f250ff552e1d8cd42990b9068e1513a7",
+        "c98c7deb185991d4282625107e38e9be",
+        "c9bdf2173b9d7b04083db55b5d21dabf",
+        "37de2d6245785cf49b9474958d64dc3e",
+        "936345f7fc3934efa8119a8700d904c7",
+        "385790e4d9bcd2a4ba5f5dd635ae1508",
+        "7cb932e15c3ec4844b601add5889445f",
+        "8c0e65f01ab962f4cab8e3062bda1d99",
+        "d535bc9594706b44cbf69163548d1e0e",
+        "068d69946dedd064ba97b6b61c2b68ce",
+        "3ec717dca5d5ae743838aadcbcded21d",
+        "7428333d875ac1f42aee3ed46ee44cf4",
+        "3db72a2282ecdd14d86c6e155313356a",
+        "c0c17249c8a11d541843ebd1db64c5b8",
+        "18db06a115eb26049897b8ebe51b791b",
+        "9d8d0bd8f1d16c54bab4bce6189a4e28",
+        "60d6521e6a65b0144a50497d1038a40f",
+        "0bbdd5fb485b95d439ad637f301ccc5b",
+        "27165c0bfc0f7e645b5a256630e048d9",
+        "94ee417d2f1485c46a1eea1a2d810d2e",
+        "94afc8c5a108c0d468ae97704503e426",
+        "62b7a8dcdf6a71c43957fee9bee206d3",
+        "053561225e1ee5f4c8477716c4013791",
+        "b6f9f55756e47c9418e897c354ac8c42",
+        "64a88112c6e854f4982ccb9dc1c0a78b",
+        "d0098abe3371fa74caa56c4885d1ed75",
+        "c5c95962b142b4444b462b01c4cdfd74",
+        "338df736c5c2ddb449b4bbff4978a439",
+        "68841fb2da5f5894fa2e96af1116ed04",
+        "fe0592695a78b744d99ed2d42b8e9f22",
+        "48da5ffb073b8f5408749615e6af179c",
+        "e4b1de940f8312045a3a1f998c139469",
+        "1894a58b7931e4f488d4832ff0f95ad2",
+        "be9716e24d9f1fe4180220b0831cd9f1",
+        "210318222394be44aa9aaae903359f7d",
+        "310c1fd02222bc54dab36b21083809b4",
+        "90d9253b34922144d9e098bfee78f527",
+        "6ce3069100ab26545b716c378b29a435",
+        "dbcef7f26d622c0408ea3ad951c3e486",
+        "2aae52228d97cca4982a3b9a156d7c6a",
+        "da020f4535476754abd8bca75898790c",
+        "733c361623ce8164a9ff52b18441666c",
+        "c880d9d389149b34290d77f13dfca9d4",
+        "0a646dadb29de404d9b909b458138ca7",
+        "b58e5197d0cb3944b8db043fd300d1b3",
+        "ade14dbc219b1054f8681b6a754a39d9",
+        "7072c0acaa0ab604186eeac87ee80ef3",
+        "ea5c17afab2b5f54ca186f4cada4ebe4",
+        "59a6d70499fd3234bb0507159b76cb99",
+        "Resources/unity_builtin_extra",
+        "dd5f55c069752b549a88b8d7a0dd68ed",
+        "a6b53a09cbae4ca4e91db2c854663032",
+        "95cbd1e268d67ca4fb7e7f7337a0a1f0",
+        "dee2be7abe9797647879c4908ffcd7e9",
+        "ae70ceb048b374d42a07d3074d4d63b7",
+        "cb79038d9c449e849869c47b8c6d611d",
+        "50c01dd7f0262ce47ab68d5b18998424",
+        "6c6c29b1687c5564299cfa9e23142985",
+        "0319169677f3fb047b1f493e90b95f6d",
+        "2a78467a5f235184b9eb62a59a9ccaab",
+        "2202b2a5f93742e44bb0e8cba8eba8bc",
+        "9d1355048d55c094c8816b2883b5adb0",
+        "06bbff120729dcf44810ab3116f55e42",
+        "2a1d4e4d4a3aeab4a89c44a0a54a3b74",
+        "1f6d14da1a33adc48ba99cc74a7b9df5",
+        "b0cf0f2a7eeb9114baa209eef5b274d3",
+        "08a477bc70a3aa145b6eba5e26939a52",
+        "8b135c302647f3c4c999e1542212cba4",
+        "399728e709ed8304584597b173ee0047",
+        "084280b2fc12d8c4d9e64c01622e26a3",
+        "4fab2cef0932b8840a940f6255a58783",
+        "47e5f48d70072b043b50e7417690b068",
+        "fd6324c44a818f441be819513bdcba55",
+        "285932017d443174baca76b745fc11c1",
+        "817d58ba167b40b4397f4b612e483b35",
+        "a8b96dba2d7dde94682aa07ddb21a4e6",
+        "2a1da1f14b463a842bcdcf1b57113ea5",
+        "c1f2e01463703e540aa62e28352c071d",
+        "52a09bdb5a2351349b1a5ae18036c87f",
+        "1bae1fb16cdcbad49a4f3308b3b04b91",
+        "d06a1cc9dbcbabc498a864a59c31304e",
+        "47c74e2966e6d644aa6af2676834331b",
+        "0453746304acecb45968c16693423b48",
+        "9b92d36970665a54a8ccfc1d92d12ecc",
+        "0af0cd2ffb81c2b4eb7ae7b85410bf9e",
+        "79247c3cab98e0142930fb5d5afb07c3",
+        "989f585af988ecd40945424cb7ef16ec",
+        "4f7f48546150772499de2f9f95aaeff9",
+        "4e0c26a58f1b79a49a70882177569541",
+        "27213712486d5ed478e8f48615327863",
+        "ad7c550c84ce6934c860b1709f530ab9",
+        "05e01afdfe421ed4c84b820717f4c8d1",
+        "8022ff81bf384d548afb9a0d05027f36",
+        "757179fc256d71c429406e190880a9ad",
+        "f1fa84465bb245e41bce46ba2857e36f",
+        "d156bae7775363a4eaf6006a3e6b43be",
+        "b6dad8e498cf9ca4591a86dd32eb5d7f",
+        "1053c2325c0b5a3408dd1c72966ad6ec",
+        "861a4736ce3572b4c9841201c14a94bd",
+        "16d443f5001d18143a8d82c5cc07bfe1",
+        "60cb0f4f94ce0be4597f62461a8f2637",
+        "2f1e3b1e31cb1e64b954f7d6a860ab1b",
+        "f24516b7858bd9a4db868dd6935d676e",
+        "7f6d5f50d7466464fb7c4c5f9b7a821e",
+        "40a8c25cf7ed1b54b9d4ed1e829f3b6c",
+        "a0c2a2bc144fb16449451d7673096c1a",
+        "c1ea583b6b29c6447b4b82be7cb688a4",
+        "61d9c67af2b33fe4d88503bf853e6d36",
+        "dcfe166f34f8eee479a7d7428cbb2e53",
+        "28466d0995d713146a7b97f7dce8d63a",
+        "3bb7f75e1ee13ba4a8e6d5896fb7aa41",
+        "c44a4cc2b3a4f3045b7113fcbc0db860"
+      ],
+      "class_counts": {
+        "21": 1,
+        "1": 40554,
+        "4": 5659,
+        "20": 2,
+        "50": 1,
+        "61": 2,
+        "81": 1,
+        "95": 8384,
+        "96": 13,
+        "104": 1,
+        "157": 1,
+        "196": 1,
+        "198": 5132,
+        "199": 5132,
+        "210": 16,
+        "212": 667,
+        "222": 30717,
+        "223": 27,
+        "224": 34895,
+        "225": 3,
+        "331": 9,
+        "850595691": 1,
+        "114": 44375
+      }
+    },
+    {
+      "file": "level2",
+      "build_index": 2,
+      "scene_path": "Assets/A_CALGON/startscene.unity",
+      "unity": "6000.3.10f1",
+      "object_count": 1826,
+      "sha256": "ab98bf355febdc8d27b055ba0d509062a8ff0ece3d679fb71147f121cf1e4c17",
+      "external_files": [
+        "globalgamemanagers.assets",
+        "sharedassets1.assets",
+        "sharedassets2.assets",
+        "sharedassets0.assets",
+        "Library/unity default resources"
+      ],
+      "class_counts": {
+        "1": 398,
+        "4": 70,
+        "20": 1,
+        "50": 1,
+        "81": 1,
+        "95": 52,
+        "104": 1,
+        "157": 1,
+        "196": 1,
+        "212": 41,
+        "222": 317,
+        "223": 4,
+        "224": 328,
+        "850595691": 1,
+        "114": 609
+      }
+    }
+  ],
+  "scene_actors": [
+    {
+      "scene": "level0",
+      "script": "SignManager",
+      "script_enabled": true,
+      "script_path_id": "2052",
+      "object": {
+        "file": "level0",
+        "path_id": "37",
+        "class_id": 1
+      },
+      "object_name": "SignManager",
+      "object_active": true
+    },
+    {
+      "scene": "level0",
+      "script": "PrologueManager",
+      "script_enabled": true,
+      "script_path_id": "2109",
+      "object": {
+        "file": "level0",
+        "path_id": "26",
+        "class_id": 1
+      },
+      "object_name": "ProloguePanel",
+      "object_active": false
+    },
+    {
+      "scene": "level0",
+      "script": "EffectManager",
+      "script_enabled": true,
+      "script_path_id": "2595",
+      "object": {
+        "file": "level0",
+        "path_id": "274",
+        "class_id": 1
+      },
+      "object_name": "EffectManager",
+      "object_active": true
+    },
+    {
+      "scene": "level1",
+      "script": "PlayerBase",
+      "script_enabled": true,
+      "script_path_id": "132796",
+      "object": {
+        "file": "level1",
+        "path_id": "6416",
+        "class_id": 1
+      },
+      "object_name": "Player",
+      "object_active": true,
+      "animators": [
+        {
+          "component": {
+            "file": "level1",
+            "path_id": "46712",
+            "class_id": 95
+          },
+          "controller": {
+            "file": "4daac24946e5880499b17b7085360689",
+            "path_id": "1",
+            "class_id": 221,
+            "name": "Animator_Players_Costume"
+          }
+        }
+      ]
+    },
+    {
+      "scene": "level1",
+      "script": "GameManager",
+      "script_enabled": true,
+      "script_path_id": "132797",
+      "object": {
+        "file": "level1",
+        "path_id": "2816",
+        "class_id": 1
+      },
+      "object_name": "GameManager",
+      "object_active": true
+    },
+    {
+      "scene": "level1",
+      "script": "TutorialManager",
+      "script_enabled": true,
+      "script_path_id": "135006",
+      "object": {
+        "file": "level1",
+        "path_id": "1522",
+        "class_id": 1
+      },
+      "object_name": "TutorialManager",
+      "object_active": true
+    },
+    {
+      "scene": "level1",
+      "script": "EffectManager",
+      "script_enabled": true,
+      "script_path_id": "143672",
+      "object": {
+        "file": "level1",
+        "path_id": "7197",
+        "class_id": 1
+      },
+      "object_name": "EffectManager",
+      "object_active": true
+    },
+    {
+      "scene": "level2",
+      "script": "OpeningManager",
+      "script_enabled": true,
+      "script_path_id": "1231",
+      "object": {
+        "file": "level2",
+        "path_id": "7",
+        "class_id": 1
+      },
+      "object_name": "OpeningManager",
+      "object_active": true
+    },
+    {
+      "scene": "level2",
+      "script": "EffectManager",
+      "script_enabled": true,
+      "script_path_id": "1336",
+      "object": {
+        "file": "level2",
+        "path_id": "74",
+        "class_id": 1
+      },
+      "object_name": "EffectManager",
+      "object_active": true
+    }
+  ],
+  "opening_managers": [
+    {
+      "file": "level2",
+      "path_id": "1231",
+      "enabled": true,
+      "owner": {
+        "file": "level2",
+        "path_id": "7",
+        "class_id": 1
+      },
+      "script": {
+        "file": "globalgamemanagers.assets",
+        "path_id": "6473",
+        "class_id": 115
+      },
+      "script_names": [
+        "OpeningManager",
+        "OpeningManager",
+        "",
+        "Assembly-CSharp"
+      ],
+      "fields": {
+        "BlackPanel": {
+          "file": "level2",
+          "path_id": "51",
+          "class_id": 1
+        },
+        "BlackPanel_Ani": {
+          "file": "level2",
+          "path_id": "478",
+          "class_id": 95
+        },
+        "PlayerObject": {
+          "file": "level2",
+          "path_id": "61",
+          "class_id": 1
+        }
+      },
+      "player_object": {
+        "name": "Player",
+        "components": [
+          {
+            "file": "level2",
+            "path_id": "442",
+            "class_id": 4
+          },
+          {
+            "file": "level2",
+            "path_id": "485",
+            "class_id": 95
+          },
+          {
+            "file": "level2",
+            "path_id": "470",
+            "class_id": 50
+          }
+        ],
+        "layer": 0,
+        "tag": 0,
+        "active": true,
+        "controller": {
+          "file": "sharedassets2.assets",
+          "path_id": "9",
+          "class_id": 91,
+          "name": "startscenePlayer",
+          "clips": [
+            {
+              "file": "sharedassets2.assets",
+              "path_id": "4",
+              "class_id": 74,
+              "name": "startscenePlayer",
+              "sprite_binding_refs": [
+                {
+                  "file": "sharedassets0.assets",
+                  "path_id": "379",
+                  "class_id": 213,
+                  "name": "slayer_01_12"
+                },
+                {
+                  "file": "sharedassets0.assets",
+                  "path_id": "935",
+                  "class_id": 213,
+                  "name": "slayer_01_13"
+                },
+                {
+                  "file": "sharedassets0.assets",
+                  "path_id": "379",
+                  "class_id": 213,
+                  "name": "slayer_01_12"
+                },
+                {
+                  "file": "sharedassets0.assets",
+                  "path_id": "935",
+                  "class_id": 213,
+                  "name": "slayer_01_13"
+                },
+                {
+                  "file": "sharedassets0.assets",
+                  "path_id": "379",
+                  "class_id": 213,
+                  "name": "slayer_01_12"
+                }
+              ]
+            },
+            {
+              "file": "sharedassets2.assets",
+              "path_id": "2",
+              "class_id": 74,
+              "name": "OpeningPlayer_walk",
+              "sprite_binding_refs": [
+                {
+                  "file": "4cb69c1459b34924b9a2786f51bda66b",
+                  "path_id": "7",
+                  "class_id": 213,
+                  "name": "slayer_01_6"
+                },
+                {
+                  "file": "4cb69c1459b34924b9a2786f51bda66b",
+                  "path_id": "13",
+                  "class_id": 213,
+                  "name": "slayer_01_7"
+                },
+                {
+                  "file": "4cb69c1459b34924b9a2786f51bda66b",
+                  "path_id": "2",
+                  "class_id": 213,
+                  "name": "slayer_01_8"
+                },
+                {
+                  "file": "4cb69c1459b34924b9a2786f51bda66b",
+                  "path_id": "14",
+                  "class_id": 213,
+                  "name": "slayer_01_9"
+                },
+                {
+                  "file": "4cb69c1459b34924b9a2786f51bda66b",
+                  "path_id": "6",
+                  "class_id": 213,
+                  "name": "slayer_01_10"
+                },
+                {
+                  "file": "4cb69c1459b34924b9a2786f51bda66b",
+                  "path_id": "3",
+                  "class_id": 213,
+                  "name": "slayer_01_11"
+                },
+                {
+                  "file": "4cb69c1459b34924b9a2786f51bda66b",
+                  "path_id": "7",
+                  "class_id": 213,
+                  "name": "slayer_01_6"
+                }
+              ]
+            },
+            {
+              "file": "sharedassets2.assets",
+              "path_id": "5",
+              "class_id": 74,
+              "name": "startscenePlayer_Death",
+              "sprite_binding_refs": [
+                {
+                  "file": "4cb69c1459b34924b9a2786f51bda66b",
+                  "path_id": "18",
+                  "class_id": 213,
+                  "name": "slayer_01_16"
+                },
+                {
+                  "file": "4cb69c1459b34924b9a2786f51bda66b",
+                  "path_id": "17",
+                  "class_id": 213,
+                  "name": "slayer_01_17"
+                },
+                {
+                  "file": "4cb69c1459b34924b9a2786f51bda66b",
+                  "path_id": "18",
+                  "class_id": 213,
+                  "name": "slayer_01_16"
+                },
+                {
+                  "file": "4cb69c1459b34924b9a2786f51bda66b",
+                  "path_id": "17",
+                  "class_id": 213,
+                  "name": "slayer_01_17"
+                },
+                {
+                  "file": "4cb69c1459b34924b9a2786f51bda66b",
+                  "path_id": "18",
+                  "class_id": 213,
+                  "name": "slayer_01_16"
+                }
+              ]
+            },
+            {
+              "file": "sharedassets2.assets",
+              "path_id": "6",
+              "class_id": 74,
+              "name": "startscenePlayer_Death_W",
+              "sprite_binding_refs": [
+                {
+                  "file": "440029e9a1e468e44ae898bcdb22dba3",
+                  "path_id": "17",
+                  "class_id": 213,
+                  "name": "slayer_02_16"
+                },
+                {
+                  "file": "440029e9a1e468e44ae898bcdb22dba3",
+                  "path_id": "9",
+                  "class_id": 213,
+                  "name": "slayer_02_17"
+                },
+                {
+                  "file": "440029e9a1e468e44ae898bcdb22dba3",
+                  "path_id": "17",
+                  "class_id": 213,
+                  "name": "slayer_02_16"
+                },
+                {
+                  "file": "440029e9a1e468e44ae898bcdb22dba3",
+                  "path_id": "9",
+                  "class_id": 213,
+                  "name": "slayer_02_17"
+                },
+                {
+                  "file": "440029e9a1e468e44ae898bcdb22dba3",
+                  "path_id": "17",
+                  "class_id": 213,
+                  "name": "slayer_02_16"
+                }
+              ]
+            },
+            {
+              "file": "sharedassets2.assets",
+              "path_id": "3",
+              "class_id": 74,
+              "name": "OpeningPlayer_walk_W",
+              "sprite_binding_refs": [
+                {
+                  "file": "440029e9a1e468e44ae898bcdb22dba3",
+                  "path_id": "18",
+                  "class_id": 213,
+                  "name": "slayer_02_6"
+                },
+                {
+                  "file": "440029e9a1e468e44ae898bcdb22dba3",
+                  "path_id": "14",
+                  "class_id": 213,
+                  "name": "slayer_02_7"
+                },
+                {
+                  "file": "440029e9a1e468e44ae898bcdb22dba3",
+                  "path_id": "15",
+                  "class_id": 213,
+                  "name": "slayer_02_8"
+                },
+                {
+                  "file": "440029e9a1e468e44ae898bcdb22dba3",
+                  "path_id": "5",
+                  "class_id": 213,
+                  "name": "slayer_02_9"
+                },
+                {
+                  "file": "440029e9a1e468e44ae898bcdb22dba3",
+                  "path_id": "16",
+                  "class_id": 213,
+                  "name": "slayer_02_10"
+                },
+                {
+                  "file": "440029e9a1e468e44ae898bcdb22dba3",
+                  "path_id": "12",
+                  "class_id": 213,
+                  "name": "slayer_02_11"
+                }
+              ]
+            },
+            {
+              "file": "sharedassets2.assets",
+              "path_id": "7",
+              "class_id": 74,
+              "name": "startscenePlayer_Idle_W",
+              "sprite_binding_refs": [
+                {
+                  "file": "sharedassets0.assets",
+                  "path_id": "373",
+                  "class_id": 213,
+                  "name": "slayer_02_12"
+                },
+                {
+                  "file": "sharedassets0.assets",
+                  "path_id": "367",
+                  "class_id": 213,
+                  "name": "slayer_02_13"
+                },
+                {
+                  "file": "sharedassets0.assets",
+                  "path_id": "373",
+                  "class_id": 213,
+                  "name": "slayer_02_12"
+                },
+                {
+                  "file": "sharedassets0.assets",
+                  "path_id": "367",
+                  "class_id": 213,
+                  "name": "slayer_02_13"
+                },
+                {
+                  "file": "sharedassets0.assets",
+                  "path_id": "373",
+                  "class_id": 213,
+                  "name": "slayer_02_12"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "sign_buttons": {
+    "ChracterChangeSlot_Woman": {
+      "object_path_id": "60",
+      "component_path_id": "2176",
+      "method": "Button_CharacterChange_Select",
+      "mode": 3,
+      "int_argument": 1
+    },
+    "Btn_Watch": {
+      "object_path_id": "74",
+      "component_path_id": "2199",
+      "method": "Button_EnterPrologue",
+      "mode": 1,
+      "int_argument": 0
+    },
+    "Btn_Confirm": {
+      "object_path_id": "125",
+      "component_path_id": "2290",
+      "method": "Button_Confirm_Character",
+      "mode": 1,
+      "int_argument": 0
+    },
+    "Btn_Skip": {
+      "object_path_id": "189",
+      "component_path_id": "2427",
+      "method": "Button_EnterGameScene",
+      "mode": 1,
+      "int_argument": 0
+    },
+    "ChracterChangeSlot_Man": {
+      "object_path_id": "234",
+      "component_path_id": "2518",
+      "method": "Button_CharacterChange_Select",
+      "mode": 3,
+      "int_argument": 0
+    }
+  },
+  "xapk_sha256": "b8c19d5fdf4da70c8c45cddf3f7e6b8a850863fd55b09b087c6d06d7001d6098"
+}

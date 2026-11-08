@@ -1,0 +1,20 @@
+{
+  "source_xapk_sha256": "b8c19d5fdf4da70c8c45cddf3f7e6b8a850863fd55b09b087c6d06d7001d6098",
+  "atlas_pngs_verified": 2,
+  "sprite_png_hashes_and_pixel_crops_verified": 55,
+  "intro_sprite_references_matched": 20,
+  "animation_override_pairs": 31,
+  "core_clips": 16,
+  "serialized_events": 70,
+  "pose_verification": {
+    "passed": 78,
+    "source": "bounded native instruction traces"
+  },
+  "partial_or_error_pose_cases": 9,
+  "evidence_sha256": {
+    "assets/slayer/manifest.json": "0a5769a33bbf0b214d1a35f911b336779964333e4185fe36b924e957c184b105",
+    "battle-animation-evidence.json": "d2534bb6f77ca2288f876be848dd500248ddb3634a9ba8f828ecc85f381435fe",
+    "player-pose-native-report.json": "5af108ae87e14d79764049b5b35d75fc698b2a9a9bedeacb402b5a850e347210",
+    "player-pose-native-vectors.json": "b08642be94d828b1cd262ee3319c205cf98be907353d68d8076a6d30617ddfc4"
+  }
+}

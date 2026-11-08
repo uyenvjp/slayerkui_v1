@@ -1,0 +1,212 @@
+[
+  {
+    "Id": 1,
+    "GuildLevel": 1,
+    "Level": 1,
+    "SkillDamageEnhanceFactor": 0,
+    "AdditionalAtkFactor": 0
+  },
+  {
+    "Id": 2,
+    "GuildLevel": 2,
+    "Level": 1,
+    "SkillDamageEnhanceFactor": 0,
+    "AdditionalAtkFactor": 0
+  },
+  {
+    "Id": 3,
+    "GuildLevel": 3,
+    "Level": 1,
+    "SkillDamageEnhanceFactor": 0,
+    "AdditionalAtkFactor": 0
+  },
+  {
+    "Id": 4,
+    "GuildLevel": 4,
+    "Level": 1,
+    "SkillDamageEnhanceFactor": 0,
+    "AdditionalAtkFactor": 0
+  },
+  {
+    "Id": 5,
+    "GuildLevel": 5,
+    "Level": 2,
+    "SkillDamageEnhanceFactor": 0,
+    "AdditionalAtkFactor": 0
+  },
+  {
+    "Id": 6,
+    "GuildLevel": 6,
+    "Level": 2,
+    "SkillDamageEnhanceFactor": 0,
+    "AdditionalAtkFactor": 0
+  },
+  {
+    "Id": 7,
+    "GuildLevel": 7,
+    "Level": 2,
+    "SkillDamageEnhanceFactor": 0,
+    "AdditionalAtkFactor": 0
+  },
+  {
+    "Id": 8,
+    "GuildLevel": 8,
+    "Level": 2,
+    "SkillDamageEnhanceFactor": 0,
+    "AdditionalAtkFactor": 0
+  },
+  {
+    "Id": 9,
+    "GuildLevel": 9,
+    "Level": 2,
+    "SkillDamageEnhanceFactor": 0,
+    "AdditionalAtkFactor": 0
+  },
+  {
+    "Id": 10,
+    "GuildLevel": 10,
+    "Level": 3,
+    "SkillDamageEnhanceFactor": 0,
+    "AdditionalAtkFactor": 0
+  },
+  {
+    "Id": 11,
+    "GuildLevel": 11,
+    "Level": 3,
+    "SkillDamageEnhanceFactor": 0,
+    "AdditionalAtkFactor": 0
+  },
+  {
+    "Id": 12,
+    "GuildLevel": 12,
+    "Level": 3,
+    "SkillDamageEnhanceFactor": 0,
+    "AdditionalAtkFactor": 0
+  },
+  {
+    "Id": 13,
+    "GuildLevel": 13,
+    "Level": 3,
+    "SkillDamageEnhanceFactor": 0,
+    "AdditionalAtkFactor": 0
+  },
+  {
+    "Id": 14,
+    "GuildLevel": 14,
+    "Level": 3,
+    "SkillDamageEnhanceFactor": 0,
+    "AdditionalAtkFactor": 0
+  },
+  {
+    "Id": 15,
+    "GuildLevel": 15,
+    "Level": 4,
+    "SkillDamageEnhanceFactor": 0,
+    "AdditionalAtkFactor": 0
+  },
+  {
+    "Id": 16,
+    "GuildLevel": 16,
+    "Level": 4,
+    "SkillDamageEnhanceFactor": 0,
+    "AdditionalAtkFactor": 0
+  },
+  {
+    "Id": 17,
+    "GuildLevel": 17,
+    "Level": 4,
+    "SkillDamageEnhanceFactor": 0,
+    "AdditionalAtkFactor": 0
+  },
+  {
+    "Id": 18,
+    "GuildLevel": 18,
+    "Level": 4,
+    "SkillDamageEnhanceFactor": 0,
+    "AdditionalAtkFactor": 0
+  },
+  {
+    "Id": 19,
+    "GuildLevel": 19,
+    "Level": 4,
+    "SkillDamageEnhanceFactor": 0,
+    "AdditionalAtkFactor": 0
+  },
+  {
+    "Id": 20,
+    "GuildLevel": 20,
+    "Level": 5,
+    "SkillDamageEnhanceFactor": 0,
+    "AdditionalAtkFactor": 300
+  },
+  {
+    "Id": 21,
+    "GuildLevel": 21,
+    "Level": 5,
+    "SkillDamageEnhanceFactor": 1,
+    "AdditionalAtkFactor": 300
+  },
+  {
+    "Id": 22,
+    "GuildLevel": 22,
+    "Level": 5,
+    "SkillDamageEnhanceFactor": 2,
+    "AdditionalAtkFactor": 300
+  },
+  {
+    "Id": 23,
+    "GuildLevel": 23,
+    "Level": 5,
+    "SkillDamageEnhanceFactor": 3,
+    "AdditionalAtkFactor": 300
+  },
+  {
+    "Id": 24,
+    "GuildLevel": 24,
+    "Level": 5,
+    "SkillDamageEnhanceFactor": 4,
+    "AdditionalAtkFactor": 300
+  },
+  {
+    "Id": 25,
+    "GuildLevel": 25,
+    "Level": 6,
+    "SkillDamageEnhanceFactor": 5,
+    "AdditionalAtkFactor": 300
+  },
+  {
+    "Id": 26,
+    "GuildLevel": 26,
+    "Level": 6,
+    "SkillDamageEnhanceFactor": 5,
+    "AdditionalAtkFactor": 350
+  },
+  {
+    "Id": 27,
+    "GuildLevel": 27,
+    "Level": 6,
+    "SkillDamageEnhanceFactor": 5,
+    "AdditionalAtkFactor": 400
+  },
+  {
+    "Id": 28,
+    "GuildLevel": 28,
+    "Level": 6,
+    "SkillDamageEnhanceFactor": 6,
+    "AdditionalAtkFactor": 400
+  },
+  {
+    "Id": 29,
+    "GuildLevel": 29,
+    "Level": 6,
+    "SkillDamageEnhanceFactor": 6,
+    "AdditionalAtkFactor": 450
+  },
+  {
+    "Id": 30,
+    "GuildLevel": 30,
+    "Level": 6,
+    "SkillDamageEnhanceFactor": 6,
+    "AdditionalAtkFactor": 500
+  }
+]

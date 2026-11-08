@@ -1,0 +1,152 @@
+[
+  {
+    "Id": 1001,
+    "Group": 1001,
+    "Name": "RANDOM_REWARD_BOX_NAME_001",
+    "Desc": "RANDOM_REWARD_BOX_DESC_001",
+    "ShowProb": true,
+    "ShowGet": true,
+    "Tip": "",
+    "Icon": "Icon/Item_Icon/RandomRewardBox1001"
+  },
+  {
+    "Id": 1002,
+    "Group": 1002,
+    "Name": "RANDOM_REWARD_BOX_NAME_002",
+    "Desc": "RANDOM_REWARD_BOX_DESC_002",
+    "ShowProb": true,
+    "ShowGet": true,
+    "Tip": "",
+    "Icon": "Icon/Item_Icon/RandomRewardBox1002"
+  },
+  {
+    "Id": 1003,
+    "Group": 1003,
+    "Name": "RANDOM_REWARD_BOX_NAME_003",
+    "Desc": "RANDOM_REWARD_BOX_DESC_003",
+    "ShowProb": true,
+    "ShowGet": true,
+    "Tip": "",
+    "Icon": "Icon/Item_Icon/RandomRewardBox1003"
+  },
+  {
+    "Id": 1004,
+    "Group": 1004,
+    "Name": "RANDOM_REWARD_BOX_NAME_004",
+    "Desc": "RANDOM_REWARD_BOX_DESC_004",
+    "ShowProb": true,
+    "ShowGet": true,
+    "Tip": "",
+    "Icon": "Icon/Item_Icon/RandomRewardBox1004"
+  },
+  {
+    "Id": 1005,
+    "Group": 1005,
+    "Name": "RANDOM_REWARD_BOX_NAME_005",
+    "Desc": "RANDOM_REWARD_BOX_DESC_005",
+    "ShowProb": true,
+    "ShowGet": true,
+    "Tip": "",
+    "Icon": "Icon/Item_Icon/RandomRewardBox1005"
+  },
+  {
+    "Id": 1006,
+    "Group": 1006,
+    "Name": "RANDOM_REWARD_BOX_NAME_006",
+    "Desc": "RANDOM_REWARD_BOX_DESC_006",
+    "ShowProb": true,
+    "ShowGet": true,
+    "Tip": "",
+    "Icon": "Icon/Item_Icon/RandomRewardBox1006"
+  },
+  {
+    "Id": 1007,
+    "Group": 1007,
+    "Name": "RANDOM_REWARD_BOX_NAME_007",
+    "Desc": "RANDOM_REWARD_BOX_DESC_007",
+    "ShowProb": true,
+    "ShowGet": true,
+    "Tip": "",
+    "Icon": "Icon/Item_Icon/RandomRewardBox1007"
+  },
+  {
+    "Id": 1008,
+    "Group": 1008,
+    "Name": "RANDOM_REWARD_BOX_NAME_008",
+    "Desc": "RANDOM_REWARD_BOX_DESC_008",
+    "ShowProb": false,
+    "ShowGet": true,
+    "Tip": "",
+    "Icon": "Icon/Item_Icon/RandomRewardBox1008"
+  },
+  {
+    "Id": 1009,
+    "Group": 1009,
+    "Name": "RANDOM_REWARD_BOX_NAME_009",
+    "Desc": "RANDOM_REWARD_BOX_DESC_009",
+    "ShowProb": true,
+    "ShowGet": false,
+    "Tip": "",
+    "Icon": "Icon/Item_Icon/RandomRewardBox1009"
+  },
+  {
+    "Id": 1010,
+    "Group": 1010,
+    "Name": "RANDOM_REWARD_BOX_NAME_010",
+    "Desc": "RANDOM_REWARD_BOX_DESC_010",
+    "ShowProb": false,
+    "ShowGet": true,
+    "Tip": "",
+    "Icon": "Icon/Item_Icon/RandomRewardBox1010"
+  },
+  {
+    "Id": 1011,
+    "Group": 1011,
+    "Name": "RANDOM_REWARD_BOX_NAME_011",
+    "Desc": "RANDOM_REWARD_BOX_DESC_011",
+    "ShowProb": false,
+    "ShowGet": false,
+    "Tip": "",
+    "Icon": "Icon/Item_Icon/RandomRewardBox1011"
+  },
+  {
+    "Id": 1012,
+    "Group": 1012,
+    "Name": "RANDOM_REWARD_BOX_NAME_012",
+    "Desc": "RANDOM_REWARD_BOX_DESC_012",
+    "ShowProb": false,
+    "ShowGet": true,
+    "Tip": "",
+    "Icon": "Icon/Item_Icon/RandomRewardBox1012"
+  },
+  {
+    "Id": 1013,
+    "Group": 1013,
+    "Name": "RANDOM_REWARD_BOX_NAME_013",
+    "Desc": "RANDOM_REWARD_BOX_DESC_013",
+    "ShowProb": false,
+    "ShowGet": true,
+    "Tip": "",
+    "Icon": "Icon/Item_Icon/RandomRewardBox1013"
+  },
+  {
+    "Id": 2001,
+    "Group": 2001,
+    "Name": "RANDOM_REWARD_BOX_NAME_2001",
+    "Desc": "RANDOM_REWARD_BOX_DESC_2001",
+    "ShowProb": true,
+    "ShowGet": true,
+    "Tip": "",
+    "Icon": "Icon/Item_Icon/RandomRewardBox2001"
+  },
+  {
+    "Id": 2002,
+    "Group": 2002,
+    "Name": "RANDOM_REWARD_BOX_NAME_2002",
+    "Desc": "RANDOM_REWARD_BOX_DESC_2002",
+    "ShowProb": true,
+    "ShowGet": true,
+    "Tip": "RANDOM_BOX_REWARD_TIP",
+    "Icon": "Icon/Item_Icon/RandomRewardBox2002"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "TimeFactor": 3.700000047683716,
+    "CurrencyTypes": [
+      130,
+      1
+    ],
+    "CurrencyIndex": [
+      1011,
+      0
+    ],
+    "Amounts": [
+      10,
+      30000
+    ],
+    "MaxHp": 2000000000,
+    "DeadHp": 1999980000
+  }
+]

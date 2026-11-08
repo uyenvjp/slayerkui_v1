@@ -1,0 +1,3052 @@
+[
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": -2,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          6
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": -2,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          6
+        ],
+        [
+          "sprite",
+          "body",
+          6
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": -2,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          6
+        ],
+        [
+          "sprite",
+          "body",
+          6
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": -1,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          7
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": -1,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          7
+        ],
+        [
+          "sprite",
+          "body",
+          7
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": -1,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          7
+        ],
+        [
+          "sprite",
+          "body",
+          7
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": 0,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          8
+        ],
+        [
+          "cloak",
+          12,
+          4
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": 0,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          8
+        ],
+        [
+          "sprite",
+          "body",
+          8
+        ],
+        [
+          "cloak",
+          12,
+          4
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": 0,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          8
+        ],
+        [
+          "sprite",
+          "body",
+          8
+        ],
+        [
+          "cloak",
+          12,
+          4
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": 1,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          9
+        ],
+        [
+          "cloak",
+          12,
+          5
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          1
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": 1,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          9
+        ],
+        [
+          "sprite",
+          "body",
+          9
+        ],
+        [
+          "cloak",
+          12,
+          5
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          1
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": 1,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          9
+        ],
+        [
+          "sprite",
+          "body",
+          9
+        ],
+        [
+          "cloak",
+          12,
+          5
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          1
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": 2,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          9
+        ],
+        [
+          "cloak",
+          12,
+          6
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          2
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": 2,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          9
+        ],
+        [
+          "sprite",
+          "body",
+          9
+        ],
+        [
+          "cloak",
+          12,
+          6
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          2
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": 2,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          9
+        ],
+        [
+          "sprite",
+          "body",
+          9
+        ],
+        [
+          "cloak",
+          12,
+          6
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          2
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": 3,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          9
+        ],
+        [
+          "cloak",
+          12,
+          6
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          2
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": 3,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          9
+        ],
+        [
+          "sprite",
+          "body",
+          9
+        ],
+        [
+          "cloak",
+          12,
+          6
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          2
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": 3,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          9
+        ],
+        [
+          "sprite",
+          "body",
+          9
+        ],
+        [
+          "cloak",
+          12,
+          6
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          2
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": 4,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          9
+        ],
+        [
+          "cloak",
+          12,
+          7
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": 4,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          9
+        ],
+        [
+          "sprite",
+          "body",
+          9
+        ],
+        [
+          "cloak",
+          12,
+          7
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": 4,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          9
+        ],
+        [
+          "sprite",
+          "body",
+          9
+        ],
+        [
+          "cloak",
+          12,
+          7
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": 6,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          9
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": 6,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          9
+        ],
+        [
+          "sprite",
+          "body",
+          9
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": 6,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          9
+        ],
+        [
+          "sprite",
+          "body",
+          9
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": 17,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          9
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": 17,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          9
+        ],
+        [
+          "sprite",
+          "body",
+          9
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Atk_SpriteSetting",
+      "frame": 17,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          9
+        ],
+        [
+          "sprite",
+          "body",
+          9
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Dead_SpriteSetting",
+      "frame": 0,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          7
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          2
+        ],
+        [
+          "hair",
+          0,
+          3
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Dead_SpriteSetting",
+      "frame": 0,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          7
+        ],
+        [
+          "sprite",
+          "body",
+          7
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          2
+        ],
+        [
+          "hair",
+          0,
+          3
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Dead_SpriteSetting",
+      "frame": 0,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          7
+        ],
+        [
+          "sprite",
+          "body",
+          7
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          2
+        ],
+        [
+          "hair",
+          0,
+          3
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Idle_SpriteSetting_Number",
+      "frame": 0,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          0
+        ],
+        [
+          "cloak",
+          12,
+          0
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Idle_SpriteSetting_Number",
+      "frame": 0,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          0
+        ],
+        [
+          "sprite",
+          "body",
+          0
+        ],
+        [
+          "cloak",
+          12,
+          0
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Idle_SpriteSetting_Number",
+      "frame": 0,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          31
+        ],
+        [
+          "sprite",
+          "body",
+          31
+        ],
+        [
+          "cloak",
+          12,
+          0
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Idle_SpriteSetting_Number",
+      "frame": 1,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          0
+        ],
+        [
+          "cloak",
+          12,
+          0
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Idle_SpriteSetting_Number",
+      "frame": 1,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          0
+        ],
+        [
+          "sprite",
+          "body",
+          0
+        ],
+        [
+          "cloak",
+          12,
+          0
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Idle_SpriteSetting_Number",
+      "frame": 1,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          31
+        ],
+        [
+          "sprite",
+          "body",
+          31
+        ],
+        [
+          "cloak",
+          12,
+          0
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          0
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Pause_SpriteSetting",
+      "frame": 0,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          14
+        ],
+        [
+          "cloak",
+          13,
+          11
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          3
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Pause_SpriteSetting",
+      "frame": 0,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          14
+        ],
+        [
+          "sprite",
+          "body",
+          14
+        ],
+        [
+          "cloak",
+          13,
+          11
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          3
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Pause_SpriteSetting",
+      "frame": 0,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          14
+        ],
+        [
+          "sprite",
+          "body",
+          14
+        ],
+        [
+          "cloak",
+          13,
+          11
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          3
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Stop_SpriteSetting",
+      "frame": 0,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          11
+        ],
+        [
+          "cloak",
+          14,
+          4
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          4
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Stop_SpriteSetting",
+      "frame": 0,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          11
+        ],
+        [
+          "sprite",
+          "body",
+          11
+        ],
+        [
+          "cloak",
+          14,
+          4
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          4
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Stop_SpriteSetting",
+      "frame": 0,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          11
+        ],
+        [
+          "sprite",
+          "body",
+          11
+        ],
+        [
+          "cloak",
+          14,
+          4
+        ],
+        [
+          "head",
+          0
+        ],
+        [
+          "face",
+          0
+        ],
+        [
+          "hair",
+          0,
+          4
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": -2,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [],
+      "error": "Native ArrayBounds"
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": -2,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [],
+      "error": "Native ArrayBounds"
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": -2,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [],
+      "error": "Native ArrayBounds"
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": -1,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          0
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          2
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": -1,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          0
+        ],
+        [
+          "sprite",
+          "body",
+          0
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          2
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": -1,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          0
+        ],
+        [
+          "sprite",
+          "body",
+          0
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          2
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 0,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          1
+        ],
+        [
+          "cloak",
+          13,
+          1
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          3
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 0,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          1
+        ],
+        [
+          "sprite",
+          "body",
+          1
+        ],
+        [
+          "cloak",
+          13,
+          1
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          3
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 0,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          1
+        ],
+        [
+          "sprite",
+          "body",
+          1
+        ],
+        [
+          "cloak",
+          13,
+          1
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          3
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 1,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          2
+        ],
+        [
+          "cloak",
+          13,
+          2
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          4
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 1,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          2
+        ],
+        [
+          "sprite",
+          "body",
+          2
+        ],
+        [
+          "cloak",
+          13,
+          2
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          4
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 1,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          2
+        ],
+        [
+          "sprite",
+          "body",
+          2
+        ],
+        [
+          "cloak",
+          13,
+          2
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          4
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 2,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          3
+        ],
+        [
+          "cloak",
+          13,
+          3
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          5
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 2,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          3
+        ],
+        [
+          "sprite",
+          "body",
+          3
+        ],
+        [
+          "cloak",
+          13,
+          3
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          5
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 2,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          3
+        ],
+        [
+          "sprite",
+          "body",
+          3
+        ],
+        [
+          "cloak",
+          13,
+          3
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          5
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 3,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          4
+        ],
+        [
+          "cloak",
+          13,
+          1
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          3
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 3,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          4
+        ],
+        [
+          "sprite",
+          "body",
+          4
+        ],
+        [
+          "cloak",
+          13,
+          1
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          3
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 3,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          4
+        ],
+        [
+          "sprite",
+          "body",
+          4
+        ],
+        [
+          "cloak",
+          13,
+          1
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          3
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 4,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          5
+        ],
+        [
+          "cloak",
+          13,
+          2
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          4
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 4,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          5
+        ],
+        [
+          "sprite",
+          "body",
+          5
+        ],
+        [
+          "cloak",
+          13,
+          2
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          4
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 4,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          5
+        ],
+        [
+          "sprite",
+          "body",
+          5
+        ],
+        [
+          "cloak",
+          13,
+          2
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          4
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 5,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          6
+        ],
+        [
+          "cloak",
+          13,
+          3
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          5
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 5,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          6
+        ],
+        [
+          "sprite",
+          "body",
+          6
+        ],
+        [
+          "cloak",
+          13,
+          3
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          5
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 5,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          6
+        ],
+        [
+          "sprite",
+          "body",
+          6
+        ],
+        [
+          "cloak",
+          13,
+          3
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          5
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 6,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          7
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          3
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 6,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          7
+        ],
+        [
+          "sprite",
+          "body",
+          7
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          3
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 6,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          7
+        ],
+        [
+          "sprite",
+          "body",
+          7
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          3
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 17,
+      "body_active": false,
+      "same_sprites": false,
+      "character_number": 0
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          18
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          5
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 17,
+      "body_active": true,
+      "same_sprites": false,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          18
+        ],
+        [
+          "sprite",
+          "body",
+          18
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          5
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Walk_SpriteSetting",
+      "frame": 17,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          18
+        ],
+        [
+          "sprite",
+          "body",
+          18
+        ],
+        [
+          "head",
+          1
+        ],
+        [
+          "face",
+          1
+        ],
+        [
+          "hair",
+          3,
+          5
+        ]
+      ],
+      "error": null
+    }
+  },
+  {
+    "case": {
+      "costume_length": 31,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Idle_SpriteSetting_Number",
+      "frame": 0,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [],
+      "error": "Native ArrayBounds"
+    }
+  },
+  {
+    "case": {
+      "costume_length": null,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Idle_SpriteSetting_Number",
+      "frame": 0,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [],
+      "error": "Native NullReference"
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": true,
+      "costume_present": false,
+      "event": "Animation_Idle_SpriteSetting_Number",
+      "frame": 0,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [],
+      "error": "Native NullReference"
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 64,
+      "body_present": false,
+      "costume_present": true,
+      "event": "Animation_Idle_SpriteSetting_Number",
+      "frame": 0,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          31
+        ]
+      ],
+      "error": "Native NullReference"
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": 31,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Idle_SpriteSetting_Number",
+      "frame": 0,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          31
+        ]
+      ],
+      "error": "Native ArrayBounds"
+    }
+  },
+  {
+    "case": {
+      "costume_length": 64,
+      "body_length": null,
+      "body_present": true,
+      "costume_present": true,
+      "event": "Animation_Idle_SpriteSetting_Number",
+      "frame": 0,
+      "body_active": true,
+      "same_sprites": true,
+      "character_number": 1
+    },
+    "expected": {
+      "drawn": [
+        [
+          "sprite",
+          "costume",
+          31
+        ]
+      ],
+      "error": "Native NullReference"
+    }
+  }
+]

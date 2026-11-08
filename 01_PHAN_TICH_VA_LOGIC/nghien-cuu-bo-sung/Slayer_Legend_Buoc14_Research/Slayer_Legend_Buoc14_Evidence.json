@@ -1,0 +1,279 @@
+{
+  "file_sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+  "checks_passed": 34,
+  "evidence": [
+    {
+      "kind": "BL",
+      "label": "lookup_new_user_flag",
+      "va": "0x529fab8",
+      "target": "0x543ecdc"
+    },
+    {
+      "kind": "BL",
+      "label": "confirm_selected_character",
+      "va": "0x52a4624",
+      "target": "0x52a4674"
+    },
+    {
+      "kind": "BL",
+      "label": "make_character_coroutine",
+      "va": "0x52a4754",
+      "target": "0x52a8d48"
+    },
+    {
+      "kind": "BL",
+      "label": "signup_request_constructor",
+      "va": "0x52a8f90",
+      "target": "0x8704954"
+    },
+    {
+      "kind": "BL",
+      "label": "fetch_lookup_login_response",
+      "va": "0x52a8fac",
+      "target": "0x541e6b0"
+    },
+    {
+      "kind": "BL",
+      "label": "signup_get_jwt",
+      "va": "0x52a8fb8",
+      "target": "0x543eb3c"
+    },
+    {
+      "kind": "BL",
+      "label": "signup_set_jwt",
+      "va": "0x52a8fcc",
+      "target": "0x8704bb0"
+    },
+    {
+      "kind": "BL",
+      "label": "signup_set_nickname",
+      "va": "0x52a900c",
+      "target": "0x8704d3c"
+    },
+    {
+      "kind": "BL",
+      "label": "signup_load_user_after_response",
+      "va": "0x52a946c",
+      "target": "0x5226e14"
+    },
+    {
+      "kind": "BL",
+      "label": "enter_stage_request_constructor",
+      "va": "0x50d0b9c",
+      "target": "0x8a3376c"
+    },
+    {
+      "kind": "BL",
+      "label": "select_stage_api",
+      "va": "0x53a27f8",
+      "target": "0x50d0ab4"
+    },
+    {
+      "kind": "BL",
+      "label": "enter_stage_response_code_check",
+      "va": "0x51cbf7c",
+      "target": "0x5428284"
+    },
+    {
+      "kind": "BL",
+      "label": "preview_character_display_0",
+      "va": "0x52a4408",
+      "target": "0x5348364"
+    },
+    {
+      "kind": "BL",
+      "label": "preview_character_display_1",
+      "va": "0x52a4510",
+      "target": "0x5348364"
+    },
+    {
+      "kind": "B",
+      "label": "enter_stage_queue_request",
+      "va": "0x50d0c1c",
+      "target": "0x50c1a44"
+    },
+    {
+      "kind": "str",
+      "label": "selected_character_write",
+      "va": "0x52a40c0",
+      "reg": 20,
+      "base_reg": 19,
+      "byte_offset": 216
+    },
+    {
+      "kind": "str",
+      "label": "signup_character_id_write",
+      "va": "0x52a9028",
+      "reg": 8,
+      "base_reg": 21,
+      "byte_offset": 56
+    },
+    {
+      "kind": "ldr",
+      "label": "first_preview_body_read",
+      "va": "0x52a43d0",
+      "reg": 6,
+      "base_reg": 8,
+      "byte_offset": 1412
+    },
+    {
+      "kind": "ldr",
+      "label": "first_preview_face_read",
+      "va": "0x52a43d4",
+      "reg": 5,
+      "base_reg": 8,
+      "byte_offset": 1420
+    },
+    {
+      "kind": "ldr",
+      "label": "second_preview_body_read",
+      "va": "0x52a44d4",
+      "reg": 6,
+      "base_reg": 8,
+      "byte_offset": 1456
+    },
+    {
+      "kind": "ldr",
+      "label": "second_preview_face_read",
+      "va": "0x52a44d8",
+      "reg": 5,
+      "base_reg": 8,
+      "byte_offset": 1464
+    },
+    {
+      "kind": "str",
+      "label": "stage_request_index_write",
+      "va": "0x50d0bac",
+      "reg": 19,
+      "base_reg": 20,
+      "byte_offset": 24
+    },
+    {
+      "kind": "str",
+      "label": "userdata_stage_current_set",
+      "va": "0x53eb270",
+      "reg": 1,
+      "base_reg": 0,
+      "byte_offset": 48
+    },
+    {
+      "kind": "str",
+      "label": "userdata_character_number_set",
+      "va": "0x53eba30",
+      "reg": 1,
+      "base_reg": 0,
+      "byte_offset": 532
+    },
+    {
+      "kind": "field",
+      "declaring_type": "SignManager",
+      "name": "SelectedCharacterNumber",
+      "byte_offset": 216
+    },
+    {
+      "kind": "field",
+      "declaring_type": "GrowSlayer.SignUpV2Request",
+      "name": "characterId_",
+      "byte_offset": 56
+    },
+    {
+      "kind": "field",
+      "declaring_type": "GrowSlayer.EnterStageRequest",
+      "name": "stageIndex_",
+      "byte_offset": 24
+    },
+    {
+      "kind": "field",
+      "declaring_type": "GrowSlayer.EnterStageResponse",
+      "name": "stageIndex_",
+      "byte_offset": 28
+    },
+    {
+      "kind": "field",
+      "declaring_type": "UserData",
+      "name": "<StageCurrent>k__BackingField",
+      "byte_offset": 48
+    },
+    {
+      "kind": "field",
+      "declaring_type": "UserData",
+      "name": "<CharacterNumber>k__BackingField",
+      "byte_offset": 532
+    },
+    {
+      "kind": "field",
+      "declaring_type": "DatabaseManager",
+      "name": "Skin_BodyIndex0",
+      "byte_offset": 1412
+    },
+    {
+      "kind": "field",
+      "declaring_type": "DatabaseManager",
+      "name": "Skin_FaceIndex0",
+      "byte_offset": 1420
+    },
+    {
+      "kind": "field",
+      "declaring_type": "DatabaseManager",
+      "name": "Skin_BodyIndex1",
+      "byte_offset": 1456
+    },
+    {
+      "kind": "field",
+      "declaring_type": "DatabaseManager",
+      "name": "Skin_FaceIndex1",
+      "byte_offset": 1464
+    }
+  ],
+  "method_map_samples": {
+    "0x50c1a44": [
+      "APIManager.AddRequest"
+    ],
+    "0x50d0ab4": [
+      "APIManager.EnterStage"
+    ],
+    "0x5226e14": [
+      "UserInfoLoad.Load"
+    ],
+    "0x52a4178": [
+      "SignManager.CharacterMake_On_CharacterSelect"
+    ],
+    "0x52a4674": [
+      "SignManager.MakeCharacter"
+    ],
+    "0x52a8d48": [
+      "SignManager+<MakeCharacter>d__113.MoveNext"
+    ],
+    "0x5348364": [
+      "CharacterDisplay.DisplaySetting"
+    ],
+    "0x53a2688": [
+      "StageManager.SelectStage"
+    ],
+    "0x541e6b0": [
+      "Network.NetworkHandler.get_LookupLoginResponse"
+    ],
+    "0x5428284": [
+      "Network.Request.IsValidCode"
+    ],
+    "0x543eb3c": [
+      "Integration.LookupLoginResponse.get_Jwt"
+    ],
+    "0x543ecdc": [
+      "Integration.LookupLoginResponse.get_IsNewUser"
+    ],
+    "0x8704954": [
+      "GrowSlayer.SignUpV2Request..ctor"
+    ],
+    "0x8704bb0": [
+      "GrowSlayer.SignUpV2Request.set_IntegrationJwtToken"
+    ],
+    "0x8704d3c": [
+      "GrowSlayer.SignUpV2Request.set_Nickname"
+    ],
+    "0x8a3376c": [
+      "GrowSlayer.EnterStageRequest..ctor"
+    ]
+  },
+  "scope": "static native instructions + recovered metadata maps; does not execute Unity, LIAPP runtime patches or backend"
+}

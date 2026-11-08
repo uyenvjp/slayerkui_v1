@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6008f7e",
+    "name": "MoveNext",
+    "declaring_type_index": "3784",
+    "declaring_type_full_name": "EnemyBase+<Attack_Coroutine>d__43",
+    "native_va": "0x50be5dc",
+    "return_type_index": "59073",
+    "return_type_name": "bool",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "481",
+    "iflags": "0",
+    "slot": "6",
+    "metadata_record_offset": "0x99774c",
+    "end_va": "0x50be788",
+    "asm_file": "EnemyBase__Attack_Coroutine_d__43__MoveNext_0x6008f7e.asm"
+  }
+]

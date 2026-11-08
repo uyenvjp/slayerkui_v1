@@ -1,0 +1,10 @@
+[
+  {
+    "Id": 0,
+    "ConnectNutCost": 5,
+    "ConnectPoint": 2000,
+    "MaxDispatchCount": 5,
+    "DispatchNutCost": 5,
+    "DispatchSuperNutCost": 5
+  }
+]

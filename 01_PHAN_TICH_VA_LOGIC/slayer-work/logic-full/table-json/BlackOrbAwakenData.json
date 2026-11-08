@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 1,
+    "Grade": 5,
+    "Awaken": 0,
+    "CurrencyType": [
+      45
+    ],
+    "CurrencyAmount": [
+      0
+    ],
+    "DamageAdd": 0
+  },
+  {
+    "Id": 2,
+    "Grade": 5,
+    "Awaken": 1,
+    "CurrencyType": [
+      45
+    ],
+    "CurrencyAmount": [
+      1
+    ],
+    "DamageAdd": 10
+  },
+  {
+    "Id": 3,
+    "Grade": 5,
+    "Awaken": 2,
+    "CurrencyType": [
+      45
+    ],
+    "CurrencyAmount": [
+      2
+    ],
+    "DamageAdd": 20
+  },
+  {
+    "Id": 4,
+    "Grade": 5,
+    "Awaken": 3,
+    "CurrencyType": [
+      45
+    ],
+    "CurrencyAmount": [
+      1
+    ],
+    "DamageAdd": 30
+  },
+  {
+    "Id": 5,
+    "Grade": 5,
+    "Awaken": 4,
+    "CurrencyType": [
+      45
+    ],
+    "CurrencyAmount": [
+      2
+    ],
+    "DamageAdd": 40
+  },
+  {
+    "Id": 6,
+    "Grade": 5,
+    "Awaken": 5,
+    "CurrencyType": [
+      45
+    ],
+    "CurrencyAmount": [
+      1
+    ],
+    "DamageAdd": 50
+  },
+  {
+    "Id": 7,
+    "Grade": 6,
+    "Awaken": 0,
+    "CurrencyType": [
+      45
+    ],
+    "CurrencyAmount": [
+      5
+    ],
+    "DamageAdd": 70
+  }
+]

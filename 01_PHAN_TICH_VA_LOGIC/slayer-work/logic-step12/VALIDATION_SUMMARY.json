@@ -1,0 +1,57 @@
+{
+  "package": "com.gear2.growslayer",
+  "version": "700.0.4",
+  "version_code": 705,
+  "native_sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+  "step12_bounded_cases": 494,
+  "contract_cases": 4,
+  "connected_sequences": 3,
+  "sequence_actions": 29,
+  "scoped_checks": [
+    {
+      "scope": "enemy_hit",
+      "passed": true,
+      "native_report": "enemy-hit-native-report.json",
+      "javascript_report": "js-enemy_hit-report.json",
+      "limits": "Whole GetDmg body interpreted with original MissProbability, WinType, Abnormal/Burn/Ice and both mastery numeric bodies. Explicit initialized metadata/type hierarchy, dictionary/skill/secure/account getters, RNG, Unity/sound/replay/quest fixtures. Normal/Boss/SpecialBoss modifier return values and DmgResult/death lifecycle are declared fixture boundaries, not linked or claimed recovered by this corpus. No full battle/Unity/IFix/backend parity."
+    },
+    {
+      "scope": "abnormal_queue",
+      "passed": true,
+      "native_report": "abnormal-queue-native-report.json",
+      "javascript_report": "js-abnormal_queue-report.json",
+      "limits": "Original ScheduleAbnormalAddDamage, iterator factory/constructor and ProcessDelayedAbnormalDamage.MoveNext. Critical/superCritical getters, queue/Unity active/StartCoroutine/GameDeltaTime and ExecuteAbnormalAddDamage sink explicit. Tick calls are a fixture scheduler; no claim of full executor/battle/Unity timing or GetDmg-to-scheduler end-to-end parity."
+    }
+  ],
+  "all_client_logic_analyzed": false,
+  "all_game_logic_recovered": false,
+  "native_game_executed": false,
+  "game_services_called": false,
+  "live_ifix_loaded": false,
+  "h5_building_paused": true,
+  "deployed_this_step": false,
+  "new_or_substitute_assets_created": false,
+  "common_native_vm_change": {
+    "file": "../logic-step6/tools/native_flow_vm.py",
+    "new_opcodes": [
+      "cmn",
+      "ubfx",
+      "bfxil"
+    ],
+    "tested_by": "New GetDmg range branches and packed abnormal queue flags; existing opcode behavior unchanged. UXTW indexed load is supported only in EnemyHitVM subclass.",
+    "prior_corpora_regenerated_this_step": false
+  },
+  "not_yet_linked": [
+    "GetDmg -> Normal/Boss/SpecialBoss modifiers -> DmgResult/death/loot lifecycle",
+    "GetDmg -> ScheduleAbnormalAddDamage -> ExecuteAbnormalAddDamage full chain",
+    "ExecuteAbnormalAddDamage skill1004 lookup/CalculateSkillDmg/recursive GetDmg body (static only)",
+    "Unity object liveness/scheduler, real replay and quest lifecycle"
+  ],
+  "scope_notes": "Whole GetDmg instruction body compared under explicit downstream modifier/result-return fixtures; those constants are not gameplay defaults or recovered damage rules. Original status/mastery/miss/WinType bodies are linked. Schedule/factory/iterator are separately compared with ExecuteAbnormalAddDamage as a sink; no claim of entire battle parity.",
+  "current_port_sha256": {
+    "recovered-abnormal-queue.mjs": "148cf7dbe5ff9f358aa34ca42688c79c0a348f92defeb5e6ad7ee3b33db07b37",
+    "recovered-enemy-hit.mjs": "ffb39719bc57bf7e8d30a5fc5b8dcc37f76218c3facd6e04eca918e5f194fe47",
+    "verify-abnormal-queue.mjs": "5372ba93de068b1c257ed66c7394fd42f889ab3ef61b6a3b8a1b84bb073258e9",
+    "verify-enemy-hit.mjs": "37c9de8762dabf43d045b383b228037b7e0d7435da6e83b584ca397228542fcd"
+  }
+}

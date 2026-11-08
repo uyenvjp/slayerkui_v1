@@ -1,0 +1,713 @@
+[
+  {
+    "Id": 0,
+    "level": 1,
+    "TreeGrade": 0,
+    "NeedTotalNodeUpgrade": 0,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      50,
+      10,
+      5
+    ],
+    "OpenMainNodeIndex": [
+      1
+    ],
+    "OpenSubNodeIndex": [
+      1,
+      2
+    ]
+  },
+  {
+    "Id": 1,
+    "level": 2,
+    "TreeGrade": 0,
+    "NeedTotalNodeUpgrade": 5,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      100,
+      25,
+      10
+    ],
+    "OpenMainNodeIndex": [],
+    "OpenSubNodeIndex": [
+      3,
+      4
+    ]
+  },
+  {
+    "Id": 2,
+    "level": 3,
+    "TreeGrade": 0,
+    "NeedTotalNodeUpgrade": 13,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      150,
+      45,
+      15
+    ],
+    "OpenMainNodeIndex": [],
+    "OpenSubNodeIndex": [
+      5
+    ]
+  },
+  {
+    "Id": 3,
+    "level": 3,
+    "TreeGrade": 1,
+    "NeedTotalNodeUpgrade": 16,
+    "BreakThroughWaitMinute": 360,
+    "BuffType": [
+      100,
+      101
+    ],
+    "Value": [
+      20,
+      20
+    ],
+    "OpenMainNodeIndex": [
+      2
+    ],
+    "OpenSubNodeIndex": []
+  },
+  {
+    "Id": 4,
+    "level": 4,
+    "TreeGrade": 1,
+    "NeedTotalNodeUpgrade": 16,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      100,
+      20,
+      10
+    ],
+    "OpenMainNodeIndex": [],
+    "OpenSubNodeIndex": [
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "Id": 5,
+    "level": 5,
+    "TreeGrade": 1,
+    "NeedTotalNodeUpgrade": 35,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      130,
+      30,
+      15
+    ],
+    "OpenMainNodeIndex": [
+      3
+    ],
+    "OpenSubNodeIndex": [
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  {
+    "Id": 6,
+    "level": 6,
+    "TreeGrade": 1,
+    "NeedTotalNodeUpgrade": 50,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      170,
+      50,
+      25
+    ],
+    "OpenMainNodeIndex": [
+      4
+    ],
+    "OpenSubNodeIndex": [
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "Id": 7,
+    "level": 6,
+    "TreeGrade": 2,
+    "NeedTotalNodeUpgrade": 66,
+    "BreakThroughWaitMinute": 360,
+    "BuffType": [
+      100,
+      101
+    ],
+    "Value": [
+      40,
+      40
+    ],
+    "OpenMainNodeIndex": [
+      5
+    ],
+    "OpenSubNodeIndex": []
+  },
+  {
+    "Id": 8,
+    "level": 7,
+    "TreeGrade": 2,
+    "NeedTotalNodeUpgrade": 66,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      50,
+      10,
+      5
+    ],
+    "OpenMainNodeIndex": [],
+    "OpenSubNodeIndex": [
+      18,
+      19
+    ]
+  },
+  {
+    "Id": 9,
+    "level": 8,
+    "TreeGrade": 2,
+    "NeedTotalNodeUpgrade": 71,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      100,
+      25,
+      10
+    ],
+    "OpenMainNodeIndex": [],
+    "OpenSubNodeIndex": [
+      20,
+      21
+    ]
+  },
+  {
+    "Id": 10,
+    "level": 9,
+    "TreeGrade": 2,
+    "NeedTotalNodeUpgrade": 74,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      150,
+      35,
+      20
+    ],
+    "OpenMainNodeIndex": [
+      6,
+      7
+    ],
+    "OpenSubNodeIndex": [
+      22,
+      23,
+      24,
+      26
+    ]
+  },
+  {
+    "Id": 11,
+    "level": 10,
+    "TreeGrade": 2,
+    "NeedTotalNodeUpgrade": 84,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      200,
+      50,
+      35
+    ],
+    "OpenMainNodeIndex": [],
+    "OpenSubNodeIndex": [
+      25,
+      27,
+      28,
+      29
+    ]
+  },
+  {
+    "Id": 12,
+    "level": 10,
+    "TreeGrade": 3,
+    "NeedTotalNodeUpgrade": 91,
+    "BreakThroughWaitMinute": 360,
+    "BuffType": [
+      100,
+      101
+    ],
+    "Value": [
+      60,
+      60
+    ],
+    "OpenMainNodeIndex": [
+      8,
+      9
+    ],
+    "OpenSubNodeIndex": []
+  },
+  {
+    "Id": 13,
+    "level": 11,
+    "TreeGrade": 3,
+    "NeedTotalNodeUpgrade": 91,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      100,
+      30,
+      10
+    ],
+    "OpenMainNodeIndex": [],
+    "OpenSubNodeIndex": [
+      30,
+      31,
+      34,
+      35
+    ]
+  },
+  {
+    "Id": 14,
+    "level": 12,
+    "TreeGrade": 3,
+    "NeedTotalNodeUpgrade": 103,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      200,
+      45,
+      30
+    ],
+    "OpenMainNodeIndex": [],
+    "OpenSubNodeIndex": [
+      32,
+      33,
+      36,
+      37
+    ]
+  },
+  {
+    "Id": 15,
+    "level": 13,
+    "TreeGrade": 3,
+    "NeedTotalNodeUpgrade": 107,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      300,
+      65,
+      50
+    ],
+    "OpenMainNodeIndex": [
+      10
+    ],
+    "OpenSubNodeIndex": [
+      38,
+      39,
+      40,
+      41
+    ]
+  },
+  {
+    "Id": 16,
+    "level": 13,
+    "TreeGrade": 4,
+    "NeedTotalNodeUpgrade": 115,
+    "BreakThroughWaitMinute": 360,
+    "BuffType": [
+      100,
+      101
+    ],
+    "Value": [
+      80,
+      80
+    ],
+    "OpenMainNodeIndex": [
+      11,
+      12
+    ],
+    "OpenSubNodeIndex": []
+  },
+  {
+    "Id": 17,
+    "level": 14,
+    "TreeGrade": 4,
+    "NeedTotalNodeUpgrade": 115,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      50,
+      5,
+      5
+    ],
+    "OpenMainNodeIndex": [],
+    "OpenSubNodeIndex": [
+      42,
+      43,
+      44,
+      47,
+      48,
+      49
+    ]
+  },
+  {
+    "Id": 18,
+    "level": 15,
+    "TreeGrade": 4,
+    "NeedTotalNodeUpgrade": 132,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      50,
+      15,
+      10
+    ],
+    "OpenMainNodeIndex": [
+      13,
+      14
+    ],
+    "OpenSubNodeIndex": [
+      52,
+      53,
+      57,
+      58
+    ]
+  },
+  {
+    "Id": 19,
+    "level": 16,
+    "TreeGrade": 4,
+    "NeedTotalNodeUpgrade": 145,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      100,
+      20,
+      15
+    ],
+    "OpenMainNodeIndex": [],
+    "OpenSubNodeIndex": [
+      45,
+      46,
+      50,
+      51
+    ]
+  },
+  {
+    "Id": 20,
+    "level": 17,
+    "TreeGrade": 4,
+    "NeedTotalNodeUpgrade": 154,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      100,
+      30,
+      20
+    ],
+    "OpenMainNodeIndex": [],
+    "OpenSubNodeIndex": [
+      54,
+      55,
+      59,
+      60
+    ]
+  },
+  {
+    "Id": 21,
+    "level": 18,
+    "TreeGrade": 4,
+    "NeedTotalNodeUpgrade": 165,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      150,
+      40,
+      25
+    ],
+    "OpenMainNodeIndex": [
+      15
+    ],
+    "OpenSubNodeIndex": [
+      56,
+      61,
+      62,
+      63
+    ]
+  },
+  {
+    "Id": 22,
+    "level": 19,
+    "TreeGrade": 4,
+    "NeedTotalNodeUpgrade": 172,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      250,
+      50,
+      35
+    ],
+    "OpenMainNodeIndex": [],
+    "OpenSubNodeIndex": [
+      64,
+      65,
+      66
+    ]
+  },
+  {
+    "Id": 23,
+    "level": 19,
+    "TreeGrade": 5,
+    "NeedTotalNodeUpgrade": 177,
+    "BreakThroughWaitMinute": 360,
+    "BuffType": [
+      100,
+      101
+    ],
+    "Value": [
+      100,
+      100
+    ],
+    "OpenMainNodeIndex": [
+      16
+    ],
+    "OpenSubNodeIndex": []
+  },
+  {
+    "Id": 24,
+    "level": 20,
+    "TreeGrade": 5,
+    "NeedTotalNodeUpgrade": 177,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      50,
+      5,
+      5
+    ],
+    "OpenMainNodeIndex": [],
+    "OpenSubNodeIndex": [
+      67,
+      68,
+      69,
+      70
+    ]
+  },
+  {
+    "Id": 25,
+    "level": 21,
+    "TreeGrade": 5,
+    "NeedTotalNodeUpgrade": 185,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      50,
+      15,
+      10
+    ],
+    "OpenMainNodeIndex": [
+      17
+    ],
+    "OpenSubNodeIndex": [
+      72,
+      73,
+      74
+    ]
+  },
+  {
+    "Id": 26,
+    "level": 22,
+    "TreeGrade": 5,
+    "NeedTotalNodeUpgrade": 192,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      100,
+      25,
+      15
+    ],
+    "OpenMainNodeIndex": [],
+    "OpenSubNodeIndex": [
+      71,
+      75,
+      76
+    ]
+  },
+  {
+    "Id": 27,
+    "level": 23,
+    "TreeGrade": 5,
+    "NeedTotalNodeUpgrade": 200,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      100,
+      35,
+      20
+    ],
+    "OpenMainNodeIndex": [
+      18,
+      19
+    ],
+    "OpenSubNodeIndex": [
+      77,
+      78,
+      79,
+      82,
+      83
+    ]
+  },
+  {
+    "Id": 28,
+    "level": 24,
+    "TreeGrade": 5,
+    "NeedTotalNodeUpgrade": 211,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      200,
+      45,
+      30
+    ],
+    "OpenMainNodeIndex": [
+      20
+    ],
+    "OpenSubNodeIndex": [
+      80,
+      81,
+      87,
+      88,
+      89
+    ]
+  },
+  {
+    "Id": 29,
+    "level": 25,
+    "TreeGrade": 5,
+    "NeedTotalNodeUpgrade": 221,
+    "BreakThroughWaitMinute": 0,
+    "BuffType": [
+      1,
+      2,
+      3
+    ],
+    "Value": [
+      300,
+      55,
+      40
+    ],
+    "OpenMainNodeIndex": [],
+    "OpenSubNodeIndex": [
+      84,
+      85,
+      86,
+      90,
+      91
+    ]
+  }
+]

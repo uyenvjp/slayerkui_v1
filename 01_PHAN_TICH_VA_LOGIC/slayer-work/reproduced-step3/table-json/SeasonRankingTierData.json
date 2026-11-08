@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Participants": 10,
+    "PromotionNumber": 5,
+    "DemotionNumber": 0,
+    "Name": "SEASON_RANKING_TIER_1"
+  },
+  {
+    "Id": 2,
+    "Participants": 10,
+    "PromotionNumber": 4,
+    "DemotionNumber": 3,
+    "Name": "SEASON_RANKING_TIER_2"
+  },
+  {
+    "Id": 3,
+    "Participants": 10,
+    "PromotionNumber": 4,
+    "DemotionNumber": 3,
+    "Name": "SEASON_RANKING_TIER_3"
+  },
+  {
+    "Id": 4,
+    "Participants": 10,
+    "PromotionNumber": 4,
+    "DemotionNumber": 3,
+    "Name": "SEASON_RANKING_TIER_4"
+  },
+  {
+    "Id": 5,
+    "Participants": 10,
+    "PromotionNumber": 0,
+    "DemotionNumber": 4,
+    "Name": "SEASON_RANKING_TIER_5"
+  }
+]

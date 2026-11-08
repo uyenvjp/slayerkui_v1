@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 0,
+    "Choice1RandomFactor": 0.10000000149011612,
+    "Choice2RandomFactor": 0.10000000149011612,
+    "Choice3RandomFactor": 0.10000000149011612,
+    "MaxLevel": 10,
+    "ResetNeedCurrencyType": 1,
+    "ResetNeedValue": 5000,
+    "CompanionEffectValue": 0.10000000149011612,
+    "SkipNeedStep": 3,
+    "UpgradeStepNeedClearCount": 10
+  }
+]

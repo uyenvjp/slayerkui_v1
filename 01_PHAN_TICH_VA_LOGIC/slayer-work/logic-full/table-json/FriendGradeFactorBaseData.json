@@ -1,0 +1,252 @@
+[
+  {
+    "Id": 0,
+    "Grade": 0,
+    "Factor": 0.0
+  },
+  {
+    "Id": 1,
+    "Grade": 1,
+    "Factor": 1.0
+  },
+  {
+    "Id": 2,
+    "Grade": 2,
+    "Factor": 1.2000000476837158
+  },
+  {
+    "Id": 3,
+    "Grade": 3,
+    "Factor": 1.5
+  },
+  {
+    "Id": 4,
+    "Grade": 4,
+    "Factor": 2.0
+  },
+  {
+    "Id": 5,
+    "Grade": 5,
+    "Factor": 2.700000047683716
+  },
+  {
+    "Id": 6,
+    "Grade": 6,
+    "Factor": 4.0
+  },
+  {
+    "Id": 7,
+    "Grade": 7,
+    "Factor": 5.0
+  },
+  {
+    "Id": 8,
+    "Grade": 8,
+    "Factor": 6.0
+  },
+  {
+    "Id": 9,
+    "Grade": 9,
+    "Factor": 7.0
+  },
+  {
+    "Id": 10,
+    "Grade": 10,
+    "Factor": 8.0
+  },
+  {
+    "Id": 11,
+    "Grade": 11,
+    "Factor": 9.0
+  },
+  {
+    "Id": 12,
+    "Grade": 12,
+    "Factor": 10.0
+  },
+  {
+    "Id": 13,
+    "Grade": 13,
+    "Factor": 11.0
+  },
+  {
+    "Id": 14,
+    "Grade": 14,
+    "Factor": 12.0
+  },
+  {
+    "Id": 15,
+    "Grade": 15,
+    "Factor": 13.0
+  },
+  {
+    "Id": 16,
+    "Grade": 16,
+    "Factor": 14.0
+  },
+  {
+    "Id": 17,
+    "Grade": 17,
+    "Factor": 15.0
+  },
+  {
+    "Id": 18,
+    "Grade": 18,
+    "Factor": 16.0
+  },
+  {
+    "Id": 19,
+    "Grade": 19,
+    "Factor": 17.0
+  },
+  {
+    "Id": 20,
+    "Grade": 20,
+    "Factor": 18.0
+  },
+  {
+    "Id": 21,
+    "Grade": 21,
+    "Factor": 19.0
+  },
+  {
+    "Id": 22,
+    "Grade": 22,
+    "Factor": 20.0
+  },
+  {
+    "Id": 23,
+    "Grade": 23,
+    "Factor": 21.0
+  },
+  {
+    "Id": 24,
+    "Grade": 24,
+    "Factor": 22.0
+  },
+  {
+    "Id": 25,
+    "Grade": 25,
+    "Factor": 23.0
+  },
+  {
+    "Id": 26,
+    "Grade": 26,
+    "Factor": 24.0
+  },
+  {
+    "Id": 27,
+    "Grade": 27,
+    "Factor": 25.0
+  },
+  {
+    "Id": 28,
+    "Grade": 28,
+    "Factor": 26.0
+  },
+  {
+    "Id": 29,
+    "Grade": 29,
+    "Factor": 27.0
+  },
+  {
+    "Id": 30,
+    "Grade": 30,
+    "Factor": 28.0
+  },
+  {
+    "Id": 31,
+    "Grade": 31,
+    "Factor": 29.0
+  },
+  {
+    "Id": 32,
+    "Grade": 32,
+    "Factor": 30.0
+  },
+  {
+    "Id": 33,
+    "Grade": 33,
+    "Factor": 31.0
+  },
+  {
+    "Id": 34,
+    "Grade": 34,
+    "Factor": 32.0
+  },
+  {
+    "Id": 35,
+    "Grade": 35,
+    "Factor": 33.0
+  },
+  {
+    "Id": 36,
+    "Grade": 36,
+    "Factor": 34.0
+  },
+  {
+    "Id": 37,
+    "Grade": 37,
+    "Factor": 35.0
+  },
+  {
+    "Id": 38,
+    "Grade": 38,
+    "Factor": 36.0
+  },
+  {
+    "Id": 39,
+    "Grade": 39,
+    "Factor": 37.0
+  },
+  {
+    "Id": 40,
+    "Grade": 40,
+    "Factor": 38.0
+  },
+  {
+    "Id": 41,
+    "Grade": 41,
+    "Factor": 39.0
+  },
+  {
+    "Id": 42,
+    "Grade": 42,
+    "Factor": 40.0
+  },
+  {
+    "Id": 43,
+    "Grade": 43,
+    "Factor": 41.0
+  },
+  {
+    "Id": 44,
+    "Grade": 44,
+    "Factor": 42.0
+  },
+  {
+    "Id": 45,
+    "Grade": 45,
+    "Factor": 43.0
+  },
+  {
+    "Id": 46,
+    "Grade": 46,
+    "Factor": 44.0
+  },
+  {
+    "Id": 47,
+    "Grade": 47,
+    "Factor": 45.0
+  },
+  {
+    "Id": 48,
+    "Grade": 48,
+    "Factor": 46.0
+  },
+  {
+    "Id": 49,
+    "Grade": 49,
+    "Factor": 47.0
+  }
+]

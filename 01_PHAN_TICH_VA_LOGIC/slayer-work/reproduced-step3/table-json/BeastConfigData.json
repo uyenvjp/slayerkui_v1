@@ -1,0 +1,21 @@
+[
+  {
+    "Id": 0,
+    "SummonCurrencyType": 7002,
+    "SummonCurrencyAmount": 1,
+    "HuntTime": 7200,
+    "InitialHuntMoveAdd": 20,
+    "BubbleFruitValue": 10,
+    "HeartFruitValue": 100,
+    "StarFruitValue": 1200,
+    "HuntCompleteValue": 1000,
+    "ScoutSlotCount": 3,
+    "ScoutBonusBeastValue": 50,
+    "ScoutAwakenValue": 10,
+    "InitialPresetCount": 3,
+    "ExpansionPresetCount": 5,
+    "ExpansionPresetConditionCount": 6,
+    "SecondSlotOpenStage": 841,
+    "HuntMaxValue": 4000.0
+  }
+]

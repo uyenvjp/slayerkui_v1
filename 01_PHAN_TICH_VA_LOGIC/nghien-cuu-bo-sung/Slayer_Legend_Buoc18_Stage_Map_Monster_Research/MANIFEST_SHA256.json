@@ -1,0 +1,65 @@
+{
+  "description": "Slayer Legend 700.0.4 — step 18, no external art, read-only evidence",
+  "files": {
+    "BAO_CAO_BUOC18.md": {
+      "size": 6675,
+      "sha256": "df6839fdab4d00e83755a9c6889f3089847d75493058db8341177aae53a92a94"
+    },
+    "MapManager_LayerSetting.asm": {
+      "size": 12472,
+      "sha256": "1b5553954a56690e4eed609155809ebe37879b0a203597c1a4c4adf67c49c2b7"
+    },
+    "MonsterInfoBaseData_from_checkpoint.json": {
+      "size": 209669,
+      "sha256": "43dbd977dd13831b6f1020f82d8ecc1ea18936d73914929aca77eb5c97046435"
+    },
+    "ObjectPooler_Enemy_GetEnemy_partial.asm": {
+      "size": 13872,
+      "sha256": "91cc11baa38844bd625fb95f854b0cf4db6ff98b808e38091830975a9e2cd902"
+    },
+    "Slayer_Legend_Stage_3000_Dong_Verified.csv": {
+      "size": 1001140,
+      "sha256": "03f111c0d009fb802b0a7f37e6920cd3d25cd40900959e39ea8e5336c7603f67"
+    },
+    "step18_GameManager_MakeEnemy_StageBoss_4e51fac.asm": {
+      "size": 21815,
+      "sha256": "38f4fb473714de3a4c4ee39b7f60cd2391badfa878c8e79e6dcf1e97eb797b08"
+    },
+    "step18_GameManager_MakeEnemy_Stage_4e517d8.asm": {
+      "size": 16251,
+      "sha256": "3effd4ee4774bc936243f6fe1f7ad3a94753838fdf4577eb9006d529d6bc5183"
+    },
+    "step18_GameManager_StageBoss_Setting_4e52afc.asm": {
+      "size": 29838,
+      "sha256": "fb591d37833f12a06d72e89bf1d1c545b8c7d27b7a89fd2d952c824ce4a975ed"
+    },
+    "step18_GameManager_Stage_Init_4e425bc.asm": {
+      "size": 38549,
+      "sha256": "dfccf66f9be2e2efa97f482391f99ce97a4c099ca39ca516f4338c812ab91480"
+    },
+    "step18_GameManager_Start_MakeEnemy_Stage_4e479ec.asm": {
+      "size": 10079,
+      "sha256": "85283b3718c776b4b67d8c00167df8412ffb4f97be96e7b842e44c04abb14a06"
+    },
+    "step18_GameManager_get_StageMonsterIndex_4e51718.asm": {
+      "size": 2581,
+      "sha256": "fd79b33b508c57d16298a64c4b0af7d8f126e409aa4c3613c22e32b94554acaf"
+    },
+    "step18_calls_summary.txt": {
+      "size": 16786,
+      "sha256": "ddf625169252dcd1cc9b2349353866b9f4b5dbacd22bb8a9d081c8c945b176d1"
+    },
+    "step18_map_manager.asm": {
+      "size": 2850,
+      "sha256": "96ea629f58f0a67720dbfcc34bf217266ad053b56be46ddd4db310952b6190dd"
+    },
+    "step18_verification.json": {
+      "size": 5998,
+      "sha256": "b7672021a639b5f342032db49d897a77fac3e6b4cdfdf503f8a9791c38f29f1e"
+    },
+    "verify_step18.py": {
+      "size": 7710,
+      "sha256": "bd81625bec7de98d7aeb8f162d758ebe9f9c441f38cefdec66c7b10eba38191a"
+    }
+  }
+}

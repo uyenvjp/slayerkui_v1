@@ -1,0 +1,68 @@
+{
+  "file": "libil2cpp.so",
+  "bytes": 180105648,
+  "sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+  "symbols": [
+    {
+      "symbol": "il2cpp_class_get_name",
+      "address_hex": "0x0000000004597c34",
+      "size": 4,
+      "kind": "FUNC"
+    },
+    {
+      "symbol": "il2cpp_gc_collect",
+      "address_hex": "0x00000000045982d8",
+      "size": 4,
+      "kind": "FUNC"
+    },
+    {
+      "symbol": "il2cpp_runtime_invoke",
+      "address_hex": "0x00000000045984f0",
+      "size": 4,
+      "kind": "FUNC"
+    },
+    {
+      "symbol": "il2cpp_domain_get",
+      "address_hex": "0x00000000045980cc",
+      "size": 4,
+      "kind": "FUNC"
+    },
+    {
+      "symbol": "il2cpp_get_corlib",
+      "address_hex": "0x0000000004597b9c",
+      "size": 4,
+      "kind": "FUNC"
+    },
+    {
+      "symbol": "il2cpp_init",
+      "address_hex": "0x0000000004597aa8",
+      "size": 44,
+      "kind": "FUNC"
+    },
+    {
+      "symbol": "il2cpp_method_get_name",
+      "address_hex": "0x0000000004598410",
+      "size": 4,
+      "kind": "FUNC"
+    },
+    {
+      "symbol": "il2cpp_class_from_name",
+      "address_hex": "0x0000000004597c08",
+      "size": 4,
+      "kind": "FUNC"
+    },
+    {
+      "symbol": "il2cpp_string_new",
+      "address_hex": "0x000000000459850c",
+      "size": 4,
+      "kind": "FUNC"
+    }
+  ],
+  "metadata_path_plain_ascii_offsets": [
+    {
+      "hex": "0x1f2d62e",
+      "decimal": 32691758
+    }
+  ],
+  "elf_stripped": true
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6007223",
+    "name": "CoinEffect",
+    "declaring_type_index": "2846",
+    "declaring_type_full_name": "ObjectPooler_Effect",
+    "native_va": "0x4ec6228",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "6970",
+    "parameter_count": "3",
+    "flags": "134",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x95cbec",
+    "end_va": "0x4ec63fc",
+    "asm_file": "ObjectPooler_Effect__CoinEffect_0x6007223.asm"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6007226",
+    "name": "DropEffect",
+    "declaring_type_index": "2846",
+    "declaring_type_full_name": "ObjectPooler_Effect",
+    "native_va": "0x4ec6618",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "6973",
+    "parameter_count": "7",
+    "flags": "134",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x95cc4c",
+    "end_va": "0x4ec6ae8",
+    "asm_file": "ObjectPooler_Effect__DropEffect_0x6007226.asm"
+  }
+]

@@ -1,0 +1,2914 @@
+[
+  {
+    "Id": 1,
+    "NeedTreeLevel": 1,
+    "MainNodeIndex": 1,
+    "NodeNumber": 1,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 60,
+    "BuffType": 7,
+    "BuffGameModeType": 4,
+    "Value": 5,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      105,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 2,
+    "NeedTreeLevel": 1,
+    "MainNodeIndex": 1,
+    "NodeNumber": 2,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 4,
+    "UpgradeWaitMinute": 30,
+    "BuffType": 5,
+    "BuffGameModeType": 5,
+    "Value": 3,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      45,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 3,
+    "NeedTreeLevel": 2,
+    "MainNodeIndex": 1,
+    "NodeNumber": 3,
+    "NeedNodeNumber": [
+      2,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 4,
+    "UpgradeWaitMinute": 90,
+    "BuffType": 4,
+    "BuffGameModeType": 5,
+    "Value": 2,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      50,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 4,
+    "NeedTreeLevel": 2,
+    "MainNodeIndex": 1,
+    "NodeNumber": 4,
+    "NeedNodeNumber": [
+      2,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 4,
+    "UpgradeWaitMinute": 90,
+    "BuffType": 5,
+    "BuffGameModeType": 1,
+    "Value": 2,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      50,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 5,
+    "NeedTreeLevel": 3,
+    "MainNodeIndex": 1,
+    "NodeNumber": 5,
+    "NeedNodeNumber": [
+      3,
+      4,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 3,
+    "UpgradeWaitMinute": 180,
+    "BuffType": 7,
+    "BuffGameModeType": 0,
+    "Value": 2,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      80,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 6,
+    "NeedTreeLevel": 4,
+    "MainNodeIndex": 2,
+    "NodeNumber": 1,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 3,
+    "UpgradeWaitMinute": 120,
+    "BuffType": 4,
+    "BuffGameModeType": 3,
+    "Value": 3,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      90,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 7,
+    "NeedTreeLevel": 4,
+    "MainNodeIndex": 2,
+    "NodeNumber": 2,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 4,
+    "UpgradeWaitMinute": 90,
+    "BuffType": 5,
+    "BuffGameModeType": 3,
+    "Value": 5,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      90,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 8,
+    "NeedTreeLevel": 4,
+    "MainNodeIndex": 2,
+    "NodeNumber": 3,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 6,
+    "UpgradeWaitMinute": 90,
+    "BuffType": 7,
+    "BuffGameModeType": 3,
+    "Value": 3,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      90,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 9,
+    "NeedTreeLevel": 4,
+    "MainNodeIndex": 2,
+    "NodeNumber": 4,
+    "NeedNodeNumber": [
+      3,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 6,
+    "UpgradeWaitMinute": 90,
+    "BuffType": 6,
+    "BuffGameModeType": 2,
+    "Value": 2,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      90,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 10,
+    "NeedTreeLevel": 5,
+    "MainNodeIndex": 3,
+    "NodeNumber": 1,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 6,
+    "UpgradeWaitMinute": 60,
+    "BuffType": 8,
+    "BuffGameModeType": 8,
+    "Value": 1,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      120,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 11,
+    "NeedTreeLevel": 5,
+    "MainNodeIndex": 3,
+    "NodeNumber": 2,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 0,
+    "BuffType": 0,
+    "BuffGameModeType": 0,
+    "Value": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 19,
+    "RewardAmount": 5,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 12,
+    "NeedTreeLevel": 5,
+    "MainNodeIndex": 3,
+    "NodeNumber": 3,
+    "NeedNodeNumber": [
+      2,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 4,
+    "UpgradeWaitMinute": 90,
+    "BuffType": 9,
+    "BuffGameModeType": 5,
+    "Value": 3,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      120,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 13,
+    "NeedTreeLevel": 5,
+    "MainNodeIndex": 3,
+    "NodeNumber": 4,
+    "NeedNodeNumber": [
+      3,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 4,
+    "UpgradeWaitMinute": 180,
+    "BuffType": 7,
+    "BuffGameModeType": 4,
+    "Value": 2,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      120,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 14,
+    "NeedTreeLevel": 6,
+    "MainNodeIndex": 4,
+    "NodeNumber": 1,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 4,
+    "UpgradeWaitMinute": 180,
+    "BuffType": 4,
+    "BuffGameModeType": 5,
+    "Value": 3,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      125,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 15,
+    "NeedTreeLevel": 6,
+    "MainNodeIndex": 4,
+    "NodeNumber": 2,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 4,
+    "UpgradeWaitMinute": 180,
+    "BuffType": 5,
+    "BuffGameModeType": 5,
+    "Value": 3,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      150,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 16,
+    "NeedTreeLevel": 6,
+    "MainNodeIndex": 4,
+    "NodeNumber": 3,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 4,
+    "UpgradeWaitMinute": 90,
+    "BuffType": 9,
+    "BuffGameModeType": 5,
+    "Value": 3,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      150,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 17,
+    "NeedTreeLevel": 6,
+    "MainNodeIndex": 4,
+    "NodeNumber": 4,
+    "NeedNodeNumber": [
+      2,
+      3,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 4,
+    "UpgradeWaitMinute": 180,
+    "BuffType": 7,
+    "BuffGameModeType": 5,
+    "Value": 3,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      150,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 18,
+    "NeedTreeLevel": 7,
+    "MainNodeIndex": 5,
+    "NodeNumber": 1,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 180,
+    "BuffType": 5,
+    "BuffGameModeType": 1,
+    "Value": 6,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      300,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 19,
+    "NeedTreeLevel": 7,
+    "MainNodeIndex": 5,
+    "NodeNumber": 2,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 3,
+    "UpgradeWaitMinute": 180,
+    "BuffType": 5,
+    "BuffGameModeType": 3,
+    "Value": 7,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      175,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 20,
+    "NeedTreeLevel": 8,
+    "MainNodeIndex": 5,
+    "NodeNumber": 3,
+    "NeedNodeNumber": [
+      2,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 540,
+    "BuffType": 5,
+    "BuffGameModeType": 5,
+    "Value": 6,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      525,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 21,
+    "NeedTreeLevel": 8,
+    "MainNodeIndex": 5,
+    "NodeNumber": 4,
+    "NeedNodeNumber": [
+      2,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 1440,
+    "BuffType": 5,
+    "BuffGameModeType": 0,
+    "Value": 12,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      1050,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 22,
+    "NeedTreeLevel": 9,
+    "MainNodeIndex": 6,
+    "NodeNumber": 1,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 3,
+    "UpgradeWaitMinute": 180,
+    "BuffType": 4,
+    "BuffGameModeType": 3,
+    "Value": 4,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      200,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 23,
+    "NeedTreeLevel": 9,
+    "MainNodeIndex": 6,
+    "NodeNumber": 2,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 0,
+    "BuffType": 0,
+    "BuffGameModeType": 0,
+    "Value": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 18,
+    "RewardAmount": 5,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 24,
+    "NeedTreeLevel": 9,
+    "MainNodeIndex": 6,
+    "NodeNumber": 3,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 5,
+    "UpgradeWaitMinute": 240,
+    "BuffType": 4,
+    "BuffGameModeType": 5,
+    "Value": 2,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      210,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 25,
+    "NeedTreeLevel": 10,
+    "MainNodeIndex": 6,
+    "NodeNumber": 4,
+    "NeedNodeNumber": [
+      2,
+      3,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 720,
+    "BuffType": 4,
+    "BuffGameModeType": 0,
+    "Value": 6,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      630,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 26,
+    "NeedTreeLevel": 9,
+    "MainNodeIndex": 7,
+    "NodeNumber": 1,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 360,
+    "BuffType": 7,
+    "BuffGameModeType": 4,
+    "Value": 12,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      840,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 27,
+    "NeedTreeLevel": 10,
+    "MainNodeIndex": 7,
+    "NodeNumber": 2,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 540,
+    "BuffType": 7,
+    "BuffGameModeType": 3,
+    "Value": 21,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      630,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 28,
+    "NeedTreeLevel": 10,
+    "MainNodeIndex": 7,
+    "NodeNumber": 3,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 540,
+    "BuffType": 7,
+    "BuffGameModeType": 5,
+    "Value": 6,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      630,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 29,
+    "NeedTreeLevel": 10,
+    "MainNodeIndex": 7,
+    "NodeNumber": 4,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 720,
+    "BuffType": 7,
+    "BuffGameModeType": 0,
+    "Value": 6,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      630,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 30,
+    "NeedTreeLevel": 11,
+    "MainNodeIndex": 8,
+    "NodeNumber": 1,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 3,
+    "UpgradeWaitMinute": 360,
+    "BuffType": 4,
+    "BuffGameModeType": 0,
+    "Value": 6,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      280,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 31,
+    "NeedTreeLevel": 11,
+    "MainNodeIndex": 8,
+    "NodeNumber": 2,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 540,
+    "BuffType": 6,
+    "BuffGameModeType": 2,
+    "Value": 9,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      840,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 32,
+    "NeedTreeLevel": 12,
+    "MainNodeIndex": 8,
+    "NodeNumber": 3,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 1080,
+    "BuffType": 7,
+    "BuffGameModeType": 3,
+    "Value": 24,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      840,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 33,
+    "NeedTreeLevel": 12,
+    "MainNodeIndex": 8,
+    "NodeNumber": 4,
+    "NeedNodeNumber": [
+      3,
+      0,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 0,
+    "BuffType": 0,
+    "BuffGameModeType": 0,
+    "Value": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 10,
+    "RewardAmount": 20,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 34,
+    "NeedTreeLevel": 11,
+    "MainNodeIndex": 9,
+    "NodeNumber": 1,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 600,
+    "BuffType": 5,
+    "BuffGameModeType": 0,
+    "Value": 10,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      700,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 35,
+    "NeedTreeLevel": 11,
+    "MainNodeIndex": 9,
+    "NodeNumber": 2,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 5,
+    "UpgradeWaitMinute": 240,
+    "BuffType": 5,
+    "BuffGameModeType": 3,
+    "Value": 5,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      280,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 36,
+    "NeedTreeLevel": 12,
+    "MainNodeIndex": 9,
+    "NodeNumber": 3,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 1440,
+    "BuffType": 8,
+    "BuffGameModeType": 8,
+    "Value": 8,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      1120,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 37,
+    "NeedTreeLevel": 12,
+    "MainNodeIndex": 9,
+    "NodeNumber": 4,
+    "NeedNodeNumber": [
+      3,
+      0,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 0,
+    "BuffType": 0,
+    "BuffGameModeType": 0,
+    "Value": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 31,
+    "RewardAmount": 30,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 38,
+    "NeedTreeLevel": 13,
+    "MainNodeIndex": 10,
+    "NodeNumber": 1,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 720,
+    "BuffType": 4,
+    "BuffGameModeType": 5,
+    "Value": 6,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      960,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 39,
+    "NeedTreeLevel": 13,
+    "MainNodeIndex": 10,
+    "NodeNumber": 2,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 720,
+    "BuffType": 5,
+    "BuffGameModeType": 5,
+    "Value": 9,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      960,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 40,
+    "NeedTreeLevel": 13,
+    "MainNodeIndex": 10,
+    "NodeNumber": 3,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 3,
+    "UpgradeWaitMinute": 480,
+    "BuffType": 7,
+    "BuffGameModeType": 5,
+    "Value": 6,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      640,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 41,
+    "NeedTreeLevel": 13,
+    "MainNodeIndex": 10,
+    "NodeNumber": 4,
+    "NeedNodeNumber": [
+      2,
+      3,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 1440,
+    "BuffType": 8,
+    "BuffGameModeType": 8,
+    "Value": 8,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      1280,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 42,
+    "NeedTreeLevel": 14,
+    "MainNodeIndex": 11,
+    "NodeNumber": 1,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 4,
+    "UpgradeWaitMinute": 90,
+    "BuffType": 4,
+    "BuffGameModeType": 3,
+    "Value": 4,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      400,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 43,
+    "NeedTreeLevel": 14,
+    "MainNodeIndex": 11,
+    "NodeNumber": 2,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 3,
+    "UpgradeWaitMinute": 180,
+    "BuffType": 5,
+    "BuffGameModeType": 1,
+    "Value": 4,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      400,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 44,
+    "NeedTreeLevel": 14,
+    "MainNodeIndex": 11,
+    "NodeNumber": 3,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 3,
+    "UpgradeWaitMinute": 180,
+    "BuffType": 6,
+    "BuffGameModeType": 2,
+    "Value": 4,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      400,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 45,
+    "NeedTreeLevel": 16,
+    "MainNodeIndex": 11,
+    "NodeNumber": 4,
+    "NeedNodeNumber": [
+      2,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 5,
+    "UpgradeWaitMinute": 240,
+    "BuffType": 7,
+    "BuffGameModeType": 4,
+    "Value": 3,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      420,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 46,
+    "NeedTreeLevel": 16,
+    "MainNodeIndex": 11,
+    "NodeNumber": 5,
+    "NeedNodeNumber": [
+      3,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 1200,
+    "BuffType": 8,
+    "BuffGameModeType": 8,
+    "Value": 10,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      2000,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 47,
+    "NeedTreeLevel": 14,
+    "MainNodeIndex": 12,
+    "NodeNumber": 1,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 4,
+    "UpgradeWaitMinute": 90,
+    "BuffType": 4,
+    "BuffGameModeType": 5,
+    "Value": 4,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      400,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 48,
+    "NeedTreeLevel": 14,
+    "MainNodeIndex": 12,
+    "NodeNumber": 2,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 360,
+    "BuffType": 4,
+    "BuffGameModeType": 0,
+    "Value": 8,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      1600,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 49,
+    "NeedTreeLevel": 14,
+    "MainNodeIndex": 12,
+    "NodeNumber": 3,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 720,
+    "BuffType": 6,
+    "BuffGameModeType": 2,
+    "Value": 27,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      1350,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 50,
+    "NeedTreeLevel": 16,
+    "MainNodeIndex": 12,
+    "NodeNumber": 4,
+    "NeedNodeNumber": [
+      2,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 720,
+    "BuffType": 7,
+    "BuffGameModeType": 0,
+    "Value": 6,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      1200,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 51,
+    "NeedTreeLevel": 16,
+    "MainNodeIndex": 12,
+    "NodeNumber": 5,
+    "NeedNodeNumber": [
+      3,
+      0,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 0,
+    "BuffType": 0,
+    "BuffGameModeType": 0,
+    "Value": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 18,
+    "RewardAmount": 15,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 52,
+    "NeedTreeLevel": 15,
+    "MainNodeIndex": 13,
+    "NodeNumber": 1,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 4,
+    "UpgradeWaitMinute": 90,
+    "BuffType": 5,
+    "BuffGameModeType": 3,
+    "Value": 8,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      400,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 53,
+    "NeedTreeLevel": 15,
+    "MainNodeIndex": 13,
+    "NodeNumber": 2,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 360,
+    "BuffType": 5,
+    "BuffGameModeType": 0,
+    "Value": 8,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      1600,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 54,
+    "NeedTreeLevel": 17,
+    "MainNodeIndex": 13,
+    "NodeNumber": 3,
+    "NeedNodeNumber": [
+      2,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 720,
+    "BuffType": 9,
+    "BuffGameModeType": 5,
+    "Value": 12,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      2700,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 55,
+    "NeedTreeLevel": 17,
+    "MainNodeIndex": 13,
+    "NodeNumber": 4,
+    "NeedNodeNumber": [
+      2,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 600,
+    "BuffType": 7,
+    "BuffGameModeType": 3,
+    "Value": 15,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      1200,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 56,
+    "NeedTreeLevel": 18,
+    "MainNodeIndex": 13,
+    "NodeNumber": 5,
+    "NeedNodeNumber": [
+      2,
+      0,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 0,
+    "BuffType": 0,
+    "BuffGameModeType": 0,
+    "Value": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 19,
+    "RewardAmount": 15,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 57,
+    "NeedTreeLevel": 15,
+    "MainNodeIndex": 14,
+    "NodeNumber": 1,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 4,
+    "UpgradeWaitMinute": 90,
+    "BuffType": 4,
+    "BuffGameModeType": 3,
+    "Value": 5,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      400,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 58,
+    "NeedTreeLevel": 15,
+    "MainNodeIndex": 14,
+    "NodeNumber": 2,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 3,
+    "UpgradeWaitMinute": 180,
+    "BuffType": 5,
+    "BuffGameModeType": 1,
+    "Value": 8,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      400,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 59,
+    "NeedTreeLevel": 17,
+    "MainNodeIndex": 14,
+    "NodeNumber": 3,
+    "NeedNodeNumber": [
+      2,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 3,
+    "UpgradeWaitMinute": 240,
+    "BuffType": 9,
+    "BuffGameModeType": 5,
+    "Value": 6,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      900,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 60,
+    "NeedTreeLevel": 17,
+    "MainNodeIndex": 14,
+    "NodeNumber": 4,
+    "NeedNodeNumber": [
+      2,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 5,
+    "UpgradeWaitMinute": 240,
+    "BuffType": 7,
+    "BuffGameModeType": 4,
+    "Value": 4,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      900,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 61,
+    "NeedTreeLevel": 18,
+    "MainNodeIndex": 14,
+    "NodeNumber": 5,
+    "NeedNodeNumber": [
+      2,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 1200,
+    "BuffType": 8,
+    "BuffGameModeType": 8,
+    "Value": 10,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      2500,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 62,
+    "NeedTreeLevel": 18,
+    "MainNodeIndex": 15,
+    "NodeNumber": 1,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 360,
+    "BuffType": 4,
+    "BuffGameModeType": 0,
+    "Value": 12,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      1800,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 63,
+    "NeedTreeLevel": 18,
+    "MainNodeIndex": 15,
+    "NodeNumber": 2,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 3,
+    "UpgradeWaitMinute": 180,
+    "BuffType": 9,
+    "BuffGameModeType": 5,
+    "Value": 10,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      450,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 64,
+    "NeedTreeLevel": 19,
+    "MainNodeIndex": 15,
+    "NodeNumber": 3,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 360,
+    "BuffType": 5,
+    "BuffGameModeType": 0,
+    "Value": 12,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      1350,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 65,
+    "NeedTreeLevel": 19,
+    "MainNodeIndex": 15,
+    "NodeNumber": 4,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 1200,
+    "BuffType": 8,
+    "BuffGameModeType": 8,
+    "Value": 10,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      4500,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 66,
+    "NeedTreeLevel": 19,
+    "MainNodeIndex": 15,
+    "NodeNumber": 5,
+    "NeedNodeNumber": [
+      3,
+      4,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 720,
+    "BuffType": 7,
+    "BuffGameModeType": 0,
+    "Value": 8,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      2000,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 67,
+    "NeedTreeLevel": 20,
+    "MainNodeIndex": 16,
+    "NodeNumber": 1,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 3,
+    "UpgradeWaitMinute": 180,
+    "BuffType": 4,
+    "BuffGameModeType": 5,
+    "Value": 7,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      500,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 68,
+    "NeedTreeLevel": 20,
+    "MainNodeIndex": 16,
+    "NodeNumber": 2,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 3,
+    "UpgradeWaitMinute": 180,
+    "BuffType": 5,
+    "BuffGameModeType": 5,
+    "Value": 6,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      540,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 69,
+    "NeedTreeLevel": 20,
+    "MainNodeIndex": 16,
+    "NodeNumber": 3,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 360,
+    "BuffType": 6,
+    "BuffGameModeType": 2,
+    "Value": 12,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      2100,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 70,
+    "NeedTreeLevel": 20,
+    "MainNodeIndex": 16,
+    "NodeNumber": 4,
+    "NeedNodeNumber": [
+      1,
+      3,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 0,
+    "BuffType": 0,
+    "BuffGameModeType": 0,
+    "Value": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 10,
+    "RewardAmount": 50,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 71,
+    "NeedTreeLevel": 22,
+    "MainNodeIndex": 16,
+    "NodeNumber": 5,
+    "NeedNodeNumber": [
+      4,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 720,
+    "BuffType": 4,
+    "BuffGameModeType": 0,
+    "Value": 12,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      2300,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 72,
+    "NeedTreeLevel": 21,
+    "MainNodeIndex": 17,
+    "NodeNumber": 1,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 900,
+    "BuffType": 5,
+    "BuffGameModeType": 1,
+    "Value": 15,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      2700,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 73,
+    "NeedTreeLevel": 21,
+    "MainNodeIndex": 17,
+    "NodeNumber": 2,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 4,
+    "UpgradeWaitMinute": 360,
+    "BuffType": 7,
+    "BuffGameModeType": 0,
+    "Value": 2,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      1100,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 74,
+    "NeedTreeLevel": 21,
+    "MainNodeIndex": 17,
+    "NodeNumber": 3,
+    "NeedNodeNumber": [
+      2,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 360,
+    "BuffType": 4,
+    "BuffGameModeType": 3,
+    "Value": 8,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      2200,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 75,
+    "NeedTreeLevel": 22,
+    "MainNodeIndex": 17,
+    "NodeNumber": 4,
+    "NeedNodeNumber": [
+      3,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 5,
+    "UpgradeWaitMinute": 180,
+    "BuffType": 7,
+    "BuffGameModeType": 4,
+    "Value": 3,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      540,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 76,
+    "NeedTreeLevel": 22,
+    "MainNodeIndex": 17,
+    "NodeNumber": 5,
+    "NeedNodeNumber": [
+      3,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 900,
+    "BuffType": 8,
+    "BuffGameModeType": 8,
+    "Value": 12,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      3300,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 77,
+    "NeedTreeLevel": 23,
+    "MainNodeIndex": 18,
+    "NodeNumber": 1,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 3,
+    "UpgradeWaitMinute": 180,
+    "BuffType": 4,
+    "BuffGameModeType": 5,
+    "Value": 7,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      700,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 78,
+    "NeedTreeLevel": 23,
+    "MainNodeIndex": 18,
+    "NodeNumber": 2,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 3,
+    "UpgradeWaitMinute": 180,
+    "BuffType": 7,
+    "BuffGameModeType": 5,
+    "Value": 4,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      600,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 79,
+    "NeedTreeLevel": 23,
+    "MainNodeIndex": 18,
+    "NodeNumber": 3,
+    "NeedNodeNumber": [
+      2,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 180,
+    "BuffType": 9,
+    "BuffGameModeType": 5,
+    "Value": 12,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      300,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 80,
+    "NeedTreeLevel": 24,
+    "MainNodeIndex": 18,
+    "NodeNumber": 4,
+    "NeedNodeNumber": [
+      3,
+      0,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 0,
+    "BuffType": 0,
+    "BuffGameModeType": 0,
+    "Value": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 18,
+    "RewardAmount": 20,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 81,
+    "NeedTreeLevel": 24,
+    "MainNodeIndex": 18,
+    "NodeNumber": 5,
+    "NeedNodeNumber": [
+      3,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 720,
+    "BuffType": 5,
+    "BuffGameModeType": 0,
+    "Value": 12,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      2400,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 82,
+    "NeedTreeLevel": 23,
+    "MainNodeIndex": 19,
+    "NodeNumber": 1,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 900,
+    "BuffType": 4,
+    "BuffGameModeType": 3,
+    "Value": 25,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      3000,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 83,
+    "NeedTreeLevel": 23,
+    "MainNodeIndex": 19,
+    "NodeNumber": 2,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 720,
+    "BuffType": 7,
+    "BuffGameModeType": 0,
+    "Value": 6,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      1200,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 84,
+    "NeedTreeLevel": 25,
+    "MainNodeIndex": 19,
+    "NodeNumber": 3,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 540,
+    "BuffType": 5,
+    "BuffGameModeType": 1,
+    "Value": 12,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      1800,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 85,
+    "NeedTreeLevel": 25,
+    "MainNodeIndex": 19,
+    "NodeNumber": 4,
+    "NeedNodeNumber": [
+      1,
+      3,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 3,
+    "UpgradeWaitMinute": 480,
+    "BuffType": 8,
+    "BuffGameModeType": 8,
+    "Value": 12,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      1200,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 86,
+    "NeedTreeLevel": 25,
+    "MainNodeIndex": 19,
+    "NodeNumber": 5,
+    "NeedNodeNumber": [
+      4,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 1080,
+    "BuffType": 7,
+    "BuffGameModeType": 4,
+    "Value": 24,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      3600,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 87,
+    "NeedTreeLevel": 24,
+    "MainNodeIndex": 20,
+    "NodeNumber": 1,
+    "NeedNodeNumber": [
+      0,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 3,
+    "UpgradeWaitMinute": 180,
+    "BuffType": 5,
+    "BuffGameModeType": 5,
+    "Value": 10,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      1200,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 88,
+    "NeedTreeLevel": 24,
+    "MainNodeIndex": 20,
+    "NodeNumber": 2,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 3,
+    "UpgradeWaitMinute": 180,
+    "BuffType": 7,
+    "BuffGameModeType": 5,
+    "Value": 12,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      700,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 89,
+    "NeedTreeLevel": 24,
+    "MainNodeIndex": 20,
+    "NodeNumber": 3,
+    "NeedNodeNumber": [
+      1,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 720,
+    "BuffType": 6,
+    "BuffGameModeType": 2,
+    "Value": 36,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      2700,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 90,
+    "NeedTreeLevel": 25,
+    "MainNodeIndex": 20,
+    "NodeNumber": 4,
+    "NeedNodeNumber": [
+      3,
+      0,
+      0
+    ],
+    "NodeType": 2,
+    "MaxLevel": 1,
+    "UpgradeWaitMinute": 0,
+    "BuffType": 0,
+    "BuffGameModeType": 0,
+    "Value": 0,
+    "MaterialType": [
+      0,
+      0
+    ],
+    "MaterialAmount": [
+      0,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 19,
+    "RewardAmount": 20,
+    "RewardIndex": 0
+  },
+  {
+    "Id": 91,
+    "NeedTreeLevel": 25,
+    "MainNodeIndex": 20,
+    "NodeNumber": 5,
+    "NeedNodeNumber": [
+      3,
+      0,
+      0
+    ],
+    "NodeType": 1,
+    "MaxLevel": 2,
+    "UpgradeWaitMinute": 720,
+    "BuffType": 7,
+    "BuffGameModeType": 0,
+    "Value": 16,
+    "MaterialType": [
+      32,
+      0
+    ],
+    "MaterialAmount": [
+      2400,
+      0
+    ],
+    "MaterialIndex": [
+      0,
+      0
+    ],
+    "RewardType": 0,
+    "RewardAmount": 0,
+    "RewardIndex": 0
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "Id": 1,
+    "PlayerClassIndex": 3,
+    "StageHp": 99,
+    "StageAtk": 99
+  },
+  {
+    "Id": 2,
+    "PlayerClassIndex": 4,
+    "StageHp": 139,
+    "StageAtk": 139
+  },
+  {
+    "Id": 3,
+    "PlayerClassIndex": 5,
+    "StageHp": 158,
+    "StageAtk": 158
+  },
+  {
+    "Id": 4,
+    "PlayerClassIndex": 6,
+    "StageHp": 179,
+    "StageAtk": 179
+  },
+  {
+    "Id": 5,
+    "PlayerClassIndex": 7,
+    "StageHp": 210,
+    "StageAtk": 210
+  },
+  {
+    "Id": 6,
+    "PlayerClassIndex": 8,
+    "StageHp": 258,
+    "StageAtk": 258
+  },
+  {
+    "Id": 7,
+    "PlayerClassIndex": 9,
+    "StageHp": 368,
+    "StageAtk": 368
+  },
+  {
+    "Id": 8,
+    "PlayerClassIndex": 10,
+    "StageHp": 469,
+    "StageAtk": 469
+  },
+  {
+    "Id": 9,
+    "PlayerClassIndex": 11,
+    "StageHp": 534,
+    "StageAtk": 534
+  },
+  {
+    "Id": 10,
+    "PlayerClassIndex": 12,
+    "StageHp": 630,
+    "StageAtk": 630
+  },
+  {
+    "Id": 11,
+    "PlayerClassIndex": 13,
+    "StageHp": 710,
+    "StageAtk": 710
+  },
+  {
+    "Id": 12,
+    "PlayerClassIndex": 14,
+    "StageHp": 790,
+    "StageAtk": 790
+  },
+  {
+    "Id": 13,
+    "PlayerClassIndex": 15,
+    "StageHp": 875,
+    "StageAtk": 875
+  },
+  {
+    "Id": 14,
+    "PlayerClassIndex": 16,
+    "StageHp": 955,
+    "StageAtk": 955
+  },
+  {
+    "Id": 15,
+    "PlayerClassIndex": 17,
+    "StageHp": 1040,
+    "StageAtk": 1040
+  },
+  {
+    "Id": 16,
+    "PlayerClassIndex": 18,
+    "StageHp": 1134,
+    "StageAtk": 1134
+  },
+  {
+    "Id": 17,
+    "PlayerClassIndex": 19,
+    "StageHp": 1230,
+    "StageAtk": 1230
+  },
+  {
+    "Id": 18,
+    "PlayerClassIndex": 20,
+    "StageHp": 1330,
+    "StageAtk": 1330
+  },
+  {
+    "Id": 19,
+    "PlayerClassIndex": 21,
+    "StageHp": 1420,
+    "StageAtk": 1420
+  },
+  {
+    "Id": 20,
+    "PlayerClassIndex": 22,
+    "StageHp": 1505,
+    "StageAtk": 1505
+  },
+  {
+    "Id": 21,
+    "PlayerClassIndex": 23,
+    "StageHp": 1595,
+    "StageAtk": 1595
+  },
+  {
+    "Id": 22,
+    "PlayerClassIndex": 24,
+    "StageHp": 1685,
+    "StageAtk": 1685
+  },
+  {
+    "Id": 23,
+    "PlayerClassIndex": 25,
+    "StageHp": 1785,
+    "StageAtk": 1785
+  },
+  {
+    "Id": 24,
+    "PlayerClassIndex": 26,
+    "StageHp": 1885,
+    "StageAtk": 1885
+  }
+]

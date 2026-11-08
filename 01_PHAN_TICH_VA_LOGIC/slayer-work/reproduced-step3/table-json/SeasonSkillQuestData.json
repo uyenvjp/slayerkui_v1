@@ -1,0 +1,388 @@
+[
+  {
+    "Id": 1,
+    "SlotIndex": 1,
+    "SeasonSkillQuestType": 6,
+    "IsValidatePass": true,
+    "Condition": [],
+    "NeedCount": 100,
+    "RewardType": 2007,
+    "RewardAmount": 1
+  },
+  {
+    "Id": 2,
+    "SlotIndex": 1,
+    "SeasonSkillQuestType": 13,
+    "IsValidatePass": false,
+    "Condition": [
+      1
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 1
+  },
+  {
+    "Id": 3,
+    "SlotIndex": 1,
+    "SeasonSkillQuestType": 13,
+    "IsValidatePass": false,
+    "Condition": [
+      4
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 1
+  },
+  {
+    "Id": 4,
+    "SlotIndex": 1,
+    "SeasonSkillQuestType": 13,
+    "IsValidatePass": false,
+    "Condition": [
+      3
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 1
+  },
+  {
+    "Id": 5,
+    "SlotIndex": 1,
+    "SeasonSkillQuestType": 13,
+    "IsValidatePass": false,
+    "Condition": [
+      8
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 1
+  },
+  {
+    "Id": 6,
+    "SlotIndex": 1,
+    "SeasonSkillQuestType": 12,
+    "IsValidatePass": false,
+    "Condition": [
+      31,
+      41
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 1
+  },
+  {
+    "Id": 7,
+    "SlotIndex": 1,
+    "SeasonSkillQuestType": 21,
+    "IsValidatePass": false,
+    "Condition": [
+      12
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 1
+  },
+  {
+    "Id": 8,
+    "SlotIndex": 1,
+    "SeasonSkillQuestType": 22,
+    "IsValidatePass": false,
+    "Condition": [
+      37
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 1
+  },
+  {
+    "Id": 9,
+    "SlotIndex": 1,
+    "SeasonSkillQuestType": 17,
+    "IsValidatePass": false,
+    "Condition": [
+      22,
+      1
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 1
+  },
+  {
+    "Id": 10,
+    "SlotIndex": 1,
+    "SeasonSkillQuestType": 48,
+    "IsValidatePass": true,
+    "Condition": [],
+    "NeedCount": 3,
+    "RewardType": 2007,
+    "RewardAmount": 1
+  },
+  {
+    "Id": 1001,
+    "SlotIndex": 2,
+    "SeasonSkillQuestType": 11,
+    "IsValidatePass": false,
+    "Condition": [
+      9,
+      2
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  },
+  {
+    "Id": 1002,
+    "SlotIndex": 2,
+    "SeasonSkillQuestType": 30,
+    "IsValidatePass": false,
+    "Condition": [
+      19,
+      2
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  },
+  {
+    "Id": 1003,
+    "SlotIndex": 2,
+    "SeasonSkillQuestType": 30,
+    "IsValidatePass": false,
+    "Condition": [
+      45,
+      2
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  },
+  {
+    "Id": 1004,
+    "SlotIndex": 2,
+    "SeasonSkillQuestType": 27,
+    "IsValidatePass": false,
+    "Condition": [
+      39
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  },
+  {
+    "Id": 1005,
+    "SlotIndex": 2,
+    "SeasonSkillQuestType": 27,
+    "IsValidatePass": false,
+    "Condition": [
+      7
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  },
+  {
+    "Id": 1006,
+    "SlotIndex": 2,
+    "SeasonSkillQuestType": 31,
+    "IsValidatePass": false,
+    "Condition": [
+      39,
+      3
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  },
+  {
+    "Id": 1007,
+    "SlotIndex": 2,
+    "SeasonSkillQuestType": 19,
+    "IsValidatePass": false,
+    "Condition": [],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  },
+  {
+    "Id": 1008,
+    "SlotIndex": 2,
+    "SeasonSkillQuestType": 10,
+    "IsValidatePass": false,
+    "Condition": [],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  },
+  {
+    "Id": 1009,
+    "SlotIndex": 2,
+    "SeasonSkillQuestType": 6,
+    "IsValidatePass": true,
+    "Condition": [],
+    "NeedCount": 500,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  },
+  {
+    "Id": 1010,
+    "SlotIndex": 2,
+    "SeasonSkillQuestType": 9,
+    "IsValidatePass": true,
+    "Condition": [],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  },
+  {
+    "Id": 2001,
+    "SlotIndex": 3,
+    "SeasonSkillQuestType": 29,
+    "IsValidatePass": false,
+    "Condition": [
+      1012
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  },
+  {
+    "Id": 2002,
+    "SlotIndex": 3,
+    "SeasonSkillQuestType": 56,
+    "IsValidatePass": false,
+    "Condition": [
+      1012
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  },
+  {
+    "Id": 2003,
+    "SlotIndex": 3,
+    "SeasonSkillQuestType": 43,
+    "IsValidatePass": false,
+    "Condition": [
+      1012
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  },
+  {
+    "Id": 2004,
+    "SlotIndex": 3,
+    "SeasonSkillQuestType": 50,
+    "IsValidatePass": false,
+    "Condition": [
+      1012,
+      2
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  },
+  {
+    "Id": 2005,
+    "SlotIndex": 3,
+    "SeasonSkillQuestType": 51,
+    "IsValidatePass": false,
+    "Condition": [
+      1012,
+      1017,
+      8
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  },
+  {
+    "Id": 2006,
+    "SlotIndex": 3,
+    "SeasonSkillQuestType": 28,
+    "IsValidatePass": true,
+    "Condition": [
+      1017
+    ],
+    "NeedCount": 100,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  },
+  {
+    "Id": 2007,
+    "SlotIndex": 3,
+    "SeasonSkillQuestType": 49,
+    "IsValidatePass": true,
+    "Condition": [
+      1017,
+      32
+    ],
+    "NeedCount": 100,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  },
+  {
+    "Id": 2008,
+    "SlotIndex": 3,
+    "SeasonSkillQuestType": 60,
+    "IsValidatePass": true,
+    "Condition": [
+      1003,
+      3,
+      4
+    ],
+    "NeedCount": 100,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  },
+  {
+    "Id": 2009,
+    "SlotIndex": 3,
+    "SeasonSkillQuestType": 28,
+    "IsValidatePass": false,
+    "Condition": [
+      1003
+    ],
+    "NeedCount": 100,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  },
+  {
+    "Id": 2010,
+    "SlotIndex": 3,
+    "SeasonSkillQuestType": 29,
+    "IsValidatePass": false,
+    "Condition": [
+      1018
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  },
+  {
+    "Id": 2011,
+    "SlotIndex": 3,
+    "SeasonSkillQuestType": 59,
+    "IsValidatePass": false,
+    "Condition": [
+      1018
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  },
+  {
+    "Id": 2012,
+    "SlotIndex": 3,
+    "SeasonSkillQuestType": 58,
+    "IsValidatePass": false,
+    "Condition": [
+      1018,
+      1012,
+      10
+    ],
+    "NeedCount": 1,
+    "RewardType": 2007,
+    "RewardAmount": 2
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "status": "Partial headless stat and skill-damage port; H5 not built or hosted",
+  "input_version": "700.0.4 / 705",
+  "ported_stat_getters": 15,
+  "selected_source_methods": 33,
+  "selected_native_bytes": 25680,
+  "new_stat_mastery_arithmetic_cases": 3140,
+  "new_skill_damage_arithmetic_cases": 2600,
+  "new_manual_checks": 67,
+  "total_arithmetic_cases_in_bundle": 7540,
+  "total_manual_checks_in_bundle": 90,
+  "native_game_code_executed": false,
+  "generated_or_substituted_assets": 0,
+  "full_atk_hp_aggregation_complete": false,
+  "upstream_all_account_buff_getters_complete": false,
+  "full_skill_cooldown_ai_battle_complete": false,
+  "live_ifix_patch_recovered": false,
+  "server_implementation_recovered": false,
+  "android_gameplay_parity_tested": false,
+  "h5_mobile_desktop_interactions_tested": false,
+  "website_deployed": false
+}

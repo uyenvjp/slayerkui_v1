@@ -1,0 +1,566 @@
+[
+  {
+    "Id": 0,
+    "Level": 0,
+    "Grade": 0,
+    "EffectLevel": 1,
+    "AttackRange1": [
+      1,
+      100
+    ],
+    "AttackRange2": [
+      4,
+      80
+    ],
+    "AttackRange3": [
+      7,
+      50
+    ],
+    "AttackRange4": [
+      10,
+      30
+    ],
+    "Attribute1": [
+      100
+    ],
+    "Attribute2": [
+      100
+    ],
+    "Attribute3": [
+      100
+    ],
+    "Attribute4": [
+      100
+    ],
+    "AttackStyle1": [
+      1
+    ],
+    "AttackStyle2": [
+      1
+    ],
+    "AttackStyle3": [
+      2
+    ],
+    "AttackStyle4": [
+      2,
+      3
+    ]
+  },
+  {
+    "Id": 1,
+    "Level": 1,
+    "Grade": 0,
+    "EffectLevel": 1,
+    "AttackRange1": [
+      1,
+      135
+    ],
+    "AttackRange2": [
+      4,
+      108
+    ],
+    "AttackRange3": [
+      7,
+      68
+    ],
+    "AttackRange4": [
+      11,
+      41
+    ],
+    "Attribute1": [
+      135
+    ],
+    "Attribute2": [
+      135
+    ],
+    "Attribute3": [
+      135
+    ],
+    "Attribute4": [
+      135
+    ],
+    "AttackStyle1": [
+      2
+    ],
+    "AttackStyle2": [
+      2
+    ],
+    "AttackStyle3": [
+      3
+    ],
+    "AttackStyle4": [
+      2,
+      6
+    ]
+  },
+  {
+    "Id": 2,
+    "Level": 2,
+    "Grade": 1,
+    "EffectLevel": 1,
+    "AttackRange1": [
+      1,
+      182
+    ],
+    "AttackRange2": [
+      4,
+      146
+    ],
+    "AttackRange3": [
+      7,
+      91
+    ],
+    "AttackRange4": [
+      12,
+      55
+    ],
+    "Attribute1": [
+      182
+    ],
+    "Attribute2": [
+      182
+    ],
+    "Attribute3": [
+      182
+    ],
+    "Attribute4": [
+      182
+    ],
+    "AttackStyle1": [
+      3
+    ],
+    "AttackStyle2": [
+      3
+    ],
+    "AttackStyle3": [
+      4
+    ],
+    "AttackStyle4": [
+      2,
+      9
+    ]
+  },
+  {
+    "Id": 3,
+    "Level": 3,
+    "Grade": 1,
+    "EffectLevel": 1,
+    "AttackRange1": [
+      1,
+      246
+    ],
+    "AttackRange2": [
+      4,
+      197
+    ],
+    "AttackRange3": [
+      7,
+      123
+    ],
+    "AttackRange4": [
+      13,
+      74
+    ],
+    "Attribute1": [
+      246
+    ],
+    "Attribute2": [
+      246
+    ],
+    "Attribute3": [
+      246
+    ],
+    "Attribute4": [
+      246
+    ],
+    "AttackStyle1": [
+      4
+    ],
+    "AttackStyle2": [
+      4
+    ],
+    "AttackStyle3": [
+      5
+    ],
+    "AttackStyle4": [
+      2,
+      13
+    ]
+  },
+  {
+    "Id": 4,
+    "Level": 4,
+    "Grade": 2,
+    "EffectLevel": 1,
+    "AttackRange1": [
+      1,
+      332
+    ],
+    "AttackRange2": [
+      4,
+      266
+    ],
+    "AttackRange3": [
+      7,
+      166
+    ],
+    "AttackRange4": [
+      14,
+      100
+    ],
+    "Attribute1": [
+      332
+    ],
+    "Attribute2": [
+      332
+    ],
+    "Attribute3": [
+      332
+    ],
+    "Attribute4": [
+      332
+    ],
+    "AttackStyle1": [
+      5
+    ],
+    "AttackStyle2": [
+      5
+    ],
+    "AttackStyle3": [
+      6
+    ],
+    "AttackStyle4": [
+      2,
+      17
+    ]
+  },
+  {
+    "Id": 5,
+    "Level": 5,
+    "Grade": 2,
+    "EffectLevel": 1,
+    "AttackRange1": [
+      1,
+      448
+    ],
+    "AttackRange2": [
+      4,
+      358
+    ],
+    "AttackRange3": [
+      7,
+      224
+    ],
+    "AttackRange4": [
+      15,
+      134
+    ],
+    "Attribute1": [
+      448
+    ],
+    "Attribute2": [
+      448
+    ],
+    "Attribute3": [
+      448
+    ],
+    "Attribute4": [
+      448
+    ],
+    "AttackStyle1": [
+      6
+    ],
+    "AttackStyle2": [
+      6
+    ],
+    "AttackStyle3": [
+      7
+    ],
+    "AttackStyle4": [
+      2,
+      21
+    ]
+  },
+  {
+    "Id": 6,
+    "Level": 6,
+    "Grade": 3,
+    "EffectLevel": 2,
+    "AttackRange1": [
+      1,
+      605
+    ],
+    "AttackRange2": [
+      4,
+      484
+    ],
+    "AttackRange3": [
+      7,
+      303
+    ],
+    "AttackRange4": [
+      16,
+      182
+    ],
+    "Attribute1": [
+      605
+    ],
+    "Attribute2": [
+      605
+    ],
+    "Attribute3": [
+      605
+    ],
+    "Attribute4": [
+      605
+    ],
+    "AttackStyle1": [
+      7
+    ],
+    "AttackStyle2": [
+      7
+    ],
+    "AttackStyle3": [
+      9
+    ],
+    "AttackStyle4": [
+      2,
+      25
+    ]
+  },
+  {
+    "Id": 7,
+    "Level": 7,
+    "Grade": 3,
+    "EffectLevel": 2,
+    "AttackRange1": [
+      1,
+      817
+    ],
+    "AttackRange2": [
+      4,
+      654
+    ],
+    "AttackRange3": [
+      7,
+      409
+    ],
+    "AttackRange4": [
+      17,
+      245
+    ],
+    "Attribute1": [
+      817
+    ],
+    "Attribute2": [
+      817
+    ],
+    "Attribute3": [
+      817
+    ],
+    "Attribute4": [
+      817
+    ],
+    "AttackStyle1": [
+      8
+    ],
+    "AttackStyle2": [
+      8
+    ],
+    "AttackStyle3": [
+      11
+    ],
+    "AttackStyle4": [
+      2,
+      30
+    ]
+  },
+  {
+    "Id": 8,
+    "Level": 8,
+    "Grade": 4,
+    "EffectLevel": 3,
+    "AttackRange1": [
+      1,
+      1303
+    ],
+    "AttackRange2": [
+      5,
+      1042
+    ],
+    "AttackRange3": [
+      8,
+      652
+    ],
+    "AttackRange4": [
+      18,
+      391
+    ],
+    "Attribute1": [
+      1303
+    ],
+    "Attribute2": [
+      1303
+    ],
+    "Attribute3": [
+      1303
+    ],
+    "Attribute4": [
+      1303
+    ],
+    "AttackStyle1": [
+      11
+    ],
+    "AttackStyle2": [
+      9
+    ],
+    "AttackStyle3": [
+      15
+    ],
+    "AttackStyle4": [
+      2,
+      37
+    ]
+  },
+  {
+    "Id": 9,
+    "Level": 9,
+    "Grade": 4,
+    "EffectLevel": 3,
+    "AttackRange1": [
+      1,
+      1820
+    ],
+    "AttackRange2": [
+      5,
+      1456
+    ],
+    "AttackRange3": [
+      8,
+      910
+    ],
+    "AttackRange4": [
+      19,
+      546
+    ],
+    "Attribute1": [
+      1820
+    ],
+    "Attribute2": [
+      1820
+    ],
+    "Attribute3": [
+      1820
+    ],
+    "Attribute4": [
+      1820
+    ],
+    "AttackStyle1": [
+      14
+    ],
+    "AttackStyle2": [
+      10
+    ],
+    "AttackStyle3": [
+      19
+    ],
+    "AttackStyle4": [
+      2,
+      47
+    ]
+  },
+  {
+    "Id": 10,
+    "Level": 10,
+    "Grade": 5,
+    "EffectLevel": 4,
+    "AttackRange1": [
+      1,
+      2520
+    ],
+    "AttackRange2": [
+      6,
+      2016
+    ],
+    "AttackRange3": [
+      9,
+      1260
+    ],
+    "AttackRange4": [
+      20,
+      756
+    ],
+    "Attribute1": [
+      2520
+    ],
+    "Attribute2": [
+      2520
+    ],
+    "Attribute3": [
+      2520
+    ],
+    "Attribute4": [
+      2520
+    ],
+    "AttackStyle1": [
+      20
+    ],
+    "AttackStyle2": [
+      12
+    ],
+    "AttackStyle3": [
+      26
+    ],
+    "AttackStyle4": [
+      2,
+      60
+    ]
+  },
+  {
+    "Id": 11,
+    "Level": 11,
+    "Grade": 6,
+    "EffectLevel": 5,
+    "AttackRange1": [
+      1,
+      3330
+    ],
+    "AttackRange2": [
+      7,
+      2664
+    ],
+    "AttackRange3": [
+      10,
+      1665
+    ],
+    "AttackRange4": [
+      21,
+      999
+    ],
+    "Attribute1": [
+      3330
+    ],
+    "Attribute2": [
+      3330
+    ],
+    "Attribute3": [
+      3330
+    ],
+    "Attribute4": [
+      3330
+    ],
+    "AttackStyle1": [
+      20
+    ],
+    "AttackStyle2": [
+      14
+    ],
+    "AttackStyle3": [
+      33
+    ],
+    "AttackStyle4": [
+      2,
+      75
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "package": "com.gear2.growslayer",
+  "version": "700.0.4",
+  "version_code": 705,
+  "native_sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+  "step13_bounded_cases": 522,
+  "contract_cases": 8,
+  "connected_sequences": 3,
+  "sequence_actions": 9,
+  "scoped_checks": [
+    {
+      "scope": "enemy_lifecycle",
+      "passed": true,
+      "native_report": "enemy-lifecycle-native-report.json",
+      "javascript_report": "js-enemy_lifecycle-report.json",
+      "limits": "Linked GetDmg + selected status/mastery bodies -> original HP accessors/DmgResult/DOT/instant-kill/Death -> modeled ordered multicast of original EnemyNormal.DeadEvent, PlayerKillCountEvent and CheckLastSkillIndex -> original StageItemDrop/reward helpers. Normal/Boss/SpecialBoss modifier outputs still explicit fixtures. Delegate construction/BaseSetting read statically; multicast invocation, secure/BCL/getters/RNG/Unity and downstream GameManager.Enemy_Dead, MineItemDrop, dead-buff/kill subscribers are declared dependencies. No full battle/acquisition/backend/Unity parity."
+    },
+    {
+      "scope": "full_damage",
+      "passed": true,
+      "native_report": "full-damage-native-report.json",
+      "javascript_report": "js-full_damage-report.json",
+      "limits": "Stronger linked original normal/boss/special modifiers, element tables, full/high/low HP, orb/theme/beast/spirit math plus hit/HP/instant-kill/death/normal loot chain. No modifier-return constants. Warm EnemyNormal callbacks are an explicit profile, not every boss subclass. Secure/stat getters, spirit availability, multicast construction, RNG/Unity and downstream manager/skill callbacks remain declared fixtures; no full account/battle/backend parity."
+    },
+    {
+      "scope": "stage_death",
+      "passed": true,
+      "native_report": "stage-death-native-report.json",
+      "javascript_report": "js-stage_death-report.json",
+      "limits": "True-damage hit/HP/death/normal-loot -> native GameManager.Enemy_Dead/EnemyRemove on mode0 paths, list removal, deactivate, WaveCount int32 and wave9->10 reward-box vector offset. Spawn, stage-bar, restart coroutine and Unity/list dependencies explicit. rightVector static values declared fixtures; not all modes, spawn implementation, stage clear/account or full game parity."
+    }
+  ],
+  "all_client_logic_analyzed": false,
+  "all_game_logic_recovered": false,
+  "native_game_executed": false,
+  "game_services_called": false,
+  "live_ifix_loaded": false,
+  "h5_building_paused": true,
+  "deployed_this_step": false,
+  "new_or_substitute_assets_created": false,
+  "common_native_vm_changes": {
+    "file": "../logic-step6/tools/native_flow_vm.py",
+    "changes": [
+      "Optional read-only instruction observer records selected native entries",
+      "Selected NEON DUP .2s, FADD/FMUL .2s and MOV scalar lane for mode0 reward-box position"
+    ],
+    "prior_corpora_regenerated_this_step": false
+  },
+  "limits": [
+    "Warm EnemyNormal multicast fixture; BaseSetting registration read statically, not fully executed",
+    "Upstream buff/stat/secure-wrapper population, spirit availability and RNG are explicit fixtures",
+    "All boss/overridden death lifecycles and all game modes remain incomplete",
+    "GameManager mode0 progression uses spawn/stage-bar/restart-coroutine sinks; no complete spawn/clear implementation",
+    "Dropped effects are not automatically acquired account resources",
+    "Full Android/Unity scheduler/asset-animation/gameplay/account/IFix/backend parity is not established"
+  ],
+  "case_total_notes": "288 linked HP/lifecycle cases include stronger rechecks of earlier hit orchestration; 162 stronger modifier cases remove fixed modifier outputs; 72 mode0 true-damage cases isolate transition logic after a lethal hit. Not completion percentage or whole-game test coverage.",
+  "current_port_sha256": {
+    "recovered-enemy-lifecycle.mjs": "892c28250b02d02a5c013293ad543fef0a7325da72b413f6a51da0f4a9adf953",
+    "recovered-enemy-result.mjs": "a79e425f47d7e53e9ce156e5dc0c84b46d06d678c24559059c62ec68848e1f6f",
+    "recovered-full-damage.mjs": "2174e33ba609923d31bca1e2a7a9f5ceec78863a1ad8b3f11718974bb11461f9",
+    "recovered-full-modifiers.mjs": "120a0ea8bf5b5a52813fd0492b73177c6614e053b6bed07fdee141a7b2386ef5",
+    "recovered-stage-death.mjs": "21c54f665270e5e1772f33de191229f63de947c8789423a3774a8a384f9d76ef",
+    "verify-enemy-lifecycle.mjs": "901f6abe71261d8118f03a5e44018f74fb21095ed9216771951d9726703e1091",
+    "verify-full-damage.mjs": "ac6c8359f4aa9514fd4bd34444b66e7cd0d1f4ee52ef5edb90e9a82c87561fa8",
+    "verify-stage-death.mjs": "524dba09fc34d81dbe0ed7a75ce0dd1e76067b669606ade42cf93be7605faca9"
+  }
+}

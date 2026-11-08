@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x60010cb",
+    "name": "GetCurrency",
+    "declaring_type_index": "1141",
+    "declaring_type_full_name": "APIValidator",
+    "native_va": "0x481fbb4",
+    "return_type_index": "61782",
+    "return_type_name": "GrowSlayer.Currency",
+    "parameter_start": "2201",
+    "parameter_count": "1",
+    "flags": "150",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x89a0ec",
+    "end_va": "0x481fcec",
+    "asm_file": "APIValidator__GetCurrency_0x60010cb.asm"
+  }
+]

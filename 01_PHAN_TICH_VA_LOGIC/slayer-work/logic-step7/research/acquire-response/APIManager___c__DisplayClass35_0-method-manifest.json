@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6000e28",
+    "name": "<AcquireItems>b__0",
+    "declaring_type_index": "805",
+    "declaring_type_full_name": "APIManager+<>c__DisplayClass35_0",
+    "native_va": "0x4712360",
+    "return_type_index": "48610",
+    "return_type_name": "generic_instance",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "131",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x894c8c",
+    "end_va": "0x4712448",
+    "asm_file": "APIManager___c__DisplayClass35_0___AcquireItems_b__0_0x6000e28.asm"
+  }
+]

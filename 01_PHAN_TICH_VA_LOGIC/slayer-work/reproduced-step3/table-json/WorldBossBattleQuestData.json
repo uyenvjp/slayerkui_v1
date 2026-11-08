@@ -1,0 +1,362 @@
+[
+  {
+    "Id": 0,
+    "WorldBossQuestType": 1,
+    "Title": "WORLDBOSS_MISSION_1",
+    "NeedCount": 10000,
+    "RewardType": [
+      1,
+      130
+    ],
+    "RewardIndex": [
+      0,
+      1011
+    ],
+    "RewardAmounts": [
+      1000,
+      1
+    ]
+  },
+  {
+    "Id": 1,
+    "WorldBossQuestType": 1,
+    "Title": "WORLDBOSS_MISSION_1",
+    "NeedCount": 20000,
+    "RewardType": [
+      1,
+      130
+    ],
+    "RewardIndex": [
+      0,
+      1011
+    ],
+    "RewardAmounts": [
+      1000,
+      1
+    ]
+  },
+  {
+    "Id": 2,
+    "WorldBossQuestType": 1,
+    "Title": "WORLDBOSS_MISSION_1",
+    "NeedCount": 50000,
+    "RewardType": [
+      1,
+      130
+    ],
+    "RewardIndex": [
+      0,
+      1011
+    ],
+    "RewardAmounts": [
+      1000,
+      1
+    ]
+  },
+  {
+    "Id": 3,
+    "WorldBossQuestType": 1,
+    "Title": "WORLDBOSS_MISSION_1",
+    "NeedCount": 100000,
+    "RewardType": [
+      1,
+      130
+    ],
+    "RewardIndex": [
+      0,
+      1011
+    ],
+    "RewardAmounts": [
+      1000,
+      1
+    ]
+  },
+  {
+    "Id": 4,
+    "WorldBossQuestType": 1,
+    "Title": "WORLDBOSS_MISSION_1",
+    "NeedCount": 200000,
+    "RewardType": [
+      1,
+      130
+    ],
+    "RewardIndex": [
+      0,
+      1011
+    ],
+    "RewardAmounts": [
+      1000,
+      1
+    ]
+  },
+  {
+    "Id": 5,
+    "WorldBossQuestType": 1,
+    "Title": "WORLDBOSS_MISSION_1",
+    "NeedCount": 300000,
+    "RewardType": [
+      1,
+      130
+    ],
+    "RewardIndex": [
+      0,
+      1011
+    ],
+    "RewardAmounts": [
+      1000,
+      1
+    ]
+  },
+  {
+    "Id": 6,
+    "WorldBossQuestType": 1,
+    "Title": "WORLDBOSS_MISSION_1",
+    "NeedCount": 500000,
+    "RewardType": [
+      1,
+      130
+    ],
+    "RewardIndex": [
+      0,
+      1011
+    ],
+    "RewardAmounts": [
+      1000,
+      1
+    ]
+  },
+  {
+    "Id": 7,
+    "WorldBossQuestType": 1,
+    "Title": "WORLDBOSS_MISSION_1",
+    "NeedCount": 700000,
+    "RewardType": [
+      1,
+      130
+    ],
+    "RewardIndex": [
+      0,
+      1011
+    ],
+    "RewardAmounts": [
+      1000,
+      1
+    ]
+  },
+  {
+    "Id": 8,
+    "WorldBossQuestType": 1,
+    "Title": "WORLDBOSS_MISSION_1",
+    "NeedCount": 1000000,
+    "RewardType": [
+      1,
+      130
+    ],
+    "RewardIndex": [
+      0,
+      1011
+    ],
+    "RewardAmounts": [
+      1000,
+      1
+    ]
+  },
+  {
+    "Id": 9,
+    "WorldBossQuestType": 1,
+    "Title": "WORLDBOSS_MISSION_1",
+    "NeedCount": 1500000,
+    "RewardType": [
+      1,
+      130
+    ],
+    "RewardIndex": [
+      0,
+      1011
+    ],
+    "RewardAmounts": [
+      1000,
+      1
+    ]
+  },
+  {
+    "Id": 10,
+    "WorldBossQuestType": 2,
+    "Title": "WORLDBOSS_MISSION_2",
+    "NeedCount": 1,
+    "RewardType": [
+      1,
+      130
+    ],
+    "RewardIndex": [
+      0,
+      1011
+    ],
+    "RewardAmounts": [
+      1000,
+      1
+    ]
+  },
+  {
+    "Id": 11,
+    "WorldBossQuestType": 2,
+    "Title": "WORLDBOSS_MISSION_2",
+    "NeedCount": 2,
+    "RewardType": [
+      1,
+      130
+    ],
+    "RewardIndex": [
+      0,
+      1011
+    ],
+    "RewardAmounts": [
+      1000,
+      1
+    ]
+  },
+  {
+    "Id": 12,
+    "WorldBossQuestType": 2,
+    "Title": "WORLDBOSS_MISSION_2",
+    "NeedCount": 3,
+    "RewardType": [
+      1,
+      130
+    ],
+    "RewardIndex": [
+      0,
+      1011
+    ],
+    "RewardAmounts": [
+      1000,
+      1
+    ]
+  },
+  {
+    "Id": 13,
+    "WorldBossQuestType": 2,
+    "Title": "WORLDBOSS_MISSION_2",
+    "NeedCount": 4,
+    "RewardType": [
+      1,
+      130
+    ],
+    "RewardIndex": [
+      0,
+      1011
+    ],
+    "RewardAmounts": [
+      1000,
+      1
+    ]
+  },
+  {
+    "Id": 14,
+    "WorldBossQuestType": 2,
+    "Title": "WORLDBOSS_MISSION_2",
+    "NeedCount": 5,
+    "RewardType": [
+      1,
+      130
+    ],
+    "RewardIndex": [
+      0,
+      1011
+    ],
+    "RewardAmounts": [
+      1000,
+      1
+    ]
+  },
+  {
+    "Id": 15,
+    "WorldBossQuestType": 2,
+    "Title": "WORLDBOSS_MISSION_2",
+    "NeedCount": 7,
+    "RewardType": [
+      1,
+      130
+    ],
+    "RewardIndex": [
+      0,
+      1011
+    ],
+    "RewardAmounts": [
+      1000,
+      1
+    ]
+  },
+  {
+    "Id": 16,
+    "WorldBossQuestType": 2,
+    "Title": "WORLDBOSS_MISSION_2",
+    "NeedCount": 10,
+    "RewardType": [
+      1,
+      130
+    ],
+    "RewardIndex": [
+      0,
+      1011
+    ],
+    "RewardAmounts": [
+      1000,
+      1
+    ]
+  },
+  {
+    "Id": 17,
+    "WorldBossQuestType": 2,
+    "Title": "WORLDBOSS_MISSION_2",
+    "NeedCount": 15,
+    "RewardType": [
+      1,
+      130
+    ],
+    "RewardIndex": [
+      0,
+      1011
+    ],
+    "RewardAmounts": [
+      1000,
+      1
+    ]
+  },
+  {
+    "Id": 18,
+    "WorldBossQuestType": 2,
+    "Title": "WORLDBOSS_MISSION_2",
+    "NeedCount": 20,
+    "RewardType": [
+      1,
+      130
+    ],
+    "RewardIndex": [
+      0,
+      1011
+    ],
+    "RewardAmounts": [
+      1000,
+      1
+    ]
+  },
+  {
+    "Id": 19,
+    "WorldBossQuestType": 2,
+    "Title": "WORLDBOSS_MISSION_2",
+    "NeedCount": 25,
+    "RewardType": [
+      1,
+      130
+    ],
+    "RewardIndex": [
+      0,
+      1011
+    ],
+    "RewardAmounts": [
+      1000,
+      1
+    ]
+  }
+]

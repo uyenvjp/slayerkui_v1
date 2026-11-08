@@ -1,0 +1,585 @@
+[
+  {
+    "Id": 0,
+    "EventType": 0,
+    "Active": true,
+    "Main": false,
+    "DisplayCurrency": [],
+    "ShopCurrency": 0,
+    "EventPassProductType": 0,
+    "StepUpPackageEventType": 0,
+    "IconPath": "Event/None/EventIconWait",
+    "Popup": ""
+  },
+  {
+    "Id": 10,
+    "EventType": 10,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      215,
+      216
+    ],
+    "ShopCurrency": 216,
+    "EventPassProductType": 109,
+    "StepUpPackageEventType": 0,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 11,
+    "EventType": 11,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      217,
+      218
+    ],
+    "ShopCurrency": 218,
+    "EventPassProductType": 116,
+    "StepUpPackageEventType": 0,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 12,
+    "EventType": 12,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      220,
+      219
+    ],
+    "ShopCurrency": 219,
+    "EventPassProductType": 123,
+    "StepUpPackageEventType": 0,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 13,
+    "EventType": 13,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      223,
+      222
+    ],
+    "ShopCurrency": 222,
+    "EventPassProductType": 130,
+    "StepUpPackageEventType": 0,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 14,
+    "EventType": 14,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      225,
+      224
+    ],
+    "ShopCurrency": 224,
+    "EventPassProductType": 137,
+    "StepUpPackageEventType": 0,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 15,
+    "EventType": 15,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      227,
+      226
+    ],
+    "ShopCurrency": 226,
+    "EventPassProductType": 144,
+    "StepUpPackageEventType": 0,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 16,
+    "EventType": 16,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      229,
+      228
+    ],
+    "ShopCurrency": 228,
+    "EventPassProductType": 151,
+    "StepUpPackageEventType": 0,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 17,
+    "EventType": 17,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      231,
+      230
+    ],
+    "ShopCurrency": 230,
+    "EventPassProductType": 158,
+    "StepUpPackageEventType": 0,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 18,
+    "EventType": 18,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      233,
+      232
+    ],
+    "ShopCurrency": 232,
+    "EventPassProductType": 165,
+    "StepUpPackageEventType": 0,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 19,
+    "EventType": 19,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      235,
+      234
+    ],
+    "ShopCurrency": 234,
+    "EventPassProductType": 172,
+    "StepUpPackageEventType": 0,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 20,
+    "EventType": 20,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      237,
+      236
+    ],
+    "ShopCurrency": 236,
+    "EventPassProductType": 179,
+    "StepUpPackageEventType": 0,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 21,
+    "EventType": 21,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      241,
+      240
+    ],
+    "ShopCurrency": 240,
+    "EventPassProductType": 186,
+    "StepUpPackageEventType": 0,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 22,
+    "EventType": 22,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      244,
+      243
+    ],
+    "ShopCurrency": 243,
+    "EventPassProductType": 193,
+    "StepUpPackageEventType": 0,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 23,
+    "EventType": 23,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      246,
+      245
+    ],
+    "ShopCurrency": 245,
+    "EventPassProductType": 200,
+    "StepUpPackageEventType": 0,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 24,
+    "EventType": 24,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      248,
+      247
+    ],
+    "ShopCurrency": 247,
+    "EventPassProductType": 207,
+    "StepUpPackageEventType": 24,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 25,
+    "EventType": 25,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      250,
+      249
+    ],
+    "ShopCurrency": 249,
+    "EventPassProductType": 217,
+    "StepUpPackageEventType": 25,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 26,
+    "EventType": 26,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      252,
+      251
+    ],
+    "ShopCurrency": 251,
+    "EventPassProductType": 227,
+    "StepUpPackageEventType": 26,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 28,
+    "EventType": 28,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      254,
+      253
+    ],
+    "ShopCurrency": 253,
+    "EventPassProductType": 237,
+    "StepUpPackageEventType": 0,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 29,
+    "EventType": 29,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      256,
+      255
+    ],
+    "ShopCurrency": 255,
+    "EventPassProductType": 252,
+    "StepUpPackageEventType": 0,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 30,
+    "EventType": 30,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      258,
+      257
+    ],
+    "ShopCurrency": 257,
+    "EventPassProductType": 259,
+    "StepUpPackageEventType": 30,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 31,
+    "EventType": 31,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      260,
+      259
+    ],
+    "ShopCurrency": 259,
+    "EventPassProductType": 269,
+    "StepUpPackageEventType": 31,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 32,
+    "EventType": 32,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      263,
+      262
+    ],
+    "ShopCurrency": 262,
+    "EventPassProductType": 279,
+    "StepUpPackageEventType": 32,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 33,
+    "EventType": 33,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      266,
+      265,
+      264
+    ],
+    "ShopCurrency": 264,
+    "EventPassProductType": 289,
+    "StepUpPackageEventType": 0,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 34,
+    "EventType": 34,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      268,
+      267
+    ],
+    "ShopCurrency": 267,
+    "EventPassProductType": 301,
+    "StepUpPackageEventType": 34,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 35,
+    "EventType": 35,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      270,
+      269
+    ],
+    "ShopCurrency": 269,
+    "EventPassProductType": 311,
+    "StepUpPackageEventType": 35,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 36,
+    "EventType": 36,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      272,
+      271
+    ],
+    "ShopCurrency": 271,
+    "EventPassProductType": 321,
+    "StepUpPackageEventType": 36,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 37,
+    "EventType": 37,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      274,
+      273
+    ],
+    "ShopCurrency": 273,
+    "EventPassProductType": 331,
+    "StepUpPackageEventType": 37,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 38,
+    "EventType": 38,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      276,
+      275
+    ],
+    "ShopCurrency": 275,
+    "EventPassProductType": 341,
+    "StepUpPackageEventType": 38,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 39,
+    "EventType": 39,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      279,
+      278
+    ],
+    "ShopCurrency": 278,
+    "EventPassProductType": 351,
+    "StepUpPackageEventType": 39,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 40,
+    "EventType": 40,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      281,
+      280
+    ],
+    "ShopCurrency": 280,
+    "EventPassProductType": 361,
+    "StepUpPackageEventType": 0,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 41,
+    "EventType": 41,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      283,
+      282
+    ],
+    "ShopCurrency": 282,
+    "EventPassProductType": 376,
+    "StepUpPackageEventType": 41,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 42,
+    "EventType": 42,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      285,
+      284
+    ],
+    "ShopCurrency": 284,
+    "EventPassProductType": 386,
+    "StepUpPackageEventType": 42,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 43,
+    "EventType": 43,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      287,
+      286
+    ],
+    "ShopCurrency": 286,
+    "EventPassProductType": 396,
+    "StepUpPackageEventType": 43,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 44,
+    "EventType": 44,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      289,
+      288
+    ],
+    "ShopCurrency": 288,
+    "EventPassProductType": 406,
+    "StepUpPackageEventType": 0,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 45,
+    "EventType": 45,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      291,
+      290
+    ],
+    "ShopCurrency": 290,
+    "EventPassProductType": 426,
+    "StepUpPackageEventType": 45,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 46,
+    "EventType": 46,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      294,
+      293
+    ],
+    "ShopCurrency": 293,
+    "EventPassProductType": 436,
+    "StepUpPackageEventType": 46,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 47,
+    "EventType": 47,
+    "Active": false,
+    "Main": false,
+    "DisplayCurrency": [
+      296,
+      295
+    ],
+    "ShopCurrency": 295,
+    "EventPassProductType": 446,
+    "StepUpPackageEventType": 47,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  },
+  {
+    "Id": 48,
+    "EventType": 48,
+    "Active": true,
+    "Main": true,
+    "DisplayCurrency": [
+      298,
+      297
+    ],
+    "ShopCurrency": 297,
+    "EventPassProductType": 456,
+    "StepUpPackageEventType": 48,
+    "IconPath": "Event/EventIcon",
+    "Popup": "PopupEventMain"
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "package": "com.gear2.growslayer",
+  "version": "700.0.4",
+  "version_code": 705,
+  "native_sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+  "step7_bounded_native_model_cases": 5521,
+  "scoped_checks": [
+    {
+      "scope": "rewards",
+      "passed": true,
+      "native_cases": 1025,
+      "native_report": "reward-native-flow-report.json",
+      "javascript_report": "js-reward-flow-report.json",
+      "limits": "Nine entry bodies: StageItemDrop, StageGoldAmount, GoldAmount_Nobuff, Gold_Cal, Exp_Cal, Gold_Get, SoulDivision, StageMonsterIndex, Probability; explicit decrypted values/RNG/manager/dictionary/effect fixtures. No native execution or server/gameplay parity."
+    },
+    {
+      "scope": "enemy_ai",
+      "passed": true,
+      "native_cases": 162,
+      "native_report": "ai-native-flow-report.json",
+      "javascript_report": "js-ai-flow-report.json",
+      "limits": "One EnemyBase attack iterator body with explicit virtual getters, state setter, transform and GameDeltaTime fixtures; no animation events/whole Unity loop."
+    },
+    {
+      "scope": "lifecycle",
+      "passed": true,
+      "native_cases": 212,
+      "native_report": "lifecycle-native-flow-report.json",
+      "javascript_report": "js-lifecycle-flow-report.json",
+      "limits": "Co_FakeDeath.MoveNext, DefeatCoroutine.MoveNext, SetRebornState bodies. Downstream healing, movement, BattleEnd and Unity effects modeled; no full lifecycle or scheduler parity.",
+      "javascript_translation_cases": 200,
+      "native_setter_contract_cases": 12
+    },
+    {
+      "scope": "acquisition",
+      "passed": true,
+      "native_cases": 144,
+      "native_report": "acquisition-native-flow-report.json",
+      "javascript_report": "js-acquisition-flow-report.json",
+      "limits": "Two DropObject.AddCurrency bodies. Preallocated List paths, constructors/string conversion/enum mapping/GainCurrency/AcquireItems explicitly modeled; no server callback or full account parity."
+    },
+    {
+      "scope": "equipment_upgrade",
+      "passed": true,
+      "native_cases": 3978,
+      "native_report": "upgrade-native-flow-report.json",
+      "javascript_report": "js-upgrade-flow-report.json",
+      "limits": "Six bounded equipment method bodies. Original level-table rows; decoded wrappers, List lookup, cube getter, ApplyEquipment/PointerUp (within gate), diagnostics and audio/API sinks explicitly modeled. No complete upgrade/account/server parity."
+    }
+  ],
+  "previous_step6_cases_regenerated_and_passed": 2268,
+  "all_client_logic_analyzed": false,
+  "all_game_logic_recovered": false,
+  "native_game_executed": false,
+  "live_ifix_loaded": false,
+  "game_services_called": false,
+  "h5_experiment": "Local draft existed before the latest user correction. Further building and all deployment paused; this checkpoint contains analysis only.",
+  "hosted": false,
+  "new_or_substitute_assets_created": false,
+  "drafts_without_whole_body_flow_validation": [
+    "port/recovered-enemy-damage.mjs"
+  ],
+  "scope_notes": "Synthetic fixtures with declared downstream hooks; no Unity/Android/live IFix/backend/gameplay parity. The 1701 original level rows are data coverage for arithmetic, not 1701 recovered subsystems.",
+  "current_port_sha256": {
+    "recovered-acquisition-queue.mjs": "729edb7c9c73b4c371ac3acbb3f24af0b382fb2f3c7101a576d5ec8f50356ba9",
+    "recovered-enemy-ai.mjs": "4a026fc06a1034d2df4b85aac960da7d9f65df5e39a25c89539c637b550b3058",
+    "recovered-enemy-damage.mjs": "6b97af1946bc9867ce0b86c610a8b67fe3310e9b83f9089ae34f35040d0245e5",
+    "recovered-equipment-upgrade.mjs": "ccecdfba2a1c8507fdc364f7053e5b0877876d77f1fd8d2448ead7220d07fb84",
+    "recovered-player-lifecycle.mjs": "83b1931fcd22df110f7341759b9a413a6f2ebb54be1ecf9c223f3527146ea6aa",
+    "recovered-stage-rewards.mjs": "4ff69a38858850e9ab675ddbca76788e8bf3307b2f95176662a0680791ad8d2e",
+    "verify-acquisition.mjs": "c0c1c1be14fed1eba6083096aad40ceb63531502534940e2a87dc261290f0e14",
+    "verify-enemy-ai.mjs": "42cbc8b960ce4a6b45326d6983c1f6c2573ee046a8263f036cb3095f9981c856",
+    "verify-lifecycle.mjs": "bac37352dda8344fa2b6018fccbf8342e2e6aa388c369eddc9928703999d7c41",
+    "verify-rewards.mjs": "1e11ab9fcbd02225d7910220f10394a968c50e6178558879bf4c7142b88df2a0",
+    "verify-upgrade.mjs": "2996bd2d5f4389c6e36d5f3126ae24cf016ac1fa0c490846e2ca95a7e522272e"
+  }
+}

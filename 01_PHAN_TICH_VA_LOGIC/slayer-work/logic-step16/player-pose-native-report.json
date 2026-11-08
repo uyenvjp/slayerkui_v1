@@ -1,0 +1,15 @@
+{
+  "cases": 78,
+  "partial_or_error_cases": 9,
+  "distinct_native_instructions": 274,
+  "completed_native_steps": 4872,
+  "walk_cloak_indices": [
+    1,
+    2,
+    3,
+    1,
+    2,
+    3
+  ],
+  "scope": "Six PlayerBase pose callbacks and Costume_Display on unpatched ARM64. Verified array indexing and ordered costume/body writes. Unity object access and cloak/head/face/hair operations are explicit sinks."
+}

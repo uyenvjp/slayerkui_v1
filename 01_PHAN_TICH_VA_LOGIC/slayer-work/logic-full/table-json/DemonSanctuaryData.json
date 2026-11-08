@@ -1,0 +1,98 @@
+[
+  {
+    "Id": 0,
+    "PlayerClass": 11,
+    "BonusDemonIndex": 300,
+    "HarvestMinTime": 15,
+    "DemonSoulOrbAmount": 1,
+    "DemonSoulEssenceAmount": 6
+  },
+  {
+    "Id": 1,
+    "PlayerClass": 12,
+    "BonusDemonIndex": 301,
+    "HarvestMinTime": 80,
+    "DemonSoulOrbAmount": 2,
+    "DemonSoulEssenceAmount": 6
+  },
+  {
+    "Id": 2,
+    "PlayerClass": 13,
+    "BonusDemonIndex": 303,
+    "HarvestMinTime": 20,
+    "DemonSoulOrbAmount": 3,
+    "DemonSoulEssenceAmount": 6
+  },
+  {
+    "Id": 3,
+    "PlayerClass": 14,
+    "BonusDemonIndex": 201,
+    "HarvestMinTime": 160,
+    "DemonSoulOrbAmount": 5,
+    "DemonSoulEssenceAmount": 6
+  },
+  {
+    "Id": 4,
+    "PlayerClass": 15,
+    "BonusDemonIndex": 102,
+    "HarvestMinTime": 320,
+    "DemonSoulOrbAmount": 10,
+    "DemonSoulEssenceAmount": 6
+  },
+  {
+    "Id": 5,
+    "PlayerClass": 16,
+    "BonusDemonIndex": 100,
+    "HarvestMinTime": 45,
+    "DemonSoulOrbAmount": 15,
+    "DemonSoulEssenceAmount": 6
+  },
+  {
+    "Id": 6,
+    "PlayerClass": 17,
+    "BonusDemonIndex": 202,
+    "HarvestMinTime": 128,
+    "DemonSoulOrbAmount": 50,
+    "DemonSoulEssenceAmount": 6
+  },
+  {
+    "Id": 7,
+    "PlayerClass": 18,
+    "BonusDemonIndex": 103,
+    "HarvestMinTime": 1152,
+    "DemonSoulOrbAmount": 100,
+    "DemonSoulEssenceAmount": 6
+  },
+  {
+    "Id": 8,
+    "PlayerClass": 19,
+    "BonusDemonIndex": 200,
+    "HarvestMinTime": 5,
+    "DemonSoulOrbAmount": 300,
+    "DemonSoulEssenceAmount": 6
+  },
+  {
+    "Id": 9,
+    "PlayerClass": 20,
+    "BonusDemonIndex": 203,
+    "HarvestMinTime": 1728,
+    "DemonSoulOrbAmount": 1000,
+    "DemonSoulEssenceAmount": 6
+  },
+  {
+    "Id": 10,
+    "PlayerClass": 21,
+    "BonusDemonIndex": 302,
+    "HarvestMinTime": 108,
+    "DemonSoulOrbAmount": 1500,
+    "DemonSoulEssenceAmount": 6
+  },
+  {
+    "Id": 11,
+    "PlayerClass": 22,
+    "BonusDemonIndex": 101,
+    "HarvestMinTime": 288,
+    "DemonSoulOrbAmount": 2000,
+    "DemonSoulEssenceAmount": 6
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "Id": 1,
+    "Content": "다이아몬드 상자 I",
+    "LevelLimit": 0,
+    "PeriodLimitType": 0,
+    "MaxBuyCount": 0,
+    "ConsumeType": [
+      9
+    ],
+    "ConsumeAmount": [
+      1000
+    ],
+    "RewardType": [
+      1
+    ],
+    "RewardIndex": [
+      0
+    ],
+    "RewardAmount": [
+      20000
+    ]
+  },
+  {
+    "Id": 2,
+    "Content": "에메랄드 상자 I",
+    "LevelLimit": 0,
+    "PeriodLimitType": 0,
+    "MaxBuyCount": 0,
+    "ConsumeType": [
+      9
+    ],
+    "ConsumeAmount": [
+      1000
+    ],
+    "RewardType": [
+      7
+    ],
+    "RewardIndex": [
+      0
+    ],
+    "RewardAmount": [
+      5000
+    ]
+  },
+  {
+    "Id": 3,
+    "Content": "속성석 교환",
+    "LevelLimit": 200,
+    "PeriodLimitType": 1,
+    "MaxBuyCount": 3,
+    "ConsumeType": [
+      3,
+      5,
+      11,
+      12
+    ],
+    "ConsumeAmount": [
+      1000,
+      1000,
+      1000,
+      1000
+    ],
+    "RewardType": [
+      7
+    ],
+    "RewardIndex": [
+      0
+    ],
+    "RewardAmount": [
+      1000
+    ]
+  },
+  {
+    "Id": 4,
+    "Content": "깃털 교환",
+    "LevelLimit": 200,
+    "PeriodLimitType": 1,
+    "MaxBuyCount": 3,
+    "ConsumeType": [
+      10
+    ],
+    "ConsumeAmount": [
+      1
+    ],
+    "RewardType": [
+      7
+    ],
+    "RewardIndex": [
+      0
+    ],
+    "RewardAmount": [
+      50
+    ]
+  },
+  {
+    "Id": 5,
+    "Content": "다이아몬드 교환",
+    "LevelLimit": 200,
+    "PeriodLimitType": 1,
+    "MaxBuyCount": 5,
+    "ConsumeType": [
+      1
+    ],
+    "ConsumeAmount": [
+      800
+    ],
+    "RewardType": [
+      7
+    ],
+    "RewardIndex": [
+      0
+    ],
+    "RewardAmount": [
+      200
+    ]
+  },
+  {
+    "Id": 6,
+    "Content": "주사위 교환",
+    "LevelLimit": 200,
+    "PeriodLimitType": 1,
+    "MaxBuyCount": 5,
+    "ConsumeType": [
+      4
+    ],
+    "ConsumeAmount": [
+      2000
+    ],
+    "RewardType": [
+      7
+    ],
+    "RewardIndex": [
+      0
+    ],
+    "RewardAmount": [
+      200
+    ]
+  },
+  {
+    "Id": 7,
+    "Content": "찬란한 황금 상자 I",
+    "LevelLimit": 0,
+    "PeriodLimitType": 6,
+    "MaxBuyCount": 1,
+    "ConsumeType": [
+      9
+    ],
+    "ConsumeAmount": [
+      100
+    ],
+    "RewardType": [
+      130
+    ],
+    "RewardIndex": [
+      2001
+    ],
+    "RewardAmount": [
+      1
+    ]
+  },
+  {
+    "Id": 8,
+    "Content": "속성석 상자 I",
+    "LevelLimit": 0,
+    "PeriodLimitType": 2,
+    "MaxBuyCount": 2,
+    "ConsumeType": [
+      9
+    ],
+    "ConsumeAmount": [
+      500
+    ],
+    "RewardType": [
+      20
+    ],
+    "RewardIndex": [
+      0
+    ],
+    "RewardAmount": [
+      5000
+    ]
+  },
+  {
+    "Id": 9,
+    "Content": "헌터 지원 상자 I",
+    "LevelLimit": 0,
+    "PeriodLimitType": 3,
+    "MaxBuyCount": 1,
+    "ConsumeType": [
+      9
+    ],
+    "ConsumeAmount": [
+      2500
+    ],
+    "RewardType": [
+      130
+    ],
+    "RewardIndex": [
+      2002
+    ],
+    "RewardAmount": [
+      1
+    ]
+  }
+]

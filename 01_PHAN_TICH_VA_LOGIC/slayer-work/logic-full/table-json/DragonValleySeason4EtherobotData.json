@@ -1,0 +1,182 @@
+[
+  {
+    "Id": 1,
+    "DmgType": 1,
+    "StatIndex": 0,
+    "SkillType": 1,
+    "SkillInitValue": 5.0,
+    "SkillValue": 1.0,
+    "MaxUpgradeCount": 10
+  },
+  {
+    "Id": 2,
+    "DmgType": 1,
+    "StatIndex": 1,
+    "SkillType": 101,
+    "SkillInitValue": 0.0,
+    "SkillValue": 10.0,
+    "MaxUpgradeCount": 10
+  },
+  {
+    "Id": 3,
+    "DmgType": 1,
+    "StatIndex": 2,
+    "SkillType": 102,
+    "SkillInitValue": 0.0,
+    "SkillValue": 10.0,
+    "MaxUpgradeCount": 10
+  },
+  {
+    "Id": 4,
+    "DmgType": 1,
+    "StatIndex": 3,
+    "SkillType": 103,
+    "SkillInitValue": 0.0,
+    "SkillValue": 10.0,
+    "MaxUpgradeCount": 10
+  },
+  {
+    "Id": 5,
+    "DmgType": 1,
+    "StatIndex": 4,
+    "SkillType": 104,
+    "SkillInitValue": 0.0,
+    "SkillValue": 5.0,
+    "MaxUpgradeCount": 10
+  },
+  {
+    "Id": 6,
+    "DmgType": 2,
+    "StatIndex": 0,
+    "SkillType": 2,
+    "SkillInitValue": 3.0,
+    "SkillValue": 0.10000000149011612,
+    "MaxUpgradeCount": 10
+  },
+  {
+    "Id": 7,
+    "DmgType": 2,
+    "StatIndex": 1,
+    "SkillType": 101,
+    "SkillInitValue": 0.0,
+    "SkillValue": 10.0,
+    "MaxUpgradeCount": 10
+  },
+  {
+    "Id": 8,
+    "DmgType": 2,
+    "StatIndex": 2,
+    "SkillType": 102,
+    "SkillInitValue": 0.0,
+    "SkillValue": 10.0,
+    "MaxUpgradeCount": 10
+  },
+  {
+    "Id": 9,
+    "DmgType": 2,
+    "StatIndex": 3,
+    "SkillType": 103,
+    "SkillInitValue": 0.0,
+    "SkillValue": 10.0,
+    "MaxUpgradeCount": 10
+  },
+  {
+    "Id": 10,
+    "DmgType": 2,
+    "StatIndex": 4,
+    "SkillType": 104,
+    "SkillInitValue": 0.0,
+    "SkillValue": 5.0,
+    "MaxUpgradeCount": 10
+  },
+  {
+    "Id": 11,
+    "DmgType": 3,
+    "StatIndex": 0,
+    "SkillType": 3,
+    "SkillInitValue": 0.0,
+    "SkillValue": 30.0,
+    "MaxUpgradeCount": 10
+  },
+  {
+    "Id": 12,
+    "DmgType": 3,
+    "StatIndex": 1,
+    "SkillType": 101,
+    "SkillInitValue": 0.0,
+    "SkillValue": 10.0,
+    "MaxUpgradeCount": 10
+  },
+  {
+    "Id": 13,
+    "DmgType": 3,
+    "StatIndex": 2,
+    "SkillType": 102,
+    "SkillInitValue": 0.0,
+    "SkillValue": 10.0,
+    "MaxUpgradeCount": 10
+  },
+  {
+    "Id": 14,
+    "DmgType": 3,
+    "StatIndex": 3,
+    "SkillType": 103,
+    "SkillInitValue": 0.0,
+    "SkillValue": 10.0,
+    "MaxUpgradeCount": 10
+  },
+  {
+    "Id": 15,
+    "DmgType": 3,
+    "StatIndex": 4,
+    "SkillType": 104,
+    "SkillInitValue": 0.0,
+    "SkillValue": 5.0,
+    "MaxUpgradeCount": 10
+  },
+  {
+    "Id": 16,
+    "DmgType": 4,
+    "StatIndex": 0,
+    "SkillType": 4,
+    "SkillInitValue": 0.0,
+    "SkillValue": 2.0,
+    "MaxUpgradeCount": 10
+  },
+  {
+    "Id": 17,
+    "DmgType": 4,
+    "StatIndex": 1,
+    "SkillType": 101,
+    "SkillInitValue": 0.0,
+    "SkillValue": 10.0,
+    "MaxUpgradeCount": 10
+  },
+  {
+    "Id": 18,
+    "DmgType": 4,
+    "StatIndex": 2,
+    "SkillType": 102,
+    "SkillInitValue": 0.0,
+    "SkillValue": 10.0,
+    "MaxUpgradeCount": 10
+  },
+  {
+    "Id": 19,
+    "DmgType": 4,
+    "StatIndex": 3,
+    "SkillType": 103,
+    "SkillInitValue": 0.0,
+    "SkillValue": 10.0,
+    "MaxUpgradeCount": 10
+  },
+  {
+    "Id": 20,
+    "DmgType": 4,
+    "StatIndex": 4,
+    "SkillType": 104,
+    "SkillInitValue": 0.0,
+    "SkillValue": 5.0,
+    "MaxUpgradeCount": 10
+  }
+]

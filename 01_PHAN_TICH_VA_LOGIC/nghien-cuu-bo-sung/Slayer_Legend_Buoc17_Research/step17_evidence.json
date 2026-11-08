@@ -1,0 +1,320 @@
+{
+  "source": "Slayer Legend 700.0.4, original user XAPK-derived libil2cpp.so + checkpoint metadata maps",
+  "elf_sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+  "total_checks": 53,
+  "count_by_kind": {
+    "B": 1,
+    "BL": 9,
+    "control_flow": 1,
+    "field": 15,
+    "method": 10,
+    "opcode": 17
+  },
+  "checks": [
+    {
+      "kind": "method",
+      "name": "APIManager+<>c__DisplayClass91_0+<<ChangeSkinData>b__0>d.MoveNext",
+      "va": "0x4814950"
+    },
+    {
+      "kind": "method",
+      "name": "SkinManager.<Button_CharacterChange_Confirm>b__169_0",
+      "va": "0x536b50c"
+    },
+    {
+      "kind": "method",
+      "name": "DatabaseManager.Compare",
+      "va": "0x4d5c818"
+    },
+    {
+      "kind": "method",
+      "name": "APIValidator.CheckValue",
+      "va": "0x4808898"
+    },
+    {
+      "kind": "method",
+      "name": "APIManager+<>c__DisplayClass154_0+<<EnterStage>b__0>d.MoveNext",
+      "va": "0x51cbdf8"
+    },
+    {
+      "kind": "method",
+      "name": "StageManager+<>c__DisplayClass22_0.<SelectStage>b__0",
+      "va": "0x53a3494"
+    },
+    {
+      "kind": "method",
+      "name": "StageManager.SelectStage",
+      "va": "0x53a2688"
+    },
+    {
+      "kind": "method",
+      "name": "APIManager.EnterStage",
+      "va": "0x50d0ab4"
+    },
+    {
+      "kind": "method",
+      "name": "GameManager.SceneChage_BlackOut_StageInit",
+      "va": "0x4e45d00"
+    },
+    {
+      "kind": "method",
+      "name": "Network.Request.IsValidCode",
+      "va": "0x5428284"
+    },
+    {
+      "kind": "field",
+      "name": "GrowSlayer.ChangeSkinDataResponse.resultCode_",
+      "offset": "0x18"
+    },
+    {
+      "kind": "field",
+      "name": "GrowSlayer.ChangeSkinDataResponse.usingCharacterIndex_",
+      "offset": "0x1c"
+    },
+    {
+      "kind": "field",
+      "name": "GrowSlayer.ChangeSkinDataResponse.characterChangeCount_",
+      "offset": "0x20"
+    },
+    {
+      "kind": "field",
+      "name": "GrowSlayer.ChangeSkinDataResponse.skinData_",
+      "offset": "0x28"
+    },
+    {
+      "kind": "field",
+      "name": "GrowSlayer.ChangeSkinDataResponse.updateCurrencies_",
+      "offset": "0x30"
+    },
+    {
+      "kind": "field",
+      "name": "GrowSlayer.SkinData.characterNumber_",
+      "offset": "0x18"
+    },
+    {
+      "kind": "field",
+      "name": "GrowSlayer.SkinData.usingSkin_",
+      "offset": "0x20"
+    },
+    {
+      "kind": "field",
+      "name": "StageManager.MovePossible",
+      "offset": "0x70"
+    },
+    {
+      "kind": "field",
+      "name": "StageManager+<>c__DisplayClass22_0.prevStage",
+      "offset": "0x18"
+    },
+    {
+      "kind": "field",
+      "name": "GrowSlayer.EnterStageResponse.resultCode_",
+      "offset": "0x18"
+    },
+    {
+      "kind": "field",
+      "name": "GrowSlayer.EnterStageResponse.stageIndex_",
+      "offset": "0x1c"
+    },
+    {
+      "kind": "field",
+      "name": "StageInfo.Index",
+      "offset": "0x20"
+    },
+    {
+      "kind": "field",
+      "name": "DatabaseManager.CharacterNumber",
+      "offset": "0x568"
+    },
+    {
+      "kind": "field",
+      "name": "DatabaseManager.CharacterChangeCount",
+      "offset": "0x56c"
+    },
+    {
+      "kind": "field",
+      "name": "DatabaseManager.StageCurrent",
+      "offset": "0x78"
+    },
+    {
+      "kind": "opcode",
+      "name": "skin_response_result",
+      "va": "0x4814acc",
+      "opcode": "0xb9401a80"
+    },
+    {
+      "kind": "opcode",
+      "name": "skin_currency_from_response",
+      "va": "0x4814ae0",
+      "opcode": "0xf9401a81"
+    },
+    {
+      "kind": "opcode",
+      "name": "skin_optional_callback",
+      "va": "0x4814af0",
+      "opcode": "0xf94012c8"
+    },
+    {
+      "kind": "opcode",
+      "name": "compare_local_character",
+      "va": "0x536b584",
+      "opcode": "0xb9856915"
+    },
+    {
+      "kind": "opcode",
+      "name": "compare_response_character",
+      "va": "0x536b588",
+      "opcode": "0xb9801e76"
+    },
+    {
+      "kind": "opcode",
+      "name": "compare_local_count",
+      "va": "0x536b5c0",
+      "opcode": "0xb9856d01"
+    },
+    {
+      "kind": "opcode",
+      "name": "compare_response_count",
+      "va": "0x536b5c4",
+      "opcode": "0xb9802262"
+    },
+    {
+      "kind": "opcode",
+      "name": "compare_skin_pointer",
+      "va": "0x536b5d8",
+      "opcode": "0xf9401669"
+    },
+    {
+      "kind": "opcode",
+      "name": "compare_skin_character",
+      "va": "0x536b5e4",
+      "opcode": "0xb9801922"
+    },
+    {
+      "kind": "opcode",
+      "name": "compare_skin_enabled",
+      "va": "0x536b61c",
+      "opcode": "0x39408102"
+    },
+    {
+      "kind": "opcode",
+      "name": "stage_response_result",
+      "va": "0x51cbf74",
+      "opcode": "0xb9401a80"
+    },
+    {
+      "kind": "opcode",
+      "name": "stage_special_code_comparison",
+      "va": "0x51cbf88",
+      "opcode": "0x7100411f"
+    },
+    {
+      "kind": "opcode",
+      "name": "stage_callback_read",
+      "va": "0x51cbf94",
+      "opcode": "0xf9400ec8"
+    },
+    {
+      "kind": "opcode",
+      "name": "stage_check_move_possible",
+      "va": "0x53a276c",
+      "opcode": "0x3941c268"
+    },
+    {
+      "kind": "opcode",
+      "name": "stage_save_previous",
+      "va": "0x53a279c",
+      "opcode": "0xb9001aa0"
+    },
+    {
+      "kind": "opcode",
+      "name": "stage_read_selected_index",
+      "va": "0x53a27ac",
+      "opcode": "0xb9402296"
+    },
+    {
+      "kind": "opcode",
+      "name": "stage_rollback_previous",
+      "va": "0x53a34cc",
+      "opcode": "0xb9401a60"
+    },
+    {
+      "kind": "BL",
+      "name": "skin_valid_code",
+      "at": "0x4814ad4",
+      "target": "0x5428284"
+    },
+    {
+      "kind": "BL",
+      "name": "skin_currency_check",
+      "at": "0x4814aec",
+      "target": "0x4808898"
+    },
+    {
+      "kind": "BL",
+      "name": "skin_index_compare",
+      "at": "0x536b5a8",
+      "target": "0x4d5c818"
+    },
+    {
+      "kind": "BL",
+      "name": "skin_count_compare",
+      "at": "0x536b5cc",
+      "target": "0x4d5c818"
+    },
+    {
+      "kind": "BL",
+      "name": "skin_skinid_compare",
+      "at": "0x536b5f0",
+      "target": "0x4d5c818"
+    },
+    {
+      "kind": "B",
+      "name": "skin_use_bool_compare",
+      "at": "0x536b634",
+      "target": "0x4d5c9b8"
+    },
+    {
+      "kind": "BL",
+      "name": "stage_valid_code",
+      "at": "0x51cbf7c",
+      "target": "0x5428284"
+    },
+    {
+      "kind": "BL",
+      "name": "stage_send_enter_request",
+      "at": "0x53a27f8",
+      "target": "0x50d0ab4"
+    },
+    {
+      "kind": "BL",
+      "name": "stage_immediate_scene_transition",
+      "at": "0x53a2874",
+      "target": "0x4e45d00"
+    },
+    {
+      "kind": "BL",
+      "name": "stage_rollback_scene_transition",
+      "at": "0x53a3530",
+      "target": "0x4e45d00"
+    },
+    {
+      "kind": "control_flow",
+      "name": "stage_result16_error_branch_and_move_guard",
+      "locations": [
+        "0x51cbf80",
+        "0x51cbf88",
+        "0x51cbf8c",
+        "0x53a2770"
+      ]
+    }
+  ],
+  "limitations": [
+    "static non-patched ARM64 code only",
+    "does not reproduce server behavior",
+    "IFix can override functions",
+    "ResultCode 16 symbolic enum meaning not resolved",
+    "response behavior outside traced functions not covered",
+    "not a playable H5 game"
+  ]
+}

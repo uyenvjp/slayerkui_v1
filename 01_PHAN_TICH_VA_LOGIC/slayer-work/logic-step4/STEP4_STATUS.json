@@ -1,0 +1,17 @@
+{
+  "status": "Partial headless combat port; H5 game not built or hosted",
+  "input_version": "700.0.4 / 705",
+  "disassembled_selected_methods": 45,
+  "disassembled_native_bytes": 37584,
+  "native_arithmetic_vectors_passed": 1800,
+  "native_arithmetic_blocks": 18,
+  "manual_branch_checks_passed": 23,
+  "all_gameplay_recovered": false,
+  "live_ifix_patch_recovered": false,
+  "server_implementation_recovered": false,
+  "generated_or_substituted_assets": 0,
+  "apk_or_native_game_code_executed": false,
+  "android_gameplay_parity_tested": false,
+  "h5_mobile_desktop_interactions_tested": false,
+  "website_deployed": false
+}

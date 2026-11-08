@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x60055b4",
+    "name": "LoadSpritesFromKey",
+    "declaring_type_index": "1895",
+    "declaring_type_full_name": "AssetManager",
+    "native_va": "0x4cc8d44",
+    "return_type_index": "55607",
+    "return_type_name": "vector",
+    "parameter_start": "3476",
+    "parameter_count": "2",
+    "flags": "145",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x923e0c",
+    "end_va": "0x4cc9510",
+    "asm_file": "AssetManager__LoadSpritesFromKey_0x60055b4.asm"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x60055c4",
+    "name": "GetSkinSprites",
+    "declaring_type_index": "1895",
+    "declaring_type_full_name": "AssetManager",
+    "native_va": "0x4ccb0cc",
+    "return_type_index": "55607",
+    "return_type_name": "vector",
+    "parameter_start": "3493",
+    "parameter_count": "1",
+    "flags": "150",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x92400c",
+    "end_va": "0x4ccb280",
+    "asm_file": "AssetManager__GetSkinSprites_0x60055c4.asm"
+  }
+]

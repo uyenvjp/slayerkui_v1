@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "BuffType": 0,
+    "Value": 0.0
+  },
+  {
+    "Id": 2,
+    "BuffType": 0,
+    "Value": 5.0
+  },
+  {
+    "Id": 3,
+    "BuffType": 0,
+    "Value": 10.0
+  },
+  {
+    "Id": 4,
+    "BuffType": 100,
+    "Value": 10.0
+  }
+]

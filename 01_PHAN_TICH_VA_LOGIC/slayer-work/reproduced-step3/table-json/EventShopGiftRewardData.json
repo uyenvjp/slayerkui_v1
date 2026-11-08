@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 0,
+    "RewardType": 1,
+    "RewardAmount": 5000,
+    "Rate": 10.0
+  },
+  {
+    "Id": 1,
+    "RewardType": 5,
+    "RewardAmount": 5000,
+    "Rate": 5.0
+  },
+  {
+    "Id": 2,
+    "RewardType": 7,
+    "RewardAmount": 250,
+    "Rate": 5.0
+  },
+  {
+    "Id": 3,
+    "RewardType": 10,
+    "RewardAmount": 5,
+    "Rate": 10.0
+  },
+  {
+    "Id": 4,
+    "RewardType": 1,
+    "RewardAmount": 1000,
+    "Rate": 20.0
+  },
+  {
+    "Id": 5,
+    "RewardType": 11,
+    "RewardAmount": 5000,
+    "Rate": 5.0
+  },
+  {
+    "Id": 6,
+    "RewardType": 7,
+    "RewardAmount": 1250,
+    "Rate": 10.0
+  },
+  {
+    "Id": 7,
+    "RewardType": 12,
+    "RewardAmount": 5000,
+    "Rate": 5.0
+  },
+  {
+    "Id": 8,
+    "RewardType": 1,
+    "RewardAmount": 3000,
+    "Rate": 5.0
+  },
+  {
+    "Id": 9,
+    "RewardType": 10,
+    "RewardAmount": 2,
+    "Rate": 10.0
+  },
+  {
+    "Id": 10,
+    "RewardType": 7,
+    "RewardAmount": 750,
+    "Rate": 10.0
+  },
+  {
+    "Id": 11,
+    "RewardType": 3,
+    "RewardAmount": 5000,
+    "Rate": 5.0
+  }
+]

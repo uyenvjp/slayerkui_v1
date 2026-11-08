@@ -1,0 +1,161 @@
+[
+  {
+    "Id": 1,
+    "CurrencyType": 6116,
+    "IconDungeonType": 12,
+    "Value": 0.10000000149011612,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6012,
+      6014,
+      6015
+    ],
+    "MaterialCounts": [
+      60,
+      20,
+      100
+    ]
+  },
+  {
+    "Id": 2,
+    "CurrencyType": 6117,
+    "IconDungeonType": 12,
+    "Value": 5.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6013,
+      6015,
+      6005
+    ],
+    "MaterialCounts": [
+      200,
+      140,
+      2
+    ]
+  },
+  {
+    "Id": 3,
+    "CurrencyType": 6109,
+    "IconDungeonType": 12,
+    "Value": 5.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6013,
+      6012,
+      6014,
+      6005
+    ],
+    "MaterialCounts": [
+      100,
+      40,
+      25,
+      1
+    ]
+  },
+  {
+    "Id": 4,
+    "CurrencyType": 6103,
+    "IconDungeonType": 12,
+    "Value": 3.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6012,
+      6014,
+      6015,
+      6005
+    ],
+    "MaterialCounts": [
+      25,
+      40,
+      60,
+      1
+    ]
+  },
+  {
+    "Id": 5,
+    "CurrencyType": 6104,
+    "IconDungeonType": 12,
+    "Value": 5.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6013,
+      6012,
+      6015
+    ],
+    "MaterialCounts": [
+      150,
+      40,
+      80
+    ]
+  },
+  {
+    "Id": 6,
+    "CurrencyType": 6105,
+    "IconDungeonType": 12,
+    "Value": 5.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6013,
+      6014,
+      6015
+    ],
+    "MaterialCounts": [
+      50,
+      20,
+      140
+    ]
+  },
+  {
+    "Id": 7,
+    "CurrencyType": 6106,
+    "IconDungeonType": 12,
+    "Value": 5.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6013,
+      6012,
+      6014
+    ],
+    "MaterialCounts": [
+      150,
+      35,
+      15
+    ]
+  },
+  {
+    "Id": 8,
+    "CurrencyType": 6107,
+    "IconDungeonType": 12,
+    "Value": 5.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6013,
+      6012,
+      6015,
+      6005
+    ],
+    "MaterialCounts": [
+      200,
+      30,
+      60,
+      2
+    ]
+  },
+  {
+    "Id": 9,
+    "CurrencyType": 6118,
+    "IconDungeonType": 0,
+    "Value": 1.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6013,
+      6014,
+      6005
+    ],
+    "MaterialCounts": [
+      200,
+      10,
+      1
+    ]
+  }
+]

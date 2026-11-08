@@ -1,0 +1,239 @@
+[
+  {
+    "Id": 1,
+    "ProductType": 701,
+    "PromotionIndex": 1,
+    "QuestionNumber": 0,
+    "Choices": [
+      4,
+      12,
+      30,
+      21,
+      31,
+      22
+    ],
+    "Answers": [
+      2,
+      3
+    ],
+    "AnswerCount": 2,
+    "Question": "PROMOTION_PASS_QUESTION_1",
+    "Recommendation": "PROMOTION_PASS_RECOMMENDATION_1",
+    "RecommendedSkills": [
+      20,
+      30,
+      21,
+      2
+    ]
+  },
+  {
+    "Id": 2,
+    "ProductType": 701,
+    "PromotionIndex": 1,
+    "QuestionNumber": 1,
+    "Choices": [
+      23,
+      4,
+      35,
+      2,
+      37,
+      15
+    ],
+    "Answers": [
+      0,
+      2,
+      3,
+      5
+    ],
+    "AnswerCount": 4,
+    "Question": "PROMOTION_PASS_QUESTION_2",
+    "Recommendation": "PROMOTION_PASS_RECOMMENDATION_2",
+    "RecommendedSkills": [
+      20,
+      30,
+      2,
+      15
+    ]
+  },
+  {
+    "Id": 3,
+    "ProductType": 701,
+    "PromotionIndex": 1,
+    "QuestionNumber": 2,
+    "Choices": [
+      1,
+      26,
+      15,
+      4,
+      28,
+      13
+    ],
+    "Answers": [
+      1,
+      5
+    ],
+    "AnswerCount": 2,
+    "Question": "PROMOTION_PASS_QUESTION_3",
+    "Recommendation": "PROMOTION_PASS_RECOMMENDATION_3",
+    "RecommendedSkills": [
+      26,
+      13,
+      6
+    ]
+  },
+  {
+    "Id": 4,
+    "ProductType": 702,
+    "PromotionIndex": 2,
+    "QuestionNumber": 0,
+    "Choices": [
+      8,
+      9,
+      30,
+      20,
+      21,
+      42
+    ],
+    "Answers": [
+      0,
+      3
+    ],
+    "AnswerCount": 2,
+    "Question": "PROMOTION_PASS_QUESTION_4",
+    "Recommendation": "PROMOTION_PASS_RECOMMENDATION_4",
+    "RecommendedSkills": [
+      8,
+      20,
+      4
+    ]
+  },
+  {
+    "Id": 5,
+    "ProductType": 702,
+    "PromotionIndex": 2,
+    "QuestionNumber": 1,
+    "Choices": [
+      9,
+      8,
+      30,
+      42,
+      31,
+      21
+    ],
+    "Answers": [
+      2,
+      3
+    ],
+    "AnswerCount": 2,
+    "Question": "PROMOTION_PASS_QUESTION_5",
+    "Recommendation": "PROMOTION_PASS_RECOMMENDATION_5",
+    "RecommendedSkills": [
+      20,
+      30,
+      42
+    ]
+  },
+  {
+    "Id": 6,
+    "ProductType": 702,
+    "PromotionIndex": 2,
+    "QuestionNumber": 2,
+    "Choices": [
+      9,
+      30,
+      21,
+      42,
+      41,
+      31
+    ],
+    "Answers": [
+      0,
+      2
+    ],
+    "AnswerCount": 2,
+    "Question": "PROMOTION_PASS_QUESTION_6",
+    "Recommendation": "PROMOTION_PASS_RECOMMENDATION_6",
+    "RecommendedSkills": [
+      9,
+      21
+    ]
+  },
+  {
+    "Id": 7,
+    "ProductType": 703,
+    "PromotionIndex": 3,
+    "QuestionNumber": 0,
+    "Choices": [
+      41,
+      9,
+      21,
+      22,
+      30,
+      42
+    ],
+    "Answers": [
+      1,
+      5
+    ],
+    "AnswerCount": 2,
+    "Question": "PROMOTION_PASS_QUESTION_7",
+    "Recommendation": "PROMOTION_PASS_RECOMMENDATION_7",
+    "RecommendedSkills": [
+      9,
+      42
+    ]
+  },
+  {
+    "Id": 8,
+    "ProductType": 703,
+    "PromotionIndex": 3,
+    "QuestionNumber": 1,
+    "Choices": [
+      16,
+      43,
+      32,
+      44,
+      8,
+      42
+    ],
+    "Answers": [
+      0,
+      3
+    ],
+    "AnswerCount": 2,
+    "Question": "PROMOTION_PASS_QUESTION_8",
+    "Recommendation": "PROMOTION_PASS_RECOMMENDATION_8",
+    "RecommendedSkills": [
+      16,
+      44
+    ]
+  },
+  {
+    "Id": 9,
+    "ProductType": 703,
+    "PromotionIndex": 3,
+    "QuestionNumber": 2,
+    "Choices": [
+      2,
+      4,
+      28,
+      24,
+      37,
+      15
+    ],
+    "Answers": [
+      1,
+      2,
+      4
+    ],
+    "AnswerCount": 3,
+    "Question": "PROMOTION_PASS_QUESTION_9",
+    "Recommendation": "PROMOTION_PASS_RECOMMENDATION_9",
+    "RecommendedSkills": [
+      8,
+      9,
+      4,
+      5
+    ]
+  }
+]

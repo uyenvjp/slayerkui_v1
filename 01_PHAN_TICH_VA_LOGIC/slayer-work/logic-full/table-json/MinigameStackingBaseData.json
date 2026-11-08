@@ -1,0 +1,113 @@
+[
+  {
+    "Id": 0,
+    "CustomerType": "Ellie",
+    "Ingredient": [
+      "GreenOnion",
+      "Bellpepper",
+      "LittleTomato",
+      "Bellpepper",
+      "GreenOnion"
+    ]
+  },
+  {
+    "Id": 1,
+    "CustomerType": "Zic",
+    "Ingredient": [
+      "Pork",
+      "Bellpepper",
+      "Pork",
+      "GreenOnion",
+      "Pork",
+      "Bellpepper"
+    ]
+  },
+  {
+    "Id": 2,
+    "CustomerType": "Miho",
+    "Ingredient": [
+      "Shrimp",
+      "GreenOnion",
+      "Pork",
+      "LittleTomato",
+      "Corn"
+    ]
+  },
+  {
+    "Id": 3,
+    "CustomerType": "Luna",
+    "Ingredient": [
+      "LittleTomato",
+      "Shrimp",
+      "Shrimp",
+      "Shrimp",
+      "LittleTomato"
+    ]
+  },
+  {
+    "Id": 4,
+    "CustomerType": "Sepir",
+    "Ingredient": [
+      "Pork",
+      "GreenOnion",
+      "Bellpepper",
+      "GreenOnion",
+      "Pork"
+    ]
+  },
+  {
+    "Id": 5,
+    "CustomerType": "Tutor",
+    "Ingredient": [
+      "Pork",
+      "LittleTomato",
+      "Shrimp",
+      "GreenOnion",
+      "Bellpepper",
+      "Corn"
+    ]
+  },
+  {
+    "Id": 6,
+    "CustomerType": "Mor",
+    "Ingredient": [
+      "Corn",
+      "Corn",
+      "Corn"
+    ]
+  },
+  {
+    "Id": 7,
+    "CustomerType": "Goblin",
+    "Ingredient": [
+      "LittleTomato",
+      "GreenOnion",
+      "Pork",
+      "Bellpepper",
+      "LittleTomato"
+    ]
+  },
+  {
+    "Id": 8,
+    "CustomerType": "Wolf",
+    "Ingredient": [
+      "GreenOnion",
+      "Bellpepper",
+      "GreenOnion",
+      "Bellpepper",
+      "GreenOnion",
+      "Bellpepper"
+    ]
+  },
+  {
+    "Id": 9,
+    "CustomerType": "Ogre",
+    "Ingredient": [
+      "Shrimp",
+      "Shrimp",
+      "LittleTomato",
+      "Pork",
+      "Pork"
+    ]
+  }
+]

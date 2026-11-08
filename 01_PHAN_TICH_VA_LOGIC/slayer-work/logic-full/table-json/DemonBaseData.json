@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 100,
+    "DemonTypes": 1,
+    "TypeIndex": 1,
+    "CurrencyTypes": 161
+  },
+  {
+    "Id": 101,
+    "DemonTypes": 1,
+    "TypeIndex": 2,
+    "CurrencyTypes": 162
+  },
+  {
+    "Id": 102,
+    "DemonTypes": 1,
+    "TypeIndex": 3,
+    "CurrencyTypes": 163
+  },
+  {
+    "Id": 103,
+    "DemonTypes": 1,
+    "TypeIndex": 4,
+    "CurrencyTypes": 164
+  },
+  {
+    "Id": 200,
+    "DemonTypes": 2,
+    "TypeIndex": 1,
+    "CurrencyTypes": 165
+  },
+  {
+    "Id": 201,
+    "DemonTypes": 2,
+    "TypeIndex": 2,
+    "CurrencyTypes": 166
+  },
+  {
+    "Id": 202,
+    "DemonTypes": 2,
+    "TypeIndex": 3,
+    "CurrencyTypes": 167
+  },
+  {
+    "Id": 203,
+    "DemonTypes": 2,
+    "TypeIndex": 4,
+    "CurrencyTypes": 168
+  },
+  {
+    "Id": 300,
+    "DemonTypes": 3,
+    "TypeIndex": 1,
+    "CurrencyTypes": 169
+  },
+  {
+    "Id": 301,
+    "DemonTypes": 3,
+    "TypeIndex": 2,
+    "CurrencyTypes": 160
+  },
+  {
+    "Id": 302,
+    "DemonTypes": 3,
+    "TypeIndex": 3,
+    "CurrencyTypes": 171
+  },
+  {
+    "Id": 303,
+    "DemonTypes": 3,
+    "TypeIndex": 4,
+    "CurrencyTypes": 172
+  }
+]

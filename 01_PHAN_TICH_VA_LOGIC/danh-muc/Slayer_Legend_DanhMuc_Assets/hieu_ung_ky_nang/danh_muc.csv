@@ -1,0 +1,471 @@
+﻿phan_loai,goi_goc,loai_unity,ten_asset,path_id,kich_thuoc_bytes
+hieu_ung_ky_nang,popup,Sprite,SlashBasic3_1,-9223323391853278686,472
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_11,-9208674193573925418,612
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_17,-9191263536251960646,572
+hieu_ung_ky_nang,popup,Sprite,SkillEdgeBack,-9165482422122296163,500
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_3,-9144482469377569879,500
+hieu_ung_ky_nang,popup,Sprite,coineffect_6,-9124834989337093856,528
+hieu_ung_ky_nang,popup,Sprite,Skillact_Wind_9,-9090246096905590855,876
+hieu_ung_ky_nang,popup,Texture2D,Slash_green,-9081538747095582917,212
+hieu_ung_ky_nang,popup,Sprite,magiccircle03,-9069256690885386810,15096
+hieu_ung_ky_nang,popup,Texture2D,1003_SeasonSkill,-9064555034983033034,216
+hieu_ung_ky_nang,popup,Texture2D,ElectricCharge5,-9020192651231802365,216
+hieu_ung_ky_nang,popup,Sprite,DirtEffect00_0,-9001481326181775279,720
+hieu_ung_ky_nang,popup,Sprite,runeffect_4,-8998600631150658893,536
+hieu_ung_ky_nang,popup,Sprite,Skillact_Wind_10,-8985980894917342725,688
+hieu_ung_ky_nang,popup,Sprite,dashEffect_4,-8965901065204960865,2184
+hieu_ung_ky_nang,popup,Texture2D,Goods_SeasonSkillPoint,-8831077351384141098,224
+hieu_ung_ky_nang,popup,Texture2D,magic_blast,-8827288568732241875,212
+hieu_ung_ky_nang,popup,Texture2D,sactx-0-2048x2048-ASTC 6x6-Atlas_SkillEffect_Buff-74470219,-8746131203037875004,260
+hieu_ung_ky_nang,popup,Sprite,UI_PromotionPackagebundle_SkillMastery_2,-8734603758362922427,600
+hieu_ung_ky_nang,popup,Sprite,runeffect_7,-8632720728975198760,612
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_21,-8611295444704209145,980
+hieu_ung_ky_nang,popup,Sprite,Skillact_Wind_15,-8611084776401885414,464
+hieu_ung_ky_nang,popup,Texture2D,arrowParticle,-8296635819004839766,216
+hieu_ung_ky_nang,popup,SpriteAtlas,SkillCard_Atlas,-8240886513918868126,11112
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_1,-8172472746105437366,756
+hieu_ung_ky_nang,popup,Texture2D,magiccircle01,-8137394642389627320,216
+hieu_ung_ky_nang,popup,Sprite,icon_skillproficiency,-8091120938181284198,756
+hieu_ung_ky_nang,popup,Sprite,skill_plusIcon,-8074925837373685427,636
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_0,-8070228450881714851,576
+hieu_ung_ky_nang,popup,Sprite,effect_cameraHit01,-8038231313071476770,832
+hieu_ung_ky_nang,popup,Sprite,coineffect_3,-7990272212415181247,536
+hieu_ung_ky_nang,popup,Sprite,ThunderEffect_1,-7963590748924678463,1028
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge4_6,-7962518796348813573,1380
+hieu_ung_ky_nang,popup,Sprite,InfoBtn_skill,-7960666246483745423,532
+hieu_ung_ky_nang,popup,Sprite,SkillEdge 5,-7948880411234963134,1808
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge4_3,-7826895002835089486,1200
+hieu_ung_ky_nang,popup,Sprite,efx_hit_1,-7794729373905056660,544
+hieu_ung_ky_nang,popup,Sprite,aura00_06,-7759928031919507258,468
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_19,-7743855562508420677,668
+hieu_ung_ky_nang,popup,Sprite,aura00_03,-7711962788374273404,628
+hieu_ung_ky_nang,popup,Sprite,efx_hit_12,-7650757519496934414,468
+hieu_ung_ky_nang,popup,Sprite,SeasonSkillUI_PassBanner_1,-7627768345511037257,448
+hieu_ung_ky_nang,popup,Sprite,dashEffect_7,-7609634814619322016,468
+hieu_ung_ky_nang,popup,Sprite,Slash_green_6,-7382695770474526140,580
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_4,-7329956445456589732,740
+hieu_ung_ky_nang,popup,Sprite,Icon_BeastSkill,-7268059908503167568,824
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_8,-7215311300715573744,1020
+hieu_ung_ky_nang,popup,Sprite,Slash_9,-7163160695789889653,860
+hieu_ung_ky_nang,popup,Sprite,Slash_green_3,-7162743009614235493,528
+hieu_ung_ky_nang,popup,Sprite,Skillact_Wind_5,-7138022718308953943,856
+hieu_ung_ky_nang,popup,Texture2D,CFX_T_Anim7_Electricity,-6952644469439697496,224
+hieu_ung_ky_nang,popup,Sprite,aura00_00,-6897137365918369662,672
+hieu_ung_ky_nang,popup,Sprite,Skillact_Earth_1,-6724188418344182123,612
+hieu_ung_ky_nang,popup,Texture2D,Icon_Blackorb_Attack,-6717289339913700383,220
+hieu_ung_ky_nang,popup,SpriteAtlas,Atlas_BattleBasicEffect_Attack,-6649944472026392093,14304
+hieu_ung_ky_nang,popup,Sprite,runeffect_5,-6568661494185446819,544
+hieu_ung_ky_nang,popup,Sprite,ThunderEffect_4,-6545655931691936194,3044
+hieu_ung_ky_nang,popup,Texture2D,RandomItem_Skill 4,-6464741289063773250,220
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_0,-6442368609076856355,440
+hieu_ung_ky_nang,popup,Sprite,SlashBasic2_1,-6405161214707119598,772
+hieu_ung_ky_nang,popup,Texture2D,Icon_SeasonSkill,-6386231576539720820,216
+hieu_ung_ky_nang,popup,Sprite,Icon_SeasonSkill,-6374901805445903745,728
+hieu_ung_ky_nang,popup,Sprite,Skillact_Earth_12,-6363915129224921968,700
+hieu_ung_ky_nang,popup,Sprite,Skillact_Wind_8,-6315704677662074542,1008
+hieu_ung_ky_nang,popup,Sprite,TimeAttack_15,-6269824663292519513,436
+hieu_ung_ky_nang,popup,Sprite,ClawEffect00_1,-6206173035115965304,720
+hieu_ung_ky_nang,popup,Sprite,efx_hit_0,-6169588794495756320,544
+hieu_ung_ky_nang,popup,Sprite,SlashBasic2_3,-6155181577468973700,548
+hieu_ung_ky_nang,popup,Sprite,SlashBasic_3,-6038939375798184696,608
+hieu_ung_ky_nang,popup,Sprite,efx_hit_8,-6006359248570678153,800
+hieu_ung_ky_nang,popup,Sprite,TimeAttack_13,-5940492709143577852,436
+hieu_ung_ky_nang,popup,Sprite,AttackActiveThunderEffect_4,-5936158961345464117,3056
+hieu_ung_ky_nang,popup,Sprite,DirtEffect00_7,-5932633178856423981,1560
+hieu_ung_ky_nang,popup,Sprite,DirtEffect00_7,-5893785974653734080,616
+hieu_ung_ky_nang,popup,Sprite,runeffect_9,-5844457042056237593,528
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_17,-5823231376490000598,604
+hieu_ung_ky_nang,popup,Sprite,TimeAttack_6,-5743650866328244016,432
+hieu_ung_ky_nang,popup,Sprite,TimeAttack_8,-5702380851491406439,432
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge4_9,-5701695274681497743,1184
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_12,-5674065881192014745,708
+hieu_ung_ky_nang,popup,Sprite,efx_hit_11,-5601964958625084531,468
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_9,-5589671739271713573,888
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_8,-5561337558668919788,632
+hieu_ung_ky_nang,popup,Sprite,Skillact_Wind_4,-5526934884698252309,732
+hieu_ung_ky_nang,popup,Sprite,SlashBasic3_3,-5467929477296601668,472
+hieu_ung_ky_nang,popup,Texture2D,AttackActiveThunderEffect,-5421870804903311818,228
+hieu_ung_ky_nang,popup,Sprite,aura00_07,-5364037685287350656,468
+hieu_ung_ky_nang,popup,Sprite,Skillact_Wind_11,-5351366982026684199,712
+hieu_ung_ky_nang,popup,Sprite,SeasonSkillUI_PassBanner_2,-5291327476548561141,448
+hieu_ung_ky_nang,popup,Sprite,1003_SeasonSkill,-5230283588918795856,472
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_5,-5222141846808892513,876
+hieu_ung_ky_nang,popup,Sprite,dashEffect_3,-5209294152899698328,2228
+hieu_ung_ky_nang,popup,Sprite,Slot_SkillStone_iconX,-5158915041844505809,616
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_15,-5120584277439688748,588
+hieu_ung_ky_nang,popup,Sprite,UI_PromotionPackagebundle_SkillMastery_5,-5117341497138479625,756
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_21,-5107082791698456191,552
+hieu_ung_ky_nang,popup,Sprite,SkillGrindingCurrencylight,-5093237691710004501,984
+hieu_ung_ky_nang,popup,Sprite,SlashBasic2_2,-5058798333422151335,524
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_20,-5027183828936638622,980
+hieu_ung_ky_nang,popup,Sprite,skill_frozen_icon,-5022731611450362513,784
+hieu_ung_ky_nang,popup,Sprite,SlashBasic2_0,-5019677269751552429,860
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_20,-5004023010531722218,492
+hieu_ung_ky_nang,popup,Texture2D,AttackActiveThunderEffect_1,-4984563448650412918,228
+hieu_ung_ky_nang,popup,Sprite,magiccircle02,-4982225433070507749,10428
+hieu_ung_ky_nang,popup,Sprite,dashEffect_2,-4976143577597697194,2064
+hieu_ung_ky_nang,popup,Texture2D,SkillMastery_Icon,-4969094988903461814,220
+hieu_ung_ky_nang,popup,Sprite,SlashBasic2_0,-4957638094787610131,564
+hieu_ung_ky_nang,popup,Sprite,SeasonSkill_bg,-4900281106128775378,436
+hieu_ung_ky_nang,popup,Sprite,Goods_SeasonSkillPoint,-4884524697640023619,544
+hieu_ung_ky_nang,popup,Sprite,TeleportEffect_2,-4878490113637692421,660
+hieu_ung_ky_nang,popup,Sprite,runeffect_6,-4873842690426734928,536
+hieu_ung_ky_nang,popup,Sprite,DirtEffect00_4,-4855929726462471677,724
+hieu_ung_ky_nang,popup,Sprite,SeasonSkillUI_PassBanner_0,-4798223224142022056,448
+hieu_ung_ky_nang,popup,Sprite,SkillEdge,-4773203603179335363,564
+hieu_ung_ky_nang,popup,Texture2D,TimeAttackCheckBtn,-4738716336452282536,220
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_0,-4642959726663498545,440
+hieu_ung_ky_nang,popup,Texture2D,DemonIcon_Mastery_AttackRange,-4640216876218450358,232
+hieu_ung_ky_nang,popup,Sprite,Skillact_Wind_0,-4599861143913126253,556
+hieu_ung_ky_nang,popup,Sprite,magiccircle00,-4582143686396833008,4084
+hieu_ung_ky_nang,popup,Texture2D,Slot_SkillStone_iconX,-4532215889244921273,224
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_0,-4491102801002231641,568
+hieu_ung_ky_nang,popup,Sprite,efx_hit_6,-4474963696654186174,692
+hieu_ung_ky_nang,popup,Texture2D,aura_punch,-4462342505114997421,212
+hieu_ung_ky_nang,popup,Sprite,runeffect_8,-4461488324963185425,536
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_8,-4436461621190333593,668
+hieu_ung_ky_nang,popup,Sprite,aura00_02,-4342303808585283455,688
+hieu_ung_ky_nang,popup,Sprite,SkillGrinding_UI_0,-4331798225125532217,440
+hieu_ung_ky_nang,popup,Sprite,runeffect_0,-4329878934866926258,544
+hieu_ung_ky_nang,popup,Texture2D,slash_circle01,-4314257259425858933,216
+hieu_ung_ky_nang,popup,Sprite,Skillact_Wind_3,-4304874748940701278,740
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_6,-4258103187760241937,572
+hieu_ung_ky_nang,popup,Sprite,TimeAttackCheckBtn,-4164164800338339325,964
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_16,-4128201985115381793,564
+hieu_ung_ky_nang,popup,Sprite,SlashBasic_2,-4098688834392736221,752
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_11,-4032604601213384624,724
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_5,-4018340625225669756,620
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge4_11,-3847678688800447410,528
+hieu_ung_ky_nang,popup,Sprite,Skillact_Earth_2,-3774068300403716120,716
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_9,-3722233227937653563,896
+hieu_ung_ky_nang,popup,Sprite,SlashBasic_0,-3707515776172099019,856
+hieu_ung_ky_nang,popup,Sprite,SlashBasic2_0,-3671747428645514344,860
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_16,-3580718514295581252,612
+hieu_ung_ky_nang,popup,Sprite,Goods_SeasonSkillPen,-3563761248276832301,532
+hieu_ung_ky_nang,popup,Sprite,SelectRect_skill,-3372632219555156600,536
+hieu_ung_ky_nang,popup,Sprite,SkillGrinding_UI_1,-3352123653661551219,440
+hieu_ung_ky_nang,popup,Sprite,SlashBasic3_2,-3324753443423231867,472
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_6,-3297413815486277421,1024
+hieu_ung_ky_nang,popup,Sprite,SlashBasic5_0,-3275036978237570728,780
+hieu_ung_ky_nang,popup,Sprite,TeleportEffect_4,-3212671352631714458,552
+hieu_ung_ky_nang,popup,Sprite,DirtEffect00_8,-3171892974130898706,472
+hieu_ung_ky_nang,popup,Sprite,DirtEffect00_1,-3119461026769579844,728
+hieu_ung_ky_nang,popup,Sprite,TeleportEffect_1,-2935940831235248356,696
+hieu_ung_ky_nang,popup,Sprite,TimeAttack_0,-2854042304621277144,432
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_12,-2765725888581490166,716
+hieu_ung_ky_nang,popup,Texture2D,FX_TX_RainSplash_03,-2480001565393987568,220
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_4,-2451909897232538600,636
+hieu_ung_ky_nang,popup,Sprite,Skillact_Earth_4,-2285113471273600048,732
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_2,-2277106901046612641,928
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_1,-2258184852093303107,632
+hieu_ung_ky_nang,popup,Sprite,SlashBasic5_2,-2233023475825956284,756
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_13,-2211164103391396552,572
+hieu_ung_ky_nang,popup,Sprite,coineffect_4,-2150089798560319148,536
+hieu_ung_ky_nang,popup,Texture2D,SkillGrindingCurrencylight,-2111481756391966862,228
+hieu_ung_ky_nang,popup,Sprite,efx_hit_3,-2095355894712283804,600
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_12,-2008362276337489774,624
+hieu_ung_ky_nang,popup,Sprite,UI_TimeAttack_1,-1984646630358514739,472
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_14,-1967805286839666729,648
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_7,-1910271308337171665,960
+hieu_ung_ky_nang,popup,Sprite,TimeAttack_7,-1869977141870585357,432
+hieu_ung_ky_nang,popup,Sprite,Slash_5,-1848989558508238431,608
+hieu_ung_ky_nang,popup,Sprite,skill_baseSlot_Wide,-1845524615563479409,528
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_11,-1787909067543006379,608
+hieu_ung_ky_nang,popup,Texture2D,SkillGrinding_bg,-1748678337123943336,216
+hieu_ung_ky_nang,popup,Sprite,Goods_SeasonSkillGoldenPen,-1613158854314457231,644
+hieu_ung_ky_nang,popup,Sprite,Slash_green_13,-1594270526693423650,812
+hieu_ung_ky_nang,popup,Sprite,01_BlazeSlash,-1554308900086215357,492
+hieu_ung_ky_nang,popup,Sprite,Slash_10,-1553519322484336339,792
+hieu_ung_ky_nang,popup,Sprite,dashEffect_5,-1550786722253260657,468
+hieu_ung_ky_nang,popup,Sprite,AttackActiveThunderEffect_6,-1523693026535530124,2320
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_10,-1519662883332028953,632
+hieu_ung_ky_nang,popup,Sprite,SkillEdge 3,-1371681450873268858,1808
+hieu_ung_ky_nang,popup,Texture2D,circleEffect2 1,-1354258305040325002,216
+hieu_ung_ky_nang,popup,Texture2D,magic_line 1,-1353178804753566498,212
+hieu_ung_ky_nang,popup,Texture2D,TeleportEffect 1,-1307097672460562918,216
+hieu_ung_ky_nang,popup,Sprite,aura00_09,-1214618233904844188,468
+hieu_ung_ky_nang,popup,Sprite,AttackActiveThunderEffect_1,-1183244213652321271,1040
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_6,-1070965860513568724,1016
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_18,-1009848202720920601,548
+hieu_ung_ky_nang,popup,Sprite,efx_hit_13,-984497412539406804,468
+hieu_ung_ky_nang,popup,Texture2D,magic_line 2,-894962840975647390,212
+hieu_ung_ky_nang,popup,Sprite,SlashBasic2_1,-855391047801051933,704
+hieu_ung_ky_nang,popup,Sprite,Skillact_Earth_9,-826067410348539051,876
+hieu_ung_ky_nang,popup,Texture2D,magiccircle04,-759193384900589054,216
+hieu_ung_ky_nang,popup,Sprite,Slash_13,-707142245888800845,872
+hieu_ung_ky_nang,popup,Sprite,coineffect_8,-653950984000577103,536
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_22,-648774221567255037,560
+hieu_ung_ky_nang,popup,Sprite,Skillact_Wind_12,-600599301308477820,696
+hieu_ung_ky_nang,popup,Sprite,Slash_7,-582540456390496993,672
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_9,-574398478816882850,764
+hieu_ung_ky_nang,popup,Sprite,SkillEdge_High,-528130328714914390,856
+hieu_ung_ky_nang,popup,Sprite,skill_gear,-527119625134310225,868
+hieu_ung_ky_nang,popup,Texture2D,magic_orb2,-523279336405960699,212
+hieu_ung_ky_nang,popup,Sprite,ui_item_SkillDownload,-491687176606062843,544
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_white_2,-488319088164424585,700
+hieu_ung_ky_nang,popup,Sprite,AttackActiveThunderEffect_3,-487179152576027874,1864
+hieu_ung_ky_nang,popup,Texture2D,sactx-0-2048x2048-ASTC 6x6-Atlas_BattleBasicEffect_Attack-975e2949,-437225873082199995,268
+hieu_ung_ky_nang,popup,Sprite,runeffect_1,-370586261715607735,536
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_9,-345901934132635868,684
+hieu_ung_ky_nang,popup,Sprite,AttackActiveThunderEffect_2,-340697455428961739,1352
+hieu_ung_ky_nang,popup,Sprite,Skillact_Earth_5,-331706306939979280,856
+hieu_ung_ky_nang,popup,Texture2D,magiccircle00,-319441633136091687,216
+hieu_ung_ky_nang,popup,Sprite,ThunderEffect_2,-285902702926073942,1124
+hieu_ung_ky_nang,popup,Texture2D,TimeAttack,-271479260641227106,212
+hieu_ung_ky_nang,popup,Texture2D,magiccircle02,-246517349541472783,216
+hieu_ung_ky_nang,popup,Sprite,dashEffect_0,-231385836351054974,1108
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge4_2,-229663770916471748,636
+hieu_ung_ky_nang,popup,Sprite,Skillact_Wind_1,-151042113780155159,612
+hieu_ung_ky_nang,popup,Texture2D,ui_item_SkillDownload,-50492954563682115,224
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_4,-47080404047312532,752
+hieu_ung_ky_nang,popup,Sprite,Slash_3,5496801733830802,556
+hieu_ung_ky_nang,popup,Texture2D,sactx-0-2048x2048-ASTC 6x6-Atlas_Skill_FirePillar-af3bc628,17796959167670298,260
+hieu_ung_ky_nang,popup,Sprite,dashEffect_1,62404814528220930,1476
+hieu_ung_ky_nang,popup,Sprite,SkillGrinding_bg,96405571648621782,436
+hieu_ung_ky_nang,popup,Sprite,SkillEdge_Legend,139133701189098522,1092
+hieu_ung_ky_nang,popup,Sprite,efx_hit_4,191109197963174302,940
+hieu_ung_ky_nang,popup,Sprite,Skillact_Earth_10,259760856139252935,692
+hieu_ung_ky_nang,popup,SpriteAtlas,Atlas_Skill_FirePillar,272240517519290788,4272
+hieu_ung_ky_nang,popup,Sprite,SlashBasic5_1,296449933691987204,772
+hieu_ung_ky_nang,popup,Sprite,Slash_1,334536502730156495,524
+hieu_ung_ky_nang,popup,Sprite,runeffect_2,348930699906928502,536
+hieu_ung_ky_nang,popup,Sprite,efx_hit_2,352123959780887456,600
+hieu_ung_ky_nang,popup,SpriteAtlas,Atlas_BattleBasicEffect_Skill,363096362230065727,13052
+hieu_ung_ky_nang,popup,Sprite,ThunderEffect_6,563771729706176820,2308
+hieu_ung_ky_nang,popup,Sprite,SkillEdge_Rare,636582005339641489,856
+hieu_ung_ky_nang,popup,Sprite,DirtEffect00_1,722285144408816624,836
+hieu_ung_ky_nang,popup,Sprite,Icon_skillCard,780664987174195704,556
+hieu_ung_ky_nang,popup,Sprite,Icon_Blackorb_Attack,907679010307918051,440
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_5,916119435179219231,868
+hieu_ung_ky_nang,popup,Sprite,Slash_green_0,917787399990752832,512
+hieu_ung_ky_nang,popup,Sprite,dashEffect_6,944659004868141493,468
+hieu_ung_ky_nang,popup,Sprite,SlashBasic2_1,1005837918474653219,772
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge4_4,1008203879030118705,1260
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_22,1107750945390964308,440
+hieu_ung_ky_nang,popup,Sprite,Slash_green_11,1116491406457988739,812
+hieu_ung_ky_nang,popup,Sprite,Slash_green_1,1118756218667576105,504
+hieu_ung_ky_nang,popup,Sprite,SlashBasic5_3,1133757795146988233,612
+hieu_ung_ky_nang,popup,Texture2D,UI_PromotionPackagebundle_SkillMastery,1187256657050435865,240
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge4_0,1344315867830762831,492
+hieu_ung_ky_nang,popup,Sprite,DirtEffect00_0,1351667360284400062,868
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_5,1387823329442275704,648
+hieu_ung_ky_nang,popup,Sprite,Slash_green_7,1396885758141530018,660
+hieu_ung_ky_nang,popup,Texture2D,aura_slam,1580790220088995581,212
+hieu_ung_ky_nang,popup,Texture2D,ClawEffect00,1599377578414182236,212
+hieu_ung_ky_nang,popup,Sprite,circleEffect2 1,1669178328289355658,436
+hieu_ung_ky_nang,popup,Sprite,Skillact_Earth_6,1700485248461756238,1004
+hieu_ung_ky_nang,popup,Sprite,skill_whiteCircle,1775178584383124578,768
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_14,1828638684829417660,612
+hieu_ung_ky_nang,popup,Sprite,Slash_4,1942759293741199707,592
+hieu_ung_ky_nang,popup,Sprite,efx_hit_10,1959710954895077262,616
+hieu_ung_ky_nang,popup,Sprite,Skillact_Earth_13,1981815141213360926,564
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_19,1997906958970255935,648
+hieu_ung_ky_nang,popup,Texture2D,LightningParticle,2033784873531900878,220
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_6,2060595548742477619,632
+hieu_ung_ky_nang,popup,Texture2D,SkillGrinding_UI,2132205930624496270,216
+hieu_ung_ky_nang,popup,Texture2D,Icon_PlazaMagicjar,2198377125080748778,220
+hieu_ung_ky_nang,popup,Sprite,Skillact_Earth_15,2232416714965492459,468
+hieu_ung_ky_nang,popup,Sprite,ThunderEffect_0,2251053475356149291,628
+hieu_ung_ky_nang,popup,Sprite,coineffect_2,2257259236127793122,536
+hieu_ung_ky_nang,popup,Sprite,aura00_08,2260902216081315412,468
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge4_7,2262411460517143306,1632
+hieu_ung_ky_nang,popup,Sprite,SkillEdge_legends,2282713864424370292,724
+hieu_ung_ky_nang,popup,Sprite,Skillact_Earth_3,2388656283503959655,740
+hieu_ung_ky_nang,popup,Sprite,SkillEdge 2,2410905237670656852,1808
+hieu_ung_ky_nang,popup,Sprite,SlashBasic3_2,2425231625549785339,472
+hieu_ung_ky_nang,popup,Sprite,Slash_8,2433647350244555595,816
+hieu_ung_ky_nang,popup,Sprite,SlashBasic3_1,2437146003947583652,472
+hieu_ung_ky_nang,popup,Sprite,ThunderEffect_5,2465679126275048229,2548
+hieu_ung_ky_nang,popup,Texture2D,ElectricCharge4,2510448277323789213,216
+hieu_ung_ky_nang,popup,Sprite,SlashBasic2_3,2615177134591975986,612
+hieu_ung_ky_nang,popup,Sprite,TimeAttack_5,2629927543461835509,432
+hieu_ung_ky_nang,popup,Sprite,Slash_green_5,2677113637736857474,588
+hieu_ung_ky_nang,popup,Sprite,baskill_seButton_click 2,2725631872645031783,616
+hieu_ung_ky_nang,popup,Sprite,SlashBasic2_3,2809741478094735051,612
+hieu_ung_ky_nang,popup,Sprite,00_FlameSlash,2815588620645895358,492
+hieu_ung_ky_nang,popup,Sprite,Skillact_Wind_14,2850530414091227252,464
+hieu_ung_ky_nang,popup,Sprite,skill_LockedIcon,2901773889969173347,560
+hieu_ung_ky_nang,popup,Sprite,Skillact_Earth_8,2939333075883435196,1008
+hieu_ung_ky_nang,popup,Texture2D,sactx-0-2048x2048-ASTC 6x6-Atlas_BattleBasicEffect_Skill-02988df2,3027961893725022905,268
+hieu_ung_ky_nang,popup,Sprite,Icon_PlazaMagicjar,3104510086585358070,700
+hieu_ung_ky_nang,popup,Sprite,TimeAttack_9,3181912817932491433,432
+hieu_ung_ky_nang,popup,Sprite,AttackActiveThunderEffect_4,3261959880247525002,3176
+hieu_ung_ky_nang,popup,Texture2D,DemonUI_Altarskill,3274206098614987021,220
+hieu_ung_ky_nang,popup,Sprite,runeffect_3,3325066949988077583,580
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_8,3397181348102921109,1028
+hieu_ung_ky_nang,popup,Sprite,SlashBasic3_0,3484752863074626808,472
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_white_3,3552117278564997902,724
+hieu_ung_ky_nang,popup,Texture2D,SeasonSkill_bg,3586123920488261025,216
+hieu_ung_ky_nang,popup,Sprite,DirtEffect00_5,3596787507825721903,712
+hieu_ung_ky_nang,popup,Texture2D,Icon_SeasonSkillPackage,3606614898909177740,224
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_13,3668313237914123126,608
+hieu_ung_ky_nang,popup,Sprite,DirtEffect00_6,3727504814288824796,1432
+hieu_ung_ky_nang,popup,Sprite,Skillact_Wind_7,3797800921244453867,940
+hieu_ung_ky_nang,popup,SpriteAtlas,Atlas_SkillEffect_Buff,3849431128397719346,7008
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_13,3862637523687555442,644
+hieu_ung_ky_nang,popup,Sprite,Skillact_Earth_11,3872964383968108576,716
+hieu_ung_ky_nang,popup,Sprite,AttackActiveThunderEffect_5,3877835766668180601,2604
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_14,3899909613502298642,476
+hieu_ung_ky_nang,popup,Sprite,aura00_05,3911075316478637843,640
+hieu_ung_ky_nang,popup,Sprite,DirtEffect00_6,3976287705948601203,704
+hieu_ung_ky_nang,popup,Sprite,TeleportEffect_6,4019556387959830840,552
+hieu_ung_ky_nang,popup,Sprite,UI_PromotionPackagebundle_SkillMastery_1,4027656929599936744,544
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_15,4134238956625551299,476
+hieu_ung_ky_nang,popup,Sprite,UI_TimeAttack_5,4199764931926534536,488
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_4,4357213398431958163,744
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_1,4369502567796950613,440
+hieu_ung_ky_nang,popup,Sprite,rect_skill,4439469718201510265,488
+hieu_ung_ky_nang,popup,Sprite,Skillact_Wind_13,4444795840795012308,560
+hieu_ung_ky_nang,popup,Sprite,Slash_green_12,4452365583790836065,852
+hieu_ung_ky_nang,popup,Sprite,Slash_green_14,4511258967753437422,436
+hieu_ung_ky_nang,popup,Sprite,DirtEffect00_5,4548723103586103989,1396
+hieu_ung_ky_nang,popup,Sprite,SkillGrindingCurrencyBase,4610468569177421671,944
+hieu_ung_ky_nang,popup,Sprite,AttackActiveThunderEffect_6,4628861762607189961,2484
+hieu_ung_ky_nang,popup,Sprite,Slash_green_4,4692713833893819617,564
+hieu_ung_ky_nang,popup,Sprite,Slash_green_10,4709839092086928786,780
+hieu_ung_ky_nang,popup,Sprite,efx_hit_7,4729875029123587363,692
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_10,4789857057841295886,812
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge4_1,4817053099916863031,532
+hieu_ung_ky_nang,popup,Texture2D,Icon_BeastSkill,4833224538264935866,216
+hieu_ung_ky_nang,popup,Sprite,TeleportEffect_5,4837240808202541508,560
+hieu_ung_ky_nang,popup,Sprite,Slash_green_9,4853675815144468687,824
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_15,4859388551002866433,596
+hieu_ung_ky_nang,popup,Sprite,UI_PromotionPackagebundle_SkillMastery_0,4864652054074766683,632
+hieu_ung_ky_nang,popup,Sprite,coineffect_1,4975752792965096099,536
+hieu_ung_ky_nang,popup,Texture2D,Default-ParticleSystem,4988150354445090395,224
+hieu_ung_ky_nang,popup,Texture2D,SeasonSkillUI_PassBanner,5004396687074974167,224
+hieu_ung_ky_nang,popup,Sprite,DirtEffect00_9,5057930114577800917,472
+hieu_ung_ky_nang,popup,Sprite,TeleportEffect_0,5060494863202235536,488
+hieu_ung_ky_nang,popup,Texture2D,magiccircle03,5124202243466602937,216
+hieu_ung_ky_nang,popup,Sprite,SlashBasic2_2,5136151895976847821,756
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_14,5258311672376365220,484
+hieu_ung_ky_nang,popup,Sprite,Slash_2,5263100989383957475,540
+hieu_ung_ky_nang,popup,Sprite,02_ExplosionSlash,5266098799234873591,496
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_7,5272577967435411693,608
+hieu_ung_ky_nang,popup,Texture2D,effect_cameraHit01,5328175794587415115,220
+hieu_ung_ky_nang,popup,Sprite,Slash_green_2,5401748775191696403,512
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge4_8,5448185587299438975,1452
+hieu_ung_ky_nang,popup,Sprite,Slash_12,5518919788541946440,880
+hieu_ung_ky_nang,popup,Texture2D,effect_cameraHit01,5560936831848755463,220
+hieu_ung_ky_nang,popup,Sprite,RandomItem_Skill 4,5577933158607962058,440
+hieu_ung_ky_nang,popup,Sprite,SkillEdge_Epic,5604831789910478674,856
+hieu_ung_ky_nang,popup,Sprite,UI_TimeAttack_6,5620787180045456175,512
+hieu_ung_ky_nang,popup,Texture2D,FX_TX_SimpleCenterSplash_4x4_01,5676811559986464737,232
+hieu_ung_ky_nang,popup,Sprite,aura00_04,5706526422840859097,644
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_7,5725660991608719379,952
+hieu_ung_ky_nang,popup,Sprite,DirtEffect00_3,5740064707788139316,988
+hieu_ung_ky_nang,popup,Texture2D,iceParticle,5799820977131454555,212
+hieu_ung_ky_nang,popup,Texture2D,DemonIcon_Mastery_AttackStyle,5826736914403546183,232
+hieu_ung_ky_nang,popup,Texture2D,ElectricCharge6,5890888195190904427,216
+hieu_ung_ky_nang,popup,Sprite,Skillact_Earth_14,5910296956948864270,468
+hieu_ung_ky_nang,popup,Sprite,ThunderEffect_3,5911539805694285562,1596
+hieu_ung_ky_nang,popup,Sprite,magiccircle01,5922954707436281574,6608
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_18,5968711093212833674,592
+hieu_ung_ky_nang,popup,Sprite,DirtEffect00_8,6025408304839084559,1696
+hieu_ung_ky_nang,popup,Sprite,Slash_0,6048638803118814596,524
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_1,6188342724545780322,624
+hieu_ung_ky_nang,popup,Sprite,AttackActiveThunderEffect_5,6192268459736558404,2560
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge4_10,6201008127247578202,744
+hieu_ung_ky_nang,popup,Sprite,skill_baseStoneBtn,6218733484004429113,536
+hieu_ung_ky_nang,popup,Sprite,AttackActiveThunderEffect_2,6252061607991725568,1136
+hieu_ung_ky_nang,popup,Sprite,DemonUI_Altarskill,6435600346884188946,440
+hieu_ung_ky_nang,popup,Texture2D,icon_skillproficiency,6436713500993112528,224
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_23,6447874085371628733,440
+hieu_ung_ky_nang,popup,Texture2D,Goods_SeasonSkillPen,6460286340982078336,220
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_15,6490317042778960406,484
+hieu_ung_ky_nang,popup,Sprite,coineffect_0,6554212321646308914,536
+hieu_ung_ky_nang,popup,Sprite,Skillact_Earth_7,6555625523387548413,940
+hieu_ung_ky_nang,popup,Sprite,Skillact_Wind_2,6570559272988030637,716
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_3,6614853837777212483,752
+hieu_ung_ky_nang,popup,Texture2D,UI_TimeAttack,6627953478320394954,216
+hieu_ung_ky_nang,popup,Sprite,Skillact_Earth_0,6639148804164663964,556
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_7,6659608528017292553,648
+hieu_ung_ky_nang,popup,Sprite,SlashBasic3_3,6711589024903530058,472
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_10,6737828072575114092,708
+hieu_ung_ky_nang,popup,Sprite,DemonIcon_Mastery_AttackStyle,6740416441553551233,452
+hieu_ung_ky_nang,popup,Sprite,UI_TimeAttack_3,6876175871880489266,480
+hieu_ung_ky_nang,popup,Sprite,efx_hit_9,6899989627429129850,860
+hieu_ung_ky_nang,popup,Sprite,DemonIcon_Mastery_AttackRange,7001657591757276276,452
+hieu_ung_ky_nang,popup,Sprite,DirtEffect00_4,7151312383341321835,1396
+hieu_ung_ky_nang,popup,Sprite,circleEffect2,7173369815987992488,568
+hieu_ung_ky_nang,popup,Sprite,skill_deam,7220728003549794207,504
+hieu_ung_ky_nang,popup,Sprite,Slash_14,7234640466063607286,840
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge4_5,7244991339293289766,1200
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_13,7278271495293445744,580
+hieu_ung_ky_nang,popup,Sprite,SlashBasic_1,7280893061396156529,768
+hieu_ung_ky_nang,popup,Sprite,DirtEffect00_2,7293567704187951603,828
+hieu_ung_ky_nang,popup,Sprite,TeleportEffect_3,7389019056730316213,504
+hieu_ung_ky_nang,popup,Sprite,DirtEffect00_2,7409346819252510888,676
+hieu_ung_ky_nang,popup,Sprite,efx_hit_5,7468509814275887876,736
+hieu_ung_ky_nang,popup,Sprite,SkillMastery_Icon,7469522200954872794,2956
+hieu_ung_ky_nang,popup,Texture2D,ThunderEffect,7470541703107690899,216
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_2,7512659030653701081,528
+hieu_ung_ky_nang,popup,Sprite,Slash_green_15,7529297326090436212,436
+hieu_ung_ky_nang,popup,Sprite,TeleportEffect_4,7545080486097238414,488
+hieu_ung_ky_nang,popup,Texture2D,SkillGrindingCurrencyBase,7550360780972430486,228
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_2,7664815470080546381,736
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_11,7766193875074259772,732
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_10,7861408913543186988,700
+hieu_ung_ky_nang,popup,Sprite,UI_TimeAttack_4,7881907248509322840,576
+hieu_ung_ky_nang,popup,Sprite,coineffect_7,7896237974359540306,536
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge5_3,7933755363971831679,840
+hieu_ung_ky_nang,popup,Sprite,effect_cameraHit01,8125491620638364049,624
+hieu_ung_ky_nang,popup,Sprite,Skillact_Wind_6,8141635814352443786,1004
+hieu_ung_ky_nang,popup,Sprite,aura00_01,8190405187991151596,660
+hieu_ung_ky_nang,popup,Texture2D,magic_line,8242049887751693506,212
+hieu_ung_ky_nang,popup,Texture2D,TeleportEffect,8265193410943604921,216
+hieu_ung_ky_nang,popup,Texture2D,Goods_SeasonSkillGoldenPen,8271487840365805897,228
+hieu_ung_ky_nang,popup,Sprite,Icon_SeasonSkillPackage,8389206198421164083,444
+hieu_ung_ky_nang,popup,Sprite,Slash_11,8398155477673212616,824
+hieu_ung_ky_nang,popup,Sprite,TimeAttack_10,8430393787323292011,436
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_2,8439852056187904054,728
+hieu_ung_ky_nang,popup,Sprite,SlashBasic3_0,8453766615800485669,472
+hieu_ung_ky_nang,popup,Sprite,ElectricCharge6_12,8460470167044573596,656
+hieu_ung_ky_nang,popup,Sprite,Slash_6,8464592167746650460,616
+hieu_ung_ky_nang,popup,Texture2D,Default-Particle,8501139332677272989,216
+hieu_ung_ky_nang,popup,Sprite,AttackActiveThunderEffect_3,8555444476273159977,1608
+hieu_ung_ky_nang,popup,Sprite,DirtEffect00_3,8586506309316504064,876
+hieu_ung_ky_nang,popup,Texture2D,SkillActionEffect_white,8720155001746754651,224
+hieu_ung_ky_nang,popup,Sprite,TimeAttack_14,8723510768812065053,436
+hieu_ung_ky_nang,popup,Texture2D,sactx-0-2048x1024-ETC2-SkillCard_Atlas-6d16f224,8867211140979507871,248
+hieu_ung_ky_nang,popup,Sprite,SlashBasic2_2,8904008416522737634,756
+hieu_ung_ky_nang,popup,Sprite,coineffect_5,8906251380068761991,536
+hieu_ung_ky_nang,popup,Sprite,SkillActionEffect_water_3,8946904628113217079,760
+hieu_ung_ky_nang,popup,Sprite,TeleportEffect_7,9053201432727540057,504
+hieu_ung_ky_nang,popup,Sprite,Slash_green_8,9106256530955411363,788
+hieu_ung_ky_nang,popup,Sprite,AttackActiveThunderEffect_0,9181768795357476263,640
+hieu_ung_ky_nang,popup,Sprite,UI_TimeAttack_2,9218758524653900187,488
+hieu_ung_ky_nang,contents,Sprite,SpiritMainSkill 11,-9204419410191777703,476
+hieu_ung_ky_nang,contents,Sprite,SpiritMainSkill 103,-9152894728912196940,476
+hieu_ung_ky_nang,contents,Sprite,SpiritMainSkill 04,-7629009200235673242,476
+hieu_ung_ky_nang,contents,Texture2D,SpiritMainSkill 103,-6974750099372290333,220
+hieu_ung_ky_nang,contents,Sprite,SpiritMainSkill 104,-6408036168595062929,476
+hieu_ung_ky_nang,contents,Sprite,SpiritMainSkill 12,-5681563191068661627,476
+hieu_ung_ky_nang,contents,Texture2D,SpiritMainSkill 03,-5369676663250599902,220
+hieu_ung_ky_nang,contents,Texture2D,SpiritMainSkill 07,-4719170722052630547,220
+hieu_ung_ky_nang,contents,Texture2D,SpiritMainSkill 101,-4352168738951159984,220
+hieu_ung_ky_nang,contents,Texture2D,SpiritMainSkill 04,-2504550316004568037,220
+hieu_ung_ky_nang,contents,Sprite,SpiritMainSkill 10,-1717963231366964890,476
+hieu_ung_ky_nang,contents,Texture2D,SpiritMainSkill 104,-1697031745062305302,220
+hieu_ung_ky_nang,contents,Texture2D,SpiritMainSkill 06,-782092568273929238,220
+hieu_ung_ky_nang,contents,Sprite,SpiritMainSkill 101,-496152087273334466,476
+hieu_ung_ky_nang,contents,Texture2D,SpiritMainSkill 02,497874649463154253,220
+hieu_ung_ky_nang,contents,Texture2D,SpiritMainSkill 12,1202739181038031354,220
+hieu_ung_ky_nang,contents,Texture2D,SpiritMainSkill 01,1259777346580810181,220
+hieu_ung_ky_nang,contents,Sprite,SpiritMainSkill 05,1337517563290050214,476
+hieu_ung_ky_nang,contents,Sprite,SpiritMainSkill 07,1518002584073534431,476
+hieu_ung_ky_nang,contents,Sprite,SpiritMainSkill 09,1615913387313941633,476
+hieu_ung_ky_nang,contents,Sprite,SpiritMainSkill 06,3608009563501704671,476
+hieu_ung_ky_nang,contents,Sprite,SpiritMainSkill 08,4171346996122137442,476
+hieu_ung_ky_nang,contents,Texture2D,SpiritMainSkill 102,4184877108211271569,220
+hieu_ung_ky_nang,contents,Texture2D,SpiritMainSkill 09,4609247734973854815,220
+hieu_ung_ky_nang,contents,Texture2D,SpiritMainSkill 05,4716221780847880002,220
+hieu_ung_ky_nang,contents,Sprite,SpiritMainSkill 102,5040049214265328800,476
+hieu_ung_ky_nang,contents,Sprite,SpiritMainSkill 03,5157015859659814834,476
+hieu_ung_ky_nang,contents,Texture2D,SpiritMainSkill 11,5509645261026978519,220
+hieu_ung_ky_nang,contents,Texture2D,SpiritMainSkill 100,6022576085808581642,220
+hieu_ung_ky_nang,contents,Texture2D,SpiritMainSkill 10,6332468363508970824,220
+hieu_ung_ky_nang,contents,Sprite,SpiritMainSkill 100,7327685259588937898,476
+hieu_ung_ky_nang,contents,Texture2D,SpiritMainSkill 08,7669037799394291712,220
+hieu_ung_ky_nang,contents,Sprite,SpiritMainSkill 01,8236082104778760367,476
+hieu_ung_ky_nang,contents,Sprite,SpiritMainSkill 02,8454657182979102799,476

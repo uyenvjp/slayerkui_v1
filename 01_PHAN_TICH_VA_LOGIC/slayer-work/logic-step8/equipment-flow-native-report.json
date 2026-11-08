@@ -1,0 +1,9 @@
+{
+  "cases": 421,
+  "snapshots": 72,
+  "connected_sequences": 3,
+  "sequence_actions": 9,
+  "instruction_steps": 213652,
+  "distinct_instructions": 1997,
+  "scope": "Connected upgrade/state/iterator bodies with original native DatabaseManager.UseCurrency/get_UpgradeCube and CurrencyData.Get/Use/getters plus stat/math helpers. Secure wrappers, collections, currency callback observer, event shop selector, UI/formatting, telemetry/quest/audio, Player.Atk_Cal and API sinks are explicitly modeled; not Unity/live IFix/backend parity."
+}

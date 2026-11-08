@@ -1,0 +1,2663 @@
+[
+  {
+    "Id": 500,
+    "AdDelete": false,
+    "CurrencyType": [
+      1,
+      7,
+      4,
+      20
+    ],
+    "CurrencyAmount": [
+      1000,
+      500,
+      100,
+      10
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 501,
+    "AdDelete": false,
+    "CurrencyType": [
+      7,
+      6,
+      100
+    ],
+    "CurrencyAmount": [
+      1100,
+      330000,
+      16
+    ],
+    "CurrencyIndex": [
+      4
+    ]
+  },
+  {
+    "Id": 502,
+    "AdDelete": false,
+    "CurrencyType": [
+      4,
+      1,
+      7,
+      21
+    ],
+    "CurrencyAmount": [
+      300,
+      1500,
+      300,
+      470
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 503,
+    "AdDelete": false,
+    "CurrencyType": [
+      4,
+      7,
+      20,
+      22
+    ],
+    "CurrencyAmount": [
+      5000,
+      500,
+      125,
+      500
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 504,
+    "AdDelete": true,
+    "CurrencyType": [
+      1,
+      7,
+      6,
+      4,
+      20,
+      21
+    ],
+    "CurrencyAmount": [
+      4000,
+      400,
+      40000,
+      400,
+      100,
+      4000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 505,
+    "AdDelete": false,
+    "CurrencyType": [
+      1,
+      7,
+      10,
+      21
+    ],
+    "CurrencyAmount": [
+      50000,
+      5000,
+      50,
+      14000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1050,
+    "AdDelete": false,
+    "CurrencyType": [
+      1,
+      7,
+      4,
+      20
+    ],
+    "CurrencyAmount": [
+      5000,
+      500,
+      10000,
+      10000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 600,
+    "AdDelete": false,
+    "CurrencyType": [
+      1,
+      10,
+      21
+    ],
+    "CurrencyAmount": [
+      25000,
+      15,
+      6400
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 601,
+    "AdDelete": false,
+    "CurrencyType": [
+      7,
+      10,
+      22
+    ],
+    "CurrencyAmount": [
+      8000,
+      10,
+      1600
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 511,
+    "AdDelete": false,
+    "CurrencyType": [
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      1400,
+      1400
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 512,
+    "AdDelete": false,
+    "CurrencyType": [
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      2600,
+      2500
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 513,
+    "AdDelete": false,
+    "CurrencyType": [
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      4900,
+      4200
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 514,
+    "AdDelete": false,
+    "CurrencyType": [
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      38000,
+      14000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 515,
+    "AdDelete": false,
+    "CurrencyType": [
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      68000,
+      25000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 516,
+    "AdDelete": false,
+    "CurrencyType": [
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      134600,
+      43000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 521,
+    "AdDelete": false,
+    "CurrencyType": [
+      7,
+      22
+    ],
+    "CurrencyAmount": [
+      350,
+      350
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 522,
+    "AdDelete": false,
+    "CurrencyType": [
+      7,
+      22
+    ],
+    "CurrencyAmount": [
+      650,
+      625
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 523,
+    "AdDelete": false,
+    "CurrencyType": [
+      7,
+      22
+    ],
+    "CurrencyAmount": [
+      1250,
+      1050
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 524,
+    "AdDelete": false,
+    "CurrencyType": [
+      7,
+      22
+    ],
+    "CurrencyAmount": [
+      9600,
+      3500
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 526,
+    "AdDelete": false,
+    "CurrencyType": [
+      7,
+      22
+    ],
+    "CurrencyAmount": [
+      28800,
+      10500
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1101,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      4,
+      20
+    ],
+    "CurrencyAmount": [
+      1400,
+      18000,
+      1000,
+      2000,
+      500
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1102,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      4,
+      20
+    ],
+    "CurrencyAmount": [
+      1600,
+      30000,
+      1000,
+      3000,
+      1000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1103,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      4
+    ],
+    "CurrencyAmount": [
+      1400,
+      15000,
+      1500,
+      3,
+      5000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1104,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      4
+    ],
+    "CurrencyAmount": [
+      2500,
+      20000,
+      5000,
+      5,
+      8000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1105,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      4
+    ],
+    "CurrencyAmount": [
+      2500,
+      20000,
+      5000,
+      5,
+      8000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1106,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      4
+    ],
+    "CurrencyAmount": [
+      4200,
+      30000,
+      7500,
+      10,
+      20000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1107,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      4
+    ],
+    "CurrencyAmount": [
+      4200,
+      30000,
+      7500,
+      10,
+      20000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1108,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      19
+    ],
+    "CurrencyAmount": [
+      6300,
+      45000,
+      9000,
+      15,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1109,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      18
+    ],
+    "CurrencyAmount": [
+      6300,
+      45000,
+      9000,
+      15,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1110,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      19
+    ],
+    "CurrencyAmount": [
+      6300,
+      45000,
+      9000,
+      15,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1111,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      18
+    ],
+    "CurrencyAmount": [
+      7400,
+      50000,
+      10000,
+      17,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1112,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      19
+    ],
+    "CurrencyAmount": [
+      7400,
+      50000,
+      10000,
+      17,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1113,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      18
+    ],
+    "CurrencyAmount": [
+      7400,
+      50000,
+      10000,
+      17,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1114,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      19
+    ],
+    "CurrencyAmount": [
+      8300,
+      60000,
+      12000,
+      20,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1115,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      18
+    ],
+    "CurrencyAmount": [
+      8300,
+      60000,
+      12000,
+      20,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1116,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      19
+    ],
+    "CurrencyAmount": [
+      8300,
+      60000,
+      12000,
+      20,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1117,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      18
+    ],
+    "CurrencyAmount": [
+      11300,
+      80000,
+      16000,
+      30,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1118,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      19
+    ],
+    "CurrencyAmount": [
+      14000,
+      100000,
+      20000,
+      40,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1119,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      18
+    ],
+    "CurrencyAmount": [
+      7400,
+      50000,
+      10000,
+      17,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1120,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      19
+    ],
+    "CurrencyAmount": [
+      6300,
+      45000,
+      9000,
+      15,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1121,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      18
+    ],
+    "CurrencyAmount": [
+      8300,
+      60000,
+      12000,
+      20,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1122,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      19
+    ],
+    "CurrencyAmount": [
+      11300,
+      80000,
+      16000,
+      30,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1123,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      18
+    ],
+    "CurrencyAmount": [
+      14000,
+      100000,
+      20000,
+      40,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1124,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      19
+    ],
+    "CurrencyAmount": [
+      7400,
+      50000,
+      10000,
+      17,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1125,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      18
+    ],
+    "CurrencyAmount": [
+      6300,
+      45000,
+      9000,
+      15,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1126,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      19
+    ],
+    "CurrencyAmount": [
+      8300,
+      60000,
+      12000,
+      20,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1127,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      18
+    ],
+    "CurrencyAmount": [
+      11300,
+      80000,
+      16000,
+      30,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1128,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      19
+    ],
+    "CurrencyAmount": [
+      14000,
+      100000,
+      20000,
+      40,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1129,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      18
+    ],
+    "CurrencyAmount": [
+      7400,
+      50000,
+      10000,
+      17,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1130,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      19
+    ],
+    "CurrencyAmount": [
+      6300,
+      45000,
+      9000,
+      15,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1131,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      18
+    ],
+    "CurrencyAmount": [
+      5000,
+      35000,
+      7000,
+      20,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1132,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      19
+    ],
+    "CurrencyAmount": [
+      4200,
+      30000,
+      6000,
+      30,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1133,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      18
+    ],
+    "CurrencyAmount": [
+      7400,
+      50000,
+      10000,
+      40,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1134,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      19
+    ],
+    "CurrencyAmount": [
+      2500,
+      18000,
+      3600,
+      6,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1135,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      18
+    ],
+    "CurrencyAmount": [
+      6300,
+      45000,
+      9000,
+      15,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1136,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      19
+    ],
+    "CurrencyAmount": [
+      8300,
+      60000,
+      12000,
+      20,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1137,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      18
+    ],
+    "CurrencyAmount": [
+      11300,
+      80000,
+      16000,
+      30,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1138,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      19
+    ],
+    "CurrencyAmount": [
+      14000,
+      100000,
+      20000,
+      40,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1139,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      18
+    ],
+    "CurrencyAmount": [
+      7400,
+      50000,
+      10000,
+      17,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1140,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      19
+    ],
+    "CurrencyAmount": [
+      6300,
+      45000,
+      9000,
+      15,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1141,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      18
+    ],
+    "CurrencyAmount": [
+      5000,
+      35000,
+      7000,
+      20,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1142,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      18
+    ],
+    "CurrencyAmount": [
+      11300,
+      80000,
+      16000,
+      30,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1143,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      19
+    ],
+    "CurrencyAmount": [
+      14000,
+      100000,
+      20000,
+      40,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1144,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      18
+    ],
+    "CurrencyAmount": [
+      7400,
+      50000,
+      10000,
+      17,
+      5
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 611,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10
+    ],
+    "CurrencyAmount": [
+      1400,
+      5000,
+      200,
+      3
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 612,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      20
+    ],
+    "CurrencyAmount": [
+      3500,
+      8000,
+      1000,
+      2000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1001,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      4,
+      20,
+      295
+    ],
+    "CurrencyAmount": [
+      2500,
+      5000,
+      1000,
+      1000,
+      1000,
+      7000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1002,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      20,
+      295
+    ],
+    "CurrencyAmount": [
+      14000,
+      60000,
+      8000,
+      50,
+      5000,
+      7000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1003,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      19,
+      295
+    ],
+    "CurrencyAmount": [
+      22000,
+      120000,
+      8000,
+      130,
+      10,
+      18000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1004,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      18,
+      295
+    ],
+    "CurrencyAmount": [
+      22000,
+      55000,
+      30000,
+      60,
+      10,
+      18000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1005,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      20,
+      19,
+      295
+    ],
+    "CurrencyAmount": [
+      14000,
+      100000,
+      5000,
+      5,
+      8000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1006,
+    "AdDelete": false,
+    "CurrencyType": [
+      22,
+      7,
+      20,
+      18,
+      295
+    ],
+    "CurrencyAmount": [
+      3500,
+      25000,
+      5000,
+      5,
+      8000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1011,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      4,
+      20,
+      297
+    ],
+    "CurrencyAmount": [
+      2500,
+      5000,
+      1000,
+      1000,
+      1000,
+      6000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1012,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      20,
+      297
+    ],
+    "CurrencyAmount": [
+      14000,
+      60000,
+      5000,
+      50,
+      10000,
+      6000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1013,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      19,
+      297
+    ],
+    "CurrencyAmount": [
+      22000,
+      110000,
+      10000,
+      120,
+      10,
+      15000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1014,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      7,
+      10,
+      18,
+      297
+    ],
+    "CurrencyAmount": [
+      5600,
+      40000,
+      35000,
+      50,
+      10,
+      15000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1015,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      20,
+      19,
+      297
+    ],
+    "CurrencyAmount": [
+      14000,
+      100000,
+      5000,
+      5,
+      6000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1016,
+    "AdDelete": false,
+    "CurrencyType": [
+      22,
+      7,
+      20,
+      18,
+      297
+    ],
+    "CurrencyAmount": [
+      3500,
+      25000,
+      5000,
+      5,
+      6000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 602,
+    "AdDelete": false,
+    "CurrencyType": [
+      21,
+      1,
+      25
+    ],
+    "CurrencyAmount": [
+      1400,
+      3000,
+      20
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 1501,
+    "AdDelete": false,
+    "CurrencyType": [
+      100,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      1,
+      1200,
+      500
+    ],
+    "CurrencyIndex": [
+      21,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 1502,
+    "AdDelete": false,
+    "CurrencyType": [
+      101,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      1,
+      3300,
+      1300
+    ],
+    "CurrencyIndex": [
+      23,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 1503,
+    "AdDelete": false,
+    "CurrencyType": [
+      103,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      1,
+      5500,
+      2200
+    ],
+    "CurrencyIndex": [
+      16,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 1504,
+    "AdDelete": false,
+    "CurrencyType": [
+      104,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      2,
+      12000,
+      4800
+    ],
+    "CurrencyIndex": [
+      11,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 1505,
+    "AdDelete": false,
+    "CurrencyType": [
+      100,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      1,
+      27000,
+      11300
+    ],
+    "CurrencyIndex": [
+      23,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 1506,
+    "AdDelete": false,
+    "CurrencyType": [
+      103,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      1,
+      33000,
+      14000
+    ],
+    "CurrencyIndex": [
+      18,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 999,
+    "AdDelete": false,
+    "CurrencyType": [
+      63,
+      1,
+      21,
+      245
+    ],
+    "CurrencyAmount": [
+      1,
+      1000,
+      400,
+      15000
+    ],
+    "CurrencyIndex": [
+      1105,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 527,
+    "AdDelete": true,
+    "CurrencyType": [
+      1,
+      7,
+      6,
+      4,
+      20,
+      21
+    ],
+    "CurrencyAmount": [
+      4000,
+      400,
+      40000,
+      400,
+      100,
+      4000
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 35,
+    "AdDelete": false,
+    "CurrencyType": [
+      10,
+      18,
+      19,
+      31
+    ],
+    "CurrencyAmount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "CurrencyIndex": []
+  },
+  {
+    "Id": 621,
+    "AdDelete": false,
+    "CurrencyType": [
+      101,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      2,
+      33000,
+      14000
+    ],
+    "CurrencyIndex": [
+      23,
+      0
+    ]
+  },
+  {
+    "Id": 5000,
+    "AdDelete": false,
+    "CurrencyType": [
+      100,
+      1,
+      151,
+      150,
+      21
+    ],
+    "CurrencyAmount": [
+      1,
+      55000,
+      500,
+      500,
+      22000
+    ],
+    "CurrencyIndex": [
+      23,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 622,
+    "AdDelete": false,
+    "CurrencyType": [
+      102,
+      102,
+      102,
+      150,
+      7,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      200,
+      100,
+      20,
+      200,
+      5000,
+      33000,
+      14000
+    ],
+    "CurrencyIndex": [
+      1,
+      2,
+      3,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 715,
+    "AdDelete": false,
+    "CurrencyType": [
+      288,
+      150,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      10000,
+      100,
+      3300,
+      1300
+    ],
+    "CurrencyIndex": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 716,
+    "AdDelete": false,
+    "CurrencyType": [
+      103,
+      151,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      1,
+      100,
+      8900,
+      3600
+    ],
+    "CurrencyIndex": [
+      17,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 717,
+    "AdDelete": false,
+    "CurrencyType": [
+      104,
+      154,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      2,
+      200,
+      17000,
+      6800
+    ],
+    "CurrencyIndex": [
+      22,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 718,
+    "AdDelete": false,
+    "CurrencyType": [
+      101,
+      153,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      1,
+      500,
+      33000,
+      13200
+    ],
+    "CurrencyIndex": [
+      23,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 719,
+    "AdDelete": false,
+    "CurrencyType": [
+      100,
+      152,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      1,
+      1000,
+      55000,
+      22000
+    ],
+    "CurrencyIndex": [
+      23,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 623,
+    "AdDelete": false,
+    "CurrencyType": [
+      102,
+      150,
+      7,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      20,
+      200,
+      5000,
+      55000,
+      22000
+    ],
+    "CurrencyIndex": [
+      39,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 624,
+    "AdDelete": false,
+    "CurrencyType": [
+      104,
+      150,
+      7,
+      20,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      2,
+      300,
+      10000,
+      10000,
+      33000,
+      13200
+    ],
+    "CurrencyIndex": [
+      11,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 625,
+    "AdDelete": false,
+    "CurrencyType": [
+      102,
+      100,
+      150,
+      7,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      10,
+      2,
+      100,
+      3000,
+      33000,
+      13200
+    ],
+    "CurrencyIndex": [
+      18,
+      22,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 626,
+    "AdDelete": false,
+    "CurrencyType": [
+      102,
+      107,
+      150,
+      7,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      10,
+      2,
+      100,
+      5000,
+      55000,
+      22000
+    ],
+    "CurrencyIndex": [
+      40,
+      12,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 627,
+    "AdDelete": false,
+    "CurrencyType": [
+      107,
+      104,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      2,
+      2,
+      33000,
+      13200
+    ],
+    "CurrencyIndex": [
+      1,
+      22,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 5001,
+    "AdDelete": false,
+    "CurrencyType": [
+      5002,
+      25,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      1,
+      50,
+      19000,
+      7600
+    ],
+    "CurrencyIndex": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 628,
+    "AdDelete": false,
+    "CurrencyType": [
+      107,
+      107,
+      10,
+      7,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      1,
+      1,
+      100,
+      10000,
+      33000,
+      13200
+    ],
+    "CurrencyIndex": [
+      6,
+      10,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 629,
+    "AdDelete": false,
+    "CurrencyType": [
+      107,
+      107,
+      18,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      2,
+      2,
+      50,
+      55000,
+      22000
+    ],
+    "CurrencyIndex": [
+      11,
+      7,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 630,
+    "AdDelete": false,
+    "CurrencyType": [
+      103,
+      151,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      1,
+      500,
+      55000,
+      22000
+    ],
+    "CurrencyIndex": [
+      18,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 2011,
+    "AdDelete": false,
+    "CurrencyType": [
+      2007,
+      150
+    ],
+    "CurrencyAmount": [
+      10,
+      30
+    ],
+    "CurrencyIndex": [
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 2012,
+    "AdDelete": false,
+    "CurrencyType": [
+      2007,
+      150,
+      68
+    ],
+    "CurrencyAmount": [
+      20,
+      50,
+      1
+    ],
+    "CurrencyIndex": [
+      0,
+      0,
+      56
+    ]
+  },
+  {
+    "Id": 2013,
+    "AdDelete": false,
+    "CurrencyType": [
+      2007,
+      150,
+      102,
+      7
+    ],
+    "CurrencyAmount": [
+      30,
+      100,
+      100,
+      5000
+    ],
+    "CurrencyIndex": [
+      0,
+      0,
+      30,
+      0
+    ]
+  },
+  {
+    "Id": 2014,
+    "AdDelete": false,
+    "CurrencyType": [
+      2007,
+      150,
+      102,
+      100
+    ],
+    "CurrencyAmount": [
+      50,
+      200,
+      1,
+      2
+    ],
+    "CurrencyIndex": [
+      0,
+      0,
+      7,
+      21
+    ]
+  },
+  {
+    "Id": 631,
+    "AdDelete": false,
+    "CurrencyType": [
+      100,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      1,
+      33000,
+      14000
+    ],
+    "CurrencyIndex": [
+      23,
+      0
+    ]
+  },
+  {
+    "Id": 632,
+    "AdDelete": false,
+    "CurrencyType": [
+      5,
+      11,
+      12,
+      3,
+      7,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      100000,
+      100000,
+      100000,
+      100000,
+      50000,
+      33000,
+      14000
+    ],
+    "CurrencyIndex": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 633,
+    "AdDelete": false,
+    "CurrencyType": [
+      102,
+      104,
+      150,
+      7,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      10,
+      10,
+      300,
+      10000,
+      33000,
+      13200
+    ],
+    "CurrencyIndex": [
+      17,
+      16,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 634,
+    "AdDelete": false,
+    "CurrencyType": [
+      104,
+      150,
+      20,
+      7,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      2,
+      1000,
+      25000,
+      20000,
+      55000,
+      13200
+    ],
+    "CurrencyIndex": [
+      22,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 635,
+    "AdDelete": false,
+    "CurrencyType": [
+      103,
+      151,
+      19,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      1,
+      300,
+      50,
+      55000,
+      22000
+    ],
+    "CurrencyIndex": [
+      18,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 636,
+    "AdDelete": false,
+    "CurrencyType": [
+      102,
+      104,
+      18,
+      7,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      10,
+      10,
+      20,
+      20000,
+      33000,
+      13200
+    ],
+    "CurrencyIndex": [
+      27,
+      16,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 637,
+    "AdDelete": false,
+    "CurrencyType": [
+      100,
+      152,
+      153,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      1,
+      1000,
+      1000,
+      8900,
+      3560
+    ],
+    "CurrencyIndex": [
+      21,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 638,
+    "AdDelete": false,
+    "CurrencyType": [
+      152,
+      153,
+      151,
+      19,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      2000,
+      2000,
+      500,
+      20,
+      33000,
+      13200
+    ],
+    "CurrencyIndex": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 639,
+    "AdDelete": false,
+    "CurrencyType": [
+      107,
+      107,
+      104,
+      154,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      2,
+      2,
+      2,
+      500,
+      55000,
+      22000
+    ],
+    "CurrencyIndex": [
+      4,
+      5,
+      22,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 3010,
+    "AdDelete": false,
+    "CurrencyType": [
+      61,
+      10,
+      3002,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      1,
+      50,
+      3,
+      8900,
+      3560
+    ],
+    "CurrencyIndex": [
+      238,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 3011,
+    "AdDelete": false,
+    "CurrencyType": [
+      104,
+      3000,
+      3002,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      1,
+      10000,
+      5,
+      13000,
+      5200
+    ],
+    "CurrencyIndex": [
+      11,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 3012,
+    "AdDelete": false,
+    "CurrencyType": [
+      103,
+      3001,
+      3002,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      2,
+      10000,
+      10,
+      25000,
+      10000
+    ],
+    "CurrencyIndex": [
+      17,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 3013,
+    "AdDelete": false,
+    "CurrencyType": [
+      3000,
+      3001,
+      3002,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      50000,
+      50000,
+      20,
+      37000,
+      14800
+    ],
+    "CurrencyIndex": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 640,
+    "AdDelete": false,
+    "CurrencyType": [
+      102,
+      102,
+      150,
+      7,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      100,
+      20,
+      100,
+      10000,
+      11000,
+      4400
+    ],
+    "CurrencyIndex": [
+      9,
+      21,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 641,
+    "AdDelete": false,
+    "CurrencyType": [
+      102,
+      102,
+      104,
+      7,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      100,
+      100,
+      1,
+      10000,
+      11000,
+      4400
+    ],
+    "CurrencyIndex": [
+      42,
+      30,
+      6,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 642,
+    "AdDelete": false,
+    "CurrencyType": [
+      101,
+      153,
+      31,
+      20,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      2,
+      2000,
+      20,
+      25000,
+      55000,
+      22000
+    ],
+    "CurrencyIndex": [
+      23,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 643,
+    "AdDelete": false,
+    "CurrencyType": [
+      102,
+      102,
+      150,
+      7,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      20,
+      200,
+      100,
+      5000,
+      11000,
+      4400
+    ],
+    "CurrencyIndex": [
+      28,
+      32,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 644,
+    "AdDelete": false,
+    "CurrencyType": [
+      100,
+      152,
+      19,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      1,
+      5000,
+      50,
+      55000,
+      22000
+    ],
+    "CurrencyIndex": [
+      23,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 645,
+    "AdDelete": false,
+    "CurrencyType": [
+      165,
+      169,
+      161,
+      155,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      1,
+      1,
+      1,
+      666,
+      33000,
+      13200
+    ],
+    "CurrencyIndex": [
+      6,
+      6,
+      6,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 646,
+    "AdDelete": false,
+    "CurrencyType": [
+      167,
+      160,
+      164,
+      155,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      1,
+      1,
+      1,
+      666,
+      55000,
+      22000
+    ],
+    "CurrencyIndex": [
+      7,
+      7,
+      7,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 647,
+    "AdDelete": false,
+    "CurrencyType": [
+      121,
+      121,
+      121,
+      156,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      100,
+      100,
+      100,
+      300,
+      33000,
+      13200
+    ],
+    "CurrencyIndex": [
+      0,
+      1,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": 648,
+    "AdDelete": false,
+    "CurrencyType": [
+      107,
+      154,
+      1,
+      21
+    ],
+    "CurrencyAmount": [
+      4,
+      300,
+      33000,
+      13200
+    ],
+    "CurrencyIndex": [
+      100,
+      0,
+      0,
+      0
+    ]
+  }
+]

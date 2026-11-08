@@ -1,0 +1,248 @@
+[
+  {
+    "Id": 0,
+    "Level": 0,
+    "Price": 500,
+    "InventoryCount": 100
+  },
+  {
+    "Id": 1,
+    "Level": 1,
+    "Price": 500,
+    "InventoryCount": 110
+  },
+  {
+    "Id": 2,
+    "Level": 2,
+    "Price": 500,
+    "InventoryCount": 120
+  },
+  {
+    "Id": 3,
+    "Level": 3,
+    "Price": 500,
+    "InventoryCount": 130
+  },
+  {
+    "Id": 4,
+    "Level": 4,
+    "Price": 500,
+    "InventoryCount": 140
+  },
+  {
+    "Id": 5,
+    "Level": 5,
+    "Price": 1000,
+    "InventoryCount": 150
+  },
+  {
+    "Id": 6,
+    "Level": 6,
+    "Price": 1000,
+    "InventoryCount": 160
+  },
+  {
+    "Id": 7,
+    "Level": 7,
+    "Price": 1000,
+    "InventoryCount": 170
+  },
+  {
+    "Id": 8,
+    "Level": 8,
+    "Price": 1000,
+    "InventoryCount": 180
+  },
+  {
+    "Id": 9,
+    "Level": 9,
+    "Price": 1000,
+    "InventoryCount": 190
+  },
+  {
+    "Id": 10,
+    "Level": 10,
+    "Price": 1500,
+    "InventoryCount": 200
+  },
+  {
+    "Id": 11,
+    "Level": 11,
+    "Price": 1500,
+    "InventoryCount": 210
+  },
+  {
+    "Id": 12,
+    "Level": 12,
+    "Price": 1500,
+    "InventoryCount": 220
+  },
+  {
+    "Id": 13,
+    "Level": 13,
+    "Price": 1500,
+    "InventoryCount": 230
+  },
+  {
+    "Id": 14,
+    "Level": 14,
+    "Price": 1500,
+    "InventoryCount": 240
+  },
+  {
+    "Id": 15,
+    "Level": 15,
+    "Price": 2000,
+    "InventoryCount": 250
+  },
+  {
+    "Id": 16,
+    "Level": 16,
+    "Price": 2000,
+    "InventoryCount": 260
+  },
+  {
+    "Id": 17,
+    "Level": 17,
+    "Price": 2000,
+    "InventoryCount": 270
+  },
+  {
+    "Id": 18,
+    "Level": 18,
+    "Price": 2000,
+    "InventoryCount": 280
+  },
+  {
+    "Id": 19,
+    "Level": 19,
+    "Price": 2000,
+    "InventoryCount": 290
+  },
+  {
+    "Id": 20,
+    "Level": 20,
+    "Price": 2500,
+    "InventoryCount": 300
+  },
+  {
+    "Id": 21,
+    "Level": 21,
+    "Price": 2500,
+    "InventoryCount": 310
+  },
+  {
+    "Id": 22,
+    "Level": 22,
+    "Price": 2500,
+    "InventoryCount": 320
+  },
+  {
+    "Id": 23,
+    "Level": 23,
+    "Price": 2500,
+    "InventoryCount": 330
+  },
+  {
+    "Id": 24,
+    "Level": 24,
+    "Price": 2500,
+    "InventoryCount": 340
+  },
+  {
+    "Id": 25,
+    "Level": 25,
+    "Price": 3000,
+    "InventoryCount": 350
+  },
+  {
+    "Id": 26,
+    "Level": 26,
+    "Price": 3000,
+    "InventoryCount": 360
+  },
+  {
+    "Id": 27,
+    "Level": 27,
+    "Price": 3000,
+    "InventoryCount": 370
+  },
+  {
+    "Id": 28,
+    "Level": 28,
+    "Price": 3000,
+    "InventoryCount": 380
+  },
+  {
+    "Id": 29,
+    "Level": 29,
+    "Price": 3000,
+    "InventoryCount": 390
+  },
+  {
+    "Id": 30,
+    "Level": 30,
+    "Price": 3000,
+    "InventoryCount": 400
+  },
+  {
+    "Id": 31,
+    "Level": 31,
+    "Price": 3000,
+    "InventoryCount": 410
+  },
+  {
+    "Id": 32,
+    "Level": 32,
+    "Price": 3000,
+    "InventoryCount": 420
+  },
+  {
+    "Id": 33,
+    "Level": 33,
+    "Price": 3000,
+    "InventoryCount": 430
+  },
+  {
+    "Id": 34,
+    "Level": 34,
+    "Price": 3000,
+    "InventoryCount": 440
+  },
+  {
+    "Id": 35,
+    "Level": 35,
+    "Price": 3000,
+    "InventoryCount": 450
+  },
+  {
+    "Id": 36,
+    "Level": 36,
+    "Price": 3000,
+    "InventoryCount": 460
+  },
+  {
+    "Id": 37,
+    "Level": 37,
+    "Price": 3000,
+    "InventoryCount": 470
+  },
+  {
+    "Id": 38,
+    "Level": 38,
+    "Price": 3000,
+    "InventoryCount": 480
+  },
+  {
+    "Id": 39,
+    "Level": 39,
+    "Price": 3000,
+    "InventoryCount": 490
+  },
+  {
+    "Id": 40,
+    "Level": 40,
+    "Price": 3000,
+    "InventoryCount": 500
+  }
+]

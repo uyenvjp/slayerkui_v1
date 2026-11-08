@@ -1,0 +1,293 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6006bdf",
+    "name": "GoldAmount_Cal",
+    "declaring_type_index": 2712,
+    "return_type_index": 58631,
+    "parameter_start": 6224,
+    "parameter_count": 1,
+    "flags": 134,
+    "iflags": 0,
+    "slot": 65535,
+    "metadata_record_offset": "0x95036c",
+    "name_index": 913356,
+    "name_offset": "0x2a38e4",
+    "native_va": "0x4e50c80",
+    "declaring_type_name": "GameManager",
+    "namespace": null,
+    "declaring_type_full_name": "GameManager",
+    "parameters": [
+      {
+        "index": 6224,
+        "name": "gold",
+        "name_index": 813137,
+        "type_index": 58631,
+        "token": "0x8001850",
+        "metadata_offset": "0x13099b0",
+        "type_name": "System.Numerics.BigInteger"
+      }
+    ],
+    "return_type_name": "System.Numerics.BigInteger"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6006fde",
+    "name": "HavePowerCritical_Cal",
+    "declaring_type_index": 2777,
+    "return_type_index": 81250,
+    "parameter_start": 6671,
+    "parameter_count": 2,
+    "flags": 134,
+    "iflags": 0,
+    "slot": 65535,
+    "metadata_record_offset": "0x95834c",
+    "name_index": 944000,
+    "name_offset": "0x2ab098",
+    "native_va": "0x4e9c0c4",
+    "declaring_type_name": "EquipmentSlotManager",
+    "namespace": null,
+    "declaring_type_full_name": "EquipmentSlotManager",
+    "parameters": [
+      {
+        "index": 6671,
+        "name": null,
+        "name_index": 9204,
+        "type_index": 70935,
+        "token": "0x8001a0f",
+        "metadata_offset": "0x130aea4",
+        "type_name": "int"
+      },
+      {
+        "index": 6672,
+        "name": null,
+        "name_index": 37575,
+        "type_index": 70935,
+        "token": "0x8001a10",
+        "metadata_offset": "0x130aeb0",
+        "type_name": "int"
+      }
+    ],
+    "return_type_name": "float"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6008f38",
+    "name": "NormalMonsterDmg_Cal",
+    "declaring_type_index": 3792,
+    "return_type_index": 58631,
+    "parameter_start": 10409,
+    "parameter_count": 4,
+    "flags": 132,
+    "iflags": 0,
+    "slot": 65535,
+    "metadata_record_offset": "0x996e8c",
+    "name_index": 1109331,
+    "name_offset": "0x2d366b",
+    "native_va": "0x50b8b60",
+    "declaring_type_name": "EnemyBase",
+    "namespace": null,
+    "declaring_type_full_name": "EnemyBase",
+    "parameters": [
+      {
+        "index": 10409,
+        "name": "_damage",
+        "name_index": 967013,
+        "type_index": 58631,
+        "token": "0x80028a8",
+        "metadata_offset": "0x1315ddc",
+        "type_name": "System.Numerics.BigInteger"
+      },
+      {
+        "index": 10410,
+        "name": "atkType",
+        "name_index": 964962,
+        "type_index": 57878,
+        "token": "0x80028a9",
+        "metadata_offset": "0x1315de8",
+        "type_name": "AtkType"
+      },
+      {
+        "index": 10411,
+        "name": "atkDmgType",
+        "name_index": 1025231,
+        "type_index": 63421,
+        "token": "0x80028aa",
+        "metadata_offset": "0x1315df4",
+        "type_name": "GrowSlayer.<encrypted_type_7355>"
+      },
+      {
+        "index": 10412,
+        "name": "skillDmg",
+        "name_index": 1025242,
+        "type_index": 59073,
+        "token": "0x80028ab",
+        "metadata_offset": "0x1315e00",
+        "type_name": "bool"
+      }
+    ],
+    "return_type_name": "System.Numerics.BigInteger"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6008f39",
+    "name": "BossMonsterDmg_Cal",
+    "declaring_type_index": 3792,
+    "return_type_index": 58631,
+    "parameter_start": 10413,
+    "parameter_count": 4,
+    "flags": 132,
+    "iflags": 0,
+    "slot": 65535,
+    "metadata_record_offset": "0x996eac",
+    "name_index": 1109352,
+    "name_offset": "0x2d3680",
+    "native_va": "0x50b8cbc",
+    "declaring_type_name": "EnemyBase",
+    "namespace": null,
+    "declaring_type_full_name": "EnemyBase",
+    "parameters": [
+      {
+        "index": 10413,
+        "name": "_damage",
+        "name_index": 967013,
+        "type_index": 58631,
+        "token": "0x80028ac",
+        "metadata_offset": "0x1315e0c",
+        "type_name": "System.Numerics.BigInteger"
+      },
+      {
+        "index": 10414,
+        "name": "atkType",
+        "name_index": 964962,
+        "type_index": 57878,
+        "token": "0x80028ad",
+        "metadata_offset": "0x1315e18",
+        "type_name": "AtkType"
+      },
+      {
+        "index": 10415,
+        "name": "atkDmgType",
+        "name_index": 1025231,
+        "type_index": 63421,
+        "token": "0x80028ae",
+        "metadata_offset": "0x1315e24",
+        "type_name": "GrowSlayer.<encrypted_type_7355>"
+      },
+      {
+        "index": 10416,
+        "name": "skillDmg",
+        "name_index": 1025242,
+        "type_index": 59073,
+        "token": "0x80028af",
+        "metadata_offset": "0x1315e30",
+        "type_name": "bool"
+      }
+    ],
+    "return_type_name": "System.Numerics.BigInteger"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6008f49",
+    "name": "LowHpDmg_Cal",
+    "declaring_type_index": 3792,
+    "return_type_index": 58631,
+    "parameter_start": 10432,
+    "parameter_count": 1,
+    "flags": 132,
+    "iflags": 0,
+    "slot": 65535,
+    "metadata_record_offset": "0x9970ac",
+    "name_index": 1109626,
+    "name_offset": "0x2d3792",
+    "native_va": "0x50ba354",
+    "declaring_type_name": "EnemyBase",
+    "namespace": null,
+    "declaring_type_full_name": "EnemyBase",
+    "parameters": [
+      {
+        "index": 10432,
+        "name": "_damage",
+        "name_index": 967013,
+        "type_index": 58631,
+        "token": "0x80028bf",
+        "metadata_offset": "0x1315ef0",
+        "type_name": "System.Numerics.BigInteger"
+      }
+    ],
+    "return_type_name": "System.Numerics.BigInteger"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x600bae5",
+    "name": "LoadEncryptedByte",
+    "declaring_type_index": 5231,
+    "return_type_index": 54780,
+    "parameter_start": 15622,
+    "parameter_count": 1,
+    "flags": 150,
+    "iflags": 0,
+    "slot": 65535,
+    "metadata_record_offset": "0x9ee42c",
+    "name_index": 1312592,
+    "name_offset": "0x305068",
+    "native_va": "0x53f3688",
+    "declaring_type_name": "JsonCryptoCompressor",
+    "namespace": null,
+    "declaring_type_full_name": "JsonCryptoCompressor",
+    "parameters": [
+      {
+        "index": 15622,
+        "name": "filepath",
+        "name_index": 1312547,
+        "type_index": 82995,
+        "token": "0x8003d00",
+        "metadata_offset": "0x1325238",
+        "type_name": "string"
+      }
+    ],
+    "return_type_name": "vector"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x600bae1",
+    "name": "GetAesKey",
+    "declaring_type_index": 5231,
+    "return_type_index": 54780,
+    "parameter_start": 4294967295,
+    "parameter_count": 0,
+    "flags": 145,
+    "iflags": 0,
+    "slot": 65535,
+    "metadata_record_offset": "0x9ee3ac",
+    "name_index": 1312528,
+    "name_offset": "0x305028",
+    "native_va": "0x53f2534",
+    "declaring_type_name": "JsonCryptoCompressor",
+    "namespace": null,
+    "declaring_type_full_name": "JsonCryptoCompressor",
+    "parameters": [],
+    "return_type_name": "vector"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x600badf",
+    "name": "GetKeyBase64",
+    "declaring_type_index": 5231,
+    "return_type_index": 82995,
+    "parameter_start": 4294967295,
+    "parameter_count": 0,
+    "flags": 145,
+    "iflags": 0,
+    "slot": 65535,
+    "metadata_record_offset": "0x9ee36c",
+    "name_index": 1312503,
+    "name_offset": "0x30500f",
+    "native_va": "0x53f2220",
+    "declaring_type_name": "JsonCryptoCompressor",
+    "namespace": null,
+    "declaring_type_full_name": "JsonCryptoCompressor",
+    "parameters": [],
+    "return_type_name": "string"
+  }
+]

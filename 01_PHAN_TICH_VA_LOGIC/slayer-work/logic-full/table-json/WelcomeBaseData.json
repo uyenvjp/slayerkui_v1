@@ -1,0 +1,152 @@
+[
+  {
+    "Id": 1,
+    "Day": 0,
+    "WelcomeType": 0,
+    "RewardCurrency": 1,
+    "CurrencyIndex": 0,
+    "Amount": 20000,
+    "Name": "",
+    "Des": ""
+  },
+  {
+    "Id": 2,
+    "Day": 1,
+    "WelcomeType": 0,
+    "RewardCurrency": 1,
+    "CurrencyIndex": 0,
+    "Amount": 5000,
+    "Name": "",
+    "Des": ""
+  },
+  {
+    "Id": 3,
+    "Day": 2,
+    "WelcomeType": 0,
+    "RewardCurrency": 1,
+    "CurrencyIndex": 0,
+    "Amount": 20000,
+    "Name": "",
+    "Des": ""
+  },
+  {
+    "Id": 4,
+    "Day": 3,
+    "WelcomeType": 0,
+    "RewardCurrency": 1,
+    "CurrencyIndex": 0,
+    "Amount": 5000,
+    "Name": "",
+    "Des": ""
+  },
+  {
+    "Id": 5,
+    "Day": 4,
+    "WelcomeType": 0,
+    "RewardCurrency": 1,
+    "CurrencyIndex": 0,
+    "Amount": 100000,
+    "Name": "",
+    "Des": ""
+  },
+  {
+    "Id": 6,
+    "Day": 0,
+    "WelcomeType": 1,
+    "RewardCurrency": 1,
+    "CurrencyIndex": 0,
+    "Amount": 30000,
+    "Name": "",
+    "Des": ""
+  },
+  {
+    "Id": 7,
+    "Day": 1,
+    "WelcomeType": 1,
+    "RewardCurrency": 1,
+    "CurrencyIndex": 0,
+    "Amount": 10000,
+    "Name": "",
+    "Des": ""
+  },
+  {
+    "Id": 8,
+    "Day": 2,
+    "WelcomeType": 1,
+    "RewardCurrency": 104,
+    "CurrencyIndex": 6,
+    "Amount": 1,
+    "Name": "SELECT_ITEM_NAME_006",
+    "Des": "SELECT_ITEM_DESC_006"
+  },
+  {
+    "Id": 9,
+    "Day": 3,
+    "WelcomeType": 1,
+    "RewardCurrency": 1,
+    "CurrencyIndex": 0,
+    "Amount": 5000,
+    "Name": "",
+    "Des": ""
+  },
+  {
+    "Id": 10,
+    "Day": 4,
+    "WelcomeType": 1,
+    "RewardCurrency": 1,
+    "CurrencyIndex": 0,
+    "Amount": 20000,
+    "Name": "",
+    "Des": ""
+  },
+  {
+    "Id": 11,
+    "Day": 5,
+    "WelcomeType": 1,
+    "RewardCurrency": 1,
+    "CurrencyIndex": 0,
+    "Amount": 5000,
+    "Name": "",
+    "Des": ""
+  },
+  {
+    "Id": 12,
+    "Day": 6,
+    "WelcomeType": 1,
+    "RewardCurrency": 104,
+    "CurrencyIndex": 11,
+    "Amount": 1,
+    "Name": "SELECT_ITEM_NAME_011",
+    "Des": "SELECT_ITEM_DESC_011"
+  },
+  {
+    "Id": 13,
+    "Day": 7,
+    "WelcomeType": 1,
+    "RewardCurrency": 1,
+    "CurrencyIndex": 0,
+    "Amount": 10000,
+    "Name": "",
+    "Des": ""
+  },
+  {
+    "Id": 14,
+    "Day": 8,
+    "WelcomeType": 1,
+    "RewardCurrency": 1,
+    "CurrencyIndex": 0,
+    "Amount": 5000,
+    "Name": "",
+    "Des": ""
+  },
+  {
+    "Id": 15,
+    "Day": 9,
+    "WelcomeType": 1,
+    "RewardCurrency": 1,
+    "CurrencyIndex": 0,
+    "Amount": 100000,
+    "Name": "",
+    "Des": ""
+  }
+]

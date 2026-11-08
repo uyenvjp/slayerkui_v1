@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 0,
+    "CostCurrencyTypes": 270,
+    "Cost": 1,
+    "TotalTime": 50.0,
+    "Life": 3,
+    "ScoreGold": 100,
+    "ScoreSilver": 90,
+    "ScoreBronze": 70,
+    "ScoreIron": 50,
+    "ScoreTree": 25
+  }
+]

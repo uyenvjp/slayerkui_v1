@@ -1,0 +1,9 @@
+[
+  {
+    "Id": 0,
+    "BossHp": 300,
+    "defaultSpeed": 1.2000000476837158,
+    "secondSpeed": 1.5,
+    "thridSpeed": 1.75
+  }
+]

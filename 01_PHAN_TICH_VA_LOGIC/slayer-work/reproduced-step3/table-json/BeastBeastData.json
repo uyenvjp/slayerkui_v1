@@ -1,0 +1,674 @@
+[
+  {
+    "Id": 1,
+    "BeastType": [
+      1,
+      0
+    ],
+    "BeastSubType": 101,
+    "BeastColorType": 1,
+    "BeastSubIndex": 0,
+    "BeastGradeType": 1,
+    "AtkAddFactor": 3,
+    "HuntBuffType": [
+      2,
+      0
+    ],
+    "HuntBuffFactor": [
+      2,
+      0
+    ],
+    "BeastSkillFactor": 1.0,
+    "ConditionValue": [
+      9.0,
+      0.0
+    ],
+    "InitialValue": 10.0,
+    "AdditionalValue": [
+      10.0,
+      0.0
+    ],
+    "DupTokenBounsNormal": 5,
+    "DupTokenBonusFull": 10
+  },
+  {
+    "Id": 2,
+    "BeastType": [
+      1,
+      0
+    ],
+    "BeastSubType": 101,
+    "BeastColorType": 2,
+    "BeastSubIndex": 1,
+    "BeastGradeType": 1,
+    "AtkAddFactor": 3,
+    "HuntBuffType": [
+      2,
+      0
+    ],
+    "HuntBuffFactor": [
+      2,
+      0
+    ],
+    "BeastSkillFactor": 1.0,
+    "ConditionValue": [
+      12.0,
+      0.0
+    ],
+    "InitialValue": 15.0,
+    "AdditionalValue": [
+      10.0,
+      0.0
+    ],
+    "DupTokenBounsNormal": 5,
+    "DupTokenBonusFull": 10
+  },
+  {
+    "Id": 3,
+    "BeastType": [
+      1,
+      0
+    ],
+    "BeastSubType": 101,
+    "BeastColorType": 4,
+    "BeastSubIndex": 2,
+    "BeastGradeType": 1,
+    "AtkAddFactor": 3,
+    "HuntBuffType": [
+      2,
+      0
+    ],
+    "HuntBuffFactor": [
+      2,
+      0
+    ],
+    "BeastSkillFactor": 1.0,
+    "ConditionValue": [
+      15.0,
+      0.0
+    ],
+    "InitialValue": 20.0,
+    "AdditionalValue": [
+      10.0,
+      0.0
+    ],
+    "DupTokenBounsNormal": 5,
+    "DupTokenBonusFull": 10
+  },
+  {
+    "Id": 4,
+    "BeastType": [
+      1,
+      0
+    ],
+    "BeastSubType": 101,
+    "BeastColorType": 3,
+    "BeastSubIndex": 3,
+    "BeastGradeType": 2,
+    "AtkAddFactor": 10,
+    "HuntBuffType": [
+      2,
+      0
+    ],
+    "HuntBuffFactor": [
+      5,
+      0
+    ],
+    "BeastSkillFactor": 2.5,
+    "ConditionValue": [
+      18.0,
+      0.0
+    ],
+    "InitialValue": 25.0,
+    "AdditionalValue": [
+      10.0,
+      0.0
+    ],
+    "DupTokenBounsNormal": 10,
+    "DupTokenBonusFull": 40
+  },
+  {
+    "Id": 11,
+    "BeastType": [
+      1,
+      0
+    ],
+    "BeastSubType": 102,
+    "BeastColorType": 2,
+    "BeastSubIndex": 0,
+    "BeastGradeType": 1,
+    "AtkAddFactor": 3,
+    "HuntBuffType": [
+      2,
+      0
+    ],
+    "HuntBuffFactor": [
+      2,
+      0
+    ],
+    "BeastSkillFactor": 1.0,
+    "ConditionValue": [
+      3.0,
+      0.0
+    ],
+    "InitialValue": 5.0,
+    "AdditionalValue": [
+      30.0,
+      0.0
+    ],
+    "DupTokenBounsNormal": 5,
+    "DupTokenBonusFull": 10
+  },
+  {
+    "Id": 12,
+    "BeastType": [
+      1,
+      0
+    ],
+    "BeastSubType": 102,
+    "BeastColorType": 5,
+    "BeastSubIndex": 1,
+    "BeastGradeType": 1,
+    "AtkAddFactor": 3,
+    "HuntBuffType": [
+      2,
+      0
+    ],
+    "HuntBuffFactor": [
+      2,
+      0
+    ],
+    "BeastSkillFactor": 1.0,
+    "ConditionValue": [
+      4.0,
+      0.0
+    ],
+    "InitialValue": 10.0,
+    "AdditionalValue": [
+      30.0,
+      0.0
+    ],
+    "DupTokenBounsNormal": 5,
+    "DupTokenBonusFull": 10
+  },
+  {
+    "Id": 13,
+    "BeastType": [
+      1,
+      0
+    ],
+    "BeastSubType": 102,
+    "BeastColorType": 3,
+    "BeastSubIndex": 2,
+    "BeastGradeType": 1,
+    "AtkAddFactor": 3,
+    "HuntBuffType": [
+      2,
+      0
+    ],
+    "HuntBuffFactor": [
+      2,
+      0
+    ],
+    "BeastSkillFactor": 1.0,
+    "ConditionValue": [
+      5.0,
+      0.0
+    ],
+    "InitialValue": 15.0,
+    "AdditionalValue": [
+      30.0,
+      0.0
+    ],
+    "DupTokenBounsNormal": 5,
+    "DupTokenBonusFull": 10
+  },
+  {
+    "Id": 14,
+    "BeastType": [
+      1,
+      0
+    ],
+    "BeastSubType": 102,
+    "BeastColorType": 1,
+    "BeastSubIndex": 3,
+    "BeastGradeType": 2,
+    "AtkAddFactor": 10,
+    "HuntBuffType": [
+      2,
+      0
+    ],
+    "HuntBuffFactor": [
+      5,
+      0
+    ],
+    "BeastSkillFactor": 2.5,
+    "ConditionValue": [
+      6.0,
+      0.0
+    ],
+    "InitialValue": 20.0,
+    "AdditionalValue": [
+      30.0,
+      0.0
+    ],
+    "DupTokenBounsNormal": 10,
+    "DupTokenBonusFull": 40
+  },
+  {
+    "Id": 101,
+    "BeastType": [
+      2,
+      0
+    ],
+    "BeastSubType": 201,
+    "BeastColorType": 6,
+    "BeastSubIndex": 0,
+    "BeastGradeType": 1,
+    "AtkAddFactor": 3,
+    "HuntBuffType": [
+      3,
+      0
+    ],
+    "HuntBuffFactor": [
+      1,
+      0
+    ],
+    "BeastSkillFactor": 1.0,
+    "ConditionValue": [
+      50.0,
+      0.0
+    ],
+    "InitialValue": 15.0,
+    "AdditionalValue": [
+      30.0,
+      0.0
+    ],
+    "DupTokenBounsNormal": 5,
+    "DupTokenBonusFull": 10
+  },
+  {
+    "Id": 102,
+    "BeastType": [
+      2,
+      0
+    ],
+    "BeastSubType": 201,
+    "BeastColorType": 1,
+    "BeastSubIndex": 1,
+    "BeastGradeType": 1,
+    "AtkAddFactor": 3,
+    "HuntBuffType": [
+      3,
+      0
+    ],
+    "HuntBuffFactor": [
+      1,
+      0
+    ],
+    "BeastSkillFactor": 1.0,
+    "ConditionValue": [
+      60.0,
+      0.0
+    ],
+    "InitialValue": 20.0,
+    "AdditionalValue": [
+      30.0,
+      0.0
+    ],
+    "DupTokenBounsNormal": 5,
+    "DupTokenBonusFull": 10
+  },
+  {
+    "Id": 103,
+    "BeastType": [
+      2,
+      0
+    ],
+    "BeastSubType": 201,
+    "BeastColorType": 5,
+    "BeastSubIndex": 2,
+    "BeastGradeType": 1,
+    "AtkAddFactor": 3,
+    "HuntBuffType": [
+      3,
+      0
+    ],
+    "HuntBuffFactor": [
+      1,
+      0
+    ],
+    "BeastSkillFactor": 1.0,
+    "ConditionValue": [
+      70.0,
+      0.0
+    ],
+    "InitialValue": 25.0,
+    "AdditionalValue": [
+      30.0,
+      0.0
+    ],
+    "DupTokenBounsNormal": 5,
+    "DupTokenBonusFull": 10
+  },
+  {
+    "Id": 104,
+    "BeastType": [
+      2,
+      0
+    ],
+    "BeastSubType": 201,
+    "BeastColorType": 5,
+    "BeastSubIndex": 3,
+    "BeastGradeType": 2,
+    "AtkAddFactor": 10,
+    "HuntBuffType": [
+      3,
+      0
+    ],
+    "HuntBuffFactor": [
+      2,
+      0
+    ],
+    "BeastSkillFactor": 1.0,
+    "ConditionValue": [
+      100.0,
+      0.0
+    ],
+    "InitialValue": 30.0,
+    "AdditionalValue": [
+      30.0,
+      0.0
+    ],
+    "DupTokenBounsNormal": 10,
+    "DupTokenBonusFull": 40
+  },
+  {
+    "Id": 201,
+    "BeastType": [
+      3,
+      0
+    ],
+    "BeastSubType": 301,
+    "BeastColorType": 1,
+    "BeastSubIndex": 0,
+    "BeastGradeType": 1,
+    "AtkAddFactor": 3,
+    "HuntBuffType": [
+      4,
+      0
+    ],
+    "HuntBuffFactor": [
+      2,
+      0
+    ],
+    "BeastSkillFactor": 30.0,
+    "ConditionValue": [
+      3.5,
+      0.0
+    ],
+    "InitialValue": 300.0,
+    "AdditionalValue": [
+      0.0,
+      0.0
+    ],
+    "DupTokenBounsNormal": 5,
+    "DupTokenBonusFull": 10
+  },
+  {
+    "Id": 202,
+    "BeastType": [
+      3,
+      0
+    ],
+    "BeastSubType": 301,
+    "BeastColorType": 5,
+    "BeastSubIndex": 1,
+    "BeastGradeType": 1,
+    "AtkAddFactor": 3,
+    "HuntBuffType": [
+      4,
+      0
+    ],
+    "HuntBuffFactor": [
+      2,
+      0
+    ],
+    "BeastSkillFactor": 40.0,
+    "ConditionValue": [
+      4.0,
+      0.0
+    ],
+    "InitialValue": 400.0,
+    "AdditionalValue": [
+      0.0,
+      0.0
+    ],
+    "DupTokenBounsNormal": 5,
+    "DupTokenBonusFull": 10
+  },
+  {
+    "Id": 203,
+    "BeastType": [
+      3,
+      0
+    ],
+    "BeastSubType": 301,
+    "BeastColorType": 4,
+    "BeastSubIndex": 2,
+    "BeastGradeType": 1,
+    "AtkAddFactor": 3,
+    "HuntBuffType": [
+      4,
+      0
+    ],
+    "HuntBuffFactor": [
+      2,
+      0
+    ],
+    "BeastSkillFactor": 60.0,
+    "ConditionValue": [
+      4.5,
+      0.0
+    ],
+    "InitialValue": 600.0,
+    "AdditionalValue": [
+      0.0,
+      0.0
+    ],
+    "DupTokenBounsNormal": 5,
+    "DupTokenBonusFull": 10
+  },
+  {
+    "Id": 204,
+    "BeastType": [
+      3,
+      0
+    ],
+    "BeastSubType": 301,
+    "BeastColorType": 6,
+    "BeastSubIndex": 3,
+    "BeastGradeType": 2,
+    "AtkAddFactor": 10,
+    "HuntBuffType": [
+      4,
+      0
+    ],
+    "HuntBuffFactor": [
+      5,
+      0
+    ],
+    "BeastSkillFactor": 80.0,
+    "ConditionValue": [
+      5.0,
+      0.0
+    ],
+    "InitialValue": 800.0,
+    "AdditionalValue": [
+      0.0,
+      0.0
+    ],
+    "DupTokenBounsNormal": 10,
+    "DupTokenBonusFull": 40
+  },
+  {
+    "Id": 301,
+    "BeastType": [
+      2,
+      3
+    ],
+    "BeastSubType": 401,
+    "BeastColorType": 1,
+    "BeastSubIndex": 0,
+    "BeastGradeType": 1,
+    "AtkAddFactor": 5,
+    "HuntBuffType": [
+      3,
+      4
+    ],
+    "HuntBuffFactor": [
+      1,
+      2
+    ],
+    "BeastSkillFactor": 1.0,
+    "ConditionValue": [
+      30.0,
+      0.0
+    ],
+    "InitialValue": 10.0,
+    "AdditionalValue": [
+      60.0,
+      0.0
+    ],
+    "DupTokenBounsNormal": 5,
+    "DupTokenBonusFull": 10
+  },
+  {
+    "Id": 302,
+    "BeastType": [
+      2,
+      3
+    ],
+    "BeastSubType": 401,
+    "BeastColorType": 2,
+    "BeastSubIndex": 1,
+    "BeastGradeType": 1,
+    "AtkAddFactor": 5,
+    "HuntBuffType": [
+      3,
+      4
+    ],
+    "HuntBuffFactor": [
+      1,
+      2
+    ],
+    "BeastSkillFactor": 1.0,
+    "ConditionValue": [
+      42.0,
+      0.0
+    ],
+    "InitialValue": 15.0,
+    "AdditionalValue": [
+      60.0,
+      0.0
+    ],
+    "DupTokenBounsNormal": 5,
+    "DupTokenBonusFull": 10
+  },
+  {
+    "Id": 303,
+    "BeastType": [
+      2,
+      3
+    ],
+    "BeastSubType": 401,
+    "BeastColorType": 4,
+    "BeastSubIndex": 2,
+    "BeastGradeType": 1,
+    "AtkAddFactor": 5,
+    "HuntBuffType": [
+      3,
+      4
+    ],
+    "HuntBuffFactor": [
+      1,
+      2
+    ],
+    "BeastSkillFactor": 1.0,
+    "ConditionValue": [
+      21.0,
+      0.0
+    ],
+    "InitialValue": 20.0,
+    "AdditionalValue": [
+      60.0,
+      0.0
+    ],
+    "DupTokenBounsNormal": 5,
+    "DupTokenBonusFull": 10
+  },
+  {
+    "Id": 304,
+    "BeastType": [
+      2,
+      3
+    ],
+    "BeastSubType": 401,
+    "BeastColorType": 5,
+    "BeastSubIndex": 3,
+    "BeastGradeType": 1,
+    "AtkAddFactor": 5,
+    "HuntBuffType": [
+      3,
+      4
+    ],
+    "HuntBuffFactor": [
+      1,
+      2
+    ],
+    "BeastSkillFactor": 1.0,
+    "ConditionValue": [
+      9.0,
+      0.0
+    ],
+    "InitialValue": 25.0,
+    "AdditionalValue": [
+      60.0,
+      0.0
+    ],
+    "DupTokenBounsNormal": 5,
+    "DupTokenBonusFull": 10
+  },
+  {
+    "Id": 305,
+    "BeastType": [
+      2,
+      3
+    ],
+    "BeastSubType": 401,
+    "BeastColorType": 6,
+    "BeastSubIndex": 4,
+    "BeastGradeType": 2,
+    "AtkAddFactor": 20,
+    "HuntBuffType": [
+      3,
+      4
+    ],
+    "HuntBuffFactor": [
+      2,
+      5
+    ],
+    "BeastSkillFactor": 2.5,
+    "ConditionValue": [
+      0.0,
+      0.0
+    ],
+    "InitialValue": 30.0,
+    "AdditionalValue": [
+      60.0,
+      0.0
+    ],
+    "DupTokenBounsNormal": 10,
+    "DupTokenBonusFull": 40
+  }
+]

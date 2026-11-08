@@ -1,0 +1,366 @@
+[
+  {
+    "Id": 0,
+    "WaveIndex": 1,
+    "EnemyType": "default",
+    "EnemyGrade": 1,
+    "EnemyProb": [
+      90.0,
+      80.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 1,
+    "WaveIndex": 1,
+    "EnemyType": "Frozen",
+    "EnemyGrade": 1,
+    "EnemyProb": [
+      5.0,
+      10.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 2,
+    "WaveIndex": 1,
+    "EnemyType": "Frozen",
+    "EnemyGrade": 2,
+    "EnemyProb": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 3,
+    "WaveIndex": 1,
+    "EnemyType": "Frozen",
+    "EnemyGrade": 3,
+    "EnemyProb": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 4,
+    "WaveIndex": 1,
+    "EnemyType": "Slow",
+    "EnemyGrade": 1,
+    "EnemyProb": [
+      5.0,
+      10.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 5,
+    "WaveIndex": 1,
+    "EnemyType": "Slow",
+    "EnemyGrade": 2,
+    "EnemyProb": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 6,
+    "WaveIndex": 1,
+    "EnemyType": "Slow",
+    "EnemyGrade": 3,
+    "EnemyProb": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 7,
+    "WaveIndex": 2,
+    "EnemyType": "default",
+    "EnemyGrade": 1,
+    "EnemyProb": [
+      90.0,
+      80.0,
+      50.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 8,
+    "WaveIndex": 2,
+    "EnemyType": "Frozen",
+    "EnemyGrade": 1,
+    "EnemyProb": [
+      5.0,
+      10.0,
+      25.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 9,
+    "WaveIndex": 2,
+    "EnemyType": "Frozen",
+    "EnemyGrade": 2,
+    "EnemyProb": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 10,
+    "WaveIndex": 2,
+    "EnemyType": "Frozen",
+    "EnemyGrade": 3,
+    "EnemyProb": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 11,
+    "WaveIndex": 2,
+    "EnemyType": "Slow",
+    "EnemyGrade": 1,
+    "EnemyProb": [
+      5.0,
+      10.0,
+      25.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 12,
+    "WaveIndex": 2,
+    "EnemyType": "Slow",
+    "EnemyGrade": 2,
+    "EnemyProb": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 13,
+    "WaveIndex": 2,
+    "EnemyType": "Slow",
+    "EnemyGrade": 3,
+    "EnemyProb": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 14,
+    "WaveIndex": 3,
+    "EnemyType": "default",
+    "EnemyGrade": 1,
+    "EnemyProb": [
+      90.0,
+      80.0,
+      50.0,
+      40.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 15,
+    "WaveIndex": 3,
+    "EnemyType": "Frozen",
+    "EnemyGrade": 1,
+    "EnemyProb": [
+      5.0,
+      10.0,
+      25.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 16,
+    "WaveIndex": 3,
+    "EnemyType": "Frozen",
+    "EnemyGrade": 2,
+    "EnemyProb": [
+      0.0,
+      0.0,
+      0.0,
+      30.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 17,
+    "WaveIndex": 3,
+    "EnemyType": "Frozen",
+    "EnemyGrade": 3,
+    "EnemyProb": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 18,
+    "WaveIndex": 3,
+    "EnemyType": "Slow",
+    "EnemyGrade": 1,
+    "EnemyProb": [
+      5.0,
+      10.0,
+      25.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 19,
+    "WaveIndex": 3,
+    "EnemyType": "Slow",
+    "EnemyGrade": 2,
+    "EnemyProb": [
+      0.0,
+      0.0,
+      0.0,
+      30.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 20,
+    "WaveIndex": 3,
+    "EnemyType": "Slow",
+    "EnemyGrade": 3,
+    "EnemyProb": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 21,
+    "WaveIndex": 4,
+    "EnemyType": "default",
+    "EnemyGrade": 1,
+    "EnemyProb": [
+      90.0,
+      80.0,
+      50.0,
+      40.0,
+      10.0
+    ]
+  },
+  {
+    "Id": 22,
+    "WaveIndex": 4,
+    "EnemyType": "Frozen",
+    "EnemyGrade": 1,
+    "EnemyProb": [
+      5.0,
+      10.0,
+      25.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 23,
+    "WaveIndex": 4,
+    "EnemyType": "Frozen",
+    "EnemyGrade": 2,
+    "EnemyProb": [
+      0.0,
+      0.0,
+      0.0,
+      30.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 24,
+    "WaveIndex": 4,
+    "EnemyType": "Frozen",
+    "EnemyGrade": 3,
+    "EnemyProb": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      45.0
+    ]
+  },
+  {
+    "Id": 25,
+    "WaveIndex": 4,
+    "EnemyType": "Slow",
+    "EnemyGrade": 1,
+    "EnemyProb": [
+      5.0,
+      10.0,
+      25.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 26,
+    "WaveIndex": 4,
+    "EnemyType": "Slow",
+    "EnemyGrade": 2,
+    "EnemyProb": [
+      0.0,
+      0.0,
+      0.0,
+      30.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 27,
+    "WaveIndex": 4,
+    "EnemyType": "Slow",
+    "EnemyGrade": 3,
+    "EnemyProb": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      45.0
+    ]
+  }
+]

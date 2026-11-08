@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "ProductName": "SEASONSKILL_BOX_1",
+    "NeedDiamond": 0,
+    "Count": 3,
+    "PeriodLimitType": 1,
+    "RewardType": [
+      2007
+    ],
+    "RewardIndex": [
+      0
+    ],
+    "RewardAmount": [
+      1
+    ]
+  },
+  {
+    "Id": 2,
+    "ProductName": "SEASONSKILL_BOX_2",
+    "NeedDiamond": 1000,
+    "Count": 3,
+    "PeriodLimitType": 0,
+    "RewardType": [
+      2007
+    ],
+    "RewardIndex": [
+      0
+    ],
+    "RewardAmount": [
+      2
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "cases": 288,
+  "contract_cases": 7,
+  "connected_sequences": 3,
+  "sequence_actions": 9,
+  "instruction_steps": 209622,
+  "distinct_instructions": 2519,
+  "scope": "Linked GetDmg + selected status/mastery bodies -> original HP accessors/DmgResult/DOT/instant-kill/Death -> modeled ordered multicast of original EnemyNormal.DeadEvent, PlayerKillCountEvent and CheckLastSkillIndex -> original StageItemDrop/reward helpers. Normal/Boss/SpecialBoss modifier outputs still explicit fixtures. Delegate construction/BaseSetting read statically; multicast invocation, secure/BCL/getters/RNG/Unity and downstream GameManager.Enemy_Dead, MineItemDrop, dead-buff/kill subscribers are declared dependencies. No full battle/acquisition/backend/Unity parity.",
+  "linked_entry_visited": {
+    "GetDmg": "0x50b7810",
+    "DmgResult": "0x50bafb0",
+    "DotDmgResult": "0x50baf38",
+    "InstantKill": "0x50bb184",
+    "Death": "0x50bbf20",
+    "NormalDeadEvent": "0x50f9388",
+    "PlayerKillCount": "0x50bbe68",
+    "CheckLastSkillIndex": "0x50bc040",
+    "StageItemDrop": "0x50f9804"
+  }
+}

@@ -1,0 +1,3527 @@
+{
+  "xapk": {
+    "xapk": "Slayer+Legend+_+Idle+RPG_700.0.4_APKPure(1).xapk",
+    "sha256": "b8c19d5fdf4da70c8c45cddf3f7e6b8a850863fd55b09b087c6d06d7001d6098",
+    "apks": [
+      {
+        "name": "com.gear2.growslayer.apk",
+        "size": 97485582,
+        "entry_count": 5183,
+        "indicator_paths": [
+          "META-INF/com/android/build/gradle/app-metadata.properties",
+          "assets/.eufxww.dex",
+          "assets/LIAPP.ini",
+          "assets/bin/Data/Managed/Metadata/global-metadata.dat"
+        ],
+        "marker_evidence": {
+          "assets/LIAPP.ini": {
+            "size": 220,
+            "sha256": "ebe7169d86b9b4500cddf921697da9e7824706bd94c7198a63c5b8c7320a7200",
+            "marker_offsets": {
+              "LIAPP": 170
+            },
+            "content": "[INFORMATION]\nLIAgent=0\nJob-Id#=132100\nVersion=v5.1.1.218 (0x4ecdc927) with Linux.\nBuildNo=5a62aa0f\n\nContact=https://www.lockincomp.com/\nThis application is protected by LIAPP(Lockin Company's mobile security solution).\n"
+          },
+          "assets/.eufxww.dex": {
+            "size": 41647,
+            "sha256": "a5e89d18d4114f2ea87559d8b67b14bea9ebb589121fad4c4ffb88adb4f44d4c",
+            "marker_offsets": {
+              "LIKEY": 918,
+              "LIAPP": 30297,
+              "com/liapp": 222
+            }
+          },
+          "classes.dex": {
+            "size": 8652412,
+            "sha256": "5845f4a44a8bda7fdabf7a374392cbb48132b0539419586b693d34d760784c55",
+            "marker_offsets": {
+              "com/liapp": 2424242
+            }
+          }
+        },
+        "native_libraries": []
+      },
+      {
+        "name": "hero.apk",
+        "size": 7168488,
+        "entry_count": 7,
+        "indicator_paths": [],
+        "marker_evidence": {},
+        "native_libraries": []
+      },
+      {
+        "name": "monster.apk",
+        "size": 22217198,
+        "entry_count": 7,
+        "indicator_paths": [],
+        "marker_evidence": {},
+        "native_libraries": []
+      },
+      {
+        "name": "map.apk",
+        "size": 12165606,
+        "entry_count": 7,
+        "indicator_paths": [],
+        "marker_evidence": {},
+        "native_libraries": []
+      },
+      {
+        "name": "popup.apk",
+        "size": 37917162,
+        "entry_count": 7,
+        "indicator_paths": [],
+        "marker_evidence": {},
+        "native_libraries": []
+      },
+      {
+        "name": "skin.apk",
+        "size": 5046760,
+        "entry_count": 7,
+        "indicator_paths": [],
+        "marker_evidence": {},
+        "native_libraries": []
+      },
+      {
+        "name": "sound.apk",
+        "size": 31355370,
+        "entry_count": 7,
+        "indicator_paths": [],
+        "marker_evidence": {},
+        "native_libraries": []
+      },
+      {
+        "name": "config.arm64_v8a.apk",
+        "size": 217778676,
+        "entry_count": 32,
+        "indicator_paths": [
+          "lib/arm64-v8a/libeufxww.so"
+        ],
+        "marker_evidence": {},
+        "native_libraries": [
+          "lib/arm64-v8a/libCysharp.Net.Http.YetAnotherHttpHandler.Native.so",
+          "lib/arm64-v8a/libFirebaseCppAnalytics.so",
+          "lib/arm64-v8a/libFirebaseCppApp-13_6_0.so",
+          "lib/arm64-v8a/libFirebaseCppAuth.so",
+          "lib/arm64-v8a/libFirebaseCppCrashlytics.so",
+          "lib/arm64-v8a/libFirebaseCppMessaging.so",
+          "lib/arm64-v8a/lib_burst_generated.so",
+          "lib/arm64-v8a/libapminsighta.so",
+          "lib/arm64-v8a/libapminsightb.so",
+          "lib/arm64-v8a/libapplovin-native-crash-reporter.so",
+          "lib/arm64-v8a/libbuffer_pgl.so",
+          "lib/arm64-v8a/libcrashlytics-common.so",
+          "lib/arm64-v8a/libcrashlytics-handler.so",
+          "lib/arm64-v8a/libcrashlytics-trampoline.so",
+          "lib/arm64-v8a/libcrashlytics.so",
+          "lib/arm64-v8a/libdatastore_shared_counter.so",
+          "lib/arm64-v8a/libeufxww.so",
+          "lib/arm64-v8a/libfile_lock_pgl.so",
+          "lib/arm64-v8a/libil2cpp.so",
+          "lib/arm64-v8a/libmain.so",
+          "lib/arm64-v8a/libnative-googlesignin.so",
+          "lib/arm64-v8a/libnms.so",
+          "lib/arm64-v8a/libpglarmor.so",
+          "lib/arm64-v8a/libsigner.so",
+          "lib/arm64-v8a/libtobEmbedPagEncrypt.so",
+          "lib/arm64-v8a/libtt_ugen_layout.so",
+          "lib/arm64-v8a/libunity.so"
+        ]
+      },
+      {
+        "name": "contents.apk",
+        "size": 8049136,
+        "entry_count": 7,
+        "indicator_paths": [],
+        "marker_evidence": {},
+        "native_libraries": []
+      },
+      {
+        "name": "emoticon.apk",
+        "size": 86512,
+        "entry_count": 7,
+        "indicator_paths": [],
+        "marker_evidence": {},
+        "native_libraries": []
+      }
+    ]
+  },
+  "metadata": {
+    "file": "global-metadata.dat",
+    "bytes": 33085012,
+    "sha256": "0f0c21c82432adab3421ea6c82e2662b032a8fc2fc17f81defe166b2ce294c46",
+    "prefix_32_hex": "4c 49 4b 45 59 7f 00 00 df 02 53 df af 56 23 00 54 d6 f8 01 8e c5 2d 11 1d 3e 71 21 d6 2c 27 f3",
+    "liapp_magic": true,
+    "plain_il2cpp_magic_first_offset": -1,
+    "xor_il2cpp_magic_first_offset": -1,
+    "xor_all_file_sha256": "7cb188859da11aa686cba66937039e5fd14a59d87117526b5f16e3f79fb70818",
+    "string_evidence": {
+      "Xls_Skill": {
+        "count": 25,
+        "first_offsets_hex": [
+          "0x27d8d9",
+          "0x27d999",
+          "0x27d9de",
+          "0x27da8b",
+          "0x27daa0",
+          "0x1123896",
+          "0x11238c6",
+          "0x11238fb",
+          "0x1123935",
+          "0x1123970",
+          "0x1149154",
+          "0x1149162"
+        ]
+      },
+      "Xls_AdventureInfo": {
+        "count": 5,
+        "first_offsets_hex": [
+          "0x27cb1a",
+          "0x1122b79",
+          "0x1147f9e",
+          "0x1147fb4",
+          "0x1147fd0"
+        ]
+      },
+      "Xls_WeaponSkin": {
+        "count": 5,
+        "first_offsets_hex": [
+          "0x27e1b7",
+          "0x1124033",
+          "0x1149c00",
+          "0x1149c13",
+          "0x1149c2c"
+        ]
+      },
+      "GameManager": {
+        "count": 479,
+        "first_offsets_hex": [
+          "0x295cb2",
+          "0x29f0d0",
+          "0x2a2fd6",
+          "0x2e469e",
+          "0x2e482b",
+          "0x35057b",
+          "0x354073",
+          "0x3569f2",
+          "0x35f8e4",
+          "0x362324",
+          "0x362340",
+          "0x36235b"
+        ]
+      },
+      "BossNumber": {
+        "count": 4,
+        "first_offsets_hex": [
+          "0x27cb5a",
+          "0x59ee1e",
+          "0x59ee2d",
+          "0x59efa4"
+        ]
+      },
+      "BossScale": {
+        "count": 4,
+        "first_offsets_hex": [
+          "0x27cb6a",
+          "0x59ee4e",
+          "0x59ee5c",
+          "0x59efd6"
+        ]
+      },
+      "AuraAtkSpeed": {
+        "count": 1,
+        "first_offsets_hex": [
+          "0x28d42b"
+        ]
+      }
+    },
+    "windows_4KiB_first_2_56MiB": [
+      {
+        "offset_hex": "00000000",
+        "raw_entropy": 7.9527,
+        "xor_ascii_or_zero_ratio": 0.3728
+      },
+      {
+        "offset_hex": "00001000",
+        "raw_entropy": 7.9543,
+        "xor_ascii_or_zero_ratio": 0.3625
+      },
+      {
+        "offset_hex": "00002000",
+        "raw_entropy": 7.9525,
+        "xor_ascii_or_zero_ratio": 0.3792
+      },
+      {
+        "offset_hex": "00003000",
+        "raw_entropy": 7.958,
+        "xor_ascii_or_zero_ratio": 0.3821
+      },
+      {
+        "offset_hex": "00004000",
+        "raw_entropy": 7.946,
+        "xor_ascii_or_zero_ratio": 0.3699
+      },
+      {
+        "offset_hex": "00005000",
+        "raw_entropy": 7.9551,
+        "xor_ascii_or_zero_ratio": 0.365
+      },
+      {
+        "offset_hex": "00006000",
+        "raw_entropy": 7.9471,
+        "xor_ascii_or_zero_ratio": 0.3804
+      },
+      {
+        "offset_hex": "00007000",
+        "raw_entropy": 7.9563,
+        "xor_ascii_or_zero_ratio": 0.3884
+      },
+      {
+        "offset_hex": "00008000",
+        "raw_entropy": 7.9585,
+        "xor_ascii_or_zero_ratio": 0.3708
+      },
+      {
+        "offset_hex": "00009000",
+        "raw_entropy": 7.9616,
+        "xor_ascii_or_zero_ratio": 0.3599
+      },
+      {
+        "offset_hex": "0000A000",
+        "raw_entropy": 7.9572,
+        "xor_ascii_or_zero_ratio": 0.3796
+      },
+      {
+        "offset_hex": "0000B000",
+        "raw_entropy": 7.9561,
+        "xor_ascii_or_zero_ratio": 0.3726
+      },
+      {
+        "offset_hex": "0000C000",
+        "raw_entropy": 7.9517,
+        "xor_ascii_or_zero_ratio": 0.3669
+      },
+      {
+        "offset_hex": "0000D000",
+        "raw_entropy": 7.9598,
+        "xor_ascii_or_zero_ratio": 0.3794
+      },
+      {
+        "offset_hex": "0000E000",
+        "raw_entropy": 7.95,
+        "xor_ascii_or_zero_ratio": 0.3562
+      },
+      {
+        "offset_hex": "0000F000",
+        "raw_entropy": 7.9464,
+        "xor_ascii_or_zero_ratio": 0.3733
+      },
+      {
+        "offset_hex": "00010000",
+        "raw_entropy": 7.9588,
+        "xor_ascii_or_zero_ratio": 0.3757
+      },
+      {
+        "offset_hex": "00011000",
+        "raw_entropy": 7.9595,
+        "xor_ascii_or_zero_ratio": 0.386
+      },
+      {
+        "offset_hex": "00012000",
+        "raw_entropy": 7.9542,
+        "xor_ascii_or_zero_ratio": 0.3684
+      },
+      {
+        "offset_hex": "00013000",
+        "raw_entropy": 7.9539,
+        "xor_ascii_or_zero_ratio": 0.3755
+      },
+      {
+        "offset_hex": "00014000",
+        "raw_entropy": 7.9515,
+        "xor_ascii_or_zero_ratio": 0.3784
+      },
+      {
+        "offset_hex": "00015000",
+        "raw_entropy": 7.9514,
+        "xor_ascii_or_zero_ratio": 0.3694
+      },
+      {
+        "offset_hex": "00016000",
+        "raw_entropy": 7.9534,
+        "xor_ascii_or_zero_ratio": 0.3818
+      },
+      {
+        "offset_hex": "00017000",
+        "raw_entropy": 7.9614,
+        "xor_ascii_or_zero_ratio": 0.3662
+      },
+      {
+        "offset_hex": "00018000",
+        "raw_entropy": 7.9537,
+        "xor_ascii_or_zero_ratio": 0.3682
+      },
+      {
+        "offset_hex": "00019000",
+        "raw_entropy": 7.9504,
+        "xor_ascii_or_zero_ratio": 0.3848
+      },
+      {
+        "offset_hex": "0001A000",
+        "raw_entropy": 7.941,
+        "xor_ascii_or_zero_ratio": 0.3835
+      },
+      {
+        "offset_hex": "0001B000",
+        "raw_entropy": 7.9442,
+        "xor_ascii_or_zero_ratio": 0.3589
+      },
+      {
+        "offset_hex": "0001C000",
+        "raw_entropy": 7.9463,
+        "xor_ascii_or_zero_ratio": 0.3882
+      },
+      {
+        "offset_hex": "0001D000",
+        "raw_entropy": 7.9556,
+        "xor_ascii_or_zero_ratio": 0.3796
+      },
+      {
+        "offset_hex": "0001E000",
+        "raw_entropy": 7.9558,
+        "xor_ascii_or_zero_ratio": 0.3772
+      },
+      {
+        "offset_hex": "0001F000",
+        "raw_entropy": 7.948,
+        "xor_ascii_or_zero_ratio": 0.3828
+      },
+      {
+        "offset_hex": "00020000",
+        "raw_entropy": 7.9544,
+        "xor_ascii_or_zero_ratio": 0.3701
+      },
+      {
+        "offset_hex": "00021000",
+        "raw_entropy": 7.9561,
+        "xor_ascii_or_zero_ratio": 0.3682
+      },
+      {
+        "offset_hex": "00022000",
+        "raw_entropy": 7.9518,
+        "xor_ascii_or_zero_ratio": 0.3784
+      },
+      {
+        "offset_hex": "00023000",
+        "raw_entropy": 7.9483,
+        "xor_ascii_or_zero_ratio": 0.3645
+      },
+      {
+        "offset_hex": "00024000",
+        "raw_entropy": 7.9559,
+        "xor_ascii_or_zero_ratio": 0.3845
+      },
+      {
+        "offset_hex": "00025000",
+        "raw_entropy": 7.9552,
+        "xor_ascii_or_zero_ratio": 0.3823
+      },
+      {
+        "offset_hex": "00026000",
+        "raw_entropy": 7.9613,
+        "xor_ascii_or_zero_ratio": 0.3652
+      },
+      {
+        "offset_hex": "00027000",
+        "raw_entropy": 7.9591,
+        "xor_ascii_or_zero_ratio": 0.377
+      },
+      {
+        "offset_hex": "00028000",
+        "raw_entropy": 7.9629,
+        "xor_ascii_or_zero_ratio": 0.3738
+      },
+      {
+        "offset_hex": "00029000",
+        "raw_entropy": 7.9533,
+        "xor_ascii_or_zero_ratio": 0.364
+      },
+      {
+        "offset_hex": "0002A000",
+        "raw_entropy": 7.9567,
+        "xor_ascii_or_zero_ratio": 0.3704
+      },
+      {
+        "offset_hex": "0002B000",
+        "raw_entropy": 7.9528,
+        "xor_ascii_or_zero_ratio": 0.3901
+      },
+      {
+        "offset_hex": "0002C000",
+        "raw_entropy": 7.9528,
+        "xor_ascii_or_zero_ratio": 0.3616
+      },
+      {
+        "offset_hex": "0002D000",
+        "raw_entropy": 7.9612,
+        "xor_ascii_or_zero_ratio": 0.3708
+      },
+      {
+        "offset_hex": "0002E000",
+        "raw_entropy": 7.9463,
+        "xor_ascii_or_zero_ratio": 0.3762
+      },
+      {
+        "offset_hex": "0002F000",
+        "raw_entropy": 7.9523,
+        "xor_ascii_or_zero_ratio": 0.3867
+      },
+      {
+        "offset_hex": "00030000",
+        "raw_entropy": 7.9528,
+        "xor_ascii_or_zero_ratio": 0.3875
+      },
+      {
+        "offset_hex": "00031000",
+        "raw_entropy": 7.9568,
+        "xor_ascii_or_zero_ratio": 0.3777
+      },
+      {
+        "offset_hex": "00032000",
+        "raw_entropy": 7.9583,
+        "xor_ascii_or_zero_ratio": 0.3738
+      },
+      {
+        "offset_hex": "00033000",
+        "raw_entropy": 7.9509,
+        "xor_ascii_or_zero_ratio": 0.3865
+      },
+      {
+        "offset_hex": "00034000",
+        "raw_entropy": 7.9526,
+        "xor_ascii_or_zero_ratio": 0.3699
+      },
+      {
+        "offset_hex": "00035000",
+        "raw_entropy": 7.9483,
+        "xor_ascii_or_zero_ratio": 0.3906
+      },
+      {
+        "offset_hex": "00036000",
+        "raw_entropy": 7.9554,
+        "xor_ascii_or_zero_ratio": 0.3792
+      },
+      {
+        "offset_hex": "00037000",
+        "raw_entropy": 7.9513,
+        "xor_ascii_or_zero_ratio": 0.3816
+      },
+      {
+        "offset_hex": "00038000",
+        "raw_entropy": 7.9489,
+        "xor_ascii_or_zero_ratio": 0.3752
+      },
+      {
+        "offset_hex": "00039000",
+        "raw_entropy": 7.9568,
+        "xor_ascii_or_zero_ratio": 0.3677
+      },
+      {
+        "offset_hex": "0003A000",
+        "raw_entropy": 7.9534,
+        "xor_ascii_or_zero_ratio": 0.365
+      },
+      {
+        "offset_hex": "0003B000",
+        "raw_entropy": 7.9597,
+        "xor_ascii_or_zero_ratio": 0.3684
+      },
+      {
+        "offset_hex": "0003C000",
+        "raw_entropy": 7.9534,
+        "xor_ascii_or_zero_ratio": 0.3857
+      },
+      {
+        "offset_hex": "0003D000",
+        "raw_entropy": 7.9503,
+        "xor_ascii_or_zero_ratio": 0.3809
+      },
+      {
+        "offset_hex": "0003E000",
+        "raw_entropy": 7.9573,
+        "xor_ascii_or_zero_ratio": 0.3704
+      },
+      {
+        "offset_hex": "0003F000",
+        "raw_entropy": 7.9552,
+        "xor_ascii_or_zero_ratio": 0.3677
+      },
+      {
+        "offset_hex": "00040000",
+        "raw_entropy": 7.951,
+        "xor_ascii_or_zero_ratio": 0.375
+      },
+      {
+        "offset_hex": "00041000",
+        "raw_entropy": 7.9543,
+        "xor_ascii_or_zero_ratio": 0.3826
+      },
+      {
+        "offset_hex": "00042000",
+        "raw_entropy": 7.963,
+        "xor_ascii_or_zero_ratio": 0.3777
+      },
+      {
+        "offset_hex": "00043000",
+        "raw_entropy": 7.9537,
+        "xor_ascii_or_zero_ratio": 0.3782
+      },
+      {
+        "offset_hex": "00044000",
+        "raw_entropy": 7.9575,
+        "xor_ascii_or_zero_ratio": 0.3628
+      },
+      {
+        "offset_hex": "00045000",
+        "raw_entropy": 7.9634,
+        "xor_ascii_or_zero_ratio": 0.3684
+      },
+      {
+        "offset_hex": "00046000",
+        "raw_entropy": 7.9576,
+        "xor_ascii_or_zero_ratio": 0.3721
+      },
+      {
+        "offset_hex": "00047000",
+        "raw_entropy": 7.9584,
+        "xor_ascii_or_zero_ratio": 0.363
+      },
+      {
+        "offset_hex": "00048000",
+        "raw_entropy": 7.955,
+        "xor_ascii_or_zero_ratio": 0.3831
+      },
+      {
+        "offset_hex": "00049000",
+        "raw_entropy": 7.9585,
+        "xor_ascii_or_zero_ratio": 0.3691
+      },
+      {
+        "offset_hex": "0004A000",
+        "raw_entropy": 7.957,
+        "xor_ascii_or_zero_ratio": 0.3882
+      },
+      {
+        "offset_hex": "0004B000",
+        "raw_entropy": 7.9514,
+        "xor_ascii_or_zero_ratio": 0.3831
+      },
+      {
+        "offset_hex": "0004C000",
+        "raw_entropy": 7.9505,
+        "xor_ascii_or_zero_ratio": 0.3772
+      },
+      {
+        "offset_hex": "0004D000",
+        "raw_entropy": 7.954,
+        "xor_ascii_or_zero_ratio": 0.3779
+      },
+      {
+        "offset_hex": "0004E000",
+        "raw_entropy": 7.9529,
+        "xor_ascii_or_zero_ratio": 0.3823
+      },
+      {
+        "offset_hex": "0004F000",
+        "raw_entropy": 7.9517,
+        "xor_ascii_or_zero_ratio": 0.3779
+      },
+      {
+        "offset_hex": "00050000",
+        "raw_entropy": 7.9544,
+        "xor_ascii_or_zero_ratio": 0.3706
+      },
+      {
+        "offset_hex": "00051000",
+        "raw_entropy": 7.9495,
+        "xor_ascii_or_zero_ratio": 0.3713
+      },
+      {
+        "offset_hex": "00052000",
+        "raw_entropy": 7.9597,
+        "xor_ascii_or_zero_ratio": 0.3789
+      },
+      {
+        "offset_hex": "00053000",
+        "raw_entropy": 7.958,
+        "xor_ascii_or_zero_ratio": 0.3655
+      },
+      {
+        "offset_hex": "00054000",
+        "raw_entropy": 7.9499,
+        "xor_ascii_or_zero_ratio": 0.373
+      },
+      {
+        "offset_hex": "00055000",
+        "raw_entropy": 7.9517,
+        "xor_ascii_or_zero_ratio": 0.3831
+      },
+      {
+        "offset_hex": "00056000",
+        "raw_entropy": 7.9543,
+        "xor_ascii_or_zero_ratio": 0.3677
+      },
+      {
+        "offset_hex": "00057000",
+        "raw_entropy": 7.9488,
+        "xor_ascii_or_zero_ratio": 0.3772
+      },
+      {
+        "offset_hex": "00058000",
+        "raw_entropy": 7.953,
+        "xor_ascii_or_zero_ratio": 0.3831
+      },
+      {
+        "offset_hex": "00059000",
+        "raw_entropy": 7.9502,
+        "xor_ascii_or_zero_ratio": 0.3926
+      },
+      {
+        "offset_hex": "0005A000",
+        "raw_entropy": 7.9494,
+        "xor_ascii_or_zero_ratio": 0.3669
+      },
+      {
+        "offset_hex": "0005B000",
+        "raw_entropy": 7.9539,
+        "xor_ascii_or_zero_ratio": 0.3696
+      },
+      {
+        "offset_hex": "0005C000",
+        "raw_entropy": 7.9518,
+        "xor_ascii_or_zero_ratio": 0.3765
+      },
+      {
+        "offset_hex": "0005D000",
+        "raw_entropy": 7.9561,
+        "xor_ascii_or_zero_ratio": 0.3796
+      },
+      {
+        "offset_hex": "0005E000",
+        "raw_entropy": 7.9533,
+        "xor_ascii_or_zero_ratio": 0.3723
+      },
+      {
+        "offset_hex": "0005F000",
+        "raw_entropy": 7.9554,
+        "xor_ascii_or_zero_ratio": 0.3765
+      },
+      {
+        "offset_hex": "00060000",
+        "raw_entropy": 7.9548,
+        "xor_ascii_or_zero_ratio": 0.3804
+      },
+      {
+        "offset_hex": "00061000",
+        "raw_entropy": 7.9526,
+        "xor_ascii_or_zero_ratio": 0.3894
+      },
+      {
+        "offset_hex": "00062000",
+        "raw_entropy": 7.9523,
+        "xor_ascii_or_zero_ratio": 0.3748
+      },
+      {
+        "offset_hex": "00063000",
+        "raw_entropy": 7.9576,
+        "xor_ascii_or_zero_ratio": 0.3711
+      },
+      {
+        "offset_hex": "00064000",
+        "raw_entropy": 7.9562,
+        "xor_ascii_or_zero_ratio": 0.3723
+      },
+      {
+        "offset_hex": "00065000",
+        "raw_entropy": 7.9574,
+        "xor_ascii_or_zero_ratio": 0.3804
+      },
+      {
+        "offset_hex": "00066000",
+        "raw_entropy": 7.9555,
+        "xor_ascii_or_zero_ratio": 0.375
+      },
+      {
+        "offset_hex": "00067000",
+        "raw_entropy": 7.9565,
+        "xor_ascii_or_zero_ratio": 0.3794
+      },
+      {
+        "offset_hex": "00068000",
+        "raw_entropy": 7.9553,
+        "xor_ascii_or_zero_ratio": 0.3633
+      },
+      {
+        "offset_hex": "00069000",
+        "raw_entropy": 7.9513,
+        "xor_ascii_or_zero_ratio": 0.3765
+      },
+      {
+        "offset_hex": "0006A000",
+        "raw_entropy": 7.9529,
+        "xor_ascii_or_zero_ratio": 0.3721
+      },
+      {
+        "offset_hex": "0006B000",
+        "raw_entropy": 7.9574,
+        "xor_ascii_or_zero_ratio": 0.3682
+      },
+      {
+        "offset_hex": "0006C000",
+        "raw_entropy": 7.9506,
+        "xor_ascii_or_zero_ratio": 0.3774
+      },
+      {
+        "offset_hex": "0006D000",
+        "raw_entropy": 7.959,
+        "xor_ascii_or_zero_ratio": 0.3755
+      },
+      {
+        "offset_hex": "0006E000",
+        "raw_entropy": 7.956,
+        "xor_ascii_or_zero_ratio": 0.3733
+      },
+      {
+        "offset_hex": "0006F000",
+        "raw_entropy": 7.959,
+        "xor_ascii_or_zero_ratio": 0.3716
+      },
+      {
+        "offset_hex": "00070000",
+        "raw_entropy": 7.9525,
+        "xor_ascii_or_zero_ratio": 0.3906
+      },
+      {
+        "offset_hex": "00071000",
+        "raw_entropy": 7.9538,
+        "xor_ascii_or_zero_ratio": 0.375
+      },
+      {
+        "offset_hex": "00072000",
+        "raw_entropy": 7.9474,
+        "xor_ascii_or_zero_ratio": 0.3652
+      },
+      {
+        "offset_hex": "00073000",
+        "raw_entropy": 7.958,
+        "xor_ascii_or_zero_ratio": 0.3762
+      },
+      {
+        "offset_hex": "00074000",
+        "raw_entropy": 7.9464,
+        "xor_ascii_or_zero_ratio": 0.3774
+      },
+      {
+        "offset_hex": "00075000",
+        "raw_entropy": 7.9567,
+        "xor_ascii_or_zero_ratio": 0.3772
+      },
+      {
+        "offset_hex": "00076000",
+        "raw_entropy": 7.9553,
+        "xor_ascii_or_zero_ratio": 0.375
+      },
+      {
+        "offset_hex": "00077000",
+        "raw_entropy": 7.9494,
+        "xor_ascii_or_zero_ratio": 0.377
+      },
+      {
+        "offset_hex": "00078000",
+        "raw_entropy": 7.9514,
+        "xor_ascii_or_zero_ratio": 0.374
+      },
+      {
+        "offset_hex": "00079000",
+        "raw_entropy": 7.9538,
+        "xor_ascii_or_zero_ratio": 0.3877
+      },
+      {
+        "offset_hex": "0007A000",
+        "raw_entropy": 7.9535,
+        "xor_ascii_or_zero_ratio": 0.375
+      },
+      {
+        "offset_hex": "0007B000",
+        "raw_entropy": 7.9537,
+        "xor_ascii_or_zero_ratio": 0.3777
+      },
+      {
+        "offset_hex": "0007C000",
+        "raw_entropy": 7.9593,
+        "xor_ascii_or_zero_ratio": 0.3872
+      },
+      {
+        "offset_hex": "0007D000",
+        "raw_entropy": 7.9567,
+        "xor_ascii_or_zero_ratio": 0.3838
+      },
+      {
+        "offset_hex": "0007E000",
+        "raw_entropy": 7.9596,
+        "xor_ascii_or_zero_ratio": 0.3784
+      },
+      {
+        "offset_hex": "0007F000",
+        "raw_entropy": 7.9519,
+        "xor_ascii_or_zero_ratio": 0.3679
+      },
+      {
+        "offset_hex": "00080000",
+        "raw_entropy": 7.9599,
+        "xor_ascii_or_zero_ratio": 0.3748
+      },
+      {
+        "offset_hex": "00081000",
+        "raw_entropy": 7.9565,
+        "xor_ascii_or_zero_ratio": 0.3757
+      },
+      {
+        "offset_hex": "00082000",
+        "raw_entropy": 7.9612,
+        "xor_ascii_or_zero_ratio": 0.3804
+      },
+      {
+        "offset_hex": "00083000",
+        "raw_entropy": 7.9563,
+        "xor_ascii_or_zero_ratio": 0.3789
+      },
+      {
+        "offset_hex": "00084000",
+        "raw_entropy": 7.9614,
+        "xor_ascii_or_zero_ratio": 0.3801
+      },
+      {
+        "offset_hex": "00085000",
+        "raw_entropy": 7.9557,
+        "xor_ascii_or_zero_ratio": 0.3848
+      },
+      {
+        "offset_hex": "00086000",
+        "raw_entropy": 7.9582,
+        "xor_ascii_or_zero_ratio": 0.3757
+      },
+      {
+        "offset_hex": "00087000",
+        "raw_entropy": 7.9573,
+        "xor_ascii_or_zero_ratio": 0.3782
+      },
+      {
+        "offset_hex": "00088000",
+        "raw_entropy": 7.9584,
+        "xor_ascii_or_zero_ratio": 0.3738
+      },
+      {
+        "offset_hex": "00089000",
+        "raw_entropy": 7.9519,
+        "xor_ascii_or_zero_ratio": 0.3833
+      },
+      {
+        "offset_hex": "0008A000",
+        "raw_entropy": 7.9613,
+        "xor_ascii_or_zero_ratio": 0.3667
+      },
+      {
+        "offset_hex": "0008B000",
+        "raw_entropy": 7.9582,
+        "xor_ascii_or_zero_ratio": 0.3806
+      },
+      {
+        "offset_hex": "0008C000",
+        "raw_entropy": 7.961,
+        "xor_ascii_or_zero_ratio": 0.3689
+      },
+      {
+        "offset_hex": "0008D000",
+        "raw_entropy": 7.9536,
+        "xor_ascii_or_zero_ratio": 0.3843
+      },
+      {
+        "offset_hex": "0008E000",
+        "raw_entropy": 7.9521,
+        "xor_ascii_or_zero_ratio": 0.3726
+      },
+      {
+        "offset_hex": "0008F000",
+        "raw_entropy": 7.9563,
+        "xor_ascii_or_zero_ratio": 0.3875
+      },
+      {
+        "offset_hex": "00090000",
+        "raw_entropy": 7.9539,
+        "xor_ascii_or_zero_ratio": 0.3662
+      },
+      {
+        "offset_hex": "00091000",
+        "raw_entropy": 7.9555,
+        "xor_ascii_or_zero_ratio": 0.3877
+      },
+      {
+        "offset_hex": "00092000",
+        "raw_entropy": 7.9559,
+        "xor_ascii_or_zero_ratio": 0.3784
+      },
+      {
+        "offset_hex": "00093000",
+        "raw_entropy": 7.9546,
+        "xor_ascii_or_zero_ratio": 0.375
+      },
+      {
+        "offset_hex": "00094000",
+        "raw_entropy": 7.963,
+        "xor_ascii_or_zero_ratio": 0.3735
+      },
+      {
+        "offset_hex": "00095000",
+        "raw_entropy": 7.9621,
+        "xor_ascii_or_zero_ratio": 0.3721
+      },
+      {
+        "offset_hex": "00096000",
+        "raw_entropy": 7.9602,
+        "xor_ascii_or_zero_ratio": 0.3853
+      },
+      {
+        "offset_hex": "00097000",
+        "raw_entropy": 7.9553,
+        "xor_ascii_or_zero_ratio": 0.3767
+      },
+      {
+        "offset_hex": "00098000",
+        "raw_entropy": 7.9583,
+        "xor_ascii_or_zero_ratio": 0.3804
+      },
+      {
+        "offset_hex": "00099000",
+        "raw_entropy": 7.9563,
+        "xor_ascii_or_zero_ratio": 0.3694
+      },
+      {
+        "offset_hex": "0009A000",
+        "raw_entropy": 7.9533,
+        "xor_ascii_or_zero_ratio": 0.3762
+      },
+      {
+        "offset_hex": "0009B000",
+        "raw_entropy": 7.9492,
+        "xor_ascii_or_zero_ratio": 0.3857
+      },
+      {
+        "offset_hex": "0009C000",
+        "raw_entropy": 7.9498,
+        "xor_ascii_or_zero_ratio": 0.3784
+      },
+      {
+        "offset_hex": "0009D000",
+        "raw_entropy": 7.9554,
+        "xor_ascii_or_zero_ratio": 0.3794
+      },
+      {
+        "offset_hex": "0009E000",
+        "raw_entropy": 7.9524,
+        "xor_ascii_or_zero_ratio": 0.3667
+      },
+      {
+        "offset_hex": "0009F000",
+        "raw_entropy": 7.9619,
+        "xor_ascii_or_zero_ratio": 0.3706
+      },
+      {
+        "offset_hex": "000A0000",
+        "raw_entropy": 7.9568,
+        "xor_ascii_or_zero_ratio": 0.3772
+      },
+      {
+        "offset_hex": "000A1000",
+        "raw_entropy": 7.9504,
+        "xor_ascii_or_zero_ratio": 0.3804
+      },
+      {
+        "offset_hex": "000A2000",
+        "raw_entropy": 7.9598,
+        "xor_ascii_or_zero_ratio": 0.3755
+      },
+      {
+        "offset_hex": "000A3000",
+        "raw_entropy": 7.9551,
+        "xor_ascii_or_zero_ratio": 0.3896
+      },
+      {
+        "offset_hex": "000A4000",
+        "raw_entropy": 7.9494,
+        "xor_ascii_or_zero_ratio": 0.3821
+      },
+      {
+        "offset_hex": "000A5000",
+        "raw_entropy": 7.9535,
+        "xor_ascii_or_zero_ratio": 0.3806
+      },
+      {
+        "offset_hex": "000A6000",
+        "raw_entropy": 7.957,
+        "xor_ascii_or_zero_ratio": 0.3743
+      },
+      {
+        "offset_hex": "000A7000",
+        "raw_entropy": 7.9558,
+        "xor_ascii_or_zero_ratio": 0.3948
+      },
+      {
+        "offset_hex": "000A8000",
+        "raw_entropy": 7.9489,
+        "xor_ascii_or_zero_ratio": 0.375
+      },
+      {
+        "offset_hex": "000A9000",
+        "raw_entropy": 7.957,
+        "xor_ascii_or_zero_ratio": 0.3618
+      },
+      {
+        "offset_hex": "000AA000",
+        "raw_entropy": 7.9499,
+        "xor_ascii_or_zero_ratio": 0.3816
+      },
+      {
+        "offset_hex": "000AB000",
+        "raw_entropy": 7.9506,
+        "xor_ascii_or_zero_ratio": 0.3682
+      },
+      {
+        "offset_hex": "000AC000",
+        "raw_entropy": 7.9586,
+        "xor_ascii_or_zero_ratio": 0.3787
+      },
+      {
+        "offset_hex": "000AD000",
+        "raw_entropy": 7.9588,
+        "xor_ascii_or_zero_ratio": 0.373
+      },
+      {
+        "offset_hex": "000AE000",
+        "raw_entropy": 7.9511,
+        "xor_ascii_or_zero_ratio": 0.3813
+      },
+      {
+        "offset_hex": "000AF000",
+        "raw_entropy": 7.9516,
+        "xor_ascii_or_zero_ratio": 0.3726
+      },
+      {
+        "offset_hex": "000B0000",
+        "raw_entropy": 7.9462,
+        "xor_ascii_or_zero_ratio": 0.3787
+      },
+      {
+        "offset_hex": "000B1000",
+        "raw_entropy": 7.9533,
+        "xor_ascii_or_zero_ratio": 0.366
+      },
+      {
+        "offset_hex": "000B2000",
+        "raw_entropy": 7.9525,
+        "xor_ascii_or_zero_ratio": 0.3867
+      },
+      {
+        "offset_hex": "000B3000",
+        "raw_entropy": 7.9541,
+        "xor_ascii_or_zero_ratio": 0.3762
+      },
+      {
+        "offset_hex": "000B4000",
+        "raw_entropy": 7.9604,
+        "xor_ascii_or_zero_ratio": 0.3699
+      },
+      {
+        "offset_hex": "000B5000",
+        "raw_entropy": 7.952,
+        "xor_ascii_or_zero_ratio": 0.3777
+      },
+      {
+        "offset_hex": "000B6000",
+        "raw_entropy": 7.9582,
+        "xor_ascii_or_zero_ratio": 0.3713
+      },
+      {
+        "offset_hex": "000B7000",
+        "raw_entropy": 7.9523,
+        "xor_ascii_or_zero_ratio": 0.3694
+      },
+      {
+        "offset_hex": "000B8000",
+        "raw_entropy": 7.9522,
+        "xor_ascii_or_zero_ratio": 0.376
+      },
+      {
+        "offset_hex": "000B9000",
+        "raw_entropy": 7.9577,
+        "xor_ascii_or_zero_ratio": 0.3735
+      },
+      {
+        "offset_hex": "000BA000",
+        "raw_entropy": 7.9512,
+        "xor_ascii_or_zero_ratio": 0.3774
+      },
+      {
+        "offset_hex": "000BB000",
+        "raw_entropy": 7.9515,
+        "xor_ascii_or_zero_ratio": 0.3772
+      },
+      {
+        "offset_hex": "000BC000",
+        "raw_entropy": 7.9521,
+        "xor_ascii_or_zero_ratio": 0.3706
+      },
+      {
+        "offset_hex": "000BD000",
+        "raw_entropy": 7.959,
+        "xor_ascii_or_zero_ratio": 0.3767
+      },
+      {
+        "offset_hex": "000BE000",
+        "raw_entropy": 7.9628,
+        "xor_ascii_or_zero_ratio": 0.3694
+      },
+      {
+        "offset_hex": "000BF000",
+        "raw_entropy": 7.9485,
+        "xor_ascii_or_zero_ratio": 0.3674
+      },
+      {
+        "offset_hex": "000C0000",
+        "raw_entropy": 7.9546,
+        "xor_ascii_or_zero_ratio": 0.3772
+      },
+      {
+        "offset_hex": "000C1000",
+        "raw_entropy": 7.9543,
+        "xor_ascii_or_zero_ratio": 0.3733
+      },
+      {
+        "offset_hex": "000C2000",
+        "raw_entropy": 7.9616,
+        "xor_ascii_or_zero_ratio": 0.3933
+      },
+      {
+        "offset_hex": "000C3000",
+        "raw_entropy": 7.9543,
+        "xor_ascii_or_zero_ratio": 0.3833
+      },
+      {
+        "offset_hex": "000C4000",
+        "raw_entropy": 7.9564,
+        "xor_ascii_or_zero_ratio": 0.3833
+      },
+      {
+        "offset_hex": "000C5000",
+        "raw_entropy": 7.9491,
+        "xor_ascii_or_zero_ratio": 0.3672
+      },
+      {
+        "offset_hex": "000C6000",
+        "raw_entropy": 7.9484,
+        "xor_ascii_or_zero_ratio": 0.3799
+      },
+      {
+        "offset_hex": "000C7000",
+        "raw_entropy": 7.9569,
+        "xor_ascii_or_zero_ratio": 0.3901
+      },
+      {
+        "offset_hex": "000C8000",
+        "raw_entropy": 7.9588,
+        "xor_ascii_or_zero_ratio": 0.3748
+      },
+      {
+        "offset_hex": "000C9000",
+        "raw_entropy": 7.9457,
+        "xor_ascii_or_zero_ratio": 0.3872
+      },
+      {
+        "offset_hex": "000CA000",
+        "raw_entropy": 7.952,
+        "xor_ascii_or_zero_ratio": 0.3796
+      },
+      {
+        "offset_hex": "000CB000",
+        "raw_entropy": 7.9479,
+        "xor_ascii_or_zero_ratio": 0.3643
+      },
+      {
+        "offset_hex": "000CC000",
+        "raw_entropy": 7.9546,
+        "xor_ascii_or_zero_ratio": 0.3809
+      },
+      {
+        "offset_hex": "000CD000",
+        "raw_entropy": 7.9501,
+        "xor_ascii_or_zero_ratio": 0.3667
+      },
+      {
+        "offset_hex": "000CE000",
+        "raw_entropy": 7.9523,
+        "xor_ascii_or_zero_ratio": 0.3572
+      },
+      {
+        "offset_hex": "000CF000",
+        "raw_entropy": 7.9532,
+        "xor_ascii_or_zero_ratio": 0.3789
+      },
+      {
+        "offset_hex": "000D0000",
+        "raw_entropy": 7.9539,
+        "xor_ascii_or_zero_ratio": 0.3633
+      },
+      {
+        "offset_hex": "000D1000",
+        "raw_entropy": 7.9501,
+        "xor_ascii_or_zero_ratio": 0.3708
+      },
+      {
+        "offset_hex": "000D2000",
+        "raw_entropy": 7.944,
+        "xor_ascii_or_zero_ratio": 0.3772
+      },
+      {
+        "offset_hex": "000D3000",
+        "raw_entropy": 7.9559,
+        "xor_ascii_or_zero_ratio": 0.3677
+      },
+      {
+        "offset_hex": "000D4000",
+        "raw_entropy": 7.9486,
+        "xor_ascii_or_zero_ratio": 0.3718
+      },
+      {
+        "offset_hex": "000D5000",
+        "raw_entropy": 7.9622,
+        "xor_ascii_or_zero_ratio": 0.3652
+      },
+      {
+        "offset_hex": "000D6000",
+        "raw_entropy": 7.9519,
+        "xor_ascii_or_zero_ratio": 0.3767
+      },
+      {
+        "offset_hex": "000D7000",
+        "raw_entropy": 7.9521,
+        "xor_ascii_or_zero_ratio": 0.3608
+      },
+      {
+        "offset_hex": "000D8000",
+        "raw_entropy": 7.9539,
+        "xor_ascii_or_zero_ratio": 0.3687
+      },
+      {
+        "offset_hex": "000D9000",
+        "raw_entropy": 7.9544,
+        "xor_ascii_or_zero_ratio": 0.3774
+      },
+      {
+        "offset_hex": "000DA000",
+        "raw_entropy": 7.956,
+        "xor_ascii_or_zero_ratio": 0.3755
+      },
+      {
+        "offset_hex": "000DB000",
+        "raw_entropy": 7.9585,
+        "xor_ascii_or_zero_ratio": 0.374
+      },
+      {
+        "offset_hex": "000DC000",
+        "raw_entropy": 7.9528,
+        "xor_ascii_or_zero_ratio": 0.3792
+      },
+      {
+        "offset_hex": "000DD000",
+        "raw_entropy": 7.9494,
+        "xor_ascii_or_zero_ratio": 0.3643
+      },
+      {
+        "offset_hex": "000DE000",
+        "raw_entropy": 7.9541,
+        "xor_ascii_or_zero_ratio": 0.3784
+      },
+      {
+        "offset_hex": "000DF000",
+        "raw_entropy": 7.9548,
+        "xor_ascii_or_zero_ratio": 0.374
+      },
+      {
+        "offset_hex": "000E0000",
+        "raw_entropy": 7.9569,
+        "xor_ascii_or_zero_ratio": 0.3767
+      },
+      {
+        "offset_hex": "000E1000",
+        "raw_entropy": 7.9571,
+        "xor_ascii_or_zero_ratio": 0.3733
+      },
+      {
+        "offset_hex": "000E2000",
+        "raw_entropy": 7.9563,
+        "xor_ascii_or_zero_ratio": 0.3792
+      },
+      {
+        "offset_hex": "000E3000",
+        "raw_entropy": 7.9606,
+        "xor_ascii_or_zero_ratio": 0.3711
+      },
+      {
+        "offset_hex": "000E4000",
+        "raw_entropy": 7.9425,
+        "xor_ascii_or_zero_ratio": 0.3809
+      },
+      {
+        "offset_hex": "000E5000",
+        "raw_entropy": 7.96,
+        "xor_ascii_or_zero_ratio": 0.3706
+      },
+      {
+        "offset_hex": "000E6000",
+        "raw_entropy": 7.9482,
+        "xor_ascii_or_zero_ratio": 0.3799
+      },
+      {
+        "offset_hex": "000E7000",
+        "raw_entropy": 7.9536,
+        "xor_ascii_or_zero_ratio": 0.3806
+      },
+      {
+        "offset_hex": "000E8000",
+        "raw_entropy": 7.9517,
+        "xor_ascii_or_zero_ratio": 0.3647
+      },
+      {
+        "offset_hex": "000E9000",
+        "raw_entropy": 7.9604,
+        "xor_ascii_or_zero_ratio": 0.3867
+      },
+      {
+        "offset_hex": "000EA000",
+        "raw_entropy": 7.957,
+        "xor_ascii_or_zero_ratio": 0.366
+      },
+      {
+        "offset_hex": "000EB000",
+        "raw_entropy": 7.9533,
+        "xor_ascii_or_zero_ratio": 0.3813
+      },
+      {
+        "offset_hex": "000EC000",
+        "raw_entropy": 7.9512,
+        "xor_ascii_or_zero_ratio": 0.3787
+      },
+      {
+        "offset_hex": "000ED000",
+        "raw_entropy": 7.9581,
+        "xor_ascii_or_zero_ratio": 0.3701
+      },
+      {
+        "offset_hex": "000EE000",
+        "raw_entropy": 7.9514,
+        "xor_ascii_or_zero_ratio": 0.3765
+      },
+      {
+        "offset_hex": "000EF000",
+        "raw_entropy": 7.9553,
+        "xor_ascii_or_zero_ratio": 0.3875
+      },
+      {
+        "offset_hex": "000F0000",
+        "raw_entropy": 7.9546,
+        "xor_ascii_or_zero_ratio": 0.3784
+      },
+      {
+        "offset_hex": "000F1000",
+        "raw_entropy": 7.9592,
+        "xor_ascii_or_zero_ratio": 0.3643
+      },
+      {
+        "offset_hex": "000F2000",
+        "raw_entropy": 7.9439,
+        "xor_ascii_or_zero_ratio": 0.3625
+      },
+      {
+        "offset_hex": "000F3000",
+        "raw_entropy": 7.9518,
+        "xor_ascii_or_zero_ratio": 0.3735
+      },
+      {
+        "offset_hex": "000F4000",
+        "raw_entropy": 7.9591,
+        "xor_ascii_or_zero_ratio": 0.3833
+      },
+      {
+        "offset_hex": "000F5000",
+        "raw_entropy": 7.9539,
+        "xor_ascii_or_zero_ratio": 0.3818
+      },
+      {
+        "offset_hex": "000F6000",
+        "raw_entropy": 7.9568,
+        "xor_ascii_or_zero_ratio": 0.3733
+      },
+      {
+        "offset_hex": "000F7000",
+        "raw_entropy": 7.9535,
+        "xor_ascii_or_zero_ratio": 0.3835
+      },
+      {
+        "offset_hex": "000F8000",
+        "raw_entropy": 7.9534,
+        "xor_ascii_or_zero_ratio": 0.3816
+      },
+      {
+        "offset_hex": "000F9000",
+        "raw_entropy": 7.9522,
+        "xor_ascii_or_zero_ratio": 0.3921
+      },
+      {
+        "offset_hex": "000FA000",
+        "raw_entropy": 7.9622,
+        "xor_ascii_or_zero_ratio": 0.3711
+      },
+      {
+        "offset_hex": "000FB000",
+        "raw_entropy": 7.9603,
+        "xor_ascii_or_zero_ratio": 0.373
+      },
+      {
+        "offset_hex": "000FC000",
+        "raw_entropy": 7.9575,
+        "xor_ascii_or_zero_ratio": 0.3755
+      },
+      {
+        "offset_hex": "000FD000",
+        "raw_entropy": 7.9546,
+        "xor_ascii_or_zero_ratio": 0.3689
+      },
+      {
+        "offset_hex": "000FE000",
+        "raw_entropy": 7.9562,
+        "xor_ascii_or_zero_ratio": 0.3845
+      },
+      {
+        "offset_hex": "000FF000",
+        "raw_entropy": 7.9599,
+        "xor_ascii_or_zero_ratio": 0.3677
+      },
+      {
+        "offset_hex": "00100000",
+        "raw_entropy": 7.9422,
+        "xor_ascii_or_zero_ratio": 0.375
+      },
+      {
+        "offset_hex": "00101000",
+        "raw_entropy": 7.9536,
+        "xor_ascii_or_zero_ratio": 0.3818
+      },
+      {
+        "offset_hex": "00102000",
+        "raw_entropy": 7.9561,
+        "xor_ascii_or_zero_ratio": 0.3694
+      },
+      {
+        "offset_hex": "00103000",
+        "raw_entropy": 7.9525,
+        "xor_ascii_or_zero_ratio": 0.3542
+      },
+      {
+        "offset_hex": "00104000",
+        "raw_entropy": 7.9573,
+        "xor_ascii_or_zero_ratio": 0.3694
+      },
+      {
+        "offset_hex": "00105000",
+        "raw_entropy": 7.9598,
+        "xor_ascii_or_zero_ratio": 0.3674
+      },
+      {
+        "offset_hex": "00106000",
+        "raw_entropy": 7.9571,
+        "xor_ascii_or_zero_ratio": 0.3694
+      },
+      {
+        "offset_hex": "00107000",
+        "raw_entropy": 7.9553,
+        "xor_ascii_or_zero_ratio": 0.3779
+      },
+      {
+        "offset_hex": "00108000",
+        "raw_entropy": 7.9541,
+        "xor_ascii_or_zero_ratio": 0.3875
+      },
+      {
+        "offset_hex": "00109000",
+        "raw_entropy": 7.953,
+        "xor_ascii_or_zero_ratio": 0.3782
+      },
+      {
+        "offset_hex": "0010A000",
+        "raw_entropy": 7.9509,
+        "xor_ascii_or_zero_ratio": 0.3726
+      },
+      {
+        "offset_hex": "0010B000",
+        "raw_entropy": 7.9545,
+        "xor_ascii_or_zero_ratio": 0.3796
+      },
+      {
+        "offset_hex": "0010C000",
+        "raw_entropy": 7.9555,
+        "xor_ascii_or_zero_ratio": 0.3704
+      },
+      {
+        "offset_hex": "0010D000",
+        "raw_entropy": 7.9515,
+        "xor_ascii_or_zero_ratio": 0.3723
+      },
+      {
+        "offset_hex": "0010E000",
+        "raw_entropy": 7.9487,
+        "xor_ascii_or_zero_ratio": 0.3828
+      },
+      {
+        "offset_hex": "0010F000",
+        "raw_entropy": 7.9515,
+        "xor_ascii_or_zero_ratio": 0.3779
+      },
+      {
+        "offset_hex": "00110000",
+        "raw_entropy": 7.9468,
+        "xor_ascii_or_zero_ratio": 0.374
+      },
+      {
+        "offset_hex": "00111000",
+        "raw_entropy": 7.9572,
+        "xor_ascii_or_zero_ratio": 0.3635
+      },
+      {
+        "offset_hex": "00112000",
+        "raw_entropy": 7.9499,
+        "xor_ascii_or_zero_ratio": 0.3948
+      },
+      {
+        "offset_hex": "00113000",
+        "raw_entropy": 7.953,
+        "xor_ascii_or_zero_ratio": 0.3816
+      },
+      {
+        "offset_hex": "00114000",
+        "raw_entropy": 7.9644,
+        "xor_ascii_or_zero_ratio": 0.3711
+      },
+      {
+        "offset_hex": "00115000",
+        "raw_entropy": 7.956,
+        "xor_ascii_or_zero_ratio": 0.3735
+      },
+      {
+        "offset_hex": "00116000",
+        "raw_entropy": 7.9513,
+        "xor_ascii_or_zero_ratio": 0.3772
+      },
+      {
+        "offset_hex": "00117000",
+        "raw_entropy": 7.9585,
+        "xor_ascii_or_zero_ratio": 0.3726
+      },
+      {
+        "offset_hex": "00118000",
+        "raw_entropy": 7.9578,
+        "xor_ascii_or_zero_ratio": 0.3792
+      },
+      {
+        "offset_hex": "00119000",
+        "raw_entropy": 7.955,
+        "xor_ascii_or_zero_ratio": 0.3713
+      },
+      {
+        "offset_hex": "0011A000",
+        "raw_entropy": 7.9559,
+        "xor_ascii_or_zero_ratio": 0.3635
+      },
+      {
+        "offset_hex": "0011B000",
+        "raw_entropy": 7.9555,
+        "xor_ascii_or_zero_ratio": 0.3831
+      },
+      {
+        "offset_hex": "0011C000",
+        "raw_entropy": 7.9532,
+        "xor_ascii_or_zero_ratio": 0.3723
+      },
+      {
+        "offset_hex": "0011D000",
+        "raw_entropy": 7.9504,
+        "xor_ascii_or_zero_ratio": 0.3777
+      },
+      {
+        "offset_hex": "0011E000",
+        "raw_entropy": 7.9502,
+        "xor_ascii_or_zero_ratio": 0.3755
+      },
+      {
+        "offset_hex": "0011F000",
+        "raw_entropy": 7.9524,
+        "xor_ascii_or_zero_ratio": 0.3943
+      },
+      {
+        "offset_hex": "00120000",
+        "raw_entropy": 7.96,
+        "xor_ascii_or_zero_ratio": 0.3694
+      },
+      {
+        "offset_hex": "00121000",
+        "raw_entropy": 7.9613,
+        "xor_ascii_or_zero_ratio": 0.3679
+      },
+      {
+        "offset_hex": "00122000",
+        "raw_entropy": 7.9539,
+        "xor_ascii_or_zero_ratio": 0.3716
+      },
+      {
+        "offset_hex": "00123000",
+        "raw_entropy": 7.9478,
+        "xor_ascii_or_zero_ratio": 0.3887
+      },
+      {
+        "offset_hex": "00124000",
+        "raw_entropy": 7.9473,
+        "xor_ascii_or_zero_ratio": 0.3611
+      },
+      {
+        "offset_hex": "00125000",
+        "raw_entropy": 7.9494,
+        "xor_ascii_or_zero_ratio": 0.3767
+      },
+      {
+        "offset_hex": "00126000",
+        "raw_entropy": 7.9564,
+        "xor_ascii_or_zero_ratio": 0.3699
+      },
+      {
+        "offset_hex": "00127000",
+        "raw_entropy": 7.9488,
+        "xor_ascii_or_zero_ratio": 0.376
+      },
+      {
+        "offset_hex": "00128000",
+        "raw_entropy": 7.9579,
+        "xor_ascii_or_zero_ratio": 0.3672
+      },
+      {
+        "offset_hex": "00129000",
+        "raw_entropy": 7.9581,
+        "xor_ascii_or_zero_ratio": 0.3799
+      },
+      {
+        "offset_hex": "0012A000",
+        "raw_entropy": 7.9496,
+        "xor_ascii_or_zero_ratio": 0.3679
+      },
+      {
+        "offset_hex": "0012B000",
+        "raw_entropy": 7.9551,
+        "xor_ascii_or_zero_ratio": 0.3772
+      },
+      {
+        "offset_hex": "0012C000",
+        "raw_entropy": 7.9459,
+        "xor_ascii_or_zero_ratio": 0.3713
+      },
+      {
+        "offset_hex": "0012D000",
+        "raw_entropy": 7.9557,
+        "xor_ascii_or_zero_ratio": 0.385
+      },
+      {
+        "offset_hex": "0012E000",
+        "raw_entropy": 7.9543,
+        "xor_ascii_or_zero_ratio": 0.3801
+      },
+      {
+        "offset_hex": "0012F000",
+        "raw_entropy": 7.9579,
+        "xor_ascii_or_zero_ratio": 0.3701
+      },
+      {
+        "offset_hex": "00130000",
+        "raw_entropy": 7.9548,
+        "xor_ascii_or_zero_ratio": 0.3738
+      },
+      {
+        "offset_hex": "00131000",
+        "raw_entropy": 7.9544,
+        "xor_ascii_or_zero_ratio": 0.3638
+      },
+      {
+        "offset_hex": "00132000",
+        "raw_entropy": 7.951,
+        "xor_ascii_or_zero_ratio": 0.3796
+      },
+      {
+        "offset_hex": "00133000",
+        "raw_entropy": 7.9593,
+        "xor_ascii_or_zero_ratio": 0.3755
+      },
+      {
+        "offset_hex": "00134000",
+        "raw_entropy": 7.9567,
+        "xor_ascii_or_zero_ratio": 0.3728
+      },
+      {
+        "offset_hex": "00135000",
+        "raw_entropy": 7.9608,
+        "xor_ascii_or_zero_ratio": 0.375
+      },
+      {
+        "offset_hex": "00136000",
+        "raw_entropy": 7.9586,
+        "xor_ascii_or_zero_ratio": 0.3726
+      },
+      {
+        "offset_hex": "00137000",
+        "raw_entropy": 7.9567,
+        "xor_ascii_or_zero_ratio": 0.3677
+      },
+      {
+        "offset_hex": "00138000",
+        "raw_entropy": 7.9586,
+        "xor_ascii_or_zero_ratio": 0.3752
+      },
+      {
+        "offset_hex": "00139000",
+        "raw_entropy": 7.9525,
+        "xor_ascii_or_zero_ratio": 0.3757
+      },
+      {
+        "offset_hex": "0013A000",
+        "raw_entropy": 7.9535,
+        "xor_ascii_or_zero_ratio": 0.3708
+      },
+      {
+        "offset_hex": "0013B000",
+        "raw_entropy": 7.9507,
+        "xor_ascii_or_zero_ratio": 0.3701
+      },
+      {
+        "offset_hex": "0013C000",
+        "raw_entropy": 7.9545,
+        "xor_ascii_or_zero_ratio": 0.3848
+      },
+      {
+        "offset_hex": "0013D000",
+        "raw_entropy": 7.9566,
+        "xor_ascii_or_zero_ratio": 0.3831
+      },
+      {
+        "offset_hex": "0013E000",
+        "raw_entropy": 7.9585,
+        "xor_ascii_or_zero_ratio": 0.3872
+      },
+      {
+        "offset_hex": "0013F000",
+        "raw_entropy": 7.9582,
+        "xor_ascii_or_zero_ratio": 0.3694
+      },
+      {
+        "offset_hex": "00140000",
+        "raw_entropy": 7.9608,
+        "xor_ascii_or_zero_ratio": 0.363
+      },
+      {
+        "offset_hex": "00141000",
+        "raw_entropy": 7.9522,
+        "xor_ascii_or_zero_ratio": 0.385
+      },
+      {
+        "offset_hex": "00142000",
+        "raw_entropy": 7.9551,
+        "xor_ascii_or_zero_ratio": 0.376
+      },
+      {
+        "offset_hex": "00143000",
+        "raw_entropy": 7.9578,
+        "xor_ascii_or_zero_ratio": 0.3728
+      },
+      {
+        "offset_hex": "00144000",
+        "raw_entropy": 7.9647,
+        "xor_ascii_or_zero_ratio": 0.3738
+      },
+      {
+        "offset_hex": "00145000",
+        "raw_entropy": 7.9573,
+        "xor_ascii_or_zero_ratio": 0.3613
+      },
+      {
+        "offset_hex": "00146000",
+        "raw_entropy": 7.9488,
+        "xor_ascii_or_zero_ratio": 0.3691
+      },
+      {
+        "offset_hex": "00147000",
+        "raw_entropy": 7.9558,
+        "xor_ascii_or_zero_ratio": 0.3677
+      },
+      {
+        "offset_hex": "00148000",
+        "raw_entropy": 7.9498,
+        "xor_ascii_or_zero_ratio": 0.3711
+      },
+      {
+        "offset_hex": "00149000",
+        "raw_entropy": 7.9579,
+        "xor_ascii_or_zero_ratio": 0.3787
+      },
+      {
+        "offset_hex": "0014A000",
+        "raw_entropy": 7.9581,
+        "xor_ascii_or_zero_ratio": 0.3813
+      },
+      {
+        "offset_hex": "0014B000",
+        "raw_entropy": 7.957,
+        "xor_ascii_or_zero_ratio": 0.3755
+      },
+      {
+        "offset_hex": "0014C000",
+        "raw_entropy": 7.9611,
+        "xor_ascii_or_zero_ratio": 0.3777
+      },
+      {
+        "offset_hex": "0014D000",
+        "raw_entropy": 7.9529,
+        "xor_ascii_or_zero_ratio": 0.3711
+      },
+      {
+        "offset_hex": "0014E000",
+        "raw_entropy": 7.9487,
+        "xor_ascii_or_zero_ratio": 0.3625
+      },
+      {
+        "offset_hex": "0014F000",
+        "raw_entropy": 7.9578,
+        "xor_ascii_or_zero_ratio": 0.3784
+      },
+      {
+        "offset_hex": "00150000",
+        "raw_entropy": 7.959,
+        "xor_ascii_or_zero_ratio": 0.3723
+      },
+      {
+        "offset_hex": "00151000",
+        "raw_entropy": 7.961,
+        "xor_ascii_or_zero_ratio": 0.3616
+      },
+      {
+        "offset_hex": "00152000",
+        "raw_entropy": 7.9467,
+        "xor_ascii_or_zero_ratio": 0.374
+      },
+      {
+        "offset_hex": "00153000",
+        "raw_entropy": 7.9537,
+        "xor_ascii_or_zero_ratio": 0.3677
+      },
+      {
+        "offset_hex": "00154000",
+        "raw_entropy": 7.9536,
+        "xor_ascii_or_zero_ratio": 0.3679
+      },
+      {
+        "offset_hex": "00155000",
+        "raw_entropy": 7.9541,
+        "xor_ascii_or_zero_ratio": 0.3867
+      },
+      {
+        "offset_hex": "00156000",
+        "raw_entropy": 7.9584,
+        "xor_ascii_or_zero_ratio": 0.3704
+      },
+      {
+        "offset_hex": "00157000",
+        "raw_entropy": 7.9478,
+        "xor_ascii_or_zero_ratio": 0.3936
+      },
+      {
+        "offset_hex": "00158000",
+        "raw_entropy": 7.9489,
+        "xor_ascii_or_zero_ratio": 0.3813
+      },
+      {
+        "offset_hex": "00159000",
+        "raw_entropy": 7.9513,
+        "xor_ascii_or_zero_ratio": 0.3718
+      },
+      {
+        "offset_hex": "0015A000",
+        "raw_entropy": 7.9634,
+        "xor_ascii_or_zero_ratio": 0.3655
+      },
+      {
+        "offset_hex": "0015B000",
+        "raw_entropy": 7.9565,
+        "xor_ascii_or_zero_ratio": 0.3723
+      },
+      {
+        "offset_hex": "0015C000",
+        "raw_entropy": 7.9548,
+        "xor_ascii_or_zero_ratio": 0.3782
+      },
+      {
+        "offset_hex": "0015D000",
+        "raw_entropy": 7.961,
+        "xor_ascii_or_zero_ratio": 0.3845
+      },
+      {
+        "offset_hex": "0015E000",
+        "raw_entropy": 7.9545,
+        "xor_ascii_or_zero_ratio": 0.3821
+      },
+      {
+        "offset_hex": "0015F000",
+        "raw_entropy": 7.9589,
+        "xor_ascii_or_zero_ratio": 0.366
+      },
+      {
+        "offset_hex": "00160000",
+        "raw_entropy": 7.9516,
+        "xor_ascii_or_zero_ratio": 0.3667
+      },
+      {
+        "offset_hex": "00161000",
+        "raw_entropy": 7.9546,
+        "xor_ascii_or_zero_ratio": 0.3643
+      },
+      {
+        "offset_hex": "00162000",
+        "raw_entropy": 7.944,
+        "xor_ascii_or_zero_ratio": 0.3726
+      },
+      {
+        "offset_hex": "00163000",
+        "raw_entropy": 7.9545,
+        "xor_ascii_or_zero_ratio": 0.377
+      },
+      {
+        "offset_hex": "00164000",
+        "raw_entropy": 7.962,
+        "xor_ascii_or_zero_ratio": 0.3655
+      },
+      {
+        "offset_hex": "00165000",
+        "raw_entropy": 7.9533,
+        "xor_ascii_or_zero_ratio": 0.3591
+      },
+      {
+        "offset_hex": "00166000",
+        "raw_entropy": 7.9514,
+        "xor_ascii_or_zero_ratio": 0.3828
+      },
+      {
+        "offset_hex": "00167000",
+        "raw_entropy": 7.9517,
+        "xor_ascii_or_zero_ratio": 0.3811
+      },
+      {
+        "offset_hex": "00168000",
+        "raw_entropy": 7.9552,
+        "xor_ascii_or_zero_ratio": 0.3706
+      },
+      {
+        "offset_hex": "00169000",
+        "raw_entropy": 7.9547,
+        "xor_ascii_or_zero_ratio": 0.3684
+      },
+      {
+        "offset_hex": "0016A000",
+        "raw_entropy": 7.9545,
+        "xor_ascii_or_zero_ratio": 0.3738
+      },
+      {
+        "offset_hex": "0016B000",
+        "raw_entropy": 7.9608,
+        "xor_ascii_or_zero_ratio": 0.374
+      },
+      {
+        "offset_hex": "0016C000",
+        "raw_entropy": 7.9544,
+        "xor_ascii_or_zero_ratio": 0.3613
+      },
+      {
+        "offset_hex": "0016D000",
+        "raw_entropy": 7.9618,
+        "xor_ascii_or_zero_ratio": 0.3848
+      },
+      {
+        "offset_hex": "0016E000",
+        "raw_entropy": 7.9602,
+        "xor_ascii_or_zero_ratio": 0.3706
+      },
+      {
+        "offset_hex": "0016F000",
+        "raw_entropy": 7.9534,
+        "xor_ascii_or_zero_ratio": 0.3696
+      },
+      {
+        "offset_hex": "00170000",
+        "raw_entropy": 7.9587,
+        "xor_ascii_or_zero_ratio": 0.3723
+      },
+      {
+        "offset_hex": "00171000",
+        "raw_entropy": 7.9509,
+        "xor_ascii_or_zero_ratio": 0.3694
+      },
+      {
+        "offset_hex": "00172000",
+        "raw_entropy": 7.9523,
+        "xor_ascii_or_zero_ratio": 0.3669
+      },
+      {
+        "offset_hex": "00173000",
+        "raw_entropy": 7.9507,
+        "xor_ascii_or_zero_ratio": 0.377
+      },
+      {
+        "offset_hex": "00174000",
+        "raw_entropy": 7.9567,
+        "xor_ascii_or_zero_ratio": 0.363
+      },
+      {
+        "offset_hex": "00175000",
+        "raw_entropy": 7.952,
+        "xor_ascii_or_zero_ratio": 0.3601
+      },
+      {
+        "offset_hex": "00176000",
+        "raw_entropy": 7.9567,
+        "xor_ascii_or_zero_ratio": 0.3723
+      },
+      {
+        "offset_hex": "00177000",
+        "raw_entropy": 7.9476,
+        "xor_ascii_or_zero_ratio": 0.3718
+      },
+      {
+        "offset_hex": "00178000",
+        "raw_entropy": 7.9578,
+        "xor_ascii_or_zero_ratio": 0.3662
+      },
+      {
+        "offset_hex": "00179000",
+        "raw_entropy": 7.9671,
+        "xor_ascii_or_zero_ratio": 0.3784
+      },
+      {
+        "offset_hex": "0017A000",
+        "raw_entropy": 7.9495,
+        "xor_ascii_or_zero_ratio": 0.3604
+      },
+      {
+        "offset_hex": "0017B000",
+        "raw_entropy": 7.9585,
+        "xor_ascii_or_zero_ratio": 0.3801
+      },
+      {
+        "offset_hex": "0017C000",
+        "raw_entropy": 7.9568,
+        "xor_ascii_or_zero_ratio": 0.3735
+      },
+      {
+        "offset_hex": "0017D000",
+        "raw_entropy": 7.9559,
+        "xor_ascii_or_zero_ratio": 0.3655
+      },
+      {
+        "offset_hex": "0017E000",
+        "raw_entropy": 7.954,
+        "xor_ascii_or_zero_ratio": 0.3704
+      },
+      {
+        "offset_hex": "0017F000",
+        "raw_entropy": 7.9543,
+        "xor_ascii_or_zero_ratio": 0.3745
+      },
+      {
+        "offset_hex": "00180000",
+        "raw_entropy": 7.961,
+        "xor_ascii_or_zero_ratio": 0.3782
+      },
+      {
+        "offset_hex": "00181000",
+        "raw_entropy": 7.9552,
+        "xor_ascii_or_zero_ratio": 0.3774
+      },
+      {
+        "offset_hex": "00182000",
+        "raw_entropy": 7.9521,
+        "xor_ascii_or_zero_ratio": 0.3726
+      },
+      {
+        "offset_hex": "00183000",
+        "raw_entropy": 7.9533,
+        "xor_ascii_or_zero_ratio": 0.375
+      },
+      {
+        "offset_hex": "00184000",
+        "raw_entropy": 7.9555,
+        "xor_ascii_or_zero_ratio": 0.3799
+      },
+      {
+        "offset_hex": "00185000",
+        "raw_entropy": 7.9537,
+        "xor_ascii_or_zero_ratio": 0.3772
+      },
+      {
+        "offset_hex": "00186000",
+        "raw_entropy": 7.9531,
+        "xor_ascii_or_zero_ratio": 0.3787
+      },
+      {
+        "offset_hex": "00187000",
+        "raw_entropy": 7.9571,
+        "xor_ascii_or_zero_ratio": 0.3594
+      },
+      {
+        "offset_hex": "00188000",
+        "raw_entropy": 7.9565,
+        "xor_ascii_or_zero_ratio": 0.394
+      },
+      {
+        "offset_hex": "00189000",
+        "raw_entropy": 7.954,
+        "xor_ascii_or_zero_ratio": 0.3816
+      },
+      {
+        "offset_hex": "0018A000",
+        "raw_entropy": 7.951,
+        "xor_ascii_or_zero_ratio": 0.365
+      },
+      {
+        "offset_hex": "0018B000",
+        "raw_entropy": 7.9529,
+        "xor_ascii_or_zero_ratio": 0.3765
+      },
+      {
+        "offset_hex": "0018C000",
+        "raw_entropy": 7.9573,
+        "xor_ascii_or_zero_ratio": 0.3589
+      },
+      {
+        "offset_hex": "0018D000",
+        "raw_entropy": 7.9563,
+        "xor_ascii_or_zero_ratio": 0.3762
+      },
+      {
+        "offset_hex": "0018E000",
+        "raw_entropy": 7.9606,
+        "xor_ascii_or_zero_ratio": 0.3669
+      },
+      {
+        "offset_hex": "0018F000",
+        "raw_entropy": 7.949,
+        "xor_ascii_or_zero_ratio": 0.376
+      },
+      {
+        "offset_hex": "00190000",
+        "raw_entropy": 7.9543,
+        "xor_ascii_or_zero_ratio": 0.3616
+      },
+      {
+        "offset_hex": "00191000",
+        "raw_entropy": 7.9561,
+        "xor_ascii_or_zero_ratio": 0.3875
+      },
+      {
+        "offset_hex": "00192000",
+        "raw_entropy": 7.9576,
+        "xor_ascii_or_zero_ratio": 0.3906
+      },
+      {
+        "offset_hex": "00193000",
+        "raw_entropy": 7.9613,
+        "xor_ascii_or_zero_ratio": 0.364
+      },
+      {
+        "offset_hex": "00194000",
+        "raw_entropy": 7.959,
+        "xor_ascii_or_zero_ratio": 0.3757
+      },
+      {
+        "offset_hex": "00195000",
+        "raw_entropy": 7.9548,
+        "xor_ascii_or_zero_ratio": 0.3696
+      },
+      {
+        "offset_hex": "00196000",
+        "raw_entropy": 7.9526,
+        "xor_ascii_or_zero_ratio": 0.3716
+      },
+      {
+        "offset_hex": "00197000",
+        "raw_entropy": 7.9538,
+        "xor_ascii_or_zero_ratio": 0.3674
+      },
+      {
+        "offset_hex": "00198000",
+        "raw_entropy": 7.9547,
+        "xor_ascii_or_zero_ratio": 0.3816
+      },
+      {
+        "offset_hex": "00199000",
+        "raw_entropy": 7.9512,
+        "xor_ascii_or_zero_ratio": 0.3701
+      },
+      {
+        "offset_hex": "0019A000",
+        "raw_entropy": 7.9563,
+        "xor_ascii_or_zero_ratio": 0.3748
+      },
+      {
+        "offset_hex": "0019B000",
+        "raw_entropy": 7.9523,
+        "xor_ascii_or_zero_ratio": 0.3701
+      },
+      {
+        "offset_hex": "0019C000",
+        "raw_entropy": 7.9557,
+        "xor_ascii_or_zero_ratio": 0.3811
+      },
+      {
+        "offset_hex": "0019D000",
+        "raw_entropy": 7.962,
+        "xor_ascii_or_zero_ratio": 0.3733
+      },
+      {
+        "offset_hex": "0019E000",
+        "raw_entropy": 7.9517,
+        "xor_ascii_or_zero_ratio": 0.3711
+      },
+      {
+        "offset_hex": "0019F000",
+        "raw_entropy": 7.963,
+        "xor_ascii_or_zero_ratio": 0.3794
+      },
+      {
+        "offset_hex": "001A0000",
+        "raw_entropy": 7.9502,
+        "xor_ascii_or_zero_ratio": 0.3918
+      },
+      {
+        "offset_hex": "001A1000",
+        "raw_entropy": 7.9576,
+        "xor_ascii_or_zero_ratio": 0.3684
+      },
+      {
+        "offset_hex": "001A2000",
+        "raw_entropy": 7.9487,
+        "xor_ascii_or_zero_ratio": 0.3884
+      },
+      {
+        "offset_hex": "001A3000",
+        "raw_entropy": 7.9574,
+        "xor_ascii_or_zero_ratio": 0.3862
+      },
+      {
+        "offset_hex": "001A4000",
+        "raw_entropy": 7.9507,
+        "xor_ascii_or_zero_ratio": 0.3628
+      },
+      {
+        "offset_hex": "001A5000",
+        "raw_entropy": 7.9531,
+        "xor_ascii_or_zero_ratio": 0.3665
+      },
+      {
+        "offset_hex": "001A6000",
+        "raw_entropy": 7.95,
+        "xor_ascii_or_zero_ratio": 0.364
+      },
+      {
+        "offset_hex": "001A7000",
+        "raw_entropy": 7.9582,
+        "xor_ascii_or_zero_ratio": 0.3701
+      },
+      {
+        "offset_hex": "001A8000",
+        "raw_entropy": 7.9606,
+        "xor_ascii_or_zero_ratio": 0.3696
+      },
+      {
+        "offset_hex": "001A9000",
+        "raw_entropy": 7.9588,
+        "xor_ascii_or_zero_ratio": 0.3767
+      },
+      {
+        "offset_hex": "001AA000",
+        "raw_entropy": 7.9619,
+        "xor_ascii_or_zero_ratio": 0.3682
+      },
+      {
+        "offset_hex": "001AB000",
+        "raw_entropy": 7.9589,
+        "xor_ascii_or_zero_ratio": 0.3721
+      },
+      {
+        "offset_hex": "001AC000",
+        "raw_entropy": 7.9582,
+        "xor_ascii_or_zero_ratio": 0.375
+      },
+      {
+        "offset_hex": "001AD000",
+        "raw_entropy": 7.9504,
+        "xor_ascii_or_zero_ratio": 0.3677
+      },
+      {
+        "offset_hex": "001AE000",
+        "raw_entropy": 7.9555,
+        "xor_ascii_or_zero_ratio": 0.3799
+      },
+      {
+        "offset_hex": "001AF000",
+        "raw_entropy": 7.9543,
+        "xor_ascii_or_zero_ratio": 0.3752
+      },
+      {
+        "offset_hex": "001B0000",
+        "raw_entropy": 7.9531,
+        "xor_ascii_or_zero_ratio": 0.363
+      },
+      {
+        "offset_hex": "001B1000",
+        "raw_entropy": 7.9619,
+        "xor_ascii_or_zero_ratio": 0.3679
+      },
+      {
+        "offset_hex": "001B2000",
+        "raw_entropy": 7.9509,
+        "xor_ascii_or_zero_ratio": 0.3711
+      },
+      {
+        "offset_hex": "001B3000",
+        "raw_entropy": 7.9624,
+        "xor_ascii_or_zero_ratio": 0.3767
+      },
+      {
+        "offset_hex": "001B4000",
+        "raw_entropy": 7.9614,
+        "xor_ascii_or_zero_ratio": 0.3655
+      },
+      {
+        "offset_hex": "001B5000",
+        "raw_entropy": 7.9527,
+        "xor_ascii_or_zero_ratio": 0.3857
+      },
+      {
+        "offset_hex": "001B6000",
+        "raw_entropy": 7.9522,
+        "xor_ascii_or_zero_ratio": 0.394
+      },
+      {
+        "offset_hex": "001B7000",
+        "raw_entropy": 7.9525,
+        "xor_ascii_or_zero_ratio": 0.374
+      },
+      {
+        "offset_hex": "001B8000",
+        "raw_entropy": 7.9537,
+        "xor_ascii_or_zero_ratio": 0.3718
+      },
+      {
+        "offset_hex": "001B9000",
+        "raw_entropy": 7.949,
+        "xor_ascii_or_zero_ratio": 0.3735
+      },
+      {
+        "offset_hex": "001BA000",
+        "raw_entropy": 7.9556,
+        "xor_ascii_or_zero_ratio": 0.3604
+      },
+      {
+        "offset_hex": "001BB000",
+        "raw_entropy": 7.9543,
+        "xor_ascii_or_zero_ratio": 0.3657
+      },
+      {
+        "offset_hex": "001BC000",
+        "raw_entropy": 7.952,
+        "xor_ascii_or_zero_ratio": 0.3716
+      },
+      {
+        "offset_hex": "001BD000",
+        "raw_entropy": 7.9587,
+        "xor_ascii_or_zero_ratio": 0.3674
+      },
+      {
+        "offset_hex": "001BE000",
+        "raw_entropy": 7.9483,
+        "xor_ascii_or_zero_ratio": 0.353
+      },
+      {
+        "offset_hex": "001BF000",
+        "raw_entropy": 7.9551,
+        "xor_ascii_or_zero_ratio": 0.3818
+      },
+      {
+        "offset_hex": "001C0000",
+        "raw_entropy": 7.9517,
+        "xor_ascii_or_zero_ratio": 0.3772
+      },
+      {
+        "offset_hex": "001C1000",
+        "raw_entropy": 7.9495,
+        "xor_ascii_or_zero_ratio": 0.3811
+      },
+      {
+        "offset_hex": "001C2000",
+        "raw_entropy": 7.9544,
+        "xor_ascii_or_zero_ratio": 0.3784
+      },
+      {
+        "offset_hex": "001C3000",
+        "raw_entropy": 7.9578,
+        "xor_ascii_or_zero_ratio": 0.3774
+      },
+      {
+        "offset_hex": "001C4000",
+        "raw_entropy": 7.9541,
+        "xor_ascii_or_zero_ratio": 0.3782
+      },
+      {
+        "offset_hex": "001C5000",
+        "raw_entropy": 7.9451,
+        "xor_ascii_or_zero_ratio": 0.3821
+      },
+      {
+        "offset_hex": "001C6000",
+        "raw_entropy": 7.9562,
+        "xor_ascii_or_zero_ratio": 0.3555
+      },
+      {
+        "offset_hex": "001C7000",
+        "raw_entropy": 7.9588,
+        "xor_ascii_or_zero_ratio": 0.3672
+      },
+      {
+        "offset_hex": "001C8000",
+        "raw_entropy": 7.9531,
+        "xor_ascii_or_zero_ratio": 0.3916
+      },
+      {
+        "offset_hex": "001C9000",
+        "raw_entropy": 7.9505,
+        "xor_ascii_or_zero_ratio": 0.3792
+      },
+      {
+        "offset_hex": "001CA000",
+        "raw_entropy": 7.9553,
+        "xor_ascii_or_zero_ratio": 0.3828
+      },
+      {
+        "offset_hex": "001CB000",
+        "raw_entropy": 7.9519,
+        "xor_ascii_or_zero_ratio": 0.3762
+      },
+      {
+        "offset_hex": "001CC000",
+        "raw_entropy": 7.9506,
+        "xor_ascii_or_zero_ratio": 0.3811
+      },
+      {
+        "offset_hex": "001CD000",
+        "raw_entropy": 7.9594,
+        "xor_ascii_or_zero_ratio": 0.3623
+      },
+      {
+        "offset_hex": "001CE000",
+        "raw_entropy": 7.951,
+        "xor_ascii_or_zero_ratio": 0.3633
+      },
+      {
+        "offset_hex": "001CF000",
+        "raw_entropy": 7.9582,
+        "xor_ascii_or_zero_ratio": 0.3669
+      },
+      {
+        "offset_hex": "001D0000",
+        "raw_entropy": 7.9563,
+        "xor_ascii_or_zero_ratio": 0.3704
+      },
+      {
+        "offset_hex": "001D1000",
+        "raw_entropy": 7.9556,
+        "xor_ascii_or_zero_ratio": 0.3665
+      },
+      {
+        "offset_hex": "001D2000",
+        "raw_entropy": 7.9539,
+        "xor_ascii_or_zero_ratio": 0.3718
+      },
+      {
+        "offset_hex": "001D3000",
+        "raw_entropy": 7.9578,
+        "xor_ascii_or_zero_ratio": 0.3757
+      },
+      {
+        "offset_hex": "001D4000",
+        "raw_entropy": 7.961,
+        "xor_ascii_or_zero_ratio": 0.3647
+      },
+      {
+        "offset_hex": "001D5000",
+        "raw_entropy": 7.9583,
+        "xor_ascii_or_zero_ratio": 0.377
+      },
+      {
+        "offset_hex": "001D6000",
+        "raw_entropy": 7.9545,
+        "xor_ascii_or_zero_ratio": 0.3699
+      },
+      {
+        "offset_hex": "001D7000",
+        "raw_entropy": 7.9592,
+        "xor_ascii_or_zero_ratio": 0.3745
+      },
+      {
+        "offset_hex": "001D8000",
+        "raw_entropy": 7.9509,
+        "xor_ascii_or_zero_ratio": 0.373
+      },
+      {
+        "offset_hex": "001D9000",
+        "raw_entropy": 7.9499,
+        "xor_ascii_or_zero_ratio": 0.3684
+      },
+      {
+        "offset_hex": "001DA000",
+        "raw_entropy": 7.957,
+        "xor_ascii_or_zero_ratio": 0.3701
+      },
+      {
+        "offset_hex": "001DB000",
+        "raw_entropy": 7.9592,
+        "xor_ascii_or_zero_ratio": 0.3665
+      },
+      {
+        "offset_hex": "001DC000",
+        "raw_entropy": 7.9502,
+        "xor_ascii_or_zero_ratio": 0.374
+      },
+      {
+        "offset_hex": "001DD000",
+        "raw_entropy": 7.959,
+        "xor_ascii_or_zero_ratio": 0.3782
+      },
+      {
+        "offset_hex": "001DE000",
+        "raw_entropy": 7.9546,
+        "xor_ascii_or_zero_ratio": 0.3757
+      },
+      {
+        "offset_hex": "001DF000",
+        "raw_entropy": 7.9533,
+        "xor_ascii_or_zero_ratio": 0.3767
+      },
+      {
+        "offset_hex": "001E0000",
+        "raw_entropy": 7.9588,
+        "xor_ascii_or_zero_ratio": 0.3694
+      },
+      {
+        "offset_hex": "001E1000",
+        "raw_entropy": 7.9553,
+        "xor_ascii_or_zero_ratio": 0.374
+      },
+      {
+        "offset_hex": "001E2000",
+        "raw_entropy": 7.9526,
+        "xor_ascii_or_zero_ratio": 0.3789
+      },
+      {
+        "offset_hex": "001E3000",
+        "raw_entropy": 7.9518,
+        "xor_ascii_or_zero_ratio": 0.3796
+      },
+      {
+        "offset_hex": "001E4000",
+        "raw_entropy": 7.9575,
+        "xor_ascii_or_zero_ratio": 0.3853
+      },
+      {
+        "offset_hex": "001E5000",
+        "raw_entropy": 7.9505,
+        "xor_ascii_or_zero_ratio": 0.3901
+      },
+      {
+        "offset_hex": "001E6000",
+        "raw_entropy": 7.9531,
+        "xor_ascii_or_zero_ratio": 0.3801
+      },
+      {
+        "offset_hex": "001E7000",
+        "raw_entropy": 7.9527,
+        "xor_ascii_or_zero_ratio": 0.3674
+      },
+      {
+        "offset_hex": "001E8000",
+        "raw_entropy": 7.9606,
+        "xor_ascii_or_zero_ratio": 0.3757
+      },
+      {
+        "offset_hex": "001E9000",
+        "raw_entropy": 7.953,
+        "xor_ascii_or_zero_ratio": 0.3679
+      },
+      {
+        "offset_hex": "001EA000",
+        "raw_entropy": 7.9585,
+        "xor_ascii_or_zero_ratio": 0.3706
+      },
+      {
+        "offset_hex": "001EB000",
+        "raw_entropy": 7.9567,
+        "xor_ascii_or_zero_ratio": 0.3711
+      },
+      {
+        "offset_hex": "001EC000",
+        "raw_entropy": 7.957,
+        "xor_ascii_or_zero_ratio": 0.3662
+      },
+      {
+        "offset_hex": "001ED000",
+        "raw_entropy": 7.9559,
+        "xor_ascii_or_zero_ratio": 0.3748
+      },
+      {
+        "offset_hex": "001EE000",
+        "raw_entropy": 7.9509,
+        "xor_ascii_or_zero_ratio": 0.363
+      },
+      {
+        "offset_hex": "001EF000",
+        "raw_entropy": 7.9526,
+        "xor_ascii_or_zero_ratio": 0.3774
+      },
+      {
+        "offset_hex": "001F0000",
+        "raw_entropy": 7.9552,
+        "xor_ascii_or_zero_ratio": 0.3831
+      },
+      {
+        "offset_hex": "001F1000",
+        "raw_entropy": 7.9574,
+        "xor_ascii_or_zero_ratio": 0.373
+      },
+      {
+        "offset_hex": "001F2000",
+        "raw_entropy": 7.9502,
+        "xor_ascii_or_zero_ratio": 0.3904
+      },
+      {
+        "offset_hex": "001F3000",
+        "raw_entropy": 7.9599,
+        "xor_ascii_or_zero_ratio": 0.3694
+      },
+      {
+        "offset_hex": "001F4000",
+        "raw_entropy": 7.9493,
+        "xor_ascii_or_zero_ratio": 0.385
+      },
+      {
+        "offset_hex": "001F5000",
+        "raw_entropy": 7.9626,
+        "xor_ascii_or_zero_ratio": 0.373
+      },
+      {
+        "offset_hex": "001F6000",
+        "raw_entropy": 7.9491,
+        "xor_ascii_or_zero_ratio": 0.3516
+      },
+      {
+        "offset_hex": "001F7000",
+        "raw_entropy": 7.9525,
+        "xor_ascii_or_zero_ratio": 0.3806
+      },
+      {
+        "offset_hex": "001F8000",
+        "raw_entropy": 7.9558,
+        "xor_ascii_or_zero_ratio": 0.3755
+      },
+      {
+        "offset_hex": "001F9000",
+        "raw_entropy": 7.9577,
+        "xor_ascii_or_zero_ratio": 0.3767
+      },
+      {
+        "offset_hex": "001FA000",
+        "raw_entropy": 7.954,
+        "xor_ascii_or_zero_ratio": 0.3713
+      },
+      {
+        "offset_hex": "001FB000",
+        "raw_entropy": 7.9521,
+        "xor_ascii_or_zero_ratio": 0.3818
+      },
+      {
+        "offset_hex": "001FC000",
+        "raw_entropy": 7.9496,
+        "xor_ascii_or_zero_ratio": 0.3911
+      },
+      {
+        "offset_hex": "001FD000",
+        "raw_entropy": 7.9504,
+        "xor_ascii_or_zero_ratio": 0.3733
+      },
+      {
+        "offset_hex": "001FE000",
+        "raw_entropy": 7.9452,
+        "xor_ascii_or_zero_ratio": 0.3726
+      },
+      {
+        "offset_hex": "001FF000",
+        "raw_entropy": 7.959,
+        "xor_ascii_or_zero_ratio": 0.3779
+      },
+      {
+        "offset_hex": "00200000",
+        "raw_entropy": 7.9564,
+        "xor_ascii_or_zero_ratio": 0.3826
+      },
+      {
+        "offset_hex": "00201000",
+        "raw_entropy": 7.962,
+        "xor_ascii_or_zero_ratio": 0.366
+      },
+      {
+        "offset_hex": "00202000",
+        "raw_entropy": 7.9578,
+        "xor_ascii_or_zero_ratio": 0.3821
+      },
+      {
+        "offset_hex": "00203000",
+        "raw_entropy": 7.9574,
+        "xor_ascii_or_zero_ratio": 0.384
+      },
+      {
+        "offset_hex": "00204000",
+        "raw_entropy": 7.9571,
+        "xor_ascii_or_zero_ratio": 0.3708
+      },
+      {
+        "offset_hex": "00205000",
+        "raw_entropy": 7.9542,
+        "xor_ascii_or_zero_ratio": 0.3694
+      },
+      {
+        "offset_hex": "00206000",
+        "raw_entropy": 7.9539,
+        "xor_ascii_or_zero_ratio": 0.3765
+      },
+      {
+        "offset_hex": "00207000",
+        "raw_entropy": 7.9498,
+        "xor_ascii_or_zero_ratio": 0.3853
+      },
+      {
+        "offset_hex": "00208000",
+        "raw_entropy": 7.958,
+        "xor_ascii_or_zero_ratio": 0.3855
+      },
+      {
+        "offset_hex": "00209000",
+        "raw_entropy": 7.9597,
+        "xor_ascii_or_zero_ratio": 0.3838
+      },
+      {
+        "offset_hex": "0020A000",
+        "raw_entropy": 7.9539,
+        "xor_ascii_or_zero_ratio": 0.3757
+      },
+      {
+        "offset_hex": "0020B000",
+        "raw_entropy": 7.9577,
+        "xor_ascii_or_zero_ratio": 0.3687
+      },
+      {
+        "offset_hex": "0020C000",
+        "raw_entropy": 7.9543,
+        "xor_ascii_or_zero_ratio": 0.3872
+      },
+      {
+        "offset_hex": "0020D000",
+        "raw_entropy": 7.9575,
+        "xor_ascii_or_zero_ratio": 0.3726
+      },
+      {
+        "offset_hex": "0020E000",
+        "raw_entropy": 7.9551,
+        "xor_ascii_or_zero_ratio": 0.3672
+      },
+      {
+        "offset_hex": "0020F000",
+        "raw_entropy": 7.953,
+        "xor_ascii_or_zero_ratio": 0.3586
+      },
+      {
+        "offset_hex": "00210000",
+        "raw_entropy": 7.9564,
+        "xor_ascii_or_zero_ratio": 0.3694
+      },
+      {
+        "offset_hex": "00211000",
+        "raw_entropy": 7.9555,
+        "xor_ascii_or_zero_ratio": 0.3701
+      },
+      {
+        "offset_hex": "00212000",
+        "raw_entropy": 7.9455,
+        "xor_ascii_or_zero_ratio": 0.365
+      },
+      {
+        "offset_hex": "00213000",
+        "raw_entropy": 7.9529,
+        "xor_ascii_or_zero_ratio": 0.3701
+      },
+      {
+        "offset_hex": "00214000",
+        "raw_entropy": 7.9605,
+        "xor_ascii_or_zero_ratio": 0.3655
+      },
+      {
+        "offset_hex": "00215000",
+        "raw_entropy": 7.9514,
+        "xor_ascii_or_zero_ratio": 0.3706
+      },
+      {
+        "offset_hex": "00216000",
+        "raw_entropy": 7.9624,
+        "xor_ascii_or_zero_ratio": 0.3894
+      },
+      {
+        "offset_hex": "00217000",
+        "raw_entropy": 7.9598,
+        "xor_ascii_or_zero_ratio": 0.3723
+      },
+      {
+        "offset_hex": "00218000",
+        "raw_entropy": 7.9466,
+        "xor_ascii_or_zero_ratio": 0.3738
+      },
+      {
+        "offset_hex": "00219000",
+        "raw_entropy": 7.955,
+        "xor_ascii_or_zero_ratio": 0.3809
+      },
+      {
+        "offset_hex": "0021A000",
+        "raw_entropy": 7.956,
+        "xor_ascii_or_zero_ratio": 0.3835
+      },
+      {
+        "offset_hex": "0021B000",
+        "raw_entropy": 7.952,
+        "xor_ascii_or_zero_ratio": 0.365
+      },
+      {
+        "offset_hex": "0021C000",
+        "raw_entropy": 7.9571,
+        "xor_ascii_or_zero_ratio": 0.374
+      },
+      {
+        "offset_hex": "0021D000",
+        "raw_entropy": 7.9552,
+        "xor_ascii_or_zero_ratio": 0.3728
+      },
+      {
+        "offset_hex": "0021E000",
+        "raw_entropy": 7.9489,
+        "xor_ascii_or_zero_ratio": 0.3777
+      },
+      {
+        "offset_hex": "0021F000",
+        "raw_entropy": 7.9544,
+        "xor_ascii_or_zero_ratio": 0.3789
+      },
+      {
+        "offset_hex": "00220000",
+        "raw_entropy": 7.9473,
+        "xor_ascii_or_zero_ratio": 0.3647
+      },
+      {
+        "offset_hex": "00221000",
+        "raw_entropy": 7.9486,
+        "xor_ascii_or_zero_ratio": 0.3738
+      },
+      {
+        "offset_hex": "00222000",
+        "raw_entropy": 7.9583,
+        "xor_ascii_or_zero_ratio": 0.376
+      },
+      {
+        "offset_hex": "00223000",
+        "raw_entropy": 7.9585,
+        "xor_ascii_or_zero_ratio": 0.3835
+      },
+      {
+        "offset_hex": "00224000",
+        "raw_entropy": 7.957,
+        "xor_ascii_or_zero_ratio": 0.3555
+      },
+      {
+        "offset_hex": "00225000",
+        "raw_entropy": 7.9525,
+        "xor_ascii_or_zero_ratio": 0.3923
+      },
+      {
+        "offset_hex": "00226000",
+        "raw_entropy": 7.9541,
+        "xor_ascii_or_zero_ratio": 0.3728
+      },
+      {
+        "offset_hex": "00227000",
+        "raw_entropy": 7.9529,
+        "xor_ascii_or_zero_ratio": 0.3708
+      },
+      {
+        "offset_hex": "00228000",
+        "raw_entropy": 7.9467,
+        "xor_ascii_or_zero_ratio": 0.3596
+      },
+      {
+        "offset_hex": "00229000",
+        "raw_entropy": 7.9549,
+        "xor_ascii_or_zero_ratio": 0.3621
+      },
+      {
+        "offset_hex": "0022A000",
+        "raw_entropy": 7.9532,
+        "xor_ascii_or_zero_ratio": 0.3777
+      },
+      {
+        "offset_hex": "0022B000",
+        "raw_entropy": 7.9529,
+        "xor_ascii_or_zero_ratio": 0.3704
+      },
+      {
+        "offset_hex": "0022C000",
+        "raw_entropy": 7.9584,
+        "xor_ascii_or_zero_ratio": 0.3726
+      },
+      {
+        "offset_hex": "0022D000",
+        "raw_entropy": 7.9539,
+        "xor_ascii_or_zero_ratio": 0.3628
+      },
+      {
+        "offset_hex": "0022E000",
+        "raw_entropy": 7.9501,
+        "xor_ascii_or_zero_ratio": 0.3625
+      },
+      {
+        "offset_hex": "0022F000",
+        "raw_entropy": 7.9568,
+        "xor_ascii_or_zero_ratio": 0.3787
+      },
+      {
+        "offset_hex": "00230000",
+        "raw_entropy": 7.9578,
+        "xor_ascii_or_zero_ratio": 0.3831
+      },
+      {
+        "offset_hex": "00231000",
+        "raw_entropy": 7.9557,
+        "xor_ascii_or_zero_ratio": 0.3701
+      },
+      {
+        "offset_hex": "00232000",
+        "raw_entropy": 7.9555,
+        "xor_ascii_or_zero_ratio": 0.3618
+      },
+      {
+        "offset_hex": "00233000",
+        "raw_entropy": 7.9499,
+        "xor_ascii_or_zero_ratio": 0.3767
+      },
+      {
+        "offset_hex": "00234000",
+        "raw_entropy": 7.9569,
+        "xor_ascii_or_zero_ratio": 0.3657
+      },
+      {
+        "offset_hex": "00235000",
+        "raw_entropy": 7.1547,
+        "xor_ascii_or_zero_ratio": 0.7302
+      },
+      {
+        "offset_hex": "00236000",
+        "raw_entropy": 5.545,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00237000",
+        "raw_entropy": 5.3756,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00238000",
+        "raw_entropy": 5.3523,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00239000",
+        "raw_entropy": 5.1765,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0023A000",
+        "raw_entropy": 5.3662,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0023B000",
+        "raw_entropy": 5.1674,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0023C000",
+        "raw_entropy": 5.2557,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0023D000",
+        "raw_entropy": 5.2776,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0023E000",
+        "raw_entropy": 5.1995,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0023F000",
+        "raw_entropy": 5.1701,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00240000",
+        "raw_entropy": 5.2155,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00241000",
+        "raw_entropy": 5.1969,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00242000",
+        "raw_entropy": 5.2899,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00243000",
+        "raw_entropy": 5.0734,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00244000",
+        "raw_entropy": 5.1626,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00245000",
+        "raw_entropy": 5.4142,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00246000",
+        "raw_entropy": 5.2271,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00247000",
+        "raw_entropy": 5.2246,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00248000",
+        "raw_entropy": 5.1488,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00249000",
+        "raw_entropy": 5.1811,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0024A000",
+        "raw_entropy": 5.0784,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0024B000",
+        "raw_entropy": 5.2883,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0024C000",
+        "raw_entropy": 5.43,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0024D000",
+        "raw_entropy": 5.5236,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0024E000",
+        "raw_entropy": 5.3653,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0024F000",
+        "raw_entropy": 5.5426,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00250000",
+        "raw_entropy": 5.6902,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00251000",
+        "raw_entropy": 6.0474,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00252000",
+        "raw_entropy": 6.1735,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00253000",
+        "raw_entropy": 6.1629,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00254000",
+        "raw_entropy": 6.1707,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00255000",
+        "raw_entropy": 5.5179,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00256000",
+        "raw_entropy": 5.2056,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00257000",
+        "raw_entropy": 5.1194,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00258000",
+        "raw_entropy": 5.4073,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00259000",
+        "raw_entropy": 5.4045,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0025A000",
+        "raw_entropy": 5.8283,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0025B000",
+        "raw_entropy": 5.5542,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0025C000",
+        "raw_entropy": 5.5477,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0025D000",
+        "raw_entropy": 5.5402,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0025E000",
+        "raw_entropy": 5.2491,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0025F000",
+        "raw_entropy": 4.1898,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00260000",
+        "raw_entropy": 4.2443,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00261000",
+        "raw_entropy": 5.3403,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00262000",
+        "raw_entropy": 5.3674,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00263000",
+        "raw_entropy": 5.3599,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00264000",
+        "raw_entropy": 5.3998,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00265000",
+        "raw_entropy": 5.5017,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00266000",
+        "raw_entropy": 5.4953,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00267000",
+        "raw_entropy": 5.5091,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00268000",
+        "raw_entropy": 5.2126,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00269000",
+        "raw_entropy": 5.5185,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0026A000",
+        "raw_entropy": 5.5238,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0026B000",
+        "raw_entropy": 5.555,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0026C000",
+        "raw_entropy": 5.5616,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0026D000",
+        "raw_entropy": 5.5168,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0026E000",
+        "raw_entropy": 5.5375,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0026F000",
+        "raw_entropy": 5.5501,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00270000",
+        "raw_entropy": 5.5103,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00271000",
+        "raw_entropy": 5.5494,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00272000",
+        "raw_entropy": 5.549,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00273000",
+        "raw_entropy": 5.5362,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00274000",
+        "raw_entropy": 5.559,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00275000",
+        "raw_entropy": 5.0679,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00276000",
+        "raw_entropy": 5.9113,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00277000",
+        "raw_entropy": 6.0576,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00278000",
+        "raw_entropy": 5.9763,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00279000",
+        "raw_entropy": 5.9453,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0027A000",
+        "raw_entropy": 5.899,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0027B000",
+        "raw_entropy": 5.9775,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0027C000",
+        "raw_entropy": 5.9897,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0027D000",
+        "raw_entropy": 5.9199,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0027E000",
+        "raw_entropy": 5.8883,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0027F000",
+        "raw_entropy": 5.8106,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00280000",
+        "raw_entropy": 6.1065,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00281000",
+        "raw_entropy": 5.9549,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00282000",
+        "raw_entropy": 5.9151,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00283000",
+        "raw_entropy": 5.9707,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00284000",
+        "raw_entropy": 5.9303,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00285000",
+        "raw_entropy": 6.1502,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00286000",
+        "raw_entropy": 5.8756,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00287000",
+        "raw_entropy": 5.8542,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00288000",
+        "raw_entropy": 5.8556,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "00289000",
+        "raw_entropy": 6.1763,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0028A000",
+        "raw_entropy": 5.9792,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0028B000",
+        "raw_entropy": 5.7707,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0028C000",
+        "raw_entropy": 5.78,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0028D000",
+        "raw_entropy": 5.8446,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0028E000",
+        "raw_entropy": 5.7445,
+        "xor_ascii_or_zero_ratio": 1.0
+      },
+      {
+        "offset_hex": "0028F000",
+        "raw_entropy": 5.7883,
+        "xor_ascii_or_zero_ratio": 1.0
+      }
+    ],
+    "warning": "XOR output is partial; not a validated IL2CPP metadata file."
+  },
+  "il2cpp": {
+    "file": "libil2cpp.so",
+    "bytes": 180105648,
+    "sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+    "is_elf_arm64": true
+  }
+}

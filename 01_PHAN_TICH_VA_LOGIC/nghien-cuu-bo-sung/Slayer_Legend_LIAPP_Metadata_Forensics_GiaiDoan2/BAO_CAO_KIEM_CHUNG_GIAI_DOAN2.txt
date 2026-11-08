@@ -1,0 +1,83 @@
+SLAYER LEGEND 700.0.4 — BÁO CÁO FORENSIC GIAI ĐOẠN 2
+Nguồn: XAPK người dùng đã cung cấp; phân tích tĩnh, không chạy APK.
+Không phải bản giải mã hoàn chỉnh, không phải source C#, không phải port H5.
+
+1. PHÁT HIỆN XÁC MINH TRỰC TIẾP
+- XAPK: Slayer+Legend+_+Idle+RPG_700.0.4_APKPure(1).xapk (439,306,207 byte)
+- APK chính: com.gear2.growslayer.apk
+- Bên trong APK chính có assets/LIAPP.ini (220 byte), 
+  assets/.eufxww.dex (41,647 byte) và classes.dex.
+- Nội dung LIAPP.ini ghi nguyên văn:
+  "This application is protected by LIAPP(Lockin Company's mobile security solution)."
+- Phiên bản theo LIAPP.ini: v5.1.1.218 (0x4ecdc927) with Linux.
+- Trong classes.dex có chuỗi com/liapp; trong .eufxww.dex có chuỗi
+  com/liapp và LIKEY. Đây là dấu hiệu trực tiếp, hỗ trợ cấu hình LIAPP.
+- Trong config.arm64_v8a.apk có lib/arm64-v8a/libeufxww.so (673,836 byte).
+  Bên trong file này có chuỗi libliapp.so.
+- libil2cpp.so là ELF 64-bit, AArch64.
+- global-metadata.dat từ APK chính được so sánh byte-một-byte
+  với bản đã tách trước: HOÀN TOÀN TRÙNG KHỚP.
+
+2. KIỂM TRA METADATA
+- global-metadata.dat: 33,085,012 byte.
+- SHA256: 0f0c21c82432adab3421ea6c82e2662b032a8fc2fc17f81defe166b2ce294c46
+- Header byte: 4c 49 4b 45 59 7f 00 00 df 02 53 df af 56 23 00 54 d6 f8 01 8e c5 2d 11 1d 3e 71 21 d6 2c 27 f3
+- Bắt đầu bằng ASCII LIKEY; không bắt đầu bằng AF 1B B1 FA.
+- Phép XOR cũ với khóa 43 44 45 46 47 48 49 4A trên TOÀN BỘ FILE:
+  SHA256 bản đầu ra: 7cb188859da11aa686cba66937039e5fd14a59d87117526b5f16e3f79fb70818
+  Không tìm thấy chữ ký AF 1B B1 FA trong bản nguyên bản hoặc
+  trong toàn bộ bản XOR cũ.
+- Entropy đo theo cửa sổ 4 KiB trong dữ liệu gốc:
+  0x232000 ~7.956 bit/byte
+  0x234000 ~7.957 bit/byte
+  0x235000 ~7.155 bit/byte
+  0x236000 ~5.545 bit/byte
+  0x238000 ~5.352 bit/byte
+- Trong dữ liệu sau XOR, cửa sổ tại 0x236000 có 100% byte ASCII
+  in được hoặc byte NUL. Vùng trước 0x235000 có tính ngẫu nhiên cao.
+  Đây là DẤU HIỆU hai kiểu vùng dữ liệu, không chứng minh
+  thuật toán mã hóa chính xác hoặc độ dài header.
+- Đã xác minh sự xuất hiện của các chuỗi Xls_Skill,
+  Xls_AdventureInfo, Xls_WeaponSkin, GameManager,
+  BossNumber, BossScale, AuraAtkSpeed, v.v.
+  Có 100 tên Xls_* khác nhau được tìm thấy theo biểu thức
+  ASCII, nhưng ĐÂY LÀ TÊN, KHÔNG PHẢI GIÁ TRỊ BẢNG / LOGIC.
+- Bản XOR cũ chưa có magic/header, bảng offset, bảng method hợp lệ.
+
+3. LIBIL2CPP.SO
+- Dung lượng: 180,105,648 byte
+- SHA256: e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537
+- ELF64 AArch64; có symbol API công khai il2cpp_init.
+- Chưa xác lập được ánh xạ method lớp ứng dụng với địa chỉ hàm native.
+
+4. ĐIỀU CHƯA LÀM ĐƯỢC
+- Chưa giải mã LIAPP hoặc khôi phục metadata chuẩn.
+- Chưa xuất được dump.cs/script.json hợp lệ.
+- Chưa khôi phục được công thức sát thương, tỷ lệ rơi, kỹ năng.
+- Chưa xác minh logic nào nằm ở server; chưa thể gọi là port H5.
+
+5. ĐƯỜNG ĐI TIẾP CÓ CĂN CỨ
+A. Xác định loader thực tế của LIAPP và cách dữ liệu metadata
+   được cung cấp cho Unity khi chạy; có thể cần môi trường
+   chạy/quan sát phù hợp, ví dụ bản debug do chủ sở hữu cung cấp.
+B. Khi có metadata chuẩn, dùng bộ đọc tương thích Unity 6.3
+   để giải bảng TypeDefinition/MethodDefinition/FieldDefinition.
+C. Đối chiếu tham chiếu method với libil2cpp.so, đánh dấu những
+   công thức và dữ liệu server không thể lấy từ client.
+D. Chỉ sau đó mới viết lại H5 và chỉ tái sử dụng asset từ XAPK.
+
+6. FILE ĐÍNH KÈM
+- Slayer_Legend_Diagnostic_Stage2.json: báo cáo JSON có thông tin XAPK,
+  dấu LIAPP, offset trong các tệp và phân bố entropy.
+- metadata_entropy_4KiB.csv: thống kê entropy 4 KiB.
+- chuoi_gameplay_da_xac_minh.csv: vị trí chuỗi đã đọc ra sau XOR.
+- TEN_100_BANG_XLS_GOC.txt: tên bảng Xls_ được nhận diện.
+- kiem_tra_slayer.py: mã nguồn Python stdlib, chạy lại được.
+- LIAPP.ini, .eufxww.dex, libeufxww.so: mẫu gốc
+  trích từ XAPK người dùng để kiểm chứng dấu bảo vệ.
+
+LỆNH KIỂM TRA LẠI (Python 3):
+ python kiem_tra_slayer.py "<file>.xapk" "global-metadata.dat" "libil2cpp.so"
+
+Script là read-only và chỉ xuất JSON; không thực hiện bypass,
+không sửa APK, không tuyên bố decompile thành công.

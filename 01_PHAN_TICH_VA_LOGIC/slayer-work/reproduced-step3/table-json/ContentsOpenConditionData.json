@@ -1,0 +1,158 @@
+[
+  {
+    "Id": 100,
+    "Content": 100,
+    "OpenType": 1,
+    "NeedValue": 150
+  },
+  {
+    "Id": 101,
+    "Content": 101,
+    "OpenType": 1,
+    "NeedValue": 200
+  },
+  {
+    "Id": 102,
+    "Content": 102,
+    "OpenType": 1,
+    "NeedValue": 245
+  },
+  {
+    "Id": 103,
+    "Content": 103,
+    "OpenType": 1,
+    "NeedValue": 250
+  },
+  {
+    "Id": 104,
+    "Content": 104,
+    "OpenType": 1,
+    "NeedValue": 265
+  },
+  {
+    "Id": 105,
+    "Content": 105,
+    "OpenType": 1,
+    "NeedValue": 280
+  },
+  {
+    "Id": 106,
+    "Content": 106,
+    "OpenType": 1,
+    "NeedValue": 400
+  },
+  {
+    "Id": 107,
+    "Content": 107,
+    "OpenType": 1,
+    "NeedValue": 500
+  },
+  {
+    "Id": 200,
+    "Content": 200,
+    "OpenType": 2,
+    "NeedValue": 40
+  },
+  {
+    "Id": 201,
+    "Content": 201,
+    "OpenType": 2,
+    "NeedValue": 60
+  },
+  {
+    "Id": 202,
+    "Content": 202,
+    "OpenType": 2,
+    "NeedValue": 100
+  },
+  {
+    "Id": 203,
+    "Content": 203,
+    "OpenType": 2,
+    "NeedValue": 100
+  },
+  {
+    "Id": 204,
+    "Content": 204,
+    "OpenType": 2,
+    "NeedValue": 400
+  },
+  {
+    "Id": 205,
+    "Content": 205,
+    "OpenType": 2,
+    "NeedValue": 60
+  },
+  {
+    "Id": 300,
+    "Content": 300,
+    "OpenType": 3,
+    "NeedValue": 8
+  },
+  {
+    "Id": 301,
+    "Content": 301,
+    "OpenType": 3,
+    "NeedValue": 9
+  },
+  {
+    "Id": 302,
+    "Content": 302,
+    "OpenType": 3,
+    "NeedValue": 9
+  },
+  {
+    "Id": 303,
+    "Content": 303,
+    "OpenType": 3,
+    "NeedValue": 10
+  },
+  {
+    "Id": 304,
+    "Content": 304,
+    "OpenType": 3,
+    "NeedValue": 11
+  },
+  {
+    "Id": 305,
+    "Content": 305,
+    "OpenType": 3,
+    "NeedValue": 12
+  },
+  {
+    "Id": 306,
+    "Content": 306,
+    "OpenType": 3,
+    "NeedValue": 10
+  },
+  {
+    "Id": 307,
+    "Content": 307,
+    "OpenType": 3,
+    "NeedValue": 11
+  },
+  {
+    "Id": 308,
+    "Content": 308,
+    "OpenType": 3,
+    "NeedValue": 4
+  },
+  {
+    "Id": 309,
+    "Content": 309,
+    "OpenType": 3,
+    "NeedValue": 3
+  },
+  {
+    "Id": 400,
+    "Content": 400,
+    "OpenType": 4,
+    "NeedValue": 20
+  },
+  {
+    "Id": 401,
+    "Content": 401,
+    "OpenType": 4,
+    "NeedValue": 10
+  }
+]

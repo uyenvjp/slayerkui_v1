@@ -1,0 +1,182 @@
+[
+  {
+    "Id": 1,
+    "Level": 1,
+    "NeedExp": 1000,
+    "MinVersion": "1.1.1"
+  },
+  {
+    "Id": 2,
+    "Level": 2,
+    "NeedExp": 2500,
+    "MinVersion": "1.1.1"
+  },
+  {
+    "Id": 3,
+    "Level": 3,
+    "NeedExp": 3500,
+    "MinVersion": "1.1.1"
+  },
+  {
+    "Id": 4,
+    "Level": 4,
+    "NeedExp": 5000,
+    "MinVersion": "1.1.1"
+  },
+  {
+    "Id": 5,
+    "Level": 5,
+    "NeedExp": 7500,
+    "MinVersion": "1.1.1"
+  },
+  {
+    "Id": 6,
+    "Level": 6,
+    "NeedExp": 10000,
+    "MinVersion": "1.1.1"
+  },
+  {
+    "Id": 7,
+    "Level": 7,
+    "NeedExp": 12500,
+    "MinVersion": "1.1.1"
+  },
+  {
+    "Id": 8,
+    "Level": 8,
+    "NeedExp": 15000,
+    "MinVersion": "1.1.1"
+  },
+  {
+    "Id": 9,
+    "Level": 9,
+    "NeedExp": 20000,
+    "MinVersion": "1.1.1"
+  },
+  {
+    "Id": 10,
+    "Level": 10,
+    "NeedExp": 25000,
+    "MinVersion": "1.1.1"
+  },
+  {
+    "Id": 11,
+    "Level": 11,
+    "NeedExp": 40000,
+    "MinVersion": "1.1.1"
+  },
+  {
+    "Id": 12,
+    "Level": 12,
+    "NeedExp": 75000,
+    "MinVersion": "1.1.1"
+  },
+  {
+    "Id": 13,
+    "Level": 13,
+    "NeedExp": 90000,
+    "MinVersion": "1.1.1"
+  },
+  {
+    "Id": 14,
+    "Level": 14,
+    "NeedExp": 105000,
+    "MinVersion": "1.1.1"
+  },
+  {
+    "Id": 15,
+    "Level": 15,
+    "NeedExp": 120000,
+    "MinVersion": "1.1.1"
+  },
+  {
+    "Id": 16,
+    "Level": 16,
+    "NeedExp": 135000,
+    "MinVersion": "1.1.1"
+  },
+  {
+    "Id": 17,
+    "Level": 17,
+    "NeedExp": 150000,
+    "MinVersion": "1.1.1"
+  },
+  {
+    "Id": 18,
+    "Level": 18,
+    "NeedExp": 165000,
+    "MinVersion": "1.1.1"
+  },
+  {
+    "Id": 19,
+    "Level": 19,
+    "NeedExp": 180000,
+    "MinVersion": "1.1.1"
+  },
+  {
+    "Id": 20,
+    "Level": 20,
+    "NeedExp": 200000,
+    "MinVersion": "1.1.1"
+  },
+  {
+    "Id": 21,
+    "Level": 21,
+    "NeedExp": 500000,
+    "MinVersion": "600.4.7"
+  },
+  {
+    "Id": 22,
+    "Level": 22,
+    "NeedExp": 1000000,
+    "MinVersion": "600.4.7"
+  },
+  {
+    "Id": 23,
+    "Level": 23,
+    "NeedExp": 1500000,
+    "MinVersion": "600.4.7"
+  },
+  {
+    "Id": 24,
+    "Level": 24,
+    "NeedExp": 2000000,
+    "MinVersion": "600.4.7"
+  },
+  {
+    "Id": 25,
+    "Level": 25,
+    "NeedExp": 2500000,
+    "MinVersion": "600.4.7"
+  },
+  {
+    "Id": 26,
+    "Level": 26,
+    "NeedExp": 5000000,
+    "MinVersion": "600.6.3"
+  },
+  {
+    "Id": 27,
+    "Level": 27,
+    "NeedExp": 6000000,
+    "MinVersion": "600.6.3"
+  },
+  {
+    "Id": 28,
+    "Level": 28,
+    "NeedExp": 7000000,
+    "MinVersion": "600.6.3"
+  },
+  {
+    "Id": 29,
+    "Level": 29,
+    "NeedExp": 8000000,
+    "MinVersion": "600.6.3"
+  },
+  {
+    "Id": 30,
+    "Level": 30,
+    "NeedExp": 9000000,
+    "MinVersion": "600.6.3"
+  }
+]

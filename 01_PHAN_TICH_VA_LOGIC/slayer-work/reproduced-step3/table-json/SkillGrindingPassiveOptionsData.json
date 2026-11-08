@@ -1,0 +1,152 @@
+[
+  {
+    "Id": 1,
+    "SkillIndex": 1,
+    "PassiveType": 15,
+    "PassiveValue": 2
+  },
+  {
+    "Id": 2,
+    "SkillIndex": 2,
+    "PassiveType": 15,
+    "PassiveValue": 3
+  },
+  {
+    "Id": 3,
+    "SkillIndex": 3,
+    "PassiveType": 15,
+    "PassiveValue": 5
+  },
+  {
+    "Id": 4,
+    "SkillIndex": 4,
+    "PassiveType": 14,
+    "PassiveValue": 3
+  },
+  {
+    "Id": 5,
+    "SkillIndex": 5,
+    "PassiveType": 14,
+    "PassiveValue": 5
+  },
+  {
+    "Id": 6,
+    "SkillIndex": 6,
+    "PassiveType": 8,
+    "PassiveValue": 20
+  },
+  {
+    "Id": 7,
+    "SkillIndex": 7,
+    "PassiveType": 2,
+    "PassiveValue": 200
+  },
+  {
+    "Id": 8,
+    "SkillIndex": 12,
+    "PassiveType": 2,
+    "PassiveValue": 50
+  },
+  {
+    "Id": 9,
+    "SkillIndex": 13,
+    "PassiveType": 2,
+    "PassiveValue": 100
+  },
+  {
+    "Id": 10,
+    "SkillIndex": 14,
+    "PassiveType": 2,
+    "PassiveValue": 150
+  },
+  {
+    "Id": 11,
+    "SkillIndex": 15,
+    "PassiveType": 14,
+    "PassiveValue": 3
+  },
+  {
+    "Id": 12,
+    "SkillIndex": 18,
+    "PassiveType": 15,
+    "PassiveValue": 10
+  },
+  {
+    "Id": 13,
+    "SkillIndex": 23,
+    "PassiveType": 14,
+    "PassiveValue": 2
+  },
+  {
+    "Id": 14,
+    "SkillIndex": 24,
+    "PassiveType": 14,
+    "PassiveValue": 3
+  },
+  {
+    "Id": 15,
+    "SkillIndex": 25,
+    "PassiveType": 14,
+    "PassiveValue": 5
+  },
+  {
+    "Id": 16,
+    "SkillIndex": 26,
+    "PassiveType": 2,
+    "PassiveValue": 50
+  },
+  {
+    "Id": 17,
+    "SkillIndex": 27,
+    "PassiveType": 2,
+    "PassiveValue": 150
+  },
+  {
+    "Id": 18,
+    "SkillIndex": 28,
+    "PassiveType": 8,
+    "PassiveValue": 20
+  },
+  {
+    "Id": 19,
+    "SkillIndex": 29,
+    "PassiveType": 8,
+    "PassiveValue": 50
+  },
+  {
+    "Id": 20,
+    "SkillIndex": 34,
+    "PassiveType": 9,
+    "PassiveValue": 10
+  },
+  {
+    "Id": 21,
+    "SkillIndex": 35,
+    "PassiveType": 9,
+    "PassiveValue": 20
+  },
+  {
+    "Id": 22,
+    "SkillIndex": 36,
+    "PassiveType": 9,
+    "PassiveValue": 30
+  },
+  {
+    "Id": 23,
+    "SkillIndex": 37,
+    "PassiveType": 15,
+    "PassiveValue": 3
+  },
+  {
+    "Id": 24,
+    "SkillIndex": 38,
+    "PassiveType": 15,
+    "PassiveValue": 5
+  },
+  {
+    "Id": 25,
+    "SkillIndex": 39,
+    "PassiveType": 14,
+    "PassiveValue": 10
+  }
+]

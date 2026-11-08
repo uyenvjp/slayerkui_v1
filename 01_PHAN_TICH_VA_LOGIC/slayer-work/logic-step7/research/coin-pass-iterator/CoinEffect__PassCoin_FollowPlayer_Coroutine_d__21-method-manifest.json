@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x60085e3",
+    "name": "MoveNext",
+    "declaring_type_index": "3474",
+    "declaring_type_full_name": "CoinEffect+<PassCoin_FollowPlayer_Coroutine>d__21",
+    "native_va": "0x501a8bc",
+    "return_type_index": "59073",
+    "return_type_name": "bool",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "481",
+    "iflags": "0",
+    "slot": "6",
+    "metadata_record_offset": "0x9843ec",
+    "end_va": "0x501ab60",
+    "asm_file": "CoinEffect__PassCoin_FollowPlayer_Coroutine_d__21__MoveNext_0x60085e3.asm"
+  }
+]

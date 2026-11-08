@@ -1,0 +1,21 @@
+SLAYER LEGEND 700.0.4 – KẾT QUẢ PHÂN TÍCH THẬT TỪ FILE GỐC
+
+ĐÃ XÁC MINH:
+1. global-metadata.dat bắt đầu bằng LIKEY (không phải magic IL2CPP thông thường).
+2. Nhiều vùng dữ liệu được làm rối bằng XOR lặp theo vị trí với key 43 44 45 46 47 48 49 4A.
+3. Sau XOR, khôi phục được hàng chục nghìn chuỗi có nghĩa: tên lớp, phương thức, dữ liệu game và tên bảng Xls_.
+4. Có các tham chiếu liên quan SkillName, SkillBasicDes, skillType, BossNumber, BossScale, AuraAtkSpeed, v.v.
+
+CHƯA GIẢI QUYẾT:
+1. Phần đầu file (xấp xỉ 0–2,2 MB) vẫn có độ hỗn loạn cao, không xuất hiện magic IL2CPP hợp lệ.
+2. Bản .dat trong ZIP là BẢN XOR MỘT LỚP, KHÔNG PHẢI global-metadata chuẩn.
+3. Chưa trích xuất được phương thức C# hoàn chỉnh, chưa đối chiếu với binary libil2cpp.so để lấy mã thực thi.
+4. Các bảng Xls_ trong danh sách là TÊN trong metadata, KHÔNG phải giá trị/drop-rate hoặc dữ liệu game được giải mã.
+5. Chưa thể xác nhận gameplay hay tính năng server offline.
+
+HƯỚNG TIẾP:
+- Xác định routine xử lý vùng đầu LIKEY trong libil2cpp.so hoặc trong luồng load runtime.
+- Dựng metadata header/tables hợp lệ và kiểm tra bằng il2cpp dumper thích hợp Unity 6000.3.10f1.
+- Khi đọc được class/method hãy đối chiếu các Xls_ và asset thực tế, KHÔNG tự chế gameplay.
+
+File gốc vẫn còn riêng; KHÔNG THAY THẾ metadata gốc bằng bản partial này trong APK.

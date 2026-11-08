@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 1,
+    "OptionType": 1,
+    "Init": 0,
+    "C": 2,
+    "B": 4,
+    "A": 6,
+    "S": 9,
+    "SS": 12,
+    "SSS": 20,
+    "IsFloat": true
+  },
+  {
+    "Id": 2,
+    "OptionType": 2,
+    "Init": 0,
+    "C": 3,
+    "B": 6,
+    "A": 9,
+    "S": 13,
+    "SS": 18,
+    "SSS": 30,
+    "IsFloat": true
+  },
+  {
+    "Id": 3,
+    "OptionType": 3,
+    "Init": 10,
+    "C": 30,
+    "B": 50,
+    "A": 70,
+    "S": 100,
+    "SS": 130,
+    "SSS": 200,
+    "IsFloat": false
+  },
+  {
+    "Id": 4,
+    "OptionType": 4,
+    "Init": 0,
+    "C": 3,
+    "B": 6,
+    "A": 9,
+    "S": 12,
+    "SS": 15,
+    "SSS": 30,
+    "IsFloat": true
+  },
+  {
+    "Id": 5,
+    "OptionType": 5,
+    "Init": 10,
+    "C": 40,
+    "B": 70,
+    "A": 100,
+    "S": 140,
+    "SS": 190,
+    "SSS": 250,
+    "IsFloat": false
+  },
+  {
+    "Id": 6,
+    "OptionType": 6,
+    "Init": 0,
+    "C": 2,
+    "B": 4,
+    "A": 6,
+    "S": 8,
+    "SS": 10,
+    "SSS": 15,
+    "IsFloat": true
+  },
+  {
+    "Id": 7,
+    "OptionType": 7,
+    "Init": 50,
+    "C": 150,
+    "B": 250,
+    "A": 350,
+    "S": 500,
+    "SS": 650,
+    "SSS": 1000,
+    "IsFloat": false
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6008954",
+    "name": "get_SkillCoolTimePercent",
+    "declaring_type_index": "3622",
+    "declaring_type_full_name": "DragonValleyManager_Hunt",
+    "native_va": "0x5059db8",
+    "return_type_index": "81250",
+    "return_type_name": "float",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "2182",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x98b20c",
+    "end_va": "0x5059e00",
+    "asm_file": "DragonValleyManager_Hunt__get_SkillCoolTimePercent_0x6008954.asm"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6008957",
+    "name": "get_WindSkillCountDecrease",
+    "declaring_type_index": "3622",
+    "declaring_type_full_name": "DragonValleyManager_Hunt",
+    "native_va": "0x5059eec",
+    "return_type_index": "81250",
+    "return_type_name": "float",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "2182",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x98b26c",
+    "end_va": "0x5059f90",
+    "asm_file": "DragonValleyManager_Hunt__get_WindSkillCountDecrease_0x6008957.asm"
+  }
+]

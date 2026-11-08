@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 0,
+    "WaveIndex": 1,
+    "EnemyMaxCount": 10,
+    "RewardEnemyMaxCount": 10,
+    "TimeLimit": 10,
+    "EnemyProb": [
+      85.0,
+      10.0,
+      5.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 1,
+    "WaveIndex": 2,
+    "EnemyMaxCount": 40,
+    "RewardEnemyMaxCount": 40,
+    "TimeLimit": 10,
+    "EnemyProb": [
+      75.0,
+      20.0,
+      5.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 2,
+    "WaveIndex": 3,
+    "EnemyMaxCount": 150,
+    "RewardEnemyMaxCount": 150,
+    "TimeLimit": 20,
+    "EnemyProb": [
+      50.0,
+      20.0,
+      20.0,
+      10.0,
+      0.0
+    ]
+  },
+  {
+    "Id": 3,
+    "WaveIndex": 4,
+    "EnemyMaxCount": 300,
+    "RewardEnemyMaxCount": 300,
+    "TimeLimit": 20,
+    "EnemyProb": [
+      20.0,
+      20.0,
+      30.0,
+      15.0,
+      15.0
+    ]
+  },
+  {
+    "Id": 4,
+    "WaveIndex": 5,
+    "EnemyMaxCount": 1,
+    "RewardEnemyMaxCount": 1,
+    "TimeLimit": 10,
+    "EnemyProb": [
+      85.0,
+      10.0,
+      5.0,
+      0.0,
+      0.0
+    ]
+  }
+]

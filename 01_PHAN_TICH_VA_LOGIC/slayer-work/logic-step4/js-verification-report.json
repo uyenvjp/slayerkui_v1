@@ -1,0 +1,26 @@
+{
+  "nativeArithmeticCases": 1800,
+  "blocks": {
+    "spiritNormal": 100,
+    "spiritBoss": 100,
+    "highHp": 100,
+    "beastBoss": 100,
+    "blackOrbNormal": 100,
+    "themeNormal": 100,
+    "lowHp": 100,
+    "abnormal": 100,
+    "freeze": 100,
+    "burn": 100,
+    "masteryNormal": 100,
+    "hpDecrease": 100,
+    "blackOrbBoss": 100,
+    "themeBoss": 100,
+    "masteryBoss": 100,
+    "miss": 100,
+    "highHpCheck": 100,
+    "lowHpCheck": 100
+  },
+  "manualBranchChecks": 23,
+  "status": "PASS",
+  "scope": "Selected scalar arithmetic and manual branch/order checks only. No Android/H5 gameplay parity test."
+}

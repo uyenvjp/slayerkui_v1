@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 0,
+    "ComboStacks": 0,
+    "SuccessArea": 0.5,
+    "BonusFishCount": 1
+  },
+  {
+    "Id": 1,
+    "ComboStacks": 1,
+    "SuccessArea": 0.4000000059604645,
+    "BonusFishCount": 1
+  },
+  {
+    "Id": 2,
+    "ComboStacks": 2,
+    "SuccessArea": 0.30000001192092896,
+    "BonusFishCount": 2
+  },
+  {
+    "Id": 3,
+    "ComboStacks": 3,
+    "SuccessArea": 0.20000000298023224,
+    "BonusFishCount": 3
+  },
+  {
+    "Id": 4,
+    "ComboStacks": 4,
+    "SuccessArea": 0.20000000298023224,
+    "BonusFishCount": 3
+  },
+  {
+    "Id": 5,
+    "ComboStacks": 5,
+    "SuccessArea": 0.20000000298023224,
+    "BonusFishCount": 3
+  },
+  {
+    "Id": 6,
+    "ComboStacks": 6,
+    "SuccessArea": 0.20000000298023224,
+    "BonusFishCount": 3
+  },
+  {
+    "Id": 7,
+    "ComboStacks": 7,
+    "SuccessArea": 0.20000000298023224,
+    "BonusFishCount": 3
+  },
+  {
+    "Id": 8,
+    "ComboStacks": 8,
+    "SuccessArea": 0.20000000298023224,
+    "BonusFishCount": 3
+  },
+  {
+    "Id": 9,
+    "ComboStacks": 9,
+    "SuccessArea": 0.20000000298023224,
+    "BonusFishCount": 3
+  }
+]

@@ -1,0 +1,57 @@
+SLAYER LEGEND 700.0.4 — PHAN TICH THUC TE GIAI DOAN 3
+
+NGUON: Slayer+Legend+_+Idle+RPG_700.0.4_APKPure(1).xapk, game goc nguoi dung cung cap.
+PHUONG PHAP: phan tich tinh APK/ELF, giai nen UnityFS, doc SerializedFile/TypeTree va MonoScript.
+Khong dung asset ngoai; khong ve; khong viet gameplay gia; khong bypass LIAPP.
+
+1. LIAPP
+- Da xac nhan assets/LIAPP.ini: LIAPP v5.1.1.218 tu giai doan 2.
+- Trong APK: libeufxww.so; SONAME trong PT_DYNAMIC: libliapp.so (xac minh moi).
+- libeufxww.so duoc bien dich ARM64, DT_NEEDED: liblog.so, libdl.so, libstdc++.so, libm.so, libc.so.
+- Chua xac nhan ham native nao giai ma global-metadata.dat.
+
+2. METADATA / LIKEY
+- Metadata 33,085,012 bytes, SHA256 0f0c21c82432adab3421ea6c82e2662b032a8fc2fc17f81defe166b2ce294c46.
+- Raw dau file 'LIKEY'; khong co signature metadata AF1BB1FA trong raw / XOR cu.
+- XOR 8 bytes 43..4A: vung chuoi ASCII/NUL lien tuc 0x2356AF -> 0x5308B7 (exclusive), 3,125,768 bytes, 127,489 NUL.
+- 100 ten nhan Xls_* (cot he thong) va 471 ten ngay ke trong pham vi 512 bytes/nhan, co offset byte trong CSV.
+- CAC TEN GAN KE CHUA PHAI bang FieldDefinition duoc parse; khong suy ra gia tri tai nay.
+
+3. UNITY ASSET: LINK GOC MONOSCRIPT -> MONOBEHAVIOUR
+- Trich xuat 611 MonoScript objects trong monster/popup/skin.
+- 608 TypeTree/MonoBehaviour type co objects, mapping 100% vao MonoScript.
+- 76,101/76,101 MonoBehaviour objects duoc noi theo m_Script PPtr va so sanh 16-byte type hash.
+- 76,101 hash trung, 0 mismatch; 0 MonoScript parsing error.
+- 514 class (Namespace+ClassName) duy nhat thuoc Assembly-CSharp, ten lay tu original assets.
+- Danh sach tren khong phai than ham hay source IL2CPP decompile.
+
+Mot so class va type hash:
+WorldDemonBoss [monster index=28 hash=7a0dadb0914a768bc4e3387266e66c16]
+WorldRagnabloodBoss [monster index=42 hash=28a62e90ec0e7fb13cc352907a9732f1]
+WorldEtherBoss [monster index=89 hash=3f06227eb5e5f9c298fbe113a7317cb7]
+EnemyNormalInfinent [monster index=76 hash=ca1af1f6405b9591393eb2945356e5dd]
+PopupSkillMakeConfirm [popup index=534 hash=770cc1b525f582d82b9c30f8ec7e6198]
+PopupSoulWeaponImprint [popup index=442 hash=cd3415668de1ee003e22ac922b9c3016]
+PopupGuildQuest [popup index=344 hash=1f76e9bcc5fd8ae89088f050b1be0281]
+PopupWorldBossQuest [popup index=380 hash=84a0f243d1b0512178c7cbfa163c4cbd]
+
+4. DONG BO GIA TRI PREFAB QUAI
+- 10 object enemy MonoBehaviour trong monster co field SpecialAttack_Cooltime da parse day du.
+- 9 object mac dinh 2.0, mot WorldEtherBoss mac dinh 1.2000000476837158 (float32).
+- SpecialAttack_Prob va atkSpeed mac dinh 0 trong cac mau nay.
+- KHONG the xem cac gia tri prefab nay la gia tri khi game chay; co the bi ghi de tai runtime.
+
+5. CHUA GIAI QUYET
+- Chua khoi phuc IL2CPP metadata LIKEY thanh TypeDefinition/MethodDefinition doc duoc.
+- Chua co dump.cs, script.json, source C#, than ham combat, cong thuc sat thuong, loot rate hay server data.
+- Chua the port gameplay goc sang H5 du chi co asset / class / serialized fields.
+
+6. CACH TAI LAP
+- Python 3 standard library; khong can UnityPy:
+  python khop_monoscript_typetree.py "<game>.xapk" output_folder
+  python phan_tich_giai_doan3.py global-metadata.dat libeufxww.so output_folder
+- File vao la tep XAPK va 2 binary da tach tu cung XAPK. Script khong sua doi file goc.
+
+FILE DINH KEM: MonoScript_Ten_Class_Goc.csv, MonoBehaviour_Class_Field_Linkage.csv,
+Monster_Defaults_Verified.json, MonoScript_Linkage_Summary.json, XLS_ten_truong_ke_can.csv,
+XLS_nhan_bang_100.json, LIKEY_SONAME_bang_chung.json, 5 script Python.

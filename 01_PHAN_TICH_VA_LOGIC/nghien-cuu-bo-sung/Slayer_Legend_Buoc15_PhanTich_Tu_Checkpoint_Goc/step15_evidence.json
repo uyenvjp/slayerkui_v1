@@ -1,0 +1,272 @@
+{
+  "source_sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+  "method_checks": 8,
+  "field_checks": 13,
+  "call_checks": 10,
+  "instruction_checks": 11,
+  "total_passed": 42,
+  "tests": [
+    {
+      "kind": "method",
+      "name": "UserInfoLoad.Load",
+      "va": "0x5226e14"
+    },
+    {
+      "kind": "method",
+      "name": "UserInfoLoadSkinData.LoadSkinData",
+      "va": "0x5239dc0"
+    },
+    {
+      "kind": "method",
+      "name": "UserInfoLoadSkinData.LoadSkinDataMan",
+      "va": "0x523a088"
+    },
+    {
+      "kind": "method",
+      "name": "UserInfoLoadSkinData.LoadSkinDataWoman",
+      "va": "0x523a428"
+    },
+    {
+      "kind": "method",
+      "name": "UserInfoLoadSkinData.LoadSkinCostumes",
+      "va": "0x523a7c8"
+    },
+    {
+      "kind": "method",
+      "name": "UserInfoLoadSkinData.LoadSkins",
+      "va": "0x523abb0"
+    },
+    {
+      "kind": "method",
+      "name": "APIValidator.LoadUserInfo",
+      "va": "0x481fb70"
+    },
+    {
+      "kind": "method",
+      "name": "Liapp.SecureVariable.LiappSecureInt.op_Implicit",
+      "va": "0x46dbfdc"
+    },
+    {
+      "kind": "field",
+      "type": "GrowSlayer.UserInfo",
+      "name": "stageData_",
+      "offset": "0x58"
+    },
+    {
+      "kind": "field",
+      "type": "GrowSlayer.StageData",
+      "name": "stageCurrent_",
+      "offset": "0x18"
+    },
+    {
+      "kind": "field",
+      "type": "GrowSlayer.StageData",
+      "name": "stageBest_",
+      "offset": "0x1c"
+    },
+    {
+      "kind": "field",
+      "type": "GrowSlayer.UserInfo",
+      "name": "skinDatas_",
+      "offset": "0x88"
+    },
+    {
+      "kind": "field",
+      "type": "GrowSlayer.SkinData",
+      "name": "characterNumber_",
+      "offset": "0x18"
+    },
+    {
+      "kind": "field",
+      "type": "GrowSlayer.SkinData",
+      "name": "skins_",
+      "offset": "0x28"
+    },
+    {
+      "kind": "field",
+      "type": "DatabaseManager",
+      "name": "StageCurrent",
+      "offset": "0x78"
+    },
+    {
+      "kind": "field",
+      "type": "DatabaseManager",
+      "name": "StageBest",
+      "offset": "0x48"
+    },
+    {
+      "kind": "field",
+      "type": "DatabaseManager",
+      "name": "CharacterNumber",
+      "offset": "0x568"
+    },
+    {
+      "kind": "field",
+      "type": "DatabaseManager",
+      "name": "Skin_BodyIndex0",
+      "offset": "0x584"
+    },
+    {
+      "kind": "field",
+      "type": "DatabaseManager",
+      "name": "Skin_FaceIndex0",
+      "offset": "0x58c"
+    },
+    {
+      "kind": "field",
+      "type": "DatabaseManager",
+      "name": "Skin_BodyIndex1",
+      "offset": "0x5b0"
+    },
+    {
+      "kind": "field",
+      "type": "DatabaseManager",
+      "name": "Skin_FaceIndex1",
+      "offset": "0x5b8"
+    },
+    {
+      "kind": "BL",
+      "name": "user_info_validation",
+      "at": "0x52271f0",
+      "target": "0x481fb70"
+    },
+    {
+      "kind": "BL",
+      "name": "stagebest_secure_wrap",
+      "at": "0x5227260",
+      "target": "0x46dbfdc"
+    },
+    {
+      "kind": "BL",
+      "name": "stagecurrent_secure_wrap",
+      "at": "0x52272b0",
+      "target": "0x46dbfdc"
+    },
+    {
+      "kind": "BL",
+      "name": "load_skin_costumes",
+      "at": "0x522737c",
+      "target": "0x523a7c8"
+    },
+    {
+      "kind": "BL",
+      "name": "load_owned_skins",
+      "at": "0x522738c",
+      "target": "0x523abb0"
+    },
+    {
+      "kind": "BL",
+      "name": "load_skin_datas",
+      "at": "0x5227ac8",
+      "target": "0x5239dc0"
+    },
+    {
+      "kind": "BL",
+      "name": "skin_man_branch",
+      "at": "0x5239f84",
+      "target": "0x523a088"
+    },
+    {
+      "kind": "BL",
+      "name": "skin_woman_branch",
+      "at": "0x5239f78",
+      "target": "0x523a428"
+    },
+    {
+      "kind": "BL",
+      "name": "skin_man_weapon_setter",
+      "at": "0x523a14c",
+      "target": "0x4d4a8ac"
+    },
+    {
+      "kind": "BL",
+      "name": "skin_woman_weapon_setter",
+      "at": "0x523a4ec",
+      "target": "0x4d4a8ac"
+    },
+    {
+      "kind": "instruction",
+      "name": "user_info_stage_ptr",
+      "at": "0x5227248",
+      "opcode_le": "0xf9402ea8",
+      "disasm": "ldr x8, [x21, #0x58]"
+    },
+    {
+      "kind": "instruction",
+      "name": "stage_best_value",
+      "at": "0x5227254",
+      "opcode_le": "0xb9401d00",
+      "disasm": "ldr w0, [x8, #0x1c]"
+    },
+    {
+      "kind": "instruction",
+      "name": "stage_best_dest",
+      "at": "0x5227284",
+      "opcode_le": "0x3c8482c0",
+      "disasm": "stur q0, [x22, #0x48]"
+    },
+    {
+      "kind": "instruction",
+      "name": "stage_current_value",
+      "at": "0x52272a4",
+      "opcode_le": "0xb9401900",
+      "disasm": "ldr w0, [x8, #0x18]"
+    },
+    {
+      "kind": "instruction",
+      "name": "stage_current_dest",
+      "at": "0x52272d4",
+      "opcode_le": "0x3c8782c0",
+      "disasm": "stur q0, [x22, #0x78]"
+    },
+    {
+      "kind": "instruction",
+      "name": "user_info_skin_list",
+      "at": "0x5239e64",
+      "opcode_le": "0xf9404680",
+      "disasm": "ldr x0, [x20, #0x88]"
+    },
+    {
+      "kind": "instruction",
+      "name": "skin_character_number_value",
+      "at": "0x5239f64",
+      "opcode_le": "0xb9401828",
+      "disasm": "ldr w8, [x1, #0x18]"
+    },
+    {
+      "kind": "instruction",
+      "name": "skin_zero_test",
+      "at": "0x5239f68",
+      "opcode_le": "0x340000c8",
+      "disasm": "cbz w8, 0x5239f80"
+    },
+    {
+      "kind": "instruction",
+      "name": "skin_one_test",
+      "at": "0x5239f6c",
+      "opcode_le": "0x7100051f",
+      "disasm": "cmp w8, #0x1"
+    },
+    {
+      "kind": "instruction",
+      "name": "skin_man_body_field",
+      "at": "0x523a2f0",
+      "opcode_le": "0xb9058668",
+      "disasm": "str w8, [x19, #0x584]"
+    },
+    {
+      "kind": "instruction",
+      "name": "skin_man_face_field",
+      "at": "0x523a2c8",
+      "opcode_le": "0xb9058e68",
+      "disasm": "str w8, [x19, #0x58c]"
+    }
+  ],
+  "limitations": [
+    "Static ELF only",
+    "Recovered metadata maps not independent runtime observation",
+    "IFix runtime may modify method behavior",
+    "No actual server account creation response",
+    "No verified initial character or Stage numeric values"
+  ]
+}

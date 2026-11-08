@@ -1,0 +1,416 @@
+[
+  {
+    "Id": 1,
+    "Level": 1,
+    "InitialMental": 8,
+    "SlotCount": 5,
+    "LevelUpSecond": 60,
+    "Exp": 500,
+    "GoodTrueCount": 0,
+    "BadFalseCount": 0,
+    "GoodBonusRate": 0,
+    "BadBonusRate": 0,
+    "AtkBuff": 0,
+    "HpBuff": 0,
+    "QuestType": 1,
+    "QuestTargets": [
+      0
+    ],
+    "QuestValues": [
+      3,
+      0
+    ]
+  },
+  {
+    "Id": 2,
+    "Level": 2,
+    "InitialMental": 8,
+    "SlotCount": 5,
+    "LevelUpSecond": 600,
+    "Exp": 1000,
+    "GoodTrueCount": 0,
+    "BadFalseCount": 0,
+    "GoodBonusRate": 2,
+    "BadBonusRate": 0,
+    "AtkBuff": 5,
+    "HpBuff": 5,
+    "QuestType": 1,
+    "QuestTargets": [
+      1,
+      2
+    ],
+    "QuestValues": [
+      3,
+      2
+    ]
+  },
+  {
+    "Id": 3,
+    "Level": 3,
+    "InitialMental": 8,
+    "SlotCount": 5,
+    "LevelUpSecond": 1800,
+    "Exp": 1500,
+    "GoodTrueCount": 0,
+    "BadFalseCount": 0,
+    "GoodBonusRate": 2,
+    "BadBonusRate": 2,
+    "AtkBuff": 10,
+    "HpBuff": 10,
+    "QuestType": 2,
+    "QuestTargets": [],
+    "QuestValues": [
+      25,
+      21
+    ]
+  },
+  {
+    "Id": 4,
+    "Level": 4,
+    "InitialMental": 8,
+    "SlotCount": 6,
+    "LevelUpSecond": 3600,
+    "Exp": 2000,
+    "GoodTrueCount": 0,
+    "BadFalseCount": 0,
+    "GoodBonusRate": 2,
+    "BadBonusRate": 2,
+    "AtkBuff": 15,
+    "HpBuff": 15,
+    "QuestType": 1,
+    "QuestTargets": [
+      3,
+      4,
+      5
+    ],
+    "QuestValues": [
+      5,
+      2
+    ]
+  },
+  {
+    "Id": 5,
+    "Level": 5,
+    "InitialMental": 9,
+    "SlotCount": 6,
+    "LevelUpSecond": 7200,
+    "Exp": 2500,
+    "GoodTrueCount": 0,
+    "BadFalseCount": 0,
+    "GoodBonusRate": 2,
+    "BadBonusRate": 2,
+    "AtkBuff": 20,
+    "HpBuff": 20,
+    "QuestType": 2,
+    "QuestTargets": [],
+    "QuestValues": [
+      44,
+      18
+    ]
+  },
+  {
+    "Id": 6,
+    "Level": 6,
+    "InitialMental": 9,
+    "SlotCount": 6,
+    "LevelUpSecond": 14400,
+    "Exp": 3000,
+    "GoodTrueCount": 0,
+    "BadFalseCount": 0,
+    "GoodBonusRate": 4,
+    "BadBonusRate": 2,
+    "AtkBuff": 25,
+    "HpBuff": 25,
+    "QuestType": 3,
+    "QuestTargets": [],
+    "QuestValues": [
+      4,
+      2
+    ]
+  },
+  {
+    "Id": 7,
+    "Level": 7,
+    "InitialMental": 9,
+    "SlotCount": 6,
+    "LevelUpSecond": 43200,
+    "Exp": 3500,
+    "GoodTrueCount": 0,
+    "BadFalseCount": 0,
+    "GoodBonusRate": 4,
+    "BadBonusRate": 4,
+    "AtkBuff": 30,
+    "HpBuff": 30,
+    "QuestType": 2,
+    "QuestTargets": [],
+    "QuestValues": [
+      59,
+      17
+    ]
+  },
+  {
+    "Id": 8,
+    "Level": 8,
+    "InitialMental": 9,
+    "SlotCount": 7,
+    "LevelUpSecond": 86400,
+    "Exp": 4000,
+    "GoodTrueCount": 0,
+    "BadFalseCount": 0,
+    "GoodBonusRate": 4,
+    "BadBonusRate": 4,
+    "AtkBuff": 40,
+    "HpBuff": 40,
+    "QuestType": 1,
+    "QuestTargets": [
+      6,
+      7,
+      8
+    ],
+    "QuestValues": [
+      6,
+      2
+    ]
+  },
+  {
+    "Id": 9,
+    "Level": 9,
+    "InitialMental": 10,
+    "SlotCount": 7,
+    "LevelUpSecond": 86400,
+    "Exp": 4500,
+    "GoodTrueCount": 0,
+    "BadFalseCount": 0,
+    "GoodBonusRate": 4,
+    "BadBonusRate": 4,
+    "AtkBuff": 50,
+    "HpBuff": 50,
+    "QuestType": 2,
+    "QuestTargets": [],
+    "QuestValues": [
+      68,
+      19
+    ]
+  },
+  {
+    "Id": 10,
+    "Level": 10,
+    "InitialMental": 10,
+    "SlotCount": 7,
+    "LevelUpSecond": 86400,
+    "Exp": 5000,
+    "GoodTrueCount": 0,
+    "BadFalseCount": 0,
+    "GoodBonusRate": 6,
+    "BadBonusRate": 4,
+    "AtkBuff": 60,
+    "HpBuff": 60,
+    "QuestType": 2,
+    "QuestTargets": [],
+    "QuestValues": [
+      71,
+      18
+    ]
+  },
+  {
+    "Id": 11,
+    "Level": 11,
+    "InitialMental": 10,
+    "SlotCount": 7,
+    "LevelUpSecond": 86400,
+    "Exp": 5500,
+    "GoodTrueCount": 0,
+    "BadFalseCount": 0,
+    "GoodBonusRate": 6,
+    "BadBonusRate": 6,
+    "AtkBuff": 70,
+    "HpBuff": 70,
+    "QuestType": 2,
+    "QuestTargets": [],
+    "QuestValues": [
+      73,
+      17
+    ]
+  },
+  {
+    "Id": 12,
+    "Level": 12,
+    "InitialMental": 10,
+    "SlotCount": 8,
+    "LevelUpSecond": 86400,
+    "Exp": 6000,
+    "GoodTrueCount": 0,
+    "BadFalseCount": 0,
+    "GoodBonusRate": 6,
+    "BadBonusRate": 6,
+    "AtkBuff": 80,
+    "HpBuff": 80,
+    "QuestType": 1,
+    "QuestTargets": [
+      9,
+      10,
+      11
+    ],
+    "QuestValues": [
+      7,
+      2
+    ]
+  },
+  {
+    "Id": 13,
+    "Level": 13,
+    "InitialMental": 10,
+    "SlotCount": 8,
+    "LevelUpSecond": 86400,
+    "Exp": 6500,
+    "GoodTrueCount": 0,
+    "BadFalseCount": 0,
+    "GoodBonusRate": 8,
+    "BadBonusRate": 6,
+    "AtkBuff": 90,
+    "HpBuff": 90,
+    "QuestType": 2,
+    "QuestTargets": [],
+    "QuestValues": [
+      80,
+      20
+    ]
+  },
+  {
+    "Id": 14,
+    "Level": 14,
+    "InitialMental": 10,
+    "SlotCount": 8,
+    "LevelUpSecond": 86400,
+    "Exp": 7000,
+    "GoodTrueCount": 0,
+    "BadFalseCount": 0,
+    "GoodBonusRate": 8,
+    "BadBonusRate": 8,
+    "AtkBuff": 100,
+    "HpBuff": 100,
+    "QuestType": 2,
+    "QuestTargets": [],
+    "QuestValues": [
+      83,
+      20
+    ]
+  },
+  {
+    "Id": 15,
+    "Level": 15,
+    "InitialMental": 10,
+    "SlotCount": 8,
+    "LevelUpSecond": 86400,
+    "Exp": 7500,
+    "GoodTrueCount": 1,
+    "BadFalseCount": 0,
+    "GoodBonusRate": 8,
+    "BadBonusRate": 8,
+    "AtkBuff": 110,
+    "HpBuff": 110,
+    "QuestType": 2,
+    "QuestTargets": [],
+    "QuestValues": [
+      85,
+      20
+    ]
+  },
+  {
+    "Id": 16,
+    "Level": 16,
+    "InitialMental": 10,
+    "SlotCount": 9,
+    "LevelUpSecond": 86400,
+    "Exp": 8000,
+    "GoodTrueCount": 1,
+    "BadFalseCount": 0,
+    "GoodBonusRate": 8,
+    "BadBonusRate": 8,
+    "AtkBuff": 125,
+    "HpBuff": 125,
+    "QuestType": 2,
+    "QuestTargets": [],
+    "QuestValues": [
+      89,
+      21
+    ]
+  },
+  {
+    "Id": 17,
+    "Level": 17,
+    "InitialMental": 10,
+    "SlotCount": 9,
+    "LevelUpSecond": 86400,
+    "Exp": 8500,
+    "GoodTrueCount": 1,
+    "BadFalseCount": 0,
+    "GoodBonusRate": 10,
+    "BadBonusRate": 8,
+    "AtkBuff": 140,
+    "HpBuff": 140,
+    "QuestType": 2,
+    "QuestTargets": [],
+    "QuestValues": [
+      91,
+      20
+    ]
+  },
+  {
+    "Id": 18,
+    "Level": 18,
+    "InitialMental": 10,
+    "SlotCount": 9,
+    "LevelUpSecond": 86400,
+    "Exp": 9000,
+    "GoodTrueCount": 1,
+    "BadFalseCount": 0,
+    "GoodBonusRate": 10,
+    "BadBonusRate": 10,
+    "AtkBuff": 155,
+    "HpBuff": 155,
+    "QuestType": 2,
+    "QuestTargets": [],
+    "QuestValues": [
+      94,
+      19
+    ]
+  },
+  {
+    "Id": 19,
+    "Level": 19,
+    "InitialMental": 10,
+    "SlotCount": 9,
+    "LevelUpSecond": 86400,
+    "Exp": 9500,
+    "GoodTrueCount": 1,
+    "BadFalseCount": 1,
+    "GoodBonusRate": 10,
+    "BadBonusRate": 10,
+    "AtkBuff": 170,
+    "HpBuff": 170,
+    "QuestType": 2,
+    "QuestTargets": [],
+    "QuestValues": [
+      96,
+      16
+    ]
+  },
+  {
+    "Id": 20,
+    "Level": 20,
+    "InitialMental": 10,
+    "SlotCount": 10,
+    "LevelUpSecond": 0,
+    "Exp": 0,
+    "GoodTrueCount": 1,
+    "BadFalseCount": 1,
+    "GoodBonusRate": 10,
+    "BadBonusRate": 10,
+    "AtkBuff": 190,
+    "HpBuff": 190,
+    "QuestType": 0,
+    "QuestTargets": [],
+    "QuestValues": []
+  }
+]

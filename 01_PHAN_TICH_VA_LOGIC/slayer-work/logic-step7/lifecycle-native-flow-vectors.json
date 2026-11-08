@@ -1,0 +1,9006 @@
+{
+  "vectors": [
+    {
+      "case": 0,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 0,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": 60,
+          "playerPosition": [
+            1,
+            0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": {
+            "waitForSeconds": 1.0
+          },
+          "secondToReborn": 2.5,
+          "hpPercent": 0,
+          "buffDuration": 1
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "SpawnRebornEffect",
+            "args": []
+          },
+          {
+            "name": "Effect.SetParent",
+            "args": []
+          },
+          {
+            "name": "Effect.set_position",
+            "args": [
+              1.0,
+              2.5,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.set_localScale",
+            "args": [
+              3.0,
+              3.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.SetActive",
+            "args": [
+              true
+            ]
+          },
+          {
+            "name": "set_Hp_cur",
+            "args": [
+              "0"
+            ]
+          },
+          {
+            "name": "Hp_Heal_Skill",
+            "args": [
+              0.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_OFF",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_OFF",
+            "args": []
+          },
+          {
+            "name": "Move.Factory",
+            "args": []
+          },
+          {
+            "name": "StopAndGoIE_State",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              1.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 0,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 0,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": 60,
+          "playerPosition": [
+            1,
+            0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 0,
+          "buffDuration": 1
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 1,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 0,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            100000000.0,
+            0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 0,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 1,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 0,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            100000000.0,
+            0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 0,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 2,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            0,
+            1,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 0.0
+          },
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": -1
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "Sound.Virtual1848",
+            "args": []
+          },
+          {
+            "name": "SetState",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "Rigidbody2D.set_linearVelocity",
+            "args": [
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_BlackOut",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_ON",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 2,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            0,
+            1,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 2.0
+          },
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": -1
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "GameManager.DefaultSetting",
+            "args": []
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              2.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 3,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 0.01,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 0.01,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "SetRebornState",
+            "args": [
+              3
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 3,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 0.01,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 0.01,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 4,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            100000000.0,
+            -1,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": {
+            "waitForSeconds": 1.0
+          },
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 1
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "SpawnRebornEffect",
+            "args": []
+          },
+          {
+            "name": "Effect.SetParent",
+            "args": []
+          },
+          {
+            "name": "Effect.set_position",
+            "args": [
+              100000000.0,
+              1.5,
+              0.0
+            ]
+          },
+          {
+            "name": "Effect.set_localScale",
+            "args": [
+              3.0,
+              3.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.SetActive",
+            "args": [
+              true
+            ]
+          },
+          {
+            "name": "set_Hp_cur",
+            "args": [
+              "0"
+            ]
+          },
+          {
+            "name": "Hp_Heal_Skill",
+            "args": [
+              0.009999999776482582
+            ]
+          },
+          {
+            "name": "BlackBackGround_OFF",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_OFF",
+            "args": []
+          },
+          {
+            "name": "Move.Factory",
+            "args": []
+          },
+          {
+            "name": "StopAndGoIE_State",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              1.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 4,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            100000000.0,
+            -1,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 1
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 5,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 0.01,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            100000000.0,
+            1,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 0.01,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 5,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 0.01,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            100000000.0,
+            1,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 0.01,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 6,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            -1,
+            0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 6,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            -1,
+            0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 7,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": -1,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": 60,
+          "playerPosition": [
+            0,
+            100000000.0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": {
+            "waitForSeconds": 99.98999786376953
+          },
+          "secondToReborn": 2.5,
+          "hpPercent": -1,
+          "buffDuration": 99.99
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "SpawnRebornEffect",
+            "args": []
+          },
+          {
+            "name": "Effect.SetParent",
+            "args": []
+          },
+          {
+            "name": "Effect.set_position",
+            "args": [
+              0.0,
+              100000000.0,
+              0.0
+            ]
+          },
+          {
+            "name": "Effect.set_localScale",
+            "args": [
+              3.0,
+              3.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.SetActive",
+            "args": [
+              true
+            ]
+          },
+          {
+            "name": "set_Hp_cur",
+            "args": [
+              "0"
+            ]
+          },
+          {
+            "name": "Hp_Heal_Skill",
+            "args": [
+              -1.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_OFF",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_OFF",
+            "args": []
+          },
+          {
+            "name": "Move.Factory",
+            "args": []
+          },
+          {
+            "name": "StopAndGoIE_State",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              99.98999786376953
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 7,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": -1,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": 60,
+          "playerPosition": [
+            0,
+            100000000.0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": -1,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 8,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": null,
+          "secondToReborn": 0.01,
+          "hpPercent": 0,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            -1,
+            100000000.0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 0.009999999776482582
+          },
+          "secondToReborn": 0.01,
+          "hpPercent": 0,
+          "buffDuration": 1
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "Sound.Virtual1848",
+            "args": []
+          },
+          {
+            "name": "SetState",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "Rigidbody2D.set_linearVelocity",
+            "args": [
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_BlackOut",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_ON",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              0.009999999776482582
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 8,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": null,
+          "secondToReborn": 0.01,
+          "hpPercent": 0,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            -1,
+            100000000.0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 2.0
+          },
+          "secondToReborn": 0.01,
+          "hpPercent": 0,
+          "buffDuration": 1
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "GameManager.DefaultSetting",
+            "args": []
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              2.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 9,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": 99.99,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            100000000.0,
+            -1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": {
+            "waitForSeconds": 0.0
+          },
+          "secondToReborn": 2.5,
+          "hpPercent": 99.99,
+          "buffDuration": 0
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "SpawnRebornEffect",
+            "args": []
+          },
+          {
+            "name": "Effect.SetParent",
+            "args": []
+          },
+          {
+            "name": "Effect.set_position",
+            "args": [
+              100000000.0,
+              1.5,
+              100000000.0
+            ]
+          },
+          {
+            "name": "Effect.set_localScale",
+            "args": [
+              3.0,
+              3.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.SetActive",
+            "args": [
+              true
+            ]
+          },
+          {
+            "name": "set_Hp_cur",
+            "args": [
+              "0"
+            ]
+          },
+          {
+            "name": "Hp_Heal_Skill",
+            "args": [
+              99.98999786376953
+            ]
+          },
+          {
+            "name": "BlackBackGround_OFF",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_OFF",
+            "args": []
+          },
+          {
+            "name": "Move.Factory",
+            "args": []
+          },
+          {
+            "name": "StopAndGoIE_State",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 9,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": 99.99,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            100000000.0,
+            -1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": 99.99,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 10,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": -1,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            0,
+            0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": -1,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 10,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": -1,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            0,
+            0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": -1,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 11,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            1,
+            0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 0.0
+          },
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": 0
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "Sound.Virtual1848",
+            "args": []
+          },
+          {
+            "name": "SetState",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "Rigidbody2D.set_linearVelocity",
+            "args": [
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_BlackOut",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_ON",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 11,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            1,
+            0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 2.0
+          },
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": 0
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "GameManager.DefaultSetting",
+            "args": []
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              2.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 12,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 0,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            1,
+            100000000.0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 0,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 12,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 0,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            1,
+            100000000.0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 0,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 13,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": -1,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            100000000.0,
+            100000000.0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": -1,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "SetRebornState",
+            "args": [
+              3
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 13,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": -1,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            100000000.0,
+            100000000.0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": -1,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 14,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 0,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 60,
+          "playerPosition": [
+            0,
+            -1,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 0,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 14,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 0,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 60,
+          "playerPosition": [
+            0,
+            -1,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 0,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 15,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 1,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            100000000.0,
+            0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 1,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 15,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 1,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            100000000.0,
+            0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 1,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 16,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": 2.5,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            100000000.0,
+            100000000.0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": 2.5,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 16,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": 2.5,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            100000000.0,
+            100000000.0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": 2.5,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 17,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            1,
+            0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "SetRebornState",
+            "args": [
+              3
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 17,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            1,
+            0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 18,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            -1,
+            0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 18,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            -1,
+            0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 19,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 99.99,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            0,
+            1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 99.99,
+          "buffDuration": 2.5
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 19,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 99.99,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            0,
+            1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 99.99,
+          "buffDuration": 2.5
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 20,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 1,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            0,
+            -1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 1,
+          "buffDuration": 2.5
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 20,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 1,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            0,
+            -1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 1,
+          "buffDuration": 2.5
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 21,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            0,
+            0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 21,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            0,
+            0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 22,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 1,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            1,
+            0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 1,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 22,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 1,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            1,
+            0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 1,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 23,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": 60,
+          "playerPosition": [
+            100000000.0,
+            1,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 23,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": 60,
+          "playerPosition": [
+            100000000.0,
+            1,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 24,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": 2.5,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            -1,
+            -1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": 2.5,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 24,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": 2.5,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            -1,
+            -1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": 2.5,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 25,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": 1,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            1,
+            1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": {
+            "waitForSeconds": -1.0
+          },
+          "secondToReborn": 2.5,
+          "hpPercent": 1,
+          "buffDuration": -1
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "SpawnRebornEffect",
+            "args": []
+          },
+          {
+            "name": "Effect.SetParent",
+            "args": []
+          },
+          {
+            "name": "Effect.set_position",
+            "args": [
+              1.0,
+              3.5,
+              100000000.0
+            ]
+          },
+          {
+            "name": "Effect.set_localScale",
+            "args": [
+              3.0,
+              3.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.SetActive",
+            "args": [
+              true
+            ]
+          },
+          {
+            "name": "set_Hp_cur",
+            "args": [
+              "0"
+            ]
+          },
+          {
+            "name": "Hp_Heal_Skill",
+            "args": [
+              1.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_OFF",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_OFF",
+            "args": []
+          },
+          {
+            "name": "Move.Factory",
+            "args": []
+          },
+          {
+            "name": "StopAndGoIE_State",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              -1.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 25,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": 1,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            1,
+            1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": 1,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 26,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": 0.01,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            100000000.0,
+            100000000.0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": -1.0
+          },
+          "secondToReborn": -1,
+          "hpPercent": 0.01,
+          "buffDuration": 0.01
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "Sound.Virtual1848",
+            "args": []
+          },
+          {
+            "name": "SetState",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "Rigidbody2D.set_linearVelocity",
+            "args": [
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_BlackOut",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_ON",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              -1.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 26,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": 0.01,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            100000000.0,
+            100000000.0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 2.0
+          },
+          "secondToReborn": -1,
+          "hpPercent": 0.01,
+          "buffDuration": 0.01
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "GameManager.DefaultSetting",
+            "args": []
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              2.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 27,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 2.5,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            1,
+            -1,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 2.5,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 27,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 2.5,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            1,
+            -1,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 2.5,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 28,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            1,
+            0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 28,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            1,
+            0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 29,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0.01,
+          "hpPercent": 1,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            -1,
+            -1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0.01,
+          "hpPercent": 1,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 29,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0.01,
+          "hpPercent": 1,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            -1,
+            -1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0.01,
+          "hpPercent": 1,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 30,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": null,
+          "secondToReborn": 0.01,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 0.009999999776482582
+          },
+          "secondToReborn": 0.01,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "Sound.Virtual1848",
+            "args": []
+          },
+          {
+            "name": "SetState",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "Rigidbody2D.set_linearVelocity",
+            "args": [
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_BlackOut",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_ON",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              0.009999999776482582
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 30,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": null,
+          "secondToReborn": 0.01,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 2.0
+          },
+          "secondToReborn": 0.01,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "GameManager.DefaultSetting",
+            "args": []
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              2.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 31,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0.01,
+          "hpPercent": 0,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            1,
+            100000000.0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0.01,
+          "hpPercent": 0,
+          "buffDuration": 1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 31,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0.01,
+          "hpPercent": 0,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            1,
+            100000000.0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0.01,
+          "hpPercent": 0,
+          "buffDuration": 1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 32,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": -1,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            1,
+            100000000.0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 2.5
+          },
+          "secondToReborn": 2.5,
+          "hpPercent": -1,
+          "buffDuration": 0
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "Sound.Virtual1848",
+            "args": []
+          },
+          {
+            "name": "SetState",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "Rigidbody2D.set_linearVelocity",
+            "args": [
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_BlackOut",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_ON",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              2.5
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 32,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": -1,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            1,
+            100000000.0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 2.0
+          },
+          "secondToReborn": 2.5,
+          "hpPercent": -1,
+          "buffDuration": 0
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "GameManager.DefaultSetting",
+            "args": []
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              2.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 33,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 0,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            -1,
+            0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 0,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "SetRebornState",
+            "args": [
+              3
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 33,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 0,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            -1,
+            0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 0,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 34,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            100000000.0,
+            1,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 34,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            100000000.0,
+            1,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 35,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 99.99,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            1,
+            0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 99.98999786376953
+          },
+          "secondToReborn": 99.99,
+          "hpPercent": 99.99,
+          "buffDuration": 2.5
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "Sound.Virtual1848",
+            "args": []
+          },
+          {
+            "name": "SetState",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "Rigidbody2D.set_linearVelocity",
+            "args": [
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_BlackOut",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_ON",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              99.98999786376953
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 35,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 99.99,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            1,
+            0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 2.0
+          },
+          "secondToReborn": 99.99,
+          "hpPercent": 99.99,
+          "buffDuration": 2.5
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "GameManager.DefaultSetting",
+            "args": []
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              2.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 36,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": null,
+          "secondToReborn": 0.01,
+          "hpPercent": 99.99,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            0,
+            -1,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0.01,
+          "hpPercent": 99.99,
+          "buffDuration": 1
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "SetRebornState",
+            "args": [
+              3
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 36,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": null,
+          "secondToReborn": 0.01,
+          "hpPercent": 99.99,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            0,
+            -1,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": null,
+          "secondToReborn": 0.01,
+          "hpPercent": 99.99,
+          "buffDuration": 1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 37,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": -1,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            1,
+            0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": -1,
+          "buffDuration": 2.5
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 37,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": -1,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            1,
+            0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": -1,
+          "buffDuration": 2.5
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 38,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 0.01,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            100000000.0,
+            100000000.0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": {
+            "waitForSeconds": 2.5
+          },
+          "secondToReborn": 2.5,
+          "hpPercent": 0.01,
+          "buffDuration": 2.5
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "SpawnRebornEffect",
+            "args": []
+          },
+          {
+            "name": "Effect.SetParent",
+            "args": []
+          },
+          {
+            "name": "Effect.set_position",
+            "args": [
+              100000000.0,
+              100000000.0,
+              -1.0
+            ]
+          },
+          {
+            "name": "Effect.set_localScale",
+            "args": [
+              3.0,
+              3.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.SetActive",
+            "args": [
+              true
+            ]
+          },
+          {
+            "name": "set_Hp_cur",
+            "args": [
+              "0"
+            ]
+          },
+          {
+            "name": "Hp_Heal_Skill",
+            "args": [
+              0.009999999776482582
+            ]
+          },
+          {
+            "name": "BlackBackGround_OFF",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_OFF",
+            "args": []
+          },
+          {
+            "name": "Move.Factory",
+            "args": []
+          },
+          {
+            "name": "StopAndGoIE_State",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              2.5
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 38,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 0.01,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            100000000.0,
+            100000000.0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 0.01,
+          "buffDuration": 2.5
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 39,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 0.01,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            0,
+            -1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 0.01,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 39,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 0.01,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            0,
+            -1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 0.01,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 40,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": -1,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            1,
+            1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": -1,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 40,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": -1,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            1,
+            1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": -1,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 41,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 99.99,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            -1,
+            1,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 99.99,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 41,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 99.99,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            -1,
+            1,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 99.99,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 42,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            -1,
+            -1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 42,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            -1,
+            -1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 43,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 60,
+          "playerPosition": [
+            1,
+            -1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "SetRebornState",
+            "args": [
+              3
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 43,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 60,
+          "playerPosition": [
+            1,
+            -1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 44,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": 2.5,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            0,
+            100000000.0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": 2.5,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 44,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": 2.5,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            0,
+            100000000.0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": 2.5,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 45,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 0.01,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            1,
+            100000000.0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 0.01,
+          "buffDuration": 2.5
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 45,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 0.01,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            1,
+            100000000.0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 0.01,
+          "buffDuration": 2.5
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 46,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": -1,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            1,
+            100000000.0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": -1,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 46,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": -1,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            1,
+            100000000.0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": -1,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 47,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 0.01,
+          "hpPercent": 1,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            0,
+            -1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 0.01,
+          "hpPercent": 1,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 47,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 0.01,
+          "hpPercent": 1,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            0,
+            -1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 0.01,
+          "hpPercent": 1,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 48,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 2.5,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            -1,
+            1,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 2.5,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 48,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 2.5,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            -1,
+            1,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 2.5,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 49,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 0,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            -1,
+            100000000.0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 0,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 49,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 0,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            -1,
+            100000000.0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 0,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 50,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            -1,
+            0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 50,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            -1,
+            0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 51,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0.01,
+          "hpPercent": -1,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            0,
+            1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0.01,
+          "hpPercent": -1,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 51,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0.01,
+          "hpPercent": -1,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            0,
+            1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 0.01,
+          "hpPercent": -1,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 52,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 2.5,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            1,
+            -1,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": {
+            "waitForSeconds": -1.0
+          },
+          "secondToReborn": 1,
+          "hpPercent": 2.5,
+          "buffDuration": -1
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "SpawnRebornEffect",
+            "args": []
+          },
+          {
+            "name": "Effect.SetParent",
+            "args": []
+          },
+          {
+            "name": "Effect.set_position",
+            "args": [
+              1.0,
+              1.5,
+              0.0
+            ]
+          },
+          {
+            "name": "Effect.set_localScale",
+            "args": [
+              3.0,
+              3.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.SetActive",
+            "args": [
+              true
+            ]
+          },
+          {
+            "name": "set_Hp_cur",
+            "args": [
+              "0"
+            ]
+          },
+          {
+            "name": "Hp_Heal_Skill",
+            "args": [
+              2.5
+            ]
+          },
+          {
+            "name": "BlackBackGround_OFF",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_OFF",
+            "args": []
+          },
+          {
+            "name": "Move.Factory",
+            "args": []
+          },
+          {
+            "name": "StopAndGoIE_State",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              -1.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 52,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 2.5,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            1,
+            -1,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 2.5,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 53,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 60,
+          "playerPosition": [
+            100000000.0,
+            1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 99.98999786376953
+          },
+          "secondToReborn": 99.99,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "Sound.Virtual1848",
+            "args": []
+          },
+          {
+            "name": "SetState",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "Rigidbody2D.set_linearVelocity",
+            "args": [
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_BlackOut",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_ON",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              99.98999786376953
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 53,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 60,
+          "playerPosition": [
+            100000000.0,
+            1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 2.0
+          },
+          "secondToReborn": 99.99,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "GameManager.DefaultSetting",
+            "args": []
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              2.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 54,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": 2.5,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            -1,
+            100000000.0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": 2.5,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 54,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": 2.5,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            -1,
+            100000000.0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": 2.5,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 55,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 1.0
+          },
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 0
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "Sound.Virtual1848",
+            "args": []
+          },
+          {
+            "name": "SetState",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "Rigidbody2D.set_linearVelocity",
+            "args": [
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_BlackOut",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_ON",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              1.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 55,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 2.0
+          },
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 0
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "GameManager.DefaultSetting",
+            "args": []
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              2.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 56,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": 60,
+          "playerPosition": [
+            100000000.0,
+            100000000.0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 56,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": 60,
+          "playerPosition": [
+            100000000.0,
+            100000000.0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 57,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": -1,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            100000000.0,
+            -1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": -1,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "SetRebornState",
+            "args": [
+              3
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 57,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": -1,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            100000000.0,
+            -1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": -1,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 58,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": -1,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            1,
+            100000000.0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": -1,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 58,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": -1,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            1,
+            100000000.0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": -1,
+          "hpPercent": -1,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 59,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            100000000.0,
+            0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 59,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            100000000.0,
+            0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 60,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 99.99,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            -1,
+            1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 0.0
+          },
+          "secondToReborn": 0,
+          "hpPercent": 99.99,
+          "buffDuration": 0.01
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "Sound.Virtual1848",
+            "args": []
+          },
+          {
+            "name": "SetState",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "Rigidbody2D.set_linearVelocity",
+            "args": [
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_BlackOut",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_ON",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 60,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 99.99,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            -1,
+            1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 2.0
+          },
+          "secondToReborn": 0,
+          "hpPercent": 99.99,
+          "buffDuration": 0.01
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "GameManager.DefaultSetting",
+            "args": []
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              2.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 61,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 0.01,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            100000000.0,
+            1,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 0.01,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 61,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 0.01,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            100000000.0,
+            1,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 0.01,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 62,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 2.5,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            0,
+            -1,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 2.5,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 62,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 2.5,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            0,
+            -1,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 2.5,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 63,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            100000000.0,
+            1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "SetRebornState",
+            "args": [
+              3
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 63,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            100000000.0,
+            1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 64,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            100000000.0,
+            100000000.0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 64,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            100000000.0,
+            100000000.0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 1,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 65,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 99.99,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            0,
+            100000000.0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": -1.0
+          },
+          "secondToReborn": -1,
+          "hpPercent": 99.99,
+          "buffDuration": 1
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "Sound.Virtual1848",
+            "args": []
+          },
+          {
+            "name": "SetState",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "Rigidbody2D.set_linearVelocity",
+            "args": [
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_BlackOut",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_ON",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              -1.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 65,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 99.99,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            0,
+            100000000.0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 2.0
+          },
+          "secondToReborn": -1,
+          "hpPercent": 99.99,
+          "buffDuration": 1
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "GameManager.DefaultSetting",
+            "args": []
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              2.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 66,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 0.01,
+          "hpPercent": 0,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            1,
+            0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": {
+            "waitForSeconds": 99.98999786376953
+          },
+          "secondToReborn": 0.01,
+          "hpPercent": 0,
+          "buffDuration": 99.99
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "SpawnRebornEffect",
+            "args": []
+          },
+          {
+            "name": "Effect.SetParent",
+            "args": []
+          },
+          {
+            "name": "Effect.set_position",
+            "args": [
+              1.0,
+              2.5,
+              0.0
+            ]
+          },
+          {
+            "name": "Effect.set_localScale",
+            "args": [
+              3.0,
+              3.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.SetActive",
+            "args": [
+              true
+            ]
+          },
+          {
+            "name": "set_Hp_cur",
+            "args": [
+              "0"
+            ]
+          },
+          {
+            "name": "Hp_Heal_Skill",
+            "args": [
+              0.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_OFF",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_OFF",
+            "args": []
+          },
+          {
+            "name": "Move.Factory",
+            "args": []
+          },
+          {
+            "name": "StopAndGoIE_State",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              99.98999786376953
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 66,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 0.01,
+          "hpPercent": 0,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            1,
+            0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0.01,
+          "hpPercent": 0,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 67,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 0.01,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            0,
+            -1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": {
+            "waitForSeconds": 99.98999786376953
+          },
+          "secondToReborn": 0,
+          "hpPercent": 0.01,
+          "buffDuration": 99.99
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "SpawnRebornEffect",
+            "args": []
+          },
+          {
+            "name": "Effect.SetParent",
+            "args": []
+          },
+          {
+            "name": "Effect.set_position",
+            "args": [
+              0.0,
+              1.5,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.set_localScale",
+            "args": [
+              3.0,
+              3.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.SetActive",
+            "args": [
+              true
+            ]
+          },
+          {
+            "name": "set_Hp_cur",
+            "args": [
+              "0"
+            ]
+          },
+          {
+            "name": "Hp_Heal_Skill",
+            "args": [
+              0.009999999776482582
+            ]
+          },
+          {
+            "name": "BlackBackGround_OFF",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_OFF",
+            "args": []
+          },
+          {
+            "name": "Move.Factory",
+            "args": []
+          },
+          {
+            "name": "StopAndGoIE_State",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              99.98999786376953
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 67,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 0.01,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            0,
+            -1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 0.01,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 68,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0.01,
+          "hpPercent": 1,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 60,
+          "playerPosition": [
+            1,
+            0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0.01,
+          "hpPercent": 1,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 68,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0.01,
+          "hpPercent": 1,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 60,
+          "playerPosition": [
+            1,
+            0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0.01,
+          "hpPercent": 1,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 69,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 0.01,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            100000000.0,
+            -1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 0.01,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 69,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 0.01,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            100000000.0,
+            -1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 0.01,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 70,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            -1,
+            100000000.0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 70,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            -1,
+            100000000.0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 71,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": 1,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            0,
+            1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 2.5
+          },
+          "secondToReborn": 2.5,
+          "hpPercent": 1,
+          "buffDuration": 2.5
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "Sound.Virtual1848",
+            "args": []
+          },
+          {
+            "name": "SetState",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "Rigidbody2D.set_linearVelocity",
+            "args": [
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_BlackOut",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_ON",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              2.5
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 71,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": 1,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            0,
+            1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 2.0
+          },
+          "secondToReborn": 2.5,
+          "hpPercent": 1,
+          "buffDuration": 2.5
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "GameManager.DefaultSetting",
+            "args": []
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              2.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 72,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 0.01,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            1,
+            0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 0.01,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 72,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 0.01,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            1,
+            0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 0.01,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 73,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 0,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            100000000.0,
+            0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 0,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 73,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 0,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            100000000.0,
+            0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 0,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 74,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 1,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            1,
+            -1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": {
+            "waitForSeconds": 0.0
+          },
+          "secondToReborn": 0,
+          "hpPercent": 1,
+          "buffDuration": 0
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "SpawnRebornEffect",
+            "args": []
+          },
+          {
+            "name": "Effect.SetParent",
+            "args": []
+          },
+          {
+            "name": "Effect.set_position",
+            "args": [
+              1.0,
+              1.5,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.set_localScale",
+            "args": [
+              3.0,
+              3.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.SetActive",
+            "args": [
+              true
+            ]
+          },
+          {
+            "name": "set_Hp_cur",
+            "args": [
+              "0"
+            ]
+          },
+          {
+            "name": "Hp_Heal_Skill",
+            "args": [
+              1.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_OFF",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_OFF",
+            "args": []
+          },
+          {
+            "name": "Move.Factory",
+            "args": []
+          },
+          {
+            "name": "StopAndGoIE_State",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 74,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 1,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            1,
+            -1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 1,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 75,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 0,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            1,
+            0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": {
+            "waitForSeconds": 99.98999786376953
+          },
+          "secondToReborn": 1,
+          "hpPercent": 0,
+          "buffDuration": 99.99
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "SpawnRebornEffect",
+            "args": []
+          },
+          {
+            "name": "Effect.SetParent",
+            "args": []
+          },
+          {
+            "name": "Effect.set_position",
+            "args": [
+              1.0,
+              2.5,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.set_localScale",
+            "args": [
+              3.0,
+              3.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.SetActive",
+            "args": [
+              true
+            ]
+          },
+          {
+            "name": "set_Hp_cur",
+            "args": [
+              "0"
+            ]
+          },
+          {
+            "name": "Hp_Heal_Skill",
+            "args": [
+              0.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_OFF",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_OFF",
+            "args": []
+          },
+          {
+            "name": "Move.Factory",
+            "args": []
+          },
+          {
+            "name": "StopAndGoIE_State",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              99.98999786376953
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 75,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 0,
+          "buffDuration": 99.99
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            1,
+            0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 0,
+          "buffDuration": 99.99
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 76,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 0,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            100000000.0,
+            1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 0,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 76,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 0,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            100000000.0,
+            1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 0,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 77,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": 99.99,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            100000000.0,
+            0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": 99.99,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 77,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": 99.99,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            100000000.0,
+            0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": 99.99,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 78,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 0.01,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            1,
+            -1,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": {
+            "waitForSeconds": 2.5
+          },
+          "secondToReborn": 99.99,
+          "hpPercent": 0.01,
+          "buffDuration": 2.5
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "SpawnRebornEffect",
+            "args": []
+          },
+          {
+            "name": "Effect.SetParent",
+            "args": []
+          },
+          {
+            "name": "Effect.set_position",
+            "args": [
+              1.0,
+              1.5,
+              -1.0
+            ]
+          },
+          {
+            "name": "Effect.set_localScale",
+            "args": [
+              3.0,
+              3.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.SetActive",
+            "args": [
+              true
+            ]
+          },
+          {
+            "name": "set_Hp_cur",
+            "args": [
+              "0"
+            ]
+          },
+          {
+            "name": "Hp_Heal_Skill",
+            "args": [
+              0.009999999776482582
+            ]
+          },
+          {
+            "name": "BlackBackGround_OFF",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_OFF",
+            "args": []
+          },
+          {
+            "name": "Move.Factory",
+            "args": []
+          },
+          {
+            "name": "StopAndGoIE_State",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              2.5
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 78,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 0.01,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            1,
+            -1,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 0.01,
+          "buffDuration": 2.5
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 79,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": 0.01,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            1,
+            -1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": 0.01,
+          "buffDuration": 1
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "SetRebornState",
+            "args": [
+              3
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 79,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": 0.01,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            1,
+            -1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": 0.01,
+          "buffDuration": 1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 80,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 2.5,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            1,
+            0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 2.5,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 80,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 2.5,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            1,
+            0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 2.5,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 81,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 0.01,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            0,
+            1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 0.01,
+          "buffDuration": 1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 81,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 0.01,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            0,
+            1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 0.01,
+          "buffDuration": 1
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 82,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 99.99,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            0,
+            100000000.0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": {
+            "waitForSeconds": 0.0
+          },
+          "secondToReborn": 99.99,
+          "hpPercent": 99.99,
+          "buffDuration": 0
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "SpawnRebornEffect",
+            "args": []
+          },
+          {
+            "name": "Effect.SetParent",
+            "args": []
+          },
+          {
+            "name": "Effect.set_position",
+            "args": [
+              0.0,
+              100000000.0,
+              -1.0
+            ]
+          },
+          {
+            "name": "Effect.set_localScale",
+            "args": [
+              3.0,
+              3.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.SetActive",
+            "args": [
+              true
+            ]
+          },
+          {
+            "name": "set_Hp_cur",
+            "args": [
+              "0"
+            ]
+          },
+          {
+            "name": "Hp_Heal_Skill",
+            "args": [
+              99.98999786376953
+            ]
+          },
+          {
+            "name": "BlackBackGround_OFF",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_OFF",
+            "args": []
+          },
+          {
+            "name": "Move.Factory",
+            "args": []
+          },
+          {
+            "name": "StopAndGoIE_State",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 82,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 99.99,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            0,
+            100000000.0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 99.99,
+          "hpPercent": 99.99,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 83,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 1,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            100000000.0,
+            0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 1,
+          "buffDuration": 1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 83,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 1,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            100000000.0,
+            0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 1,
+          "buffDuration": 1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 84,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            1,
+            100000000.0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 84,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            1,
+            100000000.0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": -1,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 85,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": 2.5,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            1,
+            100000000.0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": {
+            "waitForSeconds": 0.009999999776482582
+          },
+          "secondToReborn": 2.5,
+          "hpPercent": 2.5,
+          "buffDuration": 0.01
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "SpawnRebornEffect",
+            "args": []
+          },
+          {
+            "name": "Effect.SetParent",
+            "args": []
+          },
+          {
+            "name": "Effect.set_position",
+            "args": [
+              1.0,
+              100000000.0,
+              100000000.0
+            ]
+          },
+          {
+            "name": "Effect.set_localScale",
+            "args": [
+              3.0,
+              3.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.SetActive",
+            "args": [
+              true
+            ]
+          },
+          {
+            "name": "set_Hp_cur",
+            "args": [
+              "0"
+            ]
+          },
+          {
+            "name": "Hp_Heal_Skill",
+            "args": [
+              2.5
+            ]
+          },
+          {
+            "name": "BlackBackGround_OFF",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_OFF",
+            "args": []
+          },
+          {
+            "name": "Move.Factory",
+            "args": []
+          },
+          {
+            "name": "StopAndGoIE_State",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              0.009999999776482582
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 85,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": 2.5,
+          "buffDuration": 0.01
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            1,
+            100000000.0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 2.5,
+          "hpPercent": 2.5,
+          "buffDuration": 0.01
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 86,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            0,
+            100000000.0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": {
+            "waitForSeconds": 1.0
+          },
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 1
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "SpawnRebornEffect",
+            "args": []
+          },
+          {
+            "name": "Effect.SetParent",
+            "args": []
+          },
+          {
+            "name": "Effect.set_position",
+            "args": [
+              0.0,
+              100000000.0,
+              100000000.0
+            ]
+          },
+          {
+            "name": "Effect.set_localScale",
+            "args": [
+              3.0,
+              3.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.SetActive",
+            "args": [
+              true
+            ]
+          },
+          {
+            "name": "set_Hp_cur",
+            "args": [
+              "0"
+            ]
+          },
+          {
+            "name": "Hp_Heal_Skill",
+            "args": [
+              0.009999999776482582
+            ]
+          },
+          {
+            "name": "BlackBackGround_OFF",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_OFF",
+            "args": []
+          },
+          {
+            "name": "Move.Factory",
+            "args": []
+          },
+          {
+            "name": "StopAndGoIE_State",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              1.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 86,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            0,
+            100000000.0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 1,
+          "hpPercent": 0.01,
+          "buffDuration": 1
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 87,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 0,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            100000000.0,
+            -1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 0,
+          "buffDuration": 1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 87,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 0,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            100000000.0,
+            -1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 0,
+          "buffDuration": 1
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 88,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 0.01,
+          "hpPercent": 2.5,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            -1,
+            -1,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": {
+            "waitForSeconds": 0.0
+          },
+          "secondToReborn": 0.01,
+          "hpPercent": 2.5,
+          "buffDuration": 0
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "SpawnRebornEffect",
+            "args": []
+          },
+          {
+            "name": "Effect.SetParent",
+            "args": []
+          },
+          {
+            "name": "Effect.set_position",
+            "args": [
+              -1.0,
+              1.5,
+              0.0
+            ]
+          },
+          {
+            "name": "Effect.set_localScale",
+            "args": [
+              3.0,
+              3.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.SetActive",
+            "args": [
+              true
+            ]
+          },
+          {
+            "name": "set_Hp_cur",
+            "args": [
+              "0"
+            ]
+          },
+          {
+            "name": "Hp_Heal_Skill",
+            "args": [
+              2.5
+            ]
+          },
+          {
+            "name": "BlackBackGround_OFF",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_OFF",
+            "args": []
+          },
+          {
+            "name": "Move.Factory",
+            "args": []
+          },
+          {
+            "name": "StopAndGoIE_State",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 88,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": null,
+          "secondToReborn": 0.01,
+          "hpPercent": 2.5,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "nan",
+          "playerPosition": [
+            -1,
+            -1,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0.01,
+          "hpPercent": 2.5,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 89,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 2.5,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            1,
+            0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": -1.0
+          },
+          "secondToReborn": -1,
+          "hpPercent": 2.5,
+          "buffDuration": 1
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "Sound.Virtual1848",
+            "args": []
+          },
+          {
+            "name": "SetState",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "Rigidbody2D.set_linearVelocity",
+            "args": [
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_BlackOut",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_ON",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              -1.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 89,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 2.5,
+          "buffDuration": 1
+        },
+        "input": {
+          "battleTime": -1,
+          "playerPosition": [
+            1,
+            0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 2.0
+          },
+          "secondToReborn": -1,
+          "hpPercent": 2.5,
+          "buffDuration": 1
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "GameManager.DefaultSetting",
+            "args": []
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              2.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 90,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 0,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            1,
+            0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 0,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 90,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 0,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            1,
+            0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 0,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 91,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            100000000.0,
+            0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "SetRebornState",
+            "args": [
+              3
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 91,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            100000000.0,
+            0,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": 1,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 92,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 0,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            1,
+            -1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 0,
+          "buffDuration": 2.5
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 92,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 0,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": "-inf",
+          "playerPosition": [
+            1,
+            -1,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 0,
+          "buffDuration": 2.5
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 93,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 1,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            0,
+            0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 1,
+          "buffDuration": 2.5
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 93,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 1,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            0,
+            0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 0,
+          "hpPercent": 1,
+          "buffDuration": 2.5
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 94,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 0,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            100000000.0,
+            100000000.0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 0,
+          "buffDuration": 2.5
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 94,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 0,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": 0,
+          "playerPosition": [
+            100000000.0,
+            100000000.0,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 0,
+          "hpPercent": 0,
+          "buffDuration": 2.5
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 95,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 2.5,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            1,
+            -1,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": {
+            "waitForSeconds": 0.0
+          },
+          "secondToReborn": 99.99,
+          "hpPercent": 2.5,
+          "buffDuration": 0
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "SpawnRebornEffect",
+            "args": []
+          },
+          {
+            "name": "Effect.SetParent",
+            "args": []
+          },
+          {
+            "name": "Effect.set_position",
+            "args": [
+              1.0,
+              1.5,
+              0.0
+            ]
+          },
+          {
+            "name": "Effect.set_localScale",
+            "args": [
+              3.0,
+              3.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.SetActive",
+            "args": [
+              true
+            ]
+          },
+          {
+            "name": "set_Hp_cur",
+            "args": [
+              "0"
+            ]
+          },
+          {
+            "name": "Hp_Heal_Skill",
+            "args": [
+              2.5
+            ]
+          },
+          {
+            "name": "BlackBackGround_OFF",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_OFF",
+            "args": []
+          },
+          {
+            "name": "Move.Factory",
+            "args": []
+          },
+          {
+            "name": "StopAndGoIE_State",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 95,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 2.5,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            1,
+            -1,
+            0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": 2.5,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "BattleEnd",
+            "args": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 96,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": null,
+          "secondToReborn": 0.01,
+          "hpPercent": 99.99,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            0,
+            100000000.0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 0.009999999776482582
+          },
+          "secondToReborn": 0.01,
+          "hpPercent": 99.99,
+          "buffDuration": 0
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "Sound.Virtual1848",
+            "args": []
+          },
+          {
+            "name": "SetState",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "Rigidbody2D.set_linearVelocity",
+            "args": [
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_BlackOut",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_ON",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              0.009999999776482582
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 96,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 0,
+          "current": null,
+          "secondToReborn": 0.01,
+          "hpPercent": 99.99,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": 1,
+          "playerPosition": [
+            0,
+            100000000.0,
+            100000000.0
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 2.0
+          },
+          "secondToReborn": 0.01,
+          "hpPercent": 99.99,
+          "buffDuration": 0
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "GameManager.DefaultSetting",
+            "args": []
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              2.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 97,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 60,
+          "playerPosition": [
+            0,
+            -1,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "SetRebornState",
+            "args": [
+              3
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": 97,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "input": {
+          "battleTime": 60,
+          "playerPosition": [
+            0,
+            -1,
+            -1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 2,
+          "current": "old",
+          "secondToReborn": -1,
+          "hpPercent": 99.99,
+          "buffDuration": -1
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 98,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 0,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            -1,
+            0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 0,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 98,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 0,
+          "buffDuration": 0
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            -1,
+            0,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": -1,
+          "current": null,
+          "secondToReborn": 2.5,
+          "hpPercent": 0,
+          "buffDuration": 0
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 99,
+      "method": "fakeDeathStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": -1,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": -1,
+          "buffDuration": 2.5
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "case": 99,
+      "method": "defeatStep",
+      "fixture": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": -1,
+          "buffDuration": 2.5
+        },
+        "input": {
+          "battleTime": "inf",
+          "playerPosition": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "result": {
+        "iterator": {
+          "state": 3,
+          "current": "old",
+          "secondToReborn": 99.99,
+          "hpPercent": -1,
+          "buffDuration": 2.5
+        },
+        "yielded": false,
+        "effects": []
+      }
+    },
+    {
+      "method": "setRebornState",
+      "state": 0,
+      "callbackPresent": false,
+      "result": {
+        "state": 0,
+        "effects": []
+      }
+    },
+    {
+      "method": "setRebornState",
+      "state": 0,
+      "callbackPresent": true,
+      "result": {
+        "state": 0,
+        "effects": [
+          {
+            "name": "ReBornAction.Invoke",
+            "args": [
+              0,
+              0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "method": "setRebornState",
+      "state": 1,
+      "callbackPresent": false,
+      "result": {
+        "state": 1,
+        "effects": []
+      }
+    },
+    {
+      "method": "setRebornState",
+      "state": 1,
+      "callbackPresent": true,
+      "result": {
+        "state": 1,
+        "effects": [
+          {
+            "name": "ReBornAction.Invoke",
+            "args": [
+              1,
+              1
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "method": "setRebornState",
+      "state": 2,
+      "callbackPresent": false,
+      "result": {
+        "state": 2,
+        "effects": []
+      }
+    },
+    {
+      "method": "setRebornState",
+      "state": 2,
+      "callbackPresent": true,
+      "result": {
+        "state": 2,
+        "effects": [
+          {
+            "name": "ReBornAction.Invoke",
+            "args": [
+              2,
+              2
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "method": "setRebornState",
+      "state": 3,
+      "callbackPresent": false,
+      "result": {
+        "state": 3,
+        "effects": []
+      }
+    },
+    {
+      "method": "setRebornState",
+      "state": 3,
+      "callbackPresent": true,
+      "result": {
+        "state": 3,
+        "effects": [
+          {
+            "name": "ReBornAction.Invoke",
+            "args": [
+              3,
+              3
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "method": "setRebornState",
+      "state": -1,
+      "callbackPresent": false,
+      "result": {
+        "state": -1,
+        "effects": []
+      }
+    },
+    {
+      "method": "setRebornState",
+      "state": -1,
+      "callbackPresent": true,
+      "result": {
+        "state": -1,
+        "effects": [
+          {
+            "name": "ReBornAction.Invoke",
+            "args": [
+              -1,
+              -1
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "method": "setRebornState",
+      "state": 2147483647,
+      "callbackPresent": false,
+      "result": {
+        "state": 2147483647,
+        "effects": []
+      }
+    },
+    {
+      "method": "setRebornState",
+      "state": 2147483647,
+      "callbackPresent": true,
+      "result": {
+        "state": 2147483647,
+        "effects": [
+          {
+            "name": "ReBornAction.Invoke",
+            "args": [
+              2147483647,
+              2147483647
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "sequence": {
+    "fixture": {
+      "iterator": {
+        "state": 0,
+        "current": null,
+        "secondToReborn": 2.5,
+        "hpPercent": 50,
+        "buffDuration": 10
+      },
+      "input": {
+        "battleTime": 60,
+        "playerPosition": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    "phases": [
+      {
+        "iterator": {
+          "state": 1,
+          "current": {
+            "waitForSeconds": 2.5
+          },
+          "secondToReborn": 2.5,
+          "hpPercent": 50,
+          "buffDuration": 10
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "Sound.Virtual1848",
+            "args": []
+          },
+          {
+            "name": "SetState",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "Rigidbody2D.set_linearVelocity",
+            "args": [
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_BlackOut",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_ON",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              2.5
+            ]
+          }
+        ]
+      },
+      {
+        "iterator": {
+          "state": 2,
+          "current": {
+            "waitForSeconds": 10.0
+          },
+          "secondToReborn": 2.5,
+          "hpPercent": 50,
+          "buffDuration": 10
+        },
+        "yielded": true,
+        "effects": [
+          {
+            "name": "SpawnRebornEffect",
+            "args": []
+          },
+          {
+            "name": "Effect.SetParent",
+            "args": []
+          },
+          {
+            "name": "Effect.set_position",
+            "args": [
+              1.0,
+              4.5,
+              3.0
+            ]
+          },
+          {
+            "name": "Effect.set_localScale",
+            "args": [
+              3.0,
+              3.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Effect.SetActive",
+            "args": [
+              true
+            ]
+          },
+          {
+            "name": "set_Hp_cur",
+            "args": [
+              "0"
+            ]
+          },
+          {
+            "name": "Hp_Heal_Skill",
+            "args": [
+              50.0
+            ]
+          },
+          {
+            "name": "BlackBackGround_OFF",
+            "args": []
+          },
+          {
+            "name": "SkillUsing_OFF",
+            "args": []
+          },
+          {
+            "name": "Move.Factory",
+            "args": []
+          },
+          {
+            "name": "StopAndGoIE_State",
+            "args": []
+          },
+          {
+            "name": "SetRebornState",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "WaitForSeconds",
+            "args": [
+              10.0
+            ]
+          }
+        ]
+      },
+      {
+        "iterator": {
+          "state": -1,
+          "current": {
+            "waitForSeconds": 10.0
+          },
+          "secondToReborn": 2.5,
+          "hpPercent": 50,
+          "buffDuration": 10
+        },
+        "yielded": false,
+        "effects": [
+          {
+            "name": "SetRebornState",
+            "args": [
+              3
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "cases": 704,
+  "snapshots": 176,
+  "instruction_steps": 264753,
+  "distinct_instructions": 848,
+  "scope": "Stronger linked recheck of the three receive-EXP paths and AddBuffs, now using original DatabaseManager.get_ExpAdd and original Exp_Cal/scroll/Probability bodies. Previous scalar ExpAdd hook removed; raw source fields required. Same explicit manager/wrapper/spirit/event/RNG/UI/log/Cave dependencies as step9 remain. No Unity/full account/backend parity."
+}

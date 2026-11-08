@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x60010b4",
+    "name": "Create",
+    "declaring_type_index": "1132",
+    "declaring_type_full_name": "RequestData",
+    "native_va": "0x481e4c4",
+    "return_type_index": "79168",
+    "return_type_name": "RequestData",
+    "parameter_start": "2184",
+    "parameter_count": "2",
+    "flags": "150",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x899e0c",
+    "end_va": "0x481e5d0",
+    "asm_file": "RequestData__Create_0x60010b4.asm"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6007478",
+    "name": "MoveNext",
+    "declaring_type_index": "2891",
+    "declaring_type_full_name": "PlayerBase+<Co_FakeDeath>d__329",
+    "native_va": "0x4f08838",
+    "return_type_index": "59073",
+    "return_type_name": "bool",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "481",
+    "iflags": "0",
+    "slot": "6",
+    "metadata_record_offset": "0x96168c",
+    "end_va": "0x4f08bf0",
+    "asm_file": "PlayerBase__Co_FakeDeath_d__329__MoveNext_0x6007478.asm"
+  }
+]

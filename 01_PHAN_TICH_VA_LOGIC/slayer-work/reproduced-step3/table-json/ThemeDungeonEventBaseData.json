@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 2001,
+    "EventType": 2001,
+    "Active": false,
+    "StatPointGet": 1000,
+    "BuffDurationHours": 72,
+    "BoostDurationMinutes": 10,
+    "DiaRefundRate": 0.5,
+    "DialogueIndex": 0
+  },
+  {
+    "Id": 2002,
+    "EventType": 2002,
+    "Active": false,
+    "StatPointGet": 1000,
+    "BuffDurationHours": 72,
+    "BoostDurationMinutes": 10,
+    "DiaRefundRate": 0.5,
+    "DialogueIndex": 1
+  },
+  {
+    "Id": 2003,
+    "EventType": 2003,
+    "Active": true,
+    "StatPointGet": 1000,
+    "BuffDurationHours": 72,
+    "BoostDurationMinutes": 10,
+    "DiaRefundRate": 0.5,
+    "DialogueIndex": 2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "EffectLevel": 1,
+    "FireColorCode": "DC1418",
+    "WaterColorCode": "0B7EFF",
+    "WindColorCode": "41D06C",
+    "EarthColorCode": "FF9A24"
+  },
+  {
+    "Id": 2,
+    "EffectLevel": 2,
+    "FireColorCode": "DC1418",
+    "WaterColorCode": "0B7EFF",
+    "WindColorCode": "41D06C",
+    "EarthColorCode": "FF9A24"
+  },
+  {
+    "Id": 3,
+    "EffectLevel": 3,
+    "FireColorCode": "DC1418",
+    "WaterColorCode": "0B7EFF",
+    "WindColorCode": "41D06C",
+    "EarthColorCode": "FF9A24"
+  },
+  {
+    "Id": 4,
+    "EffectLevel": 4,
+    "FireColorCode": "DC1418",
+    "WaterColorCode": "0B7EFF",
+    "WindColorCode": "41D06C",
+    "EarthColorCode": "FF9A24"
+  },
+  {
+    "Id": 5,
+    "EffectLevel": 5,
+    "FireColorCode": "DC1418",
+    "WaterColorCode": "0B7EFF",
+    "WindColorCode": "41D06C",
+    "EarthColorCode": "FF9A24"
+  }
+]

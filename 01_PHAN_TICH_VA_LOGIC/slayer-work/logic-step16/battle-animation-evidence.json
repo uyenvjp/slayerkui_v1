@@ -1,0 +1,1136 @@
+{
+  "source_xapk_sha256": "b8c19d5fdf4da70c8c45cddf3f7e6b8a850863fd55b09b087c6d06d7001d6098",
+  "scene": "level1",
+  "player_path_id": "6416",
+  "animator": {
+    "component": {
+      "file": "level1",
+      "path_id": "46712",
+      "class_id": 95
+    },
+    "controller": {
+      "file": "4daac24946e5880499b17b7085360689",
+      "path_id": "1",
+      "class_id": 221,
+      "name": "Animator_Players_Costume"
+    }
+  },
+  "base_controller": {
+    "file": "f1f2eda073788f44c9544102b2822aa4",
+    "path_id": "1",
+    "class_id": 91,
+    "name": "Animator_Player"
+  },
+  "overrides": [
+    {
+      "original": {
+        "file": "eca5d6608eadb364d89dadbf9af42bf1",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_Attack",
+        "event_array_offset": 4480,
+        "events": [
+          {
+            "seconds": 0.0,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 4,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.06666667014360428,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.1666666716337204,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 1,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.18333333730697632,
+            "function": "Attack_Func",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.2666666805744171,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 2,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.3333333432674408,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 3,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.4000000059604645,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 4,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.4333333373069763,
+            "function": "AttackAction_End",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          }
+        ]
+      },
+      "override": {
+        "file": "00906355746dacb4ebb1c882890ecad1",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Attack",
+        "event_array_offset": 6284,
+        "events": [
+          {
+            "seconds": 0.0,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 4,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.06666667014360428,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.1666666716337204,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 1,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.18333333730697632,
+            "function": "Attack_Func",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.2666666805744171,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 2,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.3333333432674408,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 3,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.4000000059604645,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 4,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.4166666567325592,
+            "function": "AttackAction_End",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "file": "a61e8ef2ca2c1434f95fbb02600244e7",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_Attack 2",
+        "event_array_offset": 4720,
+        "events": [
+          {
+            "seconds": 0.0,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 4,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.06666667014360428,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 3,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.1666666716337204,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 1,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.18333333730697632,
+            "function": "Attack_Func",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.2666666805744171,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 2,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.3333333432674408,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 3,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.4000000059604645,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 4,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.44999998807907104,
+            "function": "AttackAction_End",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          }
+        ]
+      },
+      "override": {
+        "file": "a1f486166be987c46ad178dd2b375185",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Attack 2",
+        "event_array_offset": 6656,
+        "events": [
+          {
+            "seconds": 0.0,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 4,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.06666667014360428,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 3,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.1666666716337204,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 1,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.18333333730697632,
+            "function": "Attack_Func",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.2666666805744171,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 2,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.3333333432674408,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 3,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.4000000059604645,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 4,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.4166666567325592,
+            "function": "AttackAction_End",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "file": "7302ed5435af046438c1a9a648d892ef",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_Attack 3",
+        "event_array_offset": 4480,
+        "events": [
+          {
+            "seconds": 0.01666666753590107,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 4,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.06666667014360428,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.1666666716337204,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 1,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.18333333730697632,
+            "function": "Attack_Func",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.25,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 2,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.3333333432674408,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 3,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.4000000059604645,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 4,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.5,
+            "function": "AttackAction_End",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          }
+        ]
+      },
+      "override": {
+        "file": "ee892751c5d5d1c4ca135654cce000ad",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Attack 3",
+        "event_array_offset": 6348,
+        "events": [
+          {
+            "seconds": 0.0,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 4,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.06666667014360428,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.1666666716337204,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 1,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.18333333730697632,
+            "function": "Attack_Func",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.25,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 2,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.3166666626930237,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 3,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.38333332538604736,
+            "function": "Animation_Atk_SpriteSetting",
+            "int_parameter": 4,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.46666666865348816,
+            "function": "AttackAction_End",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "file": "36eb0c15c7cdfe14b9133acc09c4cc04",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_BuffSkill"
+      },
+      "override": {
+        "file": "7fb46581607dd3e47ab3fb3a336166fd",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_BuffSkill"
+      }
+    },
+    {
+      "original": {
+        "file": "3314e944d79904f4bb2b7b1580bf45a8",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_Dead",
+        "event_array_offset": 4188,
+        "events": [
+          {
+            "seconds": 0.0,
+            "function": "Animation_Dead_SpriteSetting",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          }
+        ]
+      },
+      "override": {
+        "file": "03327a72bb9902b48b4fd3b585fafeaf",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Dead",
+        "event_array_offset": 4532,
+        "events": [
+          {
+            "seconds": 0.0,
+            "function": "Animation_Dead_SpriteSetting",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "file": "c5289a51971a0c046a2b4e55b0246762",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_Default",
+        "event_array_offset": 2508,
+        "events": []
+      },
+      "override": {
+        "file": "393a29e2d7c732b46b13aac76a181ca3",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Default",
+        "event_array_offset": 2508,
+        "events": []
+      }
+    },
+    {
+      "original": {
+        "file": "c23aeea500a885a4ba6d10a62e385c47",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_Hit",
+        "event_array_offset": 2696,
+        "events": []
+      },
+      "override": {
+        "file": "e2ae227ed86ce534e820c14d80d21ff3",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Hit",
+        "event_array_offset": 2696,
+        "events": []
+      }
+    },
+    {
+      "original": {
+        "file": "bb6cce525c78e6844a895f03c23c359f",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_Idle",
+        "event_array_offset": 3164,
+        "events": [
+          {
+            "seconds": 0.0,
+            "function": "Animation_Idle_SpriteSetting_Number",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.3333333432674408,
+            "function": "Animation_Idle_SpriteSetting_Number",
+            "int_parameter": 1,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.6666666865348816,
+            "function": "Animation_Idle_SpriteSetting_Number",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          }
+        ]
+      },
+      "override": {
+        "file": "f75aabc6b14288749bf642e6e0c87edd",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Idle",
+        "event_array_offset": 3996,
+        "events": [
+          {
+            "seconds": 0.0,
+            "function": "Animation_Idle_SpriteSetting_Number",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.3333333432674408,
+            "function": "Animation_Idle_SpriteSetting_Number",
+            "int_parameter": 1,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.6666666865348816,
+            "function": "Animation_Idle_SpriteSetting_Number",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "file": "1d92ca097fee2b64590e0e7c4cb3a5e2",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_Knockback"
+      },
+      "override": {
+        "file": "087fea8c6a4759a43a986b04836e019f",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Knockback"
+      }
+    },
+    {
+      "original": {
+        "file": "01304330ce1759c44b986613e0495864",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_Move",
+        "event_array_offset": 4120,
+        "events": [
+          {
+            "seconds": 0.0,
+            "function": "Animation_Walk_SpriteSetting",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.0833333358168602,
+            "function": "Animation_Walk_SpriteSetting",
+            "int_parameter": 1,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.1666666716337204,
+            "function": "Animation_Walk_SpriteSetting",
+            "int_parameter": 2,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.25,
+            "function": "Animation_Walk_SpriteSetting",
+            "int_parameter": 3,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.3333333432674408,
+            "function": "Animation_Walk_SpriteSetting",
+            "int_parameter": 4,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.4166666567325592,
+            "function": "Animation_Walk_SpriteSetting",
+            "int_parameter": 5,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.5,
+            "function": "Animation_Walk_SpriteSetting",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          }
+        ]
+      },
+      "override": {
+        "file": "8d67e1b7840c92544bc4eda660c56167",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Move",
+        "event_array_offset": 6824,
+        "events": [
+          {
+            "seconds": 0.0,
+            "function": "Animation_Walk_SpriteSetting",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.0833333358168602,
+            "function": "Animation_Walk_SpriteSetting",
+            "int_parameter": 1,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.1666666716337204,
+            "function": "Animation_Walk_SpriteSetting",
+            "int_parameter": 2,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.25,
+            "function": "Animation_Walk_SpriteSetting",
+            "int_parameter": 3,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.3333333432674408,
+            "function": "Animation_Walk_SpriteSetting",
+            "int_parameter": 4,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.4166666567325592,
+            "function": "Animation_Walk_SpriteSetting",
+            "int_parameter": 5,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          },
+          {
+            "seconds": 0.5,
+            "function": "Animation_Walk_SpriteSetting",
+            "int_parameter": 0,
+            "float_parameter": 0.0,
+            "string_parameter": "",
+            "object_parameter": null,
+            "message_options": 0
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "file": "33211dce57b920943aaceb636569b984",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_SkillAttack0"
+      },
+      "override": {
+        "file": "936a7346befdbff488f15c0d955481ae",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_SkillAttack0"
+      }
+    },
+    {
+      "original": {
+        "file": "279e353213b3ede48b2975501b6b8275",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_SkillAttack1"
+      },
+      "override": {
+        "file": "709d69cabd272e644a46e154a8b067c1",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_SkillAttack1"
+      }
+    },
+    {
+      "original": {
+        "file": "3545faa49aae58d40ab2bf07c66e5dbf",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_SkillAttack2"
+      },
+      "override": {
+        "file": "1953e868080150647bc88f0c09fd1349",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_SkillAttack2"
+      }
+    },
+    {
+      "original": {
+        "file": "d57ec87ec197ab94d9eb99dd37f37397",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_SkillAttack4"
+      },
+      "override": {
+        "file": "a67567f6ce3d86b4baed0c8bc153a322",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_SkillAttack4"
+      }
+    },
+    {
+      "original": {
+        "file": "91e6de90d2c95874285545db55ac8700",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_SkillAttack3"
+      },
+      "override": {
+        "file": "3cb5f6f0c1c223945a63e48fd8ebfa1a",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_SkillAttack3"
+      }
+    },
+    {
+      "original": {
+        "file": "f85404b2c4b78804eb304c035e6612fb",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_SkillAttack_Delay"
+      },
+      "override": {
+        "file": "f1a2265bf3cad0a459fce143c8712562",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_SkillAttack_Delay"
+      }
+    },
+    {
+      "original": {
+        "file": "c5f348b5c126f9f4d9eb28cf863039c3",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_SkillAttack_FastThrust"
+      },
+      "override": {
+        "file": "b79375c30b1b40f4c82625e24aac0253",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_SkillAttack_FastThrust"
+      }
+    },
+    {
+      "original": {
+        "file": "8a6262a733542074dab329395df1369c",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_SkillAttack_Delay1"
+      },
+      "override": {
+        "file": "8a046d93042bc524997b272a94e7f84e",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_SkillAttack_Delay1"
+      }
+    },
+    {
+      "original": {
+        "file": "6ca7c9879ad88ff46bb352528ec38c68",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_SkillCombo"
+      },
+      "override": {
+        "file": "e9ff9d6b65885734389dad7b1dc1a6c0",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_SkillCombo"
+      }
+    },
+    {
+      "original": {
+        "file": "d0d6702385ff7f34a97992f354f17cfc",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_SkillCombo2"
+      },
+      "override": {
+        "file": "ea1ab6eeac586bc43adc1ab2f922af47",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_SkillCombo2"
+      }
+    },
+    {
+      "original": {
+        "file": "f7ea88b61169fca489af9469e399717a",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_SkillCombo3"
+      },
+      "override": {
+        "file": "e36f074399f7589448c1b5ae07d6c4c3",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_SkillCombo3"
+      }
+    },
+    {
+      "original": {
+        "file": "69952d315a7815341a9813a7039ef21b",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_SkillCombo5"
+      },
+      "override": {
+        "file": "5218447893afad44687c2395cfe3668d",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_SkillCombo5"
+      }
+    },
+    {
+      "original": {
+        "file": "9f97dfede6dadc6409b193405bed2a81",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_SkillCombo7"
+      },
+      "override": {
+        "file": "39c94f159dd698c45907d68deedfdbfa",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_SkillCombo7"
+      }
+    },
+    {
+      "original": {
+        "file": "68c4d29fc0f5ae94791d751f5fe210ee",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_SkillWait"
+      },
+      "override": {
+        "file": "8cb73f89386f8914f8e2ceffb994d2ce",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_SkillWait"
+      }
+    },
+    {
+      "original": {
+        "file": "ae558432e14501344940ac3476baac25",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Player_Stun"
+      },
+      "override": {
+        "file": "33bd65d450d7dc24ea7999880fdde7d3",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Stun"
+      }
+    },
+    {
+      "original": {
+        "file": "8b4662edc9b8782408ffa998759fe2a2",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Attack_SwordFighting"
+      },
+      "override": {
+        "file": "8b4662edc9b8782408ffa998759fe2a2",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Attack_SwordFighting"
+      }
+    },
+    {
+      "original": {
+        "file": "9d8fab18c8015dd47af9e6ab52bd72e8",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Attack_SwordFightingEnd"
+      },
+      "override": {
+        "file": "9d8fab18c8015dd47af9e6ab52bd72e8",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Attack_SwordFightingEnd"
+      }
+    },
+    {
+      "original": {
+        "file": "c780468bc4104c34fbf136dc32b1fa21",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Attack Slow"
+      },
+      "override": {
+        "file": "c780468bc4104c34fbf136dc32b1fa21",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Attack Slow"
+      }
+    },
+    {
+      "original": {
+        "file": "090af5000e1c73a499fb8ad8c46fe839",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Attack Slow 2"
+      },
+      "override": {
+        "file": "090af5000e1c73a499fb8ad8c46fe839",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Attack Slow 2"
+      }
+    },
+    {
+      "original": {
+        "file": "387286c9ef5243b419e34e2bb88a3b66",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Attack Slow 2 End"
+      },
+      "override": {
+        "file": "387286c9ef5243b419e34e2bb88a3b66",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Attack Slow 2 End"
+      }
+    },
+    {
+      "original": {
+        "file": "3caea14fed983d54e993bc642b647a06",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Attack Slow End"
+      },
+      "override": {
+        "file": "3caea14fed983d54e993bc642b647a06",
+        "path_id": "1",
+        "class_id": 74,
+        "name": "Players_Attack Slow End"
+      }
+    }
+  ],
+  "core_clips_with_event_analysis": 16,
+  "core_event_count": 70
+}

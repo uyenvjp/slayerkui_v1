@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "DebuffType": 111,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0,
+    "AddScore": 100
+  },
+  {
+    "Id": 2,
+    "DebuffType": 109,
+    "DebuffIndex": 0,
+    "DebuffValue": 80.0,
+    "AddScore": 100
+  },
+  {
+    "Id": 3,
+    "DebuffType": 112,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0,
+    "AddScore": 100
+  },
+  {
+    "Id": 4,
+    "DebuffType": 106,
+    "DebuffIndex": 0,
+    "DebuffValue": 80.0,
+    "AddScore": 100
+  },
+  {
+    "Id": 5,
+    "DebuffType": 113,
+    "DebuffIndex": 0,
+    "DebuffValue": 10.0,
+    "AddScore": 100
+  },
+  {
+    "Id": 6,
+    "DebuffType": 108,
+    "DebuffIndex": 0,
+    "DebuffValue": 50.0,
+    "AddScore": 100
+  },
+  {
+    "Id": 7,
+    "DebuffType": 115,
+    "DebuffIndex": 0,
+    "DebuffValue": 5.0,
+    "AddScore": 100
+  },
+  {
+    "Id": 8,
+    "DebuffType": 114,
+    "DebuffIndex": 0,
+    "DebuffValue": 10.0,
+    "AddScore": 100
+  },
+  {
+    "Id": 9,
+    "DebuffType": 107,
+    "DebuffIndex": 0,
+    "DebuffValue": 90.0,
+    "AddScore": 100
+  },
+  {
+    "Id": 10,
+    "DebuffType": 116,
+    "DebuffIndex": 0,
+    "DebuffValue": 10.0,
+    "AddScore": 100
+  }
+]

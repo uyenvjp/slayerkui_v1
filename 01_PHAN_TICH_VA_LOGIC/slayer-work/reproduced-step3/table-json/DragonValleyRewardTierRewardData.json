@@ -1,0 +1,202 @@
+[
+  {
+    "Id": 1,
+    "Tier": 0,
+    "SubTier": 1,
+    "CurrencyTypes": [
+      130,
+      39,
+      1
+    ],
+    "CurrencyIndex": [
+      1008,
+      0,
+      0
+    ],
+    "Amounts": [
+      3,
+      2000,
+      5000
+    ]
+  },
+  {
+    "Id": 2,
+    "Tier": 0,
+    "SubTier": 2,
+    "CurrencyTypes": [
+      130,
+      39,
+      1
+    ],
+    "CurrencyIndex": [
+      1008,
+      0,
+      0
+    ],
+    "Amounts": [
+      3,
+      2500,
+      6000
+    ]
+  },
+  {
+    "Id": 3,
+    "Tier": 0,
+    "SubTier": 3,
+    "CurrencyTypes": [
+      130,
+      39,
+      1
+    ],
+    "CurrencyIndex": [
+      1008,
+      0,
+      0
+    ],
+    "Amounts": [
+      3,
+      3000,
+      7000
+    ]
+  },
+  {
+    "Id": 4,
+    "Tier": 1,
+    "SubTier": 1,
+    "CurrencyTypes": [
+      130,
+      39,
+      1
+    ],
+    "CurrencyIndex": [
+      1008,
+      0,
+      0
+    ],
+    "Amounts": [
+      5,
+      3500,
+      8000
+    ]
+  },
+  {
+    "Id": 5,
+    "Tier": 1,
+    "SubTier": 2,
+    "CurrencyTypes": [
+      130,
+      39,
+      1
+    ],
+    "CurrencyIndex": [
+      1008,
+      0,
+      0
+    ],
+    "Amounts": [
+      5,
+      4000,
+      9000
+    ]
+  },
+  {
+    "Id": 6,
+    "Tier": 1,
+    "SubTier": 3,
+    "CurrencyTypes": [
+      130,
+      39,
+      1
+    ],
+    "CurrencyIndex": [
+      1008,
+      0,
+      0
+    ],
+    "Amounts": [
+      5,
+      4500,
+      10000
+    ]
+  },
+  {
+    "Id": 7,
+    "Tier": 2,
+    "SubTier": 1,
+    "CurrencyTypes": [
+      130,
+      39,
+      1
+    ],
+    "CurrencyIndex": [
+      1008,
+      0,
+      0
+    ],
+    "Amounts": [
+      7,
+      5000,
+      12000
+    ]
+  },
+  {
+    "Id": 8,
+    "Tier": 2,
+    "SubTier": 2,
+    "CurrencyTypes": [
+      130,
+      39,
+      1
+    ],
+    "CurrencyIndex": [
+      1008,
+      0,
+      0
+    ],
+    "Amounts": [
+      7,
+      5500,
+      14000
+    ]
+  },
+  {
+    "Id": 9,
+    "Tier": 2,
+    "SubTier": 3,
+    "CurrencyTypes": [
+      130,
+      39,
+      1
+    ],
+    "CurrencyIndex": [
+      1008,
+      0,
+      0
+    ],
+    "Amounts": [
+      7,
+      6000,
+      16000
+    ]
+  },
+  {
+    "Id": 10,
+    "Tier": 3,
+    "SubTier": 1,
+    "CurrencyTypes": [
+      130,
+      39,
+      1
+    ],
+    "CurrencyIndex": [
+      1008,
+      0,
+      0
+    ],
+    "Amounts": [
+      10,
+      7000,
+      20000
+    ]
+  }
+]

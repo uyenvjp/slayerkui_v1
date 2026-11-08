@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x600a002",
+    "name": "<Save>b__5_0",
+    "declaring_type_index": "4198",
+    "declaring_type_full_name": "ServerPrefs+<>c",
+    "native_va": "0x51f1970",
+    "return_type_index": "59073",
+    "return_type_name": "bool",
+    "parameter_start": "11926",
+    "parameter_count": "1",
+    "flags": "131",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x9b87cc",
+    "end_va": "0x51f1984",
+    "asm_file": "ServerPrefs___c___Save_b__5_0_0x600a002.asm"
+  }
+]

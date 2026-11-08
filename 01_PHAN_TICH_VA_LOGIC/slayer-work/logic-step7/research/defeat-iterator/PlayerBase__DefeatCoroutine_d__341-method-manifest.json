@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x600748a",
+    "name": "MoveNext",
+    "declaring_type_index": "2894",
+    "declaring_type_full_name": "PlayerBase+<DefeatCoroutine>d__341",
+    "native_va": "0x4f095d8",
+    "return_type_index": "59073",
+    "return_type_name": "bool",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "481",
+    "iflags": "0",
+    "slot": "6",
+    "metadata_record_offset": "0x9618cc",
+    "end_va": "0x4f096cc",
+    "asm_file": "PlayerBase__DefeatCoroutine_d__341__MoveNext_0x600748a.asm"
+  }
+]

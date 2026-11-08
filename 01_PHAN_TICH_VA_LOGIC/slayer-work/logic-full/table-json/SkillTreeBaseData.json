@@ -1,0 +1,202 @@
+[
+  {
+    "Id": 0,
+    "Level": 10,
+    "Fire": 1,
+    "Water": 0,
+    "Wind": 0,
+    "Earth": 43
+  },
+  {
+    "Id": 1,
+    "Level": 15,
+    "Fire": 0,
+    "Water": 20,
+    "Wind": 30,
+    "Earth": 0
+  },
+  {
+    "Id": 2,
+    "Level": 20,
+    "Fire": 8,
+    "Water": 0,
+    "Wind": 0,
+    "Earth": 34
+  },
+  {
+    "Id": 3,
+    "Level": 25,
+    "Fire": 0,
+    "Water": 21,
+    "Wind": 23,
+    "Earth": 0
+  },
+  {
+    "Id": 4,
+    "Level": 30,
+    "Fire": 9,
+    "Water": 0,
+    "Wind": 0,
+    "Earth": 42
+  },
+  {
+    "Id": 5,
+    "Level": 35,
+    "Fire": 0,
+    "Water": 12,
+    "Wind": 31,
+    "Earth": 0
+  },
+  {
+    "Id": 6,
+    "Level": 40,
+    "Fire": 4,
+    "Water": 0,
+    "Wind": 28,
+    "Earth": 0
+  },
+  {
+    "Id": 7,
+    "Level": 45,
+    "Fire": 0,
+    "Water": 15,
+    "Wind": 0,
+    "Earth": 0
+  },
+  {
+    "Id": 8,
+    "Level": 50,
+    "Fire": 0,
+    "Water": 0,
+    "Wind": 26,
+    "Earth": 41
+  },
+  {
+    "Id": 9,
+    "Level": 60,
+    "Fire": 0,
+    "Water": 13,
+    "Wind": 0,
+    "Earth": 35
+  },
+  {
+    "Id": 10,
+    "Level": 70,
+    "Fire": 2,
+    "Water": 0,
+    "Wind": 24,
+    "Earth": 0
+  },
+  {
+    "Id": 11,
+    "Level": 80,
+    "Fire": 0,
+    "Water": 22,
+    "Wind": 0,
+    "Earth": 0
+  },
+  {
+    "Id": 12,
+    "Level": 90,
+    "Fire": 6,
+    "Water": 0,
+    "Wind": 32,
+    "Earth": 0
+  },
+  {
+    "Id": 13,
+    "Level": 100,
+    "Fire": 0,
+    "Water": 17,
+    "Wind": 0,
+    "Earth": 37
+  },
+  {
+    "Id": 14,
+    "Level": 120,
+    "Fire": 3,
+    "Water": 0,
+    "Wind": 0,
+    "Earth": 0
+  },
+  {
+    "Id": 15,
+    "Level": 140,
+    "Fire": 0,
+    "Water": 0,
+    "Wind": 25,
+    "Earth": 44
+  },
+  {
+    "Id": 16,
+    "Level": 160,
+    "Fire": 0,
+    "Water": 14,
+    "Wind": 0,
+    "Earth": 0
+  },
+  {
+    "Id": 17,
+    "Level": 180,
+    "Fire": 0,
+    "Water": 0,
+    "Wind": 0,
+    "Earth": 36
+  },
+  {
+    "Id": 18,
+    "Level": 200,
+    "Fire": 10,
+    "Water": 0,
+    "Wind": 27,
+    "Earth": 0
+  },
+  {
+    "Id": 19,
+    "Level": 250,
+    "Fire": 0,
+    "Water": 16,
+    "Wind": 0,
+    "Earth": 0
+  },
+  {
+    "Id": 20,
+    "Level": 300,
+    "Fire": 5,
+    "Water": 0,
+    "Wind": 33,
+    "Earth": 0
+  },
+  {
+    "Id": 21,
+    "Level": 350,
+    "Fire": 0,
+    "Water": 18,
+    "Wind": 0,
+    "Earth": 0
+  },
+  {
+    "Id": 22,
+    "Level": 400,
+    "Fire": 7,
+    "Water": 0,
+    "Wind": 0,
+    "Earth": 0
+  },
+  {
+    "Id": 23,
+    "Level": 450,
+    "Fire": 0,
+    "Water": 0,
+    "Wind": 29,
+    "Earth": 0
+  },
+  {
+    "Id": 24,
+    "Level": 500,
+    "Fire": 0,
+    "Water": 0,
+    "Wind": 0,
+    "Earth": 39
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "Id": 1,
+    "TotalHp": 6,
+    "LightProb": 5,
+    "PlayMissionRoundWhenQuit": 2,
+    "WinStreakScoreConst": 10,
+    "GaugeAddAmount": 7.5
+  }
+]

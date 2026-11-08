@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x60090b9",
+    "name": "SoulDivision",
+    "declaring_type_index": "3815",
+    "declaring_type_full_name": "EnemyNormal",
+    "native_va": "0x50fab10",
+    "return_type_index": "61798",
+    "return_type_name": "GrowSlayer.CurrencyTypes",
+    "parameter_start": "10558",
+    "parameter_count": "2",
+    "flags": "129",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x999eac",
+    "end_va": "0x50fac40",
+    "asm_file": "EnemyNormal__SoulDivision_0x60090b9.asm"
+  }
+]

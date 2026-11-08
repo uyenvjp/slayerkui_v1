@@ -1,0 +1,13 @@
+{
+  "pack": "hero",
+  "counts": {
+    "Texture2D": 239,
+    "Sprite": 5116
+  },
+  "texture_formats": {
+    "47": 239
+  },
+  "errors": [],
+  "unresolved": 0,
+  "elapsed_seconds": 15
+}

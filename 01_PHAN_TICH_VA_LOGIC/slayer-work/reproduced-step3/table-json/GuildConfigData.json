@@ -1,0 +1,21 @@
+[
+  {
+    "Id": 0,
+    "CreateDiamond": 10000,
+    "MasterAfkDay": 7,
+    "LeaveInterval": 300,
+    "MaxSubMasterCount": 3,
+    "MaxApplyCount": 5,
+    "MaxRequestCount": 30,
+    "BeastChangeLevel": 10,
+    "BeastChangeDiamond": 50000,
+    "GuildRaidSkillGetLevel": 10,
+    "GuildRaidSkillAwakenLevel": 20,
+    "GuildCoinFirstGive": 3000,
+    "CreatablePlayerClassIndex": 4,
+    "MiniGameOpenLevel": 6,
+    "MiniGameSettlementSecond": 600,
+    "GuildQuestOpenLevel": 9,
+    "GuildRaidOpenLevel": 10
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "passed": 72,
+  "contracts": 1,
+  "scope": "Native mode0 EnemyRemove/Enemy_Dead after linked HP/death/normal-loot, with explicit list/Unity/spawn/coroutine dependencies."
+}

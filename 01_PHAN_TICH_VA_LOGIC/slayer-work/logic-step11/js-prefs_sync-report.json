@@ -1,0 +1,7 @@
+{
+  "sequences": 192,
+  "actions": 768,
+  "callbackContracts": 4,
+  "signalCases": 4,
+  "scope": "Linked native sync/callback/signal/wait/dirty reset under explicit RPC and scheduler dependencies."
+}

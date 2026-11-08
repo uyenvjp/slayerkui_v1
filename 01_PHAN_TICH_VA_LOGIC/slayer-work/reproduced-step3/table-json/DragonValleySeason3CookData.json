@@ -1,0 +1,159 @@
+[
+  {
+    "Id": 1,
+    "CurrencyType": 6112,
+    "SearchOnly": false,
+    "Value": 1.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6001,
+      6010,
+      6005
+    ],
+    "MaterialCounts": [
+      150,
+      20,
+      1
+    ]
+  },
+  {
+    "Id": 2,
+    "CurrencyType": 6113,
+    "SearchOnly": false,
+    "Value": 7.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6001,
+      6012,
+      6005
+    ],
+    "MaterialCounts": [
+      150,
+      40,
+      1
+    ]
+  },
+  {
+    "Id": 3,
+    "CurrencyType": 6114,
+    "SearchOnly": true,
+    "Value": 5.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6001,
+      6010,
+      6011
+    ],
+    "MaterialCounts": [
+      100,
+      15,
+      120
+    ]
+  },
+  {
+    "Id": 4,
+    "CurrencyType": 6103,
+    "SearchOnly": false,
+    "Value": 3.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6001,
+      6010,
+      6011,
+      6005
+    ],
+    "MaterialCounts": [
+      50,
+      25,
+      80,
+      1
+    ]
+  },
+  {
+    "Id": 5,
+    "CurrencyType": 6104,
+    "SearchOnly": false,
+    "Value": 5.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6001,
+      6012,
+      6011
+    ],
+    "MaterialCounts": [
+      200,
+      30,
+      60
+    ]
+  },
+  {
+    "Id": 6,
+    "CurrencyType": 6105,
+    "SearchOnly": false,
+    "Value": 5.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6012,
+      6010,
+      6011
+    ],
+    "MaterialCounts": [
+      30,
+      20,
+      60
+    ]
+  },
+  {
+    "Id": 7,
+    "CurrencyType": 6106,
+    "SearchOnly": false,
+    "Value": 5.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6001,
+      6012,
+      6010
+    ],
+    "MaterialCounts": [
+      150,
+      50,
+      15
+    ]
+  },
+  {
+    "Id": 8,
+    "CurrencyType": 6107,
+    "SearchOnly": false,
+    "Value": 5.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6012,
+      6011,
+      6005
+    ],
+    "MaterialCounts": [
+      30,
+      50,
+      2
+    ]
+  },
+  {
+    "Id": 9,
+    "CurrencyType": 6115,
+    "SearchOnly": true,
+    "Value": 5.0,
+    "MaxAwaken": 5,
+    "MaterialCurrencyTypes": [
+      6012,
+      6010,
+      6011,
+      6005
+    ],
+    "MaterialCounts": [
+      15,
+      10,
+      120,
+      1
+    ]
+  }
+]

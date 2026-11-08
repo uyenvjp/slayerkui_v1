@@ -1,0 +1,58 @@
+{
+  "source_metadata_sha256": "0f0c21c82432adab3421ea6c82e2662b032a8fc2fc17f81defe166b2ce294c46",
+  "native_sha256": "e87f69d8f2eeb24b10cf5a211dc2f573ac7ca002dc4cbe4d40d03ea3ec888537",
+  "recovery_status": "partial; no valid fully decrypted metadata header; no complete C# source or H5 build",
+  "type_definitions": 32782,
+  "type_names_readable": 28032,
+  "fields": 187282,
+  "field_names_readable": 160709,
+  "parameters": 215457,
+  "parameter_names_readable": 115886,
+  "native_types": 127861,
+  "method_records_four_modules": 113720,
+  "modules": {
+    "Assembly-CSharp-firstpass.dll": {
+      "records": 448,
+      "names_readable": 250,
+      "named_nonzero_native_pointers": 250
+    },
+    "Assembly-CSharp.dll": {
+      "records": 65440,
+      "names_readable": 30045,
+      "named_nonzero_native_pointers": 29519
+    },
+    "GrowSlayer.DataTableClient.dll": {
+      "records": 9801,
+      "names_readable": 8009,
+      "named_nonzero_native_pointers": 7152
+    },
+    "GrowSlayer.ProtoGenScripts.dll": {
+      "records": 38031,
+      "names_readable": 22167,
+      "named_nonzero_native_pointers": 22166
+    }
+  },
+  "verified_method_type_ranges": 113720,
+  "invalid_method_type_ranges": 0,
+  "layout": {
+    "string_heap": "0x1c4918",
+    "method_table": "0x8787ac",
+    "method_stride": 32,
+    "parameter_table": "0x12f75f0",
+    "parameter_stride": 12,
+    "field_table": "0x156e97c",
+    "field_stride": 12,
+    "type_definition_table": "0x198084c",
+    "type_stride": 82,
+    "metadata_registration": "0xa142998",
+    "code_registration": "0x9d722c0",
+    "type_definition_count_matches_native_field_offsets_count": true
+  },
+  "notes": [
+    "Null names are still inside the protected prefix or otherwise fail string validation.",
+    "Native_va=0 is not evidence that a function has no implementation; generic sharing and AOT stripping must be examined.",
+    "IFix dispatch can replace selected native baselines; active patch contents have not been recovered.",
+    "Field offsets include instance and static offsets: inspect is_static before use.",
+    "No supplied binary was executed."
+  ]
+}

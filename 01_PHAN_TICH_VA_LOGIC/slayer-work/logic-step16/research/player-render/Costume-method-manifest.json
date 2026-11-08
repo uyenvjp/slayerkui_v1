@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x600b16e",
+    "name": ".ctor",
+    "declaring_type_index": "4932",
+    "declaring_type_full_name": "Costume",
+    "native_va": "0x534d7ec",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "14373",
+    "parameter_count": "1",
+    "flags": "6278",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x9db54c",
+    "end_va": "0x534d9c4",
+    "asm_file": "Costume__.ctor_0x600b16e.asm"
+  }
+]

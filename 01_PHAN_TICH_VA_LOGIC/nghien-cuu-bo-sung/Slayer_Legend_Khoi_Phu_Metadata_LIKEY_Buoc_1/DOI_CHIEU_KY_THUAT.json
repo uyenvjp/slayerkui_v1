@@ -1,0 +1,43 @@
+{
+  "source": "Slayer Legend XAPK 700.0.4 / global-metadata.dat",
+  "source_bytes": 33085012,
+  "source_sha256": "0f0c21c82432adab3421ea6c82e2662b032a8fc2fc17f81defe166b2ce294c46",
+  "prefix_hex": "4c494b45597f0000",
+  "xor_key_hex": "434445464748494a",
+  "transform": "output[i] = source[i] XOR key[i % 8] for all bytes (partial transformation; header and early encrypted area still invalid)",
+  "output_sha256": "7cb188859da11aa686cba66937039e5fd14a59d87117526b5f16e3f79fb70818",
+  "confirmed_strings": {
+    "Xls_Skill": {
+      "offset_hex": "0027D8D9",
+      "string": "Xls_Skill"
+    },
+    "Xls_AdventureInfo": {
+      "offset_hex": "0027CB1A",
+      "string": "Xls_AdventureInfo"
+    },
+    "GameManager-GoldAmount_Cal": {
+      "offset_hex": "00362324",
+      "string": "GameManager-GoldAmount_Cal0"
+    },
+    "Xls_WeaponSkin": {
+      "offset_hex": "0027E1B7",
+      "string": "Xls_WeaponSkin"
+    },
+    "SoulWeapon": {
+      "offset_hex": "0023B509",
+      "string": "REFINE_SOULWEAPON"
+    },
+    "BLACKORB": {
+      "offset_hex": "00239689",
+      "string": "BLACKORB_KEY"
+    },
+    "SkillName": {
+      "offset_hex": "002796D4",
+      "string": "txtSkillName"
+    }
+  },
+  "game_related_ascii_candidates": 35298,
+  "xls_table_names": 100,
+  "metadata_header_recovered": false,
+  "ready_for_Il2CppDumper": false
+}

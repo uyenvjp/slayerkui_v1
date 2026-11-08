@@ -1,0 +1,23 @@
+{
+  "status": "Metadata and embedded game tables decoded; gameplay logic analysis incomplete; H5 not built or hosted",
+  "types": 32782,
+  "named_types": 32782,
+  "fields": 187282,
+  "named_fields": 187282,
+  "method_records": 252578,
+  "assemblies": 182,
+  "distinct_named_nonzero_native_addresses": 230746,
+  "decoded_tables": 423,
+  "parsed_tables": 423,
+  "parsed_rows": 44777,
+  "decoded_metadata_sha256": "670133f0efe52104a72c582a79139b33f238c5dc43c2999cdbb8ce7c0aad3e20",
+  "generated_assets": 0,
+  "apk_or_native_code_executed": false,
+  "website_deployed": false,
+  "remaining": [
+    "Translate full combat/stat/skill/progression pipelines",
+    "Resolve IFix patch contents or explicitly delimit unpatched baseline",
+    "Reconcile server-dependent behavior",
+    "Only then build offline H5 with original assets and verify mobile/desktop"
+  ]
+}

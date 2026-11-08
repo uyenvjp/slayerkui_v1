@@ -1,0 +1,19 @@
+[
+  {
+    "Id": 0,
+    "Currency": 1,
+    "Cost": 1,
+    "TimeReduceValue": 1,
+    "AD_DailyCount": 4,
+    "AD_TimeReduceValue": 60,
+    "AD_CoolTime": 5,
+    "ResonateOpenLevel": 16,
+    "AwakenOpenLevel": 20,
+    "DmgTypeFilterOpenLevel": 20,
+    "HaveValueOpenLevel": 24,
+    "InheritOpenLevel": 24,
+    "AwakenResetCurrencyType": 1,
+    "AwakenResetCurrencyAmount": 3000,
+    "AwakenRewardBlackShardCount": 3
+  }
+]

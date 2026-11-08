@@ -1,0 +1,68 @@
+[
+  {
+    "Id": 0,
+    "NeedNutCount": 1,
+    "NeedSuperNutCount": 1,
+    "Prob": 85
+  },
+  {
+    "Id": 1,
+    "NeedNutCount": 1,
+    "NeedSuperNutCount": 1,
+    "Prob": 80
+  },
+  {
+    "Id": 2,
+    "NeedNutCount": 1,
+    "NeedSuperNutCount": 1,
+    "Prob": 75
+  },
+  {
+    "Id": 3,
+    "NeedNutCount": 1,
+    "NeedSuperNutCount": 1,
+    "Prob": 70
+  },
+  {
+    "Id": 4,
+    "NeedNutCount": 1,
+    "NeedSuperNutCount": 1,
+    "Prob": 65
+  },
+  {
+    "Id": 5,
+    "NeedNutCount": 1,
+    "NeedSuperNutCount": 1,
+    "Prob": 60
+  },
+  {
+    "Id": 6,
+    "NeedNutCount": 1,
+    "NeedSuperNutCount": 1,
+    "Prob": 50
+  },
+  {
+    "Id": 7,
+    "NeedNutCount": 1,
+    "NeedSuperNutCount": 1,
+    "Prob": 40
+  },
+  {
+    "Id": 8,
+    "NeedNutCount": 1,
+    "NeedSuperNutCount": 1,
+    "Prob": 30
+  },
+  {
+    "Id": 9,
+    "NeedNutCount": 1,
+    "NeedSuperNutCount": 1,
+    "Prob": 20
+  },
+  {
+    "Id": 10,
+    "NeedNutCount": 0,
+    "NeedSuperNutCount": 0,
+    "Prob": 0
+  }
+]

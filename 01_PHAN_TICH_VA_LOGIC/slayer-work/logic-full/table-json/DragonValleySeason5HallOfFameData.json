@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Season": 1,
+    "InfoType": [
+      1,
+      2
+    ]
+  },
+  {
+    "Id": 2,
+    "Season": 2,
+    "InfoType": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "Id": 3,
+    "Season": 3,
+    "InfoType": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "Id": 5,
+    "Season": 4,
+    "InfoType": [
+      1,
+      2,
+      5
+    ]
+  }
+]

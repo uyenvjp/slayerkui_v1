@@ -1,0 +1,218 @@
+[
+  {
+    "Id": 1,
+    "CurrencyType": 102,
+    "CurrencyIndex": 1,
+    "CurrencyAmount": 100
+  },
+  {
+    "Id": 2,
+    "CurrencyType": 102,
+    "CurrencyIndex": 2,
+    "CurrencyAmount": 25
+  },
+  {
+    "Id": 3,
+    "CurrencyType": 102,
+    "CurrencyIndex": 3,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 4,
+    "CurrencyType": 102,
+    "CurrencyIndex": 4,
+    "CurrencyAmount": 60
+  },
+  {
+    "Id": 5,
+    "CurrencyType": 102,
+    "CurrencyIndex": 5,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 6,
+    "CurrencyType": 102,
+    "CurrencyIndex": 6,
+    "CurrencyAmount": 5
+  },
+  {
+    "Id": 7,
+    "CurrencyType": 102,
+    "CurrencyIndex": 8,
+    "CurrencyAmount": 100
+  },
+  {
+    "Id": 8,
+    "CurrencyType": 102,
+    "CurrencyIndex": 9,
+    "CurrencyAmount": 25
+  },
+  {
+    "Id": 9,
+    "CurrencyType": 102,
+    "CurrencyIndex": 10,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 10,
+    "CurrencyType": 102,
+    "CurrencyIndex": 12,
+    "CurrencyAmount": 100
+  },
+  {
+    "Id": 11,
+    "CurrencyType": 102,
+    "CurrencyIndex": 13,
+    "CurrencyAmount": 60
+  },
+  {
+    "Id": 12,
+    "CurrencyType": 102,
+    "CurrencyIndex": 14,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 13,
+    "CurrencyType": 102,
+    "CurrencyIndex": 15,
+    "CurrencyAmount": 25
+  },
+  {
+    "Id": 14,
+    "CurrencyType": 102,
+    "CurrencyIndex": 16,
+    "CurrencyAmount": 100
+  },
+  {
+    "Id": 15,
+    "CurrencyType": 102,
+    "CurrencyIndex": 17,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 16,
+    "CurrencyType": 102,
+    "CurrencyIndex": 20,
+    "CurrencyAmount": 25
+  },
+  {
+    "Id": 17,
+    "CurrencyType": 102,
+    "CurrencyIndex": 21,
+    "CurrencyAmount": 5
+  },
+  {
+    "Id": 18,
+    "CurrencyType": 102,
+    "CurrencyIndex": 22,
+    "CurrencyAmount": 5
+  },
+  {
+    "Id": 19,
+    "CurrencyType": 102,
+    "CurrencyIndex": 23,
+    "CurrencyAmount": 100
+  },
+  {
+    "Id": 20,
+    "CurrencyType": 102,
+    "CurrencyIndex": 24,
+    "CurrencyAmount": 25
+  },
+  {
+    "Id": 21,
+    "CurrencyType": 102,
+    "CurrencyIndex": 25,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 22,
+    "CurrencyType": 102,
+    "CurrencyIndex": 26,
+    "CurrencyAmount": 60
+  },
+  {
+    "Id": 23,
+    "CurrencyType": 102,
+    "CurrencyIndex": 27,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 24,
+    "CurrencyType": 102,
+    "CurrencyIndex": 28,
+    "CurrencyAmount": 5
+  },
+  {
+    "Id": 25,
+    "CurrencyType": 102,
+    "CurrencyIndex": 30,
+    "CurrencyAmount": 25
+  },
+  {
+    "Id": 26,
+    "CurrencyType": 102,
+    "CurrencyIndex": 31,
+    "CurrencyAmount": 5
+  },
+  {
+    "Id": 27,
+    "CurrencyType": 102,
+    "CurrencyIndex": 32,
+    "CurrencyAmount": 60
+  },
+  {
+    "Id": 28,
+    "CurrencyType": 102,
+    "CurrencyIndex": 34,
+    "CurrencyAmount": 100
+  },
+  {
+    "Id": 29,
+    "CurrencyType": 102,
+    "CurrencyIndex": 35,
+    "CurrencyAmount": 60
+  },
+  {
+    "Id": 30,
+    "CurrencyType": 102,
+    "CurrencyIndex": 36,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 31,
+    "CurrencyType": 102,
+    "CurrencyIndex": 37,
+    "CurrencyAmount": 60
+  },
+  {
+    "Id": 32,
+    "CurrencyType": 102,
+    "CurrencyIndex": 38,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 33,
+    "CurrencyType": 102,
+    "CurrencyIndex": 41,
+    "CurrencyAmount": 5
+  },
+  {
+    "Id": 34,
+    "CurrencyType": 102,
+    "CurrencyIndex": 42,
+    "CurrencyAmount": 25
+  },
+  {
+    "Id": 35,
+    "CurrencyType": 102,
+    "CurrencyIndex": 43,
+    "CurrencyAmount": 100
+  },
+  {
+    "Id": 36,
+    "CurrencyType": 102,
+    "CurrencyIndex": 44,
+    "CurrencyAmount": 5
+  }
+]

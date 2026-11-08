@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6000b57",
+    "name": "MoveNext",
+    "declaring_type_index": "447",
+    "declaring_type_full_name": "APIManager+<>c__DisplayClass162_0+<<SetClientData>b__0>d",
+    "native_va": "0x51ce4fc",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "481",
+    "iflags": "0",
+    "slot": "4",
+    "metadata_record_offset": "0x88f26c",
+    "end_va": "0x51ce880",
+    "asm_file": "APIManager___c__DisplayClass162_0___SetClientData_b__0_d__MoveNext_0x6000b57.asm"
+  }
+]

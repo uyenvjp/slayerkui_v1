@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x600aa8c",
+    "name": "<Button_EnterPrologue>b__106_0",
+    "declaring_type_index": "4687",
+    "declaring_type_full_name": "SignManager+<>c",
+    "native_va": "0x52a597c",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "131",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x9cd90c",
+    "end_va": "0x52a5a08",
+    "asm_file": "SignManager___c___Button_EnterPrologue_b__106_0_0x600aa8c.asm"
+  },
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x600aa8d",
+    "name": "<Button_EnterGameScene>b__107_0",
+    "declaring_type_index": "4687",
+    "declaring_type_full_name": "SignManager+<>c",
+    "native_va": "0x52a5a08",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "4294967295",
+    "parameter_count": "0",
+    "flags": "131",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x9cd92c",
+    "end_va": "0x52a5a94",
+    "asm_file": "SignManager___c___Button_EnterGameScene_b__107_0_0x600aa8d.asm"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "cases": 64,
+  "connected_sequences": 3,
+  "sequence_actions": 9,
+  "instruction_steps": 16362,
+  "distinct_instructions": 273,
+  "scope": "Original GetSyncExp/UserExp setters -> APIManager.LevelUp -> AddRequest -> RequestData.Create selected api13 path. Cached UserExp identity/queued payload/delegate reference and effects checked. Allocation/constructors, delegate construction, loading HashSet, AcquireItems sink and queue storage explicitly modeled; no queue processing/serialization/transport/async response or full acquisition parity."
+}

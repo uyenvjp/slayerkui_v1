@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 0,
+    "Name": "SKIN_EARRING_000",
+    "GetType": 0,
+    "QuestType": 0,
+    "GetTypeIndex": 0,
+    "NeedValue": 0,
+    "Lock": false,
+    "OptionType": 0,
+    "OptionValue": 0,
+    "Gender": 2,
+    "SlotIndex": 0,
+    "Event": false,
+    "Sale": false,
+    "PurchaseType": 0,
+    "PurchasePrice": 0,
+    "SiblingIndex": 4,
+    "Zvalue": -0.014999999664723873,
+    "SkinGrade": 0
+  }
+]

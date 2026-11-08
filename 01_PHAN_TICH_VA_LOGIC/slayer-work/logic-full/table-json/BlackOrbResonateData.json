@@ -1,0 +1,968 @@
+[
+  {
+    "Id": 1,
+    "TotalLevel": 50,
+    "AtkAdd": 0,
+    "HpAdd": 3,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 2,
+    "TotalLevel": 52,
+    "AtkAdd": 0,
+    "HpAdd": 3,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 3,
+    "TotalLevel": 54,
+    "AtkAdd": 3,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 4,
+    "TotalLevel": 56,
+    "AtkAdd": 0,
+    "HpAdd": 3,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 5,
+    "TotalLevel": 58,
+    "AtkAdd": 0,
+    "HpAdd": 3,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 6,
+    "TotalLevel": 60,
+    "AtkAdd": 3,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 7,
+    "TotalLevel": 62,
+    "AtkAdd": 0,
+    "HpAdd": 3,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 8,
+    "TotalLevel": 64,
+    "AtkAdd": 0,
+    "HpAdd": 3,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 9,
+    "TotalLevel": 66,
+    "AtkAdd": 3,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 10,
+    "TotalLevel": 68,
+    "AtkAdd": 0,
+    "HpAdd": 3,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 11,
+    "TotalLevel": 70,
+    "AtkAdd": 0,
+    "HpAdd": 3,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 12,
+    "TotalLevel": 72,
+    "AtkAdd": 0,
+    "HpAdd": 0,
+    "AllDamageAdd": 2
+  },
+  {
+    "Id": 13,
+    "TotalLevel": 74,
+    "AtkAdd": 0,
+    "HpAdd": 3,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 14,
+    "TotalLevel": 76,
+    "AtkAdd": 0,
+    "HpAdd": 3,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 15,
+    "TotalLevel": 78,
+    "AtkAdd": 3,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 16,
+    "TotalLevel": 80,
+    "AtkAdd": 0,
+    "HpAdd": 3,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 17,
+    "TotalLevel": 82,
+    "AtkAdd": 0,
+    "HpAdd": 3,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 18,
+    "TotalLevel": 84,
+    "AtkAdd": 3,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 19,
+    "TotalLevel": 86,
+    "AtkAdd": 0,
+    "HpAdd": 3,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 20,
+    "TotalLevel": 88,
+    "AtkAdd": 0,
+    "HpAdd": 3,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 21,
+    "TotalLevel": 90,
+    "AtkAdd": 3,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 22,
+    "TotalLevel": 92,
+    "AtkAdd": 0,
+    "HpAdd": 3,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 23,
+    "TotalLevel": 94,
+    "AtkAdd": 0,
+    "HpAdd": 3,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 24,
+    "TotalLevel": 96,
+    "AtkAdd": 0,
+    "HpAdd": 0,
+    "AllDamageAdd": 2
+  },
+  {
+    "Id": 25,
+    "TotalLevel": 98,
+    "AtkAdd": 0,
+    "HpAdd": 5,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 26,
+    "TotalLevel": 100,
+    "AtkAdd": 0,
+    "HpAdd": 5,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 27,
+    "TotalLevel": 102,
+    "AtkAdd": 3,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 28,
+    "TotalLevel": 104,
+    "AtkAdd": 0,
+    "HpAdd": 5,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 29,
+    "TotalLevel": 106,
+    "AtkAdd": 0,
+    "HpAdd": 5,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 30,
+    "TotalLevel": 108,
+    "AtkAdd": 3,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 31,
+    "TotalLevel": 110,
+    "AtkAdd": 0,
+    "HpAdd": 5,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 32,
+    "TotalLevel": 112,
+    "AtkAdd": 0,
+    "HpAdd": 5,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 33,
+    "TotalLevel": 114,
+    "AtkAdd": 3,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 34,
+    "TotalLevel": 116,
+    "AtkAdd": 0,
+    "HpAdd": 5,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 35,
+    "TotalLevel": 118,
+    "AtkAdd": 0,
+    "HpAdd": 5,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 36,
+    "TotalLevel": 120,
+    "AtkAdd": 0,
+    "HpAdd": 0,
+    "AllDamageAdd": 2
+  },
+  {
+    "Id": 37,
+    "TotalLevel": 122,
+    "AtkAdd": 0,
+    "HpAdd": 5,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 38,
+    "TotalLevel": 124,
+    "AtkAdd": 0,
+    "HpAdd": 5,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 39,
+    "TotalLevel": 126,
+    "AtkAdd": 3,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 40,
+    "TotalLevel": 128,
+    "AtkAdd": 0,
+    "HpAdd": 5,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 41,
+    "TotalLevel": 130,
+    "AtkAdd": 0,
+    "HpAdd": 5,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 42,
+    "TotalLevel": 132,
+    "AtkAdd": 3,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 43,
+    "TotalLevel": 134,
+    "AtkAdd": 0,
+    "HpAdd": 5,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 44,
+    "TotalLevel": 136,
+    "AtkAdd": 0,
+    "HpAdd": 5,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 45,
+    "TotalLevel": 138,
+    "AtkAdd": 3,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 46,
+    "TotalLevel": 140,
+    "AtkAdd": 0,
+    "HpAdd": 5,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 47,
+    "TotalLevel": 142,
+    "AtkAdd": 0,
+    "HpAdd": 5,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 48,
+    "TotalLevel": 144,
+    "AtkAdd": 0,
+    "HpAdd": 0,
+    "AllDamageAdd": 2
+  },
+  {
+    "Id": 49,
+    "TotalLevel": 146,
+    "AtkAdd": 0,
+    "HpAdd": 7,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 50,
+    "TotalLevel": 148,
+    "AtkAdd": 0,
+    "HpAdd": 7,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 51,
+    "TotalLevel": 150,
+    "AtkAdd": 4,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 52,
+    "TotalLevel": 152,
+    "AtkAdd": 0,
+    "HpAdd": 7,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 53,
+    "TotalLevel": 154,
+    "AtkAdd": 0,
+    "HpAdd": 7,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 54,
+    "TotalLevel": 156,
+    "AtkAdd": 4,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 55,
+    "TotalLevel": 158,
+    "AtkAdd": 0,
+    "HpAdd": 7,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 56,
+    "TotalLevel": 160,
+    "AtkAdd": 0,
+    "HpAdd": 7,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 57,
+    "TotalLevel": 162,
+    "AtkAdd": 4,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 58,
+    "TotalLevel": 164,
+    "AtkAdd": 0,
+    "HpAdd": 7,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 59,
+    "TotalLevel": 166,
+    "AtkAdd": 0,
+    "HpAdd": 7,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 60,
+    "TotalLevel": 168,
+    "AtkAdd": 0,
+    "HpAdd": 0,
+    "AllDamageAdd": 2
+  },
+  {
+    "Id": 61,
+    "TotalLevel": 170,
+    "AtkAdd": 0,
+    "HpAdd": 7,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 62,
+    "TotalLevel": 172,
+    "AtkAdd": 0,
+    "HpAdd": 7,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 63,
+    "TotalLevel": 174,
+    "AtkAdd": 4,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 64,
+    "TotalLevel": 176,
+    "AtkAdd": 0,
+    "HpAdd": 7,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 65,
+    "TotalLevel": 178,
+    "AtkAdd": 0,
+    "HpAdd": 7,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 66,
+    "TotalLevel": 180,
+    "AtkAdd": 4,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 67,
+    "TotalLevel": 182,
+    "AtkAdd": 0,
+    "HpAdd": 7,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 68,
+    "TotalLevel": 184,
+    "AtkAdd": 0,
+    "HpAdd": 7,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 69,
+    "TotalLevel": 186,
+    "AtkAdd": 4,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 70,
+    "TotalLevel": 188,
+    "AtkAdd": 0,
+    "HpAdd": 7,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 71,
+    "TotalLevel": 190,
+    "AtkAdd": 0,
+    "HpAdd": 7,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 72,
+    "TotalLevel": 192,
+    "AtkAdd": 0,
+    "HpAdd": 0,
+    "AllDamageAdd": 2
+  },
+  {
+    "Id": 73,
+    "TotalLevel": 194,
+    "AtkAdd": 0,
+    "HpAdd": 10,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 74,
+    "TotalLevel": 196,
+    "AtkAdd": 0,
+    "HpAdd": 10,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 75,
+    "TotalLevel": 198,
+    "AtkAdd": 5,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 76,
+    "TotalLevel": 200,
+    "AtkAdd": 0,
+    "HpAdd": 10,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 77,
+    "TotalLevel": 202,
+    "AtkAdd": 0,
+    "HpAdd": 10,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 78,
+    "TotalLevel": 204,
+    "AtkAdd": 5,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 79,
+    "TotalLevel": 206,
+    "AtkAdd": 0,
+    "HpAdd": 10,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 80,
+    "TotalLevel": 208,
+    "AtkAdd": 0,
+    "HpAdd": 10,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 81,
+    "TotalLevel": 210,
+    "AtkAdd": 5,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 82,
+    "TotalLevel": 212,
+    "AtkAdd": 0,
+    "HpAdd": 10,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 83,
+    "TotalLevel": 214,
+    "AtkAdd": 0,
+    "HpAdd": 10,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 84,
+    "TotalLevel": 216,
+    "AtkAdd": 0,
+    "HpAdd": 0,
+    "AllDamageAdd": 2
+  },
+  {
+    "Id": 85,
+    "TotalLevel": 218,
+    "AtkAdd": 0,
+    "HpAdd": 10,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 86,
+    "TotalLevel": 220,
+    "AtkAdd": 0,
+    "HpAdd": 10,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 87,
+    "TotalLevel": 222,
+    "AtkAdd": 5,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 88,
+    "TotalLevel": 224,
+    "AtkAdd": 0,
+    "HpAdd": 10,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 89,
+    "TotalLevel": 226,
+    "AtkAdd": 0,
+    "HpAdd": 10,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 90,
+    "TotalLevel": 228,
+    "AtkAdd": 5,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 91,
+    "TotalLevel": 230,
+    "AtkAdd": 0,
+    "HpAdd": 10,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 92,
+    "TotalLevel": 232,
+    "AtkAdd": 0,
+    "HpAdd": 10,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 93,
+    "TotalLevel": 234,
+    "AtkAdd": 5,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 94,
+    "TotalLevel": 236,
+    "AtkAdd": 0,
+    "HpAdd": 10,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 95,
+    "TotalLevel": 238,
+    "AtkAdd": 0,
+    "HpAdd": 10,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 96,
+    "TotalLevel": 240,
+    "AtkAdd": 0,
+    "HpAdd": 0,
+    "AllDamageAdd": 2
+  },
+  {
+    "Id": 97,
+    "TotalLevel": 242,
+    "AtkAdd": 0,
+    "HpAdd": 15,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 98,
+    "TotalLevel": 244,
+    "AtkAdd": 0,
+    "HpAdd": 15,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 99,
+    "TotalLevel": 246,
+    "AtkAdd": 5,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 100,
+    "TotalLevel": 248,
+    "AtkAdd": 0,
+    "HpAdd": 15,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 101,
+    "TotalLevel": 250,
+    "AtkAdd": 0,
+    "HpAdd": 15,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 102,
+    "TotalLevel": 252,
+    "AtkAdd": 5,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 103,
+    "TotalLevel": 254,
+    "AtkAdd": 0,
+    "HpAdd": 15,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 104,
+    "TotalLevel": 256,
+    "AtkAdd": 0,
+    "HpAdd": 15,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 105,
+    "TotalLevel": 258,
+    "AtkAdd": 5,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 106,
+    "TotalLevel": 260,
+    "AtkAdd": 0,
+    "HpAdd": 15,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 107,
+    "TotalLevel": 262,
+    "AtkAdd": 0,
+    "HpAdd": 15,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 108,
+    "TotalLevel": 264,
+    "AtkAdd": 0,
+    "HpAdd": 0,
+    "AllDamageAdd": 2
+  },
+  {
+    "Id": 109,
+    "TotalLevel": 266,
+    "AtkAdd": 0,
+    "HpAdd": 15,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 110,
+    "TotalLevel": 268,
+    "AtkAdd": 0,
+    "HpAdd": 15,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 111,
+    "TotalLevel": 270,
+    "AtkAdd": 5,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 112,
+    "TotalLevel": 272,
+    "AtkAdd": 0,
+    "HpAdd": 15,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 113,
+    "TotalLevel": 274,
+    "AtkAdd": 0,
+    "HpAdd": 15,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 114,
+    "TotalLevel": 276,
+    "AtkAdd": 5,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 115,
+    "TotalLevel": 278,
+    "AtkAdd": 0,
+    "HpAdd": 15,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 116,
+    "TotalLevel": 280,
+    "AtkAdd": 0,
+    "HpAdd": 15,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 117,
+    "TotalLevel": 282,
+    "AtkAdd": 5,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 118,
+    "TotalLevel": 284,
+    "AtkAdd": 0,
+    "HpAdd": 15,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 119,
+    "TotalLevel": 286,
+    "AtkAdd": 0,
+    "HpAdd": 15,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 120,
+    "TotalLevel": 288,
+    "AtkAdd": 0,
+    "HpAdd": 0,
+    "AllDamageAdd": 2
+  },
+  {
+    "Id": 121,
+    "TotalLevel": 290,
+    "AtkAdd": 0,
+    "HpAdd": 20,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 122,
+    "TotalLevel": 292,
+    "AtkAdd": 0,
+    "HpAdd": 20,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 123,
+    "TotalLevel": 294,
+    "AtkAdd": 5,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 124,
+    "TotalLevel": 296,
+    "AtkAdd": 0,
+    "HpAdd": 20,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 125,
+    "TotalLevel": 298,
+    "AtkAdd": 0,
+    "HpAdd": 20,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 126,
+    "TotalLevel": 300,
+    "AtkAdd": 5,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 127,
+    "TotalLevel": 302,
+    "AtkAdd": 0,
+    "HpAdd": 20,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 128,
+    "TotalLevel": 304,
+    "AtkAdd": 0,
+    "HpAdd": 20,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 129,
+    "TotalLevel": 306,
+    "AtkAdd": 5,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 130,
+    "TotalLevel": 308,
+    "AtkAdd": 0,
+    "HpAdd": 20,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 131,
+    "TotalLevel": 310,
+    "AtkAdd": 0,
+    "HpAdd": 20,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 132,
+    "TotalLevel": 312,
+    "AtkAdd": 0,
+    "HpAdd": 0,
+    "AllDamageAdd": 2
+  },
+  {
+    "Id": 133,
+    "TotalLevel": 314,
+    "AtkAdd": 0,
+    "HpAdd": 20,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 134,
+    "TotalLevel": 316,
+    "AtkAdd": 0,
+    "HpAdd": 20,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 135,
+    "TotalLevel": 318,
+    "AtkAdd": 5,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 136,
+    "TotalLevel": 320,
+    "AtkAdd": 0,
+    "HpAdd": 20,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 137,
+    "TotalLevel": 322,
+    "AtkAdd": 0,
+    "HpAdd": 20,
+    "AllDamageAdd": 0
+  },
+  {
+    "Id": 138,
+    "TotalLevel": 324,
+    "AtkAdd": 5,
+    "HpAdd": 0,
+    "AllDamageAdd": 0
+  }
+]

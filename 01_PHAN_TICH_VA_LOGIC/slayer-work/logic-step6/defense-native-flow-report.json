@@ -1,0 +1,8 @@
+{
+  "cases": 198,
+  "entries": 3,
+  "snapshots": 66,
+  "instruction_steps": 10802,
+  "distinct_instructions_visited": 211,
+  "scope": "Three defense getter bodies, decrypted account values and manager/preset existence explicitly modeled."
+}

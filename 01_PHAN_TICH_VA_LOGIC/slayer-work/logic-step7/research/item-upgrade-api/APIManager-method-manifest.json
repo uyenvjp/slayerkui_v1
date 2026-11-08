@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Assembly-CSharp.dll",
+    "token": "0x6000884",
+    "name": "ItemUpgrade",
+    "declaring_type_index": "1112",
+    "declaring_type_full_name": "APIManager",
+    "native_va": "0x50c2808",
+    "return_type_index": "86821",
+    "return_type_name": "void",
+    "parameter_start": "755",
+    "parameter_count": "3",
+    "flags": "150",
+    "iflags": "0",
+    "slot": "65535",
+    "metadata_record_offset": "0x88980c",
+    "end_va": "0x50c2990",
+    "asm_file": "APIManager__ItemUpgrade_0x6000884.asm"
+  }
+]

@@ -1,0 +1,301 @@
+{
+  "input_metadata_sha256": "0f0c21c82432adab3421ea6c82e2662b032a8fc2fc17f81defe166b2ce294c46",
+  "decoded_metadata_sha256": "670133f0efe52104a72c582a79139b33f238c5dc43c2999cdbb8ce7c0aad3e20",
+  "decoded_crc32": "0xc1a831b",
+  "opaque_header_field_8": "0xdf5302df",
+  "sanity": "0xfab11baf",
+  "version": 39,
+  "total_bytes": 33085012,
+  "encrypted_prefix_bytes": 2315951,
+  "restored_header_key_index": 0,
+  "restored_header_entry_offset_in_asset": 818,
+  "manifest": {
+    "manifest": {
+      "versionCode": 705,
+      "versionName": "700.0.4",
+      "installLocation": 1,
+      "compileSdkVersion": 36,
+      "compileSdkVersionCodename": "16",
+      "requiredSplitTypes": "base__abi",
+      "splitTypes": "",
+      "package": "com.gear2.growslayer",
+      "platformBuildVersionCode": 36,
+      "platformBuildVersionName": 16
+    },
+    "uses-sdk": {
+      "minSdkVersion": 25,
+      "targetSdkVersion": 36
+    }
+  },
+  "native_state": [
+    4245022194,
+    3546870346,
+    2303206798
+  ],
+  "native_configuration": {
+    "3208": "0x60a646ea",
+    "3212": "0x3a3ce416",
+    "3216": "0xa780e503",
+    "3220": "0xec2ac3bf",
+    "3224": "0x24",
+    "3228": "0x1bc63b8d"
+  },
+  "folded_zip_entries": [
+    "assets/LIAPP.ini",
+    "assets/MIDI/Fur_Elise.mid",
+    "assets/MIDI/Fur_Elise_MR.mid",
+    "assets/MIDI/Little_Star.mid",
+    "assets/MIDI/Little_Star_MR.mid",
+    "assets/MIDI/Loves_Greeting.mid",
+    "assets/MIDI/Loves_Greeting_MR.mid",
+    "assets/MIDI/Minuet.mid",
+    "assets/MIDI/Minuet_MR.mid",
+    "assets/MIDI/Pomp_and_Circumstance_Military_Marches.mid",
+    "assets/MIDI/Pomp_and_Circumstance_Military_Marches_MR.mid",
+    "assets/MIDI/Special_Song.mid",
+    "assets/UnityServicesProjectConfiguration.json",
+    "assets/audience_network.dex",
+    "assets/bin/Data/Managed/Metadata/global-metadata.dat",
+    "assets/bin/Data/Managed/Resources/Coffee.SoftMaskForUGUI.R.dll-resources.dat",
+    "assets/bin/Data/Managed/Resources/Microsoft.Extensions.Logging.Abstractions.dll-resources.dat",
+    "assets/bin/Data/Managed/Resources/System.Collections.Immutable.dll-resources.dat",
+    "assets/bin/Data/Managed/Resources/System.Data.dll-resources.dat",
+    "assets/bin/Data/Managed/Resources/System.Diagnostics.DiagnosticSource.dll-resources.dat",
+    "assets/bin/Data/Managed/Resources/System.Drawing.dll-resources.dat",
+    "assets/bin/Data/Managed/Resources/System.IO.Pipelines.dll-resources.dat",
+    "assets/bin/Data/Managed/Resources/System.Text.Encodings.Web.dll-resources.dat",
+    "assets/bin/Data/Managed/Resources/System.Text.Json.dll-resources.dat",
+    "assets/bin/Data/Managed/Resources/ZLinq.dll-resources.dat",
+    "assets/bin/Data/Managed/Resources/mscorlib.dll-resources.dat",
+    "assets/bin/Data/Resources/unity default resources",
+    "assets/bin/Data/Resources/unity_builtin_extra",
+    "assets/builddatas.json",
+    "assets/dic",
+    "assets/google-services-desktop.json",
+    "assets/mbridge_download_dialog_view.xml",
+    "assets/meta-logo.png",
+    "assets/meta.mp4",
+    "assets/rv_binddatas.xml",
+    "assets/tt_mime_type.pro"
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "offset": 380,
+      "size": 216420,
+      "count": 54105,
+      "stride": 4
+    },
+    {
+      "index": 1,
+      "offset": 216800,
+      "size": 1636920,
+      "count": 54104,
+      "stride": null
+    },
+    {
+      "index": 2,
+      "offset": 1853720,
+      "size": 5869898,
+      "count": 266810,
+      "stride": null
+    },
+    {
+      "index": 3,
+      "offset": 7723620,
+      "size": 12552,
+      "count": 523,
+      "stride": 24
+    },
+    {
+      "index": 4,
+      "offset": 7736172,
+      "size": 1145920,
+      "count": 57296,
+      "stride": 20
+    },
+    {
+      "index": 5,
+      "offset": 8882092,
+      "size": 8082496,
+      "count": 252578,
+      "stride": 32
+    },
+    {
+      "index": 6,
+      "offset": 16964588,
+      "size": 101784,
+      "count": 8482,
+      "stride": 12
+    },
+    {
+      "index": 7,
+      "offset": 17066372,
+      "size": 834120,
+      "count": 69510,
+      "stride": 12
+    },
+    {
+      "index": 8,
+      "offset": 17900496,
+      "size": 1878588,
+      "count": 1878588,
+      "stride": 1
+    },
+    {
+      "index": 9,
+      "offset": 19779084,
+      "size": 108516,
+      "count": 9043,
+      "stride": 12
+    },
+    {
+      "index": 10,
+      "offset": 19887600,
+      "size": 2585484,
+      "count": 215457,
+      "stride": 12
+    },
+    {
+      "index": 11,
+      "offset": 22473084,
+      "size": 2247384,
+      "count": 187282,
+      "stride": 12
+    },
+    {
+      "index": 12,
+      "offset": 24720468,
+      "size": 147350,
+      "count": 10525,
+      "stride": 14
+    },
+    {
+      "index": 13,
+      "offset": 24867820,
+      "size": 12000,
+      "count": 3000,
+      "stride": 4
+    },
+    {
+      "index": 14,
+      "offset": 24879820,
+      "size": 102304,
+      "count": 6394,
+      "stride": 16
+    },
+    {
+      "index": 15,
+      "offset": 24982124,
+      "size": 51728,
+      "count": 12932,
+      "stride": 4
+    },
+    {
+      "index": 16,
+      "offset": 25033852,
+      "size": 84464,
+      "count": 21116,
+      "stride": 4
+    },
+    {
+      "index": 17,
+      "offset": 25118316,
+      "size": 1320944,
+      "count": 330236,
+      "stride": 4
+    },
+    {
+      "index": 18,
+      "offset": 26439260,
+      "size": 301552,
+      "count": 37694,
+      "stride": 8
+    },
+    {
+      "index": 19,
+      "offset": 26740812,
+      "size": 2688124,
+      "count": 32782,
+      "stride": 82
+    },
+    {
+      "index": 20,
+      "offset": 29428936,
+      "size": 6552,
+      "count": 182,
+      "stride": 36
+    },
+    {
+      "index": 21,
+      "offset": 29435488,
+      "size": 12376,
+      "count": 182,
+      "stride": 68
+    },
+    {
+      "index": 22,
+      "offset": 29447864,
+      "size": 11776,
+      "count": 1472,
+      "stride": 8
+    },
+    {
+      "index": 23,
+      "offset": 29459640,
+      "size": 4228,
+      "count": 1057,
+      "stride": 4
+    },
+    {
+      "index": 24,
+      "offset": 29463868,
+      "size": 2535192,
+      "count": 2535189,
+      "stride": null
+    },
+    {
+      "index": 25,
+      "offset": 31999060,
+      "size": 945128,
+      "count": 118141,
+      "stride": 8
+    },
+    {
+      "index": 26,
+      "offset": 32944188,
+      "size": 77496,
+      "count": 19374,
+      "stride": 4
+    },
+    {
+      "index": 27,
+      "offset": 33021684,
+      "size": 51424,
+      "count": 6428,
+      "stride": 8
+    },
+    {
+      "index": 28,
+      "offset": 33073108,
+      "size": 0,
+      "count": 0,
+      "stride": null
+    },
+    {
+      "index": 29,
+      "offset": 33073108,
+      "size": 0,
+      "count": 0,
+      "stride": null
+    },
+    {
+      "index": 30,
+      "offset": 33073108,
+      "size": 11904,
+      "count": 2976,
+      "stride": 4
+    }
+  ],
+  "no_apk_or_native_execution": true
+}

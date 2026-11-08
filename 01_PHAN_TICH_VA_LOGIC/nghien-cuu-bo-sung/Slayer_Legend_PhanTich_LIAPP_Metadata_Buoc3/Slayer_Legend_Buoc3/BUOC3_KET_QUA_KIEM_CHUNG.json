@@ -1,0 +1,1791 @@
+{
+  "provenance": "Derived from files extracted from user supplied Slayer Legend XAPK 700.0.4",
+  "status": "STATIC EVIDENCE ONLY, NO SOURCE CODE OR GAMEPLAY FORMULAE RECOVERED",
+  "metadata": {
+    "file_bytes": 33085012,
+    "sha256": "0f0c21c82432adab3421ea6c82e2662b032a8fc2fc17f81defe166b2ce294c46",
+    "first_16_bytes_hex": "4c 49 4b 45 59 7f 00 00 df 02 53 df af 56 23 00",
+    "LIKEY_at_start": true,
+    "IL2CPP_magic_at_start": false,
+    "XOR_8byte_key_hex": "43 44 45 46 47 48 49 4a",
+    "xor_first_16_bytes_hex": "0f 0d 0e 03 1e 37 49 4a 9c 46 16 99 e8 1e 6a 4a",
+    "xor_magic_at_start": false,
+    "ALARM_TEXT_022_at_offset_hex": "0x2356af",
+    "zero_terminated_name_region_notice": "Identifiable strings, not proven metadata table structure"
+  },
+  "dex": {
+    "file_bytes": 41647,
+    "sha256": "a5e89d18d4114f2ea87559d8b67b14bea9ebb589121fad4c4ffb88adb4f44d4c",
+    "top_level_dex_declared_size": 428,
+    "bytes_after_first_dex": 41219,
+    "embedded_dex_candidates": [
+      {
+        "offset_hex": "0x0",
+        "version": "035",
+        "declared_file_size_bytes": 428
+      },
+      {
+        "offset_hex": "0x1ac",
+        "version": "037",
+        "declared_file_size_bytes": 8652412
+      }
+    ],
+    "liapp_class_marker_offset_hex": "0xde",
+    "likey_marker_offset_hex": "0x396"
+  },
+  "native_protection_library": {
+    "ELF_architecture": "AArch64",
+    "file_bytes": 673836,
+    "sha256": "d87978199c6c5b05d6492b9ef7d1a3fcd85256948bdd607175cd62f1abbd1793",
+    "soname": [
+      "libliapp.so"
+    ],
+    "needed_libraries": [
+      "liblog.so",
+      "libdl.so",
+      "libstdc++.so",
+      "libm.so",
+      "libc.so"
+    ],
+    "dynamic_segment_offset_hex": "0xa3970"
+  },
+  "sample_strings_and_fieldnames": {
+    "Xls_Skill": {
+      "offset_hex": "0x27d8d9",
+      "following_strings": [
+        {
+          "offset_hex": "0x27d8d9",
+          "value": "Xls_Skill"
+        },
+        {
+          "offset_hex": "0x27d8e3",
+          "value": "SkillName"
+        },
+        {
+          "offset_hex": "0x27d8ed",
+          "value": "SkillBasicDes"
+        },
+        {
+          "offset_hex": "0x27d8fb",
+          "value": "SkillSpecificDes"
+        },
+        {
+          "offset_hex": "0x27d90c",
+          "value": "skillOpenType"
+        },
+        {
+          "offset_hex": "0x27d91a",
+          "value": "skillType"
+        },
+        {
+          "offset_hex": "0x27d924",
+          "value": "activeType"
+        },
+        {
+          "offset_hex": "0x27d92f",
+          "value": "passiveType"
+        },
+        {
+          "offset_hex": "0x27d93b",
+          "value": "MpCost"
+        },
+        {
+          "offset_hex": "0x27d942",
+          "value": "upgradeValue"
+        },
+        {
+          "offset_hex": "0x27d94f",
+          "value": "ActiveNeedValue"
+        },
+        {
+          "offset_hex": "0x27d95f",
+          "value": "Range"
+        },
+        {
+          "offset_hex": "0x27d965",
+          "value": "Duration"
+        },
+        {
+          "offset_hex": "0x27d96e",
+          "value": "AnimationNumber"
+        },
+        {
+          "offset_hex": "0x27d97e",
+          "value": "Have"
+        },
+        {
+          "offset_hex": "0x27d983",
+          "value": "OldSkill"
+        },
+        {
+          "offset_hex": "0x27d98c",
+          "value": "MaxLevelType"
+        },
+        {
+          "offset_hex": "0x27d999",
+          "value": "Xls_SkillLevel"
+        },
+        {
+          "offset_hex": "0x27d9a8",
+          "value": "grade0"
+        },
+        {
+          "offset_hex": "0x27d9af",
+          "value": "grade1"
+        },
+        {
+          "offset_hex": "0x27d9b6",
+          "value": "grade2"
+        },
+        {
+          "offset_hex": "0x27d9bd",
+          "value": "grade3"
+        },
+        {
+          "offset_hex": "0x27d9c4",
+          "value": "grade4"
+        },
+        {
+          "offset_hex": "0x27d9cb",
+          "value": "grade5"
+        },
+        {
+          "offset_hex": "0x27d9d2",
+          "value": "PriceFactor"
+        },
+        {
+          "offset_hex": "0x27d9de",
+          "value": "Xls_SkillMakingData"
+        },
+        {
+          "offset_hex": "0x27d9f2",
+          "value": "material0"
+        },
+        {
+          "offset_hex": "0x27d9fc",
+          "value": "materialIndex0"
+        },
+        {
+          "offset_hex": "0x27da0b",
+          "value": "value0"
+        },
+        {
+          "offset_hex": "0x27da12",
+          "value": "material1"
+        },
+        {
+          "offset_hex": "0x27da1c",
+          "value": "materialIndex1"
+        },
+        {
+          "offset_hex": "0x27da2b",
+          "value": "material2"
+        },
+        {
+          "offset_hex": "0x27da35",
+          "value": "materialIndex2"
+        },
+        {
+          "offset_hex": "0x27da44",
+          "value": "value2"
+        },
+        {
+          "offset_hex": "0x27da4b",
+          "value": "material3"
+        },
+        {
+          "offset_hex": "0x27da55",
+          "value": "materialIndex3"
+        },
+        {
+          "offset_hex": "0x27da64",
+          "value": "value3"
+        },
+        {
+          "offset_hex": "0x27da6b",
+          "value": "material4"
+        },
+        {
+          "offset_hex": "0x27da75",
+          "value": "materialIndex4"
+        },
+        {
+          "offset_hex": "0x27da84",
+          "value": "value4"
+        },
+        {
+          "offset_hex": "0x27da8b",
+          "value": "Xls_SkillStatContent"
+        },
+        {
+          "offset_hex": "0x27daa0",
+          "value": "Xls_SkillTree"
+        },
+        {
+          "offset_hex": "0x27daae",
+          "value": "Fire"
+        },
+        {
+          "offset_hex": "0x27dab3",
+          "value": "Water"
+        },
+        {
+          "offset_hex": "0x27dab9",
+          "value": "Wind"
+        }
+      ]
+    },
+    "Xls_SkillLevel": {
+      "offset_hex": "0x27d999",
+      "following_strings": [
+        {
+          "offset_hex": "0x27d999",
+          "value": "Xls_SkillLevel"
+        },
+        {
+          "offset_hex": "0x27d9a8",
+          "value": "grade0"
+        },
+        {
+          "offset_hex": "0x27d9af",
+          "value": "grade1"
+        },
+        {
+          "offset_hex": "0x27d9b6",
+          "value": "grade2"
+        },
+        {
+          "offset_hex": "0x27d9bd",
+          "value": "grade3"
+        },
+        {
+          "offset_hex": "0x27d9c4",
+          "value": "grade4"
+        },
+        {
+          "offset_hex": "0x27d9cb",
+          "value": "grade5"
+        },
+        {
+          "offset_hex": "0x27d9d2",
+          "value": "PriceFactor"
+        },
+        {
+          "offset_hex": "0x27d9de",
+          "value": "Xls_SkillMakingData"
+        },
+        {
+          "offset_hex": "0x27d9f2",
+          "value": "material0"
+        },
+        {
+          "offset_hex": "0x27d9fc",
+          "value": "materialIndex0"
+        },
+        {
+          "offset_hex": "0x27da0b",
+          "value": "value0"
+        },
+        {
+          "offset_hex": "0x27da12",
+          "value": "material1"
+        },
+        {
+          "offset_hex": "0x27da1c",
+          "value": "materialIndex1"
+        },
+        {
+          "offset_hex": "0x27da2b",
+          "value": "material2"
+        },
+        {
+          "offset_hex": "0x27da35",
+          "value": "materialIndex2"
+        },
+        {
+          "offset_hex": "0x27da44",
+          "value": "value2"
+        },
+        {
+          "offset_hex": "0x27da4b",
+          "value": "material3"
+        },
+        {
+          "offset_hex": "0x27da55",
+          "value": "materialIndex3"
+        },
+        {
+          "offset_hex": "0x27da64",
+          "value": "value3"
+        },
+        {
+          "offset_hex": "0x27da6b",
+          "value": "material4"
+        },
+        {
+          "offset_hex": "0x27da75",
+          "value": "materialIndex4"
+        },
+        {
+          "offset_hex": "0x27da84",
+          "value": "value4"
+        },
+        {
+          "offset_hex": "0x27da8b",
+          "value": "Xls_SkillStatContent"
+        },
+        {
+          "offset_hex": "0x27daa0",
+          "value": "Xls_SkillTree"
+        },
+        {
+          "offset_hex": "0x27daae",
+          "value": "Fire"
+        },
+        {
+          "offset_hex": "0x27dab3",
+          "value": "Water"
+        },
+        {
+          "offset_hex": "0x27dab9",
+          "value": "Wind"
+        },
+        {
+          "offset_hex": "0x27dabe",
+          "value": "Earth"
+        },
+        {
+          "offset_hex": "0x27dac4",
+          "value": "Xls_SkinBattle"
+        },
+        {
+          "offset_hex": "0x27dad3",
+          "value": "BattleTitle"
+        },
+        {
+          "offset_hex": "0x27dadf",
+          "value": "LimitSkill0"
+        },
+        {
+          "offset_hex": "0x27daeb",
+          "value": "LimitSkill1"
+        },
+        {
+          "offset_hex": "0x27daf7",
+          "value": "LimitSkill2"
+        },
+        {
+          "offset_hex": "0x27db03",
+          "value": "Xls_SkinBattleWaveInfo"
+        },
+        {
+          "offset_hex": "0x27db1a",
+          "value": "Xls_Skin_Body"
+        },
+        {
+          "offset_hex": "0x27db28",
+          "value": "GetType"
+        },
+        {
+          "offset_hex": "0x27db30",
+          "value": "QuestType"
+        },
+        {
+          "offset_hex": "0x27db3a",
+          "value": "GetTypeIndex"
+        },
+        {
+          "offset_hex": "0x27db47",
+          "value": "NeedValue"
+        },
+        {
+          "offset_hex": "0x27db51",
+          "value": "OptionType"
+        },
+        {
+          "offset_hex": "0x27db5c",
+          "value": "OptionValue"
+        },
+        {
+          "offset_hex": "0x27db68",
+          "value": "Gender"
+        },
+        {
+          "offset_hex": "0x27db6f",
+          "value": "SameSprites"
+        },
+        {
+          "offset_hex": "0x27db7b",
+          "value": "Xls_Skin_Cloak"
+        }
+      ]
+    },
+    "Xls_SkillMakingData": {
+      "offset_hex": "0x27d9de",
+      "following_strings": [
+        {
+          "offset_hex": "0x27d9de",
+          "value": "Xls_SkillMakingData"
+        },
+        {
+          "offset_hex": "0x27d9f2",
+          "value": "material0"
+        },
+        {
+          "offset_hex": "0x27d9fc",
+          "value": "materialIndex0"
+        },
+        {
+          "offset_hex": "0x27da0b",
+          "value": "value0"
+        },
+        {
+          "offset_hex": "0x27da12",
+          "value": "material1"
+        },
+        {
+          "offset_hex": "0x27da1c",
+          "value": "materialIndex1"
+        },
+        {
+          "offset_hex": "0x27da2b",
+          "value": "material2"
+        },
+        {
+          "offset_hex": "0x27da35",
+          "value": "materialIndex2"
+        },
+        {
+          "offset_hex": "0x27da44",
+          "value": "value2"
+        },
+        {
+          "offset_hex": "0x27da4b",
+          "value": "material3"
+        },
+        {
+          "offset_hex": "0x27da55",
+          "value": "materialIndex3"
+        },
+        {
+          "offset_hex": "0x27da64",
+          "value": "value3"
+        },
+        {
+          "offset_hex": "0x27da6b",
+          "value": "material4"
+        },
+        {
+          "offset_hex": "0x27da75",
+          "value": "materialIndex4"
+        },
+        {
+          "offset_hex": "0x27da84",
+          "value": "value4"
+        },
+        {
+          "offset_hex": "0x27da8b",
+          "value": "Xls_SkillStatContent"
+        },
+        {
+          "offset_hex": "0x27daa0",
+          "value": "Xls_SkillTree"
+        },
+        {
+          "offset_hex": "0x27daae",
+          "value": "Fire"
+        },
+        {
+          "offset_hex": "0x27dab3",
+          "value": "Water"
+        },
+        {
+          "offset_hex": "0x27dab9",
+          "value": "Wind"
+        },
+        {
+          "offset_hex": "0x27dabe",
+          "value": "Earth"
+        },
+        {
+          "offset_hex": "0x27dac4",
+          "value": "Xls_SkinBattle"
+        },
+        {
+          "offset_hex": "0x27dad3",
+          "value": "BattleTitle"
+        },
+        {
+          "offset_hex": "0x27dadf",
+          "value": "LimitSkill0"
+        },
+        {
+          "offset_hex": "0x27daeb",
+          "value": "LimitSkill1"
+        },
+        {
+          "offset_hex": "0x27daf7",
+          "value": "LimitSkill2"
+        },
+        {
+          "offset_hex": "0x27db03",
+          "value": "Xls_SkinBattleWaveInfo"
+        },
+        {
+          "offset_hex": "0x27db1a",
+          "value": "Xls_Skin_Body"
+        },
+        {
+          "offset_hex": "0x27db28",
+          "value": "GetType"
+        },
+        {
+          "offset_hex": "0x27db30",
+          "value": "QuestType"
+        },
+        {
+          "offset_hex": "0x27db3a",
+          "value": "GetTypeIndex"
+        },
+        {
+          "offset_hex": "0x27db47",
+          "value": "NeedValue"
+        },
+        {
+          "offset_hex": "0x27db51",
+          "value": "OptionType"
+        },
+        {
+          "offset_hex": "0x27db5c",
+          "value": "OptionValue"
+        },
+        {
+          "offset_hex": "0x27db68",
+          "value": "Gender"
+        },
+        {
+          "offset_hex": "0x27db6f",
+          "value": "SameSprites"
+        },
+        {
+          "offset_hex": "0x27db7b",
+          "value": "Xls_Skin_Cloak"
+        },
+        {
+          "offset_hex": "0x27db8a",
+          "value": "Xls_Skin_Costume"
+        },
+        {
+          "offset_hex": "0x27db9b",
+          "value": "BodyBase"
+        },
+        {
+          "offset_hex": "0x27dba4",
+          "value": "Sale"
+        },
+        {
+          "offset_hex": "0x27dba9",
+          "value": "Xls_Skin_Face"
+        },
+        {
+          "offset_hex": "0x27dbb7",
+          "value": "Xls_Skin_Hair"
+        },
+        {
+          "offset_hex": "0x27dbc5",
+          "value": "HairBack"
+        },
+        {
+          "offset_hex": "0x27dbce",
+          "value": "HairColor"
+        },
+        {
+          "offset_hex": "0x27dbd8",
+          "value": "Xls_Skin_HairBack"
+        }
+      ]
+    },
+    "Xls_AdventureInfo": {
+      "offset_hex": "0x27cb1a",
+      "following_strings": [
+        {
+          "offset_hex": "0x27cb1a",
+          "value": "Xls_AdventureInfo"
+        },
+        {
+          "offset_hex": "0x27cb2c",
+          "value": "AdventureIndex"
+        },
+        {
+          "offset_hex": "0x27cb3b",
+          "value": "SubIndex"
+        },
+        {
+          "offset_hex": "0x27cb44",
+          "value": "SubName"
+        },
+        {
+          "offset_hex": "0x27cb4c",
+          "value": "CameraSetting"
+        },
+        {
+          "offset_hex": "0x27cb5a",
+          "value": "BossNumber"
+        },
+        {
+          "offset_hex": "0x27cb65",
+          "value": "Boss"
+        },
+        {
+          "offset_hex": "0x27cb6a",
+          "value": "BossScale"
+        },
+        {
+          "offset_hex": "0x27cb74",
+          "value": "Dia_Clear"
+        },
+        {
+          "offset_hex": "0x27cb7e",
+          "value": "Emerald_Clear"
+        },
+        {
+          "offset_hex": "0x27cb8c",
+          "value": "Map"
+        },
+        {
+          "offset_hex": "0x27cb90",
+          "value": "Hp"
+        },
+        {
+          "offset_hex": "0x27cb93",
+          "value": "Atk"
+        },
+        {
+          "offset_hex": "0x27cb97",
+          "value": "AttackSpeed"
+        },
+        {
+          "offset_hex": "0x27cba3",
+          "value": "Miss"
+        },
+        {
+          "offset_hex": "0x27cba8",
+          "value": "Accuracy"
+        },
+        {
+          "offset_hex": "0x27cbb1",
+          "value": "BattleTime"
+        },
+        {
+          "offset_hex": "0x27cbbc",
+          "value": "Xls_AdventureWaveInfo"
+        },
+        {
+          "offset_hex": "0x27cbd2",
+          "value": "WaveNumber"
+        },
+        {
+          "offset_hex": "0x27cbdd",
+          "value": "MonsterCount"
+        },
+        {
+          "offset_hex": "0x27cbea",
+          "value": "RepeatCount"
+        },
+        {
+          "offset_hex": "0x27cbf6",
+          "value": "DistanceIndex"
+        },
+        {
+          "offset_hex": "0x27cc04",
+          "value": "m1"
+        },
+        {
+          "offset_hex": "0x27cc07",
+          "value": "m2"
+        },
+        {
+          "offset_hex": "0x27cc0a",
+          "value": "m3"
+        },
+        {
+          "offset_hex": "0x27cc0d",
+          "value": "m4"
+        },
+        {
+          "offset_hex": "0x27cc10",
+          "value": "m5"
+        },
+        {
+          "offset_hex": "0x27cc13",
+          "value": "m6"
+        },
+        {
+          "offset_hex": "0x27cc16",
+          "value": "m7"
+        },
+        {
+          "offset_hex": "0x27cc19",
+          "value": "m8"
+        },
+        {
+          "offset_hex": "0x27cc1c",
+          "value": "m9"
+        },
+        {
+          "offset_hex": "0x27cc1f",
+          "value": "m10"
+        },
+        {
+          "offset_hex": "0x27cc23",
+          "value": "S1"
+        },
+        {
+          "offset_hex": "0x27cc26",
+          "value": "S2"
+        },
+        {
+          "offset_hex": "0x27cc29",
+          "value": "S3"
+        },
+        {
+          "offset_hex": "0x27cc2c",
+          "value": "S4"
+        },
+        {
+          "offset_hex": "0x27cc2f",
+          "value": "S5"
+        },
+        {
+          "offset_hex": "0x27cc32",
+          "value": "S6"
+        },
+        {
+          "offset_hex": "0x27cc35",
+          "value": "S7"
+        },
+        {
+          "offset_hex": "0x27cc38",
+          "value": "S8"
+        },
+        {
+          "offset_hex": "0x27cc3b",
+          "value": "S9"
+        },
+        {
+          "offset_hex": "0x27cc3e",
+          "value": "S10"
+        },
+        {
+          "offset_hex": "0x27cc42",
+          "value": "Xls_Artifact"
+        },
+        {
+          "offset_hex": "0x27cc4f",
+          "value": "Des"
+        },
+        {
+          "offset_hex": "0x27cc53",
+          "value": "MaxLevel"
+        }
+      ]
+    },
+    "Xls_AdventureWaveInfo": {
+      "offset_hex": "0x27cbbc",
+      "following_strings": [
+        {
+          "offset_hex": "0x27cbbc",
+          "value": "Xls_AdventureWaveInfo"
+        },
+        {
+          "offset_hex": "0x27cbd2",
+          "value": "WaveNumber"
+        },
+        {
+          "offset_hex": "0x27cbdd",
+          "value": "MonsterCount"
+        },
+        {
+          "offset_hex": "0x27cbea",
+          "value": "RepeatCount"
+        },
+        {
+          "offset_hex": "0x27cbf6",
+          "value": "DistanceIndex"
+        },
+        {
+          "offset_hex": "0x27cc04",
+          "value": "m1"
+        },
+        {
+          "offset_hex": "0x27cc07",
+          "value": "m2"
+        },
+        {
+          "offset_hex": "0x27cc0a",
+          "value": "m3"
+        },
+        {
+          "offset_hex": "0x27cc0d",
+          "value": "m4"
+        },
+        {
+          "offset_hex": "0x27cc10",
+          "value": "m5"
+        },
+        {
+          "offset_hex": "0x27cc13",
+          "value": "m6"
+        },
+        {
+          "offset_hex": "0x27cc16",
+          "value": "m7"
+        },
+        {
+          "offset_hex": "0x27cc19",
+          "value": "m8"
+        },
+        {
+          "offset_hex": "0x27cc1c",
+          "value": "m9"
+        },
+        {
+          "offset_hex": "0x27cc1f",
+          "value": "m10"
+        },
+        {
+          "offset_hex": "0x27cc23",
+          "value": "S1"
+        },
+        {
+          "offset_hex": "0x27cc26",
+          "value": "S2"
+        },
+        {
+          "offset_hex": "0x27cc29",
+          "value": "S3"
+        },
+        {
+          "offset_hex": "0x27cc2c",
+          "value": "S4"
+        },
+        {
+          "offset_hex": "0x27cc2f",
+          "value": "S5"
+        },
+        {
+          "offset_hex": "0x27cc32",
+          "value": "S6"
+        },
+        {
+          "offset_hex": "0x27cc35",
+          "value": "S7"
+        },
+        {
+          "offset_hex": "0x27cc38",
+          "value": "S8"
+        },
+        {
+          "offset_hex": "0x27cc3b",
+          "value": "S9"
+        },
+        {
+          "offset_hex": "0x27cc3e",
+          "value": "S10"
+        },
+        {
+          "offset_hex": "0x27cc42",
+          "value": "Xls_Artifact"
+        },
+        {
+          "offset_hex": "0x27cc4f",
+          "value": "Des"
+        },
+        {
+          "offset_hex": "0x27cc53",
+          "value": "MaxLevel"
+        },
+        {
+          "offset_hex": "0x27cc5c",
+          "value": "value1"
+        },
+        {
+          "offset_hex": "0x27cc63",
+          "value": "value10"
+        },
+        {
+          "offset_hex": "0x27cc6b",
+          "value": "value20"
+        },
+        {
+          "offset_hex": "0x27cc73",
+          "value": "value30"
+        },
+        {
+          "offset_hex": "0x27cc7b",
+          "value": "value40"
+        },
+        {
+          "offset_hex": "0x27cc83",
+          "value": "value50"
+        },
+        {
+          "offset_hex": "0x27cc8b",
+          "value": "value60"
+        },
+        {
+          "offset_hex": "0x27cc93",
+          "value": "value70"
+        },
+        {
+          "offset_hex": "0x27cc9b",
+          "value": "Xls_AttendanceReward"
+        },
+        {
+          "offset_hex": "0x27ccb0",
+          "value": "RewardAmount"
+        },
+        {
+          "offset_hex": "0x27ccbd",
+          "value": "Xls_Aura"
+        },
+        {
+          "offset_hex": "0x27ccc6",
+          "value": "LevelLimit"
+        },
+        {
+          "offset_hex": "0x27ccd1",
+          "value": "AtkSpeed"
+        },
+        {
+          "offset_hex": "0x27ccda",
+          "value": "HavePower0"
+        },
+        {
+          "offset_hex": "0x27cce5",
+          "value": "HavePowerValue0"
+        },
+        {
+          "offset_hex": "0x27ccf5",
+          "value": "HavePower1"
+        },
+        {
+          "offset_hex": "0x27cd00",
+          "value": "HavePowerValue1"
+        }
+      ]
+    },
+    "Xls_WeaponSkin": {
+      "offset_hex": "0x27e1b7",
+      "following_strings": [
+        {
+          "offset_hex": "0x27e1b7",
+          "value": "Xls_WeaponSkin"
+        },
+        {
+          "offset_hex": "0x27e1c6",
+          "value": "EffectColor"
+        },
+        {
+          "offset_hex": "0x27e1d2",
+          "value": "RecourcePath"
+        },
+        {
+          "offset_hex": "0x27e1df",
+          "value": "WeaponSkinType"
+        },
+        {
+          "offset_hex": "0x27e1ee",
+          "value": "WeaponSkinTypeIndex"
+        },
+        {
+          "offset_hex": "0x27e202",
+          "value": "Xls_WeaponUpgradeStat"
+        },
+        {
+          "offset_hex": "0x27e218",
+          "value": "ProtectTest"
+        },
+        {
+          "offset_hex": "0x27e224",
+          "value": "user_id"
+        },
+        {
+          "offset_hex": "0x27e22c",
+          "value": "LiappStart"
+        },
+        {
+          "offset_hex": "0x27e237",
+          "value": "ReStart"
+        },
+        {
+          "offset_hex": "0x27e23f",
+          "value": "pause"
+        },
+        {
+          "offset_hex": "0x27e245",
+          "value": "OnApplicationPause"
+        },
+        {
+          "offset_hex": "0x27e258",
+          "value": "LIAPP_EXCEPTION"
+        },
+        {
+          "offset_hex": "0x27e268",
+          "value": "LIAPP_SUCCESS"
+        },
+        {
+          "offset_hex": "0x27e276",
+          "value": "LIAPP_DETECTED"
+        },
+        {
+          "offset_hex": "0x27e285",
+          "value": "LIAPP_DETECTED_ANTI_DEBUGGER"
+        },
+        {
+          "offset_hex": "0x27e2a2",
+          "value": "LIAPP_DETECTED_INTEGRITY"
+        },
+        {
+          "offset_hex": "0x27e2bb",
+          "value": "LIAPP_DETECTED_VM"
+        },
+        {
+          "offset_hex": "0x27e2cd",
+          "value": "LIAPP_DETECTED_ROOTING"
+        },
+        {
+          "offset_hex": "0x27e2e4",
+          "value": "LIAPP_DETECTED_HACKING_TOOL"
+        },
+        {
+          "offset_hex": "0x27e300",
+          "value": "bIsStarted"
+        },
+        {
+          "offset_hex": "0x27e30b",
+          "value": "nRet"
+        },
+        {
+          "offset_hex": "0x27e310",
+          "value": "strLiappMessage"
+        },
+        {
+          "offset_hex": "0x27e320",
+          "value": "_intLA1"
+        },
+        {
+          "offset_hex": "0x27e328",
+          "value": "_LiappAgent"
+        },
+        {
+          "offset_hex": "0x27e334",
+          "value": "UserId"
+        },
+        {
+          "offset_hex": "0x27e33b",
+          "value": "bPaused"
+        },
+        {
+          "offset_hex": "0x27e343",
+          "value": "Test_Data"
+        },
+        {
+          "offset_hex": "0x27e34d",
+          "value": "list2"
+        },
+        {
+          "offset_hex": "0x27e353",
+          "value": "testObject"
+        },
+        {
+          "offset_hex": "0x27e35e",
+          "value": "Test_skill"
+        },
+        {
+          "offset_hex": "0x27e369",
+          "value": "get_btn"
+        },
+        {
+          "offset_hex": "0x27e371",
+          "value": "_btn"
+        },
+        {
+          "offset_hex": "0x27e376",
+          "value": "Test_Skill_Button"
+        },
+        {
+          "offset_hex": "0x27e388",
+          "value": "SetSkillNumber"
+        },
+        {
+          "offset_hex": "0x27e397",
+          "value": "currentContents"
+        },
+        {
+          "offset_hex": "0x27e3a7",
+          "value": "_currentContents"
+        },
+        {
+          "offset_hex": "0x27e3b8",
+          "value": "skillNumber"
+        },
+        {
+          "offset_hex": "0x27e3c4",
+          "value": "TestTime"
+        },
+        {
+          "offset_hex": "0x27e3cd",
+          "value": "set_Instance"
+        },
+        {
+          "offset_hex": "0x27e3da",
+          "value": "WebCheck"
+        },
+        {
+          "offset_hex": "0x27e3e3",
+          "value": "WebChk"
+        },
+        {
+          "offset_hex": "0x27e3ea",
+          "value": "ReceiveRealTime"
+        },
+        {
+          "offset_hex": "0x27e3fa",
+          "value": "isDone"
+        },
+        {
+          "offset_hex": "0x27e401",
+          "value": "InvokeEvent"
+        }
+      ]
+    },
+    "LiappforUnityImpl": {
+      "offset_hex": "0x72dbf1",
+      "following_strings": [
+        {
+          "offset_hex": "0x72dbf1",
+          "value": "LiappforUnityImpl"
+        },
+        {
+          "offset_hex": "0x72dc03",
+          "value": "Liapp"
+        },
+        {
+          "offset_hex": "0x72dc09",
+          "value": "LA1"
+        },
+        {
+          "offset_hex": "0x72dc0d",
+          "value": "LA2"
+        },
+        {
+          "offset_hex": "0x72dc11",
+          "value": "pszUser_key_from_server"
+        },
+        {
+          "offset_hex": "0x72dc29",
+          "value": "GA"
+        },
+        {
+          "offset_hex": "0x72dc2c",
+          "value": "GI"
+        },
+        {
+          "offset_hex": "0x72dc2f",
+          "value": "Userid_in_your_service"
+        },
+        {
+          "offset_hex": "0x72dc46",
+          "value": "SUID"
+        },
+        {
+          "offset_hex": "0x72dc4b",
+          "value": "LiappAgent"
+        },
+        {
+          "offset_hex": "0x72dc56",
+          "value": "Example_LiappforUnity"
+        },
+        {
+          "offset_hex": "0x72dc6c",
+          "value": "StartLiapp"
+        },
+        {
+          "offset_hex": "0x72dc77",
+          "value": "LiappSecureImpl"
+        },
+        {
+          "offset_hex": "0x72dc87",
+          "value": "Liapp.SecureVariable"
+        },
+        {
+          "offset_hex": "0x72dc9c",
+          "value": "add_DetectedEventCallBack"
+        },
+        {
+          "offset_hex": "0x72dcb6",
+          "value": "remove_DetectedEventCallBack"
+        },
+        {
+          "offset_hex": "0x72dcd3",
+          "value": "bIsLocal"
+        },
+        {
+          "offset_hex": "0x72dcdc",
+          "value": "ExcuteSecured1Byte"
+        },
+        {
+          "offset_hex": "0x72dcef",
+          "value": "ExcuteSecured2Byte"
+        },
+        {
+          "offset_hex": "0x72dd02",
+          "value": "ExcuteSecured4Byte"
+        },
+        {
+          "offset_hex": "0x72dd15",
+          "value": "ExcuteSecured8Byte"
+        },
+        {
+          "offset_hex": "0x72dd28",
+          "value": "ExcuteSecuredDynamic"
+        },
+        {
+          "offset_hex": "0x72dd3d",
+          "value": "AddDetectionEventCallBack"
+        },
+        {
+          "offset_hex": "0x72dd57",
+          "value": "CallDetectionEventCallBack"
+        },
+        {
+          "offset_hex": "0x72dd72",
+          "value": "DetectedEventCallBack"
+        },
+        {
+          "offset_hex": "0x72dd88",
+          "value": "Encryption1byte"
+        },
+        {
+          "offset_hex": "0x72dd98",
+          "value": "Encryption2byte"
+        },
+        {
+          "offset_hex": "0x72dda8",
+          "value": "Encryption4byte"
+        },
+        {
+          "offset_hex": "0x72ddb8",
+          "value": "Encryption8byte"
+        },
+        {
+          "offset_hex": "0x72ddc8",
+          "value": "EncryptionDynamic"
+        },
+        {
+          "offset_hex": "0x72ddda",
+          "value": "LiappSecureImpl_plugin"
+        },
+        {
+          "offset_hex": "0x72ddf1",
+          "value": "LiappSecureImpl_plugin_Init"
+        },
+        {
+          "offset_hex": "0x72de0d",
+          "value": "WrapperP1"
+        },
+        {
+          "offset_hex": "0x72de17",
+          "value": "WrapperP2"
+        },
+        {
+          "offset_hex": "0x72de21",
+          "value": "WrapperP4"
+        },
+        {
+          "offset_hex": "0x72de2b",
+          "value": "WrapperP8"
+        },
+        {
+          "offset_hex": "0x72de35",
+          "value": "WrapperDynamic"
+        },
+        {
+          "offset_hex": "0x72de44",
+          "value": "MainThreadID"
+        },
+        {
+          "offset_hex": "0x72de51",
+          "value": "bIsInit"
+        },
+        {
+          "offset_hex": "0x72de59",
+          "value": "bIsLoaded"
+        },
+        {
+          "offset_hex": "0x72de63",
+          "value": "InnerEncryption1byte"
+        },
+        {
+          "offset_hex": "0x72de78",
+          "value": "InnerEncryption2byte"
+        },
+        {
+          "offset_hex": "0x72de8d",
+          "value": "InnerEncryption4byte"
+        },
+        {
+          "offset_hex": "0x72dea2",
+          "value": "InnerEncryption8byte"
+        },
+        {
+          "offset_hex": "0x72deb7",
+          "value": "InnerEncryptionDynamic"
+        }
+      ]
+    },
+    "GameManager": {
+      "offset_hex": "0x295cb2",
+      "following_strings": [
+        {
+          "offset_hex": "0x295cb2",
+          "value": "GameManager"
+        },
+        {
+          "offset_hex": "0x295cbe",
+          "value": "useCash"
+        },
+        {
+          "offset_hex": "0x295cc6",
+          "value": "useAds"
+        },
+        {
+          "offset_hex": "0x295ccd",
+          "value": "useGold"
+        },
+        {
+          "offset_hex": "0x295cd5",
+          "value": "useDia"
+        },
+        {
+          "offset_hex": "0x295cdc",
+          "value": "useEmerald"
+        },
+        {
+          "offset_hex": "0x295ce7",
+          "value": "INIT"
+        },
+        {
+          "offset_hex": "0x295cec",
+          "value": "UNKNOWN"
+        },
+        {
+          "offset_hex": "0x295cf4",
+          "value": "GameItemType"
+        },
+        {
+          "offset_hex": "0x295d01",
+          "value": "Time"
+        },
+        {
+          "offset_hex": "0x295d06",
+          "value": "ArtifactType"
+        },
+        {
+          "offset_hex": "0x295d13",
+          "value": "AtkAdd"
+        },
+        {
+          "offset_hex": "0x295d1a",
+          "value": "CriticalDmg"
+        },
+        {
+          "offset_hex": "0x295d26",
+          "value": "HpAdd"
+        },
+        {
+          "offset_hex": "0x295d2c",
+          "value": "Heal"
+        },
+        {
+          "offset_hex": "0x295d31",
+          "value": "GoldAmount"
+        },
+        {
+          "offset_hex": "0x295d3c",
+          "value": "FireDmg"
+        },
+        {
+          "offset_hex": "0x295d44",
+          "value": "WaterDmg"
+        },
+        {
+          "offset_hex": "0x295d4d",
+          "value": "EarthDmg"
+        },
+        {
+          "offset_hex": "0x295d56",
+          "value": "WindDmg"
+        },
+        {
+          "offset_hex": "0x295d5e",
+          "value": "GachaType"
+        },
+        {
+          "offset_hex": "0x295d68",
+          "value": "Equipment"
+        },
+        {
+          "offset_hex": "0x295d72",
+          "value": "Accessory"
+        },
+        {
+          "offset_hex": "0x295d7c",
+          "value": "Artifact"
+        },
+        {
+          "offset_hex": "0x295d85",
+          "value": "SlayerClass"
+        },
+        {
+          "offset_hex": "0x295d91",
+          "value": "CampaignObjectType"
+        },
+        {
+          "offset_hex": "0x295da4",
+          "value": "CampaignCameraEffectType"
+        },
+        {
+          "offset_hex": "0x295dbd",
+          "value": "NormalShake"
+        },
+        {
+          "offset_hex": "0x295dc9",
+          "value": "StrongShake"
+        },
+        {
+          "offset_hex": "0x295dd5",
+          "value": "WeakShake"
+        },
+        {
+          "offset_hex": "0x295ddf",
+          "value": "VeryStrongShake"
+        },
+        {
+          "offset_hex": "0x295def",
+          "value": "CampaignCameraMoveType"
+        },
+        {
+          "offset_hex": "0x295e06",
+          "value": "Destination"
+        },
+        {
+          "offset_hex": "0x295e12",
+          "value": "Home"
+        },
+        {
+          "offset_hex": "0x295e17",
+          "value": "FastDestination"
+        },
+        {
+          "offset_hex": "0x295e27",
+          "value": "CampaignBattleCameraType"
+        },
+        {
+          "offset_hex": "0x295e40",
+          "value": "BattleEnd"
+        },
+        {
+          "offset_hex": "0x295e4a",
+          "value": "CampaignAppearType"
+        },
+        {
+          "offset_hex": "0x295e5d",
+          "value": "NoEffect"
+        },
+        {
+          "offset_hex": "0x295e66",
+          "value": "EffectWithSound"
+        },
+        {
+          "offset_hex": "0x295e76",
+          "value": "EffectOnly"
+        },
+        {
+          "offset_hex": "0x295e81",
+          "value": "CampaignDisappearType"
+        },
+        {
+          "offset_hex": "0x295e97",
+          "value": "NoSound"
+        },
+        {
+          "offset_hex": "0x295e9f",
+          "value": "DisapperSound"
+        },
+        {
+          "offset_hex": "0x295ead",
+          "value": "TeleportSound"
+        }
+      ]
+    },
+    "GrowSlayer": {
+      "offset_hex": "0x306e19",
+      "following_strings": [
+        {
+          "offset_hex": "0x306e19",
+          "value": "GrowSlayer.Effects"
+        },
+        {
+          "offset_hex": "0x306e2c",
+          "value": "get_Root"
+        },
+        {
+          "offset_hex": "0x306e35",
+          "value": "maxLifetime"
+        },
+        {
+          "offset_hex": "0x306e41",
+          "value": "Spawn"
+        },
+        {
+          "offset_hex": "0x306e47",
+          "value": "Despawn"
+        },
+        {
+          "offset_hex": "0x306e4f",
+          "value": "Take"
+        },
+        {
+          "offset_hex": "0x306e54",
+          "value": "GetStack"
+        },
+        {
+          "offset_hex": "0x306e5d",
+          "value": "Prewarm"
+        },
+        {
+          "offset_hex": "0x306e65",
+          "value": "_pools"
+        },
+        {
+          "offset_hex": "0x306e6c",
+          "value": "PooledParticleEffect"
+        },
+        {
+          "offset_hex": "0x306e81",
+          "value": "sourcePrefab"
+        },
+        {
+          "offset_hex": "0x306e8e",
+          "value": "Bind"
+        },
+        {
+          "offset_hex": "0x306e93",
+          "value": "WaitAndReturn"
+        },
+        {
+          "offset_hex": "0x306ea1",
+          "value": "_sourcePrefab"
+        },
+        {
+          "offset_hex": "0x306eaf",
+          "value": "_maxLifetime"
+        },
+        {
+          "offset_hex": "0x306ebc",
+          "value": "_systems"
+        },
+        {
+          "offset_hex": "0x306ec5",
+          "value": "<WaitAndReturn>d__5"
+        },
+        {
+          "offset_hex": "0x306ed9",
+          "value": "<hasSystems>5__3"
+        },
+        {
+          "offset_hex": "0x306eea",
+          "value": "SpawnOnDisableEffect"
+        },
+        {
+          "offset_hex": "0x306eff",
+          "value": "ResetQuitFlag"
+        },
+        {
+          "offset_hex": "0x306f0d",
+          "value": "TrySpawn"
+        },
+        {
+          "offset_hex": "0x306f16",
+          "value": "SetEndEffect"
+        },
+        {
+          "offset_hex": "0x306f23",
+          "value": "_endEffectPrefab"
+        },
+        {
+          "offset_hex": "0x306f34",
+          "value": "_positionOffset"
+        },
+        {
+          "offset_hex": "0x306f44",
+          "value": "_inheritRotation"
+        },
+        {
+          "offset_hex": "0x306f55",
+          "value": "_onDisable"
+        },
+        {
+          "offset_hex": "0x306f60",
+          "value": "_onDestroy"
+        },
+        {
+          "offset_hex": "0x306f6b",
+          "value": "_isQuitting"
+        },
+        {
+          "offset_hex": "0x306f77",
+          "value": "_spawnedThisCycle"
+        },
+        {
+          "offset_hex": "0x306f89",
+          "value": "WebHook"
+        },
+        {
+          "offset_hex": "0x306f91",
+          "value": "Slack"
+        },
+        {
+          "offset_hex": "0x306f97",
+          "value": "resultAction"
+        },
+        {
+          "offset_hex": "0x306fa4",
+          "value": "DeleteAccountAsync"
+        },
+        {
+          "offset_hex": "0x306fb7",
+          "value": "PostData"
+        },
+        {
+          "offset_hex": "0x306fc0",
+          "value": "<DeleteAccountAsync>d__1"
+        },
+        {
+          "offset_hex": "0x306fd9",
+          "value": "<SendMessageAsync>d__2"
+        },
+        {
+          "offset_hex": "0x306ff0",
+          "value": "Messaging"
+        },
+        {
+          "offset_hex": "0x306ffa",
+          "value": "get_BuildTarget"
+        },
+        {
+          "offset_hex": "0x30700a",
+          "value": "BuildTarget"
+        },
+        {
+          "offset_hex": "0x307016",
+          "value": "VideoPlayableBehaviour"
+        },
+        {
+          "offset_hex": "0x30702d",
+          "value": "UnityEngine.Timeline"
+        },
+        {
+          "offset_hex": "0x307042",
+          "value": "PrepareVideo"
+        },
+        {
+          "offset_hex": "0x30704f",
+          "value": "vp"
+        },
+        {
+          "offset_hex": "0x307052",
+          "value": "LoopPointReached"
+        },
+        {
+          "offset_hex": "0x307063",
+          "value": "OnGraphStart"
+        }
+      ]
+    }
+  },
+  "regional_stats": [
+    {
+      "offset_hex": "0x0",
+      "bytes": 4096,
+      "entropy_raw": 7.9527,
+      "entropy_xor": 7.9541,
+      "xor_ascii_fraction": 0.3794
+    },
+    {
+      "offset_hex": "0x200000",
+      "bytes": 4096,
+      "entropy_raw": 7.9564,
+      "entropy_xor": 7.9562,
+      "xor_ascii_fraction": 0.387
+    },
+    {
+      "offset_hex": "0x230000",
+      "bytes": 4096,
+      "entropy_raw": 7.9578,
+      "entropy_xor": 7.9512,
+      "xor_ascii_fraction": 0.3894
+    },
+    {
+      "offset_hex": "0x235000",
+      "bytes": 4096,
+      "entropy_raw": 7.1547,
+      "entropy_xor": 6.4165,
+      "xor_ascii_fraction": 0.6946
+    },
+    {
+      "offset_hex": "0x235600",
+      "bytes": 4096,
+      "entropy_raw": 5.826,
+      "entropy_xor": 4.6716,
+      "xor_ascii_fraction": 0.9136
+    },
+    {
+      "offset_hex": "0x235700",
+      "bytes": 4096,
+      "entropy_raw": 5.5744,
+      "entropy_xor": 4.3996,
+      "xor_ascii_fraction": 0.939
+    },
+    {
+      "offset_hex": "0x235800",
+      "bytes": 4096,
+      "entropy_raw": 5.5758,
+      "entropy_xor": 4.4437,
+      "xor_ascii_fraction": 0.9399
+    },
+    {
+      "offset_hex": "0x240000",
+      "bytes": 4096,
+      "entropy_raw": 5.2155,
+      "entropy_xor": 4.4144,
+      "xor_ascii_fraction": 0.9592
+    },
+    {
+      "offset_hex": "0x27d000",
+      "bytes": 4096,
+      "entropy_raw": 5.9199,
+      "entropy_xor": 4.9471,
+      "xor_ascii_fraction": 0.9167
+    },
+    {
+      "offset_hex": "0x300000",
+      "bytes": 4096,
+      "entropy_raw": 5.811,
+      "entropy_xor": 4.7687,
+      "xor_ascii_fraction": 0.9617
+    }
+  ]
+}

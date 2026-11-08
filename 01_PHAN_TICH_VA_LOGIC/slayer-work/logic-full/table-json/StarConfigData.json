@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "OpenCondition": 230,
+    "Factor": 5,
+    "AD_DailyCount": 3,
+    "AD_TimeReduceValue": 30,
+    "Currency": 1,
+    "Currency_DailyCount": 5,
+    "Cost": 3000,
+    "TimeReduceValue": 30
+  }
+]

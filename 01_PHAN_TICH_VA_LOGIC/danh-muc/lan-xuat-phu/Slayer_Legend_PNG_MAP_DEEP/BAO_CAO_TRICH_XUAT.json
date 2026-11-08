@@ -1,0 +1,77 @@
+{
+  "pack": "map",
+  "counts": {
+    "resolved_via_spriteatlas": 1186,
+    "Texture2D": 319,
+    "Sprite": 1346
+  },
+  "texture_formats": {
+    "47": 159,
+    "34": 155,
+    "4": 1,
+    "51": 1,
+    "3": 4
+  },
+  "errors": [
+    [
+      -3414969757336934738,
+      "texture_decode",
+      "('unsupported texture format', 51, 512, 2048, 262144)"
+    ],
+    [
+      -7726121162443228670,
+      "sprite_missing_texture",
+      "(0, -3414969757336934738)"
+    ],
+    [
+      8771735378030452179,
+      "sprite_missing_texture",
+      "(0, -3414969757336934738)"
+    ],
+    [
+      503335483019505359,
+      "sprite_missing_texture",
+      "(0, -3414969757336934738)"
+    ],
+    [
+      -2144179943173726291,
+      "sprite_missing_texture",
+      "(0, -3414969757336934738)"
+    ],
+    [
+      9058959552066857938,
+      "sprite_missing_texture",
+      "(0, -3414969757336934738)"
+    ],
+    [
+      808183927829656982,
+      "sprite_missing_texture",
+      "(0, -3414969757336934738)"
+    ],
+    [
+      -7108218663144280646,
+      "sprite_missing_texture",
+      "(0, -3414969757336934738)"
+    ],
+    [
+      1098725032440798954,
+      "sprite_missing_texture",
+      "(0, -3414969757336934738)"
+    ],
+    [
+      3337484413505448335,
+      "sprite_missing_texture",
+      "(0, -3414969757336934738)"
+    ],
+    [
+      7165428288651174941,
+      "sprite_missing_texture",
+      "(0, -3414969757336934738)"
+    ]
+  ],
+  "unresolved": 11,
+  "elapsed_seconds": 21,
+  "sprite_total": 1356,
+  "textures_total": 320,
+  "atlas_total": 150
+}

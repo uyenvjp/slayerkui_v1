@@ -1,0 +1,1730 @@
+{
+  "input_only_reproduction": true,
+  "compared_files": 430,
+  "all_equal": true,
+  "matches": [
+    {
+      "file": "global-metadata.decoded.dat",
+      "sha256": "670133f0efe52104a72c582a79139b33f238c5dc43c2999cdbb8ce7c0aad3e20"
+    },
+    {
+      "file": "all-module-map.json",
+      "sha256": "11eb656e1221d326aa51bc2ad81a96098de24fab15d62b8bd4bf9f46b0c430c1"
+    },
+    {
+      "file": "all-method-map.csv",
+      "sha256": "57e0afdced60d128e28fa4cc6bf2c2d84e311e468e397fcb9f72a942b5860716"
+    },
+    {
+      "file": "type-map.json",
+      "sha256": "d1e1f3366c29e01f2b98a4d69e648664263be45e54d5baa9ebe35022e3f44680"
+    },
+    {
+      "file": "field-map.json",
+      "sha256": "130d1084efa4931331fb0091503571d59f60b5eeb4704b0d2546cf884919d224"
+    },
+    {
+      "file": "parameter-map.json",
+      "sha256": "0f3c2c58a638eda22096bdfe9116a61cf5b6e0e80041fa81bd243942ec141bfa"
+    },
+    {
+      "file": "table-schemas.json",
+      "sha256": "1693f8330fc7155345fb24b50994004aa299568b468162bcbffd9a66722b66c5"
+    },
+    {
+      "file": "table-json/EventBluemarbleConfigData.json",
+      "sha256": "536398e36e2ed340eaa98eb34b74b582ddf51cdf172ced026424ae7ac0237b48"
+    },
+    {
+      "file": "table-json/GuildQuestPersonalRewardData.json",
+      "sha256": "bbdbe6b424125832a5a3a72523419f19d298d5118c453a51c4c4743c8e319c98"
+    },
+    {
+      "file": "table-json/TimeAttackBattleWaveInfoData.json",
+      "sha256": "4a228651e189c6b0cc1aca9272053d5bccfb2657c79dc6a0f684c6c732ffd9c2"
+    },
+    {
+      "file": "table-json/ThemeDungeonEventPackageData.json",
+      "sha256": "0d7d1bcd7425c8a58d97457d900eb1015c1ce647925551f70080a02ac19a092c"
+    },
+    {
+      "file": "table-json/DemonImmortalRerollData.json",
+      "sha256": "e44db8a5495a0dbf6183d2228eff43ca7bea3a6bc9b7aa897ef13b6c84bc07e7"
+    },
+    {
+      "file": "table-json/BlackOrbGachaData.json",
+      "sha256": "7c12993f7eab29ff6cae5e1b20569e97cb61fadbc332a553d9352753622b586b"
+    },
+    {
+      "file": "table-json/NewUserGrowthMailData.json",
+      "sha256": "86fea9cfddc22ca8a726f5836f64293b2bc23d6e70fb25fc62a73b24551a9c5d"
+    },
+    {
+      "file": "table-json/EventSecretCodeBaseData.json",
+      "sha256": "4b0fdbc2ac0f20533e6c76f7c583920d956910baadb5cd42b49093ce77cf7726"
+    },
+    {
+      "file": "table-json/SkillBaseData.json",
+      "sha256": "2f13472e685f682d4dcfb5f830943ebb7a343a37cc5facf4b76d8153d72813e9"
+    },
+    {
+      "file": "table-json/PlayerClassBattleWaveInfoData.json",
+      "sha256": "c84eb2cb159b53bd0268a86f75426cd37ef58748603f41d7121a08f36c4735da"
+    },
+    {
+      "file": "table-json/SpiritLevelLimitData.json",
+      "sha256": "8fe568727a91da3d94d8aff99ace7baddc2203961963cb9f6a9a98de641497f2"
+    },
+    {
+      "file": "table-json/FountainAwakenConfigData.json",
+      "sha256": "27fc26dcb3a0273871ad8bcf75f0db074c6af83c2fcec7ce67161c76de05045a"
+    },
+    {
+      "file": "table-json/RandomRewardBoxGroupData.json",
+      "sha256": "6625536477f5f290afe8adbce4ff3ec90d30a77f647f422e002c75ec7fd036b6"
+    },
+    {
+      "file": "table-json/FriendOptionValueBaseData.json",
+      "sha256": "dc9f71ba813b41030ad0445a3085a211c298fa2eceba75d5f6e7ab4c82ef410c"
+    },
+    {
+      "file": "table-json/MinigameStackingBaseData.json",
+      "sha256": "d28c3db5026e385ea2e2a2df412b92466ae1713149b791b5e8c3c4e6e40845c0"
+    },
+    {
+      "file": "table-json/MinigameMoleBaseData.json",
+      "sha256": "60ebaefdcbcf8974f63daaac03078682ec3c457079aa6559f13a25b595e6c1e8"
+    },
+    {
+      "file": "table-json/GuildQuestFieldEffectData.json",
+      "sha256": "1ee35305440ddf07a1c4039106ddd0e2066216a95dacbc9e8506c2933e9a29db"
+    },
+    {
+      "file": "table-json/PlazaTarotCardData.json",
+      "sha256": "31ca9cf78e9fb11fc520acf0ec2dfa5f0b5d4881d34d25e4885958a508ec0a88"
+    },
+    {
+      "file": "table-json/DragonEmblemUpgradeInfoData.json",
+      "sha256": "e7f5e46b0d8893aed219d4441c738af641bb2247945dc10483560af6e60e68f4"
+    },
+    {
+      "file": "table-json/SpiritEquipSlotUnlockData.json",
+      "sha256": "ba27ff65760bc81cebc0b664feb871cb32c9a19b4599ceb33baeabfb82c32a9c"
+    },
+    {
+      "file": "table-json/FriendPassiveDmgBaseData.json",
+      "sha256": "edbd02f922d04ffc7aba4b5b7890dd8181eeb1f1b2b054f74890d89597264f95"
+    },
+    {
+      "file": "table-json/GuildMiniGameQuizData.json",
+      "sha256": "d41f5bf94319fe705452ec426ff89cd814b68ad2d01f9e37af29267d18819542"
+    },
+    {
+      "file": "table-json/DragonValleyRewardTierRewardData.json",
+      "sha256": "8473df412956109670b9a889405fb4e0de0874de694d402b8d995419a9c1bdbd"
+    },
+    {
+      "file": "table-json/GuildBeastAbilityData.json",
+      "sha256": "09640b11a69a46c8623a10c207d07506a61df7a3e269c5c5d8058d24a5872804"
+    },
+    {
+      "file": "table-json/SpiritLevelSyncSlotUnlockData.json",
+      "sha256": "b0a13feeb327f264a79e4fbc1b9e41cede3b807030b83fb482c962812c2b5538"
+    },
+    {
+      "file": "table-json/SeasonRankingShopData.json",
+      "sha256": "34266bbbea07e221ba4e7b2f53bfec45241cec0c3105ac92bb9d9f789e3d6482"
+    },
+    {
+      "file": "table-json/CurrencyBaseData.json",
+      "sha256": "63094ad55e4961eaf761dc183304db4a95a252f7edf6172cc660f7eaa16f7c47"
+    },
+    {
+      "file": "table-json/ThemeDungeonEventStatData.json",
+      "sha256": "5c7ebbe55c626918f15fca109ce2858a190222de191f7e979fa18770c9189874"
+    },
+    {
+      "file": "table-json/DemonColorData.json",
+      "sha256": "3395abda6ea939e3d6b41e2b8a558bd1e29a53afee7d2e8a5c3ac12fb36720ee"
+    },
+    {
+      "file": "table-json/QuestDailyData.json",
+      "sha256": "311a2ea495c1c342799e2a3717927be4cb52550e2b339bc9c4f250fbde7b8841"
+    },
+    {
+      "file": "table-json/WorldBossConfigData.json",
+      "sha256": "20f3fcb39d07c387c50cad9456d984afbb3ff546a4b4292baa981291ad121346"
+    },
+    {
+      "file": "table-json/EquipmentGachaRewardBaseData.json",
+      "sha256": "a314a86996022ef0ac2f51c2c600608baf6f441959f27c08961df959012bc6d0"
+    },
+    {
+      "file": "table-json/DragonValleyConfigData.json",
+      "sha256": "b6f9b5a2f43e6964e45b0d5da3ad9a623457fd370669bdb39af0a386268887a4"
+    },
+    {
+      "file": "table-json/SkillGrindingGradeData.json",
+      "sha256": "ff3f69dd0c2d4e07de4a64c52c8c1fe0da5e6e439947df99f4a01565b4dce0d5"
+    },
+    {
+      "file": "table-json/DragonValleyRewardSeason4SearchDispatchBoxData.json",
+      "sha256": "2b4713d7daccd4f720364fc2e0135fc28d3cf7e93be7872bc6c7edb824dab76d"
+    },
+    {
+      "file": "table-json/ThemeDungeonEventBattleAData.json",
+      "sha256": "241724bd4893575a94854dda3d34c2befd68b47fd6df31b2a4a5f4093a86eeba"
+    },
+    {
+      "file": "table-json/SeasonRankingPlayConfigData.json",
+      "sha256": "08a2db6ddf7f447868ebca3cc8562eb5d8dad12efdb7449d696edc57f59d40ff"
+    },
+    {
+      "file": "table-json/MiniQuestBaseData.json",
+      "sha256": "c27b47d3ec0d27711299943b697f6ad5a9fa61fc75cc39af6cbb9fab56ac0e5f"
+    },
+    {
+      "file": "table-json/SeasonSkillPassRewardData.json",
+      "sha256": "e04587aed3bf4bfded8a3d96af279bb4c92427aaa3543926f083d1d85f0f3bb4"
+    },
+    {
+      "file": "table-json/UpdateMaxValueBaseData.json",
+      "sha256": "579010048e9dfce79e392a86d615ca95a055cb06122dad4b3103da4d9b5f9ca0"
+    },
+    {
+      "file": "table-json/ServerRegionChannelBaseData.json",
+      "sha256": "ac656ee9c8110bb413e1dc9993c9eb2dc4d12d341fc118a62fb07dbdf4e0bc6e"
+    },
+    {
+      "file": "table-json/BeastBeastData.json",
+      "sha256": "15187590aa8b8ffad62f295e786ed2d20cd8ed0dea224a1f2071bd4a97f0becd"
+    },
+    {
+      "file": "table-json/UserLevelBaseData.json",
+      "sha256": "243378d328cc455873bf619b2f672139129ef54f398595b0090eaeab669659d2"
+    },
+    {
+      "file": "table-json/SkinFaceDecoData.json",
+      "sha256": "c88753b43f8b0495de606bba4dddfd5ce72fb234b21c94f884177738e9b77d1d"
+    },
+    {
+      "file": "table-json/SeasonSkillPackageData.json",
+      "sha256": "3374e30b7908b55dee34ab534bfcd6f9f2a2bf90182661d9cca7adc8f2a7cba6"
+    },
+    {
+      "file": "table-json/MinigameFishingConfigData.json",
+      "sha256": "3633746210887bcf4244d33e28569fab5d323246d8d21d2d64a5682d9be726f2"
+    },
+    {
+      "file": "table-json/PlazaQuestDetailData.json",
+      "sha256": "44d76f6cd3915219f9fdcddd3f94c9496a958035ae52538726eec9e83b013f12"
+    },
+    {
+      "file": "table-json/TimeAttackBattleData.json",
+      "sha256": "0275c4bf47d2d3405670164127f117b7935d93cf3b555e7c7d07a74612668434"
+    },
+    {
+      "file": "table-json/DragonValleyRewardSeason5RankRewardData.json",
+      "sha256": "c88fc517b4d9c491a394310a09065b21423ba870cf8a3e0a144501ce96e3a4b6"
+    },
+    {
+      "file": "table-json/DragonValleySeason4SearchData.json",
+      "sha256": "8cb8f855a2b1d22a2c6757b41df58c67a21448134c434326980f2860c9362cb7"
+    },
+    {
+      "file": "table-json/DragonValleyRewardSeason4SearchCompleteRewardData.json",
+      "sha256": "75890c5975286bd7d83fd5113b22cf16a179e50db5d1257a0ab5aedceb5ddde6"
+    },
+    {
+      "file": "table-json/MonsterDistanceInfoBaseData.json",
+      "sha256": "539aa111876cb76a44e117705693889a9809c5186f5d104f8600a29f79e68fa5"
+    },
+    {
+      "file": "table-json/PlazaQuestData.json",
+      "sha256": "f5c34f8f1fdb32ad385ef476db8edb48755b4c27a7ee11f57faf8bf1ae3c5a82"
+    },
+    {
+      "file": "table-json/EventShopGiftBaseData.json",
+      "sha256": "47c8268173c6f9614d0a9e43d197d0995386dbc4aea13c500ea07a19ad913189"
+    },
+    {
+      "file": "table-json/ArtifactMasteryData.json",
+      "sha256": "57398105de25f7986248cfd037e0bf66b460c794ea887d5bfe84a7c57fb291c0"
+    },
+    {
+      "file": "table-json/EventShopGiftRewardData.json",
+      "sha256": "27dccb2a10ac3df6833800f373b9f3a1112da80b98b4bc06625defa8dbd51bde"
+    },
+    {
+      "file": "table-json/GuildMiniGameMissionData.json",
+      "sha256": "805689548fd53dc076dced5a75c4a57ea60215bb902a76bf3110857fa4882b7f"
+    },
+    {
+      "file": "table-json/SkillLevelBaseData.json",
+      "sha256": "abde909a50c6d69dd0f4745c78d10d73d2ef20018f28bbaf5f5bdf72310ddea7"
+    },
+    {
+      "file": "table-json/MonsterInfoBaseData.json",
+      "sha256": "43dbd977dd13831b6f1020f82d8ecc1ea18936d73914929aca77eb5c97046435"
+    },
+    {
+      "file": "table-json/DragonValleySeason4SearchFactorData.json",
+      "sha256": "e72c6218faca9bdc2c4650e6cc5dbfb82135f905e62e840b974c7dc9577fb307"
+    },
+    {
+      "file": "table-json/DragonValleySearchProbData.json",
+      "sha256": "9041aaa8268d6352ffc66f098c594bd96d6c402489c78170c024a1570b0c4db4"
+    },
+    {
+      "file": "table-json/MinigameRaceRaceData.json",
+      "sha256": "f28932a64c1cc910b153d0fd55716e8cd90df50dcafdefcbe257e6f08fe97ebd"
+    },
+    {
+      "file": "table-json/EventRewardBaseData.json",
+      "sha256": "07fcdbff4a8abc1737670157af3c7e2a35b1d2efbb8def7827778e983fce53c2"
+    },
+    {
+      "file": "table-json/InvitationInfoCheerupRewardData.json",
+      "sha256": "c885b975695e911400ef042817c7642939ff5ce36bef960fb212e982e2633ff0"
+    },
+    {
+      "file": "table-json/SkillMakingDataBaseData.json",
+      "sha256": "b07179b011b84f00ed511eb9aad61352cab689b8fce24531a883dd2b0760666f"
+    },
+    {
+      "file": "table-json/DragonValleySeason3SearchData.json",
+      "sha256": "8cb8f855a2b1d22a2c6757b41df58c67a21448134c434326980f2860c9362cb7"
+    },
+    {
+      "file": "table-json/SkillMasteryCollectionData.json",
+      "sha256": "ca6423f061c06817136de04f3c111e152677f7185b183390f23fbeb92d35da65"
+    },
+    {
+      "file": "table-json/DragonValleySeason5SearchBattleData.json",
+      "sha256": "6589e8d3868767b3b5e2d5d842809da1edb65ee763958e6e17910c40c9ca94d5"
+    },
+    {
+      "file": "table-json/MinigameRetryTypeRewardAmountData.json",
+      "sha256": "5f578ff12e5d61e0044dff458f37b55eadd3e06dd5c87aa3ba9bb25a8a169e8d"
+    },
+    {
+      "file": "table-json/PlayerClassBaseData.json",
+      "sha256": "103cb81cb0fb2e0d0766f58fcbcb966b73a946cf4be7ccefe413ff5c8b880141"
+    },
+    {
+      "file": "table-json/DragonValleySeason3ArchaeologyData.json",
+      "sha256": "5e6c297222f07e19f806106391e27e50a98763fc8d922e3e4159976e4610537c"
+    },
+    {
+      "file": "table-json/DragonValleyRewardSeason4SearchBoxData.json",
+      "sha256": "34904cd0ad8b90ade4789c24f8b3c9933adc4d5474595a25ff1eeabe8254a20f"
+    },
+    {
+      "file": "table-json/SkinEarringData.json",
+      "sha256": "4edaadd14122e7031e30373e32dfbe82eca962a074f9246714927681e489b4fd"
+    },
+    {
+      "file": "table-json/MinigameRhythmRewardData.json",
+      "sha256": "e1ba0129b59dad3fb3ae1db30fe7bf475ee8128fc58a432cc8ea9bb949e4182d"
+    },
+    {
+      "file": "table-json/WishLevelData.json",
+      "sha256": "2cea877fb66f69cb5a3f0567b662a786f2033a9694f097f1f83d33af27d4b34d"
+    },
+    {
+      "file": "table-json/AwakeningAccessoryBaseData.json",
+      "sha256": "482a7c380323415741d6744a6f26f894bae74d3f8c1e566005a5e5e603afe27f"
+    },
+    {
+      "file": "table-json/ThemeDungeonEventBattleBData.json",
+      "sha256": "dc67d792870ce06c8b0bd55671de150c66b9f5865dc7b8e71ced810a4e855e65"
+    },
+    {
+      "file": "table-json/DragonValleySeason3SearchProbData.json",
+      "sha256": "d522be8d8a3ecf820fc491cb30a4b3d7f4231913cd02386dce4375410b5e3009"
+    },
+    {
+      "file": "table-json/OptionValueBaseData.json",
+      "sha256": "3bec7f764bd02792d37cd873e07927286d7e9447371657189abfe5bb4c8d183f"
+    },
+    {
+      "file": "table-json/SkillMasteryNodeData.json",
+      "sha256": "48b0e671c08707764677836177b371238efc52e3ffa38c9d0dc5c5df0c816864"
+    },
+    {
+      "file": "table-json/ThemeDungeonEventBaseData.json",
+      "sha256": "7e2adb03de60da909ca2d2e58069cdbe8d207e9c4eb6061b30fec65bbdb6d355"
+    },
+    {
+      "file": "table-json/DragonValleySeason5HallOfFameData.json",
+      "sha256": "7a65d4bb0106ead4032c0aa25832023be2c2c87228e5156f1fae888abe52deb1"
+    },
+    {
+      "file": "table-json/DragonValleySeason4TierData.json",
+      "sha256": "9e34aedf07915749919bce7e780a46d0ba5421d89f28fe41252329ca2e20f65a"
+    },
+    {
+      "file": "table-json/SlayerClassBaseData.json",
+      "sha256": "714fb55ace35bc2134ec8438cd529a3ba61bfc36ca94a9445f1cfcc550f05ac2"
+    },
+    {
+      "file": "table-json/EventBinGoBaseData.json",
+      "sha256": "4d2cf2528e8e3acd25932b568f792b5b9d3ff4f64caec9a231298c6653184d1e"
+    },
+    {
+      "file": "table-json/WorldBossBattleQuestData.json",
+      "sha256": "ecf7f10394ab5104acb7f0633e84217ea81830ef20d117fdbd6d163f87291ecc"
+    },
+    {
+      "file": "table-json/SkillGrindingOptionsData.json",
+      "sha256": "00bee5596025fcb29db0a7f5165d02040b90f72975c01d4bced6545e7897da0d"
+    },
+    {
+      "file": "table-json/MinigameRhythmConfigData.json",
+      "sha256": "ffc43c150d5322a74b36226533880a8a5f10c424313fe7b699a4795577533d79"
+    },
+    {
+      "file": "table-json/BlackOrbLevelData.json",
+      "sha256": "299f0fa6eb726e62801957942458d801f247aa1fc8da5407a34e8cf2a33e1fc7"
+    },
+    {
+      "file": "table-json/MineInfoBaseData.json",
+      "sha256": "25d0dbbafd55855a8db93e031d2e24c4d60e9fc7c68668e5b5f0ea24c32ad0bd"
+    },
+    {
+      "file": "table-json/GuildMiniGameSwordSparringConfigData.json",
+      "sha256": "29425e6bcba788bb50df9ee7bcf0453249773e121d0afd50639aa5e3a9a75df8"
+    },
+    {
+      "file": "table-json/DragonValleySeason3ConfigData.json",
+      "sha256": "347c7da34e3d59c6699d8e20d08c60d10cf74e38309e76e0c2df19b1c21f404b"
+    },
+    {
+      "file": "table-json/BeastScoutData.json",
+      "sha256": "ec747a337db4310fc925c1582d8e21074baab72a35278546769cb2db7f130d5f"
+    },
+    {
+      "file": "table-json/MinigameFruitBaseData.json",
+      "sha256": "58c0bc445b6ca2bff285615daa51f4fdfe66215af8d6f937428c9220c5c79abd"
+    },
+    {
+      "file": "table-json/StageGoldFactorBaseData.json",
+      "sha256": "c4110796f097b60ca274dbb7368fb7a06af5a836f06a6114e3d6f8c1f4010557"
+    },
+    {
+      "file": "table-json/DemonSanctuaryData.json",
+      "sha256": "443e633879ad6ca1ccd881cdb681df2459b60e4debd707e0740f053da69bf583"
+    },
+    {
+      "file": "table-json/CampaignInfoSubData.json",
+      "sha256": "dd9411fe72e9186069ef162d86cad6a3fe2d3b1e5529137da83fd37c5bc4d591"
+    },
+    {
+      "file": "table-json/DragonValleySeason4ScientistConfigData.json",
+      "sha256": "ea9103b063719c99ac0f7e2a765b3b61a93938931e38b7bd860d73decbaf4f6e"
+    },
+    {
+      "file": "table-json/ProductBaseData.json",
+      "sha256": "58e80906baa363ca3c775e51333bd82f19a11004e9d51e8da37f0b569b9b8597"
+    },
+    {
+      "file": "table-json/NewUserWelcomInfoBaseData.json",
+      "sha256": "1d27f95f8954f0209319f07a8db6c9045b938f70ecb87da3d662ba5dc08d35b6"
+    },
+    {
+      "file": "table-json/DragonValleySeason3ArchaeologyIdentifyData.json",
+      "sha256": "b77f157f189c55f6806289899aa3a54822846e79f0801e66aa77eb8d57b11279"
+    },
+    {
+      "file": "table-json/SlayerClassGachaProbData.json",
+      "sha256": "29571797e2bc98b6bc2408b6f5d816957b6259a97b7f122a5ee625c01033ea71"
+    },
+    {
+      "file": "table-json/MinigameRaceBaseData.json",
+      "sha256": "c611d07d65f832081e951baf2161ff10eceb928a3a72966dfb88899b446af3ad"
+    },
+    {
+      "file": "table-json/MinigameDefenseRewardData.json",
+      "sha256": "38bd941073246ebbfe69397b128b0cc83c634452bf9ebda92d8f97ec3c1736bc"
+    },
+    {
+      "file": "table-json/FriendPassiveBaseData.json",
+      "sha256": "40fb27c14134b1e36df9d243f51f8ac1b45f4d309740f092263acd396848701e"
+    },
+    {
+      "file": "table-json/DragonValleyRewardSeason5SearchBoxData.json",
+      "sha256": "0aac49516965a78181c5b54ad7b1c7b2914b5e27d56e3dfc79dc2f96ab10da62"
+    },
+    {
+      "file": "table-json/MinigameMoleRewardData.json",
+      "sha256": "64cb56c100d20aa2195f6a0fc1d84169fdac9214056c92bd5229de2a151e3382"
+    },
+    {
+      "file": "table-json/MinigameStackingCustomerAppearanceData.json",
+      "sha256": "ccb1be0f1ac56d5e08a2ab844e299aa49e59348882738745f6256da5c95e8d7a"
+    },
+    {
+      "file": "table-json/MinigameDefenseConfigData.json",
+      "sha256": "da5d6726d830926c3033d529b09130a4a5729b00194f6edcb33964b341ccc7b4"
+    },
+    {
+      "file": "table-json/MinigameFishingDifficultyData.json",
+      "sha256": "bd7cbef96cf90fea80dda86566430a01a8ff6f085ce3b3af4444259af2b4969c"
+    },
+    {
+      "file": "table-json/KnowledgeInfoBaseData.json",
+      "sha256": "5b125f461a6152bb20029a88591d0b850ed63be734fdb44c6ce50970621e929e"
+    },
+    {
+      "file": "table-json/ABTestAssignData.json",
+      "sha256": "f8cd0a4296006bb105ad50bbacd061affc3aff15275419e0cad1cc00d0b512c7"
+    },
+    {
+      "file": "table-json/SkinMapData.json",
+      "sha256": "4d022071e9dae7619f609c54787d7cec493d84006894d22a574e63ba001138e9"
+    },
+    {
+      "file": "table-json/SkinHairBackData.json",
+      "sha256": "2dbdc1da382e1dd8242e4fbb7d8da7b95ae8964a4476f8f22f9a66fce04183e4"
+    },
+    {
+      "file": "table-json/SeasonRankingBattleData.json",
+      "sha256": "ac6bf0f97ba7e0e3cf52c37c70948c8382a1febd0b27c7a44f6a05bd2f7192e9"
+    },
+    {
+      "file": "table-json/AttendanceRewardBaseData.json",
+      "sha256": "a70e8d874c6f83a97fa37fb520d11082d3501d099a49fd7be00cdea39c61db0d"
+    },
+    {
+      "file": "table-json/DragonValleyRewardSearchBoxData.json",
+      "sha256": "a151d279c4381c3dac62a9d070d9e5ec885b9b3cb196d645b8ae42cdd4a0178a"
+    },
+    {
+      "file": "table-json/EventBaseData.json",
+      "sha256": "ff2e37e8df0c77b1a622a6d4dbac17efabfa902c02463ca22f93a6bc9e878e6a"
+    },
+    {
+      "file": "table-json/SpiritAwakeningData.json",
+      "sha256": "7b78b7ad85831890e2ff0c89eabbce52d3aa860b93249eef06e5837f8fed493c"
+    },
+    {
+      "file": "table-json/EventMinigameConfigData.json",
+      "sha256": "4a3740811d7e1a225c89187c920b1d7807e607908664544bcd5755997c6b1811"
+    },
+    {
+      "file": "table-json/DragonValleySeason3SearchWaveData.json",
+      "sha256": "a9a302433ef267d4c11139fe8f0e8b1325e8127790dd31c3a534745a8eab1667"
+    },
+    {
+      "file": "table-json/CampaignEpisodeSubData.json",
+      "sha256": "9b0f4e5c0e0a5900b7ce241e84b4329920efbe136a7759dd065beb6f39061bba"
+    },
+    {
+      "file": "table-json/MinigameFishingRewardData.json",
+      "sha256": "b5ffb7805d9ce525a4e6c8a53ebb5d2f7192a0e25932dc5816ba8cc4423fcccf"
+    },
+    {
+      "file": "table-json/ImmortalTreeMainNodeData.json",
+      "sha256": "15e30c4ac2d1b5976ad3b8c776450544b649d46d806e0ad330f601d906f4ed34"
+    },
+    {
+      "file": "table-json/KnowledgeInfoSuperCriticalBaseData.json",
+      "sha256": "15d7b0c5b9f70da4250e2034ac0aeaa0daf9c1cb85e702036d3a65f055ad2ad8"
+    },
+    {
+      "file": "table-json/BeastConfigData.json",
+      "sha256": "e2a4def6c76d1639efa6aa7baf631835bffde2468b8cecfa23534dcf61108c0b"
+    },
+    {
+      "file": "table-json/SkillMasterySkillEnforceBattleData.json",
+      "sha256": "24630f66123e05b56fa9c23808e74b0411a0497e8ca7009c9eebeb63a5b5caab"
+    },
+    {
+      "file": "table-json/PlazaFountainRewardData.json",
+      "sha256": "2ff22ffb8bc663beffc4dda7825afad0a23075ec420cd9d96691af29b735ea17"
+    },
+    {
+      "file": "table-json/WorldBossMainBattleInfoData.json",
+      "sha256": "6929d3dcf2b93c1b04c1c34667d16d175851a1bef023bbfcbff22eb8f2417cd4"
+    },
+    {
+      "file": "table-json/StageInfoBase2000Data.json",
+      "sha256": "56553fafb3584a94b510f82671c57f6327aaf44f889dbf42cf95638a992e6618"
+    },
+    {
+      "file": "table-json/CampaignEpisodeBaseData.json",
+      "sha256": "8c21ea872e876cd10fc638121d7f4e9188a3e046bd8a2d3894e9e7e2b3276434"
+    },
+    {
+      "file": "table-json/DemonAltarData.json",
+      "sha256": "9d9053e8180de687605d2ed6305d794c8c590c5711e1541b65590fe059aef9c5"
+    },
+    {
+      "file": "table-json/ConstantConfigData.json",
+      "sha256": "991e317cae9bd559ec324a846a87a1205b7e9f1a2d085157ec02568fc5ed5075"
+    },
+    {
+      "file": "table-json/ContentsOpenBaseData.json",
+      "sha256": "d981e1d74339154b3d6d66395f800e90d7bfd1661050c65d082089fca341134e"
+    },
+    {
+      "file": "table-json/DragonValleySeason3SearchFactorData.json",
+      "sha256": "619fb601d6c96e54192f086f7c0f09da7a532a179a99251242936691b1f76af0"
+    },
+    {
+      "file": "table-json/EventAttendanceBaseData.json",
+      "sha256": "d1fd155b24a7263b1f8bfa0ef7c270b59a833dfb3f7db43c1a7bc99af30d9d12"
+    },
+    {
+      "file": "table-json/EventBinGoTotalRewardData.json",
+      "sha256": "19cf09dc1bd3b12a8bef30053e1e12eba17eb3dcdd08097cf6a90f44d471429a"
+    },
+    {
+      "file": "table-json/DragonValleySeason3SearchBattleData.json",
+      "sha256": "6589e8d3868767b3b5e2d5d842809da1edb65ee763958e6e17910c40c9ca94d5"
+    },
+    {
+      "file": "table-json/RankingBattleModeBattleInfoData.json",
+      "sha256": "068f9fd3b7f66ba602fe4b9422a3a20430d0068cddb7767f73bf87b947f6aeec"
+    },
+    {
+      "file": "table-json/MinigameCardMatchingRewardData.json",
+      "sha256": "64cb56c100d20aa2195f6a0fc1d84169fdac9214056c92bd5229de2a151e3382"
+    },
+    {
+      "file": "table-json/DemonBaseData.json",
+      "sha256": "4baa8b413dfdea1bacb8b9ce65f83e8dac923e192d19c8f8855765810cfd0078"
+    },
+    {
+      "file": "table-json/DragonValleySeason3HuntBattleData.json",
+      "sha256": "d01b2e16394fe1007f830b5f2f9e238cd153d524af33187d0207c81ba97cf085"
+    },
+    {
+      "file": "table-json/CampaignScenarioSubData.json",
+      "sha256": "5dd36318733476171cd556bfc4746c210b5963cba10bdd0660c330728a9c9dc2"
+    },
+    {
+      "file": "table-json/TimeAttackMissionData.json",
+      "sha256": "35b2cb8799eb6b3be4041b060f1ad42a53d45000569433401f6f4dfdfa9dc82f"
+    },
+    {
+      "file": "table-json/MinigameFlappyBirdBaseData.json",
+      "sha256": "b4718b9c2329c9223d3e40edce9cf826f84d1eb320f20e9caf87d6c4aa95f25f"
+    },
+    {
+      "file": "table-json/MinigameShootingConfigData.json",
+      "sha256": "a71bbe784ad3eb8e6ecb4b8a5bd04b3ba5761bd155848f3b13b9355b77ce4bf6"
+    },
+    {
+      "file": "table-json/NewUserWelcomInfoRewardData.json",
+      "sha256": "fe416a37e936cb0aa4017e279d713e3ddf964bfc3afd19d30f5e421af5ddd29d"
+    },
+    {
+      "file": "table-json/PromotionPassQuizData.json",
+      "sha256": "0d33e1e616039d01ddb413dfffacc8798b2b6ef7d44ac54067ee099f093dd077"
+    },
+    {
+      "file": "table-json/GuildQuestDmgTypeInfoData.json",
+      "sha256": "16542bbc5e6369b8d048812f7be6aa924442533935f142de4b5fdd4791fa0efb"
+    },
+    {
+      "file": "table-json/ArtifactBaseData.json",
+      "sha256": "4d55ebdb1a8cb8e9f8c184f92c6f3c8d892777dd64451a7f18722c0d9d1ffc34"
+    },
+    {
+      "file": "table-json/EventMinigameRewardData.json",
+      "sha256": "64cb56c100d20aa2195f6a0fc1d84169fdac9214056c92bd5229de2a151e3382"
+    },
+    {
+      "file": "table-json/DragonValleyRewardSeason4RankRewardData.json",
+      "sha256": "c88fc517b4d9c491a394310a09065b21423ba870cf8a3e0a144501ce96e3a4b6"
+    },
+    {
+      "file": "table-json/DragonValleyRewardSeason4TierRewardData.json",
+      "sha256": "424f76cfc1f3cd383c08b758478c2932276a08153d005d23eae4233fc14336ac"
+    },
+    {
+      "file": "table-json/RandomRewardBoxBaseData.json",
+      "sha256": "0d247e29411ab9fcaf174945936f006b49cbe878aa3c74a3de7ae5479e4ddfd0"
+    },
+    {
+      "file": "table-json/MinigameDefenseDifficultyData.json",
+      "sha256": "3fe79c92441aecf78f1d2da0fca412eaea65da3c46fde96f7b6f185616bd60b1"
+    },
+    {
+      "file": "table-json/WorldBossSubBattleWaveInfoData.json",
+      "sha256": "c61c690ef0726b641b15c1809ddb483d44516ce18760ed1e58822a91b1fed9cd"
+    },
+    {
+      "file": "table-json/DragonValleyRewardSearchCompleteRewardData.json",
+      "sha256": "75890c5975286bd7d83fd5113b22cf16a179e50db5d1257a0ab5aedceb5ddde6"
+    },
+    {
+      "file": "table-json/SkinLensData.json",
+      "sha256": "429b6c51099676c13dec1648b5b88925647309a23ccdf86ceff8e1397f8d5035"
+    },
+    {
+      "file": "table-json/PresetBattlePlayerPresetData.json",
+      "sha256": "ef1c0a6397e6e65f36d83b0a5ba15ddeefff98042d9c616312f410225076d14e"
+    },
+    {
+      "file": "table-json/EquipmentInfoBaseData.json",
+      "sha256": "231b9f9cd9f701a9c7ba1419041c3ba1e3af00d3b32b4680248095be4b1063dd"
+    },
+    {
+      "file": "table-json/DragonValleySeason4CookData.json",
+      "sha256": "93ecc6786148670ffdb402a5f6eefbc102dd9a60e077922b336971af77a7118e"
+    },
+    {
+      "file": "table-json/GuildQuestBaseData.json",
+      "sha256": "d9e99631d13e814d9f04bf7a08e0a84180587b3cbae9652258895aeb51efef37"
+    },
+    {
+      "file": "table-json/SkinHatData.json",
+      "sha256": "699e381b23f4e3a582face9bf99d399d977d6a91be7ad866a27a581375372424"
+    },
+    {
+      "file": "table-json/GuildMiniGameQuizConfigData.json",
+      "sha256": "617d1e07091092c8f68d9b29079e6ef178c752311830054a8a67d9ea5950eda8"
+    },
+    {
+      "file": "table-json/StarConfigData.json",
+      "sha256": "cfbd23e33ac732855e78fc385f52ba6aac828a8675ed47be86157b15dfca5e95"
+    },
+    {
+      "file": "table-json/DemonSecretGateData.json",
+      "sha256": "8fb860f8cae606bb7da40967996d9b9765d1907bdd2dadddc1bedfb26c7a3981"
+    },
+    {
+      "file": "table-json/SkinFriendData.json",
+      "sha256": "d2a8830267fc673fdeafcafb3289b5ca2a7ab0c66fc64ceb6cc5c9f061ee0b52"
+    },
+    {
+      "file": "table-json/SoulWeaponBaseData.json",
+      "sha256": "98ca6876839095b7a0549c9572b1c2da64ace4f55a119328ba18dbb3dcb45abb"
+    },
+    {
+      "file": "table-json/MinigameStackingRewardData.json",
+      "sha256": "6f6b856c699a261250868d8d11f07c7824544e1790a20ccf0b4c52dbb75ae0c0"
+    },
+    {
+      "file": "table-json/BeastAppearanceData.json",
+      "sha256": "e54567a8a1b40dd95c025440f59363396abb743c51532cde9c5d5464383f635a"
+    },
+    {
+      "file": "table-json/AdventureWaveInfoBaseData.json",
+      "sha256": "056c2677bce894086ca49f78dccde17dc5f8993609cea3e4522b31b5daf007d4"
+    },
+    {
+      "file": "table-json/MinigameFlappyBirdPresentCountData.json",
+      "sha256": "641aa918d33e1458611667b17575242097df0b8c698ef0861e85ad9581eca054"
+    },
+    {
+      "file": "table-json/EventSkinShopData.json",
+      "sha256": "24569abdc7ac558183faffd356dcf15268f37424e62bf54de1b4fa33fa66d8a7"
+    },
+    {
+      "file": "table-json/EquipmentRefineConfigData.json",
+      "sha256": "001ffa7c8190eb8519409f99679e0a60ef48aeafffd814fa1909bd37883bb7fe"
+    },
+    {
+      "file": "table-json/DragonValleySeason4EtherGradePoolData.json",
+      "sha256": "809d1e07699cbb20323d3bbbf1daeb34c3440af079e8cffe2959d56317bd774a"
+    },
+    {
+      "file": "table-json/DragonValleySearchFactorData.json",
+      "sha256": "6faee87fa9969d09f89ff3de227f6e93a95087727ef40ec4ae084bcb7366a3e3"
+    },
+    {
+      "file": "table-json/DragonValleySeason5ConfigData.json",
+      "sha256": "957355efcea0f48c1760af5ce47e687ae2ec5bae11185715a102c3003580d5ac"
+    },
+    {
+      "file": "table-json/MinigameShootingWaveInfoData.json",
+      "sha256": "313956e73617ad2d1866807259eed9aca3c31d54f5ce32289bce85e70cea68f4"
+    },
+    {
+      "file": "table-json/GuildMiniGameSwordSparringData.json",
+      "sha256": "4a5cc733d4891393b15f3ac6ece1aa01ba6db2670662c27bc08d45797d2e07e2"
+    },
+    {
+      "file": "table-json/DragonValleySeason5CookMaterialData.json",
+      "sha256": "47730770cded7d126e79d14383f8e81387cb1bc4785fa9888a67eb9cb771d7c9"
+    },
+    {
+      "file": "table-json/SkillGrindingConfigData.json",
+      "sha256": "fa2560b0badb8ec7a9d6036f32a04d420ddcba53549bb0a433d224d03f514215"
+    },
+    {
+      "file": "table-json/DragonValleySeason3TierData.json",
+      "sha256": "9e34aedf07915749919bce7e780a46d0ba5421d89f28fe41252329ca2e20f65a"
+    },
+    {
+      "file": "table-json/PlazaQuestNpcData.json",
+      "sha256": "10d28a626868a4fecb896f28d50d3fdf0225e8a33e554fae41eb10d115e0f42e"
+    },
+    {
+      "file": "table-json/BlackOrbResonateData.json",
+      "sha256": "611360451977c41ea0fe4114438f2abd393f7a6ee6dc1e1e00b36d4ff2b5f5ef"
+    },
+    {
+      "file": "table-json/DragonValleyRewardSpecialSearchBoxData.json",
+      "sha256": "7ca5f1b51f7d8a6f74d3411bda65f8623ec4cf3a4bfa4b3c78ffe609b2730fdb"
+    },
+    {
+      "file": "table-json/NewUserAttendanceBaseData.json",
+      "sha256": "17f76c9cb2e904d473b41dd99b10e2388c6ba8886482b274aa1e43a383e3ff8a"
+    },
+    {
+      "file": "table-json/PlazaFountainConfigData.json",
+      "sha256": "6a018ed5201e1542e318b4459d9ce6bed823a5bc53deff72d01de069407fe6c0"
+    },
+    {
+      "file": "table-json/DragonValleySeason5CookConfigData.json",
+      "sha256": "554fe3b8c17b1d599e8314fdfe2d6b2e67c82a4d906258a967e828be02da0937"
+    },
+    {
+      "file": "table-json/ImmortalTreeFactorData.json",
+      "sha256": "d152ee47fc49dab526887145bb96beee286eb68b62b88ebcf414104955ad2ddf"
+    },
+    {
+      "file": "table-json/ConstantAchievementData.json",
+      "sha256": "991e317cae9bd559ec324a846a87a1205b7e9f1a2d085157ec02568fc5ed5075"
+    },
+    {
+      "file": "table-json/DragonValleyTradeData.json",
+      "sha256": "b69a0a431ab25d0f384a9a6d48ee63d66060b451c3306b0a09d8f7b0c59a093c"
+    },
+    {
+      "file": "table-json/DemonSkillData.json",
+      "sha256": "db193ed24e7c844c6af5522beacbe34af8456a1b1476c4451acc3bcba18e9ffa"
+    },
+    {
+      "file": "table-json/GuildQuestBattleMonsterBaseData.json",
+      "sha256": "d9bb33128bcf6d735b7f20c0f037b057b8cd104d700c77cc01b573716bd20073"
+    },
+    {
+      "file": "table-json/DragonValleyCookData.json",
+      "sha256": "d24d9e3bcc58de08dfd72fb88be8c1b3515742ff074c1ee62c2f180363689a56"
+    },
+    {
+      "file": "table-json/SoulWeaponImprintData.json",
+      "sha256": "caf6ffbbe600dc1942b0a9a0ecbfec879a169da5e9601b10074249cf93771eb1"
+    },
+    {
+      "file": "table-json/NewUserAttendanceHighSlayerScoreData.json",
+      "sha256": "4aa1da3715d051ae0bc6cf9890bf7c7618587e74e18b14f32b227254c2270844"
+    },
+    {
+      "file": "table-json/DragonValleyRewardSeason4SpecialSearchBoxData.json",
+      "sha256": "6671f1ede4c5c71c41e6a5ebd08f97ed20b52b8ae12d7e3b400b61ba440a5d51"
+    },
+    {
+      "file": "table-json/StageInfoBaseData.json",
+      "sha256": "557c5c32946197b086a1be88669748c534c57f3aded4897d763e4f883ce4fa44"
+    },
+    {
+      "file": "table-json/DragonEmblemProbInfoData.json",
+      "sha256": "f6f9114075a8a729d103dfe8552122962f9aab5fffe1db8e96252845c1733d3d"
+    },
+    {
+      "file": "table-json/DragonValleySeason4ConfigData.json",
+      "sha256": "02a3738f0248adf539f785a353019885a425d4ab0845849d9bb0d5fac1714c2f"
+    },
+    {
+      "file": "table-json/PlazaConfigData.json",
+      "sha256": "abc1db1efd1a2c8cdd42f51f746ec4dcb2214b75dba6ceee9dacfdfefda1fc20"
+    },
+    {
+      "file": "table-json/DemonMasteryData.json",
+      "sha256": "7acbaeca1bafacb83711e456bed8af260e69aaffa968f566ec9b0003e1541c0e"
+    },
+    {
+      "file": "table-json/MinigameRhythmBaseData.json",
+      "sha256": "3c3ef30ebe56ac728bcb005b4b8072ddf7a6cb6fd00fde557da6027c27646de6"
+    },
+    {
+      "file": "table-json/SeasonSkillBingoRewardData.json",
+      "sha256": "80e8c4ddcb699a7983a29ee75c073f44532cdbacfcf40633a05de4235e3fe1f9"
+    },
+    {
+      "file": "table-json/RewardBaseData.json",
+      "sha256": "6bf5b7e2898ece3025ec81de2483d8fc08636b40f17c63fd93bc50a9ee4b4b1c"
+    },
+    {
+      "file": "table-json/WorldBossSubBattleBaseData.json",
+      "sha256": "7de5941b63426daae63f89ee18cfce633940c94b09447f14d4306343c21cad84"
+    },
+    {
+      "file": "table-json/BlackOrbBaseData.json",
+      "sha256": "29cda3bcefa996bf5bb3006bd7c546384062fb92e792c52d1fbd34a766fd5ea9"
+    },
+    {
+      "file": "table-json/GuildQuestBattleInfoData.json",
+      "sha256": "eba7bbe4cd336bd98b627218628348d6adb7b0875fc57053bb4a7d5650a18754"
+    },
+    {
+      "file": "table-json/BlackOrbGradeData.json",
+      "sha256": "d5e0f43c833c5aba9b984f902bdaea341aa0a75e9e39dba593907e0242bfb5dc"
+    },
+    {
+      "file": "table-json/MinigameFruitFruitData.json",
+      "sha256": "9fd9cd3983a00377711f3bca45de44ccc50c57508e65dff206d558a6248add32"
+    },
+    {
+      "file": "table-json/DragonValleyHuntBattleData.json",
+      "sha256": "bb6ebf8f929acf9d40ee63fa9970bc573fdafb3ab5c8178ad8c1a6ecb5bb1a49"
+    },
+    {
+      "file": "table-json/BeastShopData.json",
+      "sha256": "897506aadeee1a962409f742f14f26d463013f39f3b7d46daf55a024d8e25f30"
+    },
+    {
+      "file": "table-json/SoulWeaponSoulGemInfoData.json",
+      "sha256": "6cdecbe56710a21b9d7adaf99bb7d8e27b5cba24490e23caddc7894f6fee2f32"
+    },
+    {
+      "file": "table-json/SkillTreeBaseData.json",
+      "sha256": "316f76fbff11b2d76ecd75c3a871192fcf01b6299a1a43d3c56ddd3cc9ed4103"
+    },
+    {
+      "file": "table-json/MinigameShootingEnemyInfoData.json",
+      "sha256": "68d54cf1c8dfb1040f25726212146c83215bfaa4fd26473f8af9465e7cf4c1e2"
+    },
+    {
+      "file": "table-json/SkinFaceData.json",
+      "sha256": "0c19d56a05d30e05af2fe29e9c4b0ed949bb1b3f4bf9ed3da88e5efeca24741a"
+    },
+    {
+      "file": "table-json/SkinCloakData.json",
+      "sha256": "1e5c18a4cf23a392aef140da4b2496376f864fbe8f1e90285b977280c12c4c5e"
+    },
+    {
+      "file": "table-json/DragonEmblemConfigData.json",
+      "sha256": "74e773f030fe448fcfbf3e0ff9432f328d90eaa546982b117fb3f9f45a92306b"
+    },
+    {
+      "file": "table-json/ThemeDungeonEventPassData.json",
+      "sha256": "36fbc7d25f257b29c7cf201e337e604fe7d7967e297023fefb198a663e91bae5"
+    },
+    {
+      "file": "table-json/CampaignWaveInfoBaseData.json",
+      "sha256": "74a79ad03d423356e7bd7bd3686bf675e7e9d43f594afca1ab28e17aef5fd241"
+    },
+    {
+      "file": "table-json/DragonValleySeason5CookData.json",
+      "sha256": "7bd6655cdae4636941a6e306a57809f87d6df29f304c27393cd4d5a205051d45"
+    },
+    {
+      "file": "table-json/BlackOrbAwakenData.json",
+      "sha256": "26d8460648c758013dd28a1b801b2e91aba79cfeb51cc4d65705efb4bbd3d098"
+    },
+    {
+      "file": "table-json/SkillGrindingRewardData.json",
+      "sha256": "53fc427585a8fe463d02461e37641a804b0843d0340e47d94f1f0ccd44ef1429"
+    },
+    {
+      "file": "table-json/AdventureInfoBaseData.json",
+      "sha256": "3c7ab1c7f9369d876fb08e7605b59f26268e2b1413cf469b87593f6b2a28c7b3"
+    },
+    {
+      "file": "table-json/BeastAwakenData.json",
+      "sha256": "b505c317d2399d31ea8258e90e52e77586c5186619c260399da9852bdeb6e0fa"
+    },
+    {
+      "file": "table-json/DragonValleySeason3ArchaeologyGemData.json",
+      "sha256": "c57e119cf1831753332b35452664026b9fa2427bd638feceea2ec34a6e69abb1"
+    },
+    {
+      "file": "table-json/MinigameRaceRewardData.json",
+      "sha256": "b6c3b9d82a41bc5d63c3d4a5547c53ebf0a1835a8e0cabd1628b965ddfc3b768"
+    },
+    {
+      "file": "table-json/DragonValleySearchWaveData.json",
+      "sha256": "70fa26b37fca551d20381fde30bbdb9268b8aa8510c52a9f06b0973623b3eb45"
+    },
+    {
+      "file": "table-json/PastProductBaseData.json",
+      "sha256": "9546b08e7ace317386508daefc4942e18e6e6e85975e6750e1c33c5fdfe910b1"
+    },
+    {
+      "file": "table-json/DragonValleySearchData.json",
+      "sha256": "1ca54cde8e11fd4e3be8800964efd3d8be6cc1a6665ed4a23c559f62eeb95d7b"
+    },
+    {
+      "file": "table-json/ThemeDungeonEventShopData.json",
+      "sha256": "92584108ab070e63b9d939285676a602211a9e6bb3e6da0fc025159b3beb9339"
+    },
+    {
+      "file": "table-json/QuestAchievementData.json",
+      "sha256": "7db2275b509679014d1955fe13f021b8a667176eab5d53850d71120be9215e6e"
+    },
+    {
+      "file": "table-json/DragonValleySearchBattleData.json",
+      "sha256": "87a34a917c2d9aa17b4035a4a287eb543e005c162075ba99c6c2d718c04030a8"
+    },
+    {
+      "file": "table-json/GuildShopUnlockData.json",
+      "sha256": "75dd9f853d1cc184c6892d0ba181607aad1022fb1e744dae33428e7261a37699"
+    },
+    {
+      "file": "table-json/StageInfoBase1000Data.json",
+      "sha256": "3386a5d8f210b97bc961d27b0f422e5d6d6c0411f2a7f5e2f8c41bbb9ef1745e"
+    },
+    {
+      "file": "table-json/ArtifactConfigData.json",
+      "sha256": "02188a4e3db31d54907c5c9cad0823b42800db2a84019059aee31f05e589c136"
+    },
+    {
+      "file": "table-json/EventStepUpPackageRewardData.json",
+      "sha256": "a7cc0e81f2c4c18b0ec09481516ea5eb557fb6ac8b347baecc02dbd097e4605f"
+    },
+    {
+      "file": "table-json/SkinBattleWaveInfoData.json",
+      "sha256": "01186f473ced7faf09d1f25afb6d9cc77998066dbe77517a58cc7cf060ac9c46"
+    },
+    {
+      "file": "table-json/CampaignInfoBaseData.json",
+      "sha256": "c3ba8b4013b1d46e30013c6f8f077251c51b8305683a10446c8f9723095d01fd"
+    },
+    {
+      "file": "table-json/DragonValleySeason4EtherobotStatData.json",
+      "sha256": "409336bee6eb5f23ab0bb8e41e3f2248e23b2d1a75f3c7084a184e63a42fa0e9"
+    },
+    {
+      "file": "table-json/FountainAwakenBaseData.json",
+      "sha256": "814ff0e9a29c5551dabbfefb5757303ca4a1170f7a046b24b86558c8a6940426"
+    },
+    {
+      "file": "table-json/MinigameBalloonConfigData.json",
+      "sha256": "b22c5cd9e1f70e29b6c1c11b95e226b7ab35a86247c63aecac93943cceb7c026"
+    },
+    {
+      "file": "table-json/MinigameBalloonBaseData.json",
+      "sha256": "607ba397cb7b1ad6622d0023b64feae943500e178f3da5d3c7adee2e0223c998"
+    },
+    {
+      "file": "table-json/InvitationInfoBaseData.json",
+      "sha256": "0e186176aa02874810e28624afb03361f78ef034b32ad6eecc62ba09ae9da417"
+    },
+    {
+      "file": "table-json/WorldBossCountryFlagData.json",
+      "sha256": "db4063b2bdd90c68caef8eaf102e3f5084fc35e394e7861d2a1acb26953652da"
+    },
+    {
+      "file": "table-json/MinigameFlappyBirdConfigData.json",
+      "sha256": "80299574667ea5cf15c3263a0af37aefd5a3bc946667a2341fba9bb2de5327c4"
+    },
+    {
+      "file": "table-json/SkillMasterySkillEnforceBattleWaveInfoData.json",
+      "sha256": "4346c8c8a3b25f9c8f36cc36125f4a0e58edd3625931098c6b51f8599e1c0ca5"
+    },
+    {
+      "file": "table-json/DragonValleyHallOfFameData.json",
+      "sha256": "34b09dce09b9b6a5fbf9670c05ddd953623d809b82dd9623ea1c08b6c1db07c2"
+    },
+    {
+      "file": "table-json/MinigameRetryTypeConfigData.json",
+      "sha256": "6abba06ccd9a1b24d17f65220ab4d87331b3de5423a10bd49ba9e8ffe742228f"
+    },
+    {
+      "file": "table-json/StageSoulInfoBaseData.json",
+      "sha256": "a2548e535d0aafffdbb9da5d587b764f714f3c810ffb042ec9190b34b9de43b9"
+    },
+    {
+      "file": "table-json/ContentsOpenChannelBaseData.json",
+      "sha256": "6d97175aa27f4d9040db5b1610d8275385ef6cf776346a6ac3c5041e28aa2873"
+    },
+    {
+      "file": "table-json/MinigameFishingBaseData.json",
+      "sha256": "3dbded2d74bfef2eb360e9164ec37296a6adb86c63fd870c8466ad9b0ece026f"
+    },
+    {
+      "file": "table-json/SkinBeastData.json",
+      "sha256": "70f9e782db712cb38c7ed3ff7b23efa15695d949fb9d3992e1558de3ea482ab6"
+    },
+    {
+      "file": "table-json/MinigameFlappyBirdRewardData.json",
+      "sha256": "b7ad78a9ebc3454ec5a00cf47be2f8a25ce434140dbbb3cc0eb38b8bffbc4419"
+    },
+    {
+      "file": "table-json/DemonLevelData.json",
+      "sha256": "e26232cf342e8f1f16dce8a30e86e0d0f9c4908c5fbaa81975f5dada5f38f852"
+    },
+    {
+      "file": "table-json/SkinBattleBaseData.json",
+      "sha256": "d46a22bd3da5672f110897d2de4264c16fa390d19dd194f7c3273af79ba186b6"
+    },
+    {
+      "file": "table-json/GuildAssistData.json",
+      "sha256": "9e870e9632533593e64ad028450a49ad9896ddda99c01bc9643492bfcecb4053"
+    },
+    {
+      "file": "table-json/SpiritUpgradeData.json",
+      "sha256": "afd4c27fc7c479d4ec19d7a43d398de733a24f15728dfc492d0990562fe9eb3f"
+    },
+    {
+      "file": "table-json/TimeAttackConfigData.json",
+      "sha256": "9c11ca7907374bcc29f53b7720ae48fbfa6bfc553a5d933261c2257c2dfc3bf8"
+    },
+    {
+      "file": "table-json/ContentsOpenConditionData.json",
+      "sha256": "52a77947306390683f7533b9519c7e560f20a90679c156ec170024e79355566b"
+    },
+    {
+      "file": "table-json/CouponBaseData.json",
+      "sha256": "825bd331668e9c275e3e52b3040c843e8f6594bbf4f6f4e92a70872e89314706"
+    },
+    {
+      "file": "table-json/DragonEmblemBattleInfoData.json",
+      "sha256": "45b6584a73f78f64deac0c5155ddb5ec81271ba0ffaf40f145dc1d6e9a3d3b8c"
+    },
+    {
+      "file": "table-json/QuestRepeatData.json",
+      "sha256": "339bfa2b85c153469a91007a29d10bfa4d1b469a671f3525ef5032c0092ceafb"
+    },
+    {
+      "file": "table-json/ItemInfomationBaseData.json",
+      "sha256": "746ef49de2be43efb1dbb2ab5d78d204c4bbea1a347a17216d5a011023c379fb"
+    },
+    {
+      "file": "table-json/RandomRewardBoxBoxData.json",
+      "sha256": "46837aa19c63c9405b60410071142af9aaceab911ffb1a48cdfe5daaf0678334"
+    },
+    {
+      "file": "table-json/TrainingGradeAdditionalData.json",
+      "sha256": "6be942469d9d549e9d7f762bdf2954adb8716fe07c8e19d93be0a8c026c626ab"
+    },
+    {
+      "file": "table-json/DragonValleySeason4HuntBattleData.json",
+      "sha256": "d01b2e16394fe1007f830b5f2f9e238cd153d524af33187d0207c81ba97cf085"
+    },
+    {
+      "file": "table-json/SeasonRankingSeasonProductData.json",
+      "sha256": "fbe39749e993cccc6eece138ee4649a97a2d6acf98f8eb3e037e428da782c42a"
+    },
+    {
+      "file": "table-json/EventBuffData.json",
+      "sha256": "eb07dd26297db835b2513cb252930db5b75666045443798814e013798c03a4c9"
+    },
+    {
+      "file": "table-json/InvitationInfoInviteRewardData.json",
+      "sha256": "6bb92bf7e856f31b2b20219e6773ee2d4d82d4d8da7559998d5205c4b09952fc"
+    },
+    {
+      "file": "table-json/StarNebulaLevelData.json",
+      "sha256": "f5de4837566b5c56b95ac75e31af7df41ffc08fabef060c101acebedb60a873c"
+    },
+    {
+      "file": "table-json/DragonValleySeason5TierData.json",
+      "sha256": "9e34aedf07915749919bce7e780a46d0ba5421d89f28fe41252329ca2e20f65a"
+    },
+    {
+      "file": "table-json/AwakeningWeaponBaseData.json",
+      "sha256": "50369deea01eb4bc828dd250e32edbbfab38535a1874466aec14c354684a6412"
+    },
+    {
+      "file": "table-json/GuildQuestBattleWaveInfoData.json",
+      "sha256": "e2b5ebeb62d85389bfcbe10bd8100b909d77218f0c9ddc259ff7b25ff0ee6426"
+    },
+    {
+      "file": "table-json/MinigameRhythmBaseMRData.json",
+      "sha256": "075bc3c592e69868db43e41bc07f44206316de8ac4d4f46c73f84fbcc76f5879"
+    },
+    {
+      "file": "table-json/MinigameMoleWaveData.json",
+      "sha256": "b9a1d3945fe460e7952ba87a7cd40fd5bead3df31b653056896600ade700ec7b"
+    },
+    {
+      "file": "table-json/WeatherEffectBaseData.json",
+      "sha256": "c9ec9a14aaecac948731f564c13eb2c66b527d761f8998a9e8f159b9ce396a28"
+    },
+    {
+      "file": "table-json/WelcomeBaseData.json",
+      "sha256": "18057bbee83d00f1f04dcb1a6e5e3bc7f43d340716651eccfba532614c57f175"
+    },
+    {
+      "file": "table-json/DialogueStoryBaseData.json",
+      "sha256": "b25cf1d8568c09c2ccc83e7f9fbf5ce9df0c1641fe4ba4f28ebbff52bcf58152"
+    },
+    {
+      "file": "table-json/DragonValleySeason5SearchWaveData.json",
+      "sha256": "9ff051243a31390919fcaa10ebc7820cf886e2edbf9382eec9ebc7c785069001"
+    },
+    {
+      "file": "table-json/EquipmentGachaLevelBaseData.json",
+      "sha256": "bc02f610f28c015dbbbb4d8ce311eaaa533a4e0a97d427b07db41471a8f7ab35"
+    },
+    {
+      "file": "table-json/EventFindBaseData.json",
+      "sha256": "2d57f22248d15e208dc3f093d13e3d5e6c61bd4a09903e17fee760232cb703d6"
+    },
+    {
+      "file": "table-json/MineWaveInfoBaseData.json",
+      "sha256": "7412bd01cc4a56780cde40fd2ad62dadcb8bf98407cb92ecdb5bf8a519b5e47d"
+    },
+    {
+      "file": "table-json/EventShopData.json",
+      "sha256": "4e9cb53535b613a5c5327b740f07f8b0a43a72201e181eecaf94d8b4affe0807"
+    },
+    {
+      "file": "table-json/PlazaMegaphoneConfigData.json",
+      "sha256": "d5cefb0507aec65d31aab1b0e38c487ed7b20d4ca194030eb0039cc385cb0e25"
+    },
+    {
+      "file": "table-json/DragonValleySeason4SearchProbData.json",
+      "sha256": "9041aaa8268d6352ffc66f098c594bd96d6c402489c78170c024a1570b0c4db4"
+    },
+    {
+      "file": "table-json/SkillMasteryAttackSkillFactorData.json",
+      "sha256": "cebca5e1ec97b0651a08e4854b3de1cb0a0ba2f8e41039589963e4d6a822746a"
+    },
+    {
+      "file": "table-json/EventRPSGameConfigData.json",
+      "sha256": "2934678c77f0dc193688d064453bae9f082ca19a310257043d137e739cb89fef"
+    },
+    {
+      "file": "table-json/SkinHairData.json",
+      "sha256": "4b767ff110fcac300352bb6c9f657c9802c96f7460068250c978d28eb1b3b2b6"
+    },
+    {
+      "file": "table-json/SpiritInventoryData.json",
+      "sha256": "f437b5a3b36d7f18594a5c26ca6f6037fcce2b496ca8c1c03a2b230a362a26dc"
+    },
+    {
+      "file": "table-json/DragonValleySeason5HuntBattleData.json",
+      "sha256": "d01b2e16394fe1007f830b5f2f9e238cd153d524af33187d0207c81ba97cf085"
+    },
+    {
+      "file": "table-json/GuildConfigData.json",
+      "sha256": "3d531437dd583fb5ba9a1b890c463a100dd551e82588e7c814acc43f24455572"
+    },
+    {
+      "file": "table-json/SkinCostumeData.json",
+      "sha256": "dd444cb328af469f4a7025cbfe39884e7d0fdd2ee37e77e139d3d929f6c6994f"
+    },
+    {
+      "file": "table-json/EquipmentBaseData.json",
+      "sha256": "0ef17190c101a0f8cd17a9e850f8115d5e410bf55e7c4314d7347d81ead1547e"
+    },
+    {
+      "file": "table-json/ImmortalTreeConfigData.json",
+      "sha256": "f7d2e00264523e71ae07a2d5482adffa2b8a6a7ebc9797085e9f42745212437c"
+    },
+    {
+      "file": "table-json/DragonValleySeason5EtherGradePoolData.json",
+      "sha256": "809d1e07699cbb20323d3bbbf1daeb34c3440af079e8cffe2959d56317bd774a"
+    },
+    {
+      "file": "table-json/DragonValleyRewardSeason3RankRewardData.json",
+      "sha256": "c88fc517b4d9c491a394310a09065b21423ba870cf8a3e0a144501ce96e3a4b6"
+    },
+    {
+      "file": "table-json/StarConstellationData.json",
+      "sha256": "9975bf16f64d5120db2da84448b51566436a709cef608a119a3bd2f28b6a4571"
+    },
+    {
+      "file": "table-json/MinigameShootingDefaultScoreData.json",
+      "sha256": "c5a39baa789063ab04a61aefef92d8f0f732a5fc1d4a983cc06518672ee98f5d"
+    },
+    {
+      "file": "table-json/EventBinGoLineRewardData.json",
+      "sha256": "861869101e8bc246daa8ce0719d83a2070a398a5dc36270253ae5e09c0f5582a"
+    },
+    {
+      "file": "table-json/GuildShopCycleData.json",
+      "sha256": "6847c747c80967a6d8c8b932edcd9b77086085f276c2b16b2a86808c38b1b653"
+    },
+    {
+      "file": "table-json/SeasonSkillBaseData.json",
+      "sha256": "b0b0b3a180bbceb3a96dae3807efe39fb25a45f8eb470e6775a74ef3ef8ed454"
+    },
+    {
+      "file": "table-json/DragonValleySeason4EtherCardData.json",
+      "sha256": "c5984cd391b9fe4cfb6659a0c4e694fd146995a0efbb5a93ba576e6c74d67137"
+    },
+    {
+      "file": "table-json/CaveInfoBaseData.json",
+      "sha256": "d775d87e6e1f8444344632ccfb5ecb21f82bfc6cda41cb093c9ae6a232d090c2"
+    },
+    {
+      "file": "table-json/SeasonRankingBattleRewardData.json",
+      "sha256": "8240e0253ed06d61647ccf2df71ecef608762b146b383965066ca6597a10f1ed"
+    },
+    {
+      "file": "table-json/DragonValleyRewardSeason3SearchBoxData.json",
+      "sha256": "a27597e933524ed84949c0bd96bfd2161826098a31626b7e675165bb06aa7670"
+    },
+    {
+      "file": "table-json/SeasonRankingPlayPriceData.json",
+      "sha256": "795666c58c822ba7c0db4c5d79a5ac9620419405a0064caacee17349ec09970b"
+    },
+    {
+      "file": "table-json/SkillMasteryDemonCollectionFactorData.json",
+      "sha256": "6fe9bf41b8d1f89cc23991f99514f4f893f3fb056bf62e265090f5fdc4d7847c"
+    },
+    {
+      "file": "table-json/EventDailyMissionData.json",
+      "sha256": "647b71c05f21e46aab51862660257a855ba91082f9efcd06b0869ce8d9458778"
+    },
+    {
+      "file": "table-json/WorldBossSubBattleInfoData.json",
+      "sha256": "251f9906b1406214d40a96d8a6367e48decfb292186ab70040826b11682ee015"
+    },
+    {
+      "file": "table-json/MinigameCardMatchingConfigData.json",
+      "sha256": "4a3740811d7e1a225c89187c920b1d7807e607908664544bcd5755997c6b1811"
+    },
+    {
+      "file": "table-json/SpiritSpiritInventoryData.json",
+      "sha256": "581cf8d612cf780e5748c039b7fe1374d0b733a83eee5816ab814d7545ec3fdb"
+    },
+    {
+      "file": "table-json/ProductRewardData.json",
+      "sha256": "0aa8832aa431a28db654398067c2e848820b5496d1f5424894cd92ef3e41bad3"
+    },
+    {
+      "file": "table-json/TrainingGradeBaseData.json",
+      "sha256": "bc9602ab769dab39dca001acadbb6f040ce652079c1ecc8998fb9892e1b0b8c9"
+    },
+    {
+      "file": "table-json/SkillGrindingOptionSlotOpenData.json",
+      "sha256": "2b8a3e31a9210e7c0b8bcc8dc9b74872dd9a1b2f70423c99cd806af38c325118"
+    },
+    {
+      "file": "table-json/DemonImmortalData.json",
+      "sha256": "d235f41c0a6c842a52014ca53a34cc6750e2b427356a37452d9555eda095edcd"
+    },
+    {
+      "file": "table-json/ImmortalTreeSubNodeData.json",
+      "sha256": "30d4e51497785ab7645e7192f7b749d359be6d7b21ff7fb6e50fcf450c3314b5"
+    },
+    {
+      "file": "table-json/DragonValleyRewardRankRewardData.json",
+      "sha256": "c88fc517b4d9c491a394310a09065b21423ba870cf8a3e0a144501ce96e3a4b6"
+    },
+    {
+      "file": "table-json/NewUserAttendanceMiddleSlayerBaseData.json",
+      "sha256": "30574954e0668fe75d0b6812df0a068701894642ca0afa73c73c1ddb0a7bfd8b"
+    },
+    {
+      "file": "table-json/MinigameRetryTypeRewardData.json",
+      "sha256": "143612a57bae640ca41583b6ba9283e29bae7b124f4c234fd2c56241ca189d75"
+    },
+    {
+      "file": "table-json/DragonValleyRewardSeason5SearchCompleteRewardData.json",
+      "sha256": "75890c5975286bd7d83fd5113b22cf16a179e50db5d1257a0ab5aedceb5ddde6"
+    },
+    {
+      "file": "table-json/SlayerClassGachaRewardData.json",
+      "sha256": "92bf75c041e1bc4d12cd860c3b9a13720ce9fbed52dc8a9e5e1d2677cac78897"
+    },
+    {
+      "file": "table-json/BeastSummonData.json",
+      "sha256": "3005035178d080804d1e00b868c085dfcf0ae275f7257a29c702a6c955f1dace"
+    },
+    {
+      "file": "table-json/WorldBossSubBattlePenaltyData.json",
+      "sha256": "931bb074ac8b020b282bf97c617501816b1ce49c94e36429c839b13891d1b0a5"
+    },
+    {
+      "file": "table-json/EquipmentRefineBaseData.json",
+      "sha256": "8f31860875e5c495e6f8a18c70528326df8248cc8b28abd27f6ff04155d7d190"
+    },
+    {
+      "file": "table-json/SkillGrindingPassiveOptionsData.json",
+      "sha256": "cc64b7cb1817253f9cc09b27f5b9ebea6bb6d09648f5ad9b08b357d49dc5e2ef"
+    },
+    {
+      "file": "table-json/BlackOrbHaveValueData.json",
+      "sha256": "ed629df20e9fd41700b9ad72c9b46b92672d900a9b0dc27351af5b453d10f540"
+    },
+    {
+      "file": "table-json/FriendBattleInfoBaseData.json",
+      "sha256": "123718660521ffc1028eed32162167552206a261ca48096588b698551e21ef93"
+    },
+    {
+      "file": "table-json/DemonConfigData.json",
+      "sha256": "31f6506b6332a546a8eda3a839da6b8f9534b06a9f31be5d4c1cdfabdee33a13"
+    },
+    {
+      "file": "table-json/FriendClassBaseData.json",
+      "sha256": "5e89027c6f970f21332195be5c863a9ff5f54435940edde550e04502d9423f03"
+    },
+    {
+      "file": "table-json/BlackOrbOptionData.json",
+      "sha256": "1b39b61eb6012586b2611c00978380e947ccfbfa328bcd368bc5f9af87266da4"
+    },
+    {
+      "file": "table-json/SkinBodyData.json",
+      "sha256": "ae3a8244495218617a5737b7904d26b7d491832593116a211d4588a16bd16a16"
+    },
+    {
+      "file": "table-json/DragonValleyRewardSeason3SpecialSearchBoxData.json",
+      "sha256": "9725423775e0ef893ee4d7f921fc639a217e6aaf870089af7ee2d62e521fd685"
+    },
+    {
+      "file": "table-json/EventPassRewardData.json",
+      "sha256": "70e8adba41f94fe10eeef86b691127ad01acab4db1decdd992f2464253502c72"
+    },
+    {
+      "file": "table-json/DragonValleySeason4SearchWaveData.json",
+      "sha256": "2ff536b96d02105d01fd3962a4758868cec535ff682e5c3d4db522114f0a2911"
+    },
+    {
+      "file": "table-json/NewUserWelcomInfoConfigData.json",
+      "sha256": "aa15ba8ad10dad1d005421d7da7c926b450de3074154585555789d1a656fdc71"
+    },
+    {
+      "file": "table-json/MinigameFruitWaveData.json",
+      "sha256": "c18b1b3e01a7e611e1626bfd471daa3238c61149912815046feb2320cd38d4ab"
+    },
+    {
+      "file": "table-json/SoulWeaponSoulGemLevelData.json",
+      "sha256": "5c911a2d42c2b1508fc5113e8b31384147318314f10aba8e1196e66ee290d84b"
+    },
+    {
+      "file": "table-json/EmoticonBaseData.json",
+      "sha256": "dbd3c02656b56d46bc4dc4ac39a9aa6bab1f99e8d3b2deb091af5e5a5d0da69d"
+    },
+    {
+      "file": "table-json/DragonValleySeason5SearchData.json",
+      "sha256": "8cb8f855a2b1d22a2c6757b41df58c67a21448134c434326980f2860c9362cb7"
+    },
+    {
+      "file": "table-json/GuildShopData.json",
+      "sha256": "c59c5c42a00fbb6b7c0d94a7985fe9d980b1f227178ac8e5f552e9d52f42e475"
+    },
+    {
+      "file": "table-json/NewUserAttendanceScoreData.json",
+      "sha256": "40cf853d3d5fe2df0d94e893830748f85fb617de60c757050f4181374ccb8479"
+    },
+    {
+      "file": "table-json/SpiritBaseData.json",
+      "sha256": "b0f352c4ff8c75fd08009747bebc22b8a649d990aa4788c6b717c02caa6fa7e7"
+    },
+    {
+      "file": "table-json/MinigameStackingConfigData.json",
+      "sha256": "36a72317d9d64137b9a2098d33d49ab382b96d82b8351190e683963e80ad442a"
+    },
+    {
+      "file": "table-json/RewardGroupData.json",
+      "sha256": "64bf642a72f1001688fce329b6bae77da5620cd2e403a76b3716248524f9d826"
+    },
+    {
+      "file": "table-json/PromotionPassRewardData.json",
+      "sha256": "f1b4f67ea122ac4820916e08e18d1252e9c004eabd614c57267d18b8d30ffc0a"
+    },
+    {
+      "file": "table-json/DragonValleySeason5TradeData.json",
+      "sha256": "9407672996446a611838520eab5765c7ac584e5e16e7c59465e6b921ac459bb1"
+    },
+    {
+      "file": "table-json/DragonValleySeason3ArchaeologyTradeData.json",
+      "sha256": "f5dd711a05ef01af3127ee998879bb0f1cf03ff463bcf0aad9b6a9aadf8e191c"
+    },
+    {
+      "file": "table-json/SpiritGachaProbData.json",
+      "sha256": "a260e4c3c3ee079c25fe21ac1d221612e5f10baf4404491dea6eb662de735825"
+    },
+    {
+      "file": "table-json/GuildLevelData.json",
+      "sha256": "39a41ca21c3bad169da5f955bcfdb95624fe3edea872ec23386d038b1101a800"
+    },
+    {
+      "file": "table-json/DragonValleySeason4HallOfFameData.json",
+      "sha256": "7a65d4bb0106ead4032c0aa25832023be2c2c87228e5156f1fae888abe52deb1"
+    },
+    {
+      "file": "table-json/SeasonBuffBaseData.json",
+      "sha256": "477f0c3d8dbde3d3b2d78cf5c90988ce7612e8b3304fea3117a8d2225169834c"
+    },
+    {
+      "file": "table-json/DragonValleySeason4SearchBattleData.json",
+      "sha256": "6589e8d3868767b3b5e2d5d842809da1edb65ee763958e6e17910c40c9ca94d5"
+    },
+    {
+      "file": "table-json/SelectItemBaseData.json",
+      "sha256": "c864f752542385df87d93fa30d04ee0f8d0817b4705e58fc54953bfc30ecb88a"
+    },
+    {
+      "file": "table-json/NewUserAttendanceMiddleSlayerScoreData.json",
+      "sha256": "97ae13a8a426a3b60e886c07dc6c03377d2e5475b9b0cb372dedb19bf6ce45c0"
+    },
+    {
+      "file": "table-json/BlackOrbStageBlackManaInfoData.json",
+      "sha256": "cb3cb8c4832d7b49e8fa3ac6cfafff72f9dc9c79c7b1ecc7f46683b9950e7416"
+    },
+    {
+      "file": "table-json/EventBluemarbleBaseData.json",
+      "sha256": "dc1aa944b1a1cd43ccd18cc9dd06d4f4778ef53f92c12f03b78535c6721e57a2"
+    },
+    {
+      "file": "table-json/SkillGrindingSlotOpenData.json",
+      "sha256": "43b52cd1b9a6f770c2e6ba96558def5de7c25029269741a9c6c2a8d83733c314"
+    },
+    {
+      "file": "table-json/EventBinGoConfigData.json",
+      "sha256": "18a80157c88a1c91b0bfba327e805ee156a8b7fc67d732509f325a2a2c4ed8c5"
+    },
+    {
+      "file": "table-json/DragonValleySeason4EtherobotData.json",
+      "sha256": "6f9ad37d020067f8fe7e3aaf6ce48e02b18dad079e8de0c0aa58fc2aa0a50d62"
+    },
+    {
+      "file": "table-json/DragonValleyRewardSeason3SearchCompleteRewardData.json",
+      "sha256": "75890c5975286bd7d83fd5113b22cf16a179e50db5d1257a0ab5aedceb5ddde6"
+    },
+    {
+      "file": "table-json/DialogueBaseData.json",
+      "sha256": "a594471a69b18773888b7e625281678b66f382e3fa28faf3e34357a687585ee3"
+    },
+    {
+      "file": "table-json/CouponChatData.json",
+      "sha256": "df311c59578b8aec9feaac23e05e809b7b4d544caaa0cbfcc5cea9a1e930b2f6"
+    },
+    {
+      "file": "table-json/EventSecretCodeConfigData.json",
+      "sha256": "d3c377cef62a68bfda54d0521b502e1b786fe6dc8bb4eed3288165c2fc864b2b"
+    },
+    {
+      "file": "table-json/FriendGradeFactorBaseData.json",
+      "sha256": "b04caee8777492b0dee6fdbee459912b86f1e4c27174b3ed8a2cba2a3711ab69"
+    },
+    {
+      "file": "table-json/ABTestMiniQuestData.json",
+      "sha256": "bcabb01427b9e89568602c4b440d97fbc6004b045530f1ad1714233fd91aa2fd"
+    },
+    {
+      "file": "table-json/WorldBossBattleRewardData.json",
+      "sha256": "0437d5251ddfeee05f3472b3f9a15bed8248d046d6a94e33a4643fd39d859967"
+    },
+    {
+      "file": "table-json/MinigameShootingEnemyTypeData.json",
+      "sha256": "aaa4af45ac51684405d8e478b1d0e7988b6366d7b323514f802d041a8d3e0b6e"
+    },
+    {
+      "file": "table-json/BlackOrbConfigData.json",
+      "sha256": "078db04ad176dfaf2ff9c022637662a84f82f46f16acf6f5b59f3c2fb139b70a"
+    },
+    {
+      "file": "table-json/AwakeningSlayerClassBaseData.json",
+      "sha256": "bcc1bdada35a3e44be764c92090e499e07d91105b32675f49f4777a9604d4c85"
+    },
+    {
+      "file": "table-json/StarNebulaData.json",
+      "sha256": "aa30a326ad323602f9fe24c863cdcb5ec2fea7a2c55d3d9cbf85d102c07b2f79"
+    },
+    {
+      "file": "table-json/EventFindRewardData.json",
+      "sha256": "e9c191dec448b9251ea0fc8c21502be6484ca443c59319813b793e885b4e5b1a"
+    },
+    {
+      "file": "table-json/EventSpecialPackageRewardData.json",
+      "sha256": "e5d27d2f93610480e3cdb31cfd0ad90c18853f96cacc4f8331f8b6ffaaa14c5e"
+    },
+    {
+      "file": "table-json/TimeAttackPlayerClassFactorData.json",
+      "sha256": "40eda2f7aac62fb8b0db6d01bfef8b9e53ba2c1dc031809dda6ec7b85fcfb0ac"
+    },
+    {
+      "file": "table-json/WishFactorData.json",
+      "sha256": "8483c76d5fc2409e27db3a8b2a81809f7083ebc547b201b895eb0e2c4378092e"
+    },
+    {
+      "file": "table-json/SkillStoneBaseData.json",
+      "sha256": "c7b7c1ed227e10482d7322071776cccc4ab0e8601484af824ed23be97c7d9425"
+    },
+    {
+      "file": "table-json/SeasonRankingTierData.json",
+      "sha256": "9bcf16b4e2702d25fa6c1b3f5ca0bdc1f82578fb3555b1485c26cc70a32c0e71"
+    },
+    {
+      "file": "table-json/ThemeDungeonEventStatLevelData.json",
+      "sha256": "53ebb9f2ff186fe937d2c51ae660173706ae3a70ad14d1b8d5e77397097b86da"
+    },
+    {
+      "file": "table-json/GuildBeastFriendshipData.json",
+      "sha256": "704ce0211093420bbe8af86d06d27f9cae485001aafe80acfdea7632a49d5a9f"
+    },
+    {
+      "file": "table-json/DragonValleyTierData.json",
+      "sha256": "9e34aedf07915749919bce7e780a46d0ba5421d89f28fe41252329ca2e20f65a"
+    },
+    {
+      "file": "table-json/RankingBattleModeBaseData.json",
+      "sha256": "a8cccba630834af14378f8a82fd8728b1d2884bae7d1e4325884bdead4d1c2ae"
+    },
+    {
+      "file": "table-json/DragonValleySeason3HallOfFameData.json",
+      "sha256": "cfcfaecd0adec9ddcb7cdf3a51792ad9522b1ea5b88fa1917da3278e739ac3d2"
+    },
+    {
+      "file": "table-json/GuildQuestGuildRewardData.json",
+      "sha256": "b81643b155fbff2f47d2245dd31025dbe0d7229c7beafff1eab31b426b37275c"
+    },
+    {
+      "file": "table-json/DragonValleySeason5SpecialCookData.json",
+      "sha256": "489941cd4c8cb439edafa5c625706c36c8c93f2dc2ed923b5292d2eaa4bbc9ba"
+    },
+    {
+      "file": "table-json/BeastLevelData.json",
+      "sha256": "63a99563c984787542cf2ee23f25397b9434e445ca89cacf72e59bbeb316acd5"
+    },
+    {
+      "file": "table-json/WorldBossBaseData.json",
+      "sha256": "9587894ae7cfc2b6901e941ae894d7c180d5f1b62d6b68695e10614512b6c92d"
+    },
+    {
+      "file": "table-json/CampaignScenarioBaseData.json",
+      "sha256": "54204024549958caf9cbebca413d2620e4851ecf1816f4277e2f1b00d45343f6"
+    },
+    {
+      "file": "table-json/PlazaFountainPrizeData.json",
+      "sha256": "ede75f8272b1579b8f8a694491129336ef958f3031c01263ec70b343978bcc8d"
+    },
+    {
+      "file": "table-json/GuildMemberCountData.json",
+      "sha256": "ddd798ebd4800dfa0722be59507ff0825b89cd39f2a42756eb18ce968cab6694"
+    },
+    {
+      "file": "table-json/SeasonRankingTierRankRewardData.json",
+      "sha256": "334dd23ea9c6055784ea8355ddeeaad93a03f76508ade5c7d215b6f19805212d"
+    },
+    {
+      "file": "table-json/DragonEmblemRandomPercentageInfoData.json",
+      "sha256": "fb719aef01c6bc07f2ac58820318e0eb40115490498f40f98f8336e5eda3e06a"
+    },
+    {
+      "file": "table-json/ImmortalTreeGetCurrencyInfoData.json",
+      "sha256": "42d8ea6b37289c96dbebe3708424463dd8d463fe0a414f1c4e2d4009b7271d97"
+    },
+    {
+      "file": "table-json/SeasonSkillQuestData.json",
+      "sha256": "998e0eafce0d54542274cc37744cd743c0e7a98cee53d030f5e0ed6b7ebdb020"
+    },
+    {
+      "file": "table-json/ImmortalTreeUpgradeData.json",
+      "sha256": "ec843c3363f9b44b777245224972020f3533a0fac6992ce8d23ede22c5fa282f"
+    },
+    {
+      "file": "table-json/MinigameCardMatchingBaseData.json",
+      "sha256": "9fd3a183b4ad7271391ea3de41bbdf87285f17f7af280abe633262c08e90d6eb"
+    },
+    {
+      "file": "table-json/DragonValleySeason5SearchFactorData.json",
+      "sha256": "b28fa34d8180c0f02caf2757724b04356f827c3af70e830eef78bd602e0511ee"
+    },
+    {
+      "file": "table-json/ThemeDungeonEventWaveData.json",
+      "sha256": "8c4f2a9cac37f9c79053ba9d65a8b6c216278ea84e8d4c5c404f939074eb7f7b"
+    },
+    {
+      "file": "table-json/DragonValleySeason3TradeData.json",
+      "sha256": "b69a0a431ab25d0f384a9a6d48ee63d66060b451c3306b0a09d8f7b0c59a093c"
+    },
+    {
+      "file": "table-json/DragonValleyRewardSeason5TierRewardData.json",
+      "sha256": "1c4467fdd0f9182b1baead333e92ca4e6a0256350a4c84bac6bd5514974100ae"
+    },
+    {
+      "file": "table-json/SkinHairColorData.json",
+      "sha256": "21f4dba353dadee2ceca94b34f52789409790f4df09ddc39a86decebcefd3cf7"
+    },
+    {
+      "file": "table-json/SoulWeaponSoulGemConfigData.json",
+      "sha256": "c4b14ba86f722508f946df873a1acc16649e2d0ff0e7d0b41788c309c6a8b753"
+    },
+    {
+      "file": "table-json/DemonImmortalSkillData.json",
+      "sha256": "af4f2563e0d6453b0cc8b5e5e569301244aa87cf7be78b8c970d8a97c41c92de"
+    },
+    {
+      "file": "table-json/DragonValleySeason5SearchProbData.json",
+      "sha256": "9041aaa8268d6352ffc66f098c594bd96d6c402489c78170c024a1570b0c4db4"
+    },
+    {
+      "file": "table-json/DragonValleyRewardSeason5SpecialSearchBoxData.json",
+      "sha256": "a2dcb2a138eddfe30ca885964988f3bad409bfc9f19126a18dcf99fd89174447"
+    },
+    {
+      "file": "table-json/DragonValleyRewardSeason3TierRewardData.json",
+      "sha256": "f73d7c6729ee2e79069df3fdc3e218c51b20605a07e253af7e6e845146ef8149"
+    },
+    {
+      "file": "table-json/MinigameRhythmRewardAmountData.json",
+      "sha256": "0acbc1e29908e5b38385ee541d2c4f382788969820a7e835ad96d7794587afca"
+    },
+    {
+      "file": "table-json/SpiritForestData.json",
+      "sha256": "05a502cb6a8cf9570c06e872d84f76b30911fdf2cf3c09b8dbc54cf8cd895132"
+    },
+    {
+      "file": "table-json/StoreBaseData.json",
+      "sha256": "f63b0c36a29e4513dc1c772339650710bbc7b93a603ab2853a5a33af93b5801e"
+    },
+    {
+      "file": "table-json/MinigameMoleMoleData.json",
+      "sha256": "297df73e1b44e652fa8941c8c537aaefa7a64f7a4ff2c3c15faf484e5fe20101"
+    },
+    {
+      "file": "table-json/MinigameShootingLevelUpData.json",
+      "sha256": "21282f33d4cbd9511a6ab1c948a90467eaa85bef213de7b92d17dff5deb17bc3"
+    },
+    {
+      "file": "table-json/DragonValleySeason3CookData.json",
+      "sha256": "bed17b0087005aee60a5b83a716df3e100462b3f9220c48c1b25e7f7c284db11"
+    },
+    {
+      "file": "table-json/MinigameFruitRewardData.json",
+      "sha256": "64cb56c100d20aa2195f6a0fc1d84169fdac9214056c92bd5229de2a151e3382"
+    },
+    {
+      "file": "table-json/BlackOrbMainAbilityAddValueData.json",
+      "sha256": "04f3061944079f857bb8cca738f577ba0f14b61104e5178d7d059069d3a2ade5"
+    },
+    {
+      "file": "table-json/EventFindConfigData.json",
+      "sha256": "2664e274e535b978a447a04cf1dad401bbb446cdbcfac46581bedae4d650d166"
+    },
+    {
+      "file": "table-json/RankingBattleModeBossAppearanceInfoData.json",
+      "sha256": "d801638019cbfe35a5145e758cd0a2ee4012d275a4c303a8ae3826ce9a0475d9"
+    },
+    {
+      "file": "table-json/EventBuffWeaponSkinData.json",
+      "sha256": "0e7d588100fd55a95719d8a33bda1fe1130a7993b0b9f0b1e5b1ed7d9de6693e"
+    },
+    {
+      "file": "table-json/NewUserAttendanceHighSlayerBaseData.json",
+      "sha256": "81b2d075ee8582d397aa31cbf7891763b1b5efe84a37ab2846e6959a0a19d843"
+    },
+    {
+      "file": "table-json/DragonValleySeason5EtherCardData.json",
+      "sha256": "dae667630b34e79c7e043c4778a8d9318a2d33d0cabd21f15c945ad72eb3e59c"
+    },
+    {
+      "file": "table-json/AccessoryBaseData.json",
+      "sha256": "8315f9e20147ea3da25d88100a0b408f286195de203affaeb4e17cc40aac68ea"
+    },
+    {
+      "file": "table-json/SeasonSkillBingoData.json",
+      "sha256": "8bb1af0b1d51b451ae3ea4d424441b7089d4b1c282547d9b5107efff92182dea"
+    },
+    {
+      "file": "table-json/StarNodeData.json",
+      "sha256": "02c7c9d7e3f763d2f3abdf337c4e031406ea6cd522ae18a87f2e8f6642a710cd"
+    },
+    {
+      "file": "table-json/SkinWeaponData.json",
+      "sha256": "b04f7cf2360a013197f58a879042aa120f14211c968b9f12b1bf0f3922b29dd2"
+    },
+    {
+      "file": "table-json/EmoticonPurchaseData.json",
+      "sha256": "ed1b4e300439185be1e3b5d476dd3f9b944cdf52081e31e7a54db84fb8e9178d"
+    }
+  ],
+  "native_signed_division_optimization_cases": 20011,
+  "native_signed_division_all_equal": true,
+  "apk_or_native_code_executed": false
+}

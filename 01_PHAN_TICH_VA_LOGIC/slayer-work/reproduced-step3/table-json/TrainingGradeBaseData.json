@@ -1,0 +1,362 @@
+[
+  {
+    "Id": 0,
+    "Grade": 0,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 500,
+    "TrainingMaxLevel": 0,
+    "Hp": "948015421567932000",
+    "HpSerialized": "948015421567932000"
+  },
+  {
+    "Id": 1,
+    "Grade": 1,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 600,
+    "TrainingMaxLevel": 2,
+    "Hp": "32232524333309700000",
+    "HpSerialized": "32232524333309700000"
+  },
+  {
+    "Id": 2,
+    "Grade": 2,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 700,
+    "TrainingMaxLevel": 4,
+    "Hp": "1141568570138050000000",
+    "HpSerialized": "1141568570138050000000"
+  },
+  {
+    "Id": 3,
+    "Grade": 3,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 800,
+    "TrainingMaxLevel": 6,
+    "Hp": "38813331384693700000000",
+    "HpSerialized": "38813331384693700000000"
+  },
+  {
+    "Id": 4,
+    "Grade": 4,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 900,
+    "TrainingMaxLevel": 8,
+    "Hp": "1319653267079590000000000",
+    "HpSerialized": "1319653267079590000000000"
+  },
+  {
+    "Id": 5,
+    "Grade": 5,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 1000,
+    "TrainingMaxLevel": 10,
+    "Hp": "44868211080706000000000000",
+    "HpSerialized": "44868211080706000000000000"
+  },
+  {
+    "Id": 6,
+    "Grade": 6,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 1100,
+    "TrainingMaxLevel": 12,
+    "Hp": "1144139382558000000000000000",
+    "HpSerialized": "1144139382558000000000000000"
+  },
+  {
+    "Id": 7,
+    "Grade": 7,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 1200,
+    "TrainingMaxLevel": 14,
+    "Hp": "27786242147837200000000000000",
+    "HpSerialized": "27786242147837200000000000000"
+  },
+  {
+    "Id": 8,
+    "Grade": 8,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 1300,
+    "TrainingMaxLevel": 16,
+    "Hp": "826640703898157000000000000000",
+    "HpSerialized": "826640703898157000000000000000"
+  },
+  {
+    "Id": 9,
+    "Grade": 9,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 1400,
+    "TrainingMaxLevel": 18,
+    "Hp": "28105783932537300000000000000000",
+    "HpSerialized": "28105783932537300000000000000000"
+  },
+  {
+    "Id": 10,
+    "Grade": 10,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 1500,
+    "TrainingMaxLevel": 20,
+    "Hp": "1896970726675470000000000000000000",
+    "HpSerialized": "1896970726675470000000000000000000"
+  },
+  {
+    "Id": 11,
+    "Grade": 11,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 1600,
+    "TrainingMaxLevel": 22,
+    "Hp": "8002129442691300000000000000000000",
+    "HpSerialized": "8002129442691300000000000000000000"
+  },
+  {
+    "Id": 12,
+    "Grade": 12,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 1700,
+    "TrainingMaxLevel": 24,
+    "Hp": "52857815729754000000000000000000000",
+    "HpSerialized": "52857815729754000000000000000000000"
+  },
+  {
+    "Id": 13,
+    "Grade": 13,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 1800,
+    "TrainingMaxLevel": 26,
+    "Hp": "572817342332067000000000000000000000",
+    "HpSerialized": "572817342332067000000000000000000000"
+  },
+  {
+    "Id": 14,
+    "Grade": 14,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 1900,
+    "TrainingMaxLevel": 28,
+    "Hp": "11044172214090700000000000000000000000",
+    "HpSerialized": "11044172214090700000000000000000000000"
+  },
+  {
+    "Id": 15,
+    "Grade": 15,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 2000,
+    "TrainingMaxLevel": 30,
+    "Hp": "221453996092070000000000000000000000000",
+    "HpSerialized": "221453996092070000000000000000000000000"
+  },
+  {
+    "Id": 16,
+    "Grade": 16,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 2100,
+    "TrainingMaxLevel": 32,
+    "Hp": "2657447953104840000000000000000000000000",
+    "HpSerialized": "2657447953104840000000000000000000000000"
+  },
+  {
+    "Id": 17,
+    "Grade": 17,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 2200,
+    "TrainingMaxLevel": 34,
+    "Hp": "31889375437258100000000000000000000000000",
+    "HpSerialized": "31889375437258100000000000000000000000000"
+  },
+  {
+    "Id": 18,
+    "Grade": 18,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 2300,
+    "TrainingMaxLevel": 36,
+    "Hp": "382672505247097000000000000000000000000000",
+    "HpSerialized": "382672505247097000000000000000000000000000"
+  },
+  {
+    "Id": 19,
+    "Grade": 19,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 2400,
+    "TrainingMaxLevel": 38,
+    "Hp": "4592070062965160000000000000000000000000000",
+    "HpSerialized": "4592070062965160000000000000000000000000000"
+  },
+  {
+    "Id": 20,
+    "Grade": 20,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 2500,
+    "TrainingMaxLevel": 40,
+    "Hp": "55104840755582000000000000000000000000000000",
+    "HpSerialized": "55104840755582000000000000000000000000000000"
+  },
+  {
+    "Id": 21,
+    "Grade": 21,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 2600,
+    "TrainingMaxLevel": 42,
+    "Hp": "826572611333730000000000000000000000000000000",
+    "HpSerialized": "826572611333730000000000000000000000000000000"
+  },
+  {
+    "Id": 22,
+    "Grade": 22,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 2700,
+    "TrainingMaxLevel": 44,
+    "Hp": "12398589170005900000000000000000000000000000000",
+    "HpSerialized": "12398589170005900000000000000000000000000000000"
+  },
+  {
+    "Id": 23,
+    "Grade": 23,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 2800,
+    "TrainingMaxLevel": 46,
+    "Hp": "185978837550089000000000000000000000000000000000",
+    "HpSerialized": "185978837550089000000000000000000000000000000000"
+  },
+  {
+    "Id": 24,
+    "Grade": 24,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 2900,
+    "TrainingMaxLevel": 48,
+    "Hp": "2789682563251340000000000000000000000000000000000",
+    "HpSerialized": "2789682563251340000000000000000000000000000000000"
+  },
+  {
+    "Id": 25,
+    "Grade": 25,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 3000,
+    "TrainingMaxLevel": 50,
+    "Hp": "41845238448770100000000000000000000000000000000000",
+    "HpSerialized": "41845238448770100000000000000000000000000000000000"
+  },
+  {
+    "Id": 26,
+    "Grade": 26,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 3100,
+    "TrainingMaxLevel": 52,
+    "Hp": "627678576731551000000000000000000000000000000000000",
+    "HpSerialized": "627678576731551000000000000000000000000000000000000"
+  },
+  {
+    "Id": 27,
+    "Grade": 27,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 3200,
+    "TrainingMaxLevel": 54,
+    "Hp": "9415178650973260000000000000000000000000000000000000",
+    "HpSerialized": "9415178650973260000000000000000000000000000000000000"
+  },
+  {
+    "Id": 28,
+    "Grade": 28,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 3300,
+    "TrainingMaxLevel": 56,
+    "Hp": "141227679764599000000000000000000000000000000000000000",
+    "HpSerialized": "141227679764599000000000000000000000000000000000000000"
+  },
+  {
+    "Id": 29,
+    "Grade": 29,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 3400,
+    "TrainingMaxLevel": 58,
+    "Hp": "2118415196468980000000000000000000000000000000000000000",
+    "HpSerialized": "2118415196468980000000000000000000000000000000000000000"
+  },
+  {
+    "Id": 30,
+    "Grade": 30,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 3500,
+    "TrainingMaxLevel": 60,
+    "Hp": "31776227947034800000000000000000000000000000000000000000",
+    "HpSerialized": "31776227947034800000000000000000000000000000000000000000"
+  },
+  {
+    "Id": 31,
+    "Grade": 31,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 3600,
+    "TrainingMaxLevel": 62,
+    "Hp": "476643419205521000000000000000000000000000000000000000000",
+    "HpSerialized": "476643419205521000000000000000000000000000000000000000000"
+  },
+  {
+    "Id": 32,
+    "Grade": 32,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 3700,
+    "TrainingMaxLevel": 64,
+    "Hp": "7149651288082820000000000000000000000000000000000000000000",
+    "HpSerialized": "7149651288082820000000000000000000000000000000000000000000"
+  },
+  {
+    "Id": 33,
+    "Grade": 33,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 3800,
+    "TrainingMaxLevel": 66,
+    "Hp": "107244769321242000000000000000000000000000000000000000000000",
+    "HpSerialized": "107244769321242000000000000000000000000000000000000000000000"
+  },
+  {
+    "Id": 34,
+    "Grade": 34,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 3900,
+    "TrainingMaxLevel": 68,
+    "Hp": "1608671539818630000000000000000000000000000000000000000000000",
+    "HpSerialized": "1608671539818630000000000000000000000000000000000000000000000"
+  },
+  {
+    "Id": 35,
+    "Grade": 35,
+    "StatPoint": 20,
+    "OverPoint": 20,
+    "NextGradeLevelLimit": 4000,
+    "TrainingMaxLevel": 70,
+    "Hp": "24130073097279500000000000000000000000000000000000000000000000",
+    "HpSerialized": "24130073097279500000000000000000000000000000000000000000000000"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "Id": 0,
+    "GachaCurrency": 1,
+    "Price1": 500,
+    "Price11": 5000,
+    "Price33": 15000,
+    "GachaBonusRewardNeedCount": 300,
+    "GachaBonusRewardLevel": 6,
+    "LevelUpBonusRewardNeedGague": 300,
+    "LevelUpBonusRewardLevel": 7,
+    "SanctuaryBonusValue": 50.0,
+    "LevelBonusMultiply": 2.0,
+    "BatchLevelUpTargetMaxLevel": 7,
+    "InitialPresetCount": 3,
+    "ExpansionPresetCount": 5,
+    "ExpansionPresetConditionLevel": 7,
+    "MinUpgradeProbLimit": 25.0,
+    "MaxUpgradeMaterialCount": 5,
+    "SanctuaryGetCurrencyType": 36,
+    "SanctuaryAwakenGetCurrencyType": 46,
+    "AltarNeedDemonCount": 6,
+    "MinGachaCountForUpgrade": 1,
+    "ExistDemonLevelForSanctuary": 5,
+    "ExistDemonLevelForBulkUpgrade": 6,
+    "MinUpgradeCountForBulkUpgrade": 5,
+    "InitialPresetConditionLevel": 5,
+    "SkillBonusLevelAddDamageFactor": 0.007000000216066837,
+    "MasteryLevelUpCostFactor": 100000,
+    "MaxDemonSpark": 24,
+    "SanctuaryAwakenTotalAltarStar": 60
+  }
+]

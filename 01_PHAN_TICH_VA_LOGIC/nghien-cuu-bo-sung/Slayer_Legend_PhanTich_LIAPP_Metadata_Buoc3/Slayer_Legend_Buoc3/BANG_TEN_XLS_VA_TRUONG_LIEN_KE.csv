@@ -1,0 +1,101 @@
+ten_bang_xls,offset_hex,cac_chuoi_ke_tiep_trong_string_heap,chu_y
+Xls_Localize,0x27734c,sheets; Sheet; Param; get_IKOR; get_IENG; get_IJPN; get_ICHN; get_ITWN; get_IVNM; get_ITHA; get_IFRA; get_IDEU; get_IESP; get_IITA; get_IRUS; get_IPRT; get_ITUR; Key; KOR; ENG; JPN; CHN; TWN; VNM; THA; FRA; DEU; ESP; ITA; RUS; PRT; TUR; IKOR; IENG; IJPN; ICHN; ITWN; IVNM; ITHA,Adjacency only; not verified class/field relationship
+Xls_Accessory,0x27caa7,SlotIndex; SubGrade; Name; Lock; InitValue; InitPrice; HavePower_MpCharge; HavePower_MpAmount; HavePower_Exp,Adjacency only; not verified class/field relationship
+Xls_AdventureInfo,0x27cb1a,AdventureIndex; SubIndex; SubName; CameraSetting; BossNumber; Boss; BossScale; Dia_Clear; Emerald_Clear; Map; Hp; Atk; AttackSpeed; Miss; Accuracy; BattleTime,Adjacency only; not verified class/field relationship
+Xls_AdventureWaveInfo,0x27cbbc,WaveNumber; MonsterCount; RepeatCount; DistanceIndex; m1; m2; m3; m4; m5; m6; m7; m8; m9; m10; S1; S2; S3; S4; S5; S6; S7; S8; S9; S10,Adjacency only; not verified class/field relationship
+Xls_Artifact,0x27cc42,Des; MaxLevel; value1; value10; value20; value30; value40; value50; value60; value70,Adjacency only; not verified class/field relationship
+Xls_AttendanceReward,0x27cc9b,RewardAmount,Adjacency only; not verified class/field relationship
+Xls_Aura,0x27ccbd,LevelLimit; AtkSpeed; HavePower0; HavePowerValue0; HavePower1; HavePowerValue1; HavePower2; HavePowerValue2,Adjacency only; not verified class/field relationship
+Xls_AwakeningAccessory,0x27cd2b,AwakeningNeedCount,Adjacency only; not verified class/field relationship
+Xls_AwakeningSlayerClass,0x27cd55,Cloak; Hat; Costume,Adjacency only; not verified class/field relationship
+Xls_AwakeningWeapon,0x27cd80,HavePower_CriticalValue; HavePower_GoldAmountValue,Adjacency only; not verified class/field relationship
+Xls_CampaignEpisode,0x27cdc6,EpisodeIndex; Title; StartScenario; EndScenario,Adjacency only; not verified class/field relationship
+Xls_CampaignInfo,0x27ce07,Difficulty; ScenarioIndex; Bgm; Intro; Outro; Battle; AttackDistance; BossHpFactor; BossAtkFactor; EnemyHp; EnemyAtk; WaveCount; SameWave; BattleType; BattlePattern; EnemyAttackType; SpecialAttack_Prob; SpecialAttack_Cooltime; TimeLimit,Adjacency only; not verified class/field relationship
+Xls_CampaignScenario,0x27cef3,ScenarioState; OrderIndex; ActionType; ActionTypeString; TypeIndex; TimeCost; Actors1; Actors2; Actors3; Actors4; Actors5; Positions1; Positions2; Positions3; Positions4; Positions5; Scales1; Scales2; Scales3; Scales4; Scales5; States,Adjacency only; not verified class/field relationship
+Xls_CampaignWaveInfo,0x27cfde,BattleIndex,Adjacency only; not verified class/field relationship
+Xls_CaveInfo,0x27cfff,SlayerClassIndex; SlayerClassProb; MonsterIndex,Adjacency only; not verified class/field relationship
+Xls_ChrismasEvent,0x27d03a,Event_Mode,Adjacency only; not verified class/field relationship
+Xls_ContentsOpen,0x27d057,Country; PlayerClass; StageBest; Story; Training; Knowledge; SoulWeapon; BattleSetting; Skin; StageRanking; Chat,Adjacency only; not verified class/field relationship
+Xls_Country,0x27d0cf,CountryCode; Region,Adjacency only; not verified class/field relationship
+Xls_Dialogue,0x27d0ee,Who; Icon; Sentence,Adjacency only; not verified class/field relationship
+Xls_DialogueStory,0x27d10d,StoryType; last; LeftSelect; RightSelect,Adjacency only; not verified class/field relationship
+Xls_Equipment,0x27d145,,Adjacency only; not verified class/field relationship
+Xls_EquipmentGachaLevel,0x27d153,NeedGachaCount; Advanced; Rare; Epic; Legend; Mythic,Adjacency only; not verified class/field relationship
+Xls_EquipmentGachaReward,0x27d19b,GachaLevel; Count,Adjacency only; not verified class/field relationship
+Xls_EquipmentInfo,0x27d1c5,Price,Adjacency only; not verified class/field relationship
+Xls_EventGroup,0x27d1dd,Group; Type; TypeGroup; Desc; ResourcesData,Adjacency only; not verified class/field relationship
+Xls_EventList,0x27d214,StartTime; ValidTime; IconPositionX; IconPositionY,Adjacency only; not verified class/field relationship
+Xls_EventSchedule,0x27d252,,Adjacency only; not verified class/field relationship
+Xls_EventWay,0x27d264,RewardIndex; DisplayGoods; DisplayMonster; MoveIndex; Action; IsEnd; IsStart; Ticket,Adjacency only; not verified class/field relationship
+Xls_FightStatContent,0x27d2bf,SlotNumber; SlotLevel; UpgradePrice,Adjacency only; not verified class/field relationship
+Xls_FriendBattleInfo,0x27d2f6,CharacterType; AttackRange,Adjacency only; not verified class/field relationship
+Xls_FriendClass,0x27d325,SkinIndex; SkinName,Adjacency only; not verified class/field relationship
+Xls_FriendGradeFactor,0x27d348,Factor,Adjacency only; not verified class/field relationship
+Xls_FriendOptionValue,0x27d365,C; B; A; SS; SSS,Adjacency only; not verified class/field relationship
+Xls_FriendPassive,0x27d388,FriendIndex; LimitGrade; PassiveName; EmeraldPrice; StonePrice,Adjacency only; not verified class/field relationship
+Xls_FriendPassiveDmg,0x27d3d5,,Adjacency only; not verified class/field relationship
+Xls_Gem,0x27d3ea,GemType; translateName; translateDes,Adjacency only; not verified class/field relationship
+Xls_GemCombination,0x27d415,mineral1; mineral2; mineral3; mineral4; mineral5; mineral6; count1; count2; count3; count4; count5; count6,Adjacency only; not verified class/field relationship
+Xls_GemInfo,0x27d488,specialPower; specialValue; ActivePercent,Adjacency only; not verified class/field relationship
+Xls_Gift,0x27d4bc,RewardCount; RewardDes; SubDes,Adjacency only; not verified class/field relationship
+Xls_Goods,0x27d4e2,GetGroup,Adjacency only; not verified class/field relationship
+Xls_GoodsGet,0x27d4f5,,Adjacency only; not verified class/field relationship
+Xls_KnowledgeInfo,0x27d502,UpgradeType; MapColor,Adjacency only; not verified class/field relationship
+Xls_KnowledgeInfoSuperCritical,0x27d529,AddLevel,Adjacency only; not verified class/field relationship
+Xls_LanguageInfo,0x27d551,Korean; English,Adjacency only; not verified class/field relationship
+Xls_Localization,0x27d571,,Adjacency only; not verified class/field relationship
+Xls_Mask,0x27d582,SetIndex; Rank; CardCount; New; Hair,Adjacency only; not verified class/field relationship
+Xls_MineInfo,0x27d5ac,MainIndex; Cube; StoneProb; BoxGold; BoxExp; BoxCube; BoxStone; BoxEmerald; BoxDia,Adjacency only; not verified class/field relationship
+Xls_MineralItem,0x27d604,transName,Adjacency only; not verified class/field relationship
+Xls_MineWaveInfo,0x27d61e,,Adjacency only; not verified class/field relationship
+Xls_MiniQuest,0x27d62f,NeedCount,Adjacency only; not verified class/field relationship
+Xls_Monster,0x27d647,leaderPower; LeaderPowerDegree; MonsterPowerGage; MonsterPower; MonsterType; ShotType; leaderPower_1; LeaderPowerDegree_1; leaderPower_2; LeaderPowerDegree_2; leaderPower_3; LeaderPowerDegree_3; leaderPower_4; LeaderPowerDegree_4; leaderPower_5; LeaderPowerDegree_5,Adjacency only; not verified class/field relationship
+Xls_MonsterDistanceInfo,0x27d74e,,Adjacency only; not verified class/field relationship
+Xls_MonsterInfo,0x27d766,scaleSize; AbnormalState; Height,Adjacency only; not verified class/field relationship
+Xls_NoPatchString,0x27d795,,Adjacency only; not verified class/field relationship
+Xls_OptionValue,0x27d7a7,,Adjacency only; not verified class/field relationship
+Xls_PatchString,0x27d7b7,,Adjacency only; not verified class/field relationship
+Xls_PetStat,0x27d7c7,Level_1; Value_1; Price_1; Level_2; Value_2; Price_2,Adjacency only; not verified class/field relationship
+Xls_PlayerClass,0x27d803,ClassTitle; LimitLevel; ClassAtk; ClassHp; BattleName,Adjacency only; not verified class/field relationship
+Xls_PlayerClassBattleWaveInfo,0x27d845,ClassIndex,Adjacency only; not verified class/field relationship
+Xls_Reward,0x27d86e,RewardGroupIndex,Adjacency only; not verified class/field relationship
+Xls_RewardGroup,0x27d88a,RewardKey; Rate,Adjacency only; not verified class/field relationship
+Xls_RewardItem,0x27d8a9,GoodsIndex; GoodsCount,Adjacency only; not verified class/field relationship
+Xls_Shield,0x27d8ce,,Adjacency only; not verified class/field relationship
+Xls_Skill,0x27d8d9,SkillName; SkillBasicDes; SkillSpecificDes; skillOpenType; skillType; activeType; passiveType; MpCost; upgradeValue; ActiveNeedValue; Range; Duration; AnimationNumber; Have; OldSkill; MaxLevelType,Adjacency only; not verified class/field relationship
+Xls_SkillLevel,0x27d999,grade0; grade1; grade2; grade3; grade4; grade5; PriceFactor,Adjacency only; not verified class/field relationship
+Xls_SkillMakingData,0x27d9de,material0; materialIndex0; value0; material1; materialIndex1; material2; materialIndex2; value2; material3; materialIndex3; value3; material4; materialIndex4; value4,Adjacency only; not verified class/field relationship
+Xls_SkillStatContent,0x27da8b,,Adjacency only; not verified class/field relationship
+Xls_SkillTree,0x27daa0,Fire; Water; Wind; Earth,Adjacency only; not verified class/field relationship
+Xls_SkinBattle,0x27dac4,BattleTitle; LimitSkill0; LimitSkill1; LimitSkill2,Adjacency only; not verified class/field relationship
+Xls_SkinBattleWaveInfo,0x27db03,,Adjacency only; not verified class/field relationship
+Xls_Skin_Body,0x27db1a,GetType; QuestType; GetTypeIndex; NeedValue; OptionType; OptionValue; Gender; SameSprites,Adjacency only; not verified class/field relationship
+Xls_Skin_Cloak,0x27db7b,,Adjacency only; not verified class/field relationship
+Xls_Skin_Costume,0x27db8a,BodyBase; Sale,Adjacency only; not verified class/field relationship
+Xls_Skin_Face,0x27dba9,,Adjacency only; not verified class/field relationship
+Xls_Skin_Hair,0x27dbb7,HairBack; HairColor,Adjacency only; not verified class/field relationship
+Xls_Skin_HairBack,0x27dbd8,,Adjacency only; not verified class/field relationship
+Xls_Skin_HairColor,0x27dbea,ColorKey,Adjacency only; not verified class/field relationship
+Xls_Skin_Hat,0x27dc06,HairFront,Adjacency only; not verified class/field relationship
+Xls_SlayerClass,0x27dc1d,,Adjacency only; not verified class/field relationship
+Xls_SlayerClassGachaProb,0x27dc2d,prob,Adjacency only; not verified class/field relationship
+Xls_SlayerClassGachaReward,0x27dc4b,,Adjacency only; not verified class/field relationship
+Xls_SoulWeapon,0x27dc66,SoulType; SoulAmount; WeaponIndex; WeaponAmount; NeedStage; DisassemblyReward; WeaponSkinIndex,Adjacency only; not verified class/field relationship
+Xls_Sound,0x27dcce,DelayTime; LoadType; Volume; PoolCount; PoolType; Path,Adjacency only; not verified class/field relationship
+Xls_SpiritBase,0x27dd0a,SpeciesIndex; SpiritAbilityTypes0; AbilityValues0; SpiritAbilityTypes1; AbilityValues1; SpiritAbilityTypes2; AbilityValues2; SpiritAbilityTypes3; AbilityValues3; SkillDes; SkillType; SkillValues0; SkillValues1; SkillValues2; SkillValues3; SkillValues4; PartnerEffect,Adjacency only; not verified class/field relationship
+Xls_SpiritEquipSlotOpen,0x27de14,,Adjacency only; not verified class/field relationship
+Xls_SpiritForest,0x27de2c,ManaCrystal,Adjacency only; not verified class/field relationship
+Xls_SpiritGachaProb,0x27de49,Prob,Adjacency only; not verified class/field relationship
+Xls_SpiritInventory,0x27de62,InventoryCount,Adjacency only; not verified class/field relationship
+Xls_SpiritLevelLimit,0x27de85,,Adjacency only; not verified class/field relationship
+Xls_SpiritUpgrade,0x27de9a,UpgradeCube; GoldExpFactors0; GoldExpFactors1; GoldExpFactors2; GoldExpFactors3; GoldExpFactors4; AttackHpFactors0; AttackHpFactors1; AttackHpFactors2; AttackHpFactors3; AttackHpFactors4,Adjacency only; not verified class/field relationship
+Xls_Stage,0x27df5d,StageNumber; TranslateName; MapScale; MonsterScale; level_1; level_2; level_3; level_4; level_5; Hp_Factor; Gold_Factor; MpCost_Increase; Level_Factor,Adjacency only; not verified class/field relationship
+Xls_StageGoldFactor,0x27dff2,GoldFactor,Adjacency only; not verified class/field relationship
+Xls_StageInfoXlsx,0x27e011,StageName; MainNumber; SubNumber; BossName; BossCameraSetting; m0; BossHp; BossAtk; EquipmentProb; EquipmentIndex; Dice; GoldAuto; ExpAuto; CubeAuto; StoneAuto; ADsGold; DiceAuto; SoulAuto; DiamondAuto,Adjacency only; not verified class/field relationship
+Xls_StageSoulInfo,0x27e0db,StageMainNumber; SoulProb,Adjacency only; not verified class/field relationship
+Xls_TrainingGrade,0x27e106,StatPoint; OverPoint; NextGradeLevelLimit; TrainingMaxLevel,Adjacency only; not verified class/field relationship
+Xls_TutorialInfo,0x27e151,DesCount; FirstDes; SecondDes; ThirdDes,Adjacency only; not verified class/field relationship
+Xls_UserLevel,0x27e187,,Adjacency only; not verified class/field relationship
+Xls_WeaponInvenUpgradeStatContent,0x27e195,,Adjacency only; not verified class/field relationship
+Xls_WeaponSkin,0x27e1b7,EffectColor; RecourcePath; WeaponSkinType; WeaponSkinTypeIndex,Adjacency only; not verified class/field relationship
+Xls_WeaponUpgradeStat,0x27e202,ProtectTest; user_id; LiappStart; ReStart; pause; OnApplicationPause; LIAPP_EXCEPTION; LIAPP_SUCCESS; LIAPP_DETECTED; LIAPP_DETECTED_ANTI_DEBUGGER; LIAPP_DETECTED_INTEGRITY; LIAPP_DETECTED_VM; LIAPP_DETECTED_ROOTING; LIAPP_DETECTED_HACKING_TOOL; bIsStarted; nRet; strLiappMessage; _intLA1; _LiappAgent; UserId; bPaused; Test_Data; list2; testObject; Test_skill; get_btn; _btn; Test_Skill_Button; SetSkillNumber; currentContents; _currentContents; skillNumber; TestTime; set_Instance; WebCheck; WebChk; ReceiveRealTime; isDone; InvokeEvent,Adjacency only; not verified class/field relationship

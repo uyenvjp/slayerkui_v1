@@ -1,0 +1,978 @@
+[
+  {
+    "Id": 1,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7001,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 2
+  },
+  {
+    "Id": 2,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7001,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 5
+  },
+  {
+    "Id": 3,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 1,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 4,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 2,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 5,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 3,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 6,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 4,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 7,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 11,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 8,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 12,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 9,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 13,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 10,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 14,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 11,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 101,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 12,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 102,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 13,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 103,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 14,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 104,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 15,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 201,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 16,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 202,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 17,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 203,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 18,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 204,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 19,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 1,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 20,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 2,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 21,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 3,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 22,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 4,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 35,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 11,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 36,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 12,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 37,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 13,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 38,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 14,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 51,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 101,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 52,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 102,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 53,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 103,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 54,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 104,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 67,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 201,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 68,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 202,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 69,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 203,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 70,
+    "MinVersion": "600.7.1",
+    "MaxVersion": "600.7.3",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 204,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1001,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7001,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 2
+  },
+  {
+    "Id": 1002,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7001,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 5
+  },
+  {
+    "Id": 1003,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 1,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1004,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 2,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1005,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 3,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1006,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 4,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1007,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 11,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1008,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 12,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1009,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 13,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1010,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 14,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1011,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 101,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1012,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 102,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1013,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 103,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1014,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 104,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1015,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 201,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1016,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 202,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1017,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 203,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1018,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 204,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1019,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 301,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1020,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 302,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1021,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 303,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1022,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 304,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1023,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 305,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1024,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 1,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1025,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 2,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1026,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 3,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1027,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 4,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1028,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 11,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1029,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 12,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1030,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 13,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1031,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 14,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1032,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 101,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1033,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 102,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1034,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 103,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1035,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 104,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1036,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 201,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1037,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 202,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1038,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 203,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1039,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 204,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1040,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 301,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1041,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 302,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1042,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 303,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1043,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 304,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 1044,
+    "MinVersion": "1.1.1",
+    "MaxVersion": "1.1.1",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 305,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2001,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7001,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 2
+  },
+  {
+    "Id": 2002,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7001,
+    "CurrencyIndex": 0,
+    "CurrencyAmount": 5
+  },
+  {
+    "Id": 2003,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 1,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2004,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 2,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2005,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 3,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2006,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 4,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2007,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 11,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2008,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 12,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2009,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 13,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2010,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 14,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2011,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 101,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2012,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 102,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2013,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 103,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2014,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 104,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2015,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 201,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2016,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 202,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2017,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 203,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2018,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 204,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2019,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 301,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2020,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 302,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2021,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 303,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2022,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 304,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2023,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 305,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2024,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 1,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2025,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 2,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2026,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 3,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2027,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 4,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2028,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 11,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2029,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 12,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2030,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 13,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2031,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 14,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2032,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 101,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2033,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 102,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2034,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 103,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2035,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 104,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2036,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 201,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2037,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 202,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2038,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 203,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2039,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 204,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2040,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 301,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2041,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 302,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2042,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 303,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2043,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 304,
+    "CurrencyAmount": 1
+  },
+  {
+    "Id": 2044,
+    "MinVersion": "600.7.4",
+    "MaxVersion": "999.999.999",
+    "CurrencyType": 7000,
+    "CurrencyIndex": 305,
+    "CurrencyAmount": 1
+  }
+]

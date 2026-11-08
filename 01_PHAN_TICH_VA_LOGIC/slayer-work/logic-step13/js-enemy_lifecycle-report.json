@@ -1,0 +1,7 @@
+{
+  "passed": 288,
+  "contracts": 7,
+  "sequences": 3,
+  "actions": 9,
+  "scope": "Linked hit/HP/instant-kill/death/normal-loot; explicit multicast, modifiers, getters, RNG/Unity/downstream dependencies."
+}

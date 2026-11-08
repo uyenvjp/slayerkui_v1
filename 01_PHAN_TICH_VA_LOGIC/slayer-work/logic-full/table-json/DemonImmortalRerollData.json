@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "Count": 0,
+    "CurrencyType": 4,
+    "CurrencyAmount": 1000
+  },
+  {
+    "Id": 2,
+    "Count": 1,
+    "CurrencyType": 4,
+    "CurrencyAmount": 2000
+  },
+  {
+    "Id": 3,
+    "Count": 2,
+    "CurrencyType": 4,
+    "CurrencyAmount": 3000
+  },
+  {
+    "Id": 4,
+    "Count": 3,
+    "CurrencyType": 4,
+    "CurrencyAmount": 5000
+  },
+  {
+    "Id": 5,
+    "Count": 4,
+    "CurrencyType": 4,
+    "CurrencyAmount": 7000
+  },
+  {
+    "Id": 6,
+    "Count": 5,
+    "CurrencyType": 4,
+    "CurrencyAmount": 10000
+  },
+  {
+    "Id": 7,
+    "Count": 6,
+    "CurrencyType": 4,
+    "CurrencyAmount": 15000
+  },
+  {
+    "Id": 8,
+    "Count": 7,
+    "CurrencyType": 4,
+    "CurrencyAmount": 20000
+  },
+  {
+    "Id": 9,
+    "Count": 8,
+    "CurrencyType": 4,
+    "CurrencyAmount": 25000
+  },
+  {
+    "Id": 10,
+    "Count": 9,
+    "CurrencyType": 4,
+    "CurrencyAmount": 30000
+  }
+]

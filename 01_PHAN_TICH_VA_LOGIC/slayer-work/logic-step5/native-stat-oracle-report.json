@@ -1,0 +1,23 @@
+{
+  "cases": 3140,
+  "blocks": {
+    "atkBase": 200,
+    "hpBase": 200,
+    "healBase": 200,
+    "atkEquipment": 200,
+    "hpAccessory": 200,
+    "atkClassFirst": 200,
+    "hpClassFirst": 200,
+    "atkClassSecond": 200,
+    "hpClassSecond": 200,
+    "atkTotal": 200,
+    "criticalDamage": 200,
+    "superCriticalDamage": 200,
+    "atkAdd": 200,
+    "hpAdd": 200,
+    "healAdd": 200,
+    "masterySelf": 70,
+    "masteryLinked": 70
+  },
+  "scope": "Bounded native arithmetic interpreted; field mapping and orchestration checked separately. Not whole-game parity."
+}

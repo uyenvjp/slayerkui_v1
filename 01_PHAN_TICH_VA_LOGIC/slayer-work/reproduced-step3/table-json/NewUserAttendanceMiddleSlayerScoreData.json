@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 1,
+    "Score": 5,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 5000,
+    "PassRewardType": 1,
+    "PassRewardIndex": 0,
+    "PassRewardCount": 20000
+  },
+  {
+    "Id": 2,
+    "Score": 10,
+    "BaseRewardType": 150,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 100,
+    "PassRewardType": 104,
+    "PassRewardIndex": 6,
+    "PassRewardCount": 1
+  },
+  {
+    "Id": 3,
+    "Score": 15,
+    "BaseRewardType": 1,
+    "BaseRewardIndex": 0,
+    "BaseRewardCount": 10000,
+    "PassRewardType": 1,
+    "PassRewardIndex": 0,
+    "PassRewardCount": 50000
+  },
+  {
+    "Id": 4,
+    "Score": 20,
+    "BaseRewardType": 104,
+    "BaseRewardIndex": 22,
+    "BaseRewardCount": 1,
+    "PassRewardType": 104,
+    "PassRewardIndex": 11,
+    "PassRewardCount": 2
+  },
+  {
+    "Id": 5,
+    "Score": 25,
+    "BaseRewardType": 101,
+    "BaseRewardIndex": 23,
+    "BaseRewardCount": 1,
+    "PassRewardType": 100,
+    "PassRewardIndex": 23,
+    "PassRewardCount": 1
+  }
+]

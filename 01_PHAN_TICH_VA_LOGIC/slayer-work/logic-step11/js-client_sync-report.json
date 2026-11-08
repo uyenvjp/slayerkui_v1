@@ -1,0 +1,5 @@
+{
+  "sequences": 102,
+  "actions": 487,
+  "scope": "Stronger api255 response/callback/signal/dirty-reset link; explicit queue dispatch, RPC, Task and scheduler fixtures."
+}

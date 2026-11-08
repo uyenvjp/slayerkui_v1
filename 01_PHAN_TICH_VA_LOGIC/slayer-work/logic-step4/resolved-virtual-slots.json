@@ -1,0 +1,194 @@
+[
+  {
+    "type": "Character",
+    "slot": 10,
+    "class_vtable_offset": 472,
+    "encoded": "0x60010b1b",
+    "method": "Character::get_Miss",
+    "native_va": "0x50167a0"
+  },
+  {
+    "type": "Character",
+    "slot": 12,
+    "class_vtable_offset": 504,
+    "encoded": "0x60010b1f",
+    "method": "Character::get_Accuracy",
+    "native_va": "0x5016844"
+  },
+  {
+    "type": "Character",
+    "slot": 17,
+    "class_vtable_offset": 584,
+    "encoded": "0x60010b29",
+    "method": "Character::HitEffect",
+    "native_va": "0x501698c"
+  },
+  {
+    "type": "Character",
+    "slot": 23,
+    "class_vtable_offset": 680,
+    "encoded": "0x60010b37",
+    "method": "Character::FloatDmgText",
+    "native_va": "0x501715c"
+  },
+  {
+    "type": "Character",
+    "slot": 24,
+    "class_vtable_offset": 696,
+    "encoded": "0x60010b39",
+    "method": "Character::FloatString",
+    "native_va": "0x50177b8"
+  },
+  {
+    "type": "Character",
+    "slot": 38,
+    "class_vtable_offset": 920,
+    "encoded": "0x60010b59",
+    "method": "Character::DmgType_Cal",
+    "native_va": "0x5018334"
+  },
+  {
+    "type": "EnemyBase",
+    "slot": 10,
+    "class_vtable_offset": 472,
+    "encoded": "0x60010b1b",
+    "method": "Character::get_Miss",
+    "native_va": "0x50167a0"
+  },
+  {
+    "type": "EnemyBase",
+    "slot": 12,
+    "class_vtable_offset": 504,
+    "encoded": "0x60010b1f",
+    "method": "Character::get_Accuracy",
+    "native_va": "0x5016844"
+  },
+  {
+    "type": "EnemyBase",
+    "slot": 17,
+    "class_vtable_offset": 584,
+    "encoded": "0x60010b29",
+    "method": "Character::HitEffect",
+    "native_va": "0x501698c"
+  },
+  {
+    "type": "EnemyBase",
+    "slot": 23,
+    "class_vtable_offset": 680,
+    "encoded": "0x60010b37",
+    "method": "Character::FloatDmgText",
+    "native_va": "0x501715c"
+  },
+  {
+    "type": "EnemyBase",
+    "slot": 24,
+    "class_vtable_offset": 696,
+    "encoded": "0x60010b39",
+    "method": "Character::FloatString",
+    "native_va": "0x50177b8"
+  },
+  {
+    "type": "EnemyBase",
+    "slot": 38,
+    "class_vtable_offset": 920,
+    "encoded": "0x60010b59",
+    "method": "Character::DmgType_Cal",
+    "native_va": "0x5018334"
+  },
+  {
+    "type": "EnemyBase",
+    "slot": 54,
+    "class_vtable_offset": 1176,
+    "encoded": "0x60011e43",
+    "method": "EnemyBase::Hp_Update",
+    "native_va": "0x50b70b8"
+  },
+  {
+    "type": "EnemyBase",
+    "slot": 57,
+    "class_vtable_offset": 1224,
+    "encoded": "0x60011e69",
+    "method": "EnemyBase::AddDamageInfo",
+    "native_va": "0x50baec4"
+  },
+  {
+    "type": "EnemyBase",
+    "slot": 58,
+    "class_vtable_offset": 1240,
+    "encoded": "0x60011e6b",
+    "method": "EnemyBase::DotDmgResult",
+    "native_va": "0x50baf38"
+  },
+  {
+    "type": "EnemyBase",
+    "slot": 59,
+    "class_vtable_offset": 1256,
+    "encoded": "0x60011e6d",
+    "method": "EnemyBase::DmgResult",
+    "native_va": "0x50bafb0"
+  },
+  {
+    "type": "EnemyBase",
+    "slot": 61,
+    "class_vtable_offset": 1288,
+    "encoded": "0x60011e8d",
+    "method": "EnemyBase::HighHpCheck",
+    "native_va": "0x50bba54"
+  },
+  {
+    "type": "EnemyBase",
+    "slot": 63,
+    "class_vtable_offset": 1320,
+    "encoded": "0x60011e99",
+    "method": "EnemyBase::Death",
+    "native_va": "0x50bbf20"
+  },
+  {
+    "type": "PlayerBase",
+    "slot": 10,
+    "class_vtable_offset": 472,
+    "encoded": "0x6000e633",
+    "method": "PlayerBase::get_Miss",
+    "native_va": "0x4eeeaf8"
+  },
+  {
+    "type": "PlayerBase",
+    "slot": 12,
+    "class_vtable_offset": 504,
+    "encoded": "0x6000e631",
+    "method": "PlayerBase::get_Accuracy",
+    "native_va": "0x4eee85c"
+  },
+  {
+    "type": "PlayerBase",
+    "slot": 17,
+    "class_vtable_offset": 584,
+    "encoded": "0x6000e721",
+    "method": "PlayerBase::HitEffect",
+    "native_va": "0x4ef7c1c"
+  },
+  {
+    "type": "PlayerBase",
+    "slot": 23,
+    "class_vtable_offset": 680,
+    "encoded": "0x60010b37",
+    "method": "Character::FloatDmgText",
+    "native_va": "0x501715c"
+  },
+  {
+    "type": "PlayerBase",
+    "slot": 24,
+    "class_vtable_offset": 696,
+    "encoded": "0x60010b39",
+    "method": "Character::FloatString",
+    "native_va": "0x50177b8"
+  },
+  {
+    "type": "PlayerBase",
+    "slot": 38,
+    "class_vtable_offset": 920,
+    "encoded": "0x60010b59",
+    "method": "Character::DmgType_Cal",
+    "native_va": "0x5018334"
+  }
+]

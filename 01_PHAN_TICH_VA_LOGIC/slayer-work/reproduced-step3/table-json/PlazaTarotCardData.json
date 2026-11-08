@@ -1,0 +1,222 @@
+[
+  {
+    "Id": 1,
+    "MinLockSeconds": 0,
+    "EffectDurationSeconds": 0,
+    "RewardCurrencyType": 0,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 0,
+    "TarotEffectType": 0,
+    "TarotEffectValue": 0.0
+  },
+  {
+    "Id": 2,
+    "MinLockSeconds": 0,
+    "EffectDurationSeconds": 0,
+    "RewardCurrencyType": 0,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 0,
+    "TarotEffectType": 0,
+    "TarotEffectValue": 0.0
+  },
+  {
+    "Id": 3,
+    "MinLockSeconds": 0,
+    "EffectDurationSeconds": 0,
+    "RewardCurrencyType": 0,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 0,
+    "TarotEffectType": 0,
+    "TarotEffectValue": 0.0
+  },
+  {
+    "Id": 4,
+    "MinLockSeconds": 60,
+    "EffectDurationSeconds": 3600,
+    "RewardCurrencyType": 0,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 0,
+    "TarotEffectType": 1,
+    "TarotEffectValue": 1.5
+  },
+  {
+    "Id": 5,
+    "MinLockSeconds": 60,
+    "EffectDurationSeconds": 3600,
+    "RewardCurrencyType": 0,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 0,
+    "TarotEffectType": 3,
+    "TarotEffectValue": 2.0
+  },
+  {
+    "Id": 6,
+    "MinLockSeconds": 0,
+    "EffectDurationSeconds": 0,
+    "RewardCurrencyType": 0,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 0,
+    "TarotEffectType": 0,
+    "TarotEffectValue": 0.0
+  },
+  {
+    "Id": 7,
+    "MinLockSeconds": 60,
+    "EffectDurationSeconds": 3600,
+    "RewardCurrencyType": 0,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 0,
+    "TarotEffectType": 4,
+    "TarotEffectValue": 1.0
+  },
+  {
+    "Id": 8,
+    "MinLockSeconds": 0,
+    "EffectDurationSeconds": 0,
+    "RewardCurrencyType": 0,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 0,
+    "TarotEffectType": 0,
+    "TarotEffectValue": 0.0
+  },
+  {
+    "Id": 9,
+    "MinLockSeconds": 60,
+    "EffectDurationSeconds": 3600,
+    "RewardCurrencyType": 0,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 0,
+    "TarotEffectType": 2,
+    "TarotEffectValue": 3.0
+  },
+  {
+    "Id": 10,
+    "MinLockSeconds": 60,
+    "EffectDurationSeconds": 3600,
+    "RewardCurrencyType": 0,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 0,
+    "TarotEffectType": 7,
+    "TarotEffectValue": 0.20000000298023224
+  },
+  {
+    "Id": 11,
+    "MinLockSeconds": 0,
+    "EffectDurationSeconds": 0,
+    "RewardCurrencyType": 0,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 0,
+    "TarotEffectType": 0,
+    "TarotEffectValue": 0.0
+  },
+  {
+    "Id": 12,
+    "MinLockSeconds": 0,
+    "EffectDurationSeconds": 0,
+    "RewardCurrencyType": 0,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 0,
+    "TarotEffectType": 0,
+    "TarotEffectValue": 0.0
+  },
+  {
+    "Id": 13,
+    "MinLockSeconds": 0,
+    "EffectDurationSeconds": 0,
+    "RewardCurrencyType": 0,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 0,
+    "TarotEffectType": 0,
+    "TarotEffectValue": 0.0
+  },
+  {
+    "Id": 14,
+    "MinLockSeconds": 60,
+    "EffectDurationSeconds": 3600,
+    "RewardCurrencyType": 0,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 0,
+    "TarotEffectType": 5,
+    "TarotEffectValue": 0.5
+  },
+  {
+    "Id": 15,
+    "MinLockSeconds": 0,
+    "EffectDurationSeconds": 0,
+    "RewardCurrencyType": 0,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 0,
+    "TarotEffectType": 0,
+    "TarotEffectValue": 0.0
+  },
+  {
+    "Id": 16,
+    "MinLockSeconds": 60,
+    "EffectDurationSeconds": 3600,
+    "RewardCurrencyType": 0,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 0,
+    "TarotEffectType": 4,
+    "TarotEffectValue": 2.0
+  },
+  {
+    "Id": 17,
+    "MinLockSeconds": 60,
+    "EffectDurationSeconds": 3600,
+    "RewardCurrencyType": 0,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 0,
+    "TarotEffectType": 4,
+    "TarotEffectValue": 3.0
+  },
+  {
+    "Id": 18,
+    "MinLockSeconds": 0,
+    "EffectDurationSeconds": 0,
+    "RewardCurrencyType": 0,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 0,
+    "TarotEffectType": 0,
+    "TarotEffectValue": 0.0
+  },
+  {
+    "Id": 19,
+    "MinLockSeconds": 0,
+    "EffectDurationSeconds": 0,
+    "RewardCurrencyType": 0,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 0,
+    "TarotEffectType": 0,
+    "TarotEffectValue": 0.0
+  },
+  {
+    "Id": 20,
+    "MinLockSeconds": 0,
+    "EffectDurationSeconds": 0,
+    "RewardCurrencyType": 48,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 1,
+    "TarotEffectType": 6,
+    "TarotEffectValue": 0.0
+  },
+  {
+    "Id": 21,
+    "MinLockSeconds": 0,
+    "EffectDurationSeconds": 0,
+    "RewardCurrencyType": 0,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 0,
+    "TarotEffectType": 0,
+    "TarotEffectValue": 0.0
+  },
+  {
+    "Id": 22,
+    "MinLockSeconds": 0,
+    "EffectDurationSeconds": 0,
+    "RewardCurrencyType": 0,
+    "RewardCurrencyIndex": 0,
+    "RewardAmount": 0,
+    "TarotEffectType": 0,
+    "TarotEffectValue": 0.0
+  }
+]

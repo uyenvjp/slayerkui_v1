@@ -1,0 +1,170 @@
+[
+  {
+    "Id": 1,
+    "RewardType": 1,
+    "RewardAmount": 500,
+    "Rate": 24.5
+  },
+  {
+    "Id": 2,
+    "RewardType": 7,
+    "RewardAmount": 100,
+    "Rate": 6.0
+  },
+  {
+    "Id": 3,
+    "RewardType": 10,
+    "RewardAmount": 1,
+    "Rate": 6.0
+  },
+  {
+    "Id": 4,
+    "RewardType": 3,
+    "RewardAmount": 1000,
+    "Rate": 6.0
+  },
+  {
+    "Id": 5,
+    "RewardType": 5,
+    "RewardAmount": 1000,
+    "Rate": 6.0
+  },
+  {
+    "Id": 6,
+    "RewardType": 11,
+    "RewardAmount": 1000,
+    "Rate": 6.0
+  },
+  {
+    "Id": 7,
+    "RewardType": 12,
+    "RewardAmount": 1000,
+    "Rate": 6.0
+  },
+  {
+    "Id": 8,
+    "RewardType": 1,
+    "RewardAmount": 1000,
+    "Rate": 14.0
+  },
+  {
+    "Id": 9,
+    "RewardType": 7,
+    "RewardAmount": 200,
+    "Rate": 3.0
+  },
+  {
+    "Id": 10,
+    "RewardType": 10,
+    "RewardAmount": 2,
+    "Rate": 3.0
+  },
+  {
+    "Id": 11,
+    "RewardType": 3,
+    "RewardAmount": 2000,
+    "Rate": 3.0
+  },
+  {
+    "Id": 12,
+    "RewardType": 5,
+    "RewardAmount": 2000,
+    "Rate": 3.0
+  },
+  {
+    "Id": 13,
+    "RewardType": 11,
+    "RewardAmount": 2000,
+    "Rate": 3.0
+  },
+  {
+    "Id": 14,
+    "RewardType": 12,
+    "RewardAmount": 2000,
+    "Rate": 3.0
+  },
+  {
+    "Id": 15,
+    "RewardType": 1,
+    "RewardAmount": 5000,
+    "Rate": 1.0
+  },
+  {
+    "Id": 16,
+    "RewardType": 7,
+    "RewardAmount": 500,
+    "Rate": 0.5
+  },
+  {
+    "Id": 17,
+    "RewardType": 10,
+    "RewardAmount": 5,
+    "Rate": 0.5
+  },
+  {
+    "Id": 18,
+    "RewardType": 3,
+    "RewardAmount": 5000,
+    "Rate": 0.5
+  },
+  {
+    "Id": 19,
+    "RewardType": 5,
+    "RewardAmount": 5000,
+    "Rate": 0.5
+  },
+  {
+    "Id": 20,
+    "RewardType": 11,
+    "RewardAmount": 5000,
+    "Rate": 0.5
+  },
+  {
+    "Id": 21,
+    "RewardType": 12,
+    "RewardAmount": 5000,
+    "Rate": 0.5
+  },
+  {
+    "Id": 22,
+    "RewardType": 1,
+    "RewardAmount": 10000,
+    "Rate": 0.5
+  },
+  {
+    "Id": 23,
+    "RewardType": 7,
+    "RewardAmount": 1000,
+    "Rate": 0.5
+  },
+  {
+    "Id": 24,
+    "RewardType": 10,
+    "RewardAmount": 10,
+    "Rate": 0.5
+  },
+  {
+    "Id": 25,
+    "RewardType": 3,
+    "RewardAmount": 10000,
+    "Rate": 0.5
+  },
+  {
+    "Id": 26,
+    "RewardType": 5,
+    "RewardAmount": 10000,
+    "Rate": 0.5
+  },
+  {
+    "Id": 27,
+    "RewardType": 11,
+    "RewardAmount": 10000,
+    "Rate": 0.5
+  },
+  {
+    "Id": 28,
+    "RewardType": 12,
+    "RewardAmount": 10000,
+    "Rate": 0.5
+  }
+]

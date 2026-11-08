@@ -1,0 +1,6 @@
+{
+  "passed": 206,
+  "entries": 2,
+  "contract_checks": 4,
+  "scope": "GetDmg/PenaltyDmg bodies under explicit downstream getter/RNG/Unity/lifecycle models. Full death/reflect callbacks and runtime remain unported."
+}

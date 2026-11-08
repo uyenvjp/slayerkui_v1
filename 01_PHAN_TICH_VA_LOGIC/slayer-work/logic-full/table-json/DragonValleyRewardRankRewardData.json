@@ -1,0 +1,110 @@
+[
+  {
+    "Id": 1,
+    "Rank": 1,
+    "CurrencyTypes": [
+      1,
+      39,
+      10
+    ],
+    "CurrencyIndex": [
+      0,
+      0,
+      0
+    ],
+    "Amounts": [
+      10000,
+      1000,
+      20
+    ]
+  },
+  {
+    "Id": 2,
+    "Rank": 2,
+    "CurrencyTypes": [
+      1,
+      39,
+      10
+    ],
+    "CurrencyIndex": [
+      0,
+      0,
+      0
+    ],
+    "Amounts": [
+      8000,
+      700,
+      10
+    ]
+  },
+  {
+    "Id": 3,
+    "Rank": 3,
+    "CurrencyTypes": [
+      1,
+      39,
+      10
+    ],
+    "CurrencyIndex": [
+      0,
+      0,
+      0
+    ],
+    "Amounts": [
+      6000,
+      500,
+      7
+    ]
+  },
+  {
+    "Id": 4,
+    "Rank": 4,
+    "CurrencyTypes": [
+      1,
+      39,
+      10
+    ],
+    "CurrencyIndex": [
+      0,
+      0,
+      0
+    ],
+    "Amounts": [
+      5000,
+      300,
+      5
+    ]
+  },
+  {
+    "Id": 5,
+    "Rank": 5,
+    "CurrencyTypes": [
+      1,
+      39
+    ],
+    "CurrencyIndex": [
+      0,
+      0
+    ],
+    "Amounts": [
+      5000,
+      200
+    ]
+  },
+  {
+    "Id": 6,
+    "Rank": 6,
+    "CurrencyTypes": [
+      1,
+      39
+    ],
+    "CurrencyIndex": [
+      0,
+      0
+    ],
+    "Amounts": [
+      4000,
+      100
+    ]
+  }
+]

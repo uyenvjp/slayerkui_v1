@@ -1,0 +1,68 @@
+[
+  {
+    "Id": 0,
+    "EpisodeIndex": 0,
+    "CampaignType": 1,
+    "SubCampaignIndex": 0,
+    "CampaignEpisodeType": 0,
+    "Title": "SUB_CAMPAIGN_FRIEND_ELLIE_EPISODE_TITLE_HISTORY",
+    "StartScenario": 1,
+    "EndScenario": 7,
+    "IsOpened": true
+  },
+  {
+    "Id": 10,
+    "EpisodeIndex": 10,
+    "CampaignType": 1,
+    "SubCampaignIndex": 1,
+    "CampaignEpisodeType": 10,
+    "Title": "SUB_CAMPAIGN_FRIEND_ZIC_EPISODE_TITLE_HISTORY",
+    "StartScenario": 1,
+    "EndScenario": 7,
+    "IsOpened": true
+  },
+  {
+    "Id": 20,
+    "EpisodeIndex": 20,
+    "CampaignType": 1,
+    "SubCampaignIndex": 2,
+    "CampaignEpisodeType": 20,
+    "Title": "SUB_CAMPAIGN_FRIEND_MIHO_EPISODE_TITLE_HISTORY",
+    "StartScenario": 1,
+    "EndScenario": 7,
+    "IsOpened": true
+  },
+  {
+    "Id": 30,
+    "EpisodeIndex": 30,
+    "CampaignType": 1,
+    "SubCampaignIndex": 3,
+    "CampaignEpisodeType": 30,
+    "Title": "SUB_CAMPAIGN_FRIEND_LUNA_EPISODE_TITLE_HISTORY",
+    "StartScenario": 1,
+    "EndScenario": 7,
+    "IsOpened": false
+  },
+  {
+    "Id": 100,
+    "EpisodeIndex": 100,
+    "CampaignType": 2,
+    "SubCampaignIndex": 9,
+    "CampaignEpisodeType": 100,
+    "Title": "SUB_CAMPAIGN_PROMOTION_ETHER_EPISODE_TITLE_HISTORY",
+    "StartScenario": 1,
+    "EndScenario": 6,
+    "IsOpened": false
+  },
+  {
+    "Id": 110,
+    "EpisodeIndex": 110,
+    "CampaignType": 2,
+    "SubCampaignIndex": 10,
+    "CampaignEpisodeType": 110,
+    "Title": "SUB_CAMPAIGN_PROMOTION_BLACKMYTHRILL_EPISODE_TITLE_HISTORY",
+    "StartScenario": 1,
+    "EndScenario": 7,
+    "IsOpened": false
+  }
+]

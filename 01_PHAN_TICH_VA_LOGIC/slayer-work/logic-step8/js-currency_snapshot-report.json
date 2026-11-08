@@ -1,0 +1,5 @@
+{
+  "passed": 483,
+  "contracts": 4,
+  "scope": "Currency snapshot and compare bodies; dependency getters/logging explicit."
+}

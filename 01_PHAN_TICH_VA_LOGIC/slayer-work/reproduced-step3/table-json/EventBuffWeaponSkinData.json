@@ -1,0 +1,432 @@
+[
+  {
+    "Id": 3,
+    "EventType": 3,
+    "WeaponSkinIndex": [
+      1009,
+      1010,
+      1011,
+      1012
+    ]
+  },
+  {
+    "Id": 6,
+    "EventType": 6,
+    "WeaponSkinIndex": [
+      1013,
+      1014,
+      1015,
+      1016
+    ]
+  },
+  {
+    "Id": 7,
+    "EventType": 7,
+    "WeaponSkinIndex": [
+      1017,
+      1018,
+      1019,
+      1020
+    ]
+  },
+  {
+    "Id": 8,
+    "EventType": 8,
+    "WeaponSkinIndex": [
+      1021,
+      1022,
+      1023,
+      1024
+    ]
+  },
+  {
+    "Id": 9,
+    "EventType": 9,
+    "WeaponSkinIndex": [
+      1005,
+      1006,
+      1007,
+      1008
+    ]
+  },
+  {
+    "Id": 10,
+    "EventType": 10,
+    "WeaponSkinIndex": [
+      1021,
+      1022,
+      1023,
+      1024
+    ]
+  },
+  {
+    "Id": 11,
+    "EventType": 11,
+    "WeaponSkinIndex": [
+      1031,
+      1032,
+      1033,
+      1034
+    ]
+  },
+  {
+    "Id": 12,
+    "EventType": 12,
+    "WeaponSkinIndex": [
+      1037,
+      1038,
+      1039,
+      1040
+    ]
+  },
+  {
+    "Id": 13,
+    "EventType": 13,
+    "WeaponSkinIndex": [
+      1045,
+      1046,
+      1047,
+      1048
+    ]
+  },
+  {
+    "Id": 14,
+    "EventType": 14,
+    "WeaponSkinIndex": [
+      1050,
+      1051,
+      1052,
+      1053
+    ]
+  },
+  {
+    "Id": 15,
+    "EventType": 15,
+    "WeaponSkinIndex": [
+      1057,
+      1058,
+      1059,
+      1060
+    ]
+  },
+  {
+    "Id": 16,
+    "EventType": 16,
+    "WeaponSkinIndex": [
+      1062,
+      1063,
+      1064,
+      1065
+    ]
+  },
+  {
+    "Id": 17,
+    "EventType": 17,
+    "WeaponSkinIndex": [
+      1069,
+      1070,
+      1071,
+      1072
+    ]
+  },
+  {
+    "Id": 18,
+    "EventType": 18,
+    "WeaponSkinIndex": [
+      1075,
+      1076,
+      1077,
+      1078
+    ]
+  },
+  {
+    "Id": 19,
+    "EventType": 19,
+    "WeaponSkinIndex": [
+      1080,
+      1081,
+      1082,
+      1083
+    ]
+  },
+  {
+    "Id": 20,
+    "EventType": 20,
+    "WeaponSkinIndex": [
+      1085,
+      1086,
+      1087,
+      1088
+    ]
+  },
+  {
+    "Id": 21,
+    "EventType": 21,
+    "WeaponSkinIndex": [
+      1090,
+      1091,
+      1092,
+      1093
+    ]
+  },
+  {
+    "Id": 22,
+    "EventType": 22,
+    "WeaponSkinIndex": [
+      1095,
+      1096,
+      1097,
+      1098
+    ]
+  },
+  {
+    "Id": 23,
+    "EventType": 23,
+    "WeaponSkinIndex": [
+      1100,
+      1101,
+      1102,
+      1103
+    ]
+  },
+  {
+    "Id": 24,
+    "EventType": 24,
+    "WeaponSkinIndex": [
+      1106,
+      1107,
+      1108,
+      1109
+    ]
+  },
+  {
+    "Id": 25,
+    "EventType": 25,
+    "WeaponSkinIndex": [
+      1112,
+      1113,
+      1114,
+      1115
+    ]
+  },
+  {
+    "Id": 26,
+    "EventType": 26,
+    "WeaponSkinIndex": [
+      1119,
+      1120,
+      1121,
+      1122
+    ]
+  },
+  {
+    "Id": 28,
+    "EventType": 28,
+    "WeaponSkinIndex": [
+      1126,
+      1127,
+      1128,
+      1129
+    ]
+  },
+  {
+    "Id": 29,
+    "EventType": 29,
+    "WeaponSkinIndex": [
+      1132,
+      1133,
+      1134,
+      1135
+    ]
+  },
+  {
+    "Id": 30,
+    "EventType": 30,
+    "WeaponSkinIndex": [
+      1138,
+      1139,
+      1140,
+      1141
+    ]
+  },
+  {
+    "Id": 31,
+    "EventType": 31,
+    "WeaponSkinIndex": [
+      1143,
+      1144,
+      1145,
+      1146
+    ]
+  },
+  {
+    "Id": 32,
+    "EventType": 32,
+    "WeaponSkinIndex": [
+      1150,
+      1151,
+      1152,
+      1153
+    ]
+  },
+  {
+    "Id": 33,
+    "EventType": 33,
+    "WeaponSkinIndex": [
+      1156,
+      1157,
+      1158,
+      1159
+    ]
+  },
+  {
+    "Id": 34,
+    "EventType": 34,
+    "WeaponSkinIndex": [
+      1165,
+      1166,
+      1167,
+      1168
+    ]
+  },
+  {
+    "Id": 35,
+    "EventType": 35,
+    "WeaponSkinIndex": [
+      1171,
+      1172,
+      1173,
+      1174
+    ]
+  },
+  {
+    "Id": 36,
+    "EventType": 36,
+    "WeaponSkinIndex": [
+      1176,
+      1177,
+      1178,
+      1179
+    ]
+  },
+  {
+    "Id": 37,
+    "EventType": 37,
+    "WeaponSkinIndex": [
+      1182,
+      1183,
+      1184,
+      1185
+    ]
+  },
+  {
+    "Id": 38,
+    "EventType": 38,
+    "WeaponSkinIndex": [
+      1188,
+      1189,
+      1190,
+      1191
+    ]
+  },
+  {
+    "Id": 39,
+    "EventType": 39,
+    "WeaponSkinIndex": [
+      1195,
+      1196,
+      1197,
+      1198
+    ]
+  },
+  {
+    "Id": 40,
+    "EventType": 40,
+    "WeaponSkinIndex": [
+      1203,
+      1204,
+      1205,
+      1206
+    ]
+  },
+  {
+    "Id": 41,
+    "EventType": 41,
+    "WeaponSkinIndex": [
+      1208,
+      1209,
+      1210,
+      1211
+    ]
+  },
+  {
+    "Id": 42,
+    "EventType": 42,
+    "WeaponSkinIndex": [
+      1214,
+      1215,
+      1216,
+      1217
+    ]
+  },
+  {
+    "Id": 43,
+    "EventType": 43,
+    "WeaponSkinIndex": [
+      1222,
+      1223,
+      1224,
+      1225
+    ]
+  },
+  {
+    "Id": 44,
+    "EventType": 44,
+    "WeaponSkinIndex": [
+      1228,
+      1229,
+      1230,
+      1231
+    ]
+  },
+  {
+    "Id": 45,
+    "EventType": 45,
+    "WeaponSkinIndex": [
+      1239,
+      1240,
+      1241,
+      1242
+    ]
+  },
+  {
+    "Id": 46,
+    "EventType": 46,
+    "WeaponSkinIndex": [
+      1245,
+      1246,
+      1247,
+      1248
+    ]
+  },
+  {
+    "Id": 47,
+    "EventType": 47,
+    "WeaponSkinIndex": [
+      1253,
+      1254,
+      1255,
+      1256
+    ]
+  },
+  {
+    "Id": 48,
+    "EventType": 48,
+    "WeaponSkinIndex": [
+      1259,
+      1260,
+      1261,
+      1262
+    ]
+  }
+]
