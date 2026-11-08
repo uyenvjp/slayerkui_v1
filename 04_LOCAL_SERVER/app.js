@@ -1,5 +1,5 @@
 'use strict';
-const TOKEN = '__CSRF_PLACEHOLDER__';
+const TOKEN = document.querySelector('meta[name="local-csrf"]').content;
 const $ = id => document.getElementById(id);
 const set = (id, value) => { $(id).textContent = value; };
 async function jsonRequest(path, method, body) {
