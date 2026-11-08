@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>Slayer Local — ADB Dashboard</title>
+  <link rel="stylesheet" href="/style.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <main class="shell">
+    <header class="top">
+      <div class="brand"><span class="brand-icon">SL</span><div><b>SLAYER / LOCAL</b><small>ADB INSTALLER · SERVER TOOLKIT</small></div></div>
+      <span class="local-tag">● CHỈ CHẠY LOCALHOST</span>
+    </header>
+    <section class="hero">
+      <div>
+        <span class="eyebrow">Slayer Legend 700.0.4 · Developer Toolkit</span>
+        <h1>Điều khiển cài đặt APK<br><em>ngay trên trình duyệt</em></h1>
+        <p>Quản lý thiết bị Android qua ADB, xác minh XAPK gốc rồi cài APK split. Backend local được giữ riêng ở cổng 8000.</p>
+      </div>
+      <div class="summary">
+        <div><small>ADB</small><strong id="adb-state">Đang kiểm tra...</strong></div>
+        <div><small>XAPK gốc</small><strong id="xapk-state">Đang kiểm tra...</strong></div>
+        <div><small>Thiết bị</small><strong id="device-count">0</strong></div>
+      </div>
+    </section>
+    <section class="columns">
+      <div class="stack">
+        <article class="panel">
+          <div class="panel-head"><div><span class="step">01</span><h2>Kết nối Android</h2></div><button class="ghost" id="refresh">Làm mới</button></div>
+          <p>Bật <b>USB debugging</b> trên điện thoại, cắm cáp, rồi chấp nhận thông báo cấp quyền ADB.</p>
+          <label for="device">Thiết bị đã kết nối</label>
+          <select id="device"><option value="">Đang tìm thiết bị...</option></select>
+          <p class="hint" id="adb-message">Đang quét ADB...</p>
+        </article>
+        <article class="panel">
+          <div class="panel-head"><div><span class="step">02</span><h2>Chuẩn bị XAPK</h2></div></div>
+          <p>Chỉ nhận đúng XAPK gốc từ repository, dung lượng 439.306.207 byte. File sẽ được kiểm tra SHA-256 trước khi cài.</p>
+          <div class="source"><b>Slayer Legend · Idle RPG</b><span>700.0.4 / code 705</span><code>b8c19d5fdf4d…d7001d6098</code></div>
+          <label for="xapk-file">Tải file XAPK từ máy</label>
+          <input type="file" id="xapk-file" accept=".xapk,.zip">
+          <div class="actions"><button id="upload" class="secondary">Tải XAPK lên web</button><button id="download" class="secondary">Lấy XAPK từ GitHub LFS</button></div>
+          <div class="progress-wrap"><progress id="progress" max="100" value="0"></progress><span id="progress-label">Chưa tải lên</span></div>
+          <p class="hint">Nếu GitHub LFS giới hạn tải xuống, dùng nút tải file từ máy. Không cần đăng XAPK lên GitHub lần nữa.</p>
+        </article>
+        <article class="panel">
+          <div class="panel-head"><div><span class="step">03</span><h2>Cài đặt qua ADB</h2></div></div>
+          <p>Cài các split APK được xác nhận trong <code>manifest.json</code>. Không tự chạy APK hay tự ý sửa client.</p>
+          <button id="install" class="primary">Cài Slayer Legend vào thiết bị</button>
+          <div class="status-line" id="install-state">Chưa có tác vụ cài đặt.</div>
+          <pre id="install-log" class="console">Log cài đặt sẽ hiển thị ở đây.</pre>
+        </article>
+      </div>
+      <div class="stack">
+        <article class="panel">
+          <div class="panel-head"><div><span class="step">04</span><h2>Kiểm tra đăng nhập local</h2></div></div>
+          <p>Kiểm tra backend JSON test tại <code>127.0.0.1:8000</code>. <b>Không phải đăng nhập APK Unity gốc.</b></p>
+          <form id="login-form">
+            <label for="username">Tên tài khoản thử nghiệm</label>
+            <input id="username" name="username" value="testplayer" autocomplete="username" required minlength="3">
+            <label for="password">Mật khẩu</label>
+            <input id="password" name="password" type="password" placeholder="Mật khẩu thử nghiệm" autocomplete="current-password" required>
+            <button type="submit" class="secondary">Kiểm tra API đăng nhập</button>
+          </form>
+          <p class="hint" id="login-state">Token không được trả về giao diện hay ghi vào log.</p>
+        </article>
+        <article class="panel notice">
+          <h2>Ranh giới tương thích</h2>
+          <p>Client gốc dùng Firebase Guest/Integration JWT, Protobuf và lớp request/response riêng. Backend JSON đang chạy <strong>chưa thay thế</strong> các hệ thống đó.</p>
+          <ul>
+            <li>ADB chỉ cài APK lên điện thoại.</li>
+            <li>Cài đặt thành công không đồng nghĩa đăng nhập game thành công.</li>
+            <li>Không sửa chữ ký APK hoặc bỏ qua xác thực game.</li>
+          </ul>
+          <a target="_blank" rel="noopener noreferrer" href="https://github.com/uyenvjp/slayerkui_v1">Mã nguồn và tài nguyên gốc trên GitHub ↗</a>
+        </article>
+        <article class="panel mini">
+          <h2>Hướng dẫn nhanh</h2>
+          <p><b>1.</b> Cài Android Platform Tools (ADB) và đặt <code>adb.exe</code> trong PATH hoặc <code>tools/platform-tools/</code>.</p>
+          <p><b>2.</b> Chạy <code>START_WINDOWS.bat</code> rồi mở <code>http://127.0.0.1:8765</code>.</p>
+          <p><b>3.</b> Kết nối máy, chọn XAPK đúng bản và nhấn Cài đặt.</p>
+        </article>
+      </div>
+    </section>
+    <footer>LOCAL DEV KIT • Chỉ phục vụ thử nghiệm trên thiết bị có quyền cài đặt • Không triển khai dịch vụ public</footer>
+  </main>
+</body>
+</html>
