@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.db
+*.db-shm
+*.db-wal
+data/*
+!data/.gitkeep
+tools/platform-tools/
+*.tmp
