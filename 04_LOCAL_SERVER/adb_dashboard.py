@@ -320,13 +320,14 @@ class DashboardHandler(BaseHTTPRequestHandler):
             return self.reply(403, {"error": "invalid_host"})
         path = urlsplit(self.path).path
         if path == "/":
-            html = (ROOT / "dashboard.html").read_bytes()
-            return self.send_bytes(200, html, "text/html; charset=utf-8")
+            html = (ROOT / "dashboard.html").read_text("utf-8").replace(
+                "__CSRF_PLACEHOLDER__", CSRF)
+            return self.send_bytes(200, html.encode("utf-8"), "text/html; charset=utf-8")
         if path == "/style.css":
             return self.send_bytes(200, (ROOT / "style.css").read_bytes(),
                                    "text/css; charset=utf-8")
         if path == "/app.js":
-            script = (ROOT / "app.js").read_text("utf-8").replace("__CSRF_PLACEHOLDER__", CSRF)
+            script = (ROOT / "app.js").read_text("utf-8")
             return self.send_bytes(200, script.encode("utf-8"),
                                    "application/javascript; charset=utf-8")
         if path == "/api/status":
